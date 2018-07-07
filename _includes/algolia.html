@@ -30,7 +30,7 @@ const hitTemplate = function(hit) {
 
   return `
     <div class="post-item">
-      <span class="post-meta">${date}</span>
+      <span class="post-meta">Added ${date}</span>
       <h2><a class="post-link" href="${url}">${title}</a></h2>
       {{#breadcrumbs}}<a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>{{/breadcrumbs}}
       <div class="post-snippet">${content}</div>
@@ -42,7 +42,7 @@ const hitTemplate = function(hit) {
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
-    placeholder: 'Search into posts...',
+    placeholder: 'Search legal terms...',
     poweredBy: true
   })
 );
