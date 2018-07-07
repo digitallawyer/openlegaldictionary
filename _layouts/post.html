@@ -15,6 +15,7 @@ layout: default
     {{ content }}
   </div>
   <time class="dt-published post-meta" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        <span>Last updated </span>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
   </time>
