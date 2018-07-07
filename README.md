@@ -1,4 +1,4 @@
-# jekyll-algolia-example
+# In Legal Terms
 
 
 This is an example of how you can integrate the [jekyll-algolia][1] plugin into the default Jekyll theme.
