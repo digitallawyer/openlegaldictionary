@@ -2,9 +2,9 @@
 
 Legal dictionary containing thousands of legal terms and definitions.
 
-##Contributing
+## Contributing
 
-##Building
+## Building
 
 - Clone repository
 - `bundle install`
@@ -24,7 +24,7 @@ ruby -rubygems -e 'require "jekyll-import";
     })'
 ~~~~
 
-##Acknowledgements
+## Acknowledgements
 
 This project makes use of [jekyll-algolia][1], which plugs into the default Jekyll theme. Source data is Black Law's dictionary.
 
