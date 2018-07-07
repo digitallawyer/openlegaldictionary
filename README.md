@@ -2,12 +2,30 @@
 
 Legal dictionary containing thousands of legal terms and definitions.
 
+##Contributing
 
-This is an example of how you can integrate the [jekyll-algolia][1] plugin into the default Jekyll theme.
+##Building
 
-You can [see it live][2] or [follow the tutorial][3].
+- Clone repository
+- `bundle install`
+- `jekyll serve`
 
+To generate:
+
+`jekyll generate`
+
+To import from csv:
+
+~~~~
+
+ruby -rubygems -e 'require "jekyll-import";
+    JekyllImport::Importers::CSV.run({
+      "file" => "sourcefile.csv"
+    })'
+~~~~
+
+##Acknowledgements
+
+This project makes use of [jekyll-algolia][1], which plugs into the default Jekyll theme. Source data is Black Law's dictionary.
 
 [1]: https://community.algolia.com/jekyll-algolia/
-[2]: https://community.algolia.com/jekyll-algolia-example/
-[3]: https://community.algolia.com/jekyll-algolia/blog.html
