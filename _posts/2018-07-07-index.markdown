@@ -1,7 +1,0 @@
----
-layout: post
-title: Index
-date: '2018-07-07T00:00:00+00:00'
-permalink: index
----
-A book contalnlng references, alphabetically arranged, to the contents of a series or collection of volumes; or an addi-tion to a single volume or set of volumes con-taining such references to its contents
