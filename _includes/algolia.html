@@ -30,10 +30,10 @@ const hitTemplate = function(hit) {
 
   return `
     <div class="post-item">
-      <span class="post-meta">Added ${date}</span>
       <h2><a class="post-link" href="${url}">${title}</a></h2>
       {{#breadcrumbs}}<a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>{{/breadcrumbs}}
       <div class="post-snippet">${content}</div>
+      <span class="post-meta">Last updated ${date}</span>
     </div>
   `;
 }
@@ -67,6 +67,7 @@ search.start();
 .post-item {
   margin-bottom: 15px;
   border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
 }
 .post-link .ais-Highlight {
   color: #111;
