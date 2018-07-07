@@ -11,7 +11,7 @@ layout: default
   <div id="search-searchbar"></div>
 
   <div class="post-list" id="search-hits">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 20%}
       <div class="post-item">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">Added {{ post.date | date: date_format }}</span>
