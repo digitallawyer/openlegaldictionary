@@ -1,5 +1,7 @@
 # In Legal Terms
 
+Legal dictionary containing thousands of legal terms and definitions.
+
 
 This is an example of how you can integrate the [jekyll-algolia][1] plugin into the default Jekyll theme.
 
