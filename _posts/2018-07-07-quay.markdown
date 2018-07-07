@@ -1,0 +1,7 @@
+---
+layout: post
+title: Quay
+date: '2018-07-07T00:00:00+00:00'
+permalink: quay
+---
+A wharf for the loading or un-loading of goods carried ln ships. This word ls sometimes spelled “key

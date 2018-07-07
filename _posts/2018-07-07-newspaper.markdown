@@ -1,0 +1,7 @@
+---
+layout: post
+title: Newspaper
+date: '2018-07-07T00:00:00+00:00'
+permalink: newspaper
+---
+According to the usage of the commercial world, a newsimper ls defined to be a publlcation ln numbers, con-slstlng commonly of single sheets, and published at short and stated intervals, conveying intelligence of passing events. 4 op. Attys. Gen. 10. And see Crowell v. Parker, 22 R.’ I. 51, 46 Atl. 35, 84 Am. St. Rep. 81ft; Hanscom v. Meyer, 60 Neb. 68, 82 N. W. 114, 48 L. R. A. 409, 83 Am. St. Rep. 307; W11-llams v. Colwell, 18 Mlsc. Rep. 399, 43 N. Y. Supp. 720; Kellogg v. Carrico, 47 Mo. 157; Kerr v. Hltt, 75 111. 51

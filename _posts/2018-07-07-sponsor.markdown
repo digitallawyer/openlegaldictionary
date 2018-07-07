@@ -1,0 +1,7 @@
+---
+layout: post
+title: Sponsor
+date: '2018-07-07T00:00:00+00:00'
+permalink: sponsor
+---
+A surety; one who makes a promise or gives security for another, partic-ularly a godfather in baptlsm.

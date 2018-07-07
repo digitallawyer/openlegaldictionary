@@ -1,0 +1,7 @@
+---
+layout: post
+title: Leakage
+date: '2018-07-07T00:00:00+00:00'
+permalink: leakage
+---
+The waste or diminution of a liquid caused by its leaking from the cask, barrel, or other vessel in which it was placed

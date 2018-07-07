@@ -1,0 +1,7 @@
+---
+layout: post
+title: Facio Ut Facias
+date: '2018-07-07T00:00:00+00:00'
+permalink: facio-ut-facias
+---
+(Lat I do that you may do.) A specles of contract ln the civil law (being one of the innominate con-tracts) whlch. occurs when I agree wlth a man to do hls work for him lf he wlll do mlne for me; or lf two persons agree to marry together, or to do any other positive acts on both sldes; or lt may be to forbear on one side ln conslderatlon of something done on the other. 2 Bl. Comm. 444

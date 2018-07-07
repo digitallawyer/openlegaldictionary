@@ -1,0 +1,7 @@
+---
+layout: post
+title: Alcabala
+date: '2018-07-07T00:00:00+00:00'
+permalink: alcabala
+---
+In Spanish law. A duty of a certain per cent, paid to the treasury on the sale or exchange of property

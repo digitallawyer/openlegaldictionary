@@ -1,0 +1,7 @@
+---
+layout: post
+title: Echevin
+date: '2018-07-07T00:00:00+00:00'
+permalink: echevin
+---
+In French law. A municipal officer corresponding with alderman or burgess, and having in some Instances a civil Jurisdiction In certain causes of trifling im-portance

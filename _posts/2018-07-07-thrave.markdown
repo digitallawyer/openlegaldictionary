@@ -1,0 +1,7 @@
+---
+layout: post
+title: Thrave
+date: '2018-07-07T00:00:00+00:00'
+permalink: thrave
+---
+In old English law. A measure of corn or grain, consisting of twenty-four sheaves or four shocks, six sheaves to every shock. Cowell

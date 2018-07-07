@@ -1,0 +1,7 @@
+---
+layout: post
+title: Moral
+date: '2018-07-07T00:00:00+00:00'
+permalink: moral
+---
+1. Pertaining or relating to the conscience or moral sense or to the general principles of right conduct

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Almanac
+date: '2018-07-07T00:00:00+00:00'
+permalink: almanac
+---
+A publication, in which is recounted the days of the week, month, and year, both common and particular, distiu-guishing the fasts, feasts, terms, etc., from

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Tierce
+date: '2018-07-07T00:00:00+00:00'
+permalink: tierce
+---
+A liquid measure, containing the third part of a pipe, or forty-two gallons

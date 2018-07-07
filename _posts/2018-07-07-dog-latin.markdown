@@ -1,0 +1,7 @@
+---
+layout: post
+title: Dog-Latin
+date: '2018-07-07T00:00:00+00:00'
+permalink: dog-latin
+---
+The Latin of illiterate persons; Latin words put together on the English grammatical system

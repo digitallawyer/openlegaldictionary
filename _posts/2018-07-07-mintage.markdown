@@ -1,0 +1,7 @@
+---
+layout: post
+title: Mintage
+date: '2018-07-07T00:00:00+00:00'
+permalink: mintage
+---
+The charge or commission taken hy the mint as a consideration for coining Into money the bullion which is brought to it for that purpose; the same as “seigniorage.”

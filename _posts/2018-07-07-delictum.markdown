@@ -1,0 +1,7 @@
+---
+layout: post
+title: Delictum
+date: '2018-07-07T00:00:00+00:00'
+permalink: delictum
+---
+Lat. A delict, tort, wrong, injury, or offense. Actions ex delicto are such as are founded on a tort, as distinguish-ed from actions on contract

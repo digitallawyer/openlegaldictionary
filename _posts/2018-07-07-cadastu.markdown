@@ -1,0 +1,7 @@
+---
+layout: post
+title: Cadastu
+date: '2018-07-07T00:00:00+00:00'
+permalink: cadastu
+---
+In French law. An offldal statement of the quantity and value of realty made for purposes of taxatlon; same as cadastre, (q. r

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Lushborow
+date: '2018-07-07T00:00:00+00:00'
+permalink: lushborow
+---
+In old English law. A base sort of money, coined beyond sea in the likeness of English coin, and introduced Into England in the reign of Edward III. Prohibited by St 25 Edw. III. c. 4. Spelman; Cowell

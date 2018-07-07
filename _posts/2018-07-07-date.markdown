@@ -1,0 +1,7 @@
+---
+layout: post
+title: Date
+date: '2018-07-07T00:00:00+00:00'
+permalink: date
+---
+The specification or mention, ln a written instrument, of the time (day and year) when it was made. Also the time so specified

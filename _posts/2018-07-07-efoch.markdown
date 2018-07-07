@@ -1,0 +1,7 @@
+---
+layout: post
+title: Efoch
+date: '2018-07-07T00:00:00+00:00'
+permalink: efoch
+---
+The time at which a new' computation is begun; the time whence dates are numbered. Enc. Loud

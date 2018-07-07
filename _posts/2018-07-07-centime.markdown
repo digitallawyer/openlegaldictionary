@@ -1,0 +1,7 @@
+---
+layout: post
+title: Centime
+date: '2018-07-07T00:00:00+00:00'
+permalink: centime
+---
+The name of a denomination of Freuch money, being the one-hundredth part of a franc

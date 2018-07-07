@@ -1,0 +1,7 @@
+---
+layout: post
+title: Gabel
+date: '2018-07-07T00:00:00+00:00'
+permalink: gabel
+---
+An excise; a tax on movables; a rent, custom, or service. Co. Litt. 213. —Land gabel. See Land

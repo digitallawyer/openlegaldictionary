@@ -1,0 +1,7 @@
+---
+layout: post
+title: Label
+date: '2018-07-07T00:00:00+00:00'
+permalink: label
+---
+Anything appended to a larger writing, as a codicil; a narrow slip of paper or parchment affixed to a deed or writ, in order to hold the appendlng seal

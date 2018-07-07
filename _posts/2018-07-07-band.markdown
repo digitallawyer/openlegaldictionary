@@ -1,0 +1,7 @@
+---
+layout: post
+title: Band
+date: '2018-07-07T00:00:00+00:00'
+permalink: band
+---
+In old Scotch law. A proclamation calling out a military force

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Luctus
+date: '2018-07-07T00:00:00+00:00'
+permalink: luctus
+---
+In Roman law. Mourning. See Annus Luctus

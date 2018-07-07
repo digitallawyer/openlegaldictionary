@@ -1,0 +1,7 @@
+---
+layout: post
+title: Relator
+date: '2018-07-07T00:00:00+00:00'
+permalink: relator
+---
+The person upon whose complaint, or at whose instance, an information or writ of quo warranto is filed, and who is quasi the plaintiff in the proceeding

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Model
+date: '2018-07-07T00:00:00+00:00'
+permalink: model
+---
+A pattern or representation of something to be made. A fac simile ot some

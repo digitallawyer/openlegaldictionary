@@ -1,0 +1,7 @@
+---
+layout: post
+title: Dais
+date: '2018-07-07T00:00:00+00:00'
+permalink: dais
+---
+S, or DAIS. The raised floor at the upper end of a hall

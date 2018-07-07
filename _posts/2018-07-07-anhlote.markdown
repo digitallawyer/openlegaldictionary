@@ -1,0 +1,7 @@
+---
+layout: post
+title: Anhlote
+date: '2018-07-07T00:00:00+00:00'
+permalink: anhlote
+---
+In old English law. A single tribute or tax, pald according to the custom of the country as scot and lot

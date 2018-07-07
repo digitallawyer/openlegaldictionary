@@ -1,0 +1,7 @@
+---
+layout: post
+title: Election
+date: '2018-07-07T00:00:00+00:00'
+permalink: election
+---
+The act of choosing or selecting one or more from a greater number of persons, things, courses, or rights. The choice of an alternative. State v. Tucker, 54 Ala. 210

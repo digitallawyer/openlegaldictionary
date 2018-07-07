@@ -1,0 +1,7 @@
+---
+layout: post
+title: Medical
+date: '2018-07-07T00:00:00+00:00'
+permalink: medical
+---
+Pertaining, relating, or be-longlng to the study nnd practice of medicine, or the science and art of the investigation, prevention, cure, and alleviation of disease

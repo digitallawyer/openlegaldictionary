@@ -1,0 +1,7 @@
+---
+layout: post
+title: Say About
+date: '2018-07-07T00:00:00+00:00'
+permalink: say-about
+---
+This phrase, like “more or less,” is frequently introduced into con-veyances or contracts of sale, to indlcate that the quantity of the subject-matter ls uncertain, and is only estimated, and to guard the vendor against the implication of having warranted the quantity

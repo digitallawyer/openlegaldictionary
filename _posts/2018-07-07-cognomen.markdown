@@ -1,0 +1,7 @@
+---
+layout: post
+title: Cognomen
+date: '2018-07-07T00:00:00+00:00'
+permalink: cognomen
+---
+In Roman law. A man's family name. The first name (prcrnomcn) was the proper name of the Individual; the second (nomen) indicated the gens or tribe to which he belonged; while the third (cognomen) denoted his family or house

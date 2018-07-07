@@ -1,0 +1,7 @@
+---
+layout: post
+title: Council
+date: '2018-07-07T00:00:00+00:00'
+permalink: council
+---
+An assembly of persons for the purpose of concerting measures of state or municipal policy; hence called "councillors.”

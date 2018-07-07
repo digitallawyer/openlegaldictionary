@@ -1,0 +1,7 @@
+---
+layout: post
+title: Stowage
+date: '2018-07-07T00:00:00+00:00'
+permalink: stowage
+---
+In maritime law. The storing, packlng, or arranging of the cargo in a ship, in such a manner as to protect the gooda from friction, braising, or damage from leakage

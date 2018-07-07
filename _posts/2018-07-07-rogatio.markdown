@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rogatio
+date: '2018-07-07T00:00:00+00:00'
+permalink: rogatio
+---
+Lat In Roman law. An asking for a law; a proposal of a law for adoption or passage. Derivatively, a law passed by such a form

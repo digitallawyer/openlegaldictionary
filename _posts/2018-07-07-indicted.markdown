@@ -1,0 +1,7 @@
+---
+layout: post
+title: Indicted
+date: '2018-07-07T00:00:00+00:00'
+permalink: indicted
+---
+Charged ln an indictment with a criminal offense. See Indictment

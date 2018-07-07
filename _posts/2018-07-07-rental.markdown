@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rental
+date: '2018-07-07T00:00:00+00:00'
+permalink: rental
+---
+(Said to be corrupted from “rent-roll.") In English law. A roll on which the rents of a manor are registered or set down, and by which the lord's bailiff collects the same. It contains the lands and tenements let to each tenant, the names of the tenants, and other particulars. Cunning-ham; Holthouse

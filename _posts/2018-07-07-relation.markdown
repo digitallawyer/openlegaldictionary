@@ -1,0 +1,7 @@
+---
+layout: post
+title: Relation
+date: '2018-07-07T00:00:00+00:00'
+permalink: relation
+---
+1. A relative or kinsman; a person connected by consanguinity or affln-ity

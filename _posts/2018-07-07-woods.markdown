@@ -1,0 +1,7 @@
+---
+layout: post
+title: Woods
+date: '2018-07-07T00:00:00+00:00'
+permalink: woods
+---
+A forest; iand covered with a large and thick collection of natural forest

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Fruit
+date: '2018-07-07T00:00:00+00:00'
+permalink: fruit
+---
+The produce of a tree or plant which contains the seed or is used for food

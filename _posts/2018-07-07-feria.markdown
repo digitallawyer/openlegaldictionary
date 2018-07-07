@@ -1,0 +1,7 @@
+---
+layout: post
+title: Feria
+date: '2018-07-07T00:00:00+00:00'
+permalink: feria
+---
+In old English law. A weekday ; a holiday; a day on which process could not be served; a fair; a ferry. Cowell; Du Cange; Spelman

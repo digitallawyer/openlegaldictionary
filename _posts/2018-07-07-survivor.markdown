@@ -1,0 +1,7 @@
+---
+layout: post
+title: Survivor
+date: '2018-07-07T00:00:00+00:00'
+permalink: survivor
+---
+one who survives another; one who outlives another; one of two or more persons who lives after the death of the other or others

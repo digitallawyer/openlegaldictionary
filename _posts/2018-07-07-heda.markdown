@@ -1,0 +1,7 @@
+---
+layout: post
+title: Heda
+date: '2018-07-07T00:00:00+00:00'
+permalink: heda
+---
+A small haven, wharf, or land-ing place

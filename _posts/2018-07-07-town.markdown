@@ -1,0 +1,7 @@
+---
+layout: post
+title: Town
+date: '2018-07-07T00:00:00+00:00'
+permalink: town
+---
+In English law. originally, a vlll or tithing; but now a generic term, which comprehends under it the several spe-cies of cities, boroughs, and common towns. 1 Bl. Comm. 114

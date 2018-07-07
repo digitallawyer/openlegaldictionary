@@ -1,0 +1,7 @@
+---
+layout: post
+title: Quoad Hoc
+date: '2018-07-07T00:00:00+00:00'
+permalink: quoad-hoc
+---
+Lat. As to this; with respect to this; so far as this in particular ls concerned

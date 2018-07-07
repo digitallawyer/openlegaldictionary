@@ -1,0 +1,7 @@
+---
+layout: post
+title: Mailable
+date: '2018-07-07T00:00:00+00:00'
+permalink: mailable
+---
+Sultable or admisslble for transmission by the mail; belonglng to the classes of articles which, by the laws and postal regulations, may be sent by post

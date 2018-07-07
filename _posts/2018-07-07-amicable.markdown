@@ -1,0 +1,7 @@
+---
+layout: post
+title: Amicable
+date: '2018-07-07T00:00:00+00:00'
+permalink: amicable
+---
+Friendly; mutually for-bearing; agreed or assented to by parties having conflicting Interests or a dispute; as opposed to hostile or adversary

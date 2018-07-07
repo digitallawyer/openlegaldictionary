@@ -1,0 +1,7 @@
+---
+layout: post
+title: Meal-Rent
+date: '2018-07-07T00:00:00+00:00'
+permalink: meal-rent
+---
+A rent formerly pald ln meal

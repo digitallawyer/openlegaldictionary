@@ -1,0 +1,7 @@
+---
+layout: post
+title: Angel
+date: '2018-07-07T00:00:00+00:00'
+permalink: angel
+---
+An ancient English coin, of the value of ten shillings sterling. Jacob

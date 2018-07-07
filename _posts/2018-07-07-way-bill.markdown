@@ -1,0 +1,7 @@
+---
+layout: post
+title: Way-Bill
+date: '2018-07-07T00:00:00+00:00'
+permalink: way-bill
+---
+A writing in which is set down the names of passengers who are car-ried ln a public conveyance, or the description of goods sent with a common carrier by land, wharton

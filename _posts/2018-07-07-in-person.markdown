@@ -1,0 +1,7 @@
+---
+layout: post
+title: In Person
+date: '2018-07-07T00:00:00+00:00'
+permalink: in-person
+---
+A party, plaintiff or defendant, who sues out a writ or other pro-cess, or appears to conduct his case in court himself, instead of through a solicitor or counsel, Is said to act and appear in person

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Badge
+date: '2018-07-07T00:00:00+00:00'
+permalink: badge
+---
+A mark or cognizance worn to show the relation of the wearer to auy per-son or thing; the token of anything; a dls-tinctlve mark of office or service

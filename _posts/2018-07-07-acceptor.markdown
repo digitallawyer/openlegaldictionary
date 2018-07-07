@@ -1,0 +1,7 @@
+---
+layout: post
+title: Acceptor
+date: '2018-07-07T00:00:00+00:00'
+permalink: acceptor
+---
+The person who accepts a blll of exchange, (generally the drawee,) or who engages to be primarily responsible for its payment

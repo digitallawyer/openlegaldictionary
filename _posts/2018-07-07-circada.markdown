@@ -1,0 +1,7 @@
+---
+layout: post
+title: Circada
+date: '2018-07-07T00:00:00+00:00'
+permalink: circada
+---
+A tribute anciently paid to the bishop or archbishop for visiting churches. Du Fresne

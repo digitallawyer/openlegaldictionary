@@ -1,0 +1,7 @@
+---
+layout: post
+title: Pedage
+date: '2018-07-07T00:00:00+00:00'
+permalink: pedage
+---
+In old English law. A toll or tax paid by travelers for the privilege of passing, on foot or mounted, through a forest or other protected place. Spelman

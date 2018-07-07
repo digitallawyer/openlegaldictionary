@@ -1,0 +1,7 @@
+---
+layout: post
+title: Retract
+date: '2018-07-07T00:00:00+00:00'
+permalink: retract
+---
+To take back. To retract an offer is to withdraw it before acceptance, which the offerer may always do

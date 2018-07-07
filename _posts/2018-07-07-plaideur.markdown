@@ -1,0 +1,7 @@
+---
+layout: post
+title: Plaideur
+date: '2018-07-07T00:00:00+00:00'
+permalink: plaideur
+---
+Fr. An obsolete term for an attorney who pleaded the cause of hls client; an advocate

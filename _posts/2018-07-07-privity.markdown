@@ -1,0 +1,7 @@
+---
+layout: post
+title: Privity
+date: '2018-07-07T00:00:00+00:00'
+permalink: privity
+---
+The term “privity” means mutual or successive relationship to the same rights of property. The executor is in prlv-lty with the testator, the heir with the ances

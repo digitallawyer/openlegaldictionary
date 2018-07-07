@@ -1,0 +1,7 @@
+---
+layout: post
+title: Gisement
+date: '2018-07-07T00:00:00+00:00'
+permalink: gisement
+---
+L. Fr. Agistment; cattle taken in to graze at a certain price; also the money received for grazing cattle

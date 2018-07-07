@@ -1,0 +1,7 @@
+---
+layout: post
+title: Amerce
+date: '2018-07-07T00:00:00+00:00'
+permalink: amerce
+---
+To impose an amercement or fine; to punish by a fine or penalty

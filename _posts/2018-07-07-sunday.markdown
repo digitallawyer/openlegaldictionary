@@ -1,0 +1,7 @@
+---
+layout: post
+title: Sunday
+date: '2018-07-07T00:00:00+00:00'
+permalink: sunday
+---
+The first day of the week Is designated by this name; also as the “Lord’s Day,” and as the “Sabbath.”

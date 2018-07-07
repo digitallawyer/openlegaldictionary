@@ -1,0 +1,7 @@
+---
+layout: post
+title: Warp
+date: '2018-07-07T00:00:00+00:00'
+permalink: warp
+---
+A rope attached to some fixed point, used for moving a ship. Pub. St Mass. 1882, p. 1297

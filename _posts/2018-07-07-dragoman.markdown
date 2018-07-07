@@ -1,0 +1,7 @@
+---
+layout: post
+title: Dragoman
+date: '2018-07-07T00:00:00+00:00'
+permalink: dragoman
+---
+An interpreter employed ln the east, and particularly at the Turkish court

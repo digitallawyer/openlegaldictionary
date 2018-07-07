@@ -1,0 +1,7 @@
+---
+layout: post
+title: Insured
+date: '2018-07-07T00:00:00+00:00'
+permalink: insured
+---
+The person who obtains insurance on his property, or upon whose life an insurance is effected

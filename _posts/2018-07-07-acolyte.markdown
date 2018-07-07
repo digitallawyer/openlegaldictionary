@@ -1,0 +1,7 @@
+---
+layout: post
+title: Acolyte
+date: '2018-07-07T00:00:00+00:00'
+permalink: acolyte
+---
+An inferior mlnistrant or servant ln the ceremonies of the church, whose duties are to follow and wait upon the priests and deacons, etc

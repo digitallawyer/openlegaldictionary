@@ -1,0 +1,7 @@
+---
+layout: post
+title: Robe
+date: '2018-07-07T00:00:00+00:00'
+permalink: robe
+---
+Fr. A word anciently used by sailors for the cargo of a ship. The Italian “roba" had the same meaning

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Post-Mark
+date: '2018-07-07T00:00:00+00:00'
+permalink: post-mark
+---
+A stamp or mark put on letters received at the post-office for transmission through the mails

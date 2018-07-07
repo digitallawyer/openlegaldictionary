@@ -1,0 +1,7 @@
+---
+layout: post
+title: In Primis
+date: '2018-07-07T00:00:00+00:00'
+permalink: in-primis
+---
+In the first place. A phrase used ln argument

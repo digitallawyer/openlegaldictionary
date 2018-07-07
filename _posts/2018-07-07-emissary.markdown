@@ -1,0 +1,7 @@
+---
+layout: post
+title: Emissary
+date: '2018-07-07T00:00:00+00:00'
+permalink: emissary
+---
+A person sent upon a mis-slon as the agent of another; also a secret-agent sent to ascertain the sentiments and designs of others, and to propagate opinions favorable to his employer

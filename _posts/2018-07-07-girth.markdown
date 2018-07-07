@@ -1,0 +1,7 @@
+---
+layout: post
+title: Girth
+date: '2018-07-07T00:00:00+00:00'
+permalink: girth
+---
+In Saxon aud old English law. A measure of length, equal to one yard, de-iived from the girth or circumference of a man's body

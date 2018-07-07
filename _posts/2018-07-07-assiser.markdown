@@ -1,0 +1,7 @@
+---
+layout: post
+title: Assiser
+date: '2018-07-07T00:00:00+00:00'
+permalink: assiser
+---
+An assessor; juror; an oflicer who has the care and oversight of weights and measures

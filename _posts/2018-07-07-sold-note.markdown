@@ -1,0 +1,7 @@
+---
+layout: post
+title: Sold Note
+date: '2018-07-07T00:00:00+00:00'
+permalink: sold-note
+---
+A note glven by a broker, who has effected a sale of merchandise, to the buyer, stating the fact of sale, quantity, prlce, etc. Story, Ag. | 28; Saladin v. Mlt-cheli, 45 IU. 83

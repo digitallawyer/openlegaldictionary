@@ -1,0 +1,7 @@
+---
+layout: post
+title: Census
+date: '2018-07-07T00:00:00+00:00'
+permalink: census
+---
+The official counting or enu-meration of the people of a state or nation

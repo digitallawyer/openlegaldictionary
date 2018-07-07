@@ -1,0 +1,7 @@
+---
+layout: post
+title: Arsenals
+date: '2018-07-07T00:00:00+00:00'
+permalink: arsenals
+---
+Store-houses for arms; dock-yards, magazines, and other military stores

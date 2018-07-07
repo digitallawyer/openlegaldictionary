@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ex Facie
+date: '2018-07-07T00:00:00+00:00'
+permalink: ex-facie
+---
+From the face; apparently; evidently. A term applied to what appears on the face of a writing

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Survey
+date: '2018-07-07T00:00:00+00:00'
+permalink: survey
+---
+The process by which a parcel of land is measured and its contents ascer-tained; also a statement of the result of such survey, with the courses and distances and the quantity of the land

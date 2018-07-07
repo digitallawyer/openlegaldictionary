@@ -1,0 +1,7 @@
+---
+layout: post
+title: Post-Date
+date: '2018-07-07T00:00:00+00:00'
+permalink: post-date
+---
+To date an instrument as of a time later than that at which it is really made

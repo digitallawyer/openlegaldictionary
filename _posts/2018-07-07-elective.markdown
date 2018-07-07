@@ -1,0 +1,7 @@
+---
+layout: post
+title: Elective
+date: '2018-07-07T00:00:00+00:00'
+permalink: elective
+---
+Dependent upon choice; bestowed or passing by election. Also per-taining or relating to elections; conferring the right or power to vote at elections

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Gremio
+date: '2018-07-07T00:00:00+00:00'
+permalink: gremio
+---
+In Spanish law. A guild; an association of workmen, artificers, or mer-chants following the same trade or business; designed to protect and further the interests of their craft

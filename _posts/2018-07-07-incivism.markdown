@@ -1,0 +1,7 @@
+---
+layout: post
+title: Incivism
+date: '2018-07-07T00:00:00+00:00'
+permalink: incivism
+---
+Unfriendliness to the state or government of which one ls a citizen

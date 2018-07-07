@@ -1,0 +1,7 @@
+---
+layout: post
+title: Priest
+date: '2018-07-07T00:00:00+00:00'
+permalink: priest
+---
+A minister of a church. A per-son ln the second order of the ministry, as distinguished from bishops and deacons

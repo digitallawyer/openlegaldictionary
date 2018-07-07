@@ -1,0 +1,7 @@
+---
+layout: post
+title: Primer
+date: '2018-07-07T00:00:00+00:00'
+permalink: primer
+---
+A law French word, signify-ing first; primary

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Gloss
+date: '2018-07-07T00:00:00+00:00'
+permalink: gloss
+---
+An lnterpretation, consisting of one or more words, interlinear or marginal; an annotation, explanation, or comment on any passage in the text of a work, for pur-poses of elucidation or amplification. Par-ticularly applled to the comments on the Corpus Juris

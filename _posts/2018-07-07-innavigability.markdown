@@ -1,0 +1,7 @@
+---
+layout: post
+title: Innavigability
+date: '2018-07-07T00:00:00+00:00'
+permalink: innavigability
+---
+ln Insurance law. The condition of being innavigable, (q. v.) The foreign writers distinguish “innaviga-bility” from “shipwreck.” 3 Kent, Comm. 323, and note. The term is also applied to the condition of streams which are not large enough or deep enough, or are otherwise un-suited, for navigation

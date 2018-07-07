@@ -1,0 +1,7 @@
+---
+layout: post
+title: Parvise
+date: '2018-07-07T00:00:00+00:00'
+permalink: parvise
+---
+An afternoon’s exercise or moot for the instruction of young students, bearing the same name originally with the PariMce (little-go) of oxford, wharton

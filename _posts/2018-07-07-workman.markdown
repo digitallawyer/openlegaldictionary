@@ -1,0 +1,7 @@
+---
+layout: post
+title: Workman
+date: '2018-07-07T00:00:00+00:00'
+permalink: workman
+---
+one who labors; one who is employed to do business for another

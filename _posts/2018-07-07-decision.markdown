@@ -1,0 +1,7 @@
+---
+layout: post
+title: Decision
+date: '2018-07-07T00:00:00+00:00'
+permalink: decision
+---
+In practice. A judgment or decree pronounced by a court in settlement of a controversy submitted to it and

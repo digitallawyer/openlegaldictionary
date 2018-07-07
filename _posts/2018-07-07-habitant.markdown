@@ -1,0 +1,7 @@
+---
+layout: post
+title: Habitant
+date: '2018-07-07T00:00:00+00:00'
+permalink: habitant
+---
+Fr. In French and Ca-nadian law. A resident tenant; a settler; a tenant who kept hearth and home on the selgniory

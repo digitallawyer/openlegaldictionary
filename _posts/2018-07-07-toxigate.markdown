@@ -1,0 +1,7 @@
+---
+layout: post
+title: Toxigate
+date: '2018-07-07T00:00:00+00:00'
+permalink: toxigate
+---
+To poison. Not used to de-hcribe the act of one who administers a poison, but the action of the drug or poison itself

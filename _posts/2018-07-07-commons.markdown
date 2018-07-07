@@ -1,0 +1,7 @@
+---
+layout: post
+title: Commons
+date: '2018-07-07T00:00:00+00:00'
+permalink: commons
+---
+1. The class of subjects in Great Britain exclusive of the royal family and the nobility. They are represented in parliament by the house of commons

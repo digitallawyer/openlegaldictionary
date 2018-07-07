@@ -1,0 +1,7 @@
+---
+layout: post
+title: Tick
+date: '2018-07-07T00:00:00+00:00'
+permalink: tick
+---
+A colloquial expression for credit or trust; credit given for goods purchased

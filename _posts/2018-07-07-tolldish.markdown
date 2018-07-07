@@ -1,0 +1,7 @@
+---
+layout: post
+title: Tolldish
+date: '2018-07-07T00:00:00+00:00'
+permalink: tolldish
+---
+A vessel by whlch the toll of corn for grinding is measured

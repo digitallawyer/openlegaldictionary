@@ -1,0 +1,7 @@
+---
+layout: post
+title: Destitute
+date: '2018-07-07T00:00:00+00:00'
+permalink: destitute
+---
+A “destitute person” is one who has no money or other property avail-; able for his maintenance' or support Nor-rldgewock v. Solon, 49 Me. 385; woods v. Perkins, 43 La. Ann. 347, 9 South. 48

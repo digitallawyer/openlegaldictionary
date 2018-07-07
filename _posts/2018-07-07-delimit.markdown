@@ -1,0 +1,7 @@
+---
+layout: post
+title: Delimit
+date: '2018-07-07T00:00:00+00:00'
+permalink: delimit
+---
+To mark or lay out the limits or boundary line of a territory or country

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Proctor
+date: '2018-07-07T00:00:00+00:00'
+permalink: proctor
+---
+A procurator, proxy, or attorney. More particularly, an officer of the admiralty and ecclesiastical courts whose duties and business correspond exactly to tbose of an attorney at law or solicitor in chancery

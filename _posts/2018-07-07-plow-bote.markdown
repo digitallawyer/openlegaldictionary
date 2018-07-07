@@ -1,0 +1,7 @@
+---
+layout: post
+title: Plow-Bote
+date: '2018-07-07T00:00:00+00:00'
+permalink: plow-bote
+---
+An allowance of wood whlch tenants are entltled to, for repairing their plows and other implements of bus-bandry

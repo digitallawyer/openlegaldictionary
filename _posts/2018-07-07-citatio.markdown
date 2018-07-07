@@ -1,0 +1,7 @@
+---
+layout: post
+title: Citatio
+date: '2018-07-07T00:00:00+00:00'
+permalink: citatio
+---
+Lat A citation or summons to court

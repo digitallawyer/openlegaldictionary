@@ -1,0 +1,7 @@
+---
+layout: post
+title: Hospital
+date: '2018-07-07T00:00:00+00:00'
+permalink: hospital
+---
+An institution for the re-ception and care of sick, wounded, infirm, or aged persons; generally incorporated, and then of the class of corporations called “elee-mosynary” or “charitable." See In re Curtiss (Sur.) 7 N. Y. Supp. 207

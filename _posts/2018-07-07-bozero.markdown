@@ -1,0 +1,7 @@
+---
+layout: post
+title: Bozero
+date: '2018-07-07T00:00:00+00:00'
+permalink: bozero
+---
+In Spanish law. An advo-cate; one who pleads the causes of others, or his own, before courts of justice, either as plaintiff or defendant

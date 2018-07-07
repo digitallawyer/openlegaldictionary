@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rack-Rent
+date: '2018-07-07T00:00:00+00:00'
+permalink: rack-rent
+---
+A rent of the full value of the tenement, or near It. 2 Bl. Comm. 43

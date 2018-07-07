@@ -1,0 +1,7 @@
+---
+layout: post
+title: Bracinum
+date: '2018-07-07T00:00:00+00:00'
+permalink: bracinum
+---
+A brewing; the whole quantity of ale brewed at one time, for which tolsestor w as paid in some manors. Brecina, a brew-house

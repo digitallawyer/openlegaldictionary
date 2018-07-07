@@ -1,0 +1,7 @@
+---
+layout: post
+title: Normal
+date: '2018-07-07T00:00:00+00:00'
+permalink: normal
+---
+opposed to exceptional; that state wherein any body most exactly corn-ports in all its parts with the abstract idea thereof, and is most exactly fitted to perform its proper functions, is entitled “nor-mal.”

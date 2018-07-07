@@ -1,0 +1,7 @@
+---
+layout: post
+title: Main
+date: '2018-07-07T00:00:00+00:00'
+permalink: main
+---
+Prlncipal, chlef, most Important in size, extent, or utility

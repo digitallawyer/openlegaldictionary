@@ -1,0 +1,7 @@
+---
+layout: post
+title: Captio
+date: '2018-07-07T00:00:00+00:00'
+permalink: captio
+---
+In old English law and practice. A taking or seizure; arrest; receiving; holding of court

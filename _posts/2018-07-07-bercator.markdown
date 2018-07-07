@@ -1,0 +1,7 @@
+---
+layout: post
+title: Bercator
+date: '2018-07-07T00:00:00+00:00'
+permalink: bercator
+---
+S, or BERCATOR. A shep

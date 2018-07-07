@@ -1,0 +1,7 @@
+---
+layout: post
+title: Antedate
+date: '2018-07-07T00:00:00+00:00'
+permalink: antedate
+---
+To date an instrument as of a time before the time it was written

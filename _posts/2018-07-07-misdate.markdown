@@ -1,0 +1,7 @@
+---
+layout: post
+title: Misdate
+date: '2018-07-07T00:00:00+00:00'
+permalink: misdate
+---
+A false or erroneous date affixed to a paper or document

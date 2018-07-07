@@ -1,0 +1,7 @@
+---
+layout: post
+title: Horn-Book
+date: '2018-07-07T00:00:00+00:00'
+permalink: horn-book
+---
+A primer; a book ex-plaining the rudiments of any science or branch of knowledge. The phrase “horn-book law" ls a colloquial designation of the rudiments or most familiar principles of law

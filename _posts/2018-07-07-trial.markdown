@@ -1,0 +1,7 @@
+---
+layout: post
+title: Trial
+date: '2018-07-07T00:00:00+00:00'
+permalink: trial
+---
+The examination before a com-petent tribunal, according to the law of the land, of the facts or law put in issue in a cause, for the purpose of determining such issue

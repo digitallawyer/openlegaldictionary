@@ -1,0 +1,7 @@
+---
+layout: post
+title: Museum
+date: '2018-07-07T00:00:00+00:00'
+permalink: museum
+---
+A building or institution for the cultivation of science or the exhibition of curiosities or works of art

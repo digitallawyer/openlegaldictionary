@@ -1,0 +1,7 @@
+---
+layout: post
+title: Formulas
+date: '2018-07-07T00:00:00+00:00'
+permalink: formulas
+---
+In Roman law. when the legis actiones were proved to be inconven

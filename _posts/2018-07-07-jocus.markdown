@@ -1,0 +1,7 @@
+---
+layout: post
+title: Jocus
+date: '2018-07-07T00:00:00+00:00'
+permalink: jocus
+---
+In old English law. A game of hazard. Reg. orig. 290

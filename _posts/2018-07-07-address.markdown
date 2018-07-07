@@ -1,0 +1,7 @@
+---
+layout: post
+title: Address
+date: '2018-07-07T00:00:00+00:00'
+permalink: address
+---
+That part of a bill ln equity wherein Is given the appropriate and technical description of the court in which the bill is filed

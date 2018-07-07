@@ -1,0 +1,7 @@
+---
+layout: post
+title: Girante
+date: '2018-07-07T00:00:00+00:00'
+permalink: girante
+---
+An Italian word, which sig-nifles the drawer of a bill. It is derived from “girare,” to draw

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Fanal
+date: '2018-07-07T00:00:00+00:00'
+permalink: fanal
+---
+Fr. In French marine law. A large lantern, fixed npon the highest part of a vessel’s stem

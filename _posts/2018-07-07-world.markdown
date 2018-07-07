@@ -1,0 +1,7 @@
+---
+layout: post
+title: World
+date: '2018-07-07T00:00:00+00:00'
+permalink: world
+---
+Thls term sometlmes denotes all persons whatsoever who may have, claim, or acquire an Interest in the subject-matter; as ln saying that a judgment in rem binds "all the world.”

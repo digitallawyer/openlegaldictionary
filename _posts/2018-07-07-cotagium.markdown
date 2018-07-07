@@ -1,0 +1,7 @@
+---
+layout: post
+title: Cotagium
+date: '2018-07-07T00:00:00+00:00'
+permalink: cotagium
+---
+In old English law. A cottage

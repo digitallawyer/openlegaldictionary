@@ -1,0 +1,7 @@
+---
+layout: post
+title: Mirror
+date: '2018-07-07T00:00:00+00:00'
+permalink: mirror
+---
+The Mirror of Justice, or of the Justices, commonly spoken of as the “Mirror,” is an ancient treatlse on the laws of England, written during the reign of Ed-ward II., and attributed to one Andrew Horne

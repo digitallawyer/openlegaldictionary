@@ -1,0 +1,7 @@
+---
+layout: post
+title: Notes
+date: '2018-07-07T00:00:00+00:00'
+permalink: notes
+---
+In practice. Memoranda made by a judge on a trial, as to the evidence adduced, and the points reserved, etc. A copy of the judge’s notes may be obtained from his clerk

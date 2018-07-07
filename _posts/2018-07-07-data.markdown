@@ -1,0 +1,7 @@
+---
+layout: post
+title: Data
+date: '2018-07-07T00:00:00+00:00'
+permalink: data
+---
+In old practice and conveyancing. The date of a deed; the time when it was given; that Is, executed

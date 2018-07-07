@@ -1,0 +1,7 @@
+---
+layout: post
+title: Lienor
+date: '2018-07-07T00:00:00+00:00'
+permalink: lienor
+---
+The person having or owning -a lien; one who has a right of lien upon property of another

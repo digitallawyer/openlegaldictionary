@@ -1,0 +1,7 @@
+---
+layout: post
+title: Animal
+date: '2018-07-07T00:00:00+00:00'
+permalink: animal
+---
+Any animate belng which is endowed with the power of voluntary motion. In the language of the law the term includes all living creatures not human

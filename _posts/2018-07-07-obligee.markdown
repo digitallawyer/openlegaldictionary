@@ -1,0 +1,7 @@
+---
+layout: post
+title: Obligee
+date: '2018-07-07T00:00:00+00:00'
+permalink: obligee
+---
+The person in favor of whom some obligation ls contracted, whether such obligation be to pay money or to do or not to do something. Code La. art. 3522, no. 11. The party to whom a bond ls given

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Day-Book
+date: '2018-07-07T00:00:00+00:00'
+permalink: day-book
+---
+A tradesman's account book; a book in which all the occurrences of the day are set down. It is usually a book of original entries

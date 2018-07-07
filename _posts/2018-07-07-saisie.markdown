@@ -1,0 +1,7 @@
+---
+layout: post
+title: Saisie
+date: '2018-07-07T00:00:00+00:00'
+permalink: saisie
+---
+Fr. In French law. A judicial seizure or sequestration of property, of which there are several varieties. See infra

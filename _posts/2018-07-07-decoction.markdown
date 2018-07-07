@@ -1,0 +1,7 @@
+---
+layout: post
+title: Decoction
+date: '2018-07-07T00:00:00+00:00'
+permalink: decoction
+---
+The act of boiling a sub-stance in water, for extracting its virtues. Also the liquor in which a substance has been boiled; water impregnated with the prlnci-ples of any animal or vegetable substance boiled in it webster; Sykes v. Magone (C. O.) 38 Fed. 497

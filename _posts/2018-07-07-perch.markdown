@@ -1,0 +1,7 @@
+---
+layout: post
+title: Perch
+date: '2018-07-07T00:00:00+00:00'
+permalink: perch
+---
+A measure of land containing five yards and a half, or sixteen feet and a half ln length; otherwise called a “rod” or “pole.” CowelL

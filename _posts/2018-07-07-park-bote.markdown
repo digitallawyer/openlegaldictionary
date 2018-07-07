@@ -1,0 +1,7 @@
+---
+layout: post
+title: Park-Bote
+date: '2018-07-07T00:00:00+00:00'
+permalink: park-bote
+---
+To be quit of inclosing a park or any part thereof

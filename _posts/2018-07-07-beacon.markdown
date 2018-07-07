@@ -1,0 +1,7 @@
+---
+layout: post
+title: Beacon
+date: '2018-07-07T00:00:00+00:00'
+permalink: beacon
+---
+A light-house, or sea-mark, formerly used to alarm the country, in case of the approach of an enemy, but now used for tlie guidance of ships at sea, by night, as well as hy day

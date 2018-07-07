@@ -1,0 +1,7 @@
+---
+layout: post
+title: Regime
+date: '2018-07-07T00:00:00+00:00'
+permalink: regime
+---
+In French lnw. A system of rules or regulations

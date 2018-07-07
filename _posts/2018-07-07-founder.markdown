@@ -1,0 +1,7 @@
+---
+layout: post
+title: Founder
+date: '2018-07-07T00:00:00+00:00'
+permalink: founder
+---
+The person who endows an eleemosynary corporation or institution, or supplies the funds for Its establishment. See Foundation

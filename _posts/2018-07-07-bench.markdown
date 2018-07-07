@@ -1,0 +1,7 @@
+---
+layout: post
+title: Bench
+date: '2018-07-07T00:00:00+00:00'
+permalink: bench
+---
+A seat of judgment or tribunal for tbe administration of justice; the seat occupied by judges in courts; also the court itself, as the “King’s Bench,” or the aggregate of the judges composing a court, as in the phrase “before the full bench.”

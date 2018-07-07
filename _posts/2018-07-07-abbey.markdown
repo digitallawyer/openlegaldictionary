@@ -1,0 +1,7 @@
+---
+layout: post
+title: Abbey
+date: '2018-07-07T00:00:00+00:00'
+permalink: abbey
+---
+A society of religious persons, bavlng an abbot or abbess to preside over them

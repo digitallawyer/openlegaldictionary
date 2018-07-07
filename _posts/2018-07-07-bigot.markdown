@@ -1,0 +1,7 @@
+---
+layout: post
+title: Bigot
+date: '2018-07-07T00:00:00+00:00'
+permalink: bigot
+---
+An obstinate person, or one that is wedded to an opinion, in matters of re-llgion, etc

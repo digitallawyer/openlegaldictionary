@@ -1,0 +1,7 @@
+---
+layout: post
+title: Eriagh
+date: '2018-07-07T00:00:00+00:00'
+permalink: eriagh
+---
+A term of the Irish Brehon law, denoting a pecuniary mulct or recompense which a murderer was judicially con-demned to pay to the family or relatives of his victim, lt corresponded to the Saxon “weregild.” See 4 Bl. Comm. 313

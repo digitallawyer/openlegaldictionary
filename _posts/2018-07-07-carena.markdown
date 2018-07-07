@@ -1,0 +1,7 @@
+---
+layout: post
+title: Carena
+date: '2018-07-07T00:00:00+00:00'
+permalink: carena
+---
+A term nsed in the old ecclesiastical law to denote a period of forty days

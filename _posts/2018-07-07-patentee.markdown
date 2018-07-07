@@ -1,0 +1,7 @@
+---
+layout: post
+title: Patentee
+date: '2018-07-07T00:00:00+00:00'
+permalink: patentee
+---
+He to whom a patent has been granted. The term is usually applied to one who has obtained letters patent for a hew invention

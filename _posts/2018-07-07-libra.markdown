@@ -1,0 +1,7 @@
+---
+layout: post
+title: Libra
+date: '2018-07-07T00:00:00+00:00'
+permalink: libra
+---
+In old English law. A pound; also a sum of money equal to a pound ster-ling

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Tellworc
+date: '2018-07-07T00:00:00+00:00'
+permalink: tellworc
+---
+That labor wbich a ten-ant was bound to do for his lord for a certain number of days

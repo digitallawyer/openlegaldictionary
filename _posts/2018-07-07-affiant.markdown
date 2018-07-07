@@ -1,0 +1,7 @@
+---
+layout: post
+title: Affiant
+date: '2018-07-07T00:00:00+00:00'
+permalink: affiant
+---
+The person who makes and subscribes hn affidavit. The word ls used, in this sense, interchangeably with “deponent" But the latter term should be reserved as the designation of one who makes a deposition

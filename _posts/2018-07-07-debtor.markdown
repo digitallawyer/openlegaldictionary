@@ -1,0 +1,7 @@
+---
+layout: post
+title: Debtor
+date: '2018-07-07T00:00:00+00:00'
+permalink: debtor
+---
+one who owes a debt; be who may be compelled to pay a claim or de-mand

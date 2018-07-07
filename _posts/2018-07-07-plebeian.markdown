@@ -1,0 +1,7 @@
+---
+layout: post
+title: Plebeian
+date: '2018-07-07T00:00:00+00:00'
+permalink: plebeian
+---
+One who is classed among the common people, as distinguished from the nobles

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Wealth
+date: '2018-07-07T00:00:00+00:00'
+permalink: wealth
+---
+All material objects, capable of satisfying human wants, desires, or tastes, having a value in exchange, and upon which human labor has been expended; i. e., which have, by such labor, been either reclaimed from nature, extracted or gathered from the earth or sea, manufactured from raw materials, improved, adapted, or cultivated

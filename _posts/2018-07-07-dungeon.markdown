@@ -1,0 +1,7 @@
+---
+layout: post
+title: Dungeon
+date: '2018-07-07T00:00:00+00:00'
+permalink: dungeon
+---
+Such an under-ground pris-on or cell as was formerly placed in the strongest part of a fortress; a dark or sub-terraneous prison

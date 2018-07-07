@@ -1,0 +1,7 @@
+---
+layout: post
+title: Abridge
+date: '2018-07-07T00:00:00+00:00'
+permalink: abridge
+---
+To reduce or contract; usu-ally spoken of written language

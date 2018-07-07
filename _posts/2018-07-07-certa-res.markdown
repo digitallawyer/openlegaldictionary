@@ -1,0 +1,7 @@
+---
+layout: post
+title: Certa Res
+date: '2018-07-07T00:00:00+00:00'
+permalink: certa-res
+---
+In old English law. A certain thing. Fleta, lib. 2, c. 60, if 24, 25

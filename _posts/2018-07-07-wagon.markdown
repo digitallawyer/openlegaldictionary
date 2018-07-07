@@ -1,0 +1,7 @@
+---
+layout: post
+title: Wagon
+date: '2018-07-07T00:00:00+00:00'
+permalink: wagon
+---
+A common vehicle for the transportation of goods, wares, and merchan-dlse of all descriptions. The term does not include a hackney-coach. Quigley v. Gorham, 5 Cat 418, 63 Am. Dec. 139

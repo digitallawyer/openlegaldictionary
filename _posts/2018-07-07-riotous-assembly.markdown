@@ -1,0 +1,7 @@
+---
+layout: post
+title: Riotous Assembly
+date: '2018-07-07T00:00:00+00:00'
+permalink: riotous-assembly
+---
+In English criminal law. The unlawful assembling of twelve persons or more, to the disturbance of the peace, and not dispersing upon procla-mation. 4 Bl. Comm. 142; 4 Steph. Comm. 273. And see Madisonville v. Bishop, 113 Ky. 106, 67 S. W. 269, 57 L. R. A. 130

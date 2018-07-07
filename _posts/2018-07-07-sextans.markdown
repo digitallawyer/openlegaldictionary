@@ -1,0 +1,7 @@
+---
+layout: post
+title: Sextans
+date: '2018-07-07T00:00:00+00:00'
+permalink: sextans
+---
+Lat. In Roman law. A sub-division of the as, containing two uneiae

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Fyle
+date: '2018-07-07T00:00:00+00:00'
+permalink: fyle
+---
+In old Scotch law. To defile; to declare foul or defiled. Hence, to find a prisoner guilty

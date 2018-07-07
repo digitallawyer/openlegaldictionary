@@ -1,0 +1,7 @@
+---
+layout: post
+title: Debtee
+date: '2018-07-07T00:00:00+00:00'
+permalink: debtee
+---
+A person to whom a debt is due; a creditor. 3 Bl. Comm. 18; Plowd. 543. Not used

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Allege
+date: '2018-07-07T00:00:00+00:00'
+permalink: allege
+---
+To state, recite, assert, or charge; to make an allegation

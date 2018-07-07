@@ -1,0 +1,7 @@
+---
+layout: post
+title: Listed
+date: '2018-07-07T00:00:00+00:00'
+permalink: listed
+---
+Included ln a list; put on a list, particularly on a list of taxable persons or property

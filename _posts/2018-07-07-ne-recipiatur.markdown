@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ne Recipiatur
+date: '2018-07-07T00:00:00+00:00'
+permalink: ne-recipiatur
+---
+Lat. That lt be not received. A caveat or warning given to a law ofiicer, by a party in a cause, not to receive the next proceedings of his opponent. 1 Sell. Pr. 8

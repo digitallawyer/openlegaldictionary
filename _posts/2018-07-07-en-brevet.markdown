@@ -1,0 +1,7 @@
+---
+layout: post
+title: En Brevet
+date: '2018-07-07T00:00:00+00:00'
+permalink: en-brevet
+---
+In French-law. An acte is said to be en brevet when a copy of it has not been recorded by tbe notary who drew lt

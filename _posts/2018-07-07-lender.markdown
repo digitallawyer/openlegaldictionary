@@ -1,0 +1,7 @@
+---
+layout: post
+title: Lender
+date: '2018-07-07T00:00:00+00:00'
+permalink: lender
+---
+He from whom a thing is bor-rowed. The bailor of an article loaned

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Bandit
+date: '2018-07-07T00:00:00+00:00'
+permalink: bandit
+---
+An outlaw; a man banned, or put under a ban; a brigand or robber. Banditti, a band of robbers

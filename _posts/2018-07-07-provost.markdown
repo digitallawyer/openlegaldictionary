@@ -1,0 +1,7 @@
+---
+layout: post
+title: Provost
+date: '2018-07-07T00:00:00+00:00'
+permalink: provost
+---
+The principal magistrate of a royal burgh in Scotland; also a governing oflicer of a university or college

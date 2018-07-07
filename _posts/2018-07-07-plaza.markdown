@@ -1,0 +1,7 @@
+---
+layout: post
+title: Plaza
+date: '2018-07-07T00:00:00+00:00'
+permalink: plaza
+---
+A Spanish word, meaning a ' public square in a city or town. Sachs v. Towanda, 79 IU. App. 441

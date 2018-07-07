@@ -1,0 +1,7 @@
+---
+layout: post
+title: Comte
+date: '2018-07-07T00:00:00+00:00'
+permalink: comte
+---
+Fr. A count or earl. In the ancient French law, the comte was an officer having jurisdiction over a particular district or territory, with functions partly military and partly judicial

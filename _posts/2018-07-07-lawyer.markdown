@@ -1,0 +1,7 @@
+---
+layout: post
+title: Lawyer
+date: '2018-07-07T00:00:00+00:00'
+permalink: lawyer
+---
+A person learned iu the law; as an attorney, couusel, or solicltor

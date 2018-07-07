@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ad Vitam
+date: '2018-07-07T00:00:00+00:00'
+permalink: ad-vitam
+---
+For life. Bract, fol. 13b. In feodo, vel ad vitam; in fee, or for life. Id

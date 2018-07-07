@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ignore
+date: '2018-07-07T00:00:00+00:00'
+permalink: ignore
+---
+1. To be ignorant of, or un-acquainted with

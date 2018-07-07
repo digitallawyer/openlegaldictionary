@@ -1,0 +1,7 @@
+---
+layout: post
+title: Await
+date: '2018-07-07T00:00:00+00:00'
+permalink: await
+---
+A term used ln old statutes, signifying a lying ln walt, or waylaying

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Yeoman
+date: '2018-07-07T00:00:00+00:00'
+permalink: yeoman
+---
+In Engllsh law. A comrapn-er; a freeholder under the rauk of gentle

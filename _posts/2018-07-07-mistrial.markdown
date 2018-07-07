@@ -1,0 +1,7 @@
+---
+layout: post
+title: Mistrial
+date: '2018-07-07T00:00:00+00:00'
+permalink: mistrial
+---
+An erroneous, invalid, or nugatory trial; a trial of an action wbicb cannot stand in law because of want of juris-diction, or a wrong drawing of jurors, or dis-regard of some other fundamental requisite

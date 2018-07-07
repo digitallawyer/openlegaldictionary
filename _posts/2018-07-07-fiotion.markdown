@@ -1,0 +1,7 @@
+---
+layout: post
+title: Fiotion
+date: '2018-07-07T00:00:00+00:00'
+permalink: fiotion
+---
+An assumptlon or supposition of law that something which is or may be false is true, or that a state of facts exists

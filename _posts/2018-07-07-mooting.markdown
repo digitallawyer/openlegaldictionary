@@ -1,0 +1,7 @@
+---
+layout: post
+title: Mooting
+date: '2018-07-07T00:00:00+00:00'
+permalink: mooting
+---
+The exercise of arguing questions of law or equity, raised for the purpose. See Moot

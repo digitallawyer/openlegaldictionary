@@ -1,0 +1,7 @@
+---
+layout: post
+title: Missives
+date: '2018-07-07T00:00:00+00:00'
+permalink: missives
+---
+In Scotch law. writings passed between parties as evidence of a transaction. Bell

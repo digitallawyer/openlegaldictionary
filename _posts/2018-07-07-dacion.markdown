@@ -1,0 +1,7 @@
+---
+layout: post
+title: Dacion
+date: '2018-07-07T00:00:00+00:00'
+permalink: dacion
+---
+In Spanlsh law. The real and effective delivery of an object in the execu-tion of a contract

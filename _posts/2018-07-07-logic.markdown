@@ -1,0 +1,7 @@
+---
+layout: post
+title: Logic
+date: '2018-07-07T00:00:00+00:00'
+permalink: logic
+---
+The science of reasoning, or of the operations of the understanding wbich are subservient to the estimation of evidence. The term includes both tlie process Itself of proceeding from known truths to unknown, and all other lntellectual operations, In so far as auxiliary to this

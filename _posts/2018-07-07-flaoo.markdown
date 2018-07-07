@@ -1,0 +1,7 @@
+---
+layout: post
+title: Flaoo
+date: '2018-07-07T00:00:00+00:00'
+permalink: flaoo
+---
+A place covered with standing water

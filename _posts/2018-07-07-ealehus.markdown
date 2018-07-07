@@ -1,0 +1,7 @@
+---
+layout: post
+title: Ealehus
+date: '2018-07-07T00:00:00+00:00'
+permalink: ealehus
+---
+(Fr. eale, Sax., ale, and bus, house.) An ale-house

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Not Guilty By Statute
+date: '2018-07-07T00:00:00+00:00'
+permalink: not-guilty-by-statute
+---
+In English practice. A plea of the general issue by a defendant in a civil' action, when he intends to give special matter ln evidence by virtue of some act or acts of parliament, in which case he must add the reference to such act or acts, and state whether such acts are public or otherwise. But, lf a defendant so plead, he will not be allowed to plead any other defense, without the leave of the court or a judge. Mozley & whltley

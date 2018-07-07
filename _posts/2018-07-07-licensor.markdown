@@ -1,0 +1,7 @@
+---
+layout: post
+title: Licensor
+date: '2018-07-07T00:00:00+00:00'
+permalink: licensor
+---
+The person who gives or grants a license

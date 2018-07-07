@@ -1,0 +1,7 @@
+---
+layout: post
+title: Paga
+date: '2018-07-07T00:00:00+00:00'
+permalink: paga
+---
+In Spanish law. Payment Las Partidas, pt. 5, tlt. 14, 1. 1. Pagamcnto, satisfaction

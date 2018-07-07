@@ -1,0 +1,7 @@
+---
+layout: post
+title: Furtive
+date: '2018-07-07T00:00:00+00:00'
+permalink: furtive
+---
+In old English law. Stealth-lly; by stealth. Fleta, lib. 1, c. 38, § 3

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Drawee
+date: '2018-07-07T00:00:00+00:00'
+permalink: drawee
+---
+A person to whom a bill of exchange is addressed, and who is request* ed to pay the amount of mouey therein mentioned

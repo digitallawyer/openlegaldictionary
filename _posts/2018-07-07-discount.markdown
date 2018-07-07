@@ -1,0 +1,7 @@
+---
+layout: post
+title: Discount
+date: '2018-07-07T00:00:00+00:00'
+permalink: discount
+---
+In a general sense, an ai-lowance or deduction made from a gross sum on any account whatever. In a more limited and technical sense, the taklng of interest ln advance

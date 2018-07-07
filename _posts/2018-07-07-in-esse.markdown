@@ -1,0 +1,7 @@
+---
+layout: post
+title: In Esse
+date: '2018-07-07T00:00:00+00:00'
+permalink: in-esse
+---
+In being. Actually existing. Distinguished from in posse, which means "that which ls not, but may be.” A child before birth is in posse; after birth, in esse

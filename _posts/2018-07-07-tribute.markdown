@@ -1,0 +1,7 @@
+---
+layout: post
+title: Tribute
+date: '2018-07-07T00:00:00+00:00'
+permalink: tribute
+---
+A contribution which Is rais* ed by a prince or sovereign from his subjects to sustain the expenses of the state

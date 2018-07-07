@@ -1,0 +1,7 @@
+---
+layout: post
+title: Litigant
+date: '2018-07-07T00:00:00+00:00'
+permalink: litigant
+---
+A party to a lawsuit; one engaged in litigation; usually spoken of active parties, not of nominal ones

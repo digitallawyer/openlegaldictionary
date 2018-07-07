@@ -1,0 +1,7 @@
+---
+layout: post
+title: Monger
+date: '2018-07-07T00:00:00+00:00'
+permalink: monger
+---
+A dealer or seller. It is seldom or never used alone, or otherwise than after the name of any commodity, to express a seller of such commodity

@@ -1,0 +1,7 @@
+---
+layout: post
+title: Error
+date: '2018-07-07T00:00:00+00:00'
+permalink: error
+---
+A mistaken judgment or incorrect belief as to the existence or effect of matters of fact, or a false or mistaken concep-tion or application of the law

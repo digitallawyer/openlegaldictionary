@@ -1,0 +1,7 @@
+---
+layout: post
+title: Cista
+date: '2018-07-07T00:00:00+00:00'
+permalink: cista
+---
+A box orchest for the deposit of charters, deeds, and things of value

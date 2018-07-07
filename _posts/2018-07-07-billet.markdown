@@ -1,0 +1,7 @@
+---
+layout: post
+title: Billet
+date: '2018-07-07T00:00:00+00:00'
+permalink: billet
+---
+A soldier's quarters in a civilian’s house; or the ticket which authorizes hini to occupy them

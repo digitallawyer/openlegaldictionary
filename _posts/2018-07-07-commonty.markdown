@@ -1,0 +1,7 @@
+---
+layout: post
+title: Commonty
+date: '2018-07-07T00:00:00+00:00'
+permalink: commonty
+---
+In Scotch law. Land possessed in common by different proprietors, or by those having acquired rights of servitude. Belt

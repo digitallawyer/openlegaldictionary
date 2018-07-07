@@ -1,0 +1,7 @@
+---
+layout: post
+title: Interpolate
+date: '2018-07-07T00:00:00+00:00'
+permalink: interpolate
+---
+To insert words in a
