@@ -17,7 +17,7 @@ title: In Legal Terms
 email: info@inlegalterms.com
 description: >- # this means to ignore newlines until "baseurl:"
   Legal dictionary containing thousands of legal terms and definitions.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.inlegalterms.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: inlegalterms
 github_username:  digitallawyer
