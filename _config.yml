@@ -22,6 +22,9 @@ url: "https://www.inlegalterms.com" # the base hostname & protocol for your site
 twitter_username: inlegalterms
 github_username:  digitallawyer
 
+# Google Analytics
+google_analytics: UA-121997989-1
+
 # Build settings
 markdown: kramdown
 theme: minima
