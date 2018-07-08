@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: In Legal Terms
-email: info@inlegalterms.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Legal dictionary containing thousands of legal terms and definitions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.inlegalterms.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: inlegalterms
-github_username:  digitallawyer
+github_username:  
 
 # Google Analytics
 google_analytics: UA-121997989-1
@@ -47,6 +47,12 @@ algolia:
       - title
       - content
       - html
+  # Exclude more files from indexing
+  files_to_exclude:
+    - index.html
+    - index.md
+    - about.html
+    - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
