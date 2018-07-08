@@ -41,6 +41,7 @@ algolia:
     attributesToHighlight:
       - title
       - content
+      - html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
