@@ -22,6 +22,7 @@ Pull requests are always welcome. To keep things clean, please create a feature 
 - Clone repository
 - `bundle install`
 - `jekyll serve`
+- `ALGOLIA_API_KEY='admin-key' jekyll algolia`
 
 To generate:
 
