@@ -1,4 +1,4 @@
-# In Legal Terms
+# Open Legal Dictionary
 
 Legal dictionary containing thousands of legal terms and definitions.
 
@@ -6,7 +6,7 @@ Legal dictionary containing thousands of legal terms and definitions.
 
 ### Contributing definitions
 
-inlegalterms.com is an open database of legal definitions. Contributions are welcomed and will be shared with the community at large. To contribute to the legal definitions on inlegalterms.com:
+openlegaldictionary.com is an open database of legal definitions. Contributions are welcomed and will be shared with the community at large. To contribute to the legal definitions on openlegaldictionary.com:
 
 - make a copy of definitions.csv
 - make any changes or corrections you'd like
