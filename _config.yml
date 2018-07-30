@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: In Legal Terms
+title: Open Legal Dictionary
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Legal dictionary containing thousands of legal terms and definitions.
+  An Open Legal Dictionary containing thousands of legal terms and definitions.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.inlegalterms.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: inlegalterms
+url: "https://www.openlegaldictionary.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: openlegaldictionary
 github_username:  
 
 # Google Analytics
