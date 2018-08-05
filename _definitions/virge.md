@@ -2,9 +2,9 @@
 title: Virge
 permalink: "/definitions/virge.html"
 body: or VIRGE. In English law*. The compass of the royai court, which bounds the
-  jurisdiction of the lord steward of the household; lt seems to have been twelve
+  jurisdiction of the lord steward of the household; it seems to have been twelve
   miles about Britt. 68. A quantity of iand from fifteen to thirty acres. 28 Edw.
-  I. Al-8o a stick, or roti, whereby one ls admitted tenant to a copyhold estate,
+  I. Al-8o a stick, or roti, whereby one is admitted tenant to a copyhold estate,
   old Nat Brev. 17
 published_at: '2018-07-07'
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: Unsound Mind
 permalink: "/definitions/unsound-mind.html"
-body: A person of unsound mind is an adult who from infirmity of mind ls incapable
+body: A person of unsound mind is an adult who from infirmity of mind is incapable
   of managing himself or his af-falrs. The term, therefore, Includes Insane persons,
   Idiots, and imbeciles. Street. See Insanity. And see Cheney v. Price. 90 Hun, 238,
   37 N. Y. Supp. 117; In re Black’s Estate, 1 Myr. Prob. (Cal.) 24; In re Mason, 3

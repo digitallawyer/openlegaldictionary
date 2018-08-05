@@ -8,7 +8,7 @@ body: In the popular sense, this terin denotes the contracting of a marriage rel
   clans or families. But, in law, it is sometimes used (and with propriety) to emphasize
   the mutuality of the marriage contract and us importing a reciprocal engagement
   by which each of the parties “marries'* the other. Thus, in a pleading, Instead
-  of averring that “the plaintiff was married to the defendant,” lt would be proper
+  of averring that “the plaintiff was married to the defendant,” it would be proper
   to al-* lege that “the partles intermarried" at such
 published_at: '2018-07-07'
 layout: post

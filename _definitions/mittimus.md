@@ -1,7 +1,7 @@
 ---
 title: Mittimus
 permalink: "/definitions/mittimus.html"
-body: In English law. A writ used ln sending a record or its tenor from one court
+body: In English law. A writ used in sending a record or its tenor from one court
   to another. Thus, where a nul tiei record is pleaded in one court to the record
   of another court of equal or superior jurisdic-tion, the tenor of the record is
   brought into chancery by a certiorari, (q. v.,) and thence sent by mittimus into

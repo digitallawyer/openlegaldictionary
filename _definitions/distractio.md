@@ -1,7 +1,7 @@
 ---
 title: Distractio
 permalink: "/definitions/distractio.html"
-body: Lat In the civil law. A separation or division Into parts; also an alienation
+body: Lat in the civil law. A separation or division Into parts; also an alienation
   or sale. Sometimes applled to the act of a guardian In appropriating the prop-erty
   of his ward
 published_at: '2018-07-07'

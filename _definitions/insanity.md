@@ -4,10 +4,10 @@ permalink: "/definitions/insanity.html"
 body: Unsoundness of mind; mad-nees; mental alienation or derangement; a morbid psychic
   condition resulting from dis-order of the brain, w'hether arising from mal-formatloh
   or defective organization or mor-hid processes affecting the brain primarily or
-  diseased states of the general system impii-cating lt secondarily, which involves
+  diseased states of the general system impii-cating it secondarily, which involves
   the intellect, the emotions, the will, and the moral sense, or some of these faculties,
   and which is characterized especially by their non-devel-opment, derangement, or
-  perversion, and ls manifested, in most forms, by delusions, in-capacity to reason
+  perversion, and is manifested, in most forms, by delusions, in-capacity to reason
   or to judge, or by uncon-. trollable impulses. In law, such a want of reason, memory,
   and Intelligence as prevents a man from comprehending the nature and consequences
   of hls acts or from distinguish-lng between right and wrong conduct. From both the

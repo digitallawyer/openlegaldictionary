@@ -1,7 +1,7 @@
 ---
 title: Strike
 permalink: "/definitions/strike.html"
-body: The act of a body of workmen employed by the same master, ln stopping work all
+body: The act of a body of workmen employed by the same master, in stopping work all
   together at a prearranged time, and refusing to continue untii higher wages, or
   shorter time, or some other concession is grauted to them by the employer. See Farm-ers’
   L. & T. Co. v. Northern Pac. R. Co. (C. C.) 60 Fed. 819; Arthur v. oakes, 63 Fed.

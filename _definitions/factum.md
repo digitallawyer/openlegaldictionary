@@ -1,7 +1,7 @@
 ---
 title: Factum
 permalink: "/definitions/factum.html"
-body: Lat In old English law
+body: Lat in old English law
 published_at: '2018-07-07'
 layout: post
 ---

@@ -2,7 +2,7 @@
 title: Mutual
 permalink: "/definitions/mutual.html"
 body: Interchangeable; reciprocal; each acting in return or correspondence to the
-  other; given and received; spoken of an engagement or relation ln which like duties
+  other; given and received; spoken of an engagement or relation in which like duties
   aud obligations are exchanged
 published_at: '2018-07-07'
 layout: post

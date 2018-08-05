@@ -4,7 +4,7 @@ permalink: "/definitions/remedy.html"
 body: 'Remedy is the means by which the violation of a right is prevented, redressed,
   or compensated. Remedies are of four kinds: (1) By act of tbe party injured, the
   principal of which are defense, recaption, distress, entry, abatement, and seizure;
-  (2) by operation of law, as ln the case of retalner and remitter; (3) by agreement
+  (2) by operation of law, as in the case of retalner and remitter; (3) by agreement
   between the parties, e. g., by accord and satisfaction and arbitration; and (4)
   by judicial remedy, e. g., action or suit Sweet See Knapp ▼. McCaffrey, 177 U. S.
   638, 20 Sup. CL 824, 44 L. Ed. 921; Missionary Soc. v. Ely, 56 ohio St 405, 47 N.

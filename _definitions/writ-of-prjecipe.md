@@ -1,7 +1,7 @@
 ---
 title: Writ Of Prjecipe
 permalink: "/definitions/writ-of-prjecipe.html"
-body: This writ ls also called a “writ of covenant,” and ls sued out by the party
+body: This writ is also called a “writ of covenant,” and is sued out by the party
   to whom lands are to be con-veyed by flne, the foundation of which is a supposed
   agreement or covenant that the one shall convey the land to the other. 2 Bl. Comm.
   349

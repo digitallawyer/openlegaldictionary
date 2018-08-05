@@ -1,7 +1,7 @@
 ---
 title: Guarantee
 permalink: "/definitions/guarantee.html"
-body: He to whom a guaran-ty is made. This word ls also used, as a noun, to denote
+body: He to whom a guaran-ty is made. This word is also used, as a noun, to denote
   the contract of guaranty or the obligation of a guarantor, and, as a verb, to denote
   the action of assuming the responsibilities of a guarantor. But on the general principle
   of legal orthography,—that the title of the person to whom the actlon passes over

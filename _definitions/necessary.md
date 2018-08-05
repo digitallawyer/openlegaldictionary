@@ -1,7 +1,7 @@
 ---
 title: Necessary
 permalink: "/definitions/necessary.html"
-body: As used ln jurisprudence^ the word "necessary" does not always import an absolute
+body: As used in jurisprudence^ the word "necessary" does not always import an absolute
   physical necessity, so strong that one thing, to wbich another may be termed "necessary,"
   cannot exist without that other. It frequently imports no more than that one thing
   is convenient or useful or esseutial to another. To employ the means necessary to

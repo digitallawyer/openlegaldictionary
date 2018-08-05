@@ -6,7 +6,7 @@ body: In English ecclesiastical law. The title of a person admitted to a rectory
   he publicly read in the church of the benefice, upon some Lord's day, and at the
   appointed times, the morning and evening service, according to the book of common
   prayer; and afterwards, publicly before the congregation, declare his assent to
-  such book; and also publicly read the thirty-nine artlcles in the same church, ln
+  such book; and also publicly read the thirty-nine artlcles in the same church, in
   the time of common prayer, with declaration of his as-sent thereto; and moreover,
   within three months after his ndmlssion, read upon some Lord's day in the same church,
   in the presence of the congregation, in the time of divine service, a declaration

@@ -3,7 +3,7 @@ title: Conspiracy
 permalink: "/definitions/conspiracy.html"
 body: In criminal law. A combination or confederacy between two or more persons formed
   for the purpose of com-mitting, by their joint efforts, some unlaw-ful or criminal
-  act, or some act which ls ln-noceut in Itself, but becomes unlawful when done by
+  act, or some act which is ln-noceut in Itself, but becomes unlawful when done by
   the concerted action of the conspira-tors, or for the purpose of using criminal
   or unlawful means to the commission of an act not in itself unlawful. Pettibone
   v. U. S., 148 U. S. 197, 13 Sup. Ct 542, 37 L. Ed. 419; State v. Slutz, 106 La.

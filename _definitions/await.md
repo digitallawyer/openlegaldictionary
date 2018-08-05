@@ -1,7 +1,7 @@
 ---
 title: Await
 permalink: "/definitions/await.html"
-body: A term used ln old statutes, signifying a lying ln walt, or waylaying
+body: A term used in old statutes, signifying a lying in walt, or waylaying
 published_at: '2018-07-07'
 layout: post
 ---

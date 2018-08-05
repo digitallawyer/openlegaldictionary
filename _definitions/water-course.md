@@ -2,7 +2,7 @@
 title: Water-Course
 permalink: "/definitions/water-course.html"
 body: A natural stream of water fed from permanent or periodical nat-ural sources
-  and usually flowlng ln a particular direction in a defined channel, hav-ing a bed
+  and usually flowlng in a particular direction in a defined channel, hav-ing a bed
   and hanks or sides, and usually discharging itself Into some other stream or body
   of water. Los Angeles v. Pomeroy, 124 Cal. 597, 57 Pac. 587; Chamberlain v. Hem-lngway,
   63 Conn. 1, 27 Atl. 239, 38 Am. SL Rep. 330; Ribordy v. Murray, 177 IU. 134, 52

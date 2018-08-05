@@ -1,7 +1,7 @@
 ---
 title: Ab Intestato
 permalink: "/definitions/ab-intestato.html"
-body: Lat In the civil law. From an intestate; from the intestate; in case of intestacy.
+body: Lat in the civil law. From an intestate; from the intestate; in case of intestacy.
   II or edit as ab intcstato, an inheritance derived from an intestate. Inst. 2, 9,
   6. Succcssio ab intestato, succession to an intestate, or in case of Intestacy.
   Id. 3, 2, 3; Dig. 38, 6, L This answers to the descent or inheritance of real estate

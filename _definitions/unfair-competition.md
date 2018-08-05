@@ -2,7 +2,7 @@
 title: Unfair Competition
 permalink: "/definitions/unfair-competition.html"
 body: A term which may be applied generally to all dls-honest or fraudulent rivalry
-  in trade and commerce, but Is particularly applied in the courts of equity (where
+  in trade and commerce, but is particularly applied in the courts of equity (where
   it may be restrained by injunction) to the practice of endeavoring to substitute
   one's own goods or products in the markets for those of another, having an established
   refutation and extensive sale, hy means of imitating or counterfeiting the name,

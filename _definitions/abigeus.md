@@ -5,7 +5,7 @@ body: Lat (Pl., abigei, or more rarely abigeatores.) In the civil law. ' A steal
   of cattle; one who drove or drew nway (subtraxit) cattle from their pastures, as
   horses or oxen from the herds, nnd mnde booty of them, nnd who followed this ns
   a business or trade. The term wns npplled also to those who drove nwny the smaller
-  animnls, ns swine, sheep, and gonts. ln the lntter cnse, it depended on the number
+  animnls, ns swine, sheep, and gonts. in the lntter cnse, it depended on the number
   taken, whether the offender was fur (n com-mon thief) or abigeus. But the taking
   of a single horse or ox seems to hnve constituted the crime of abigeatus. And those
   who fre-quentiy Tlid this were clearly abigei, though they took but nn nnlmni or

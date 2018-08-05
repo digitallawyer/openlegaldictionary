@@ -1,7 +1,7 @@
 ---
 title: Inter Alia
 permalink: "/definitions/inter-alia.html"
-body: Among other things. A term anciently used ln pleading, especially in recitlng
+body: Among other things. A term anciently used in pleading, especially in recitlng
   statutes, where the whole statute was not set forth at length. Inter alia enactatum
   fuit, among other things it was enacted. See Plowd. 65
 published_at: '2018-07-07'

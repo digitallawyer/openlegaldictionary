@@ -1,7 +1,7 @@
 ---
 title: Inter C.Steros
 permalink: "/definitions/inter-csteros.html"
-body: Among others; ln a general clause; not by name, (nominatimj
+body: Among others; in a general clause; not by name, (nominatimj
 published_at: '2018-07-07'
 layout: post
 ---

@@ -4,7 +4,7 @@ permalink: "/definitions/franchise.html"
 body: A apecial privilege conferred by government npon an individual or corporation,
   and which does not belong to the citizens of the country generally, of common right.
   It is essential to the character of a franchise that it should be a grant from the
-  sovereign authority, and ln this country no franchise can be held which ls not derived
+  sovereign authority, and in this country no franchise can be held which is not derived
   from a law of the state. In England, a franchise is defined to be a royal privilege
   in the hands of a subject. In this country, it is a privilege of a public nature,
   which cannot be exercised without a legislative graut. See Bank of Augusta v. Earle,

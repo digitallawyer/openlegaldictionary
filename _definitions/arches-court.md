@@ -9,7 +9,7 @@ body: In English ecclesiastical law. A court of appeal belonging to the Archbish
   com-monly called “Doctors’ Commons.” It is now held in Westminster Hall Its proper
   Jurls-dictlon is only over the thirteen peculiar parishes belonging to the archbishop
   iu London, but, the office of Dean of the Arches having been for a long time united
-  with that of the archbishop’s priucip'ol official, the Judge of the Arches, ln right
+  with that of the archbishop’s priucip'ol official, the Judge of the Arches, in right
   of such added office, it receives and determiues appeals from the sentences of all
   inferior ecclesiastical courts within the province. 3 Bl. Coium. 64
 published_at: '2018-07-07'

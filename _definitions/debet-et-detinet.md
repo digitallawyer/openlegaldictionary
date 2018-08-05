@@ -6,7 +6,7 @@ body: He owes and de-tains. words anciently used in the original writ, (aud now,
   by one of the original contract-ing parties who personally gave the credit, against
   the other who personally incurred the debt, or against his heirs, if they were bound
   to the payment; as hy the obligee against the obligor, by the landlord agninst the
-  tenant, etc. The declaration, ln such cases, states that the defendant “owes to,”
+  tenant, etc. The declaration, in such cases, states that the defendant “owes to,”
   as well as “detains from,” the plaintiff the debt or thing iu question; and hence
   the action is said to be “in the debef et detinct." where the declaration merely
   states that the defendant detains the debt, (as in actions by and against an executor

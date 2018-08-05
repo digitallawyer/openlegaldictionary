@@ -1,8 +1,8 @@
 ---
 title: Facilities
 permalink: "/definitions/facilities.html"
-body: This name was formerly glven to certain notes of some of the banks ln the state
-  of Connecticut, which were made payable ln two years after the close of the war
+body: This name was formerly glven to certain notes of some of the banks in the state
+  of Connecticut, which were made payable in two years after the close of the war
   of 1812. Sprlngfleld Bank v. Merrick, 14 Mass. 322
 published_at: '2018-07-07'
 layout: post

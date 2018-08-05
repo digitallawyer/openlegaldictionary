@@ -1,9 +1,9 @@
 ---
 title: De Facto
 permalink: "/definitions/de-facto.html"
-body: In fact, ln deed, actunlly. This phrase is used to characterize au officer,
+body: In fact, in deed, actunlly. This phrase is used to characterize au officer,
   a government, a past action, or a state of af-fairs which exists actually and must
-  be ac-cepted for all practical purposes, but which ls illegal or Illegitimate. In
+  be ac-cepted for all practical purposes, but which is illegal or Illegitimate. In
   this sense it is the contrary of de jure, which means rightful, legitimate, just,
   or constitutional. Thus, an officer, king, or government de facto is one who is
   in actual possession of the ofiice or supreme power, but by usurpation, or without

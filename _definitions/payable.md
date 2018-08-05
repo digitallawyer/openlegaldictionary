@@ -1,7 +1,7 @@
 ---
 title: Payable
 permalink: "/definitions/payable.html"
-body: A sum of money is said to be payable when a person Is under an obliga-tion to
+body: A sum of money is said to be payable when a person is under an obliga-tion to
   pay it. “Payable" may therefore slg-nlfy an obligation to pay at a future time,
   bat, wben used without qualification, “pay-able” means that the debt is payable
   at once, as opposed to “owing.” Sweet And see First Nat. Bank v. Greenville Nat

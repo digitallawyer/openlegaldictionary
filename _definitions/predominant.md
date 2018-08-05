@@ -1,7 +1,7 @@
 ---
 title: Predominant
 permalink: "/definitions/predominant.html"
-body: This term, ln its natural and ordinary signification, is under-stood to be something
+body: This term, in its natural and ordinary signification, is under-stood to be something
   greater or superior in power aud influence to others, with which it is connected
   or compared. So understood, a “predominant motive," when several motives may have
   operated, is one of greater force and effect, in producing the given re-sult, than

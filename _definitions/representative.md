@@ -2,9 +2,9 @@
 title: Representative
 permalink: "/definitions/representative.html"
 body: Representation le the act of one person representing or stand* ing in the place
-  of another; and he who so represents or stands in the place of another ls termed
-  his “representative.” Thus, an heir ls the representative of the ancestor, aud an
-  executor is the representative of the testator, the heir standing ln the place of
+  of another; and he who so represents or stands in the place of another is termed
+  his “representative.” Thus, an heir is the representative of the ancestor, aud an
+  executor is the representative of the testator, the heir standing in the place of
   his deceased ancestor with respect to his realty, the executor standing in the place
   of his de* ceased testator with respect to hls personal-ty; and hence the heir is
   frequently denom-lnated the “real" representative, and the executor the “personal”

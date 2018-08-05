@@ -2,7 +2,7 @@
 title: Descent
 permalink: "/definitions/descent.html"
 body: Heredltary succession. Succession to the ownership of an estate by inheritance,
-  or by any act of law, as distinguished from “purchase.” Tltle by descent ls the
+  or by any act of law, as distinguished from “purchase.” Tltle by descent is the
   title by whlch one person, upon the death of another, acquires the real estate of
   the latter as his heir at law. 2 Bl. Comm. 201; Com. Dig. “Descent,” A; Adams v.
   Akerlund, 168 111. 632, 48 N. E. 454; Starr v. Hamilton, 22 Fed. Cas. 1,107; In

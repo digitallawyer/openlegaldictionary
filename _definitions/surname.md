@@ -2,7 +2,7 @@
 title: Surname
 permalink: "/definitions/surname.html"
 body: The family name; the name over and above the Chrlstlan name. The part of a name
-  which ls not given in baptism; the last name; the name common to all members of
+  which is not given in baptism; the last name; the name common to all members of
   a family
 published_at: '2018-07-07'
 layout: post

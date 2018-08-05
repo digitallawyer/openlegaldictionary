@@ -5,7 +5,7 @@ body: To fabricate, construct, or pre-pare one thing iu imitation of another thi
   with the intention of substituting tbe false for the genuine, or otherwise deceiving
   and defraudiug by the use of the spurious article. To counterfeit or make falsely.
   Especially, to make a spurious written instrument with the intention of fraudulently
-  substituting lt for another, or of passing it off as genuine; or to fraudulently
+  substituting it for another, or of passing it off as genuine; or to fraudulently
   alter a genuine instrument to another's prejudice; or to sign another person’s name
   to a document, with a deceit-ful and frauduleut intent. See In re Cross (D. C.)
   43 Fed. 520; U. S. v. watkins, 28 Fed. Cas. 445; Johnson v. State, 9 Tex. App. 251;

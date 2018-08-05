@@ -1,7 +1,7 @@
 ---
 title: Comitia
 permalink: "/definitions/comitia.html"
-body: In Roman law. An assembly, either (1) of the Roman curlse, ln which case it
+body: In Roman law. An assembly, either (1) of the Roman curlse, in which case it
   was called the "eomitia curiata vel calata;” or (2) of the Roman centuries, In which
   case it was called the "eomitia centuriata;” or (3) of the Roman tribes, in which
   case it was called the "eomitia tribute." only patricians were members of the first

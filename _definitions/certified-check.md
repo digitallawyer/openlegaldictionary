@@ -1,7 +1,7 @@
 ---
 title: Certified Check
 permalink: "/definitions/certified-check.html"
-body: In the practice of bankers. This ls a depositor’s check rec-ognlzed and accepted
+body: In the practice of bankers. This is a depositor’s check rec-ognlzed and accepted
   by the proper officer of the bank as a valid appropriation of the amount specified
   to the payee named, and as drawn against funds of such depositor held by the bank.
   The usual method of certiflca-tion is for the cashier or teller to write across

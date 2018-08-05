@@ -1,8 +1,8 @@
 ---
 title: Policy
 permalink: "/definitions/policy.html"
-body: The general prlnclples by •which a government Is guided in Its management of
-  publlc affairs, or the legislature ln Its measures
+body: The general prlnclples by •which a government is guided in Its management of
+  publlc affairs, or the legislature in Its measures
 published_at: '2018-07-07'
 layout: post
 ---

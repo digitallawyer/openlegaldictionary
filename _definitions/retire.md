@@ -1,7 +1,7 @@
 ---
 title: Retire
 permalink: "/definitions/retire.html"
-body: 'RE. As applied to bills of exchange,-this word ls ambiguous.. It is commonly
+body: 'RE. As applied to bills of exchange,-this word is ambiguous.. It is commonly
   used of an indorser who takes up a bill by handing the amount to a transferee,’
   after which the indorser holds the instrument with* all bis remedies intact. But
   it is sometimes used of an: acceptor, by whom, when a Mil is taken up''or retired

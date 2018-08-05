@@ -2,7 +2,7 @@
 title: Satisfaction
 permalink: "/definitions/satisfaction.html"
 body: The act of satisfying a party by paylng what is due to him, (as on a mortgage,
-  lien, or contract,) or what Is awarded to him, by the judgment of a conrt or otherwise.
+  lien, or contract,) or what is awarded to him, by the judgment of a conrt or otherwise.
   Thus, a judgment is satisfied by the payment of the amount due to the party who
   has recovered such Judgment, or by hls levying the amount. See Miller ▼. Beck, 108
   Iowa, 575, 79 N. W. 344; Rivers v. Blom, 163 Mo. 442, 63 S. W. 812; Mazyck v. Coll,

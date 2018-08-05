@@ -2,7 +2,7 @@
 title: Interest
 permalink: "/definitions/interest.html"
 body: In property. The most general term that can be employed to denote a property
-  ln lands or chattels. In lts appli-catlon to lands or thlngs real, it ls frequently
+  in lands or chattels. In lts appli-catlon to lands or thlngs real, it is frequently
   used in connection with the terms “estate,” “right," and “title,” and, according
   to Lord Coke, it properly includes them all. Co. Litt 845b. See Ragsdale v. Mays,
   65 Tex. 257; Hurst v. Hurst, 7 W. Va. 297; New York ▼. Stone, 20 wend. (N. Y.) 142;

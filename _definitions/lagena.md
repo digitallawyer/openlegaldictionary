@@ -1,7 +1,7 @@
 ---
 title: Lagena
 permalink: "/definitions/lagena.html"
-body: L. Lat In old English law. A measure of ale. Fleta, lib. 2, c. 11. Said to consist
+body: L. Lat in old English law. A measure of ale. Fleta, lib. 2, c. 11. Said to consist
   of six sextarles. Cowell
 published_at: '2018-07-07'
 layout: post

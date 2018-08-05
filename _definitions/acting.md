@@ -1,12 +1,12 @@
 ---
 title: Acting
 permalink: "/definitions/acting.html"
-body: A term employed to designate a locum tenens who ls performing the duties of
+body: A term employed to designate a locum tenens who is performing the duties of
   an office to which he does not himself claim title; e. g., “Acting Supervising Archl-tect.”
-  Fraser v. United States, 16 Ct Cl. 514. An acting executor ls one who assumes to
+  Fraser v. United States, 16 Ct Cl. 514. An acting executor is one who assumes to
   act as executor for a decedent, not being the executor legally appointed or the
   executor in fact Morse v. Allen, 99 Mich. 303, 58 N. W. 327. An acting trustee is
-  one who takes upon himself to perform some or all of the trusts mentloned ln a wlll.
+  one who takes upon himself to perform some or all of the trusts mentloned in a wlll.
   Sharp v. Sharp, 2 Barn. A Aid. 415
 published_at: '2018-07-07'
 layout: post

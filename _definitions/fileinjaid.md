@@ -1,7 +1,7 @@
 ---
 title: Fileinjaid
 permalink: "/definitions/fileinjaid.html"
-body: Brit. A name given to villeins ln the laws of Hoel Ddn. Barring, obs. St 302
+body: Brit. A name given to villeins in the laws of Hoel Ddn. Barring, obs. St 302
 published_at: '2018-07-07'
 layout: post
 ---

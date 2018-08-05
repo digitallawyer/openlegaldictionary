@@ -1,7 +1,7 @@
 ---
 title: Of Course
 permalink: "/definitions/of-course.html"
-body: 'Any action or step taken • ln the course of judicial proceedings which will
+body: 'Any action or step taken • in the course of judicial proceedings which will
   be allowed by the court upon mere ap-pl ica tlon, without nny Inquiry or contest,
   or which may be effectually taken wlthout even applying to the court for leave,
   is said to be “of course.” Stoddard v. Treadwell, 29 Cal: 281; Merchants’ Bank v.

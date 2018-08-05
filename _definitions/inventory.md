@@ -3,7 +3,7 @@ title: Inventory
 permalink: "/definitions/inventory.html"
 body: A detailed list of articles of property; a llst or schedule of property, contalnlng
   a designation or description of each specific article; an itemized list of the various
-  articles constituting a collection, es-tate, stock ln trade, etc., with their estimated
+  articles constituting a collection, es-tate, stock in trade, etc., with their estimated
   or actual values. In law, the term is par-ticularly applied to such a list made
   hy an executor, administrator, or assignee in bank-ruptcy. See Silver Bow Min. Co.
   v. Lowry, 5 Mont. 618, 6 Pac. 62; Lloyd v. wyckoff, 11 N. J. Law, 224; Roberts,

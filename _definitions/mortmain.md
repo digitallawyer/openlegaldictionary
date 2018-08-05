@@ -3,7 +3,7 @@ title: Mortmain
 permalink: "/definitions/mortmain.html"
 body: A term applied to denote the alienation of lands or tenements to any corporation,
   sole or aggregate, ecclesiastical or temporal. These purchases havlng been chiefly
-  made hy rellglous houses, ln consequence of which lands became perpetually inherent
+  made hy rellglous houses, in consequence of which lands became perpetually inherent
   in one dead hand, this has occasioned the general appellation of "mortmain" to be
   applled to such alienations. 2 BL Comm. 268; Co. Lltt 2b; Perln v. Carey, 24 How.
   495, 16 L. Ed. 701

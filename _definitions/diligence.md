@@ -7,7 +7,7 @@ body: 'Prudence; vigilant activity; attentiveness; or care, of which there are I
   men, in general, exert in respect of their own concerns; the standard is neces-sarlly
   variable with respect to. the facts, al-though it may be uniform with respect to
   the principle. (2) High or great, which is extraordinary diligence, or that which
-  very prudent persons take of their own concerns:. (3) Low or slight, which ls that
+  very prudent persons take of their own concerns:. (3) Low or slight, which is that
   which-persons of less than common prudence, or indeed of no prudence at all, take
   of their own concerns'
 published_at: '2018-07-07'

@@ -1,7 +1,7 @@
 ---
 title: Faithfully
 permalink: "/definitions/faithfully.html"
-body: As used ln bonds of pub-lic aud private officers, this term imports not only
+body: As used in bonds of pub-lic aud private officers, this term imports not only
   honesty, but also a punctilious discharge of all the duties of the office, requiring
   com-petence, diligence, and attention, without any malfeasance or nonfeasance, aside
   from mere mistakes. State v. Chadwick, 10 or. 468; Hoboken v. Evans, 31 N. J. Law,

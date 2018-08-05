@@ -1,7 +1,7 @@
 ---
 title: Plagium
 permalink: "/definitions/plagium.html"
-body: Lat In the clvll law. Man-stealing; kidnapping. The offense of enticing away
+body: Lat in the clvll law. Man-stealing; kidnapping. The offense of enticing away
   and stealing men, children, and slaves. Calvin. The persuading a slave to escape
   from hls master, or the concealing or harboring him without the knowledge of hls
   master. Dlg. 48, 15, 6

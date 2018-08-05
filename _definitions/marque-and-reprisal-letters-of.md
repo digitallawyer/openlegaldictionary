@@ -10,7 +10,7 @@ body: These words, “marque” and “reprisal," are frequently used as synony-
   are granted may then seize the bodies or the goods of the sub-jects of the state
   to which the offender be-iongs, until satisfaction be made, wherever they happen
   to be found. Reprisals are to be grauted only In case of a clear and open denial
-  of Justice. At the present day, ln consequence partly of treaties and partly of
+  of Justice. At the present day, in consequence partly of treaties and partly of
   the practice of nations, the making of reprisals is confined to the seizure of commer*
   dal property on the high seas by public cruisers, or by private cruisers specially
   au-thorized thereto. Brown

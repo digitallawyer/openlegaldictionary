@@ -21,7 +21,7 @@ body: 'lateral proceeding. one in which the particular question, may arise or be
   N. Y. § 3.—Summary proceeding. Any proceeding by whicb a controversy is settled,
   case disposed of, or trial conducted, in a prompt and simple mauner, without tbe
   aid of a jury, with-out presentment or indictment, or in other respects out of the
-  regular course of the com-mon law. ln procedure, proceedings are said to be summary
+  regular course of the com-mon law. in procedure, proceedings are said to be summary
   when they are short and simple in comparison witb regular proceedings; i. e., iu
   comparison with the proceedings which'
 published_at: '2018-07-07'

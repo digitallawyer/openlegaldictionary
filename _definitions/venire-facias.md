@@ -7,7 +7,7 @@ body: Lat. In practice. A judlclal writ, directed to the sheriff of the county i
   of his county, qualified according to law, by whom the truth of the matter may be
   the better known, and wbo are in no wise of kin either to the plaintiff or to the
   defend-ant, to make a jury of the country between the parties in the action, because
-  as well thc plaintiff as the defendant, between whom the matter ln variance is,
+  as well thc plaintiff as the defendant, between whom the matter in variance is,
   have put themselves upou that jury, and that he return the names of the jurors,
   etc. 2 Tidd, Pr. 777, 778; 3 Bl. Comm. 352
 published_at: '2018-07-07'

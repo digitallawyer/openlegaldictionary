@@ -2,7 +2,7 @@
 title: Seizure
 permalink: "/definitions/seizure.html"
 body: In praotioe. The act performed by an officer of the law, under the authority
-  and exigence of a writ, ln taking into the custody of the law the property, real
+  and exigence of a writ, in taking into the custody of the law the property, real
   or personal, of a person against whom the judgment of a competent court has pass-ed,
   condemning him to pay a certain sum of money, in order that such property may be
   sold, by authority and due course of law, to satisfy the Judgment, or the act of

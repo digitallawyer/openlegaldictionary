@@ -1,11 +1,11 @@
 ---
 title: Regulate
 permalink: "/definitions/regulate.html"
-body: The power to regulate commerce, vested ln congress, ls the power to preserlbe
-  the rules by which lt shall be governed, that ls, the condltlons upon whlch lt shall
-  be conducted, to determlne when lt shall be free, and when subject to duties or
+body: The power to regulate commerce, vested in congress, is the power to preserlbe
+  the rules by which it shall be governed, that is, the condltlons upon whlch it shall
+  be conducted, to determlne when it shall be free, and when subject to duties or
   other exactions. Tbe power also embraces within lts control all the instrumentalltles
-  hy which that commerce may be carrled on, and the means by whlch lt may be aided
+  hy which that commerce may be carrled on, and the means by whlch it may be aided
   and en-couraged. Gloucester Ferry Co. v. Pennsyl-vania, 114 U. S. 196, 5 Sup. Ct.
   826, 29 L. Ed. 158. And see Gibbons v. ogden, 9 wheat. 227, 6 L. Ed. 23 ; Gilman
   v. Phlladelphla, 3 wall. 724, 18 L. Ed. 96; welton v. Mlssourl. 91 U. S. 279, 23

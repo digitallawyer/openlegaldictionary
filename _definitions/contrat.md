@@ -8,7 +8,7 @@ body: 'In French law. Contracts are of the following varieties: (1) Bilateral, o
   other does to him; or (4) aldatoire, where the consideration for the act of the
   one is a mere chance; or (5) contrat de bienfoisancc, where the one party procures
   to the other a purely gratuitous benefit; or (6) contrat d titre onereux, tthere
-  each party ls hound under some duty to the other. Brown'
+  each party is hound under some duty to the other. Brown'
 published_at: '2018-07-07'
 layout: post
 ---

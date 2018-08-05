@@ -2,7 +2,7 @@
 title: Heptarchy
 permalink: "/definitions/heptarchy.html"
 body: A government exercised by seven persons, or a natlon divided into seven governments.
-  In the year 560, seven dlfferent monarchies had been formed ln England by the German
+  In the year 560, seven dlfferent monarchies had been formed in England by the German
   tribes, namely, that of Kent by the Jutes; those of Sussex, wes-sex, and Essex by
   the Saxons; and those of East Anglia, Bernlcia, and Deira by the An-gles. To these
   were added, about the year 586, an eighth, called the “Kingdom of Mer-cla,” also

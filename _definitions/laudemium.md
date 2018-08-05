@@ -1,7 +1,7 @@
 ---
 title: Laudemium
 permalink: "/definitions/laudemium.html"
-body: Lat In the clvll law. a sum paid by a new emphytcuta (q. v.) who acquires the
+body: Lat in the clvll law. a sum paid by a new emphytcuta (q. v.) who acquires the
   emphyteusis, not as helr, but as a singular successor, whether by glft, devise,
   exchange, or sale. It was a sum equal to the fiftieth part of the purchase money,
   paid to the dominus or proprietor for his acceptance of the new emphytcuta. Mackeld.

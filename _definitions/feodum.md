@@ -1,8 +1,8 @@
 ---
 title: Feodum
 permalink: "/definitions/feodum.html"
-body: This word (meaning a feud or fee) ls the one most commonly used by the older
-  English law-writers, though its equlva-lent, “feud urn,” Is used generally by the
+body: This word (meaning a feud or fee) is the one most commonly used by the older
+  English law-writers, though its equlva-lent, “feud urn,” is used generally by the
   more modern writers nnd by the feudal law-writers. Litt. 8 1; Spelman. There were
   various classes of feoda, among which may be enumerated the following; Feodum latent
   m, a lay fee. Feodum militare, a knight's fee. Feodum improprium, an improper or

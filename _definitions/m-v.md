@@ -1,7 +1,7 @@
 ---
 title: M. V
 permalink: "/definitions/m-v.html"
-body: orporations. A merger of corporations consist ln the uniting of two or more
+body: orporations. A merger of corporations consist in the uniting of two or more
   corporations by the transfer of property of all to one of them, which continues
   in existence, the others being swallowed up or merged therein. In regard to the
   survivor-ship of one of the constituent corporations, it differs from a “consolidation,”

@@ -1,7 +1,7 @@
 ---
 title: Nephew
 permalink: "/definitions/nephew.html"
-body: The son of a brother or sister. But the term, as used ln wills and other documents,
+body: The son of a brother or sister. But the term, as used in wills and other documents,
   may include the children of half brothers and sisters and also grand-nephews, lf
   such be the apparent intention, but not the nephew of a husband or wife, and not
   (presumptively) a nephew who is illegitimate. See Shephard v. Shephard, 57 Conn.

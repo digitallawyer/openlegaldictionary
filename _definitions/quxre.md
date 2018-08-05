@@ -1,7 +1,7 @@
 ---
 title: Quxre
 permalink: "/definitions/quxre.html"
-body: A query; question; doubt This word, occurring ln the syllabus of a re-ported
+body: A query; question; doubt This word, occurring in the syllabus of a re-ported
   case or elsewhere, shows that a ques-tion ia propounded as to what follows, or that
   the particular rule, decision, or state-ment is considered as open to question
 published_at: '2018-07-07'

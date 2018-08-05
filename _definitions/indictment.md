@@ -2,7 +2,7 @@
 title: Indictment
 permalink: "/definitions/indictment.html"
 body: An indictment is an ac-cusation in writing found and presented by a grand jury,
-  legally convoked and sworn, to the court in which lt ls impaneled, charg-ing that
+  legally convoked and sworn, to the court in which it is impaneled, charg-ing that
   a person therein named has done some act, or been guilty of some omission, which,
   by law, is a publlc offense, punishable on indictment. Code Iowa 1880, | 4295; Pen.
   Code Cal. 8 917; Code Ala. 1886, | 4364. And see Grin v. Shine, 187 U. 8. 181, 23

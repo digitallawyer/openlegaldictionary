@@ -12,7 +12,7 @@ body: In the law relating to nuisances and similar matters, this term means noxi
   Rex v. Grice, 7 Car. & P. 803; Rex v. Noakes, 5 Car. & P. 326. In international
   law, an “of-fensive and defensive league" is one bind-ing the contracting powers
   not only to aid each other in case of aggression upon ei-ther of them by a third
-  power, but also to support and aid each other ln active and ag-gressive measures
+  power, but also to support and aid each other in active and ag-gressive measures
   against a power with which either of them may engage in war
 published_at: '2018-07-07'
 layout: post

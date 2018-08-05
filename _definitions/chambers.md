@@ -6,7 +6,7 @@ body: In practice. The pri-vate room or office of a judge; any place in which a 
   he is not holding a session of court. Business so transacted is said to be done
   “in chambers.” In re Neagle (C. C.) 39 Fed. 855, 5 L. R. A. 78; Von Schmidt v. Widber,
   99 Cal. 511, 34 Pac. 109; Hoskins v. Baxter, 64 Minn. 226, 66 N. W. 969. The term
-  Is also applied, ln England, to the prl-vate office of a barrister
+  is also applied, in England, to the prl-vate office of a barrister
 published_at: '2018-07-07'
 layout: post
 ---

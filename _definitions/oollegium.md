@@ -1,7 +1,7 @@
 ---
 title: Oollegium
 permalink: "/definitions/oollegium.html"
-body: Lat In the civil law. A word having various meanings; e. g., an assembly, society,
+body: Lat in the civil law. A word having various meanings; e. g., an assembly, society,
   or company; a body of bishops; an army; a class of men. But the princlpal Idea of
   the word was that of an assoclatlon of individuals of the same rank and statlon,
   or united for the pursuit of some business or enterprise. Sometimes, a corporation,

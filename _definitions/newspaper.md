@@ -1,8 +1,8 @@
 ---
 title: Newspaper
 permalink: "/definitions/newspaper.html"
-body: According to the usage of the commercial world, a newsimper ls defined to be
-  a publlcation ln numbers, con-slstlng commonly of single sheets, and published at
+body: According to the usage of the commercial world, a newsimper is defined to be
+  a publlcation in numbers, con-slstlng commonly of single sheets, and published at
   short and stated intervals, conveying intelligence of passing events. 4 op. Attys.
   Gen. 10. And see Crowell v. Parker, 22 R.’ I. 51, 46 Atl. 35, 84 Am. St. Rep. 81ft;
   Hanscom v. Meyer, 60 Neb. 68, 82 N. W. 114, 48 L. R. A. 409, 83 Am. St. Rep. 307;

@@ -1,7 +1,7 @@
 ---
 title: Hypothetical Question
 permalink: "/definitions/hypothetical-question.html"
-body: A com-binatlon of assumed or proved facts and cir-cumstances, stated ln such
+body: A com-binatlon of assumed or proved facts and cir-cumstances, stated in such
   form as to constitute a coherent and specific situation or state of facts, upon
   whicli the oplnion of an expert is asked, by way of evldence on a trial. Howard
   v. People, 185 111. 552, 57 N. E. 441; People v. Durrant, 116 Cal. 216, 48 Pac.

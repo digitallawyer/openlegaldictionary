@@ -1,7 +1,7 @@
 ---
 title: Ducat
 permalink: "/definitions/ducat.html"
-body: A foreign coin, varying ln value in different countries, but usually worth about
+body: A foreign coin, varying in value in different countries, but usually worth about
   $2.26 of our money
 published_at: '2018-07-07'
 layout: post

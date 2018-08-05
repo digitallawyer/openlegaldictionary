@@ -1,7 +1,7 @@
 ---
 title: Acoredulitare
 permalink: "/definitions/acoredulitare.html"
-body: L. Lat In old records. To purge an offense hy oath. Blount; whishaw
+body: L. Lat in old records. To purge an offense hy oath. Blount; whishaw
 published_at: '2018-07-07'
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: Habitual Criminal
 permalink: "/definitions/habitual-criminal.html"
-body: By statute in several states, one who ls convicted of a felony, having been
+body: By statute in several states, one who is convicted of a felony, having been
   previously convicted of any crime (or twice so convicted), or who is convicted of
   a misdemeanor and has previous-ly (in New York) been five times convicted of a misdemeanor.
   Crim. Code N. Y. 1903, § 510; Rev. SL Utah, 1898, g 4067. In a more gen-erai sense,

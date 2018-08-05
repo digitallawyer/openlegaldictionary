@@ -1,7 +1,7 @@
 ---
 title: Integrity
 permalink: "/definitions/integrity.html"
-body: As occaslonally used ln statutes prescribing the qualifications of pub-lic officers,
+body: As occaslonally used in statutes prescribing the qualifications of pub-lic officers,
   trustees, etc., this term means soundness of moral prlnclple and character, as shown,
   by one person dealing wlth others in the making and performance of contracts, and
   fidelity and honesty in the discharge of trusts; it is synonymous with “probity,”

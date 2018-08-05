@@ -1,7 +1,7 @@
 ---
 title: Intemperance
 permalink: "/definitions/intemperance.html"
-body: Habitual intemperance Is that degree of intemperance from the use of intoxicating
+body: Habitual intemperance is that degree of intemperance from the use of intoxicating
   drinks which dis-quaiifies the person a great portion of the time from properly
   attending to business, or which would reasonably inflict a course of great mental
   anguish upon an innocent party. Clv. Code CaL § 106. And see Mowry v. Home L. Ins.

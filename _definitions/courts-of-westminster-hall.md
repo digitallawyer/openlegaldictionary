@@ -12,7 +12,7 @@ body: The superior courts, both of law and equity, were for centuries fixed at W
   have ever since been held (a few necessary removals iu times of the plague excepted)
   lu the palace of west-minster only. The courts of equity also sit at westminster,
   nominally, during term time, although, actually, oniy duriug the first day of term,
-  for they generally sit ln courts provided for the purpose in, or ln the neigh-borhood
+  for they generally sit in courts provided for the purpose in, or in the neigh-borhood
   of, Lincoln’s Inn. Brown.
 published_at: '2018-07-07'
 layout: post

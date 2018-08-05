@@ -1,7 +1,7 @@
 ---
 title: Warrandice
 permalink: "/definitions/warrandice.html"
-body: In Scotch law. warranty; a clause ln a charter or deed by which tbe grantor
+body: In Scotch law. warranty; a clause in a charter or deed by which tbe grantor
   obliges himself that the right conveyed shall be effectual to the re-ceiver. Erek.
   Prin. 2, 3,11. A clause whereby the grantor of a charter obliges himself to warrant
   or make good the thing granted to the receiver. 1 Forb. Inst pt 2, p. 113. —Absolnte

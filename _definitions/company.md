@@ -1,7 +1,7 @@
 ---
 title: Company
 permalink: "/definitions/company.html"
-body: A society or association of persons, in considerable number, interested ln a
+body: A society or association of persons, in considerable number, interested in a
   common object, and uniting themselves for the prosecution of some commercial or
   industrial undertaking, or other legitimate business. Mills v. State, 23 Tex. 303;
   Smith ▼. Janesville, 52 W18. 680, 9 N. W. 789

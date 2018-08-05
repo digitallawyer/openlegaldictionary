@@ -1,7 +1,7 @@
 ---
 title: Compensation
 permalink: "/definitions/compensation.html"
-body: Indemnification; pay-ment of damages; making amends; that which ls necessary
+body: Indemnification; pay-ment of damages; making amends; that which is necessary
   to restore an injured par-ty to his former position. An act which a court orders
   to be done, or money which a court orders to be paid, by a person whose acts or
   omissions have caused loss or injury to another, in order that thereby the person

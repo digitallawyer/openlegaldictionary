@@ -3,8 +3,8 @@ title: Serpent-Venom Reaction
 permalink: "/definitions/serpent-venom-reaction.html"
 body: A test for Insanity by means of the breaking up of the red corpuscles of the
   blood of the sus-pected person on the lnjectlon of the venom ot cobras or other
-  serpents; recently employed ln judicial proceedlngs in some European countries and
-  ln Japan
+  serpents; recently employed in judicial proceedlngs in some European countries and
+  in Japan
 published_at: '2018-07-07'
 layout: post
 ---

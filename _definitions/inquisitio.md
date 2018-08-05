@@ -1,7 +1,7 @@
 ---
 title: Inquisitio
 permalink: "/definitions/inquisitio.html"
-body: IO. ln old English law. An Inquisition or inquest. Inquisitio post mortem, an
+body: IO. in old English law. An Inquisition or inquest. Inquisitio post mortem, an
   inquisition after death. An inquest of office held, during the continuance of the
   military tenures, upou the death of every one of the king’s tenants, to inquire
   of what lands he died seised, who was his heir, and of what age, in order to entitle-the

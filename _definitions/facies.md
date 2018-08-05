@@ -5,7 +5,7 @@ body: Lat The face or countenance; the exterlor appearance or view; hence, con-t
   or study of a thlng on lts external or apparent slde. Thus, prima facie menus at
   the first lnspection, on a preUmlnary or exterlor scrutiny, when we speak of a "prima
   facie case,” we mean one whlch, on lts own showlng, on a first examlnatlon, or wlthout
-  investlgatlng any alleged defenses, Is apparently good and maintalnable
+  investlgatlng any alleged defenses, is apparently good and maintalnable
 published_at: '2018-07-07'
 layout: post
 ---

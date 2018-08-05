@@ -1,8 +1,8 @@
 ---
 title: Habitancy
 permalink: "/definitions/habitancy.html"
-body: Settled dwelling ln a given place; fixed and permanent residence there. This
-  term is more cpmprehenslve than “domicile,” for one may he domiciled ln a given
+body: Settled dwelling in a given place; fixed and permanent residence there. This
+  term is more cpmprehenslve than “domicile,” for one may he domiciled in a given
   place though he does not spend the greater portion of hls time there, or though
   he may be absent for long periods. It is also more comprehensive than “residence,”
   for one mny reslde in a given place only tem-porarlly or for short periods on the

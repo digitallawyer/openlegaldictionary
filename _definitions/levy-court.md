@@ -8,7 +8,7 @@ body: A court formerly ex-isting in the District of Columbia. It was a body char
   it to • discharge these and other duties, and to pay the other expenses of the county.
   It had capacity to make contracts in reference to any of these matters, and to raise
   money to meet such contracts. It had perpetual succession, and its functions were
-  those which, ln the several states, are performed by “county commissioners," “overseers
+  those which, in the several states, are performed by “county commissioners," “overseers
   of the poor,” “county supcrvisors,” and similar bodies with other designations.
   Levy Court v. Coroner, 2 wall. 507, 17 L. Ed. 851
 published_at: '2018-07-07'

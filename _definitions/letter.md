@@ -2,7 +2,7 @@
 title: Letter
 permalink: "/definitions/letter.html"
 body: I. one of the arbitrary marks or characters constituting the alphabet, and used
-  ln written language as the representatives of so'unds or articulations of the human
+  in written language as the representatives of so'unds or articulations of the human
   organs of speech. Several of the letters of the English alphabet have a special
   significance in jurisprudence, as ab-breviations and otherwise, or are employed
   as numerals

@@ -1,7 +1,7 @@
 ---
 title: Drunk
 permalink: "/definitions/drunk.html"
-body: A person ls “drunk” wben be is so far under the Influence of liquor that hls
+body: A person is “drunk” wben be is so far under the Influence of liquor that hls
   passions are visibly excited or his judg-inent impaired, or when his brain is so
   far affected by potations of liquor that hls in-telligence, sense-perceptions, judgment,
   con-tinulty of thought or of Ideas, speech, and co-ordination of volition with muscular

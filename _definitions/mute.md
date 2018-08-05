@@ -2,9 +2,9 @@
 title: Mute
 permalink: "/definitions/mute.html"
 body: Speechless; dumb; that cannot or will not speak. In English crlminal law, a
-  prisoner ls sald to stand, mute when, heing arraigned for treason or felony, he
+  prisoner is sald to stand, mute when, heing arraigned for treason or felony, he
   either makes no answer at all, or answers foreign to the purpose or with such matter
-  as ls not allowable, and will not auswer otherwise, or, upon having pleaded not
+  as is not allowable, and will not auswer otherwise, or, upon having pleaded not
   guilty, refuses to put himself upon the country. 4 Bl. Comm. 324
 published_at: '2018-07-07'
 layout: post

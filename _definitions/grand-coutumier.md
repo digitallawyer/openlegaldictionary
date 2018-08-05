@@ -1,8 +1,8 @@
 ---
 title: Grand Coutumier
 permalink: "/definitions/grand-coutumier.html"
-body: A collection of customs, laws, and forms of procedure ln use in early times
-  ln France. See Couru-M1EB
+body: A collection of customs, laws, and forms of procedure in use in early times
+  in France. See Couru-M1EB
 published_at: '2018-07-07'
 layout: post
 ---

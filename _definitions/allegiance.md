@@ -1,8 +1,8 @@
 ---
 title: Allegiance
 permalink: "/definitions/allegiance.html"
-body: By allegiance ls meant the obligation of fidelity and obedience whlch the lndlvldual
-  owes to the govern-ment under which he 11 ves, or to hls sover-eign ln return for
+body: By allegiance is meant the obligation of fidelity and obedience whlch the lndlvldual
+  owes to the govern-ment under which he 11 ves, or to hls sover-eign in return for
   the protection he receives. It may be an absolute and permanent obliga-tlon, or
   It may be a qualified and temporary oue. The citizen or subject owes an abso-lute
   aud* permaueut allegiance to his government or sovereign, or at least until, by

@@ -1,7 +1,7 @@
 ---
 title: Steal
 permalink: "/definitions/steal.html"
-body: This term ls commonly used ln indictments for larceny, (“take, steal, and carry
+body: This term is commonly used in indictments for larceny, (“take, steal, and carry
   a way,") and denotes the commission of theft. But, in popular usage, “stealing"
   seems to be a wider term than “larceny,” in-asmuch as it may include the unlawful
   appropriation of things whlch are not technic-ally the subject of larceny, e. g.,

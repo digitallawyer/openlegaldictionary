@@ -1,12 +1,12 @@
 ---
 title: Directory
 permalink: "/definitions/directory.html"
-body: A provision ln a statute, rule of procedure, or the like, ls sald to be dlrectory
-  when lt is to be consldered as a mere dlrection or lnstructlon of no obliga-tory
+body: A provision in a statute, rule of procedure, or the like, is sald to be dlrectory
+  when it is to be consldered as a mere dlrection or lnstructlon of no obliga-tory
   force, and lnvolvlng no lnvalidatlng con-sequence for lts disregard,, as opposed
   to an imperative or mandatory provlsion, whlch must be followed. The general rule
-  ls that the prescriptions of a statute relating to the performance of a publlc duty
-  are so far directory that, though neglect of them may be punlshable, yet lt does
+  is that the prescriptions of a statute relating to the performance of a publlc duty
+  are so far directory that, though neglect of them may be punlshable, yet it does
   not afTect the validity of the acts done under them, as in the vase of a statute
   requlrlng an officer to prepare and dellver a document to another officer on or
   before a certain day. Maxw. Interp. St 330, et seq. And see Pearse v. Morrice, 2

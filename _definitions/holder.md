@@ -1,7 +1,7 @@
 ---
 title: Holder
 permalink: "/definitions/holder.html"
-body: The holder of a bill of exchange, promissory note, or check ls the person who
+body: The holder of a bill of exchange, promissory note, or check is the person who
   bas legally acquired the possession of the same, from a person capable of trans-ferring
   it, by indorsement or delivery, and who is entitled to receive payment of the instrument
   from the party or parties liable to meet it. Bowling v. Harrison, 6 How. 258, 12

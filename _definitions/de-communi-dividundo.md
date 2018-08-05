@@ -1,7 +1,7 @@
 ---
 title: De Communi Dividundo
 permalink: "/definitions/de-communi-dividundo.html"
-body: For dividing a thing held ln common. The name of an action given by the civil
+body: For dividing a thing held in common. The name of an action given by the civil
   law. Mack-eld. Rom. Law, S 499
 published_at: '2018-07-07'
 layout: post

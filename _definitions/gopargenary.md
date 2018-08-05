@@ -2,7 +2,7 @@
 title: Gopargenary
 permalink: "/definitions/gopargenary.html"
 body: A species of estate, or tenancy, which exists where lands of inheritance descend
-  from thc ancestor to two or more persons. It urises ln England either l*y common
+  from thc ancestor to two or more persons. It urises in England either l*y common
   law or particular custom. By common law, as where a person, seised in fee-simple
   or fee-tall, dies, and his next heirs are two or more females, his daughters, sisters,
   aunts, cousins, or thelr representatives; In this case they all inherit, aud these

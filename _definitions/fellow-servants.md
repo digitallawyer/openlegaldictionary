@@ -3,8 +3,8 @@ title: Fellow-Servants
 permalink: "/definitions/fellow-servants.html"
 body: "“The decided weight of authority is to the effect that all who serve the same
   master, work under the same control, derive authority and compen-satlon from tlie
-  same common source, and are engaged ln the same general business, though it may
-  be ln different grades or departments of it, are fellow-servants, who take the risk
+  same common source, and are engaged in the same general business, though it may
+  be in different grades or departments of it, are fellow-servants, who take the risk
   of each other’s negligence.” 2 Thomp. Neg. p. 1026, § 31. And see McAndrews v. Burns,
   39 N. J- Law, 119; Jnstice v. Pennsylvania Co., 130 Ind. 321, 30 N. E. 303; wright
   v. New York Cent. R. Co., 25 N. Y. 565; Glover v. Kansas City Bolt Co., 153 Mo.

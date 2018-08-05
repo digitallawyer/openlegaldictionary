@@ -1,7 +1,7 @@
 ---
 title: Employ
 permalink: "/definitions/employ.html"
-body: To engage ln one’s service; to use as an agent or substitute in transact-lng
+body: To engage in one’s service; to use as an agent or substitute in transact-lng
   business; to commission and intrust with the management of one’s affairs; and, when
   used in respect to a servant or hired laborer, the term is equivalent to hiring,
   which im-plies a request and a contract for a compen-satlon, and has but this one

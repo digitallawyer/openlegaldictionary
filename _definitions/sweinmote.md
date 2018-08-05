@@ -2,7 +2,7 @@
 title: Sweinmote
 permalink: "/definitions/sweinmote.html"
 body: In forest law. A court holden before the verderors, as judges, by the steward
-  of the sweinmote, thrice ln ev-ery year, the stceins or freeholders within the forest
+  of the sweinmote, thrice in ev-ery year, the stceins or freeholders within the forest
   composing the jury. Its principal ju-risdiction was—First, to inquire into the op-presslons
   and grievances committed hy the officers of the forest; and, secondly, to receive
   and try presentments certified from the court of attachments in offenses against

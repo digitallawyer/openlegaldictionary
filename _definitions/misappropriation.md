@@ -1,8 +1,8 @@
 ---
 title: Misappropriation
 permalink: "/definitions/misappropriation.html"
-body: This ls not a technical term of law, hut lt Is sometimes applied to the misdemeanor
-  which ls committed by a banker, factor, agent, trustee, etc, who fraudulently deals
+body: This is not a technical term of law, hut it is sometimes applied to the misdemeanor
+  which is committed by a banker, factor, agent, trustee, etc, who fraudulently deals
   with money, goods, securities, etc., Intrusted to him, or hy a director or public
   officer of a corpora-tion or company who fraudulently misapplies any of its property.
   Steph. Crim. Dig. 257, et seq.; Sweet. And see winchester v. Howard, 136 Cal. 432,

@@ -1,7 +1,7 @@
 ---
 title: Absque Hoo
 permalink: "/definitions/absque-hoo.html"
-body: without this. These are technical words of denial, used ln plead-ing at common
+body: without this. These are technical words of denial, used in plead-ing at common
   law by way of special traverse, to lntroduce the negative part of the plea, following
   the affirmative part or inducement. Martin v. Hammon, 8 Pa. 270; Zents v. Legnard,
   70 Pa. 192; Hite v. Kier, 38 Pa. 72; Reiter v. Morton, 96 Pa. 229; Turnpike Co.

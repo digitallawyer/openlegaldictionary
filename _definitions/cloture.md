@@ -2,7 +2,7 @@
 title: Cloture
 permalink: "/definitions/cloture.html"
 body: The procedure in deliberative assemblies whereby debate is closed. In-troduced
-  ln the English parliament in the session of 1882
+  in the English parliament in the session of 1882
 published_at: '2018-07-07'
 layout: post
 ---

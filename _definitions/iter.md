@@ -1,8 +1,8 @@
 ---
 title: Iter
 permalink: "/definitions/iter.html"
-body: 'Lat In tbe oivil law. A way; a right of way belonging as a servitude to an
-  estate ln the country, (preedium rusticum.) The right of way was of three kinds:
+body: 'Lat in tbe oivil law. A way; a right of way belonging as a servitude to an
+  estate in the country, (preedium rusticum.) The right of way was of three kinds:
   (1) iter, a right to walk, or ride on horseback, or in a litter; (2) actus, a right
   to drive a beast or vehicle; (3) via, a full right of way, comprising right to walk
   or ride, or drive beast or carriage. Heinec. S 408. or, as some think, they were

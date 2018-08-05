@@ -2,7 +2,7 @@
 title: Mining
 permalink: "/definitions/mining.html"
 body: The process or business of ex-tracting from the earth tbe precious or valuable
-  metals, elther ln thelr native state or in their ores. In re Rollins Gold Min. Co.
+  metals, elther in thelr native state or in their ores. In re Rollins Gold Min. Co.
   (D. C.) 102 Fed. 985. As ordinarily used, the term does not include the extraction
   from the earth of rock, marble, or slate, which is commonly described as “quarrying,”
   al-though coal aud salt are “mined;” nor does tt include sinking wells or shafts

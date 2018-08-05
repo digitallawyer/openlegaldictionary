@@ -1,7 +1,7 @@
 ---
 title: Shall
 permalink: "/definitions/shall.html"
-body: As used in statutes and similar Instruments, this word ls generally im-perative
+body: As used in statutes and similar Instruments, this word is generally im-perative
   or mandatory; but it may be con-strued as merely permissive or directory, (as equivalent
   to “may,”) to carry ont the legislative intention and in cases where no right or
   benefit to any one depends on its being taken iu the imperative sense, and where

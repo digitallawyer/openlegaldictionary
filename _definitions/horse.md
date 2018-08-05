@@ -3,8 +3,8 @@ title: Horse
 permalink: "/definitions/horse.html"
 body: An animal of the genus equus and species caballus. In a narrow and strict sense,
   the term Ib applied only to the male, and only to males of four years old or there-abouts,
-  younger horses being called “colts.” But even ln this sense the term Includes both
-  stallions and geldings. In a wider sense, and as generally used ln statutes, the
+  younger horses being called “colts.” But even in this sense the term Includes both
+  stallions and geldings. In a wider sense, and as generally used in statutes, the
   word is taken as nomcn gcneralissimum, and in-cludes not only horses strictly so
   called, but also colts, mares and fillies, and mules and asses. See owens v. State,
   38 Tex. 557; Ashworth v. Mounsey, L. R. 9 Exch. 187 ;.Pul-len v. State, 11 Tex.

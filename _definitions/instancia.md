@@ -2,7 +2,7 @@
 title: Instancia
 permalink: "/definitions/instancia.html"
 body: In Spanish law. The in-stltution and prosecution of a snit from its commencement
-  nntll definitive judgment The first instance, “primcra instaneia" Is the prosecution
+  nntll definitive judgment The first instance, “primcra instaneia" is the prosecution
   of the suit before the judge competent to take cognizance of It at its In-ception;
   the second instance, “secunda in-atancia,” is the exercise of the same action before
   the court of appellate jurisdiction; and the third instance, “tcrcera inatancia,”

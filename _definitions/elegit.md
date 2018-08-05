@@ -7,7 +7,7 @@ body: "(Lat He has chosen.) This is the name, in Engllsh practice, of a writ of 
   court. It is so called because it is in the choice or election of the plaintiff
   whether he will sue out this writ or a fl. fa. By it the defendant’s goods and chattels
   are ap-praised and all of them (except oxen and beasts of the plow) are delivered
-  to the plaintiff, at such reasonable appraisement and price, ln part satisfaction
+  to the plaintiff, at such reasonable appraisement and price, in part satisfaction
   of his debt If the goods are not sufficient, then the mole* ty of his freehold lands,
   which he had at the time of the judgment given, are also to be delivered to the
   plaintiff, to hold till out of the rents and profits thereof the debt be lev ied,

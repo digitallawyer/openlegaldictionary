@@ -1,7 +1,7 @@
 ---
 title: Reformatory
 permalink: "/definitions/reformatory.html"
-body: This term ls of too wlde and uncertaln slgnlficatlon to support a bequest for
+body: This term is of too wlde and uncertaln slgnlficatlon to support a bequest for
   the bulldlug of a “boys’ re-formatory.” It includes all places and in-stitutions
   in which efforts are made either to cultivate the Intellect, instruct the con-science,
   or improve the conduct; places iu which persons voluntarily assemble, receive lnstructlon,

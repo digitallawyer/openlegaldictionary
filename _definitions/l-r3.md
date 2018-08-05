@@ -1,7 +1,7 @@
 ---
 title: L. R
 permalink: "/definitions/l-r3.html"
-body: trove, who were the finders, and where it ls, and whether any one be suspected
+body: trove, who were the finders, and where it is, and whether any one be suspected
   of having found and concealed a treasure. 1 Bl. Comm. 349. It belongs to the ministerial
   ofiice of the coroner to serve writs and other process, and generally to discharge
   the du-ties of the sheriff, In case of the incapacily of that oflicer or a vacancy

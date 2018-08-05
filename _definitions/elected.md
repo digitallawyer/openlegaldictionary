@@ -1,7 +1,7 @@
 ---
 title: Elected
 permalink: "/definitions/elected.html"
-body: The word “elected,” ln its ordinary signification, carries with it the idea
+body: The word “elected,” in its ordinary signification, carries with it the idea
   of a vote, generally popular, sometimes more restricted, and cannot be held the
   syn-onym of any other mode of filling a position. Magruder v. Swann, 25 Md. 213;
   State v. Harrison, 113 Ind. 434, 16 N. B. 384, 3 Am. St Rep. 663; Kimberlin v. State,

@@ -6,7 +6,7 @@ body: In English law. A court for the trial of cases of treason and felony. The 
   under the great seal, including usually two of the Judges at westmlnster, and sent
   out twice a year Into most of the counties of England, for the trial (with a jury
   of the county) of causes then depend-lng at westmlnster, both civil and criminal.
-  They sit by virtue of several commissions, each of which, ln reality, constitutes
+  They sit by virtue of several commissions, each of which, in reality, constitutes
   them a separate and distinct court. The commis-sion of oyer and terminer gives them
   author-ity for the trial of treasons and felonies; that of general gaol delivery
   empowers them to try every prisoner then in gaol for what-ever offense; so that,

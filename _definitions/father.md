@@ -1,7 +1,7 @@
 ---
 title: Father
 permalink: "/definitions/father.html"
-body: The male parent He by whom a child ls begotten. As used in law, this term may
+body: The male parent He by whom a child is begotten. As used in law, this term may
   (according to the context and the nature of the Instrument) include a pu-tatlve
   as well as a legal father, also a step-father, an adoptive father, or a grandfather,
   but is not as wide as the word “parent,” and cannot be so construed as to include

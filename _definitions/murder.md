@@ -3,10 +3,10 @@ title: Murder
 permalink: "/definitions/murder.html"
 body: The crime committed where a person of sound mind and discretion (that is, of
   sufficient age to form and execute a oriminal design and not legally “Insane") kllls
-  any human creature in being (exclud-Ing quick but unborn children) and ln the peace
+  any human creature in being (exclud-Ing quick but unborn children) and in the peace
   of the state or natlon (Including all persons except tbe milltary forces of the
   publlc enemy in time of war or battle) wlth-out any warrant, justification, or excuse
-  ln law, wlth malice aforethought, express or implied, that is, with a deliberate
+  in law, wlth malice aforethought, express or implied, that is, with a deliberate
   purpose or a design or determination distinctly form-ed in the mind before the commlssion
   of the act, provided that death results from the injury inflicted within one year
   and a day after Its infliction. See Kilpatrick v. Com., 31 Pa. 198; Hotema v. U.

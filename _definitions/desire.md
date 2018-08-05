@@ -1,7 +1,7 @@
 ---
 title: Desire
 permalink: "/definitions/desire.html"
-body: This term, used ln a will ln re-lation to the management and distribution of
+body: This term, used in a will in re-lation to the management and distribution of
   property, has been Interpreted by the courts with different shades of meaning, varying
   from the mere expression of a preference to a positive command.' See McMurry v.
   Stanley, 69 Tex. 227, 6 S. W. 412; Stewart v. Stewart, .61 N. J. Eq. 25, 47 Atl.

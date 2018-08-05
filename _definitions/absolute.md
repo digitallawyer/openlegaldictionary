@@ -1,7 +1,7 @@
 ---
 title: Absolute
 permalink: "/definitions/absolute.html"
-body: Unconditional; complete and perfect ln itself, wlthout relation to, or dependence
+body: Unconditional; complete and perfect in itself, wlthout relation to, or dependence
   on, other things or persons,—as an absolute right; without condition, excep-tion,
   restriction, qualification, or limitation, —as an absolute conveyance, an absolute
   estate ; final, peremptory,—as an absolute rule. People v. Ferry, 84 Cal. 31, 24

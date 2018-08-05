@@ -3,7 +3,7 @@ title: Norman French
 permalink: "/definitions/norman-french.html"
 body: The tongue in whlch several formal proceedings of state in England are stlll
   carrled on. The lan-guage, having remained the same since the date of the Conquest,
-  at which lt was in-troduced into England, is very different from the French of this
+  at which it was in-troduced into England, is very different from the French of this
   day, retaining all the pe-cultarlties which at that time distinguished every province
   from the rest A peculiar mode of pronunciation (considered authentic) is handed
   down and preserved by the officials who have, on particular occasions, to speak

@@ -2,7 +2,7 @@
 title: Plus Petitio
 permalink: "/definitions/plus-petitio.html"
 body: 'In Roman law. A phrase denoting the offense of claiming more thau was just
-  In one’s pleadings. Thlfc mord might be claimed ln four different respects; viz.:
+  In one’s pleadings. Thlfc mord might be claimed in four different respects; viz.:
   (1) Re, i. e., in amount, (e. g., £50 for £5;) (2) loco, i. e.. In place, (e. g.,
   delivery at some place more difficult to efTect than the place specified;) (3) tempore,
   i. e., in time; (e. g., claiming payment on the 1st of Au-gust of what is not due

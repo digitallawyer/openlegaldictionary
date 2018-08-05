@@ -1,7 +1,7 @@
 ---
 title: City Of London Court
 permalink: "/definitions/city-of-london-court.html"
-body: A court havlng a local Jurisdlction within the city of London. It ls to all
+body: A court havlng a local Jurisdlction within the city of London. It is to all
   intents and purposes a county conrt, havlng the same jurisdlction and procedure
 published_at: '2018-07-07'
 layout: post

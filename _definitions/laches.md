@@ -5,7 +5,7 @@ body: 'Negligence, consisting in the omission of something which a party might d
   and might reasonably he expected to do, towards the vindication or enforcement of
   his rights. The word is generally the syno-nym of “remissness,” “dilatoriness,"
   “un-reasonable or unexcused delay,” the opposite of “vigilance,” and means a want
-  of activity and diligence ln making a claim or moving for the enforcement of a right
+  of activity and diligence in making a claim or moving for the enforcement of a right
   (particularly in equity) which will afford ground for presuming against it, or for
   refusing re-lief, where that is discretionary with the court. See Ring v. Lawless,
   190 111. 520, 60 N. E. 881; wissler v. Craig, 80 Va. 30; Morse v. Seibold, 147 111.

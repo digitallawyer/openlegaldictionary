@@ -1,7 +1,7 @@
 ---
 title: Vacatio
 permalink: "/definitions/vacatio.html"
-body: Lat In the civil law. Ex-emptlon; immunity; privilege; dlspensatlon; exemption
+body: Lat in the civil law. Ex-emptlon; immunity; privilege; dlspensatlon; exemption
   from tbe burden of office. Calvin
 published_at: '2018-07-07'
 layout: post

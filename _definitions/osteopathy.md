@@ -6,7 +6,7 @@ body: A method or system of treating various diseases of the human body without 
   and kneading parts of the body, flexing and manipulating the limbs, and the mechanical
   readjustment of any bones, muscles, or ligaments not in the normal position, with
   a view to removing the cause of the disorder and aiding the restorative force of
-  nature in cases where the trouble origin-ated ln misplacement of parta, irregular
+  nature in cases where the trouble origin-ated in misplacement of parta, irregular
   nerve action, or defective circulation, whether the practice of osteopathy is “prac-ttce
   of medicine,” and whether a school of osteopathy is a “medical college.’’ within
   the meaning of statutes, the courts have not determined. See Little v. State. 60

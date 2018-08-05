@@ -1,8 +1,8 @@
 ---
 title: I Iii
 permalink: "/definitions/i-tii.html"
-body: erangement Is accompanied with more or less of excitement. Sometimes the excitement
-  amounts to a fury. The individual ln such cases is subject to hallucinations and
+body: erangement is accompanied with more or less of excitement. Sometimes the excitement
+  amounts to a fury. The individual in such cases is subject to hallucinations and
   illusions. He is impressed with the reality of events which have never occurred,
   and of things which do not exist, and acts more or less in conformity with his belief
   in these particulars. The mania may be general, and affect all or most of the op-era

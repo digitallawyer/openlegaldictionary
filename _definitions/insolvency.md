@@ -1,7 +1,7 @@
 ---
 title: Insolvency
 permalink: "/definitions/insolvency.html"
-body: The condition of a person who ls Insolvent; inability to pay one’s debts; lack
+body: The condition of a person who is Insolvent; inability to pay one’s debts; lack
   of means to pay one’s debts. Such a relative condition of a man’s assets and liabilities
   that the former, if all made immediately available, would not be suffl-cient to
   dlscharge the latter, or the condltion of a person who is unable to pay his debts

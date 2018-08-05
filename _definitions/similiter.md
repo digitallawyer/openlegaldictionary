@@ -1,9 +1,9 @@
 ---
 title: Similiter
 permalink: "/definitions/similiter.html"
-body: Lat In pleading. Like-wise; the like. The name of the short for-mula used either
+body: Lat in pleading. Like-wise; the like. The name of the short for-mula used either
   at the end of pleadings or by itself, expressive of the acceptance of an issue of
-  fact tendered hy the opposite party; otherwise termed a “Joinder ln issue.” Steph.
+  fact tendered hy the opposite party; otherwise termed a “Joinder in issue.” Steph.
   Pl. 57, 237. See Solomons v. Chesley, 57 N. H. 163
 published_at: '2018-07-07'
 layout: post

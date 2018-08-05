@@ -1,7 +1,7 @@
 ---
 title: Bilateral Contract
 permalink: "/definitions/bilateral-contract.html"
-body: A term, used originally ln the civil law, but now generally adopted, denoting
+body: A term, used originally in the civil law, but now generally adopted, denoting
   a contract in which both the contracting parties are bound to fulfill obligations
   reciprocally towards each other; as a contract of sale, where one be-comes bound
   to deliver the thing sold, and the other to pay the price of it Montpelier Seminary

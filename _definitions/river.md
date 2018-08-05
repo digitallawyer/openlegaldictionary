@@ -2,7 +2,7 @@
 title: River
 permalink: "/definitions/river.html"
 body: A natural stream of water, of greater volume than a creek or rivulet, flowing
-  ln a more or less permanent bed or chan-nel, between defined banks or walls, with
+  in a more or less permanent bed or chan-nel, between defined banks or walls, with
   a current which may either be continuous in one direction or affected by the ebb
   and flow of the tide. See Howard v. Ingersoll, 13 How. 391,14 L. Ed. 189; Alabama
   v. Georgia, 23 How. 513, 16 L. Ed. 556; The Garden City (D. C.) 26 Fed. 772; Berlin

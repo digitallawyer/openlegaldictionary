@@ -2,7 +2,7 @@
 title: Draconian Laws
 permalink: "/definitions/draconian-laws.html"
 body: A code of laws prepared by Draco, the celebrated lawgiver of Athens. These laws
-  were exceedingly severe, and the term ls now sometimes ap-plied to any laws of unusual
+  were exceedingly severe, and the term is now sometimes ap-plied to any laws of unusual
   harshness
 published_at: '2018-07-07'
 layout: post

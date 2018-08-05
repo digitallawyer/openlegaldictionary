@@ -8,7 +8,7 @@ body: The earliest stat-ute or code of Roman law, framed by a corn-mission of te
   and accommodated to the manners of the Romans, partly of new provlslons, and main*
   ly, perhaps, of laws and usages under thelr ancient kings. They formed the source
   and foundation for the whole later development of Roman jurisprudence. They exist
-  now only ln fragmentary form. See 1 Kent* Comm. 520
+  now only in fragmentary form. See 1 Kent* Comm. 520
 published_at: '2018-07-07'
 layout: post
 ---

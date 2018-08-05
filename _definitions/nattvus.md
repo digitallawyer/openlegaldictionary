@@ -1,7 +1,7 @@
 ---
 title: Nattvus
 permalink: "/definitions/nattvus.html"
-body: 'Lat In old English law, a native; specifically, one born iuto a condi-tion
+body: 'Lat in old English law, a native; specifically, one born iuto a condi-tion
   of servitude; a born serf or villein. —Nativa. A niefe or female villein. So call-ed
   because for the most part bond by nativity. Co. Litt. 122b.—Nativi oonvontionarii.
   Vil-leins or bondmen by contract or agreement.— Nativi de stipite. Vilieins or bondmen
