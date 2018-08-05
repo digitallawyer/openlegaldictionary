@@ -1,7 +1,0 @@
----
-layout: post
-title: Grant
-date: '2018-07-07T00:00:00+00:00'
-permalink: grant
----
-A generic term applicable to all transfers of real property. 3 washb. Real Prop. 181, 353

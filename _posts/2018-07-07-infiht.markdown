@@ -1,7 +1,0 @@
----
-layout: post
-title: Infiht
-date: '2018-07-07T00:00:00+00:00'
-permalink: infiht
----
-Sax. An assault made on a person inhabiting the same dwelling

@@ -1,7 +1,0 @@
----
-layout: post
-title: Memorial
-date: '2018-07-07T00:00:00+00:00'
-permalink: memorial
----
-A document presented to a legislative body, or to the executive, by one or more individuals, containing a petition or a representation of facts

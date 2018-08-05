@@ -1,0 +1,9 @@
+---
+title: Sors
+permalink: "/definitions/sors.html"
+body: Lat In tbe civU law. Lot; chance; fortune; hazard; a lot, made of wood, gold,
+  or other material. Money bor-rowed, or put out at interest. A principal sum or fund,
+  such as the capital of a part-nership. Ainsworth; Calvin
+published_at: '2018-07-07'
+layout: post
+---

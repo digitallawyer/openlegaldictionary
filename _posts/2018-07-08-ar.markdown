@@ -1,7 +1,0 @@
----
-layout: post
-title: A. R.
-date: '2018-07-08T00:00:00+00:00'
-permalink: ar
----
-Anno regni, the year of the reign; as, A. R. V. R. 22, (Anno Regni Victoria, Regina vicesmo secundo,) in the twenty-second year of the reign or Queen Victoria.

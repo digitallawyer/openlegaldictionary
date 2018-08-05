@@ -1,7 +1,0 @@
----
-layout: post
-title: Landea
-date: '2018-07-07T00:00:00+00:00'
-permalink: landea
----
-In old English law. A ditch or trench for conveying water from marshy grounds. Spelman

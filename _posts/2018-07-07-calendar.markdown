@@ -1,7 +1,0 @@
----
-layout: post
-title: Calendar
-date: '2018-07-07T00:00:00+00:00'
-permalink: calendar
----
-1. The established order of the division of time into years, months, weeks, and days; or a systematized enumera-tion of such arrangement; an almanac. Rives v. Guthrie, 46 N. C. 86

@@ -1,7 +1,0 @@
----
-layout: post
-title: In Futuro
-date: '2018-07-07T00:00:00+00:00'
-permalink: in-futuro
----
-In future; at a future time; the opposite of in prasenti. 2 BL Comm. 166, 175

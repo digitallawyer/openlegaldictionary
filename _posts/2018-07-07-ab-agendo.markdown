@@ -1,7 +1,0 @@
----
-layout: post
-title: Ab Agendo
-date: '2018-07-07T00:00:00+00:00'
-permalink: ab-agendo
----
-Disabled from acting; un-able to act; Incapacitated for business or transactions of any kind

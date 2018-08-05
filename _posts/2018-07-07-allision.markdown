@@ -1,7 +1,0 @@
----
-layout: post
-title: Allision
-date: '2018-07-07T00:00:00+00:00'
-permalink: allision
----
-The running of oue vessel into or against auother. as distinguished from a collision, i. e., the running of two vessels against each other

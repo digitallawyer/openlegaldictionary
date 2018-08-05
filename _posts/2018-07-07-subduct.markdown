@@ -1,7 +1,0 @@
----
-layout: post
-title: Subduct
-date: '2018-07-07T00:00:00+00:00'
-permalink: subduct
----
-In Engllsh probate practice, to subduct a caveat is to withdraw it

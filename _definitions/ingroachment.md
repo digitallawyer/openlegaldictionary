@@ -1,0 +1,7 @@
+---
+title: Ingroachment
+permalink: "/definitions/ingroachment.html"
+body: An unlawful gaining upon the right or possession of another. See Encboackment
+published_at: '2018-07-07'
+layout: post
+---

@@ -1,7 +1,0 @@
----
-layout: post
-title: Sheep
-date: '2018-07-07T00:00:00+00:00'
-permalink: sheep
----
-A wether more than a year old. Rex v. Birket, 4 Car. & P. 216

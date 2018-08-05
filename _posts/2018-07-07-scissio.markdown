@@ -1,7 +1,0 @@
----
-layout: post
-title: Scissio
-date: '2018-07-07T00:00:00+00:00'
-permalink: scissio
----
-Lat In old English law. A cutting. Scissio auricularum, cropping of the ears. An old punishment Fleta, lib. 1, c. 38, t 10

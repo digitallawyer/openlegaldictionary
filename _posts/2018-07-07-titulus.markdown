@@ -1,7 +1,0 @@
----
-layout: post
-title: Titulus
-date: '2018-07-07T00:00:00+00:00'
-permalink: titulus
----
-Lat In tbo civil law. Ti

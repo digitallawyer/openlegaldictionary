@@ -1,0 +1,8 @@
+---
+title: Black Book Of The Admiralty
+permalink: "/definitions/black-book-of-the-admiralty.html"
+body: A book of the highest authority ln ad-miralty matters, generally sui,posed to
+  have been compiled during the reign of Edward
+published_at: '2018-07-07'
+layout: post
+---

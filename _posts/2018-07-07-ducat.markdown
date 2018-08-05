@@ -1,7 +1,0 @@
----
-layout: post
-title: Ducat
-date: '2018-07-07T00:00:00+00:00'
-permalink: ducat
----
-A foreign coin, varying ln value in different countries, but usually worth about $2.26 of our money

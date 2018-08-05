@@ -1,0 +1,8 @@
+---
+title: Lent
+permalink: "/definitions/lent.html"
+body: In ecclesiastical law. The quad-ragesimal fast; a time of abstinence; the time
+  from A6h-wednesday to Easter
+published_at: '2018-07-07'
+layout: post
+---

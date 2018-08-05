@@ -1,7 +1,0 @@
----
-layout: post
-title: Agrarium
-date: '2018-07-07T00:00:00+00:00'
-permalink: agrarium
----
-A tax upon or tribute pay-able out of bind

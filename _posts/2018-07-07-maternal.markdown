@@ -1,7 +1,0 @@
----
-layout: post
-title: Maternal
-date: '2018-07-07T00:00:00+00:00'
-permalink: maternal
----
-That which belongs to, or comes from, the mother; as maternal au-thorlty, maternal relation, maternal estate, maternal llne

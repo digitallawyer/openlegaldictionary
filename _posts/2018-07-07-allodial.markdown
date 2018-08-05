@@ -1,7 +1,0 @@
----
-layout: post
-title: Allodial
-date: '2018-07-07T00:00:00+00:00'
-permalink: allodial
----
-Free; not holden of any lord or superior; owned without obligation of vassalage or fealty; the opposite of feud-al. Barker v. Dayton. 28 wis. 384; Wallace v. Harmstad, 44 Pa. 499

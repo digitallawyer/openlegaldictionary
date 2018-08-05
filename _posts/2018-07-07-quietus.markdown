@@ -1,7 +1,0 @@
----
-layout: post
-title: Quietus
-date: '2018-07-07T00:00:00+00:00'
-permalink: quietus
----
-In old English law. Quit; acquitted; discharged. A word used by the clerk of the pipe, and auditors ln the exchequer, in their acquittances or discharges given to accountants; usuaily concluding with an abinde recessit quietus, (hath gone quit thereof,) which was called a “quietus est" CowelL

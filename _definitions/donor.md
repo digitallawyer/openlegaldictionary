@@ -1,0 +1,7 @@
+---
+title: Donor
+permalink: "/definitions/donor.html"
+body: In old English law. He by
+published_at: '2018-07-07'
+layout: post
+---

@@ -1,7 +1,0 @@
----
-layout: post
-title: Pawnee
-date: '2018-07-07T00:00:00+00:00'
-permalink: pawnee
----
-The person receiving a pawn, or to whom a pawn is made; the person to whom goods are dellvered hy another in pledge

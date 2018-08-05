@@ -1,7 +1,0 @@
----
-layout: post
-title: Tabuls
-date: '2018-07-07T00:00:00+00:00'
-permalink: tabuls
----
-Lat In Roman law. Ta-bles. writings of any kind used as evidences of a transaction. Brissonius

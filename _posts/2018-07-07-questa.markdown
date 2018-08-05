@@ -1,7 +1,0 @@
----
-layout: post
-title: Questa
-date: '2018-07-07T00:00:00+00:00'
-permalink: questa
----
-In old records. A quest; an inquest, inquisition, or inquiry, upon the oaths of an Impaneled jury. Oowell

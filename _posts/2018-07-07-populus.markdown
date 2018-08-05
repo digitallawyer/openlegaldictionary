@@ -1,7 +1,0 @@
----
-layout: post
-title: Populus
-date: '2018-07-07T00:00:00+00:00'
-permalink: populus
----
-Lat. In Roman law. The people; the whole body of Roman dtizens, including as well the patricians as the ple-belans

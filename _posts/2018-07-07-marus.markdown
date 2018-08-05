@@ -1,7 +1,0 @@
----
-layout: post
-title: Marus
-date: '2018-07-07T00:00:00+00:00'
-permalink: marus
----
-In old Scotch law. A maire; an officer or executor of summons, otherwise called “praeco regis.” Skene

@@ -1,7 +1,0 @@
----
-layout: post
-title: Chanter
-date: '2018-07-07T00:00:00+00:00'
-permalink: chanter
----
-The chief singer ln the choir of a cathedral. Mentioned in 13 Eliz. c. 10

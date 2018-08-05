@@ -1,7 +1,0 @@
----
-layout: post
-title: Audit
-date: '2018-07-07T00:00:00+00:00'
-permalink: audit
----
-As a verb; to make an official investigation and examination of accounts and vouchers

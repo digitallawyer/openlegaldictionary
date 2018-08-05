@@ -1,7 +1,0 @@
----
-layout: post
-title: Admiral
-date: '2018-07-07T00:00:00+00:00'
-permalink: admiral
----
-In European law. An officer who presided over the admiralitas, or collegium ammiralitatis. Locc. de Jur. Mar. lib. 2, c. 2, I 1

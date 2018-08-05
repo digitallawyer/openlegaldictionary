@@ -1,7 +1,0 @@
----
-layout: post
-title: Equality
-date: '2018-07-07T00:00:00+00:00'
-permalink: equality
----
-The condition of possessing the same rights, prlvlleges, and immunlties, and belng liable to the same duties

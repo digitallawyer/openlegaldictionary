@@ -1,7 +1,0 @@
----
-layout: post
-title: Baron
-date: '2018-07-07T00:00:00+00:00'
-permalink: baron
----
-A lord or nobleman; the most general title of nobility in England. 1 Bl. Comm. 398. 399

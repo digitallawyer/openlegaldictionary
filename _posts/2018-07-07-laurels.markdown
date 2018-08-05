@@ -1,7 +1,0 @@
----
-layout: post
-title: Laurels
-date: '2018-07-07T00:00:00+00:00'
-permalink: laurels
----
-Pieces of gold, coined in 1619, with the king’s head laureated; hence the name.

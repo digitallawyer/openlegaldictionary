@@ -1,7 +1,0 @@
----
-layout: post
-title: Quality
-date: '2018-07-07T00:00:00+00:00'
-permalink: quality
----
-In respect to persons, this term denotes comparative rank; state or condition in relation to others; social or civil position or class. .In pleading, it means ap

@@ -1,7 +1,0 @@
----
-layout: post
-title: Doe, John
-date: '2018-07-07T00:00:00+00:00'
-permalink: doe,-john
----
-The name of the fictitious plaintiff in the action of ejectment. 3 Stepb. Oomm. 618

@@ -1,0 +1,8 @@
+---
+title: Le Gongres
+permalink: "/definitions/le-gongres.html"
+body: A species of proof on charges of lmpotency ln France, coitus ooram tes films.
+  Abolished A. D. 1677
+published_at: '2018-07-07'
+layout: post
+---

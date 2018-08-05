@@ -1,7 +1,0 @@
----
-layout: post
-title: Death-Bed
-date: '2018-07-07T00:00:00+00:00'
-permalink: death-bed
----
-In Scotch law. A state of sickness which ends in death. Ersk. Inst 3, 8, 95

@@ -1,7 +1,0 @@
----
-layout: post
-title: Celdra
-date: '2018-07-07T00:00:00+00:00'
-permalink: celdra
----
-In old Engllsh law, a chal-dron. In old Scotch law, a measure of grain, otherwise called a “chalder.” See 1 Kames, Eq. 215

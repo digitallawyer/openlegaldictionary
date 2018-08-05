@@ -1,7 +1,0 @@
----
-layout: post
-title: Stachia
-date: '2018-07-07T00:00:00+00:00'
-permalink: stachia
----
-In old records. A dam or head made to stop a water-course. Cowell

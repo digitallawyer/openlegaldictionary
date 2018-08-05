@@ -1,7 +1,0 @@
----
-layout: post
-title: Pleading
-date: '2018-07-07T00:00:00+00:00'
-permalink: pleading
----
-The peculiar science ot system of rules and principles, established in the common law, according to which the pleadings or responsive allegations of litigating parties are framed, with a view to preserve technical propriety and to produce a proper issue

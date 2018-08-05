@@ -1,7 +1,0 @@
----
-layout: post
-title: Hjereda
-date: '2018-07-07T00:00:00+00:00'
-permalink: hjereda
----
-In Gothlc law. A tribunal answering to the Engllsh court-leet

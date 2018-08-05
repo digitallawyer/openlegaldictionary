@@ -1,0 +1,7 @@
+---
+title: Cerevisia
+permalink: "/definitions/cerevisia.html"
+body: In or beer. old English law. Ale
+published_at: '2018-07-07'
+layout: post
+---

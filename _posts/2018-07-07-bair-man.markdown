@@ -1,7 +1,0 @@
----
-layout: post
-title: Bair-Man
-date: '2018-07-07T00:00:00+00:00'
-permalink: bair-man
----
-In old Scotch law. A poor Insolvent debtor, left bare and naked, who was obliged to swear in court that he was not worth more than five shillings and five-pence

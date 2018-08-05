@@ -1,7 +1,0 @@
----
-layout: post
-title: Nail
-date: '2018-07-07T00:00:00+00:00'
-permalink: nail
----
-A lineal measure of two inches and a quarter

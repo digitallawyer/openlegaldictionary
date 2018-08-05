@@ -1,0 +1,8 @@
+---
+title: Subject
+permalink: "/definitions/subject.html"
+body: In logic. That concerning which the affirmation in a proposition is made; the
+  first word in a proposition
+published_at: '2018-07-07'
+layout: post
+---

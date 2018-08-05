@@ -1,7 +1,0 @@
----
-layout: post
-title: Erosion
-date: '2018-07-07T00:00:00+00:00'
-permalink: erosion
----
-The gradual eating away of the soil by the operation of currents or tides. Distinguished from submergence, which ls the disappearance of the soil under the water and the formation of a navigable body over it. Mulry v. Norton, 100 N. Y. 433, 3 N. E. 584, 53 Am. Rep. 206

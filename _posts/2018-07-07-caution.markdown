@@ -1,7 +1,0 @@
----
-layout: post
-title: Caution
-date: '2018-07-07T00:00:00+00:00'
-permalink: caution
----
-In Scotch law, and in admi-ralty law. Surety; security; bail; an un-dertaklng by way of surety. 6. Mod. 162. See Cautio

@@ -1,7 +1,0 @@
----
-layout: post
-title: Pennon
-date: '2018-07-07T00:00:00+00:00'
-permalink: pennon
----
-A standard, banner, or ensign carrled in war

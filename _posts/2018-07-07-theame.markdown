@@ -1,7 +1,0 @@
----
-layout: post
-title: Theame
-date: '2018-07-07T00:00:00+00:00'
-permalink: theame
----
-or THEAME. In old English law. A royalty or prlvilege granted, by royal charter, to a lord of a manor, for the having, restraining, and judging of bond-men and villeins, with thelr children, goods, and chattels, etc. Glan. lib. 5, c. 2

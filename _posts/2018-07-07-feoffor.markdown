@@ -1,7 +1,0 @@
----
-layout: post
-title: Feoffor
-date: '2018-07-07T00:00:00+00:00'
-permalink: feoffor
----
-The person making a feoff-ment, or enfeoffing another in fee. 2 BL Comm. 310; Litt. H 1, 57

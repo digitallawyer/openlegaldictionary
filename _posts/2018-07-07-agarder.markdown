@@ -1,7 +1,0 @@
----
-layout: post
-title: Agarder
-date: '2018-07-07T00:00:00+00:00'
-permalink: agarder
----
-L. Fr. To award, adjudge, or determine; to sentence, or condemn

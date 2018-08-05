@@ -1,7 +1,0 @@
----
-layout: post
-title: Taxers
-date: '2018-07-07T00:00:00+00:00'
-permalink: taxers
----
-Two officers yearly chosen ln Cambridge, England, to see the true gauge of all the weights and measures

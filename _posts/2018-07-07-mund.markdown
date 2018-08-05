@@ -1,7 +1,0 @@
----
-layout: post
-title: Mund
-date: '2018-07-07T00:00:00+00:00'
-permalink: mund
----
-In old English law. Peace; wheuce mundbryc, a breach of the peace

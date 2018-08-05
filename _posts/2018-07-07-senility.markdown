@@ -1,7 +1,0 @@
----
-layout: post
-title: Senility
-date: '2018-07-07T00:00:00+00:00'
-permalink: senility
----
-Incapacity to contract aris-ing from the impairment of the Intellectual faculties by old age

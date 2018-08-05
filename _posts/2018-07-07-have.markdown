@@ -1,7 +1,0 @@
----
-layout: post
-title: Have
-date: '2018-07-07T00:00:00+00:00'
-permalink: have
----
-To possess corporally. “No one, at common law, was sald to have or to be in possession of land, unless it were con-veyed to him by the livery of seisin, which gave him the corporal investiture and bodily occupation thereof." Bl. Law Tracts, 113

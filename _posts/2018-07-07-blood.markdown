@@ -1,7 +1,0 @@
----
-layout: post
-title: Blood
-date: '2018-07-07T00:00:00+00:00'
-permalink: blood
----
-Kindred; consanguinity; fam-lly relationship; relation by descent from a

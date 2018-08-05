@@ -1,7 +1,0 @@
----
-layout: post
-title: Dica
-date: '2018-07-07T00:00:00+00:00'
-permalink: dica
----
-In old English law. A tally for accounts, hy number of cuts, (taillees,) marks, or notches. CoweU. See Tallia, Tally

@@ -1,7 +1,0 @@
----
-layout: post
-title: Muebles
-date: '2018-07-07T00:00:00+00:00'
-permalink: muebles
----
-In Spanish law. Movables; all sorts of personal property, white, New Recop. b. 1, tlt. 3, c. 1, § 2

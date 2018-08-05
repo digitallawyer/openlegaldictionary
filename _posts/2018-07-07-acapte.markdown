@@ -1,7 +1,0 @@
----
-layout: post
-title: Acapte
-date: '2018-07-07T00:00:00+00:00'
-permalink: acapte
----
-In French feudal law. A species of relief; a selgnoriul right due ou every

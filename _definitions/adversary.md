@@ -1,0 +1,7 @@
+---
+title: Adversary
+permalink: "/definitions/adversary.html"
+body: A litigant-opponent, the opposite party ln a writ or actlon
+published_at: '2018-07-07'
+layout: post
+---

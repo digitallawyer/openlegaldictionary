@@ -1,7 +1,0 @@
----
-layout: post
-title: Military
-date: '2018-07-07T00:00:00+00:00'
-permalink: military
----
-Pertaining to war or to the army; concerned with war. Also the whole body of soldiers; an army

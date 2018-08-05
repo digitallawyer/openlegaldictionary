@@ -1,7 +1,0 @@
----
-layout: post
-title: Ally
-date: '2018-07-07T00:00:00+00:00'
-permalink: ally
----
-A nation which has entered into an alliance with another nation. 1 Kent, Comm. 69

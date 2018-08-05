@@ -1,7 +1,0 @@
----
-layout: post
-title: Hitherto
-date: '2018-07-07T00:00:00+00:00'
-permalink: hitherto
----
-In legal use, this term always restricts the matter in connection with which it Is employed to a period of time already passed. Mason v. Jones, 13 Barb. (N. Y.) 479

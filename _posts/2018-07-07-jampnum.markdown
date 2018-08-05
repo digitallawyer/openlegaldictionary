@@ -1,7 +1,0 @@
----
-layout: post
-title: Jampnum
-date: '2018-07-07T00:00:00+00:00'
-permalink: jampnum
----
-Furze, or grass, or grouud where furze grows; as distinguished from “arable,” “pasture," or the like. Co. Litt. 5a

@@ -1,0 +1,7 @@
+---
+title: Agree
+permalink: "/definitions/agree-2.html"
+body: In French law. A solicitor practising solely in the tribunals of com-merce
+published_at: '2018-07-07'
+layout: post
+---

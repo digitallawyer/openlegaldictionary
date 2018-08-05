@@ -1,0 +1,8 @@
+---
+title: Lammas Lands
+permalink: "/definitions/lammas-lands.html"
+body: Lands over whlch there ls a right of pasturage by persons other than the owner
+  from about Lammas, or reap-lng tlme, until sowing time, wharton
+published_at: '2018-07-07'
+layout: post
+---

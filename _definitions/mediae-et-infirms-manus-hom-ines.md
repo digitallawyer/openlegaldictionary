@@ -1,0 +1,7 @@
+---
+title: Mediae Et Infirms Manus Hom-Ines
+permalink: "/definitions/mediae-et-infirms-manus-hom-ines.html"
+body: Men of a middle and base condition. Blount
+published_at: '2018-07-07'
+layout: post
+---

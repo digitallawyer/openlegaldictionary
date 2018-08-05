@@ -1,7 +1,0 @@
----
-layout: post
-title: Hovel
-date: '2018-07-07T00:00:00+00:00'
-permalink: hovel
----
-A place used by husbandmen to set thelr plows, carts, and other farming utensils out of the rain and sun. A shed; a cottage; a mean house

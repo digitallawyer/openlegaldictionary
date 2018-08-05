@@ -1,7 +1,0 @@
----
-layout: post
-title: Senile Dementia
-date: '2018-07-07T00:00:00+00:00'
-permalink: senile-dementia
----
-That peculiar de-cay of the mental faculties which occurs in extreme old age, and ln many cases much earlier, whereby the person is reduced to second childhood, and becomes sometimes wholly incompetent to enter Into any binding con-tract, or even to execute a will. It is the recurrence of second childhood by mere de-cay. 1 Redf. wills, 63. See Insanity

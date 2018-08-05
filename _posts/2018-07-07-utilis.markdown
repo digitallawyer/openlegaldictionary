@@ -1,7 +1,0 @@
----
-layout: post
-title: Utilis
-date: '2018-07-07T00:00:00+00:00'
-permalink: utilis
----
-Lat. In the civil law. Use-ful; beneficial; equitable; available. Actio utilis, au equitable action. Calvin. Dies utilis, an available day

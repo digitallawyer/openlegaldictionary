@@ -1,7 +1,0 @@
----
-layout: post
-title: Clausura
-date: '2018-07-07T00:00:00+00:00'
-permalink: clausura
----
-In old English law. An inclosure. CIausura hey#, the inclosure of a hedge. CowelL

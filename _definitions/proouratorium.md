@@ -1,0 +1,9 @@
+---
+title: Proouratorium
+permalink: "/definitions/proouratorium.html"
+body: In old English law. The procuratory or instrument by which any person or community
+  constituted or delegated their procurator or proctors to represent them in any judicial
+  court or cause. Cowell
+published_at: '2018-07-07'
+layout: post
+---

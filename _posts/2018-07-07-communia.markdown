@@ -1,7 +1,0 @@
----
-layout: post
-title: Communia
-date: '2018-07-07T00:00:00+00:00'
-permalink: communia
----
-In old English law. Common things, res communes. Such as running water, the air, the sea, and sea shores. Bract foL 7b

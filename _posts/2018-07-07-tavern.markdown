@@ -1,7 +1,0 @@
----
-layout: post
-title: Tavern
-date: '2018-07-07T00:00:00+00:00'
-permalink: tavern
----
-A place of entertainment; a house kept up for the accommodation of strangers. originally, a house for the retailing of liquors to be drunk on the spot web-ster

@@ -1,7 +1,0 @@
----
-layout: post
-title: Poustie
-date: '2018-07-07T00:00:00+00:00'
-permalink: poustie
----
-In Scotch law. Power. See Liege Poustle. A word formed from the Latin “potestas.”

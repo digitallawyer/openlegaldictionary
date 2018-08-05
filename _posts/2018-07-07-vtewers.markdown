@@ -1,7 +1,0 @@
----
-layout: post
-title: Vtewers
-date: '2018-07-07T00:00:00+00:00'
-permalink: vtewers
----
-Persons who are appointed by & court to make an lnvestigatlon of cer-taln matters, or to examlne a partlcular locality, (as, the proposed site of a new road,) and to report to the court the result of thelr lnspection, wlth their opinion on the same

@@ -1,7 +1,0 @@
----
-layout: post
-title: Traditor
-date: '2018-07-07T00:00:00+00:00'
-permalink: traditor
----
-In old English law. A traitor; one guilty of high treason. Fleta, llb. 1, c. 21, S 8

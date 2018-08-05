@@ -1,0 +1,7 @@
+---
+title: Stating An Account
+permalink: "/definitions/stating-an-account.html"
+body: Exhibiting, or listing in their order, the items which make up an account
+published_at: '2018-07-07'
+layout: post
+---

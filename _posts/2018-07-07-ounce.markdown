@@ -1,7 +1,0 @@
----
-layout: post
-title: Ounce
-date: '2018-07-07T00:00:00+00:00'
-permalink: ounce
----
-The twelfth part; the twelfth part of a pound troy or the sixteenth part of a pound avoirdupois

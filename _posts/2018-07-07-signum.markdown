@@ -1,7 +1,0 @@
----
-layout: post
-title: Signum
-date: '2018-07-07T00:00:00+00:00'
-permalink: signum
----
-Lat. In the Roman and oivil law. A sign; a mark; a seal. The seal of an instrument. Calvin

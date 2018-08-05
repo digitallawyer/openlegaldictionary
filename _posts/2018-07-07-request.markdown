@@ -1,7 +1,0 @@
----
-layout: post
-title: Request
-date: '2018-07-07T00:00:00+00:00'
-permalink: request
----
-An asking or petition; the expression of a desire to some person for something to be granted or done; particu-iarly for the payment of a debt or performance of a contract

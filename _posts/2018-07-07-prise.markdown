@@ -1,7 +1,0 @@
----
-layout: post
-title: Prise
-date: '2018-07-07T00:00:00+00:00'
-permalink: prise
----
-Fr. In French law. Prize; captured projierty. ord. Mar. liv. 3, tit. 9. See Dole v. Insurance Co., 6 Allen (Mass.) 373

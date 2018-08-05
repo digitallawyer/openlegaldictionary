@@ -1,7 +1,0 @@
----
-layout: post
-title: Libertas
-date: '2018-07-07T00:00:00+00:00'
-permalink: libertas
----
-Lat. Liberty; freedom; a prlvilege; a franchlse

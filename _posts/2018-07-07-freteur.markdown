@@ -1,7 +1,0 @@
----
-layout: post
-title: Freteur
-date: '2018-07-07T00:00:00+00:00'
-permalink: freteur
----
-Fr. In French marine law. Freighter. The owner of a ship, who lets it to the merchant Emerig. Tr. des Ass. c. 11, 13

@@ -1,0 +1,7 @@
+---
+title: Blood Money
+permalink: "/definitions/blood-money.html"
+body: A weregild, or pecuniary mulct paid by a slayer to the rela-tlves of his victim
+published_at: '2018-07-07'
+layout: post
+---

@@ -1,7 +1,0 @@
----
-layout: post
-title: Term
-date: '2018-07-07T00:00:00+00:00'
-permalink: term
----
-A word or phrase; an expression ; particularly one which possesses a flx-ed and known meaning in some science, art, or profession

@@ -1,7 +1,0 @@
----
-layout: post
-title: Bridge
-date: '2018-07-07T00:00:00+00:00'
-permalink: bridge
----
-A structure erected over a river, creek, stream, ditch, ravine, or other place, to facilitate the passage thereof; in-cluding by the term both arches and abnt-ments. Bridge Co. v. Railroad Co., 17 Conn

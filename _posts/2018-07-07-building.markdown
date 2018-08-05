@@ -1,7 +1,0 @@
----
-layout: post
-title: Building
-date: '2018-07-07T00:00:00+00:00'
-permalink: building
----
-A structure or edifice erected by the hand of man, composed of natural materials, as stone or wood, and Intended for use or convenience. Truesdell v. Gray, 13 Gray (Mass.) 311; State v. Moore, 61 Mo. 276; Clark v. State, 69 wis. 203, 33 N. W. 436, 2 Am. St. Rep. 732

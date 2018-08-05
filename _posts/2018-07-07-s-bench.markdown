@@ -1,7 +1,0 @@
----
-layout: post
-title: S Bench
-date: '2018-07-07T00:00:00+00:00'
-permalink: s-bench
----
-BENCH. The supreme court of common law ln England, being so called be-cause the king used formerly to sit there in person, the style of the court being “coram ipso rege” It was called the “queen’s bench” in the reign of a queen, and during the pro-tectorate of Cromwell it was styled the “up

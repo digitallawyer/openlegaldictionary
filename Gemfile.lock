@@ -228,6 +228,8 @@ GEM
       mini_portile2 (~> 2.3.0)
     octokit (4.9.0)
       sawyer (~> 0.8.0, >= 0.5.3)
+    pagemaster (2.0.1)
+      jekyll (~> 3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     progressbar (1.9.0)
@@ -269,7 +271,8 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   minima (~> 2.0)
+  pagemaster
   tzinfo-data
 
 BUNDLED WITH
-   1.16.2
+   1.16.3

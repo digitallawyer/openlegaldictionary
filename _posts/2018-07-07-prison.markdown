@@ -1,7 +1,0 @@
----
-layout: post
-title: Prison
-date: '2018-07-07T00:00:00+00:00'
-permalink: prison
----
-A public building for the con-fiuement or safe custody of persons, whether as a punishment imposed by the law or other-wise in the course of the administration of Justice. See Scarborough v. Thornton, 9 Pa. 451; Sturtevant v. Com., 158 Mass. 598, 33 N. E. 648; Pen. Code N. Y. 1903, I 92

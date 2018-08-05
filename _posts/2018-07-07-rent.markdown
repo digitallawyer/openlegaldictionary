@@ -1,7 +1,0 @@
----
-layout: post
-title: Rent
-date: '2018-07-07T00:00:00+00:00'
-permalink: rent
----
-At eommon law. A certain profit issuing yearly out of lands and tene-ments corporeal; a species of incorporeal hereditament. 2 Bl. Comm. 41. A compensation or return yielded periodically, to a certain amount, out of the profits of some corporeal hereditaments, by the tenant there-of. 2 Steph. Comm. 23. A certain yearly profit ln money, provlslons, chattels, or la-bor, lssuing out of lands and tenements, in retribution for the use. 3 Kent, Comm. 460

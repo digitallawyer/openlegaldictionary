@@ -1,7 +1,0 @@
----
-layout: post
-title: Pone
-date: '2018-07-07T00:00:00+00:00'
-permalink: pone
----
-In English practice. An original writ formerly used for the purpose of remov-lng snlts frem the court-baroa or county

@@ -1,7 +1,0 @@
----
-layout: post
-title: Frais
-date: '2018-07-07T00:00:00+00:00'
-permalink: frais
----
-Fr. Expense; charges; costs. Frais d'un prods, costs of a suit

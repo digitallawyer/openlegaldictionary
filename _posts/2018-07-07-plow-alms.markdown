@@ -1,7 +1,0 @@
----
-layout: post
-title: Plow-Alms
-date: '2018-07-07T00:00:00+00:00'
-permalink: plow-alms
----
-The anclent payment of a penny to the church from every plow-land. 1 Mon. Angl. 256

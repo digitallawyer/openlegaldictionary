@@ -1,7 +1,0 @@
----
-layout: post
-title: Fight
-date: '2018-07-07T00:00:00+00:00'
-permalink: fight
----
-An encounter, with blows or other personal violence, between two persons. See State v. Gladden, 73 N. C. 155; Carpen-ter v. People, 31 Colo. 284, 72 Pac. 1072; Coles v. New York Casualty Co., 87 App. Dlv. 41, 83 N.. Y. Supp. 1063

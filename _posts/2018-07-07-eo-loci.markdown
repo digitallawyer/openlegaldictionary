@@ -1,7 +1,0 @@
----
-layout: post
-title: Eo Loci
-date: '2018-07-07T00:00:00+00:00'
-permalink: eo-loci
----
-Lat. In the civll law. In that state or condltion; in that place, (eo loco.) Calvin

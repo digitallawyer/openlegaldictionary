@@ -1,7 +1,0 @@
----
-layout: post
-title: Royal
-date: '2018-07-07T00:00:00+00:00'
-permalink: royal
----
-Of or pertaining to or proceed-ing from the king oc sovereign in a mon-archlcal government

@@ -1,7 +1,0 @@
----
-layout: post
-title: Avowtry
-date: '2018-07-07T00:00:00+00:00'
-permalink: avowtry
----
-In old English law. Adul-tery. Termes de la Ley

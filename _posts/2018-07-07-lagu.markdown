@@ -1,7 +1,0 @@
----
-layout: post
-title: Lagu
-date: '2018-07-07T00:00:00+00:00'
-permalink: lagu
----
-In old Engllsh law. Law; also nsed to express the territory or dlstrict in which a particular law was in force, as Dena lagu, Mercna lagu, etc

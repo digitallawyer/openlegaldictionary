@@ -1,7 +1,0 @@
----
-layout: post
-title: Ewage
-date: '2018-07-07T00:00:00+00:00'
-permalink: ewage
----
-(L. Fr. Etoe, water.) In old English law. Toll paid for water passage, The same as aquage. Tomlins

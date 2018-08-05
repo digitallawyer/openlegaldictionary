@@ -1,0 +1,7 @@
+---
+title: Atiltum
+permalink: "/definitions/atiltum.html"
+body: The tackle or rigging of a ship; the harness or tackle of a plow. Spel-man
+published_at: '2018-07-07'
+layout: post
+---

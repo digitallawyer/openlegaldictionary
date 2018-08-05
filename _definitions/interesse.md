@@ -1,0 +1,7 @@
+---
+title: Interesse
+permalink: "/definitions/interesse.html"
+body: Lat. Interest. The ln-terest of money; also an interest ln lands
+published_at: '2018-07-07'
+layout: post
+---

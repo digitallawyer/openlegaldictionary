@@ -1,7 +1,0 @@
----
-layout: post
-title: Purge
-date: '2018-07-07T00:00:00+00:00'
-permalink: purge
----
-To cleanse; to clear; to dear or exonerate from some charge or imputation of guilt, or from a contempt

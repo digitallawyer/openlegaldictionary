@@ -1,7 +1,0 @@
----
-layout: post
-title: Tassum
-date: '2018-07-07T00:00:00+00:00'
-permalink: tassum
----
-In old Engllsh law. A heap; a hay-mow, or hay-stack. Foenum in tas* is, hay In stacks. Reg. orig. 96

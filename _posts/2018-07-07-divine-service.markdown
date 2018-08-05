@@ -1,7 +1,0 @@
----
-layout: post
-title: Divine Service
-date: '2018-07-07T00:00:00+00:00'
-permalink: divine-service
----
-Divine service was the name of a feudal tenure, by which the tenants were obliged to do some special divine services in certaiu ; as to sing so many masses, to distribute such a sum in alms, and the like. (2 Bl. Comm. 102; 1 Steph. Comm. 227.) lt differed from tenure iu frankalmoign, iu this: that, iu case of the tenure hy diviue service, the lord of whom the lauds were holden might distrain for its non-perforniauce, whereas, in case of frankalmoign, the lord has no remedy hy distraint for neglect of the service, but merely a right of complttint to the visitor to correct it. Mozley & whitley

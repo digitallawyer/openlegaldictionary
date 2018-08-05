@@ -1,7 +1,0 @@
----
-layout: post
-title: Surveyor
-date: '2018-07-07T00:00:00+00:00'
-permalink: surveyor
----
-one who makes surveys of land; one who has the overseeing or care of another person’s land or works

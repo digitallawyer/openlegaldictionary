@@ -1,7 +1,0 @@
----
-layout: post
-title: Cahier
-date: '2018-07-07T00:00:00+00:00'
-permalink: cahier
----
-In old French law. -A list of grievances prepared for deputies in the states-general. A petition for the redress of griev-ances enumerated

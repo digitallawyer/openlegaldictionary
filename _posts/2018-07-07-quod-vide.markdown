@@ -1,7 +1,0 @@
----
-layout: post
-title: Quod Vide
-date: '2018-07-07T00:00:00+00:00'
-permalink: quod-vide
----
-whlch see. A direction to the reader to look to another part of tbe hook, or to another book, there named, for further information

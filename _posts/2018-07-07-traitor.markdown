@@ -1,7 +1,0 @@
----
-layout: post
-title: Traitor
-date: '2018-07-07T00:00:00+00:00'
-permalink: traitor
----
-one who, being trusted, be* trays; one guilty of treason

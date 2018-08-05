@@ -1,0 +1,9 @@
+---
+title: Ita Est
+permalink: "/definitions/ita-est.html"
+body: Lat So lt is; so lt stands. In modern civil law, this phrase ls a form of attestation
+  added to exemplifications from a notary’s register when the same are made by the
+  successor in office of the notary who made the original entries
+published_at: '2018-07-07'
+layout: post
+---

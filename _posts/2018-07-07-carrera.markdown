@@ -1,7 +1,0 @@
----
-layout: post
-title: Carrera
-date: '2018-07-07T00:00:00+00:00'
-permalink: carrera
----
-In Spanish law. A carriageway; the right of a carriage-way. Las Partidas, pt. 3, tit. 31, L 3

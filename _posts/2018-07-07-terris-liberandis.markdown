@@ -1,7 +1,0 @@
----
-layout: post
-title: Terris Liberandis
-date: '2018-07-07T00:00:00+00:00'
-permalink: terris-liberandis
----
-A writ that lay for a man convicted hy attaint, to bring the record and process before the king, and take a flne for his imprisonment, and then to deliver to him his lands and teue-ments again, and release him of the strip and waste. Reg. orig. 232. Also lt was a writ for the delivery of lands to the heir, after homage and relief performed, or upon security taken that he should perform them. Id. 293

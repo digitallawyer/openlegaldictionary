@@ -1,7 +1,0 @@
----
-layout: post
-title: Obit
-date: '2018-07-07T00:00:00+00:00'
-permalink: obit
----
-In old English law. A funeral solemnity, or office for the dead. Cowell. The annlversary of a person’s death; the au-niversnry ofiice. Cro. Jac. 51

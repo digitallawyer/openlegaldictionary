@@ -1,7 +1,0 @@
----
-layout: post
-title: Range
-date: '2018-07-07T00:00:00+00:00'
-permalink: range
----
-In the government survey of the United States, this term is used to de

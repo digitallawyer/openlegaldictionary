@@ -1,7 +1,0 @@
----
-layout: post
-title: Possess
-date: '2018-07-07T00:00:00+00:00'
-permalink: possess
----
-To occupy in person; to have in one’s actual and physical control; to have

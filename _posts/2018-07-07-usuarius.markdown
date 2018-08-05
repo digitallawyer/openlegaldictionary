@@ -1,7 +1,0 @@
----
-layout: post
-title: Usuarius
-date: '2018-07-07T00:00:00+00:00'
-permalink: usuarius
----
-LaL In the civil law. one who had the mere use of a thing belonging to another for the purpose of supplying his daily wants; a usuary. Dig. 7, 8, 10, pr.; Calvin

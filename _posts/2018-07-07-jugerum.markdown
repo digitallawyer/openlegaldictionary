@@ -1,7 +1,0 @@
----
-layout: post
-title: Jugerum
-date: '2018-07-07T00:00:00+00:00'
-permalink: jugerum
----
-An acre. Co. Litt. 5b. As much as a yoke (jugum) of oxen could plow in one day

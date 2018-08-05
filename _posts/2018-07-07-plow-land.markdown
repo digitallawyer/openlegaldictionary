@@ -1,7 +1,0 @@
----
-layout: post
-title: Plow-Land
-date: '2018-07-07T00:00:00+00:00'
-permalink: plow-land
----
-A quantity of land “not of any certain content, but as much as a plow can, by course of husbandry, plow ln a year." Co. Litt. 69a

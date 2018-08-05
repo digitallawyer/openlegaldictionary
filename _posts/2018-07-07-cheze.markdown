@@ -1,7 +1,0 @@
----
-layout: post
-title: Cheze
-date: '2018-07-07T00:00:00+00:00'
-permalink: cheze
----
-A homestead or hoinesfall which ls accessory to a house

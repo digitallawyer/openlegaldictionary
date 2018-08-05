@@ -1,7 +1,0 @@
----
-layout: post
-title: Cord
-date: '2018-07-07T00:00:00+00:00'
-permalink: cord
----
-A measure of wood, containing 128 cubic feet. Kennedy v. Railroad Co., 07 Barb. (N. Y.) 177

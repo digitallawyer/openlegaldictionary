@@ -1,7 +1,0 @@
----
-layout: post
-title: Vendor
-date: '2018-07-07T00:00:00+00:00'
-permalink: vendor
----
-The person who transfers property by sale, particularly real estate, “seller” being more commonly used for one who sells personalty

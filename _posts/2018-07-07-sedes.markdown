@@ -1,7 +1,0 @@
----
-layout: post
-title: Sedes
-date: '2018-07-07T00:00:00+00:00'
-permalink: sedes
----
-Lat. A see; the dignity of a bishop. 3 Steph. Comm. 65

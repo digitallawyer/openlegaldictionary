@@ -1,7 +1,0 @@
----
-layout: post
-title: Intra
-date: '2018-07-07T00:00:00+00:00'
-permalink: intra
----
-Lat. In; near; within. “Infra” or "infer” has taken the place of “intra” in many of the more modern Latin phrases

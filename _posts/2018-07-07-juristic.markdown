@@ -1,7 +1,0 @@
----
-layout: post
-title: Juristic
-date: '2018-07-07T00:00:00+00:00'
-permalink: juristic
----
-Pertaining or belonging to, or characteristic of, jurisprudence, or a jurist, or the legal profession

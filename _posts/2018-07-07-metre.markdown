@@ -1,7 +1,0 @@
----
-layout: post
-title: Metre
-date: '2018-07-07T00:00:00+00:00'
-permalink: metre
----
-The unit of measure in the "metric system” of weigihts and measures. It is a measure of length, belng the ten-mil-lionth part of the distance from the equator

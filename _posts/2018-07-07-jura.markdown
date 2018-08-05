@@ -1,7 +1,0 @@
----
-layout: post
-title: Jura
-date: '2018-07-07T00:00:00+00:00'
-permalink: jura
----
-Lat. Plural of “jus.” Rights; laws. 1 Bl. Comm. 123. See Jus

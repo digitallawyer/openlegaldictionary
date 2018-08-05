@@ -1,7 +1,0 @@
----
-layout: post
-title: Wealreaf
-date: '2018-07-07T00:00:00+00:00'
-permalink: wealreaf
----
-In old English law. The robbing of a dead man in his grave

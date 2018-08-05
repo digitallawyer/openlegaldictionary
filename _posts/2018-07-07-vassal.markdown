@@ -1,7 +1,0 @@
----
-layout: post
-title: Vassal
-date: '2018-07-07T00:00:00+00:00'
-permalink: vassal
----
-In feudal iaw. A feudal ten-ant or grantee; a feudatory; the holder of a fief on a feudal teuure, and by the obliga-tion of performing feudal services. The correlative term was “lord.”

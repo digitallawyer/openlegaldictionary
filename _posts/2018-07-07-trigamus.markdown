@@ -1,7 +1,0 @@
----
-layout: post
-title: Trigamus
-date: '2018-07-07T00:00:00+00:00'
-permalink: trigamus
----
-In old English law. one who has been thrice married; one who, at different times and successively, has had three wives; a trigamist. 3 Inst. 88

@@ -1,7 +1,0 @@
----
-layout: post
-title: Affidari
-date: '2018-07-07T00:00:00+00:00'
-permalink: affidari
----
-To be mustered and enrolled for soldiers npon an oath of fidelity

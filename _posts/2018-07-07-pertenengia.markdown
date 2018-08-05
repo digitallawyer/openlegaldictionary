@@ -1,7 +1,0 @@
----
-layout: post
-title: Pertenengia
-date: '2018-07-07T00:00:00+00:00'
-permalink: pertenengia
----
-In Spanish law. The claim or right which one has to the property in anything; the territory which belongs to any one by way of Jurisdiction or property; that w'hich ls accessory or consequent to a principal thing, and goes with the ownership of it, as when it is said that such an one buys such an estate with all its appurtenances, (pertenencias.) Escriche. See Castillero v. United States, 2 Black. 17, 17 L. Ed. 360

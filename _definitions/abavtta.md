@@ -1,0 +1,8 @@
+---
+title: Abavtta
+permalink: "/definitions/abavtta.html"
+body: A great-great-grandfather's sister. Braot fob 68b. This ls a misprint for abamita,
+  (q. v.) Burrlll
+published_at: '2018-07-07'
+layout: post
+---

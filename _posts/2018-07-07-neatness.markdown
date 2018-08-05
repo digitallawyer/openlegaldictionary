@@ -1,7 +1,0 @@
----
-layout: post
-title: Neatness
-date: '2018-07-07T00:00:00+00:00'
-permalink: neatness
----
-In pleading. The statement in apt and appropriate words of all the necessary facts, and no more. Lawes, Pl. 62

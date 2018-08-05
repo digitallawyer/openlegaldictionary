@@ -1,7 +1,0 @@
----
-layout: post
-title: By-Laws
-date: '2018-07-07T00:00:00+00:00'
-permalink: by-laws
----
-Regulations, ordinances, or rules enacted by a private corporation for its own government

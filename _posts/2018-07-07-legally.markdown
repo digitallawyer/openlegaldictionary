@@ -1,7 +1,0 @@
----
-layout: post
-title: Legally
-date: '2018-07-07T00:00:00+00:00'
-permalink: legally
----
-Lawfully; according to law

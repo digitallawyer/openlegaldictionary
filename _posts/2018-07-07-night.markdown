@@ -1,7 +1,0 @@
----
-layout: post
-title: Night
-date: '2018-07-07T00:00:00+00:00'
-permalink: night
----
-As to what, by the common law, is reckoned night and what day, it seems to be the general oplnlon that, if there be daylight, or crepusculum, enough begun or left to discern a man’s face, that ls con-sidered day; and night ls when lt is so dark that the countenance of a man cannot be dis-cerned. 1 Hale, P. C. 350. However, the limlj: of 9 p. it. to 6 a. u. has been fixed by statute, ln England, as the period of night, in prosecutions for burglary and larceny. St 24 & 25 Vlct. c. 96, $ 1; Brown. In Amer-ican law, the common-law definition is still adhered to in some states, but ln others “night” has been defined by statute as tbe period between sunset and sunrise

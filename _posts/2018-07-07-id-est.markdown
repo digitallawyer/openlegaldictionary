@@ -1,7 +1,0 @@
----
-layout: post
-title: Id Est
-date: '2018-07-07T00:00:00+00:00'
-permalink: id-est
----
-Lat That is. Commonly ab-breviated “i. e.”

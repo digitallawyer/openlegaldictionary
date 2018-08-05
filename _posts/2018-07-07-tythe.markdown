@@ -1,7 +1,0 @@
----
-layout: post
-title: Tythe
-date: '2018-07-07T00:00:00+00:00'
-permalink: tythe
----
-Tithe, or tenth part

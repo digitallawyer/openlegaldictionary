@@ -1,7 +1,0 @@
----
-layout: post
-title: Deponent
-date: '2018-07-07T00:00:00+00:00'
-permalink: deponent
----
-In practice, one who de-poses (that Is, testifies or makes oath in writing) to the truth of certain facts; one who gives under oath testimony which is reduced to writing; one who makes oath to a written statement. The party making an affidavit is generally so called

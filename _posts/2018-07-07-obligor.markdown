@@ -1,7 +1,0 @@
----
-layout: post
-title: Obligor
-date: '2018-07-07T00:00:00+00:00'
-permalink: obligor
----
-The persou who has engaged to perform some obligation. Code La. art. 3522, no. 12. one who makes a bond

@@ -1,7 +1,0 @@
----
-layout: post
-title: Extract
-date: '2018-07-07T00:00:00+00:00'
-permalink: extract
----
-A portion or fragment of a writing. In Scotch law, the certified copy, by a clerk of a court, of the proceedings ln

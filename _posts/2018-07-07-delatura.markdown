@@ -1,7 +1,0 @@
----
-layout: post
-title: Delatura
-date: '2018-07-07T00:00:00+00:00'
-permalink: delatura
----
-In old English law. The reward of an Informer, whishaw

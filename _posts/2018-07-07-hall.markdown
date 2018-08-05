@@ -1,7 +1,0 @@
----
-layout: post
-title: Hall
-date: '2018-07-07T00:00:00+00:00'
-permalink: hall
----
-A bulldlug or room of conslder-able size, used as a place for the meeting of public assemblies, conventions, courts, etc

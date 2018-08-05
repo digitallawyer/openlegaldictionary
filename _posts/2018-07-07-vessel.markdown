@@ -1,7 +1,0 @@
----
-layout: post
-title: Vessel
-date: '2018-07-07T00:00:00+00:00'
-permalink: vessel
----
-A shl0, brig, sloop, or other craft used in navigation. The word ls more comprebenslve than “shlp.”

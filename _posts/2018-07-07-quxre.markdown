@@ -1,7 +1,0 @@
----
-layout: post
-title: Quxre
-date: '2018-07-07T00:00:00+00:00'
-permalink: quxre
----
-A query; question; doubt This word, occurring ln the syllabus of a re-ported case or elsewhere, shows that a ques-tion ia propounded as to what follows, or that the particular rule, decision, or state-ment is considered as open to question

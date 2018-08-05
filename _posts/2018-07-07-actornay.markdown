@@ -1,7 +1,0 @@
----
-layout: post
-title: Actornay
-date: '2018-07-07T00:00:00+00:00'
-permalink: actornay
----
-In old Scotch law. An attorney. Skene

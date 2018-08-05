@@ -1,7 +1,0 @@
----
-layout: post
-title: Inborh
-date: '2018-07-07T00:00:00+00:00'
-permalink: inborh
----
-In Saxon law. A security, pledge, or hypotheca, consisting of the chattels of a person unable to obtain a personal “borg,” or surety

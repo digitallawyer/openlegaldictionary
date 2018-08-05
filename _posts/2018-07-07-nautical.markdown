@@ -1,7 +1,0 @@
----
-layout: post
-title: Nautical
-date: '2018-07-07T00:00:00+00:00'
-permalink: nautical
----
-Pertaining to ships or to the art of navigation or the business of car-riage by sea

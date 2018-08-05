@@ -1,7 +1,0 @@
----
-layout: post
-title: Placard
-date: '2018-07-07T00:00:00+00:00'
-permalink: placard
----
-An edict; a declaration; a manifesto. Also an advertisement or public notification

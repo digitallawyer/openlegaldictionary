@@ -1,7 +1,0 @@
----
-layout: post
-title: Futures
-date: '2018-07-07T00:00:00+00:00'
-permalink: futures
----
-This term has grown out of those purely speculative transactions, in which there ls a nominal contract of sale for

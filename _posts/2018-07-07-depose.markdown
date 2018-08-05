@@ -1,7 +1,0 @@
----
-layout: post
-title: Depose
-date: '2018-07-07T00:00:00+00:00'
-permalink: depose
----
-In praotioe. In ancient usage, to testify as a witness; to give evidence under oath

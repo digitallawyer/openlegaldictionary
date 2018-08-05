@@ -1,7 +1,0 @@
----
-layout: post
-title: Jural
-date: '2018-07-07T00:00:00+00:00'
-permalink: jural
----
-1. Pertaining to natural or pos-itive right, or to the doctrines of rights and obligations; as “jural relations.”

@@ -1,7 +1,0 @@
----
-layout: post
-title: Meeting
-date: '2018-07-07T00:00:00+00:00'
-permalink: meeting
----
-A coming together of per-sons; an assembly. Particularly, in law, an assembling of a number of persons for the purpose of discussing and acting upon some matter or matters in which they have a eoin-mon interest

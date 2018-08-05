@@ -1,7 +1,0 @@
----
-layout: post
-title: Jobber
-date: '2018-07-07T00:00:00+00:00'
-permalink: jobber
----
-one who buys and sells goods for others; one who buys or sells on the stock exchange; a dealer ln stocks, shares, or securities

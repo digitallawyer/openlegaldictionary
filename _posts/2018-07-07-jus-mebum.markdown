@@ -1,7 +1,0 @@
----
-layout: post
-title: Jus Mebum
-date: '2018-07-07T00:00:00+00:00'
-permalink: jus-mebum
----
-In old English law. Mere or bare right; the mere right of property in lands, without either possession or even the right of possession. 2 Bl. Comm. 197; Bract, fol. 23

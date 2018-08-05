@@ -1,7 +1,0 @@
----
-layout: post
-title: Ligare
-date: '2018-07-07T00:00:00+00:00'
-permalink: ligare
----
-To tie or bind. Bract, fol. 869b

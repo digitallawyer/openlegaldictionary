@@ -1,7 +1,0 @@
----
-layout: post
-title: Resetter
-date: '2018-07-07T00:00:00+00:00'
-permalink: resetter
----
-In Scotch law. A receiver of stolen goods knowing them to have been stolen

@@ -1,7 +1,0 @@
----
-layout: post
-title: Local
-date: '2018-07-07T00:00:00+00:00'
-permalink: local
----
-Relating to place; expressive of place; belonging or confined to a partlcu-lar place. Distinguished from “general," “personal," and “transitory

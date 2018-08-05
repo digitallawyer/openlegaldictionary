@@ -1,7 +1,0 @@
----
-layout: post
-title: Houseage
-date: '2018-07-07T00:00:00+00:00'
-permalink: houseage
----
-A fee paid for housing goods by a carrier, or at a wharf, etc

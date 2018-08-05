@@ -1,7 +1,0 @@
----
-layout: post
-title: Caput
-date: '2018-07-07T00:00:00+00:00'
-permalink: caput
----
-A head; the head of a person; the whole person; the life of a person; one’s personality; status; civil condition

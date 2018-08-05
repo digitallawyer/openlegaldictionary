@@ -1,7 +1,0 @@
----
-layout: post
-title: Sealed
-date: '2018-07-07T00:00:00+00:00'
-permalink: sealed
----
-Authenticated by a seal; executed by the affixing of a seal. Also fas-tened up in any manner so as to be closed against inspection of the contents

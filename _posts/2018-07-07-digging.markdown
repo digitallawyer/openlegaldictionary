@@ -1,7 +1,0 @@
----
-layout: post
-title: Digging
-date: '2018-07-07T00:00:00+00:00'
-permalink: digging
----
-Has been held as synonymous with “excavating,” and not confined to the removal of earth. Sherman v. New York, 1 N. Y. 316

@@ -1,7 +1,0 @@
----
-layout: post
-title: Grantor
-date: '2018-07-07T00:00:00+00:00'
-permalink: grantor
----
-The person by whom a grant is made

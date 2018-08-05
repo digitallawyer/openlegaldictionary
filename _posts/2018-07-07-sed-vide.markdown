@@ -1,7 +1,0 @@
----
-layout: post
-title: Sed Vide
-date: '2018-07-07T00:00:00+00:00'
-permalink: sed-vide
----
-Lat. But see. This remark, followed by a citation, directs the reader’s attention to an authority or a statement which conflicts with or contradicts the state-ment or principle laid down

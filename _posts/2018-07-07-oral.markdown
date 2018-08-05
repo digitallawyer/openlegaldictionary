@@ -1,7 +1,0 @@
----
-layout: post
-title: Oral
-date: '2018-07-07T00:00:00+00:00'
-permalink: oral
----
-Uttered by the mouth or ln words; spoken, not written

@@ -1,7 +1,0 @@
----
-layout: post
-title: Dominio
-date: '2018-07-07T00:00:00+00:00'
-permalink: dominio
----
-Sp. In Spanlsh law. A term corresponding to and derlved from the Latin dominium, (q. v.) Dominio alto, eminent domain; dominio directo, immediate ownership; dominio utile, beneficial owner-ship. Hart v. Burnett, 15 Cal. 556

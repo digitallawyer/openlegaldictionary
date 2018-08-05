@@ -1,7 +1,0 @@
----
-layout: post
-title: Et Ux
-date: '2018-07-07T00:00:00+00:00'
-permalink: et-ux
----
-An abbreviation for et uxor,— “and wife.” where a grantor’s wife joins

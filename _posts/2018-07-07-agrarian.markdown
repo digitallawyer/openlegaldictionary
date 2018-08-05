@@ -1,7 +1,0 @@
----
-layout: post
-title: Agrarian
-date: '2018-07-07T00:00:00+00:00'
-permalink: agrarian
----
-Relating to lnnd, or to a division or distribution of land; as an agra-rlan law

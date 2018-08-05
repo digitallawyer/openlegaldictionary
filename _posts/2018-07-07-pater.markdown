@@ -1,7 +1,0 @@
----
-layout: post
-title: Pater
-date: '2018-07-07T00:00:00+00:00'
-permalink: pater
----
-Lat. A father; the father. In the civil law, this word sometimes Included avus, (grandfather.) Dig. 50, 16, 201

@@ -1,7 +1,0 @@
----
-layout: post
-title: Taverner
-date: '2018-07-07T00:00:00+00:00'
-permalink: taverner
----
-In old English law. A seller of wine; one who kept a house or shop for the sale of wine

@@ -1,7 +1,0 @@
----
-layout: post
-title: Said
-date: '2018-07-07T00:00:00+00:00'
-permalink: said
----
-Before mentioned. This word ls constantly used in contracts, pleadings, and other legal papers, with the same force as “aforesaid.” See Shattuck v. Balcom, 170 Mass. 245, 49 N. E. 87; Cnbine v. State, 44 Tex. Cr. R. 596, 73 S. W. 396; Hlnrichsen v. Hinrichsen, 172 111. 462, 50 N. E. 135 ; wilkinson v. State, 10 Ind. 373

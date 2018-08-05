@@ -1,7 +1,0 @@
----
-layout: post
-title: Tight
-date: '2018-07-07T00:00:00+00:00'
-permalink: tight
----
-As colloquially applied to a note, bond, mortgage, lease, etc., thls term signl-fies that the clauses providing the credit-or’s remedy in case of default (as, by fore-closure, execution, dlstress, etc.) are summary and stringent

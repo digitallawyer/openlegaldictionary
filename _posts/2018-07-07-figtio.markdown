@@ -1,7 +1,0 @@
----
-layout: post
-title: Figtio
-date: '2018-07-07T00:00:00+00:00'
-permalink: figtio
----
-In Roman law. A fiction; an assumption or supposition of the law

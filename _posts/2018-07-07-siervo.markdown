@@ -1,7 +1,0 @@
----
-layout: post
-title: Siervo
-date: '2018-07-07T00:00:00+00:00'
-permalink: siervo
----
-Span. In Spanlsh law. A slave. Las Partidas, pt. 4, tlt. 21, 1. 1

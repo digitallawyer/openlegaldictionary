@@ -1,7 +1,0 @@
----
-layout: post
-title: Jornale
-date: '2018-07-07T00:00:00+00:00'
-permalink: jornale
----
-In old English law. As much land as could be plowed ln one day. Spelman

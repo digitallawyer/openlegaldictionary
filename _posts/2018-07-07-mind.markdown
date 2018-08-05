@@ -1,7 +1,0 @@
----
-layout: post
-title: Mind
-date: '2018-07-07T00:00:00+00:00'
-permalink: mind
----
-In Its legal sense, "mind” means only the ability to will, to direct, to permit, or to assent. In this sense, a corporation has a mind, and exerts its mind each time that it assents to the terms of a contract McDermott v. Evening Journal Ass'n, 43 N

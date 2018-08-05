@@ -1,7 +1,0 @@
----
-layout: post
-title: Autonomy
-date: '2018-07-07T00:00:00+00:00'
-permalink: autonomy
----
-The political independence of a nation; the right (and* condition) of self-government

@@ -1,7 +1,0 @@
----
-layout: post
-title: His Honor
-date: '2018-07-07T00:00:00+00:00'
-permalink: his-honor
----
-A title given by the con-stitution of Massachusetts to the lieutenant-governor of that commonwealth. Const Mass. pt. 2, c. 2, { 2, art. 1

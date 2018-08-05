@@ -1,7 +1,0 @@
----
-layout: post
-title: Rogue
-date: '2018-07-07T00:00:00+00:00'
-permalink: rogue
----
-In English criminal law. An idle and disorderly person; a trickster; a wandering beggar; a vagrant or vagabond. 4 Bl. Comm. 169

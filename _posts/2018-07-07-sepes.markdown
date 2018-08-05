@@ -1,7 +1,0 @@
----
-layout: post
-title: Sepes
-date: '2018-07-07T00:00:00+00:00'
-permalink: sepes
----
-Lat. In old English law. A hedge or lnclosure. The lnclosure of a trench or canal. Dig. 43. 21, 4

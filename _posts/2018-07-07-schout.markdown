@@ -1,7 +1,0 @@
----
-layout: post
-title: Schout
-date: '2018-07-07T00:00:00+00:00'
-permalink: schout
----
-In Dutch law. An officer of a court whose functions somewhat resemble those of a sheriff

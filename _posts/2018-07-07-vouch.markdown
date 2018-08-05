@@ -1,7 +1,0 @@
----
-layout: post
-title: Vouch
-date: '2018-07-07T00:00:00+00:00'
-permalink: vouch
----
-To call upon; to call in to war-ranty; to call upon the grantor or warrantor to defend the title to au estate

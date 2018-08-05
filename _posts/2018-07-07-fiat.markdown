@@ -1,7 +1,0 @@
----
-layout: post
-title: Fiat
-date: '2018-07-07T00:00:00+00:00'
-permalink: fiat
----
-(Lat. “Let lt be done.”) In Eng-llsh practice. A short order or warrant of a judge or magistrate directing some act to be done; an authority issuing from some competent source for the dolng of some legal act

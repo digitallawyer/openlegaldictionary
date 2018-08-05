@@ -1,7 +1,0 @@
----
-layout: post
-title: Namatio
-date: '2018-07-07T00:00:00+00:00'
-permalink: namatio
----
-L. Lat. In old English and Scotch law. A distraining or taking of a distress; an impounding. Spelman

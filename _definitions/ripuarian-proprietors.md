@@ -1,0 +1,7 @@
+---
+title: Ripuarian Proprietors
+permalink: "/definitions/ripuarian-proprietors.html"
+body: Own-ers of lands bounded by a river or water-course
+published_at: '2018-07-07'
+layout: post
+---

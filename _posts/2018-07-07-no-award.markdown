@@ -1,7 +1,0 @@
----
-layout: post
-title: No Award
-date: '2018-07-07T00:00:00+00:00'
-permalink: no-award
----
-The name of a plea in an action on an award, by which the defendant traverses the allegation that an award was made

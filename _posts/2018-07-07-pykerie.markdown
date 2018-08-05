@@ -1,7 +1,0 @@
----
-layout: post
-title: Pykerie
-date: '2018-07-07T00:00:00+00:00'
-permalink: pykerie
----
-In old Scotch law. Petty theft 2 Pitc. Crim. Tr. 43

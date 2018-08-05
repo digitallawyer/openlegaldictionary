@@ -1,7 +1,0 @@
----
-layout: post
-title: Computo
-date: '2018-07-07T00:00:00+00:00'
-permalink: computo
----
-Lat. To compute, reckon, or account. Used in the phrases insimul computassent, “they reckoned together," (see Inbimto, ;) plene computavit, “he has fully accounted,” (see Plene;) quod computet, “that he account,” (see Quod Computet

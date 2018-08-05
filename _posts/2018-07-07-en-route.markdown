@@ -1,7 +1,0 @@
----
-layout: post
-title: En Route
-date: '2018-07-07T00:00:00+00:00'
-permalink: en-route
----
-Fr. on the way; in the course of a voyage or journey; in course of transportation. McLean v. U. S., 17 CL Cl. 90

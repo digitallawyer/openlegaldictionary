@@ -1,0 +1,7 @@
+---
+title: Ndbilis
+permalink: "/definitions/ndbilis.html"
+body: Lat In the civU law. Marriageable; one who is of a proper age to be married
+published_at: '2018-07-07'
+layout: post
+---

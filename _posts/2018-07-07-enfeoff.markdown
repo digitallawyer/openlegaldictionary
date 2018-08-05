@@ -1,7 +1,0 @@
----
-layout: post
-title: Enfeoff
-date: '2018-07-07T00:00:00+00:00'
-permalink: enfeoff
----
-To invest with an estate by feoffment. To make a gift of any corporeal hereditaments to another. See Feoffment

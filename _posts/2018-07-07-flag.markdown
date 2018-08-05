@@ -1,7 +1,0 @@
----
-layout: post
-title: Flag
-date: '2018-07-07T00:00:00+00:00'
-permalink: flag
----
-A national standard on which are certain emblems; an ensign; a banuer. It ls carried by soldiers, ships, etc., and com-monly displayed at forts and many other suitable places

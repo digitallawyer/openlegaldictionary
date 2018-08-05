@@ -1,0 +1,9 @@
+---
+title: Civts
+permalink: "/definitions/civts.html"
+body: Lat In the Roman law. A dti-zen; as distinguished from incola, (an in-habitant;)
+  origin or birth constituting the former, domicile the latter. Code, 10, 40, 7. And
+  see U. S. v. Rhodes, 27 Fed. Cas. 788
+published_at: '2018-07-07'
+layout: post
+---

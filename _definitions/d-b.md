@@ -1,0 +1,7 @@
+---
+title: D. B
+permalink: "/definitions/d-b.html"
+body: E. An abbreviation for dc bene esse, (Q. r
+published_at: '2018-07-07'
+layout: post
+---

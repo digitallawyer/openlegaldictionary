@@ -1,7 +1,0 @@
----
-layout: post
-title: Misa
-date: '2018-07-07T00:00:00+00:00'
-permalink: misa
----
-In old Englisb law. The mise or issue in a writ of right. Spelman

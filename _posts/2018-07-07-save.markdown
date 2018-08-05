@@ -1,7 +1,0 @@
----
-layout: post
-title: Save
-date: '2018-07-07T00:00:00+00:00'
-permalink: save
----
-To except, reserve, or exempt; as where a statute “saves” vested rights. To-toll, or suspend the ruuning or operatlon of; as to “save” the statute of limitations

@@ -1,7 +1,0 @@
----
-layout: post
-title: Scrawl
-date: '2018-07-07T00:00:00+00:00'
-permalink: scrawl
----
-A word used in some of the United States for scrowl or scroll. “The word ‘seal,’ written in a scrawl attached to the name of an obligor, makes the instrument a specialty.” Comerford v. Cobb, 2 Fla. 418

@@ -1,7 +1,0 @@
----
-layout: post
-title: Kirk
-date: '2018-07-07T00:00:00+00:00'
-permalink: kirk
----
-In Scotch law. . A church; the church; the establlshed church of Scotland. -Kirk-mote. A meeting of parishioners on church affairs.—Kirk-offiecr. The beadle of a church in Scotland.—Kirk-session. A parochial church court in Scotland, consisting of the ministers and eiders of each parish

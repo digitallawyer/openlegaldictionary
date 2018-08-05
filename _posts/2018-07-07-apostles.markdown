@@ -1,7 +1,0 @@
----
-layout: post
-title: Apostles
-date: '2018-07-07T00:00:00+00:00'
-permalink: apostles
----
-In English admiralty practice. A term borrowed from the civil law, denoting brief dismissory letters granted to a party who appeals from an Inferior to a su-perior court, embodying a statement of tbe case and a declaration that the record will be transmitted

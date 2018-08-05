@@ -1,7 +1,0 @@
----
-layout: post
-title: Admit
-date: '2018-07-07T00:00:00+00:00'
-permalink: admit
----
-To allow, receive, or take; to suffer one to enter; to give possession; to license. Gregory v. United States, 17 Blatchf. 325, 10 Fed. Cas. 1195. See Ad-mission

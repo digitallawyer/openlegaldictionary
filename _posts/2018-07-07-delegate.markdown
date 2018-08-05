@@ -1,7 +1,0 @@
----
-layout: post
-title: Delegate
-date: '2018-07-07T00:00:00+00:00'
-permalink: delegate
----
-A person who is delegated or commissioned to act in the stead of an* other; a person to whom affairs are commlt-ted by another; an attorney

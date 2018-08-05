@@ -1,7 +1,0 @@
----
-layout: post
-title: Aire
-date: '2018-07-07T00:00:00+00:00'
-permalink: aire
----
-In old Scotch law. The court of the justices itinerant, corresponding with the English eyre, (q. v.) Skene de Verb. Sign, voc. Iter

@@ -1,7 +1,0 @@
----
-layout: post
-title: Dieta
-date: '2018-07-07T00:00:00+00:00'
-permalink: dieta
----
-A day’s journey; a day’s work; a day's expenses

@@ -1,7 +1,0 @@
----
-layout: post
-title: Constat
-date: '2018-07-07T00:00:00+00:00'
-permalink: constat
----
-It is clear or evident; it appears ; it ls certain; there is no doubt Non constat, lt does not appear

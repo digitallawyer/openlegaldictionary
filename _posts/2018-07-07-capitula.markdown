@@ -1,7 +1,0 @@
----
-layout: post
-title: Capitula
-date: '2018-07-07T00:00:00+00:00'
-permalink: capitula
----
-Collections of laws and ordinances drawn up under heads of divisions. Spelman

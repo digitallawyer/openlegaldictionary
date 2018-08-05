@@ -1,0 +1,7 @@
+---
+title: Intra Parietes
+permalink: "/definitions/intra-parietes.html"
+body: Between walls; among friends; out of court; without litiga-tion. Calvin
+published_at: '2018-07-07'
+layout: post
+---

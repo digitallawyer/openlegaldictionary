@@ -1,7 +1,0 @@
----
-layout: post
-title: Partial
-date: '2018-07-07T00:00:00+00:00'
-permalink: partial
----
-Relating to or constituting a part; not complete; not entire or universal

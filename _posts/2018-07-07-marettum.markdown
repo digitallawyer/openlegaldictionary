@@ -1,7 +1,0 @@
----
-layout: post
-title: Marettum
-date: '2018-07-07T00:00:00+00:00'
-permalink: marettum
----
-Marshy ground overflow-ed by the sea or great rivers. Co. Litt 5

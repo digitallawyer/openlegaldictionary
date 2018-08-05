@@ -1,7 +1,0 @@
----
-layout: post
-title: Carucage
-date: '2018-07-07T00:00:00+00:00'
-permalink: carucage
----
-In old English law. A kind of tax or tribute anciently lmposed upon every plow, (carve or plow-land,) for the public service. Spelman

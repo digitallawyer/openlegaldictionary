@@ -1,7 +1,0 @@
----
-layout: post
-title: Cotarius
-date: '2018-07-07T00:00:00+00:00'
-permalink: cotarius
----
-In old Engllsh law. A cottager, who held ln free socage, aud paid a stated fine or rent in provisions or money, with some occasional personal services

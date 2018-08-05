@@ -1,7 +1,0 @@
----
-layout: post
-title: Pendency
-date: '2018-07-07T00:00:00+00:00'
-permalink: pendency
----
-Suspense; the state of being pendent or undecided; the state of an action, etc., after it hns been begun, and be-fore the final disposltion of it

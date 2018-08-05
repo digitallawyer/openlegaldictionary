@@ -1,7 +1,0 @@
----
-layout: post
-title: Hobbit
-date: '2018-07-07T00:00:00+00:00'
-permalink: hobbit
----
-A measure of welght in use ln wales, equal to 168 pounds, being made up of four welsh pecks of 42 pounds each. Hughes v. Humphreys, 26 Eng. L. & Eq. 132

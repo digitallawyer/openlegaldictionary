@@ -1,0 +1,7 @@
+---
+title: Cucking-Stool
+permalink: "/definitions/cucking-stool.html"
+body: An engine of cor-rectlon for common scolds, which in the
+published_at: '2018-07-07'
+layout: post
+---

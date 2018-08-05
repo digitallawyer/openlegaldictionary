@@ -1,7 +1,0 @@
----
-layout: post
-title: Bourg
-date: '2018-07-07T00:00:00+00:00'
-permalink: bourg
----
-In old Frenob law. An assemblage of houses surrounded with walls; a fortified town or village

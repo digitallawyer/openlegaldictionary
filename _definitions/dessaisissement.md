@@ -1,0 +1,9 @@
+---
+title: Dessaisissement
+permalink: "/definitions/dessaisissement.html"
+body: In French law. when a person is declared bankrupt, he is immediately deprived
+  of the enjoyment and administration of all hls property; this dep* rivation, which
+  extends to all his rights, ls called "dessaisissement.” Arg. Fr. Merc. • Law, 556
+published_at: '2018-07-07'
+layout: post
+---

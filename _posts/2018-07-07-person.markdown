@@ -1,7 +1,0 @@
----
-layout: post
-title: Person
-date: '2018-07-07T00:00:00+00:00'
-permalink: person
----
-A man considered accordlng to the rank he holds in society, with all the rlghts to whlch the place he holds entitles him, and the duties which lt imposes. 1 Bouv. Inst. no. 137

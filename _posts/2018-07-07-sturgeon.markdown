@@ -1,7 +1,0 @@
----
-layout: post
-title: Sturgeon
-date: '2018-07-07T00:00:00+00:00'
-permalink: sturgeon
----
-A royal fish which, when either thrown ashore or caught near the coast, is the property of the sovereign. 2 Steph. Comm. 19n, 540

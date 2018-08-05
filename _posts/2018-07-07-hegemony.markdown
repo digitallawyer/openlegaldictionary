@@ -1,7 +1,0 @@
----
-layout: post
-title: Hegemony
-date: '2018-07-07T00:00:00+00:00'
-permalink: hegemony
----
-The leadership of one among several Independent confederate states

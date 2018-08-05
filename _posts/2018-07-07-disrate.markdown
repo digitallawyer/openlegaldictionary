@@ -1,7 +1,0 @@
----
-layout: post
-title: Disrate
-date: '2018-07-07T00:00:00+00:00'
-permalink: disrate
----
-In maritime law. To de-prive a seaman or petty officer of hls "rating” or rank; to reduce to a lower rate or rank

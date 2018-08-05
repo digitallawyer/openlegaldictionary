@@ -1,7 +1,0 @@
----
-layout: post
-title: Banque
-date: '2018-07-07T00:00:00+00:00'
-permalink: banque
----
-Fr. A bench; tbe table or counter of a trader, merchant, or banker. Banque route; a broken bench or counter; bankrupt

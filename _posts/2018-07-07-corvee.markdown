@@ -1,7 +1,0 @@
----
-layout: post
-title: Corvee
-date: '2018-07-07T00:00:00+00:00'
-permalink: corvee
----
-In French law. Gratuitous labor exacted from the villages or communities, especially for repairing roads, con-structing bridges, etc. State v. Covington, 125 N. C. 641, 34 S. E. 272

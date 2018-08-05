@@ -1,7 +1,0 @@
----
-layout: post
-title: Helsxng
-date: '2018-07-07T00:00:00+00:00'
-permalink: helsxng
----
-A Saxon brass coin, of the value of a half-penny

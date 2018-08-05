@@ -1,7 +1,0 @@
----
-layout: post
-title: Hondhabend
-date: '2018-07-07T00:00:00+00:00'
-permalink: hondhabend
----
-Sax. Having in hand. See Handiiabend

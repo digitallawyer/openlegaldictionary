@@ -1,0 +1,7 @@
+---
+title: Oognatus
+permalink: "/definitions/oognatus.html"
+body: Lat. In the civil law. A relation by the mother’s side; a cognate
+published_at: '2018-07-07'
+layout: post
+---

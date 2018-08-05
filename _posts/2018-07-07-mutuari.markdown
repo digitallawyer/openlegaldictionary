@@ -1,7 +1,0 @@
----
-layout: post
-title: Mutuari
-date: '2018-07-07T00:00:00+00:00'
-permalink: mutuari
----
-To borrow; mutuatus, a borrowing. 2 Arch. Pr. 25

@@ -1,7 +1,0 @@
----
-layout: post
-title: Hogaster
-date: '2018-07-07T00:00:00+00:00'
-permalink: hogaster
----
-In old English law. A sheep of the second year. Fleta, lib. 2, c. 79, §§ 4, 12. A young hog. Cowell

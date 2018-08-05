@@ -1,7 +1,0 @@
----
-layout: post
-title: Trauma
-date: '2018-07-07T00:00:00+00:00'
-permalink: trauma
----
-In medical jurisprudence. A wound; any injury to the body caused by external violence

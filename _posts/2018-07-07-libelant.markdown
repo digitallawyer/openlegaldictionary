@@ -1,7 +1,0 @@
----
-layout: post
-title: Libelant
-date: '2018-07-07T00:00:00+00:00'
-permalink: libelant
----
-The complainant or party who files a libel in an ecclesiastical or admiralty case, corresponding to the plaintiff in actions at law

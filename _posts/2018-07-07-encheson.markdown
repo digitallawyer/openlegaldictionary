@@ -1,7 +1,0 @@
----
-layout: post
-title: Encheson
-date: '2018-07-07T00:00:00+00:00'
-permalink: encheson
----
-The occasion, cause, or reason for which anything is done. Termes de la Ley

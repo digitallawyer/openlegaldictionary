@@ -1,7 +1,0 @@
----
-layout: post
-title: Owing
-date: '2018-07-07T00:00:00+00:00'
-permalink: owing
----
-Something unpaid. A debt, for example, is owing while it is unpaid, and whether lt be due or not. Coquard v. Bank of Kansas City, 12 Mo. App. 261; Mus-selman v. wise, 84 Ind. 248; Jones v. Thoinp-son, 1 El., Bl. & El. 64

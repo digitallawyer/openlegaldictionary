@@ -1,7 +1,0 @@
----
-layout: post
-title: Chapelry
-date: '2018-07-07T00:00:00+00:00'
-permalink: chapelry
----
-The precinct and limits of a chapel. The same thing to a chapel as a parish is to a church. Cowell; Blount

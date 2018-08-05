@@ -1,7 +1,0 @@
----
-layout: post
-title: Real
-date: '2018-07-07T00:00:00+00:00'
-permalink: real
----
-In common law. Relating to land, as distinguished from personal property. This term is applied to lands, tenements, and hereditaments

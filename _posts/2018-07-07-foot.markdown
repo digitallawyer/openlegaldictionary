@@ -1,7 +1,0 @@
----
-layout: post
-title: Foot
-date: '2018-07-07T00:00:00+00:00'
-permalink: foot
----
-1. A measure of length contain-ing twelve inches or one-third of a yard

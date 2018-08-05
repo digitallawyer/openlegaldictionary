@@ -1,7 +1,0 @@
----
-layout: post
-title: Heregeld
-date: '2018-07-07T00:00:00+00:00'
-permalink: heregeld
----
-Sax. In old English law. A tribute or tax levied for the maintenance of an army. Spelman

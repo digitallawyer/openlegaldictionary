@@ -1,7 +1,0 @@
----
-layout: post
-title: Turnpike
-date: '2018-07-07T00:00:00+00:00'
-permalink: turnpike
----
- A gate set across a road, to stop travelers and carriages until toll to paid for the prlvilege of passage thereon

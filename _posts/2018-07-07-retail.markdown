@@ -1,7 +1,0 @@
----
-layout: post
-title: Retail
-date: '2018-07-07T00:00:00+00:00'
-permalink: retail
----
-To sell by small parcels, and not in the gross. To sell ln small quantities. State v. Lowenhaught, 11 Lea (Tenn.) 13; Bridges v. State, 37 Ark. 224; McArthur v. State, 69 Ga. 444; Com. v. Kimball, 7 Metc. (Mass.) 808

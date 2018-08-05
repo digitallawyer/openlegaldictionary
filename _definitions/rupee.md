@@ -1,0 +1,8 @@
+---
+title: Rupee
+permalink: "/definitions/rupee.html"
+body: A sllver coin of Indla, rated at 28. for the current, and 2s. 3d. for the Bom-bay,
+  rupee
+published_at: '2018-07-07'
+layout: post
+---

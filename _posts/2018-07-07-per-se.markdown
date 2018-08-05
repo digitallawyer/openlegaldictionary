@@ -1,7 +1,0 @@
----
-layout: post
-title: Per Se
-date: '2018-07-07T00:00:00+00:00'
-permalink: per-se
----
-Lat. By himself or itself; in itself; taken alone; inherently; in isola-tion; unconnected wlth other matters

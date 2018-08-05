@@ -1,0 +1,9 @@
+---
+title: Si Non Omnes
+permalink: "/definitions/si-non-omnes.html"
+body: 'Lat In Engllsh practice. A writ of association of justices where-by, lf all
+  ln commission cannot meet at the day assigned, It is allowed that two or more may
+  proceed with the business. Cowell: Fitzh. Nat. Brev. Ill C'
+published_at: '2018-07-07'
+layout: post
+---

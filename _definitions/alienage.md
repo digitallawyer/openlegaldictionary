@@ -1,0 +1,7 @@
+---
+title: Alienage
+permalink: "/definitions/alienage.html"
+body: The condition or state of an alien
+published_at: '2018-07-07'
+layout: post
+---

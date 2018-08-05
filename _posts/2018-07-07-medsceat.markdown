@@ -1,7 +1,0 @@
----
-layout: post
-title: Medsceat
-date: '2018-07-07T00:00:00+00:00'
-permalink: medsceat
----
-In old English law. A bribe; hush money

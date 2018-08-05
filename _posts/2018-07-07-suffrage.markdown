@@ -1,7 +1,0 @@
----
-layout: post
-title: Suffrage
-date: '2018-07-07T00:00:00+00:00'
-permalink: suffrage
----
-A vote; the act of voting; the right or privilege of casting a vote at public elections. The last is the meaning of the term in such phrases as “the extension of the suffrage,” “universal suffrage.” etc. See Spitzer v. Fulton, 33 Misc. Rep. 257, 68 N. Y. Supp. 660

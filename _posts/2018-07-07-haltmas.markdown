@@ -1,7 +1,0 @@
----
-layout: post
-title: Haltmas
-date: '2018-07-07T00:00:00+00:00'
-permalink: haltmas
----
-In English law. The feast of All Sainis, on the 1st of November; one of the cross-quarters of the year, was computed from Hallmas to Candlemas, whar-ton

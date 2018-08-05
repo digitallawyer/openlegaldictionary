@@ -1,0 +1,10 @@
+---
+title: Odhal
+permalink: "/definitions/odhal.html"
+body: Complete property, as opposed to feudal tenure. The transposition of the syllables
+  of “odfcal” makes lt “allodh," aud hence, according to Blackstone, arises the word
+  “allod” or “allodial," (q. v.) “Allodh" ls thus put in contradistinction to “fccodh."
+  Mozley & whltley
+published_at: '2018-07-07'
+layout: post
+---

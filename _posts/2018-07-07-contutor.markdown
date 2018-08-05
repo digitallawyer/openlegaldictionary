@@ -1,7 +1,0 @@
----
-layout: post
-title: Contutor
-date: '2018-07-07T00:00:00+00:00'
-permalink: contutor
----
-Lat. In the civil law. A co-tutor, or co-guardian. Inst. 1, 24, I

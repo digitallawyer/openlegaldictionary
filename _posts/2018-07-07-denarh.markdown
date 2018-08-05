@@ -1,7 +1,0 @@
----
-layout: post
-title: Denarh
-date: '2018-07-07T00:00:00+00:00'
-permalink: denarh
----
-An ancient general term for any sort of pecunia numerata, or ready mon-•y. The French use the ward "denier” in the same sense,—pager de ses propres deniers

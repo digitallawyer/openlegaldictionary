@@ -1,7 +1,0 @@
----
-layout: post
-title: Soca
-date: '2018-07-07T00:00:00+00:00'
-permalink: soca
----
-A seigniory or lordship, enfran-chised by the king, with liberty of holding a court of his socmen or socagers; i. e., his tenants

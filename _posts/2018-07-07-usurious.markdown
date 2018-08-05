@@ -1,7 +1,0 @@
----
-layout: post
-title: Usurious
-date: '2018-07-07T00:00:00+00:00'
-permalink: usurious
----
-Pertaining to usury; par-taking of the nature of usury; involving usury; tainted with usury; as, a usurious contract

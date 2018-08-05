@@ -1,7 +1,0 @@
----
-layout: post
-title: Ejectione Firms
-date: '2018-07-07T00:00:00+00:00'
-permalink: ejectione-firms
----
-Ejection, or ejectment of farm. The name of a writ or action of trespass, which lay at common law where lands or tenements were let for a term of years, and afterwards the lessor, reversioner, remainder-man, or any stranger ejected or ousted the lessee of hls term, ferme, or farm, (ipsum a firms ejecit.) In this case the latter might have his writ of ejection, by which he recovered at first dam-ages for the trespass only, but it was after-w’ards made a remedy to recover back the term itself, or the remainder of it, with damages. Reg. orig. 227b; Fitzh. Nat. Brev. 220, F, G ; 3 Bl. Comm. 199; Litt | 322; Crabb, Eng. Law, 290, 448. It ls the foundation of the modern action of ejectment

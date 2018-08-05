@@ -1,7 +1,0 @@
----
-layout: post
-title: Care
-date: '2018-07-07T00:00:00+00:00'
-permalink: care
----
-As a legal term, this word means dlligence, prudence, discretion, attentiveness, watchfulness, vlgilance. It ls the opposite of negligence or carelessness

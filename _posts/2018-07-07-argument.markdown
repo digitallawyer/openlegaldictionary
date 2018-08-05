@@ -1,7 +1,0 @@
----
-layout: post
-title: Argument
-date: '2018-07-07T00:00:00+00:00'
-permalink: argument
----
-In rhetoric and logic, an inference drawn from premises, the truth of which is indisputable, or at least highly probable

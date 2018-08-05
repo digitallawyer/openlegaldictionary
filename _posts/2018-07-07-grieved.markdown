@@ -1,7 +1,0 @@
----
-layout: post
-title: Grieved
-date: '2018-07-07T00:00:00+00:00'
-permalink: grieved
----
-Aggrieved. 3 East, 22

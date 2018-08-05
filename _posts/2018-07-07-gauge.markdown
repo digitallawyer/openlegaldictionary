@@ -1,7 +1,0 @@
----
-layout: post
-title: Gauge
-date: '2018-07-07T00:00:00+00:00'
-permalink: gauge
----
-The measure of width of a rail-way, fixed, with some exceptions, at 4 feet 8% Inches in Great Britain and America, and 5 feet 3 inches in Ireland

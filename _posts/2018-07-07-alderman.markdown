@@ -1,7 +1,0 @@
----
-layout: post
-title: Alderman
-date: '2018-07-07T00:00:00+00:00'
-permalink: alderman
----
-A judicial or adminis-trative magistrate, originally the word wus synonymous with “elder,” but was also used to designate an earl, and even a king

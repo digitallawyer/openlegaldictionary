@@ -1,7 +1,0 @@
----
-layout: post
-title: Cart
-date: '2018-07-07T00:00:00+00:00'
-permalink: cart
----
-A carriage for luggage or burden, with two wheels, as distinguished from a wagon, which has four wheels. The vehicle in which criminals are taken to execution

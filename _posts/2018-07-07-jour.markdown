@@ -1,7 +1,0 @@
----
-layout: post
-title: Jour
-date: '2018-07-07T00:00:00+00:00'
-permalink: jour
----
-A French word, signifying “day.” It is used in our old law-books; as “tout jours,” forever

@@ -1,7 +1,0 @@
----
-layout: post
-title: Ootave
-date: '2018-07-07T00:00:00+00:00'
-permalink: ootave
----
-In old English law. . The eighth day inclusive after a feast; oue of the return days of writs. 3 Bl. Comm. 278

@@ -1,0 +1,9 @@
+---
+title: Extenuating Circumstances
+permalink: "/definitions/extenuating-circumstances.html"
+body: Such as render a delict or crime less aggra-vated, heinous, or reprehensible
+  than lt would otherwise be, or teud to palliate or lessen lts guilt Such circumstances
+  may or-
+published_at: '2018-07-07'
+layout: post
+---

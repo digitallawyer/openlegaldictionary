@@ -1,7 +1,0 @@
----
-layout: post
-title: Barrister
-date: '2018-07-07T00:00:00+00:00'
-permalink: barrister
----
-In English law. An ad-vocate; one who has been called to the bar. A counsellor learned in the law who pleads at the bar of the courts, and who is engaged in conducting the trial or argument of causes. To be distinguished from the attorney, who draws the pleadings, prepares the testimony, and conducts matters out of court. In re Rickert, G6 N. II. 207, 29 Atl. 559, 24 L R. A. 740

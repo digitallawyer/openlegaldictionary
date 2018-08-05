@@ -1,7 +1,0 @@
----
-layout: post
-title: Pilotage
-date: '2018-07-07T00:00:00+00:00'
-permalink: pilotage
----
-The navigation of a vessel by a pilot; the duty of a pilot. The charge or compensation allowed for piloting a vessel

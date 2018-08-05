@@ -1,7 +1,0 @@
----
-layout: post
-title: Scroll
-date: '2018-07-07T00:00:00+00:00'
-permalink: scroll
----
-A mark intended to supply the place of a seal, made wlth a pen or other lnstrument of writing. f

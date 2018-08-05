@@ -1,7 +1,0 @@
----
-layout: post
-title: Defunct
-date: '2018-07-07T00:00:00+00:00'
-permalink: defunct
----
-Deceased; a deceased per-son. A common term ln Scotch law

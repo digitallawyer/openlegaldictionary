@@ -1,7 +1,0 @@
----
-layout: post
-title: Schedule
-date: '2018-07-07T00:00:00+00:00'
-permalink: schedule
----
-A sheet of paper or parchment annexed to a statute, deed, answer ln equity, deposition, or other instrument, ex-hibiting in detail the matters mentioned or referred to in the principal document

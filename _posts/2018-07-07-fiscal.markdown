@@ -1,7 +1,0 @@
----
-layout: post
-title: Fiscal
-date: '2018-07-07T00:00:00+00:00'
-permalink: fiscal
----
-Belonglng to the fisc, or pub-llc treasury. Relating to accounts or the management of revenue

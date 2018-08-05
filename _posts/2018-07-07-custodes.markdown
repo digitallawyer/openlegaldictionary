@@ -1,7 +1,0 @@
----
-layout: post
-title: Custodes
-date: '2018-07-07T00:00:00+00:00'
-permalink: custodes
----
-In Roman law. Guard-dians; observers; inspectors. Persons who

@@ -1,0 +1,7 @@
+---
+title: Regia Via
+permalink: "/definitions/regia-via.html"
+body: Lat Ih old Engllsh law. The royal way; the klng's highway. Co. Lltt. 56a
+published_at: '2018-07-07'
+layout: post
+---

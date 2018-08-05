@@ -1,7 +1,0 @@
----
-layout: post
-title: Intend
-date: '2018-07-07T00:00:00+00:00'
-permalink: intend
----
-To design, resolve, purpose. To apply a rule of law in the nature of presumption; to discern and follow the proba-billties of llke cases

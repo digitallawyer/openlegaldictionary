@@ -1,7 +1,0 @@
----
-layout: post
-title: Falcidia
-date: '2018-07-07T00:00:00+00:00'
-permalink: falcidia
----
-In Spanish law. The Fal-cidian portion; the portion of an inheritance which could not be legally bequeathed away from the heir, viz., one-fourth

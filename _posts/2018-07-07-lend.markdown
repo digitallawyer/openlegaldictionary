@@ -1,7 +1,0 @@
----
-layout: post
-title: Lend
-date: '2018-07-07T00:00:00+00:00'
-permalink: lend
----
-To part with a thing of value to another for a time fixed or indefinite, yet to have some time in ending, to be used or en-joyed by that other, the thing itself or the equivalent of it to be given back at the time fixed, or when lawfully asked for, with or without compensation for the use as may be agreed upon. Kent v. Quicksilver Min. Co., 78 N. Y. 177

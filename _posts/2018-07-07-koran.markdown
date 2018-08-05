@@ -1,7 +1,0 @@
----
-layout: post
-title: Koran
-date: '2018-07-07T00:00:00+00:00'
-permalink: koran
----
-The Mohammedan book of faith. It contains both ecclesiastical and secular laws

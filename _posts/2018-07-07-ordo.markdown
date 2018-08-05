@@ -1,7 +1,0 @@
----
-layout: post
-title: Ordo
-date: '2018-07-07T00:00:00+00:00'
-permalink: ordo
----
-Lat. That rule which monks were obliged to observe, order; regular succession. An order of a court

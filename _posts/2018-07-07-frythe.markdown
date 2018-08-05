@@ -1,7 +1,0 @@
----
-layout: post
-title: Frythe
-date: '2018-07-07T00:00:00+00:00'
-permalink: frythe
----
-Sax. In old English law. A plain between woods. Co. Lltt. 5b

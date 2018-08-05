@@ -1,7 +1,0 @@
----
-layout: post
-title: Crocia
-date: '2018-07-07T00:00:00+00:00'
-permalink: crocia
----
-The crosier, or pastoral staff

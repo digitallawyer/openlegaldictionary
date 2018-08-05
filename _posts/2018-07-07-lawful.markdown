@@ -1,7 +1,0 @@
----
-layout: post
-title: Lawful
-date: '2018-07-07T00:00:00+00:00'
-permalink: lawful
----
-Legal; warranted or author-ized by the law; having the qualifications prescribed by law; not contrary to nor for-bidden by the law

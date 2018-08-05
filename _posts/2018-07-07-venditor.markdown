@@ -1,7 +1,0 @@
----
-layout: post
-title: Venditor
-date: '2018-07-07T00:00:00+00:00'
-permalink: venditor
----
-Lat A seller; a vendor. Inst 3, 24; Bract fol. 41

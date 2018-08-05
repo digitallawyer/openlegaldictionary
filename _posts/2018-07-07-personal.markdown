@@ -1,7 +1,0 @@
----
-layout: post
-title: Personal
-date: '2018-07-07T00:00:00+00:00'
-permalink: personal
----
-Appertaining to the per-8on; belonging to an individual; limited to the person; having the nature or partaking of the qualities of human beings, or of mova-ble property

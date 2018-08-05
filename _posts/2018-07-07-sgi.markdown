@@ -1,7 +1,0 @@
----
-layout: post
-title: Sgi. Fa
-date: '2018-07-07T00:00:00+00:00'
-permalink: sgi.-fa
----
-An abbreviation for “scire facias, (q. v

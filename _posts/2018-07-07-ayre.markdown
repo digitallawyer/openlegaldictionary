@@ -1,7 +1,0 @@
----
-layout: post
-title: Ayre
-date: '2018-07-07T00:00:00+00:00'
-permalink: ayre
----
-In old Scotch law. Eyre; a circuit, eyre, or iter

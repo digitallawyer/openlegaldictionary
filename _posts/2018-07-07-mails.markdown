@@ -1,7 +1,0 @@
----
-layout: post
-title: Mails
-date: '2018-07-07T00:00:00+00:00'
-permalink: mails
----
-In old English law. A klnd of anclent money, or silver half-pence; a small rent

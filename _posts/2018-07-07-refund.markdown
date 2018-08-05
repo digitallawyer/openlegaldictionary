@@ -1,7 +1,0 @@
----
-layout: post
-title: Refund
-date: '2018-07-07T00:00:00+00:00'
-permalink: refund
----
-To repay or restore; to return money bad by one party of another See-Rackliff v. Greenbush, 93 Me. 99, 44 Atl. 375; Maynard v. Mechanics’ Nat Bank, 1 Brewst. (Pa.) 484; Gutch v. Fosdlck, 48 N. J. Eq. 353, 22 Atl. 590, 27 Am. St. Rep. 473

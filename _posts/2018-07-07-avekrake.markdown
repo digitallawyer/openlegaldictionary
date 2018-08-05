@@ -1,7 +1,0 @@
----
-layout: post
-title: Avekrake
-date: '2018-07-07T00:00:00+00:00'
-permalink: avekrake
----
-In feudal law. A duty required from some customary tenants, tocar-ry goods in a wagon or upon loaded horses

@@ -1,7 +1,0 @@
----
-layout: post
-title: Ale-Stake
-date: '2018-07-07T00:00:00+00:00'
-permalink: ale-stake
----
-A maypole or loug stake driven into tlie ground, with a sign on it for the sale of ale. Cowell

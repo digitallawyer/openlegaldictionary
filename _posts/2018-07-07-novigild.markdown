@@ -1,7 +1,0 @@
----
-layout: post
-title: Novigild
-date: '2018-07-07T00:00:00+00:00'
-permalink: novigild
----
-In Saxon law. A pecuniary satisfaction for an injury, amounting to nine times the value of the thing for whlch it was paid. Spelman

@@ -1,7 +1,0 @@
----
-layout: post
-title: Acquets
-date: '2018-07-07T00:00:00+00:00'
-permalink: acquets
----
-In the civil law. Property which has been acquired by purchase^ gift, or otherwise than by succession. Immovable property which has been acquired otherwise than by succession. Merl. Repert

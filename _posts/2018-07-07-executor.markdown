@@ -1,7 +1,0 @@
----
-layout: post
-title: Executor
-date: '2018-07-07T00:00:00+00:00'
-permalink: executor
----
-A person appointed by a testator to carry out the directions nnd re-quests in his will, and to dispose of the prop-erty according to his testamentary provisions after his decease. Scott v. Guernsey, 60

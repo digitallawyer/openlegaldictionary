@@ -1,7 +1,0 @@
----
-layout: post
-title: Kerf
-date: '2018-07-07T00:00:00+00:00'
-permalink: kerf
----
-The jagged end of a- stick of wood made hy the cutting. Pub. SL Mass. 1882, p. 1292

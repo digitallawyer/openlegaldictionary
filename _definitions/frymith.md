@@ -1,0 +1,7 @@
+---
+title: Frymith
+permalink: "/definitions/frymith.html"
+body: In old English law. The affording harbor and entertainment ■ to any one
+published_at: '2018-07-07'
+layout: post
+---

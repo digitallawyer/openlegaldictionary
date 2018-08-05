@@ -1,7 +1,0 @@
----
-layout: post
-title: Folc-Mote
-date: '2018-07-07T00:00:00+00:00'
-permalink: folc-mote
----
-A general assembly of the people, under the Saxons. See Folo-Gbmotb

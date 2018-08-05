@@ -1,7 +1,0 @@
----
-layout: post
-title: Vacancy
-date: '2018-07-07T00:00:00+00:00'
-permalink: vacancy
----
-A place which is empty. The term is principally applied to an inter-ruption ln the Incumbency of an office

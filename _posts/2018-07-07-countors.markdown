@@ -1,7 +1,0 @@
----
-layout: post
-title: Countors
-date: '2018-07-07T00:00:00+00:00'
-permalink: countors
----
-Advocates, or serjeants at law, whom a man retains to defend his cause. and speak for him in court, for their fees. 1 Inst 17

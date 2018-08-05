@@ -1,7 +1,0 @@
----
-layout: post
-title: Monstrum
-date: '2018-07-07T00:00:00+00:00'
-permalink: monstrum
----
-A box in which relics are kept; also a muster of soldiers. Cow'ell

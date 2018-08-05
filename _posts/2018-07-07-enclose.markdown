@@ -1,7 +1,0 @@
----
-layout: post
-title: Enclose
-date: '2018-07-07T00:00:00+00:00'
-permalink: enclose
----
-In the Scotch law. To shut up a jury after the case has been submitted to them. 2 Alls. Crim. Pr. 634. See Inclose

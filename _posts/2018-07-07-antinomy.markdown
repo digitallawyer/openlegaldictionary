@@ -1,7 +1,0 @@
----
-layout: post
-title: Antinomy
-date: '2018-07-07T00:00:00+00:00'
-permalink: antinomy
----
-A term used in logic and law to denote a real or apparent inconsisten-cy or conflict between two authorities or propositions; same as antinomia, (q. v

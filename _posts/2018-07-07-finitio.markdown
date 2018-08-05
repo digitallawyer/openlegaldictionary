@@ -1,7 +1,0 @@
----
-layout: post
-title: Finitio
-date: '2018-07-07T00:00:00+00:00'
-permalink: finitio
----
-An endlng; death, as the end of llfe. Blount; Cowell

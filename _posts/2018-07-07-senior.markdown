@@ -1,7 +1,0 @@
----
-layout: post
-title: Senior
-date: '2018-07-07T00:00:00+00:00'
-permalink: senior
----
-Lord; a lord. Also the elder. An addition to the name of the elder of two persons having the same name

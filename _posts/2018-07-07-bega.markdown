@@ -1,7 +1,0 @@
----
-layout: post
-title: Bega
-date: '2018-07-07T00:00:00+00:00'
-permalink: bega
----
-A land measure used in the Blast Indies. In Beugal it is equal to about a third part of an acre

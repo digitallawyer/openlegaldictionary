@@ -1,7 +1,0 @@
----
-layout: post
-title: Medfee
-date: '2018-07-07T00:00:00+00:00'
-permalink: medfee
----
-In old English law. A bribe or reward; a compensation given in ex-chauge, where the things exchanged were not of equal value. Cowell

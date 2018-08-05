@@ -1,7 +1,0 @@
----
-layout: post
-title: Bounders
-date: '2018-07-07T00:00:00+00:00'
-permalink: bounders
----
-In American law. Visible marks or objects at the ends of the lines drawn in surveys of land, showing the cours-es and distances. Burrill

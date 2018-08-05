@@ -1,7 +1,0 @@
----
-layout: post
-title: Terce
-date: '2018-07-07T00:00:00+00:00'
-permalink: terce
----
-CE. In Scotch law. Dower; a wid-ow’s right of dower, or a right to a life-estate in a third part of the lands of whicb her husband dled seised

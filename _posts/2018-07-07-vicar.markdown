@@ -1,7 +1,0 @@
----
-layout: post
-title: Vicar
-date: '2018-07-07T00:00:00+00:00'
-permalink: vicar
----
-one who performs the functlons of another; a substitute. Also the incumbent of an approprlated or lmproprlated ecclesias-tlcal benefice, as distinguished from the incumbent of a non-appropriated benefice, who

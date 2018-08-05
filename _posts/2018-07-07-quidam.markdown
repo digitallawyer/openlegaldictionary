@@ -1,7 +1,0 @@
----
-layout: post
-title: Quidam
-date: '2018-07-07T00:00:00+00:00'
-permalink: quidam
----
-Lat. Somebody. This term ls used in the French law to designate a person whose name is not known

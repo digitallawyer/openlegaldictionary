@@ -1,7 +1,0 @@
----
-layout: post
-title: Synodal
-date: '2018-07-07T00:00:00+00:00'
-permalink: synodal
----
-A tribute or payment ln money pald to the bishop or archdeacon hy the inferior clergy, at the Easter visitation

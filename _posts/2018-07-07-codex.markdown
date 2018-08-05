@@ -1,7 +1,0 @@
----
-layout: post
-title: Codex
-date: '2018-07-07T00:00:00+00:00'
-permalink: codex
----
-Lat A code or collection of laws; particularly the Code of Justinian. Also a roll or volume, and a book written on paper or parchment

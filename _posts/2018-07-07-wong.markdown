@@ -1,7 +1,0 @@
----
-layout: post
-title: Wong
-date: '2018-07-07T00:00:00+00:00'
-permalink: wong
----
-Sax. In old records. A field. Spelman; CowelL

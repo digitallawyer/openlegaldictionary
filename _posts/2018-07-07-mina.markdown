@@ -1,7 +1,0 @@
----
-layout: post
-title: Mina
-date: '2018-07-07T00:00:00+00:00'
-permalink: mina
----
-In old English law. A measure of corn or grain. Cowell; Spelman

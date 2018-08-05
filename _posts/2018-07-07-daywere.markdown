@@ -1,7 +1,0 @@
----
-layout: post
-title: Daywere
-date: '2018-07-07T00:00:00+00:00'
-permalink: daywere
----
-In old Engllsh law. A term applied to land, and signifying as much ar-able ground aa could be plowed up in one day’s work. Cowell

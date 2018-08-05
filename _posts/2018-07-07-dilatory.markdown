@@ -1,7 +1,0 @@
----
-layout: post
-title: Dilatory
-date: '2018-07-07T00:00:00+00:00'
-permalink: dilatory
----
-Tendlng or lntended to cause delay or to galn -time or to put off a decision

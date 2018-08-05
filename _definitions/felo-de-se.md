@@ -1,0 +1,8 @@
+---
+title: Felo De Se
+permalink: "/definitions/felo-de-se.html"
+body: A felon of himself; a suicide or murderer of himself, one who deliberately and
+  intentionally puts an end to
+published_at: '2018-07-07'
+layout: post
+---

@@ -1,7 +1,0 @@
----
-layout: post
-title: Manor
-date: '2018-07-07T00:00:00+00:00'
-permalink: manor
----
-A house, dwelling, seat, or residence

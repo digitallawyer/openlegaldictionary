@@ -1,7 +1,0 @@
----
-layout: post
-title: Hama
-date: '2018-07-07T00:00:00+00:00'
-permalink: hama
----
-In old Engllsh law. A hook; an engine with which a house on fire is pulled down. Yel. 60

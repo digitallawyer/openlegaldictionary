@@ -1,7 +1,0 @@
----
-layout: post
-title: Seance
-date: '2018-07-07T00:00:00+00:00'
-permalink: seance
----
-In French law. A session; as of some public body

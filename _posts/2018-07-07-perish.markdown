@@ -1,7 +1,0 @@
----
-layout: post
-title: Perish
-date: '2018-07-07T00:00:00+00:00'
-permalink: perish
----
-To come to an end; to cease to be; to die

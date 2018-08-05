@@ -1,7 +1,0 @@
----
-layout: post
-title: Non-Negotiable
-date: '2018-07-07T00:00:00+00:00'
-permalink: non-negotiable
----
-Not negotiable; not capable of passlng title or property by indorsement and delivery

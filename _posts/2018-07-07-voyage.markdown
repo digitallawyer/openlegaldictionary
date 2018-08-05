@@ -1,7 +1,0 @@
----
-layout: post
-title: Voyage
-date: '2018-07-07T00:00:00+00:00'
-permalink: voyage
----
-In maritime law. The pass-ing of a vessel by sea from one place, port, or country to another. The term is held to Include the enterprise entered upon, and not merely the route. Friend v. Insurance Co., 113 Mass. 326

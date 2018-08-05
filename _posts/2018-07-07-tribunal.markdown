@@ -1,7 +1,0 @@
----
-layout: post
-title: Tribunal
-date: '2018-07-07T00:00:00+00:00'
-permalink: tribunal
----
-The seat of a jndge; the place- where he administers justice; a ju-dicial court; the beuch of judges. -See Foster v. worcester, 16 Pick. (Mass.) 81

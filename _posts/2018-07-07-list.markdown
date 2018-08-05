@@ -1,7 +1,0 @@
----
-layout: post
-title: List
-date: '2018-07-07T00:00:00+00:00'
-permalink: list
----
-A docket or calendar of causes ready for trlal or argument, or of motions ready for hearing

@@ -1,7 +1,0 @@
----
-layout: post
-title: Tame
-date: '2018-07-07T00:00:00+00:00'
-permalink: tame
----
-Domesticated; accustomed to man; reclaimed from a natural state of wlld-ness. In the Latin phrase, tame animals are descrlbed as domita) natura

@@ -1,7 +1,0 @@
----
-layout: post
-title: Regrant
-date: '2018-07-07T00:00:00+00:00'
-permalink: regrant
----
-In the English law of real property, when, after a person has made a grant, the property granted comes back to him, (e. g., by escheat or forfeiture,) and he grants lt again, he is said to regrant it. The phrase is chiefly used in the law of copy-holds

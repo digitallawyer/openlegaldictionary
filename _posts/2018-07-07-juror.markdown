@@ -1,7 +1,0 @@
----
-layout: post
-title: Juror
-date: '2018-07-07T00:00:00+00:00'
-permalink: juror
----
-one member of a jury. Sometimes, one who takes an oath; as in the term “non-juror,” a person who refuses certain oaths

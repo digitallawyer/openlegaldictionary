@@ -1,7 +1,0 @@
----
-layout: post
-title: Grange
-date: '2018-07-07T00:00:00+00:00'
-permalink: grange
----
-A farm furnished with barns, granaries, stables, and all conveniences for husbandry. Co. Litt 5a

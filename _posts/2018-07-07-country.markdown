@@ -1,7 +1,0 @@
----
-layout: post
-title: Country
-date: '2018-07-07T00:00:00+00:00'
-permalink: country
----
-Tiie portion of the earth’s surface occupied by an independent nation or people; or the lnhabltants of such ter-rltory

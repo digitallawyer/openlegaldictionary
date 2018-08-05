@@ -1,7 +1,0 @@
----
-layout: post
-title: Vacate
-date: '2018-07-07T00:00:00+00:00'
-permalink: vacate
----
-To annul; to cancel or rescind ; to render an act void; as, to vacate an entry of record, or a judgment

@@ -1,7 +1,0 @@
----
-layout: post
-title: Disprove
-date: '2018-07-07T00:00:00+00:00'
-permalink: disprove
----
-To refute; to prove to be false or erroneous; not necessarily by mere denial, but by affirmative evidence to the contrary. Irsch v. Irsch, 12 N. Y. Clv. Proc

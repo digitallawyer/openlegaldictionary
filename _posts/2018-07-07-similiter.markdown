@@ -1,7 +1,0 @@
----
-layout: post
-title: Similiter
-date: '2018-07-07T00:00:00+00:00'
-permalink: similiter
----
-Lat In pleading. Like-wise; the like. The name of the short for-mula used either at the end of pleadings or by itself, expressive of the acceptance of an issue of fact tendered hy the opposite party; otherwise termed a “Joinder ln issue.” Steph. Pl. 57, 237. See Solomons v. Chesley, 57 N. H. 163

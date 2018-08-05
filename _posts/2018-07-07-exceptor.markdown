@@ -1,7 +1,0 @@
----
-layout: post
-title: Exceptor
-date: '2018-07-07T00:00:00+00:00'
-permalink: exceptor
----
-In old English law. A party who entered an exception or plea

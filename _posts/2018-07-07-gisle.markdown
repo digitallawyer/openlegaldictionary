@@ -1,7 +1,0 @@
----
-layout: post
-title: Gisle
-date: '2018-07-07T00:00:00+00:00'
-permalink: gisle
----
-In Saxon law. A pledge. Fred-gisle, a pledge of peace. Qislebert, an lllus-trious pledge

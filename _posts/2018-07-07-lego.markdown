@@ -1,7 +1,0 @@
----
-layout: post
-title: Lego
-date: '2018-07-07T00:00:00+00:00'
-permalink: lego
----
-Lat In Roman law. I bequeath. A common term in wills. Dig. 30, 36, 81, et seq

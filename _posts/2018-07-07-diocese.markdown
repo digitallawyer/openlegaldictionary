@@ -1,7 +1,0 @@
----
-layout: post
-title: Diocese
-date: '2018-07-07T00:00:00+00:00'
-permalink: diocese
----
-The territorial extent of a bishop’s jurisdiction. The circuit of every bishop’s jurisdiction. Co. Litt. 94; 1 Bl. Comm. 111

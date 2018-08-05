@@ -1,7 +1,0 @@
----
-layout: post
-title: Bailor
-date: '2018-07-07T00:00:00+00:00'
-permalink: bailor
----
-The party who bails or deliv-ers goods to another, in the contract of ball-ment. McGee v. French, 49 S. C. 454, 27 S. E. 487

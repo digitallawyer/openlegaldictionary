@@ -1,7 +1,0 @@
----
-layout: post
-title: Circuit
-date: '2018-07-07T00:00:00+00:00'
-permalink: circuit
----
-A division of the country, appoiuted for a particular judge to visit for the trial of causes or for the administration of justice. Bouvier

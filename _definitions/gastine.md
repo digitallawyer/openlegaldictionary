@@ -1,0 +1,7 @@
+---
+title: Gastine
+permalink: "/definitions/gastine.html"
+body: L. Fr. waste or nncultivat-ed ground. Brltt. c. 57
+published_at: '2018-07-07'
+layout: post
+---

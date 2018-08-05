@@ -1,7 +1,0 @@
----
-layout: post
-title: Fundus
-date: '2018-07-07T00:00:00+00:00'
-permalink: fundus
----
-In tbe civil and old English law. Land; land or ground generally; land

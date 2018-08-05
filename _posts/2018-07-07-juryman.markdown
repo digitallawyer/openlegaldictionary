@@ -1,7 +1,0 @@
----
-layout: post
-title: Juryman
-date: '2018-07-07T00:00:00+00:00'
-permalink: juryman
----
-A juror; one who is lm-paneled on a Jury

@@ -1,7 +1,0 @@
----
-layout: post
-title: Sharp
-date: '2018-07-07T00:00:00+00:00'
-permalink: sharp
----
-A “sharp” clause in a mortgage or other security (or the whole instrument described as “sharp") ls one which empowers the creditor to take prompt and summary ac-tion upon default in payment or breach of other conditions

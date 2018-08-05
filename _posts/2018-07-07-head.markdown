@@ -1,7 +1,0 @@
----
-layout: post
-title: Head
-date: '2018-07-07T00:00:00+00:00'
-permalink: head
----
-Chief; leading; principal; the upper part or priucipal source of a stream

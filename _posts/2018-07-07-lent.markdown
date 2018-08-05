@@ -1,7 +1,0 @@
----
-layout: post
-title: Lent
-date: '2018-07-07T00:00:00+00:00'
-permalink: lent
----
-In ecclesiastical law. The quad-ragesimal fast; a time of abstinence; the time from A6h-wednesday to Easter

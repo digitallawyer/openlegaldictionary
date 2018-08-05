@@ -1,7 +1,0 @@
----
-layout: post
-title: Ya Et Nay
-date: '2018-07-07T00:00:00+00:00'
-permalink: ya-et-nay
----
-In old records. Mere assertion and denial, without oath

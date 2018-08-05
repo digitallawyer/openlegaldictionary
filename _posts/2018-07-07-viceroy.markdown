@@ -1,7 +1,0 @@
----
-layout: post
-title: Viceroy
-date: '2018-07-07T00:00:00+00:00'
-permalink: viceroy
----
-A person clothed wlth au-thority to act In place of the king; hence, the usual title of the governor of a dependency

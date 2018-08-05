@@ -1,7 +1,0 @@
----
-layout: post
-title: Village
-date: '2018-07-07T00:00:00+00:00'
-permalink: village
----
-E. Any small assemblage of houses for dwellings or business, or both, in the country, whether they are situated upon regularly laid out streets and alleys or not, constitutes a village. Hebert v. Lavalle, 27 111. 448

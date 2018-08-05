@@ -1,7 +1,0 @@
----
-layout: post
-title: Brocard
-date: '2018-07-07T00:00:00+00:00'
-permalink: brocard
----
-In old English lnw. A legal maxim. “Brocardica Juris,” the title of a small book of legal maxims, published at Paris, 1508

@@ -1,7 +1,0 @@
----
-layout: post
-title: Drunkard
-date: '2018-07-07T00:00:00+00:00'
-permalink: drunkard
----
-He is a drunkard whose habit it ls to get drunk; whose ebriety bas

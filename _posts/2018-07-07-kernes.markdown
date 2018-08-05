@@ -1,7 +1,0 @@
----
-layout: post
-title: Kernes
-date: '2018-07-07T00:00:00+00:00'
-permalink: kernes
----
-In English law. Idlers; vaga-bonds

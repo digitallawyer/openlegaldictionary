@@ -1,7 +1,0 @@
----
-layout: post
-title: Bubble
-date: '2018-07-07T00:00:00+00:00'
-permalink: bubble
----
-An extravagant or unsubstan-tial project for extensive operations lu busl-ness or commerce, generally founded on a fictitious or exaggerated prospectus, to ensnare unwary investors. Companies formed on such a basis or for such purposes are called “bubble companies.” The term is chiefly used in England

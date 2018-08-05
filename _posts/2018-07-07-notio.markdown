@@ -1,7 +1,0 @@
----
-layout: post
-title: Notio
-date: '2018-07-07T00:00:00+00:00'
-permalink: notio
----
-Lat. In the civil law. The power of hearing and trying a matter of

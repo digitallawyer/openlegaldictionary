@@ -1,7 +1,0 @@
----
-layout: post
-title: Amb Actus
-date: '2018-07-07T00:00:00+00:00'
-permalink: amb-actus
----
-A messenger; a servant sent about; one whose services his master hired out. Spelman

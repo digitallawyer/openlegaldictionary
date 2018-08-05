@@ -1,7 +1,0 @@
----
-layout: post
-title: Lira
-date: '2018-07-07T00:00:00+00:00'
-permalink: lira
----
-The name of an Italian coin, of the vaiue of about eighteen cents

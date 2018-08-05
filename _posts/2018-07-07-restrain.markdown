@@ -1,7 +1,0 @@
----
-layout: post
-title: Restrain
-date: '2018-07-07T00:00:00+00:00'
-permalink: restrain
----
-To limit, confine, abridge, narrow down, or restrict

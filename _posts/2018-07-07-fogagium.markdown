@@ -1,7 +1,0 @@
----
-layout: post
-title: Fogagium
-date: '2018-07-07T00:00:00+00:00'
-permalink: fogagium
----
-In old Engllsh law. Fog-gage or fog; a kind of rank grass of late growth, and not eaten ln summer. Spelman; Cowell

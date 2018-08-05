@@ -1,7 +1,0 @@
----
-layout: post
-title: Utilidad
-date: '2018-07-07T00:00:00+00:00'
-permalink: utilidad
----
-Span. In Spanish law. The profit of a thing, white, New Recop. b. 2, tit. 2, c. 1

@@ -1,7 +1,0 @@
----
-layout: post
-title: Action
-date: '2018-07-07T00:00:00+00:00'
-permalink: action
----
-Conduct; behavior; something done; the condition of acting; an act or series of acts

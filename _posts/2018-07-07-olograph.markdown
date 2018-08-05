@@ -1,7 +1,0 @@
----
-layout: post
-title: Olograph
-date: '2018-07-07T00:00:00+00:00'
-permalink: olograph
----
-An instrument (e. g., a will) wholly written by the person from whom it emanates

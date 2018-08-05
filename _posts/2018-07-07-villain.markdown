@@ -1,7 +1,0 @@
----
-layout: post
-title: Villain
-date: '2018-07-07T00:00:00+00:00'
-permalink: villain
----
-An opprobrious epithet, im-plying great moral delinquency, and equiv-alent to knave, rascal, or scoundrel. The word is libelous. 1 Bos. & P. 331

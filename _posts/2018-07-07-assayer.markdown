@@ -1,7 +1,0 @@
----
-layout: post
-title: Assayer
-date: '2018-07-07T00:00:00+00:00'
-permalink: assayer
----
-one whose business lt is to make assays of the precious metals. ■

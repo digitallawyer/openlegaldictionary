@@ -1,7 +1,0 @@
----
-layout: post
-title: Adesse
-date: '2018-07-07T00:00:00+00:00'
-permalink: adesse
----
-In the civil law. To be pres-ent; the opposite of abesse. Calvin

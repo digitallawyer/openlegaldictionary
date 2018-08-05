@@ -1,7 +1,0 @@
----
-layout: post
-title: Casatus
-date: '2018-07-07T00:00:00+00:00'
-permalink: casatus
----
-A vassal or feudal tenant possessing a cosata; that is, having a house, household, and property of his own

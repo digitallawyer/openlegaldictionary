@@ -1,7 +1,0 @@
----
-layout: post
-title: Toft
-date: '2018-07-07T00:00:00+00:00'
-permalink: toft
----
-A place or piece of ground on which a house formerly stood, which has been destroyed by accident or decay. 2 Broom & II. Comm. 17

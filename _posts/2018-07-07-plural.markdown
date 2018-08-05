@@ -1,7 +1,0 @@
----
-layout: post
-title: Plural
-date: '2018-07-07T00:00:00+00:00'
-permalink: plural
----
-Containing more than one; consisting of or designating two or more, webster

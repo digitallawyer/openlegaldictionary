@@ -1,0 +1,13 @@
+---
+title: Rider
+permalink: "/definitions/rider.html"
+body: A rider, or rider-roll, signifies a schedule or small piece of parchment annexed
+  to some part of a roll or record. It is frequently familiarly used for any kind
+  of a schedule or writing annexed to a document which cannot well be incorporated
+  ln the body of such document. Thus, in passing bills through a legislature, when
+  a new clause ls added after the bill has passed through committee, such new clause
+  is termed a “rider.” Brown. See, also, Cowell; Blount; 2 Tidd, Pr. 730; Com. v.
+  Barnett, 199 Pa
+published_at: '2018-07-07'
+layout: post
+---

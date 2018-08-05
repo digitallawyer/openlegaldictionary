@@ -1,7 +1,0 @@
----
-layout: post
-title: Abbot
-date: '2018-07-07T00:00:00+00:00'
-permalink: abbot
----
-The splritual superior or governor of an abbey or monastery. Feminine, Abbess

@@ -1,7 +1,0 @@
----
-layout: post
-title: De Debito
-date: '2018-07-07T00:00:00+00:00'
-permalink: de-debito
----
-A writ of debt Reg. orig

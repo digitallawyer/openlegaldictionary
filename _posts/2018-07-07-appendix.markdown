@@ -1,7 +1,0 @@
----
-layout: post
-title: Appendix
-date: '2018-07-07T00:00:00+00:00'
-permalink: appendix
----
-A printed volume, used on an appeal to the Engllsh house of lords or privy council, containing tbe documents and other evidence presented in the lnferior court and referred to in the cases made by the par-ties for the appeal. Answering ln some re-spects to the “paper-book” or “case” in Amer-ican practlce

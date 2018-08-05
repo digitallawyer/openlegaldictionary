@@ -1,7 +1,0 @@
----
-layout: post
-title: Glass-Men
-date: '2018-07-07T00:00:00+00:00'
-permalink: glass-men
----
-A term used In St. 1 Jac

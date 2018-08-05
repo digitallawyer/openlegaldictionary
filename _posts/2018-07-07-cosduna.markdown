@@ -1,7 +1,0 @@
----
-layout: post
-title: Cosduna
-date: '2018-07-07T00:00:00+00:00'
-permalink: cosduna
----
-In feudal law. A custom or tribute

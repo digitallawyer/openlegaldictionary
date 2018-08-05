@@ -1,7 +1,0 @@
----
-layout: post
-title: Head-Note
-date: '2018-07-07T00:00:00+00:00'
-permalink: head-note
----
-A syllabus to a reported case; a summary of the points decided in the case, which is placed at the head or be-glnning of the report

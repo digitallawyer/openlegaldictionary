@@ -1,7 +1,0 @@
----
-layout: post
-title: Presents
-date: '2018-07-07T00:00:00+00:00'
-permalink: presents
----
-The present instrument. The phrase “these presents” is nsed in any legal document to designate the instrument ln which the phrase Itself occurs

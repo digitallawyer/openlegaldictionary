@@ -1,7 +1,0 @@
----
-layout: post
-title: Repone
-date: '2018-07-07T00:00:00+00:00'
-permalink: repone
----
-In Scotch practice. To re place; to restore to a former state or right. 2 Alls. Crim. Pr. 351

@@ -1,7 +1,0 @@
----
-layout: post
-title: Foris
-date: '2018-07-07T00:00:00+00:00'
-permalink: foris
----
-Lat. Abroad; out of doors ; on the outside of a place; without; extrinsic

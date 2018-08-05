@@ -1,7 +1,0 @@
----
-layout: post
-title: Treasury
-date: '2018-07-07T00:00:00+00:00'
-permalink: treasury
----
-A place or building in which stores of wealth are reposited; particularly, a place where the puhllc revenues are deposited and kept, and where money is disbursed to defray the expenses of government, webster

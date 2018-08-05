@@ -1,7 +1,0 @@
----
-layout: post
-title: Youth
-date: '2018-07-07T00:00:00+00:00'
-permalink: youth
----
-Thls word may include children and youth of both sexes. Nelson v. Cushing, 2 Cash. (Mass.) 519, 528

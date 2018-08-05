@@ -1,0 +1,8 @@
+---
+title: Ab Agendo
+permalink: "/definitions/ab-agendo.html"
+body: Disabled from acting; un-able to act; Incapacitated for business or transactions
+  of any kind
+published_at: '2018-07-07'
+layout: post
+---

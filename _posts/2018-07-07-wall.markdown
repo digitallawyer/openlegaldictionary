@@ -1,7 +1,0 @@
----
-layout: post
-title: Wall
-date: '2018-07-07T00:00:00+00:00'
-permalink: wall
----
-An erection of stone, brick, or other material, raised to some height, and in-tended for purposes of security or lnclosure. In law, this term occurs in such compounds

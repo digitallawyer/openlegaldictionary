@@ -1,7 +1,0 @@
----
-layout: post
-title: Prsnomen
-date: '2018-07-07T00:00:00+00:00'
-permalink: prsnomen
----
-Lat. Forename, or first name. The first of the three names by which the Romans were commonly distinguished. It marked the individual, and was commonly written with one letter; as "A.” for “Au-lus;” "C.” for “Caius,” etc. Adams, Rom. Ant 35

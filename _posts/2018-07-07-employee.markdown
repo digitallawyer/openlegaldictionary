@@ -1,7 +1,0 @@
----
-layout: post
-title: Employee
-date: '2018-07-07T00:00:00+00:00'
-permalink: employee
----
-This word “is from the French, but has become somewhat naturalized in our language. Strictly and etymologically, it means ‘a person employed,’ but, ln practlce ln the French language, lt ordl-narliy is used to signify a person in some of-flcial employment, and as generally used with us, though perhaps not confined to any offi

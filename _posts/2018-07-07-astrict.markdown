@@ -1,7 +1,0 @@
----
-layout: post
-title: Astrict
-date: '2018-07-07T00:00:00+00:00'
-permalink: astrict
----
-In Scotch law. To assign to a particular mill

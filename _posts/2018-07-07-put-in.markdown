@@ -1,7 +1,0 @@
----
-layout: post
-title: Put In
-date: '2018-07-07T00:00:00+00:00'
-permalink: put-in
----
-In practice. To place in due form before a court; to place among the records of a court

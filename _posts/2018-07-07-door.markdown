@@ -1,7 +1,0 @@
----
-layout: post
-title: Door
-date: '2018-07-07T00:00:00+00:00'
-permalink: door
----
-The place of usual entrance in a house, or into a room ln the house. State V. McBeth, 49 Kan. 584, 31 Pac. 145

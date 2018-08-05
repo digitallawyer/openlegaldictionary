@@ -1,7 +1,0 @@
----
-layout: post
-title: Vendee
-date: '2018-07-07T00:00:00+00:00'
-permalink: vendee
----
-A purchaser or buyer; one to whom anything is sold. Generally used of the transferee of real property, one who acquires chattels by sale being called a “buy-er.”

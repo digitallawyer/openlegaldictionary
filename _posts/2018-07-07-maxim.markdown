@@ -1,7 +1,0 @@
----
-layout: post
-title: Maxim
-date: '2018-07-07T00:00:00+00:00'
-permalink: maxim
----
-An established principle or proposition. A principle of law universally admitted, as being a correct statement of the iaw, or as agreeable to natural reason

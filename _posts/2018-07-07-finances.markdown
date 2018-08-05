@@ -1,7 +1,0 @@
----
-layout: post
-title: Finances
-date: '2018-07-07T00:00:00+00:00'
-permalink: finances
----
-The public wealth of a state or government, considered either statically

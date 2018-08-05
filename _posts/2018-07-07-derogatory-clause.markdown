@@ -1,7 +1,0 @@
----
-layout: post
-title: Derogatory Clause
-date: '2018-07-07T00:00:00+00:00'
-permalink: derogatory-clause
----
-In a will, thls ls a sentence or secret character lnsert-ed by the testator, of whlch he reserves the knowledge to hlmself, with a condition that no will he may make thereafter should be valld, unless thls clause be lnserted word for word. This ls done as a precaution to guard against later wills belng extorted by violence, or otherwise lmproperly obtained. By the law of England such a clause would be vold, as tending to make the wlll irrevocable, wharton

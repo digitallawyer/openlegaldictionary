@@ -1,7 +1,0 @@
----
-layout: post
-title: Guidage
-date: '2018-07-07T00:00:00+00:00'
-permalink: guidage
----
-In old English law. That which was given for safe conduct through a strange territory, or another’s territory. Cowell

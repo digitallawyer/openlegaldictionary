@@ -1,7 +1,0 @@
----
-layout: post
-title: Jurats
-date: '2018-07-07T00:00:00+00:00'
-permalink: jurats
----
-In English law. officers in the nature of aldermen, sworn for the government of many corporations. The twelve assistants of the bailiff in Jersey are called “jurats.”

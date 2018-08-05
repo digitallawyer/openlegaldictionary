@@ -1,7 +1,0 @@
----
-layout: post
-title: Floor
-date: '2018-07-07T00:00:00+00:00'
-permalink: floor
----
-A section of a building between horizontal planes. Lowell v. Strahan, 145 Mass. 1, 12 N. E. 401. 1 Am. St. Rep. 422

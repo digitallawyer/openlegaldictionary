@@ -1,7 +1,0 @@
----
-layout: post
-title: Alumnus
-date: '2018-07-07T00:00:00+00:00'
-permalink: alumnus
----
-A child which one has nurs-ed; a foster-child. Dig. 40, 2, 14. one edu-cated at a college or seminary is called an "alumnus" thereof

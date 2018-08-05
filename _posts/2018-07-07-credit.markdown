@@ -1,7 +1,0 @@
----
-layout: post
-title: Credit
-date: '2018-07-07T00:00:00+00:00'
-permalink: credit
----
-Fr. Credit in the English seuse of the term, or nfore particularly, the security for a loan or advancement

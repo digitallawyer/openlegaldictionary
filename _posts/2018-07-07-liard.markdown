@@ -1,7 +1,0 @@
----
-layout: post
-title: Liard
-date: '2018-07-07T00:00:00+00:00'
-permalink: liard
----
-An old French coin, of sllver or copper, formerly current to a limited extent ln England, and there computed as equivalent to a farthing

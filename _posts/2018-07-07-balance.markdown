@@ -1,7 +1,0 @@
----
-layout: post
-title: Balance
-date: '2018-07-07T00:00:00+00:00'
-permalink: balance
----
-The amount remaining due from one person to another on a settlement of the accounts lnvolvlng their mutual deal-lngs; the dlfference between the two sides (debit and credit) of an account

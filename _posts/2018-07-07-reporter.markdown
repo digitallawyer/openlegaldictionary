@@ -1,7 +1,0 @@
----
-layout: post
-title: Reporter
-date: '2018-07-07T00:00:00+00:00'
-permalink: reporter
----
-A person who reports the decisions upon questions of law in the cases adjudged in the several courts of law and equity, wharton

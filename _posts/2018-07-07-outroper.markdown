@@ -1,7 +1,0 @@
----
-layout: post
-title: Outroper
-date: '2018-07-07T00:00:00+00:00'
-permalink: outroper
----
-A person to whom the business of selling by auction was confined by statute. 2 H. BI. 557

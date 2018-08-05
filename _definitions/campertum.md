@@ -1,0 +1,7 @@
+---
+title: Campertum
+permalink: "/definitions/campertum.html"
+body: A corn-field; a field of grain. Blount; Cowell; Jacob
+published_at: '2018-07-07'
+layout: post
+---

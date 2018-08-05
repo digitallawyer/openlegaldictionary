@@ -1,7 +1,0 @@
----
-layout: post
-title: Owling
-date: '2018-07-07T00:00:00+00:00'
-permalink: owling
----
-In English law. The offense of transporting wool or sheep out of the klng-dom; so called from its being usually carried on in the night. 4 Bl. Comm. 154

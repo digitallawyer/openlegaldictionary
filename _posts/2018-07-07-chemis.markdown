@@ -1,7 +1,0 @@
----
-layout: post
-title: Chemis
-date: '2018-07-07T00:00:00+00:00'
-permalink: chemis
----
-In old Scotch law. A chief dwelling or mansion house

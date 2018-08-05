@@ -1,7 +1,0 @@
----
-layout: post
-title: Carue
-date: '2018-07-07T00:00:00+00:00'
-permalink: carue
----
-A carve of land; plow-land. Britt, c. 84

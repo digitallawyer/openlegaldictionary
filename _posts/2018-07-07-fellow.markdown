@@ -1,7 +1,0 @@
----
-layout: post
-title: Fellow
-date: '2018-07-07T00:00:00+00:00'
-permalink: fellow
----
-A-companion; one with whom we consort; one joined with another in some legal status or relation; a member of a col-lege or corporate body

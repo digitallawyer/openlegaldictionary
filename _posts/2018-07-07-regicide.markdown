@@ -1,7 +1,0 @@
----
-layout: post
-title: Regicide
-date: '2018-07-07T00:00:00+00:00'
-permalink: regicide
----
-The murder of a soverelgn; also the person who commits such murder

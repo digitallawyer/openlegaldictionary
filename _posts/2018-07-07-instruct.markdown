@@ -1,7 +1,0 @@
----
-layout: post
-title: Instruct
-date: '2018-07-07T00:00:00+00:00'
-permalink: instruct
----
-To convey information as a client to an attorney, or as an attorney to a counsel; to authorize one to appear as ad-vocate; to give a case in charge to the jury

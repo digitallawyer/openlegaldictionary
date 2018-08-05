@@ -1,7 +1,0 @@
----
-layout: post
-title: Hirer
-date: '2018-07-07T00:00:00+00:00'
-permalink: hirer
----
-One who hlres a thing, or the labor or services of another person. Turner v. Cross, 83 Tex. 218, 18 S. W. 578, 15 L. R. A. 262

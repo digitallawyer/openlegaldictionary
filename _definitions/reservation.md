@@ -1,0 +1,7 @@
+---
+title: Reservation
+permalink: "/definitions/reservation.html"
+body: A clause in a deed or other instrument of conveyance by which the
+published_at: '2018-07-07'
+layout: post
+---

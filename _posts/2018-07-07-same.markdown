@@ -1,7 +1,0 @@
----
-layout: post
-title: Same
-date: '2018-07-07T00:00:00+00:00'
-permalink: same
----
-The word “same" does not always mean “identical,” not different or other. It frequently means of the bind or species, not the specific thing. Crapo v. Brown, 40 Iowa, 487, 493

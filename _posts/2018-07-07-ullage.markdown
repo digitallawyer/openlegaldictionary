@@ -1,7 +1,0 @@
----
-layout: post
-title: Ullage
-date: '2018-07-07T00:00:00+00:00'
-permalink: ullage
----
-In commercial law. The amount wanting when a cask, on being gauged, is found not to be completely full

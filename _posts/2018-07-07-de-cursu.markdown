@@ -1,7 +1,0 @@
----
-layout: post
-title: De Cursu
-date: '2018-07-07T00:00:00+00:00'
-permalink: de-cursu
----
-of course. The usual, necessary, and formal proceedings in an action are said to be de cursu; as distinguished from summary proceedings, or such as are incidental and may be taken on summons or motion, writs de cursu are such as are issued of course, as distinguished from prerogative writs

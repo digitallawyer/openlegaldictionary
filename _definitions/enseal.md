@@ -1,0 +1,7 @@
+---
+title: Enseal
+permalink: "/definitions/enseal.html"
+body: To seal. Ensealing ls still used as a formal word in conveyancing
+published_at: '2018-07-07'
+layout: post
+---

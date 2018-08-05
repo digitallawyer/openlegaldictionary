@@ -1,7 +1,0 @@
----
-layout: post
-title: Debit
-date: '2018-07-07T00:00:00+00:00'
-permalink: debit
----
-A sum charged as due or owing. The term is used ln book-keeping to denote the charging of a person or an account with all that Is supplied to or paid out for him or for the subject of the account

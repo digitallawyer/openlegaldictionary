@@ -1,7 +1,0 @@
----
-layout: post
-title: Renegade
-date: '2018-07-07T00:00:00+00:00'
-permalink: renegade
----
-One who has changed his profession of faith or opinion; one who has deserted hls church or party

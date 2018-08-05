@@ -1,7 +1,0 @@
----
-layout: post
-title: Fercosta
-date: '2018-07-07T00:00:00+00:00'
-permalink: fercosta
----
-Ital. A kind of small ves-sel or boat. Mentioned ln old Scotch law, and called “fercost” Skene

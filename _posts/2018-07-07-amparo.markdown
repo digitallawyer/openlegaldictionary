@@ -1,7 +1,0 @@
----
-layout: post
-title: Amparo
-date: '2018-07-07T00:00:00+00:00'
-permalink: amparo
----
-In Spanish-American law. A document issued to a claimant of land as a protection to him, until a survey can be ordered, and the title of possession issued by an authorized commissioner. Trlmble v. Smither’s Adm’r, 1 Tex. 790

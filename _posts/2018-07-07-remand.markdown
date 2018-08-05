@@ -1,7 +1,0 @@
----
-layout: post
-title: Remand
-date: '2018-07-07T00:00:00+00:00'
-permalink: remand
----
-To remand a prisoner, after a preliminary or partial hearing before a court or magistrate, ls to send him back to custody, to be kept until the hearing is resumed or the trial comes on

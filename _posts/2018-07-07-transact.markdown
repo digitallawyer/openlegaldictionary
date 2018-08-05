@@ -1,7 +1,0 @@
----
-layout: post
-title: Transact
-date: '2018-07-07T00:00:00+00:00'
-permalink: transact
----
-In Scotch law. To corn-pound. Amb. 185

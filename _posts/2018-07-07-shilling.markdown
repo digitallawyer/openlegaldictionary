@@ -1,7 +1,0 @@
----
-layout: post
-title: Shilling
-date: '2018-07-07T00:00:00+00:00'
-permalink: shilling
----
-In English law. The name of an English coin, of the value of one-twentieth part of a pound. This denomina-tlon of money was also used ln America, ln colonial times, but was not everywhere of unlform value

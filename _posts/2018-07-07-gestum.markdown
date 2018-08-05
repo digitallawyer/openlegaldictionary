@@ -1,7 +1,0 @@
----
-layout: post
-title: Gestum
-date: '2018-07-07T00:00:00+00:00'
-permalink: gestum
----
-Lat. In Roman law. A deed or act; a thing done. Some writers affected to make a distinction between “gcstum” and “factum:* But the best authorities pro-nouuced this subtile and indefensible. Dig. 50, 16, 58

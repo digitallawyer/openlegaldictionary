@@ -1,7 +1,0 @@
----
-layout: post
-title: Emperor
-date: '2018-07-07T00:00:00+00:00'
-permalink: emperor
----
-The title of the sovereign ruler of an empire. This designation was adopted by the rulers of the Roman world after the decay of the republic, and was as-sumed by those who claimed to be their successors in the "Holy Roman Empire,” as also by Napoleon. It ls now used as the title of the monarch of some single countries, as lately in Brazil, and some composite states, as Germany and Austria-Hungary, and by the king of England as “Emperor of India

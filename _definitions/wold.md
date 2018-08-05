@@ -1,0 +1,8 @@
+---
+title: Wold
+permalink: "/definitions/wold.html"
+body: Sax. In England. A down or champaign ground, hilly and void of wood. CoweU;
+  Blount
+published_at: '2018-07-07'
+layout: post
+---

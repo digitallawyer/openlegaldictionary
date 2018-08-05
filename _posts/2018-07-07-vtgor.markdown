@@ -1,7 +1,0 @@
----
-layout: post
-title: Vtgor
-date: '2018-07-07T00:00:00+00:00'
-permalink: vtgor
----
-Lat. Strength ; virtue; force; efficiency. Proprio vigore, by its own force

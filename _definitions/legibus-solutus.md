@@ -1,0 +1,8 @@
+---
+title: Legibus Solutus
+permalink: "/definitions/legibus-solutus.html"
+body: Lat Released from the laws; not bound by the laws. An expression applied ln
+  the Roman civil law to the emperor. Calvin
+published_at: '2018-07-07'
+layout: post
+---

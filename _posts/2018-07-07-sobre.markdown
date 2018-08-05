@@ -1,7 +1,0 @@
----
-layout: post
-title: Sobre
-date: '2018-07-07T00:00:00+00:00'
-permalink: sobre
----
-Span. Above; over; upon. Ruis v. Chambers, 15 Tex. 586, 592

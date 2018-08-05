@@ -1,7 +1,0 @@
----
-layout: post
-title: Lettre
-date: '2018-07-07T00:00:00+00:00'
-permalink: lettre
----
-Fr. In French law. A letter. It is used, like our English “letter,” for a formal lnstrument giving authority

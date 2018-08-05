@@ -1,7 +1,0 @@
----
-layout: post
-title: Lands
-date: '2018-07-07T00:00:00+00:00'
-permalink: lands
----
-This term, the plural of “land,” is said, at common law, to be a word of less extensive signification than either “tene-ments” or “hereditaments.” But in some of; the states it has been provided by statute that it shall Include both those terms

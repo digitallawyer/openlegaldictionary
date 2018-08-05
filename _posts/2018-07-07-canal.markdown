@@ -1,7 +1,0 @@
----
-layout: post
-title: Canal
-date: '2018-07-07T00:00:00+00:00'
-permalink: canal
----
-An artificial ditch or trench in the earth, for confining water to a defined channel, to be used for purposes of transportation

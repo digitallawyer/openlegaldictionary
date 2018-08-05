@@ -1,7 +1,0 @@
----
-layout: post
-title: Yard
-date: '2018-07-07T00:00:00+00:00'
-permalink: yard
----
-A measure of length, contalnlng three feet, or thirty-six inches

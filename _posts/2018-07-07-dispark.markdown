@@ -1,7 +1,0 @@
----
-layout: post
-title: Dispark
-date: '2018-07-07T00:00:00+00:00'
-permalink: dispark
----
-To dissolve a park. Cro. Car. 59. To convert it into ordinary ground

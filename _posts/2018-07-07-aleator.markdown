@@ -1,7 +1,0 @@
----
-layout: post
-title: Aleator
-date: '2018-07-07T00:00:00+00:00'
-permalink: aleator
----
-Lat. (From alca. q. r.) In the civil law. A gamester; oue who plays at games of hazard. Dig. 11, 5; Cod. 3, 43

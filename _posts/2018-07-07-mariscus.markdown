@@ -1,7 +1,0 @@
----
-layout: post
-title: Mariscus
-date: '2018-07-07T00:00:00+00:00'
-permalink: mariscus
----
-A marshy or fenny ground. Co. Litt. 5a

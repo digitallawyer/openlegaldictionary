@@ -1,0 +1,7 @@
+---
+title: Formella
+permalink: "/definitions/formella.html"
+body: A certain weight of above 70 lbs., mentioned in 51 Hen. III. Cowell
+published_at: '2018-07-07'
+layout: post
+---

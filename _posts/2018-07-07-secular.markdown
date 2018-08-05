@@ -1,7 +1,0 @@
----
-layout: post
-title: Secular
-date: '2018-07-07T00:00:00+00:00'
-permalink: secular
----
-Not spiritnal; not ecclesias-tlcal; relatlng to affairs of the present world

@@ -1,7 +1,0 @@
----
-layout: post
-title: Patria
-date: '2018-07-07T00:00:00+00:00'
-permalink: patria
----
-Lat. The country, neighbor-hood, or vicinage; the men of the neighbor-hood ; a Jury of the vicinage. Synonymous, in this sense, with “pais.”

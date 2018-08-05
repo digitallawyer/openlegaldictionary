@@ -1,7 +1,0 @@
----
-layout: post
-title: Of New
-date: '2018-07-07T00:00:00+00:00'
-permalink: of-new
----
-EW. A Scotch expresslon, closely translated from the Latin “de novo," (q. v

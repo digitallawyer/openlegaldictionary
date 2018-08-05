@@ -1,0 +1,8 @@
+---
+title: Amputation Of Right Hand
+permalink: "/definitions/amputation-of-right-hand.html"
+body: An ancient punishment for a blow given in a superior court; or for assaulting
+  a judge sitting ln the court.
+published_at: '2018-07-07'
+layout: post
+---

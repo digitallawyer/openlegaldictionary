@@ -1,7 +1,0 @@
----
-layout: post
-title: Sublease
-date: '2018-07-07T00:00:00+00:00'
-permalink: sublease
----
-A lease by a tenant to an* other person of a part of the premises held by him; an under-lease

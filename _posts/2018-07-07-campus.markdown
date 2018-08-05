@@ -1,7 +1,0 @@
----
-layout: post
-title: Campus
-date: '2018-07-07T00:00:00+00:00'
-permalink: campus
----
-In old European law. An

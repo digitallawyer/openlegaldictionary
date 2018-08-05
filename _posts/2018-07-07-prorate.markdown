@@ -1,7 +1,0 @@
----
-layout: post
-title: Prorate
-date: '2018-07-07T00:00:00+00:00'
-permalink: prorate
----
-To divide, share, or distribute proportionally; to assess or apportion pro rata. Formed from the Latin phrase “pro rata,” and said to he a recognized English word. Rosenberg v. Frank, 58 Cal. 405

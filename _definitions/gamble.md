@@ -1,0 +1,8 @@
+---
+title: Gamble
+permalink: "/definitions/gamble.html"
+body: To game or play at a game for money. Buckley v. o’NIel, 113 Mass. 193. 38 Am.
+  Rep. 460. The word “gamble” ls per-haps the most apt and substantial to convey
+published_at: '2018-07-07'
+layout: post
+---

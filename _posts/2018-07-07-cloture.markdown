@@ -1,7 +1,0 @@
----
-layout: post
-title: Cloture
-date: '2018-07-07T00:00:00+00:00'
-permalink: cloture
----
-The procedure in deliberative assemblies whereby debate is closed. In-troduced ln the English parliament in the session of 1882

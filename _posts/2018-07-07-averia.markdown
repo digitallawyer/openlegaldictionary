@@ -1,7 +1,0 @@
----
-layout: post
-title: Averia
-date: '2018-07-07T00:00:00+00:00'
-permalink: averia
----
-In old English law. This term was applied to working cattle, such as horses, oxen. etc

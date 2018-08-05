@@ -1,7 +1,0 @@
----
-layout: post
-title: Voter
-date: '2018-07-07T00:00:00+00:00'
-permalink: voter
----
-one who has the right of glv-ing hls voice or suffrage

@@ -1,7 +1,0 @@
----
-layout: post
-title: Beast
-date: '2018-07-07T00:00:00+00:00'
-permalink: beast
----
-An animal; a domestic animal; a quadruped, such as may be used for food or in labor or for sport

@@ -1,7 +1,0 @@
----
-layout: post
-title: Proles
-date: '2018-07-07T00:00:00+00:00'
-permalink: proles
----
-Lat. offspring; progeny ; the issue of a lawful marriage

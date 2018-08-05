@@ -1,0 +1,7 @@
+---
+title: K. B
+permalink: "/definitions/k-b.html"
+body: . An abbreviation for "King's Bench,” (q. v
+published_at: '2018-07-07'
+layout: post
+---

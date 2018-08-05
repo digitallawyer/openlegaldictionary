@@ -1,7 +1,0 @@
----
-layout: post
-title: Laureate
-date: '2018-07-07T00:00:00+00:00'
-permalink: laureate
----
-In English lnw. An officer of the household of the sovereign, whose business formerly consisted only in composing an ode annually, on the sovereign’s birth* day, and on the new year; sometimes also, though rarely, on occasion of any remarkable victory

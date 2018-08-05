@@ -1,7 +1,0 @@
----
-layout: post
-title: Haspa
-date: '2018-07-07T00:00:00+00:00'
-permalink: haspa
----
-In old English law. The hasp of a door; by which livery of eelsin might anciently he made, where there was a house on the premises

@@ -1,7 +1,0 @@
----
-layout: post
-title: Facility
-date: '2018-07-07T00:00:00+00:00'
-permalink: facility
----
-In Scotch law. Pllancy of dlsposition. Bell

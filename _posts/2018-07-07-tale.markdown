@@ -1,7 +1,0 @@
----
-layout: post
-title: Tale
-date: '2018-07-07T00:00:00+00:00'
-permalink: tale
----
-In old pleading. The plalntlfTs count, declaration, or narrative of his case. 8 Bl. Comm. 293

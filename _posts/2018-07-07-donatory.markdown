@@ -1,7 +1,0 @@
----
-layout: post
-title: Donatory
-date: '2018-07-07T00:00:00+00:00'
-permalink: donatory
----
-The person on whom the king bestows hls right to any forfeiture that has fallen to the crown

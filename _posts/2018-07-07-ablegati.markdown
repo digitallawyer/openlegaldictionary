@@ -1,7 +1,0 @@
----
-layout: post
-title: Ablegati
-date: '2018-07-07T00:00:00+00:00'
-permalink: ablegati
----
-Papal ambassadors of the second rank, who are sent to a country where there is not a nuncio, with a less ex-tensive commission than that of a nuncio

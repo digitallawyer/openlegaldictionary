@@ -1,7 +1,0 @@
----
-layout: post
-title: Resilire
-date: '2018-07-07T00:00:00+00:00'
-permalink: resilire
----
-Lat. In old English law. To draw back from a contract before lt is made blnding. Bract fol. 38

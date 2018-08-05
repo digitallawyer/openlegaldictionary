@@ -1,0 +1,8 @@
+---
+title: Defender
+permalink: "/definitions/defender.html"
+body: "(Fr.) To deny; to defend; to conduct a suit for a defendant; to forbid; to
+  prevent; to protect"
+published_at: '2018-07-07'
+layout: post
+---

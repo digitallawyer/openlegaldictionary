@@ -1,7 +1,0 @@
----
-layout: post
-title: Hour
-date: '2018-07-07T00:00:00+00:00'
-permalink: hour
----
-The twenty-fourth part of a natural day; sixty minutes of time

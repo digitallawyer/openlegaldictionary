@@ -1,7 +1,0 @@
----
-layout: post
-title: Bolting
-date: '2018-07-07T00:00:00+00:00'
-permalink: bolting
----
-In English practice. A term formerly used in the English inns of court, but more particularly at Gray’s Inn, signify-ing the private arguing of cases, as distln-guished from mooting, which was a more formal and public mode of argument. Cow-ell; Tomlins; Holthouse

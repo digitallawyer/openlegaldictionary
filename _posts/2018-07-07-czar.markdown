@@ -1,7 +1,0 @@
----
-layout: post
-title: Czar
-date: '2018-07-07T00:00:00+00:00'
-permalink: czar
----
-The title of the emperor of Rus-sia, first assumed by Basil, the son of Basil-Ides, under whom the Russian power began to appear, abput 1740

@@ -1,7 +1,0 @@
----
-layout: post
-title: Langeman
-date: '2018-07-07T00:00:00+00:00'
-permalink: langeman
----
-A lord of a mahor. 1 Inst 5

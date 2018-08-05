@@ -1,7 +1,0 @@
----
-layout: post
-title: Carence
-date: '2018-07-07T00:00:00+00:00'
-permalink: carence
----
-In French law. Lack of a»* sets; insolvency. A procds-verbol de carence is a document setting out that the huissier attended to issue execution upon a judgment, but found nothing upon which to levy. Arg. Fr. Merc. Law, 547

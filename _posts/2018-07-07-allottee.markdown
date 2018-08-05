@@ -1,7 +1,0 @@
----
-layout: post
-title: Allottee
-date: '2018-07-07T00:00:00+00:00'
-permalink: allottee
----
-one to whom an allotment ls made, who receives a ratable share under an allotment; a person to whom land under an inclosure act or shares in a public under-taking are allotted

@@ -1,7 +1,0 @@
----
-layout: post
-title: Outsucken Multures
-date: '2018-07-07T00:00:00+00:00'
-permalink: outsucken-multures
----
-In Scotch law. out-town multures; multures, duties, or tolls paid by persons voluutarlly grinding corn at any mill to which they are not thirled, or hound by tenure. 1 Forb. lust. pt. 2, p. 140.

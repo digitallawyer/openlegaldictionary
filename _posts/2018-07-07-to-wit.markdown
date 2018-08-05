@@ -1,7 +1,0 @@
----
-layout: post
-title: To-Wit
-date: '2018-07-07T00:00:00+00:00'
-permalink: to-wit
----
-That is to say; namely; scili-cet; videlicet

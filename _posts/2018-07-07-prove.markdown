@@ -1,7 +1,0 @@
----
-layout: post
-title: Prove
-date: '2018-07-07T00:00:00+00:00'
-permalink: prove
----
-To establish a fact or hypothesis as true by satisfactory and sufliclent evidence

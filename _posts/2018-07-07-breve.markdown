@@ -1,7 +1,0 @@
----
-layout: post
-title: Breve
-date: '2018-07-07T00:00:00+00:00'
-permalink: breve
----
-L. Lat. A writ An original writ. A writ or precept of the king issuing out of hls courts

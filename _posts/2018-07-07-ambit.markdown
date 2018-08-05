@@ -1,7 +1,0 @@
----
-layout: post
-title: Ambit
-date: '2018-07-07T00:00:00+00:00'
-permalink: ambit
----
-A boundary line, as going around a place; an exterior or inclosing line or limit

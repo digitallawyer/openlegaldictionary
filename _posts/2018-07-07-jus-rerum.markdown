@@ -1,7 +1,0 @@
----
-layout: post
-title: Jus Rerum
-date: '2018-07-07T00:00:00+00:00'
-permalink: jus-rerum
----
-The law of things. The law regulating the rights and powers of per-sons over things; how property is acquired, enjoyed, and transferred

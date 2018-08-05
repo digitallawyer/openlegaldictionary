@@ -1,7 +1,0 @@
----
-layout: post
-title: Medsypp
-date: '2018-07-07T00:00:00+00:00'
-permalink: medsypp
----
-A harvest sapper or entertainment given to laborers at harvest-home. Cowell

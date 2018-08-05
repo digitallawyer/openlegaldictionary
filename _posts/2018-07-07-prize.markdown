@@ -1,7 +1,0 @@
----
-layout: post
-title: Prize
-date: '2018-07-07T00:00:00+00:00'
-permalink: prize
----
-In admiralty law. A vessel or cargo, belonging to oue of two belligerent powers, apprehended or forcibly captured at sea by a war-vessel or privateer of the other

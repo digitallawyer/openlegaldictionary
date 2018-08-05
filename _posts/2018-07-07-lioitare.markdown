@@ -1,7 +1,0 @@
----
-layout: post
-title: Lioitare
-date: '2018-07-07T00:00:00+00:00'
-permalink: lioitare
----
-Lat In Roman law. To offer a price at a sale; to bid; to bid often; ’ to make several bids, one above another

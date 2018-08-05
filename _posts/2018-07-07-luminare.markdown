@@ -1,7 +1,0 @@
----
-layout: post
-title: Luminare
-date: '2018-07-07T00:00:00+00:00'
-permalink: luminare
----
-A lamp or candle set burning on the altar of any church or chapel, for the maintenance whereof lands and rent-charges were frequently given to parish churches, etc. Kennett, Gloss

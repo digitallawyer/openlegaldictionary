@@ -1,7 +1,0 @@
----
-layout: post
-title: Doom
-date: '2018-07-07T00:00:00+00:00'
-permalink: doom
----
-In Scotch law. Judicial sen-tence, or judgment The decision or sen-tence of a court orally pronounced by an officer called a “dempster” or “deemster.” In modern usage, criminal sentences still end with the words “which is pronounced for doom.”

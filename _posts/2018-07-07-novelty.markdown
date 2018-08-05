@@ -1,7 +1,0 @@
----
-layout: post
-title: Novelty
-date: '2018-07-07T00:00:00+00:00'
-permalink: novelty
----
-An objection to a patent or claim for a patent on the ground that the invention is not new or original is called an objection “for want of novelty.”

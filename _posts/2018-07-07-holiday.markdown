@@ -1,7 +1,0 @@
----
-layout: post
-title: Holiday
-date: '2018-07-07T00:00:00+00:00'
-permalink: holiday
----
-A religious festival; a day set apart for commemorating some important event ln history; a day of exemption from labor. Webster. A day upon which the usual operations of business are suspended and the courts closed, and, generally, no legal process ls served

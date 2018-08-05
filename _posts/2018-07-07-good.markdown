@@ -1,7 +1,0 @@
----
-layout: post
-title: Good
-date: '2018-07-07T00:00:00+00:00'
-permalink: good
----
-1. Valld; sufliclent in law; effectual ; unobjectionable

@@ -1,7 +1,0 @@
----
-layout: post
-title: Exlegare
-date: '2018-07-07T00:00:00+00:00'
-permalink: exlegare
----
-In old English law. To outlaw; to deprive one of the benefit and protection of the law, (exuere aliquem benefl-cio legis.) Spelman

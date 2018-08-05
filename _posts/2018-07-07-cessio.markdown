@@ -1,7 +1,0 @@
----
-layout: post
-title: Cessio
-date: '2018-07-07T00:00:00+00:00'
-permalink: cessio
----
-Lat. A cession; a giving up, or relinquishment; a surrender; an assignment

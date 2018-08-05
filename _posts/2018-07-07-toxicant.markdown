@@ -1,7 +1,0 @@
----
-layout: post
-title: Toxicant
-date: '2018-07-07T00:00:00+00:00'
-permalink: toxicant
----
-NT. A poison; a toxic agent; any substance capable of producing toxica-tlon or poisoning

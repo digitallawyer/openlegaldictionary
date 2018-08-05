@@ -1,7 +1,0 @@
----
-layout: post
-title: Weighage
-date: '2018-07-07T00:00:00+00:00'
-permalink: weighage
----
-In English law. A duty or toll paid for weighing merchandise. It is called “tronagc” for weighing wool at the klng’s beam, or “pesage” for weighing other avoirdupois goods. 2 Chit. Com. Law, 16

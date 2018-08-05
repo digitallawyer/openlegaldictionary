@@ -1,7 +1,0 @@
----
-layout: post
-title: Immoral
-date: '2018-07-07T00:00:00+00:00'
-permalink: immoral
----
-Contrary to good morals; Inconsistent wlth the rules and principles of morality which regard men as living ln a community, and which are necessary for the public welfare, order, and decency

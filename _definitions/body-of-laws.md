@@ -1,0 +1,8 @@
+---
+title: Body Of Laws
+permalink: "/definitions/body-of-laws.html"
+body: An organized and sys-tematic collection of rules of jurisprudence; as, particularly,
+  the body of the civil law, or carpus juris civilis
+published_at: '2018-07-07'
+layout: post
+---

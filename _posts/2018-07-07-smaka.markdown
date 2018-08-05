@@ -1,7 +1,0 @@
----
-layout: post
-title: Smaka
-date: '2018-07-07T00:00:00+00:00'
-permalink: smaka
----
-In old records. A small, light vessel; a smack. CowelL

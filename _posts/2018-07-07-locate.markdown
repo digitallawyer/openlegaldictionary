@@ -1,7 +1,0 @@
----
-layout: post
-title: Locate
-date: '2018-07-07T00:00:00+00:00'
-permalink: locate
----
-To ascertain and fix the posi-tion of something, the place of which was before uncertain or not manifest; as to locate the calls in a deed

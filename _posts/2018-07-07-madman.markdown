@@ -1,7 +1,0 @@
----
-layout: post
-title: Madman
-date: '2018-07-07T00:00:00+00:00'
-permalink: madman
----
-An insane persou, partlcu-larly one suffering from mania in any of its forms. Said to be inapplicable to idiots (Com. v. Haskell, 2 Brewst. [Pa.] 497); but it is not a technical term either of medlciue or the law, and ls incapable of being applied with scientific precision. See Insanity

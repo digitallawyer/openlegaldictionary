@@ -1,7 +1,0 @@
----
-layout: post
-title: Postea
-date: '2018-07-07T00:00:00+00:00'
-permalink: postea
----
-In the common-law practice, a formal statement, lndorsed on the nisi prius record, which gives an account of the proceedings at the trial of the actlon. Smlth, Act. 167

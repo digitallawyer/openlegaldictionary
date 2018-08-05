@@ -1,7 +1,0 @@
----
-layout: post
-title: Jurnedum
-date: '2018-07-07T00:00:00+00:00'
-permalink: jurnedum
----
-In old English law. A journey; a day’s traveling. Cowell

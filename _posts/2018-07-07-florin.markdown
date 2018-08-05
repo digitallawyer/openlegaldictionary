@@ -1,7 +1,0 @@
----
-layout: post
-title: Florin
-date: '2018-07-07T00:00:00+00:00'
-permalink: florin
----
-A coin originally made at Florence, now of the value of about two English shillings

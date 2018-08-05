@@ -1,7 +1,0 @@
----
-layout: post
-title: Proces Verbal
-date: '2018-07-07T00:00:00+00:00'
-permalink: proces-verbal
----
-In French law. A written report, whlch ls signed, setting forth a statement of facts. This term ls applled to the report proving the meeting and the resolutions passed at a meeting of shareholders, or to the report of a commission to take testimony. It can also be applied to the statement drawn up by a huissier in relation to any facts which one of the parties to a suit can be interested in proving; for instance the sale of a counterfeited object State-meuts, drawn up by other competent author-ities, of misdemeanors or other criminal acts, are also called by this name. Arg. Fr. Merc. Law, 570

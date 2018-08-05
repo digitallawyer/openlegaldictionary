@@ -1,7 +1,0 @@
----
-layout: post
-title: Udal
-date: '2018-07-07T00:00:00+00:00'
-permalink: udal
----
-A term mentioned by Blackstone as used ln Finland to denote that kind of right in real property which is called, in English law, “allodial.” 2 Bl. Comm. 45, note f

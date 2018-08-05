@@ -1,7 +1,0 @@
----
-layout: post
-title: Modius
-date: '2018-07-07T00:00:00+00:00'
-permalink: modius
----
-Lat. A measure. Speciflcal-ly, a Roman dry measure having a capncity of about 550 cubic Inches; but in medieval English law used as an approximate translation of the word “bushel.”

@@ -1,0 +1,9 @@
+---
+title: Pimp-Tenure
+permalink: "/definitions/pimp-tenure.html"
+body: A very singular and odious kind of tenure mentioned by the old writers, “Wilhelmus
+  Hop ye short tenet di-midiam virgatam terra per servitium cus-todiendi sex damiscllas,
+  seil. merctrices ad usum domini regis" wharton
+published_at: '2018-07-07'
+layout: post
+---

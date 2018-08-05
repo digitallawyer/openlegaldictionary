@@ -1,7 +1,0 @@
----
-layout: post
-title: Et Non
-date: '2018-07-07T00:00:00+00:00'
-permalink: et-non
----
-Lat - And not A technical phrase in pleading, which introduces the neg-ative averments of a special traverse. It has the same force and effect as the words "absque hoc," and ls occasionally used instead of the latter

@@ -1,0 +1,7 @@
+---
+title: Blanket Policy
+permalink: "/definitions/blanket-policy.html"
+body: In the law of fire
+published_at: '2018-07-07'
+layout: post
+---

@@ -1,7 +1,0 @@
----
-layout: post
-title: Cycle
-date: '2018-07-07T00:00:00+00:00'
-permalink: cycle
----
-A measure of time; a space ln which the same revolutions begin again; -a periodical space of time. Enc. Lond

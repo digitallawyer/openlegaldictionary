@@ -1,7 +1,0 @@
----
-layout: post
-title: Venia
-date: '2018-07-07T00:00:00+00:00'
-permalink: venia
----
-A kneeling or low prostration on the ground by penitents; pardon

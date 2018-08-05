@@ -1,7 +1,0 @@
----
-layout: post
-title: Sign
-date: '2018-07-07T00:00:00+00:00'
-permalink: sign
----
-To affix one’s name to a writing or instrument, for the purpose of authend-cating it, or to give lt effect as one’s act

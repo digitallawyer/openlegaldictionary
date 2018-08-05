@@ -1,7 +1,0 @@
----
-layout: post
-title: Dissent
-date: '2018-07-07T00:00:00+00:00'
-permalink: dissent
----
-Contrariety of opinion; re-fusal to agree with something already stated or adjudged or to an act previously per-formed

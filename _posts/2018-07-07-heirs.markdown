@@ -1,7 +1,0 @@
----
-layout: post
-title: Heirs
-date: '2018-07-07T00:00:00+00:00'
-permalink: heirs
----
-A word used in deeds of conveyance, (either solely, or in connection with others,) where lt ls intended to pass a fee

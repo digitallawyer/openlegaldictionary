@@ -1,7 +1,0 @@
----
-layout: post
-title: Morgen
-date: '2018-07-07T00:00:00+00:00'
-permalink: morgen
----
-Anglo-Dutch. In old New York law. A measure of land, equal te about two acres

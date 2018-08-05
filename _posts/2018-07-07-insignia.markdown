@@ -1,7 +1,0 @@
----
-layout: post
-title: Insignia
-date: '2018-07-07T00:00:00+00:00'
-permalink: insignia
----
-Ensigns or arms; distinctive marks; badges; indicia; characteristics

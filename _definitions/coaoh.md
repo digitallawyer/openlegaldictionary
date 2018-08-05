@@ -1,0 +1,9 @@
+---
+title: Coaoh
+permalink: "/definitions/coaoh.html"
+body: Coach is a generic term. It is a kind of carriage, and ls distinguished from
+  other vehicles, chiefly, as being a covered box, hung on leathers, with four wheels.
+  Turnpike Co. v. Neil, 9 ohio, 12; Turnpike Co. v. Frink, 16 Pick. (Mass.) 444
+published_at: '2018-07-07'
+layout: post
+---

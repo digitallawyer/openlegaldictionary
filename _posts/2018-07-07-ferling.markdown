@@ -1,7 +1,0 @@
----
-layout: post
-title: Ferling
-date: '2018-07-07T00:00:00+00:00'
-permalink: ferling
----
-In old records. The fourth part of a penny; also the quarter of a ward in a borongh

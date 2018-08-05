@@ -1,7 +1,0 @@
----
-layout: post
-title: Cortes
-date: '2018-07-07T00:00:00+00:00'
-permalink: cortes
----
-The name of the legislative assemblies, the parliament or congress, of Spain and Portugal

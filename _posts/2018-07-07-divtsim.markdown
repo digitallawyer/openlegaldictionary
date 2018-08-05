@@ -1,7 +1,0 @@
----
-layout: post
-title: Divtsim
-date: '2018-07-07T00:00:00+00:00'
-permalink: divtsim
----
-In old English law. Sever-ally; separately. Bract, fol. 47

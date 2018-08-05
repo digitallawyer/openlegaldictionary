@@ -1,7 +1,0 @@
----
-layout: post
-title: Field-Ale
-date: '2018-07-07T00:00:00+00:00'
-permalink: field-ale
----
-An ancient custom in Eng-land, by which officers of the forest and bailiffs of hundreds had the right to compel the hundred to furnish them with ale. Tom-lins

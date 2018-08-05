@@ -1,7 +1,0 @@
----
-layout: post
-title: Tret
-date: '2018-07-07T00:00:00+00:00'
-permalink: tret
----
-An allowance made for the water or dust that may be mixed with any com-modity. It differs from tare, (q. v

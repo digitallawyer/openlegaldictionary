@@ -1,7 +1,0 @@
----
-layout: post
-title: Perga
-date: '2018-07-07T00:00:00+00:00'
-permalink: perga
----
-A perch of land; sixteen and one-half feet. See Pebch

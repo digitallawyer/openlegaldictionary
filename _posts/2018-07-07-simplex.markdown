@@ -1,7 +1,0 @@
----
-layout: post
-title: Simplex
-date: '2018-07-07T00:00:00+00:00'
-permalink: simplex
----
-Lat. Simple; single; pure; unqualified

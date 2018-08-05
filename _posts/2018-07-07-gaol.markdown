@@ -1,7 +1,0 @@
----
-layout: post
-title: Gaol
-date: '2018-07-07T00:00:00+00:00'
-permalink: gaol
----
-A prison for temporary confinement; a jail; a place for the confinement of offenders against the law

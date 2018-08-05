@@ -1,7 +1,0 @@
----
-layout: post
-title: Depone
-date: '2018-07-07T00:00:00+00:00'
-permalink: depone
----
-In Scotch practice. . To de-pose ; to make oath in writing

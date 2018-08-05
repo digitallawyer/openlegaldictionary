@@ -1,7 +1,0 @@
----
-layout: post
-title: Frednite
-date: '2018-07-07T00:00:00+00:00'
-permalink: frednite
----
-In old English law. A liberty to hold courts and take up the fines for beating aud woundiug. To be free from flues. CowelL

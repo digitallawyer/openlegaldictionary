@@ -1,7 +1,0 @@
----
-layout: post
-title: Libelee
-date: '2018-07-07T00:00:00+00:00'
-permalink: libelee
----
-A party against whom a libel has been filed in an eccleslastlcal court or in admiralty

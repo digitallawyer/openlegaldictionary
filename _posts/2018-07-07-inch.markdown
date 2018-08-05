@@ -1,7 +1,0 @@
----
-layout: post
-title: Inch
-date: '2018-07-07T00:00:00+00:00'
-permalink: inch
----
-A measure of length, containing one-twelfth part of a foot; originally sup-posed equal to three barleycorns

@@ -1,7 +1,0 @@
----
-layout: post
-title: Flyma
-date: '2018-07-07T00:00:00+00:00'
-permalink: flyma
----
-In old English law. A run-away; fugltive; one escaped from justice, or who has no “hlaford

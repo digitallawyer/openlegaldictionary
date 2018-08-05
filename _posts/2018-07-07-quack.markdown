@@ -1,7 +1,0 @@
----
-layout: post
-title: Quack
-date: '2018-07-07T00:00:00+00:00'
-permalink: quack
----
-A pretender to medical skill which he does not possess; one who practices as a physician or surgeon without adequate preparation or due qualification. See El-mergreen v. Horn, 115 wis. 385, 91 N. W. 973

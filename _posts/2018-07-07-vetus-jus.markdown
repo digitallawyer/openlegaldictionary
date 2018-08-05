@@ -1,7 +1,0 @@
----
-layout: post
-title: Vetus Jus
-date: '2018-07-07T00:00:00+00:00'
-permalink: vetus-jus
----
-Lat. The old law. A term used in the civil law, sometimes to designate the law of the Twelve Tables, and sometimes merely a law which was in force previous to the passage of a subsequent law. Calvin

@@ -1,7 +1,0 @@
----
-layout: post
-title: Ante
-date: '2018-07-07T00:00:00+00:00'
-permalink: ante
----
-Lat. Before. Usually employed in old pleadings as expressive of time, as pr# (before) was of place, aud coram (before) of person. Townsh. Pl. 22

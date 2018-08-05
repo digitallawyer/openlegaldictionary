@@ -1,7 +1,0 @@
----
-layout: post
-title: Bilged
-date: '2018-07-07T00:00:00+00:00'
-permalink: bilged
----
-In admiralty law and marine insurance. That state or condition of a vessel in which water ls freely admitted through holes and breaches made in the planks of the bottom, occasioned by Injuries, whether the ship's timbers are broken or not. Peele v. Insurance Co., 3 Mason, 27, 39, 19 Fed. Cos. 103

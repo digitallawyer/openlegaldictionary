@@ -1,7 +1,0 @@
----
-layout: post
-title: Curateur
-date: '2018-07-07T00:00:00+00:00'
-permalink: curateur
----
-In French law. A person charged with supervising the administration of the affairs of an emancipated minor, of giving him advice, and assisting him in the important acts of such administration. Duverger

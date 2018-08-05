@@ -1,7 +1,0 @@
----
-layout: post
-title: Club-Law
-date: '2018-07-07T00:00:00+00:00'
-permalink: club-law
----
-Rule of violence; regulation by force; the law of arms

@@ -1,7 +1,0 @@
----
-layout: post
-title: Firlot
-date: '2018-07-07T00:00:00+00:00'
-permalink: firlot
----
-A Scotch measure of capacity, containing two gallons aud a pint. Spelman

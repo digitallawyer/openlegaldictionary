@@ -1,7 +1,0 @@
----
-layout: post
-title: Gradatim
-date: '2018-07-07T00:00:00+00:00'
-permalink: gradatim
----
-In old English law. By degrees or steps; step by step; from one de-gree to another. Bract fol. 64

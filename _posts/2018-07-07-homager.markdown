@@ -1,7 +1,0 @@
----
-layout: post
-title: Homager
-date: '2018-07-07T00:00:00+00:00'
-permalink: homager
----
-one who does or is bound to do homage. Cowell

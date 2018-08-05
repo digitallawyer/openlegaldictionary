@@ -1,7 +1,0 @@
----
-layout: post
-title: Board
-date: '2018-07-07T00:00:00+00:00'
-permalink: board
----
-A committee of persons organ-ized under authority of law in order to exer-clse certain authorities, have oversight or control of certain matters, or discharge cer-tain functions of a magisterial, representa-tive, or fiduciary character. Thus, “board

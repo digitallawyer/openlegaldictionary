@@ -1,7 +1,0 @@
----
-layout: post
-title: Abadengo
-date: '2018-07-07T00:00:00+00:00'
-permalink: abadengo
----
-In Spanish law. Land owned by an ecclesiastical corporation, and therefore exempt from taxation. In particular, lands or towns under the dominion and jurisdiction of an abbot

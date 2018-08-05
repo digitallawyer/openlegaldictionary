@@ -1,0 +1,7 @@
+---
+title: Supellex
+permalink: "/definitions/supellex.html"
+body: Lnt In Roman law. Household furniture. Dlg. 33, 10
+published_at: '2018-07-07'
+layout: post
+---

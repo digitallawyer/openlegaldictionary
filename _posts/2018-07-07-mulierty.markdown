@@ -1,7 +1,0 @@
----
-layout: post
-title: Mulierty
-date: '2018-07-07T00:00:00+00:00'
-permalink: mulierty
----
-In old English law. The state or conditlon of a mulier, or lawful issue. Co. Litt 352b. The opposite of bastardy. Blount

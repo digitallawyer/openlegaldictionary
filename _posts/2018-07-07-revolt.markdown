@@ -1,7 +1,0 @@
----
-layout: post
-title: Revolt
-date: '2018-07-07T00:00:00+00:00'
-permalink: revolt
----
-The endeavor of the crew of a vessel, or any one or more of them, to overthrow the legitlmate authority of her

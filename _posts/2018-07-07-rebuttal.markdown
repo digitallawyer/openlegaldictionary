@@ -1,7 +1,0 @@
----
-layout: post
-title: Rebuttal
-date: '2018-07-07T00:00:00+00:00'
-permalink: rebuttal
----
-The introduction of rebut-ting evidence; the stage of a trial at which such evidence may be introduced; also the rebutting evidence ltself. Lux v. Haggin, 60 Cal. 255, 10 Pac. 674

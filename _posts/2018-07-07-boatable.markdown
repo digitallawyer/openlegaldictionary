@@ -1,7 +1,0 @@
----
-layout: post
-title: Boatable
-date: '2018-07-07T00:00:00+00:00'
-permalink: boatable
----
-A term applied In some states to minor rivers and streams capable of being navigated in small boats, skiffs, or launches, though not by steam or sailing ves-sels. New England Trout, etc.. Club v. Mnth-er, OS Vt. 338. 35 Atl. 323, 33 L. R. A. 569

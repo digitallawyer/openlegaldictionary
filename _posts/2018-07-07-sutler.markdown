@@ -1,7 +1,0 @@
----
-layout: post
-title: Sutler
-date: '2018-07-07T00:00:00+00:00'
-permalink: sutler
----
-A person who, as a business, follows an army and sells provisions and liquor to the troops

@@ -1,0 +1,14 @@
+---
+title: Steal
+permalink: "/definitions/steal.html"
+body: This term ls commonly used ln indictments for larceny, (“take, steal, and carry
+  a way,") and denotes the commission of theft. But, in popular usage, “stealing"
+  seems to be a wider term than “larceny,” in-asmuch as it may include the unlawful
+  appropriation of things whlch are not technic-ally the subject of larceny, e. g.,
+  Immovables. See Randall v. Evening News Ass’n, 101 Mich. 561, 60 N. W. 301; People
+  v. Du-mar, 42 Hun (N. Y.) 85; Com. v. Kelley, 184 Mass. 320, 68 N. E. 346; Holmes
+  v. Gilman, 64 Hun, 227, 19 N. Y. Supp. 151; Dun-nell v. Flske, 11 Metc. (Mass.)
+  554; Barnhart v. State, 154 Ind. 177, 56 N. E. 212. —Stealing children. See Kidnapping
+published_at: '2018-07-07'
+layout: post
+---

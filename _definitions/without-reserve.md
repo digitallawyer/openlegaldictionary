@@ -1,0 +1,7 @@
+---
+title: Without Reserve
+permalink: "/definitions/without-reserve.html"
+body: A term applied to a sale by auction, indicating that no price ls reserved
+published_at: '2018-07-07'
+layout: post
+---

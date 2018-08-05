@@ -1,7 +1,0 @@
----
-layout: post
-title: Coast
-date: '2018-07-07T00:00:00+00:00'
-permalink: coast
----
-The edge or margin of a country bounding on the sea. It is held that the term includes small islands and reefs natu-rally connected with the adjacent land, and rising above the surface of the water, al-though their composition may not be suffl-clently firm and stable to admit of their be

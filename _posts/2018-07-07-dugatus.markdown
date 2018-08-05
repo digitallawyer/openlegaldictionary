@@ -1,7 +1,0 @@
----
-layout: post
-title: Dugatus
-date: '2018-07-07T00:00:00+00:00'
-permalink: dugatus
----
-In feudal and old English law. A duchy, the dignity or territory of a duke

@@ -1,7 +1,0 @@
----
-layout: post
-title: Anna
-date: '2018-07-07T00:00:00+00:00'
-permalink: anna
----
-In East Indian coinage, a piece of money, the sixteenth part of a rupee

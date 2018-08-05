@@ -1,7 +1,0 @@
----
-layout: post
-title: Taint
-date: '2018-07-07T00:00:00+00:00'
-permalink: taint
----
-A conviction of felony, or tbe person so convicted. Cowell

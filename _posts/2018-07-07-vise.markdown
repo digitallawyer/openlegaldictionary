@@ -1,7 +1,0 @@
----
-layout: post
-title: Vise
-date: '2018-07-07T00:00:00+00:00'
-permalink: vise
----
-An indorsement made on a passport by the proper authorities, denoting that it has been examined, and that the person who bears lt is permitted to proceed on his Journey, webster

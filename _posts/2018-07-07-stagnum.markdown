@@ -1,7 +1,0 @@
----
-layout: post
-title: Stagnum
-date: '2018-07-07T00:00:00+00:00'
-permalink: stagnum
----
-In old English law. A pool, or pond. Co. Lltt 5a; Johnson v. Rayner, 6 Gray (Mass.) 110

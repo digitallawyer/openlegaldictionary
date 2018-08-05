@@ -1,7 +1,0 @@
----
-layout: post
-title: Demur
-date: '2018-07-07T00:00:00+00:00'
-permalink: demur
----
-To present a demurrer; to take an exception to the sufficiency in point of law of a pleading or state of facts alleged. See Demubbeb

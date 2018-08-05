@@ -1,7 +1,0 @@
----
-layout: post
-title: Beverage
-date: '2018-07-07T00:00:00+00:00'
-permalink: beverage
----
-This term is properly used to distinguish a sale of liquors to be drunk for the pleasure of drinking, from liquors to be drunk in obedience to a physician’s ad-vice. Com. v. Mandeville, 142 Mass. 469, 8 N. E. 327

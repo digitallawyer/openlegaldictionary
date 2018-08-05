@@ -1,7 +1,0 @@
----
-layout: post
-title: Waste
-date: '2018-07-07T00:00:00+00:00'
-permalink: waste
----
-Spoil or destruction, done or permitted, to lands, houses, gardens, trees, or other corporeal hereditaments, hy the tenant thereof, to the prejudice of the heir, or of him in reversion or remainder. 2 Bl. Comm. 281

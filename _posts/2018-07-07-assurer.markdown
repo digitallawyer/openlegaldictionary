@@ -1,7 +1,0 @@
----
-layout: post
-title: Assurer
-date: '2018-07-07T00:00:00+00:00'
-permalink: assurer
----
-An insurer against certain perils and dangers; an underwriter; an in-demnifier

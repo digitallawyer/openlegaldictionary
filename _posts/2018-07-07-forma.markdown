@@ -1,7 +1,0 @@
----
-layout: post
-title: Forma
-date: '2018-07-07T00:00:00+00:00'
-permalink: forma
----
-Lat Form; the prescribed form of judiclal proceedlngs

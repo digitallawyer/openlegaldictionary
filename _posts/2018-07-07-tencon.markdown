@@ -1,7 +1,0 @@
----
-layout: post
-title: Tencon
-date: '2018-07-07T00:00:00+00:00'
-permalink: tencon
----
-L. Fr. A dispute; a quar-rel. Kelham.

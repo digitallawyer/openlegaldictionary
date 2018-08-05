@@ -1,7 +1,0 @@
----
-layout: post
-title: Malberge
-date: '2018-07-07T00:00:00+00:00'
-permalink: malberge
----
-A hill where the people assembled at a court, like the English assiz-es; which by the Scotch and Irish were called "parley hills.” Du Cange

@@ -1,7 +1,0 @@
----
-layout: post
-title: Non-Term
-date: '2018-07-07T00:00:00+00:00'
-permalink: non-term
----
-The vacation between two terms of a court

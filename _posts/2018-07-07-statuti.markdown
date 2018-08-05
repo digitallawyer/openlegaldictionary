@@ -1,7 +1,0 @@
----
-layout: post
-title: Statuti
-date: '2018-07-07T00:00:00+00:00'
-permalink: statuti
----
-Lat. In Roman law. Li-censed or registered advocates; members of the college of advocates. The number of these was llmited, and they enjoyed special privileges from the time to Constantine to that of Justinian

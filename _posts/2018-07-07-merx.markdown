@@ -1,7 +1,0 @@
----
-layout: post
-title: Merx
-date: '2018-07-07T00:00:00+00:00'
-permalink: merx
----
-Lat. Merchandise; movable ar tides that are bought and sold; articles of trade

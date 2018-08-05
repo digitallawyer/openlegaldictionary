@@ -1,7 +1,0 @@
----
-layout: post
-title: Cousin
-date: '2018-07-07T00:00:00+00:00'
-permalink: cousin
----
-Klndred in the fourth degree, being the lssue (.male or female) of the broth-er or sister of one’s father or mother

@@ -1,0 +1,7 @@
+---
+title: Three-Dollar Piece
+permalink: "/definitions/three-dollar-piece.html"
+body: A gold coin of the United States, of the value of three
+published_at: '2018-07-07'
+layout: post
+---

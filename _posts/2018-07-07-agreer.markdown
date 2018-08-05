@@ -1,7 +1,0 @@
----
-layout: post
-title: Agreer
-date: '2018-07-07T00:00:00+00:00'
-permalink: agreer
----
-Fr. In French marine law. To rig or equip a vessel, ord. Mar. liv. 1, tit. 2, art. 1

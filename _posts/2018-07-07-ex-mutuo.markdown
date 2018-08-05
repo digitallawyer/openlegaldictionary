@@ -1,7 +1,0 @@
----
-layout: post
-title: Ex Mutuo
-date: '2018-07-07T00:00:00+00:00'
-permalink: ex-mutuo
----
-From or out of loan. In the old law of England, a debt was said to arise ex mutuo when one lent another any-thlng whlch consisted In number, weight, or measure. 1 Reeve, Eng. Law, 159; Bract fol. 99

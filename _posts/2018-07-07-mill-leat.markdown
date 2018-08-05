@@ -1,7 +1,0 @@
----
-layout: post
-title: Mill-Leat
-date: '2018-07-07T00:00:00+00:00'
-permalink: mill-leat
----
-or MILL-LEAT. A trench to convey water to or from a mill. St 7 Jac

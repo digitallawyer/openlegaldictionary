@@ -1,7 +1,0 @@
----
-layout: post
-title: Stay
-date: '2018-07-07T00:00:00+00:00'
-permalink: stay
----
-In practice. A stopping; the act of arresting a judicial proceeding, by the or-der of a court See In re Schwarz (D. C.) 14 Fed. 788

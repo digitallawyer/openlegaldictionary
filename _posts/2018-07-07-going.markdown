@@ -1,7 +1,0 @@
----
-layout: post
-title: Going
-date: '2018-07-07T00:00:00+00:00'
-permalink: going
----
-In various compound phrases (as those which follow) thls term lmplies elther motlon, progress, active operation, or present and continuous validlty and efficacy

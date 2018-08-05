@@ -1,7 +1,0 @@
----
-layout: post
-title: Answer
-date: '2018-07-07T00:00:00+00:00'
-permalink: answer
----
-In pleading. Any pleading setting up matters of fact by way of defense. In chancery pleading, the term denotes a defense in writing, made by a defendant to the allegations contained in a bill or informa-tion filed by the plaintiff against him

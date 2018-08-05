@@ -1,7 +1,0 @@
----
-layout: post
-title: Digest
-date: '2018-07-07T00:00:00+00:00'
-permalink: digest
----
-A collection or compllation, embodying the chief, matter of numerous books in one, disposed under proper heads or titles, and usually by an alphabetical arrangement, for facility in reference

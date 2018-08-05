@@ -1,7 +1,0 @@
----
-layout: post
-title: Taxable
-date: '2018-07-07T00:00:00+00:00'
-permalink: taxable
----
-Subject to taxatlon; llable * to be assessed, along with others, for a share ln a tax. Persons subject to taxation are sometimes called “taxables;" so property which may be assessed for taxation is said to be taxable

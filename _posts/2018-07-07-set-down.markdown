@@ -1,7 +1,0 @@
----
-layout: post
-title: Set Down
-date: '2018-07-07T00:00:00+00:00'
-permalink: set-down
----
-To set down a cause for trlal or hearlng at a given term ls to enter ita tltle ln the calendar, list, or docket of causes whlch are to be brought on at that term

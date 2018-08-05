@@ -1,0 +1,8 @@
+---
+title: Obbogation
+permalink: "/definitions/obbogation.html"
+body: In the civU law. The alteration of a law by the passage of one in-consistent
+  with lt Calvin
+published_at: '2018-07-07'
+layout: post
+---

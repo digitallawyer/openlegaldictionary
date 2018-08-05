@@ -1,7 +1,0 @@
----
-layout: post
-title: Stipend
-date: '2018-07-07T00:00:00+00:00'
-permalink: stipend
----
-A salary; settled pay. Man-gam v. Brooklyn, 98 N. Y. 597, 50 Am. Rep. 706

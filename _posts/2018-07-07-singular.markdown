@@ -1,7 +1,0 @@
----
-layout: post
-title: Singular
-date: '2018-07-07T00:00:00+00:00'
-permalink: singular
----
-Each; as in the expression “all and singular.” Also, individual

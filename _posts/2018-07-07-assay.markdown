@@ -1,7 +1,0 @@
----
-layout: post
-title: Assay
-date: '2018-07-07T00:00:00+00:00'
-permalink: assay
----
-The proof or trial, by. chemical experiments, of the purity or fineness of met-als,—particularly of the precious metals, gold and silver

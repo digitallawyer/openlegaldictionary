@@ -1,7 +1,0 @@
----
-layout: post
-title: Loyalty
-date: '2018-07-07T00:00:00+00:00'
-permalink: loyalty
----
-Adherence to law. Faithfulness to one’s prince or sovereign or to the existing government

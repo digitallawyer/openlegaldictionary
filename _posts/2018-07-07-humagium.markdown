@@ -1,7 +1,0 @@
----
-layout: post
-title: Humagium
-date: '2018-07-07T00:00:00+00:00'
-permalink: humagium
----
-A moist place. Mon. Angl

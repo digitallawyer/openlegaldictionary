@@ -1,7 +1,0 @@
----
-layout: post
-title: Berra
-date: '2018-07-07T00:00:00+00:00'
-permalink: berra
----
-In old law. A plain; open heath. Cowell

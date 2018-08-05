@@ -1,7 +1,0 @@
----
-layout: post
-title: Memoire
-date: '2018-07-07T00:00:00+00:00'
-permalink: memoire
----
-In French law. A document ln the form of a petition, hy which ap-peals to the court of cassation are initiated

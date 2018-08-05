@@ -32,6 +32,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - pagemaster
+
+collections:
+  definitions:
+    output: true
+    source: definitions.yml
+    id_key: permalink
+    layout: post
 
 algolia:
   application_id: 76PFPDFKM6

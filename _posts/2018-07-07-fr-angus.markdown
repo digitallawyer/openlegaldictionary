@@ -1,7 +1,0 @@
----
-layout: post
-title: Fr Angus
-date: '2018-07-07T00:00:00+00:00'
-permalink: fr-angus
----
-L. Lat Free; a freeman; a Frank. Spelman

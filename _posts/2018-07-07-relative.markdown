@@ -1,7 +1,0 @@
----
-layout: post
-title: Relative
-date: '2018-07-07T00:00:00+00:00'
-permalink: relative
----
-A kinsman; a person con-nected with another by blood or affinity

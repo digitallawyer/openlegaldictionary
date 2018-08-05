@@ -1,7 +1,0 @@
----
-layout: post
-title: Equuleus
-date: '2018-07-07T00:00:00+00:00'
-permalink: equuleus
----
-A kind of rack for extort-ing confessions

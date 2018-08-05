@@ -1,7 +1,0 @@
----
-layout: post
-title: Bedel
-date: '2018-07-07T00:00:00+00:00'
-permalink: bedel
----
-In English law. A crier or messenger of court, who summons men to appear and answer therein. Cowell

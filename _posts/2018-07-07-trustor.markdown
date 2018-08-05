@@ -1,7 +1,0 @@
----
-layout: post
-title: Trustor
-date: '2018-07-07T00:00:00+00:00'
-permalink: trustor
----
-A word occasionally, though rarely, used as a deslgnation of the creator, donor, or founder of a trust

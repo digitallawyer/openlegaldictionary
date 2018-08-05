@@ -1,7 +1,0 @@
----
-layout: post
-title: Day.' I
-date: '2018-07-07T00:00:00+00:00'
-permalink: day.'-i
----
-A period of time consisting, of twenty-four hoars and including the solar

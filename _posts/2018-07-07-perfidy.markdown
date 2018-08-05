@@ -1,7 +1,0 @@
----
-layout: post
-title: Perfidy
-date: '2018-07-07T00:00:00+00:00'
-permalink: perfidy
----
-The act of one who has en-gaged his faith to do a thiug, and does not do it, but does the contrary, wolff, Inst, f 390

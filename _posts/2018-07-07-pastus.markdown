@@ -1,7 +1,0 @@
----
-layout: post
-title: Pastus
-date: '2018-07-07T00:00:00+00:00'
-permalink: pastus
----
-In feudal law. The procure-tlon or provlsion which tenants were bound to make for thelr lords at certain times, or as often as they made a progress to their lands; It was often converted into money

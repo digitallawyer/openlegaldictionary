@@ -1,7 +1,0 @@
----
-layout: post
-title: Modiatio
-date: '2018-07-07T00:00:00+00:00'
-permalink: modiatio
----
-In old Engllsh law. A cer-taln duty pald for every tierce of wine

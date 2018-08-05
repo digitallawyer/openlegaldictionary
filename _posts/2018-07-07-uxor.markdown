@@ -1,7 +1,0 @@
----
-layout: post
-title: Uxor
-date: '2018-07-07T00:00:00+00:00'
-permalink: uxor
----
-Lat. In the clvll law. A wlfe; a woman lawfully married

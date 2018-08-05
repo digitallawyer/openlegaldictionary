@@ -1,7 +1,0 @@
----
-layout: post
-title: Devisor
-date: '2018-07-07T00:00:00+00:00'
-permalink: devisor
----
-A giver of lands or real es-tate by will; the maker of a will of lands; a testator

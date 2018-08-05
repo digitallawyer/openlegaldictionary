@@ -1,7 +1,0 @@
----
-layout: post
-title: Hindu Law
-date: '2018-07-07T00:00:00+00:00'
-permalink: hindu-law
----
-The system of native law prevailing among the Gentoos, nnd admlnis-tered by the government of British Indla

@@ -1,7 +1,0 @@
----
-layout: post
-title: Sequela
-date: '2018-07-07T00:00:00+00:00'
-permalink: sequela
----
-L. Lat. In old English law. Suit; process or prosecution. Sequela cans#, the process of a cause. Cowell

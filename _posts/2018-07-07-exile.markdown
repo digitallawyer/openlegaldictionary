@@ -1,7 +1,0 @@
----
-layout: post
-title: Exile
-date: '2018-07-07T00:00:00+00:00'
-permalink: exile
----
-Banishment; the person batf-lshed

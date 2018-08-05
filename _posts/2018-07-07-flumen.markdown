@@ -1,7 +1,0 @@
----
-layout: post
-title: Flumen
-date: '2018-07-07T00:00:00+00:00'
-permalink: flumen
----
-In Roman law. A servi* tude which conslsts in the right to conduct the rain-water, collected from the roof and carried off by the gutters, onto the house or

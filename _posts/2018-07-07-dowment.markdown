@@ -1,7 +1,0 @@
----
-layout: post
-title: Dowment
-date: '2018-07-07T00:00:00+00:00'
-permalink: dowment
----
-In old English law. En-dowment; dower. Grogan v. Garrison, 27 ohio St 61

@@ -1,7 +1,0 @@
----
-layout: post
-title: Infans
-date: '2018-07-07T00:00:00+00:00'
-permalink: infans
----
-Lat. In the civil law. A child under the age of seven years; so called “quasi impos fandi,” (as not having the fac-uity of speech.) Cod. Theodos, 8, 18, 8

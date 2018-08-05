@@ -1,7 +1,0 @@
----
-layout: post
-title: Stamp
-date: '2018-07-07T00:00:00+00:00'
-permalink: stamp
----
-An impression made by public authority, in pursuance of law, upon paper or parchment, upon which certain legal pro-ceedings, conveyances, or contracts are required to be written, and for which a tax or duty is exacted

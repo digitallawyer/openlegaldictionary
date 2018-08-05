@@ -1,0 +1,7 @@
+---
+title: Malveisa
+permalink: "/definitions/malveisa.html"
+body: A warlike engine to batter and beat down walls
+published_at: '2018-07-07'
+layout: post
+---

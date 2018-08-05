@@ -1,7 +1,0 @@
----
-layout: post
-title: Raptor
-date: '2018-07-07T00:00:00+00:00'
-permalink: raptor
----
-In old English law. A rav-isher. Fleta, llb. 2, c. 52, § 12

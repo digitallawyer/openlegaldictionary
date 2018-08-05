@@ -1,7 +1,0 @@
----
-layout: post
-title: Log-Book
-date: '2018-07-07T00:00:00+00:00'
-permalink: log-book
----
-A ship’s Journal. It con-tains a minute account of the ship's course^ with a short history of every occurrence dur-' lng the voyage. 1 Marsh. Ins. 312

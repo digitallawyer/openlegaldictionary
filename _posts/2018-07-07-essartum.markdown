@@ -1,7 +1,0 @@
----
-layout: post
-title: Essartum
-date: '2018-07-07T00:00:00+00:00'
-permalink: essartum
----
-woodlands turned into tillage by uprooting the trees and removing the underwood

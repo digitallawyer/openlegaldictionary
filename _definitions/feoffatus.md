@@ -1,0 +1,8 @@
+---
+title: Feoffatus
+permalink: "/definitions/feoffatus.html"
+body: In old Engllsh law. A feoffee; one to whom a fee ls given, or a feoffment made.
+  Bract fols. 17b, 44b
+published_at: '2018-07-07'
+layout: post
+---

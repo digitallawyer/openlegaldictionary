@@ -1,7 +1,0 @@
----
-layout: post
-title: Hospodar
-date: '2018-07-07T00:00:00+00:00'
-permalink: hospodar
----
-A Turkish governor in Mol-davia or wallachia

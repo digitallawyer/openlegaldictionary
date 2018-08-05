@@ -1,7 +1,0 @@
----
-layout: post
-title: Gildable
-date: '2018-07-07T00:00:00+00:00'
-permalink: gildable
----
-In old English law. Tax-able, tributary, or contributory; liable to pay tax or tribute. Cowell; Blount

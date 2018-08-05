@@ -1,7 +1,0 @@
----
-layout: post
-title: Passage
-date: '2018-07-07T00:00:00+00:00'
-permalink: passage
----
-A way over water; an ease-ment giving the right to pass over a piece of private water

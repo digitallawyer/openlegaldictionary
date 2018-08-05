@@ -1,7 +1,0 @@
----
-layout: post
-title: Lineal
-date: '2018-07-07T00:00:00+00:00'
-permalink: lineal
----
-That which comes in a llne; especlally a direct line, as from father to son. Collateral relationship ls not called “lineal,” though the expresslon “collateral line," ls not unusual

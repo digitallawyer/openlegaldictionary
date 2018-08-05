@@ -1,7 +1,0 @@
----
-layout: post
-title: Forschel
-date: '2018-07-07T00:00:00+00:00'
-permalink: forschel
----
-A strip of land lying next to the highway

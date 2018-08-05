@@ -1,7 +1,0 @@
----
-layout: post
-title: Grantz
-date: '2018-07-07T00:00:00+00:00'
-permalink: grantz
----
-In old English law. Noble-men or grandees. Jacoh

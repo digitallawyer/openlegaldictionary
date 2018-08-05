@@ -1,7 +1,0 @@
----
-layout: post
-title: Auction
-date: '2018-07-07T00:00:00+00:00'
-permalink: auction
----
-A public sale of land or goods, at pubilc outcry, to the highest bid der. Russell v. Miner, Gl Burb. (N. Y.) 539; Hibler v. Hoag, 1 watts & S. (Fit.) 553; Crandall v. State, 28 ohio St 481

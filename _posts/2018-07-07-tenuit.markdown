@@ -1,7 +1,0 @@
----
-layout: post
-title: Tenuit
-date: '2018-07-07T00:00:00+00:00'
-permalink: tenuit
----
-A term used in stating the tenure in an actiou for waste done after the termination of the tenancy. See Tirkt

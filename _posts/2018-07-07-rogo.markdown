@@ -1,7 +1,0 @@
----
-layout: post
-title: Rogo
-date: '2018-07-07T00:00:00+00:00'
-permalink: rogo
----
-Lat. In Roman law. I ask; I request. A precatory expresslon often used ln wills. Dig. 30, 108, 13, 14

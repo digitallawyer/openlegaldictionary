@@ -1,7 +1,0 @@
----
-layout: post
-title: Firman
-date: '2018-07-07T00:00:00+00:00'
-permalink: firman
----
-A Turkish word denoting a decree or grant of privileges, or passport to a traveler

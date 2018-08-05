@@ -1,7 +1,0 @@
----
-layout: post
-title: De Banco
-date: '2018-07-07T00:00:00+00:00'
-permalink: de-banco
----
-of the bench. A term for-merly applied in England to the justices of the court of common pleas, or “bench,” as it was originally styled

@@ -1,7 +1,0 @@
----
-layout: post
-title: Many
-date: '2018-07-07T00:00:00+00:00'
-permalink: many
----
-This term denotes a multitude, not merely a number greater than that denoted by the word “few." . Louisville de N

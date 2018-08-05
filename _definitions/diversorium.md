@@ -1,0 +1,7 @@
+---
+title: Diversorium
+permalink: "/definitions/diversorium.html"
+body: In old English law. A lodging or inn. Townsh. Pl. 38
+published_at: '2018-07-07'
+layout: post
+---

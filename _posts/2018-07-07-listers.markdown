@@ -1,7 +1,0 @@
----
-layout: post
-title: Listers
-date: '2018-07-07T00:00:00+00:00'
-permalink: listers
----
-This word is used In some of the states to designate the persons appointed to make lists of taxables. See Rev. SL VL 638

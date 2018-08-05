@@ -1,7 +1,0 @@
----
-layout: post
-title: Kalendar
-date: '2018-07-07T00:00:00+00:00'
-permalink: kalendar
----
-Au account of time, exhibiting the days of the week and month, the seasons, etc. More commonly spelled “cal-endar.”

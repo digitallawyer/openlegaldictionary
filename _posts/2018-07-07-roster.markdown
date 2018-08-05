@@ -1,7 +1,0 @@
----
-layout: post
-title: Roster
-date: '2018-07-07T00:00:00+00:00'
-permalink: roster
----
-A list of persons who are to perform certain legal duties when called upon in -their turn. In military affairs it ls a table or plan by which the duty of officers ls reg-ulated. See Matthews v. Bowman, 25 Me. 167

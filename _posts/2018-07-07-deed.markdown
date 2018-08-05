@@ -1,7 +1,0 @@
----
-layout: post
-title: Deed
-date: '2018-07-07T00:00:00+00:00'
-permalink: deed
----
-A sealed instrument, containing a contract or covenant, delivered by the party to be bound thereby, and uccepted by the party to whom the contract or coveuant runs

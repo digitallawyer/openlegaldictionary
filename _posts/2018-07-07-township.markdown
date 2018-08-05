@@ -1,7 +1,0 @@
----
-layout: post
-title: Township
-date: '2018-07-07T00:00:00+00:00'
-permalink: township
----
-HIP. 1. In surveys of the public land of the United States, a “township” is a division of territory six miles square, con-taiuing thirty-six sections

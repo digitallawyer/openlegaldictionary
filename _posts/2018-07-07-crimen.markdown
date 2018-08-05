@@ -1,7 +1,0 @@
----
-layout: post
-title: Crimen
-date: '2018-07-07T00:00:00+00:00'
-permalink: crimen
----
-Lat. Crime. Also an accu-satlon or charge of crime

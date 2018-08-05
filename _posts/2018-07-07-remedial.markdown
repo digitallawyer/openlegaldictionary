@@ -1,7 +1,0 @@
----
-layout: post
-title: Remedial
-date: '2018-07-07T00:00:00+00:00'
-permalink: remedial
----
-1. Affording a remedy; giving the means of obtaining redress

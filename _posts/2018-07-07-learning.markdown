@@ -1,7 +1,0 @@
----
-layout: post
-title: Learning
-date: '2018-07-07T00:00:00+00:00'
-permalink: learning
----
-Legal doctrine. 1 Leon. 77

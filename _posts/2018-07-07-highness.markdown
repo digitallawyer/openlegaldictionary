@@ -1,7 +1,0 @@
----
-layout: post
-title: Highness
-date: '2018-07-07T00:00:00+00:00'
-permalink: highness
----
-A title of honor given to princes. The kings of England, before the time of James I., were not usually salated with the title of “Majesty," but wlth that of “Highness.” The children of crowned heads generally recelve the style of "Highness." wharton

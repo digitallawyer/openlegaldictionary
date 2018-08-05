@@ -1,0 +1,9 @@
+---
+title: Replicatio
+permalink: "/definitions/replicatio.html"
+body: Lat In the civil law and old Englisb pleading. The plaintiffs answer to the
+  defendant’s exception or plea; corresponding with and giving name to the replication
+  in modern pleading. Inst. 4, 14, pr
+published_at: '2018-07-07'
+layout: post
+---

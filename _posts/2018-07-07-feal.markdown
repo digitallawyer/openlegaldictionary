@@ -1,7 +1,0 @@
----
-layout: post
-title: Feal
-date: '2018-07-07T00:00:00+00:00'
-permalink: feal
----
-Faithful. Tenants by knight serv-ice swore to thelr lords to be feal and leal

@@ -1,7 +1,0 @@
----
-layout: post
-title: Escambio
-date: '2018-07-07T00:00:00+00:00'
-permalink: escambio
----
-In old English law. A writ of exchange. A license ln the shape of » a writ, formerly granted to an English mer-chant to draw a bill of exchange on another

@@ -1,7 +1,0 @@
----
-layout: post
-title: Maritime
-date: '2018-07-07T00:00:00+00:00'
-permalink: maritime
----
-Pertaiuing to the sea or ocean or the navigation thereof; or to com-merce conducted by navigation of the sea or (ln America) of the great lakes and rivers

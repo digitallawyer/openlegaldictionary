@@ -1,7 +1,0 @@
----
-layout: post
-title: Solidum
-date: '2018-07-07T00:00:00+00:00'
-permalink: solidum
----
-Lat. In the civil law. A whole; an entire or undivided thing

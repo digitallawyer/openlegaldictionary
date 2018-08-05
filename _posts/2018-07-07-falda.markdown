@@ -1,7 +1,0 @@
----
-layout: post
-title: Falda
-date: '2018-07-07T00:00:00+00:00'
-permalink: falda
----
-Span. In Spanish law. The slope or skirt of a hill. Fossat v. United States, 2 wall. 673, 17 L. Ed. 739

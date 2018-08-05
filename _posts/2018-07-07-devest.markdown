@@ -1,7 +1,0 @@
----
-layout: post
-title: Devest
-date: '2018-07-07T00:00:00+00:00'
-permalink: devest
----
-To deprive; to take away; to withdraw. Usually spoken of an authority, power, property, or title; as the estate is de-vested

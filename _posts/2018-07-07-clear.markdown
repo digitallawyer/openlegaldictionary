@@ -1,7 +1,0 @@
----
-layout: post
-title: Clear
-date: '2018-07-07T00:00:00+00:00'
-permalink: clear
----
-Plain; evident; free from doubt or conjecture; also, unincumbered; free from deductions or draw-backs

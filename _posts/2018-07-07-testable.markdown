@@ -1,7 +1,0 @@
----
-layout: post
-title: Testable
-date: '2018-07-07T00:00:00+00:00'
-permalink: testable
----
-A person is said to be test-able when he has capacity to make a will; a man of twenty-one years of age and of Bane mind is testable

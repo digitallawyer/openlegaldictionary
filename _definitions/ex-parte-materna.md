@@ -1,0 +1,7 @@
+---
+title: Ex Parte Materna
+permalink: "/definitions/ex-parte-materna.html"
+body: on the mother's side; of the maternal line
+published_at: '2018-07-07'
+layout: post
+---

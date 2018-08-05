@@ -1,7 +1,0 @@
----
-layout: post
-title: Abbacy
-date: '2018-07-07T00:00:00+00:00'
-permalink: abbacy
----
-The government of a religious house, and the revenues thereof, subject to an abbot, as a bishopric ls to a bishop. Cow-elh The rights and prlvlleges of an abbot

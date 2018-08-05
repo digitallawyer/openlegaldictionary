@@ -1,7 +1,0 @@
----
-layout: post
-title: No Bill
-date: '2018-07-07T00:00:00+00:00'
-permalink: no-bill
----
-This phrase, when Indorsed by a grand jury on an Indictment, is equivalent to “not found," “not a true bill," or “ignoramus

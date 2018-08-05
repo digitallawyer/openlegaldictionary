@@ -1,7 +1,0 @@
----
-layout: post
-title: Assembly
-date: '2018-07-07T00:00:00+00:00'
-permalink: assembly
----
-The concourse or meeting together of a considerable number of persons at the same place. Also the persons so gathered

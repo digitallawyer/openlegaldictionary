@@ -1,0 +1,7 @@
+---
+title: Poach
+permalink: "/definitions/poach.html"
+body: To steal game on a man’s land
+published_at: '2018-07-07'
+layout: post
+---

@@ -1,7 +1,0 @@
----
-layout: post
-title: Grafio
-date: '2018-07-07T00:00:00+00:00'
-permalink: grafio
----
-A baron, inferior to a count. A fiscal judge. An advocate. Spelman; Cow-ell

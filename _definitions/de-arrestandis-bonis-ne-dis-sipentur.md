@@ -1,0 +1,8 @@
+---
+title: De Arrestandis Bonis Ne Dis-Sipentur
+permalink: "/definitions/de-arrestandis-bonis-ne-dis-sipentur.html"
+body: An old writ which lay to seize goods in the hands of a party during the pendency
+  of a suit, to prevent their be-ing made away with. Reg. orig. 126b
+published_at: '2018-07-07'
+layout: post
+---

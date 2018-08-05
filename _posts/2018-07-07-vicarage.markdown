@@ -1,7 +1,0 @@
----
-layout: post
-title: Vicarage
-date: '2018-07-07T00:00:00+00:00'
-permalink: vicarage
----
-In Engllsh ecclesiastical law. The living or benefice of a vicar, as a parsonage is of a parson. 1 Bl. Comm- 387, 388

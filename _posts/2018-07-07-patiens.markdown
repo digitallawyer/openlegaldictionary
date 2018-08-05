@@ -1,7 +1,0 @@
----
-layout: post
-title: Patiens
-date: '2018-07-07T00:00:00+00:00'
-permalink: patiens
----
-Lat. one who suffers or pet-ndts; one to whom an act is done; the pas-sive party.in a transaction

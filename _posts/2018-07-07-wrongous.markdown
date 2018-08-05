@@ -1,7 +1,0 @@
----
-layout: post
-title: Wrongous
-date: '2018-07-07T00:00:00+00:00'
-permalink: wrongous
----
-In Scotch law. wrong-ful; unlawful; as wrongous imprisonment Ersk. Prin. 4, 4, 25

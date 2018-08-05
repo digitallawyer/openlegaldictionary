@@ -1,0 +1,7 @@
+---
+title: Indebitum
+permalink: "/definitions/indebitum.html"
+body: In the civil law. Not due or owing. (Dig. 12, 6.) Calvin
+published_at: '2018-07-07'
+layout: post
+---

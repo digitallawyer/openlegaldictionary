@@ -1,7 +1,0 @@
----
-layout: post
-title: Drayage
-date: '2018-07-07T00:00:00+00:00'
-permalink: drayage
----
-A charge for the transpor-tation of property In wheeled vehlcles, such as drays, wagons, and carts. Soule v. San Franclsco Gaslight Co., 54 Cal. 242

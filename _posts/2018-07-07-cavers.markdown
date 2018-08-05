@@ -1,7 +1,0 @@
----
-layout: post
-title: Cavers
-date: '2018-07-07T00:00:00+00:00'
-permalink: cavers
----
-Persons stealing ore from mines in Derbyshire, punishable in the bergh-mote or miners’ court; also officers beloug-ing to the same mines, wharton

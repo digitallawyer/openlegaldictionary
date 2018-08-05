@@ -1,7 +1,0 @@
----
-layout: post
-title: Feudum
-date: '2018-07-07T00:00:00+00:00'
-permalink: feudum
----
-L. Lat. A feud, fief, or fee. A right of using nnd enjoying forever the lands of another, whieh tlie lord grants on condition that the tenant shall render fealty, mllitary duty, and other services. Spelman

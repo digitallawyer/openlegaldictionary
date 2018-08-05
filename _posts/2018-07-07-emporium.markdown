@@ -1,7 +1,0 @@
----
-layout: post
-title: Emporium
-date: '2018-07-07T00:00:00+00:00'
-permalink: emporium
----
-A place for wholesale trade in commodities carried by sea. The name is sometimes applied to a seaport town, but it properly signifies only a particular place lu such a town. Smith, Dict. Antiq

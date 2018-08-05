@@ -1,7 +1,0 @@
----
-layout: post
-title: Cofy
-date: '2018-07-07T00:00:00+00:00'
-permalink: cofy
----
-The transcript or double of an original writlng; as the copy of a patent, charter, deed, etc

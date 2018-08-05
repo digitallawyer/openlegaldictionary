@@ -1,0 +1,7 @@
+---
+title: Hague
+permalink: "/definitions/hague.html"
+body: In old statutes. A hand-gun, about three-quarters of a yard long
+published_at: '2018-07-07'
+layout: post
+---

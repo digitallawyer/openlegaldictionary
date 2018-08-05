@@ -1,7 +1,0 @@
----
-layout: post
-title: Writ Of Recaption
-date: '2018-07-07T00:00:00+00:00'
-permalink: writ-of-recaption
----
-If, pendlng an action of replevin for a distress, the defendant distrains again for the same rent or service, the owner of the goods is not driven to another action of replevin, but is allowed a writ of recaption, by which he recovers the goods and damages for the defendant's contempt of the process of the law ln making a second distress while the matter is sub jndice. woodf. Landl. & Ten. 484

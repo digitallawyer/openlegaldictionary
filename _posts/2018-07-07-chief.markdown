@@ -1,7 +1,0 @@
----
-layout: post
-title: Chief
-date: '2018-07-07T00:00:00+00:00'
-permalink: chief
----
-Principal; leading; head; emi-nent in power or importance; the most im-portant or valuable of several

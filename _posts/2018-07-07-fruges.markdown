@@ -1,7 +1,0 @@
----
-layout: post
-title: Fruges
-date: '2018-07-07T00:00:00+00:00'
-permalink: fruges
----
-In the civil law. Anything produced from vines, underwood, chalk-pits, stone-quarries. Dig. 50, 16, 77

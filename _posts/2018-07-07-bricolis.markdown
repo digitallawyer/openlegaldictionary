@@ -1,7 +1,0 @@
----
-layout: post
-title: Bricolis
-date: '2018-07-07T00:00:00+00:00'
-permalink: bricolis
----
-An engine by which walls were beaten down. Blount

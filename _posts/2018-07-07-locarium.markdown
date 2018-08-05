@@ -1,7 +1,0 @@
----
-layout: post
-title: Locarium
-date: '2018-07-07T00:00:00+00:00'
-permalink: locarium
----
-In old European law. The price of letting; money paid for the hire of a thing; rent Spelman

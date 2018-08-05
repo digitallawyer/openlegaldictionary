@@ -1,7 +1,0 @@
----
-layout: post
-title: Vend
-date: '2018-07-07T00:00:00+00:00'
-permalink: vend
----
-To sell; to transfer the owner-shlp of an article to another for a price ln money. The term is not commonly applled to the sale of real estate, although Its derivatives “vendor” and "vendee” are

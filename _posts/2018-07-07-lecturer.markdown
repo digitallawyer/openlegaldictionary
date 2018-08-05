@@ -1,7 +1,0 @@
----
-layout: post
-title: Lecturer
-date: '2018-07-07T00:00:00+00:00'
-permalink: lecturer
----
-An Instructor; a reader of lectures; also a clergyman who assists rect-ore, etc., ln preaching, etc

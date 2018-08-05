@@ -1,7 +1,0 @@
----
-layout: post
-title: Nuptial
-date: '2018-07-07T00:00:00+00:00'
-permalink: nuptial
----
-Pertaining to marriage; con-stitnting marriage; used or done in mar-riage

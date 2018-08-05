@@ -1,7 +1,0 @@
----
-layout: post
-title: Quibble
-date: '2018-07-07T00:00:00+00:00'
-permalink: quibble
----
-A cavilling or verbal ohjec-tion. A sllght difllculty raised without ne-cesslty or propriety

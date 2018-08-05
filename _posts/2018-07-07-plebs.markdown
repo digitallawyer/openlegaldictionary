@@ -1,7 +1,0 @@
----
-layout: post
-title: Plebs
-date: '2018-07-07T00:00:00+00:00'
-permalink: plebs
----
-Lat. In Roman law. The commonalty or citizens, exclusive of the patrl-cians nnd senators. Inst 1, 2, 4

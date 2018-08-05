@@ -1,7 +1,0 @@
----
-layout: post
-title: Embargo
-date: '2018-07-07T00:00:00+00:00'
-permalink: embargo
----
-A proclamation or order of state, usually issued in time of war or threatened hostilities, prohibiting the departure of

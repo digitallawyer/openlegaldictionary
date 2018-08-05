@@ -1,7 +1,0 @@
----
-layout: post
-title: Patronus
-date: '2018-07-07T00:00:00+00:00'
-permalink: patronus
----
-Lat. In Roman law. A person who stood ln the relation of protector to another who was called his "client.” one who advised hls client in matters of law, and advocated his causes In court. Gilb. Forum Rom. 25

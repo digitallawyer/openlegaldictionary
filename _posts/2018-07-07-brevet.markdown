@@ -1,7 +1,0 @@
----
-layout: post
-title: Brevet
-date: '2018-07-07T00:00:00+00:00'
-permalink: brevet
----
-In military law. A corn-mission by which an oflicer is promoted to the next higher rank, but without confer-ring a right to a corresponding increase of pay

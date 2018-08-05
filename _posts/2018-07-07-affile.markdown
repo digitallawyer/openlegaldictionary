@@ -1,7 +1,0 @@
----
-layout: post
-title: Affile
-date: '2018-07-07T00:00:00+00:00'
-permalink: affile
----
-A term employed in old. prac-tice, signifying to put on file. 2 Maule & S. 202. In modern usage it is contracted to file

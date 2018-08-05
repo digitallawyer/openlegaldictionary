@@ -1,7 +1,0 @@
----
-layout: post
-title: Share
-date: '2018-07-07T00:00:00+00:00'
-permalink: share
----
-▲ portion of anythin,,, when a whole is divided into shares, they are not necessarily equal

@@ -1,7 +1,0 @@
----
-layout: post
-title: Stocks
-date: '2018-07-07T00:00:00+00:00'
-permalink: stocks
----
-A machine consisting of two pieces of timber, arranged to be fastened to-gether, and holding fast the legs of a pereon placed ln it This was an ancient method of punishment

@@ -1,7 +1,0 @@
----
-layout: post
-title: Pace
-date: '2018-07-07T00:00:00+00:00'
-permalink: pace
----
-A measure of length containing two feet and a half, being the ordinary length of a step

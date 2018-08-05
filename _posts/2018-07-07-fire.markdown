@@ -1,7 +1,0 @@
----
-layout: post
-title: Fire
-date: '2018-07-07T00:00:00+00:00'
-permalink: fire
----
-The efTect of combustion. The juridical meaning of the word does not differ from the vernacular. 1 Pars. Mar. Law, 231, et seq

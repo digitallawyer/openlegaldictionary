@@ -1,7 +1,0 @@
----
-layout: post
-title: Dare
-date: '2018-07-07T00:00:00+00:00'
-permalink: dare
----
-Lat. In the clvil law. To trans-fer property, when this transfer is made in order to discharge a debt, it is datio sol-vendi animo; when in order to receive an equivalent, to create an obligation, lt is datio contrahendi animo; lastly, when made donandi animo, from mere liberality, lt ls a gift, dono datio

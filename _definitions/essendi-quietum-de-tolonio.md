@@ -1,0 +1,9 @@
+---
+title: Essendi Quietum De Tolonio
+permalink: "/definitions/essendi-quietum-de-tolonio.html"
+body: A writ to he quit of toll; lt lies for citizens and burgesses of any city or
+  town who, by charter or prescription, ought to be exempt-ed from toll, where the
+  same is exacted of them. Reg. orig. 258.
+published_at: '2018-07-07'
+layout: post
+---

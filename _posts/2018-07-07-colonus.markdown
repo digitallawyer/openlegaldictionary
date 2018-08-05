@@ -1,7 +1,0 @@
----
-layout: post
-title: Colonus
-date: '2018-07-07T00:00:00+00:00'
-permalink: colonus
----
-In old European, law. A husbandman; an inferior tenant employed in cultivating the lord’s land. A term of Ro-man origin, corresponding with the Saxon ceorl. 1 Spence, Ch. 5L

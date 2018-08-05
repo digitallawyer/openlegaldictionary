@@ -1,7 +1,0 @@
----
-layout: post
-title: Novels
-date: '2018-07-07T00:00:00+00:00'
-permalink: novels
----
-The tltle given in English to the New Constitutions (Novella Constitu-tioncs) ot Justinian and hls successors, now forming a part of the Corpus Juris Civilis. See Novelise

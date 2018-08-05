@@ -1,0 +1,9 @@
+---
+title: Abortion
+permalink: "/definitions/abortion.html"
+body: In criminal law. The miscarriage or premature delivery of a woman who is quick
+  with child, when this ls brought about with a malicious design, or for an unlawful
+  purpose, it is a crime in law
+published_at: '2018-07-07'
+layout: post
+---

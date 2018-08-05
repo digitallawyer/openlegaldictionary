@@ -1,7 +1,0 @@
----
-layout: post
-title: Landmark
-date: '2018-07-07T00:00:00+00:00'
-permalink: landmark
----
-A monument or erection set up on the boundary line of two adjoining estates, to fix such boundary. The removing of a landmark is a wrong for which an action lies

@@ -1,7 +1,0 @@
----
-layout: post
-title: Formella
-date: '2018-07-07T00:00:00+00:00'
-permalink: formella
----
-A certain weight of above 70 lbs., mentioned in 51 Hen. III. Cowell

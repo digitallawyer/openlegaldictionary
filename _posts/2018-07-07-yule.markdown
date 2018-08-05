@@ -1,7 +1,0 @@
----
-layout: post
-title: Yule
-date: '2018-07-07T00:00:00+00:00'
-permalink: yule
----
-The tlmes of Christmas and Lammas

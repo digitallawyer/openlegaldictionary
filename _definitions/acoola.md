@@ -1,0 +1,7 @@
+---
+title: Acoola
+permalink: "/definitions/acoola.html"
+body: In tbe civil law. one who
+published_at: '2018-07-07'
+layout: post
+---

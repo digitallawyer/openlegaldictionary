@@ -1,7 +1,0 @@
----
-layout: post
-title: A
-date: '2018-07-08T00:00:00+00:00'
-permalink: a
----
-The first letter ot the English alpha­bet, used to dlistinguish the first page of a folio from the second, marked b, or the first page of a book, the first foot-note on a print­ed page, the first of a series of subdivisions, etc., from the following ones, which are marked b, c, d, e, etc.

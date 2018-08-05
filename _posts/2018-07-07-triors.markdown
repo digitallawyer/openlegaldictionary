@@ -1,7 +1,0 @@
----
-layout: post
-title: Triors
-date: '2018-07-07T00:00:00+00:00'
-permalink: triors
----
-In practice. Persons who are appointed to try challenges to jurors, i. e., to hear and determine whether a juror challenged for favor Is or ls not qualified to serve

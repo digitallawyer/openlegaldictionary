@@ -1,7 +1,0 @@
----
-layout: post
-title: Registry
-date: '2018-07-07T00:00:00+00:00'
-permalink: registry
----
-A register, or book author-lzed or recognized by law, kept for the recording or registration of facts or documents

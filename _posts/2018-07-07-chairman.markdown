@@ -1,7 +1,0 @@
----
-layout: post
-title: Chairman
-date: '2018-07-07T00:00:00+00:00'
-permalink: chairman
----
-A name glven to the pre-siding officer of an assembly, public meeting, convention, deliberative or legislative body, board of directors, committee, etc

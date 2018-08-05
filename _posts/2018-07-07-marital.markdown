@@ -1,7 +1,0 @@
----
-layout: post
-title: Marital
-date: '2018-07-07T00:00:00+00:00'
-permalink: marital
----
-Relating to, or connected with, the status of marriage; pertaining to a husband; incident to a husband

@@ -1,7 +1,0 @@
----
-layout: post
-title: Trigild
-date: '2018-07-07T00:00:00+00:00'
-permalink: trigild
----
-In Saxon law. A triple gild, geld, or payment; three times the value of a thing, paid as a composition or satisfac-tion. Spelman

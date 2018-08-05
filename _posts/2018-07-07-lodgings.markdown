@@ -1,7 +1,0 @@
----
-layout: post
-title: Lodgings
-date: '2018-07-07T00:00:00+00:00'
-permalink: lodgings
----
-Habitation in another’s house; apartments ln another’s house, fur-nished or unfurnished, occupied for habita-tion; the occupier heing termed a “lodger

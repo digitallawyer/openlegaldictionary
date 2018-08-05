@@ -1,7 +1,0 @@
----
-layout: post
-title: Table
-date: '2018-07-07T00:00:00+00:00'
-permalink: table
----
-A synopsis or condensed state-ment, bringing together numerous items or

@@ -1,7 +1,0 @@
----
-layout: post
-title: Cockpit
-date: '2018-07-07T00:00:00+00:00'
-permalink: cockpit
----
-A name which used to be given to the judicial committee of the privy council, the council-room belng built on the old cockpit of whitehall Place

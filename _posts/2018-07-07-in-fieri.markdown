@@ -1,7 +1,0 @@
----
-layout: post
-title: In Fieri
-date: '2018-07-07T00:00:00+00:00'
-permalink: in-fieri
----
-In being made; in process of formation or development; hence, incomplete or inchoate. Legal proceedings are described as in fieri until judgment is entered

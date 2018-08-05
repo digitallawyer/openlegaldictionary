@@ -1,7 +1,0 @@
----
-layout: post
-title: Piscary
-date: '2018-07-07T00:00:00+00:00'
-permalink: piscary
----
-The right or privilege of fishing. Thus, common of piscary is the right of fishing in waters belonging to an-ofher person

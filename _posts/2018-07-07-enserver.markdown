@@ -1,7 +1,0 @@
----
-layout: post
-title: Enserver
-date: '2018-07-07T00:00:00+00:00'
-permalink: enserver
----
-L. Fr. To make subject to a service or servitude. Britt c. 54

@@ -1,7 +1,0 @@
----
-layout: post
-title: Archives
-date: '2018-07-07T00:00:00+00:00'
-permalink: archives
----
-The Rolls; any place where ancient records, charters, and evidences are kept In libraries, the private depository. Cowell; Spelman

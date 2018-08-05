@@ -1,7 +1,0 @@
----
-layout: post
-title: Gabella
-date: '2018-07-07T00:00:00+00:00'
-permalink: gabella
----
-The Law Latin form of “gabel,” (q. v

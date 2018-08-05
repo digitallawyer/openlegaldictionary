@@ -1,7 +1,0 @@
----
-layout: post
-title: Bataille
-date: '2018-07-07T00:00:00+00:00'
-permalink: bataille
----
-In old Engllsh law. Battel; the trial by combat or duellum

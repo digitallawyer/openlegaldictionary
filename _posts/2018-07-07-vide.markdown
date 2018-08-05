@@ -1,7 +1,0 @@
----
-layout: post
-title: Vide
-date: '2018-07-07T00:00:00+00:00'
-permalink: vide
----
-Lat. A word of reference. Vide ante, or vide supra, refers to a previous pas-sage, vide post, or vide infra, to a subsequent passage, in a book

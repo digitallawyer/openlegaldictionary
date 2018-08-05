@@ -1,7 +1,0 @@
----
-layout: post
-title: Black Code
-date: '2018-07-07T00:00:00+00:00'
-permalink: black-code
----
-A name given collectively to the body of laws, statutes, and rules in force in various southern states prlor to 1865, which regulated the lnstitu-tlon of slavery, and pnrtlcularly those for-bidding their reception nt public Inns and on public conveyances. Clvll Rights Cases, 109 U. S. 3, 3 Sup. Ct. 18, 27 L. Ed. 835

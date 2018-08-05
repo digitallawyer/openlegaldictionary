@@ -1,7 +1,0 @@
----
-layout: post
-title: Notorial
-date: '2018-07-07T00:00:00+00:00'
-permalink: notorial
----
-The Scotch form of “nota-rial,” (q. v.) Bell

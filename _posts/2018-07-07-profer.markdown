@@ -1,7 +1,0 @@
----
-layout: post
-title: Profer
-date: '2018-07-07T00:00:00+00:00'
-permalink: profer
----
-In old English law. An offer or proffer; an offer or endeavor to proceed ln an action, by any man concerned to do so. Cowell

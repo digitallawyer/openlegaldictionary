@@ -1,7 +1,0 @@
----
-layout: post
-title: Clericus
-date: '2018-07-07T00:00:00+00:00'
-permalink: clericus
----
-In Roman law. A minister of religion in the Christian chnrch; an ecclesiastic or priest Cod. 1, 3; Nov. 3, 123, 137. A general term, including bishops, priests, deacons, and others of inferior or* der. Brissonius

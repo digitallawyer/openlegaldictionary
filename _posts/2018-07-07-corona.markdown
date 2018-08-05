@@ -1,7 +1,0 @@
----
-layout: post
-title: Corona
-date: '2018-07-07T00:00:00+00:00'
-permalink: corona
----
-The crown. Placita corona; pleas of the crown; criminal actions or pro-ceedlngs, ln which the crown was the pros-ecutor

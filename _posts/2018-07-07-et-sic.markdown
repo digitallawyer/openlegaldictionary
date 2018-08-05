@@ -1,7 +1,0 @@
----
-layout: post
-title: Et Sic
-date: '2018-07-07T00:00:00+00:00'
-permalink: et-sic
----
-And so. In the Latin forms of pleading these were the introductory words of a special conclusion to a plea in bar, the object being to render it positive and not ar-gumentative; as et sic nil debet

@@ -1,7 +1,0 @@
----
-layout: post
-title: Ministry
-date: '2018-07-07T00:00:00+00:00'
-permalink: ministry
----
-office; service. Those members of the government who are in the cabinet

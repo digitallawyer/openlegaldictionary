@@ -1,7 +1,0 @@
----
-layout: post
-title: Fugitate
-date: '2018-07-07T00:00:00+00:00'
-permalink: fugitate
----
-In Scotch practice. To outlaw, by the sentence of a court; to out-law for non-appearance in a criminal case. 2 Alls. Crim. Pr. 350

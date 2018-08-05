@@ -1,7 +1,0 @@
----
-layout: post
-title: Caroome
-date: '2018-07-07T00:00:00+00:00'
-permalink: caroome
----
-In Engllsh law. A license by the lord mayor of London to keep a cart

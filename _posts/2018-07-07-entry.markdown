@@ -1,7 +1,0 @@
----
-layout: post
-title: Entry
-date: '2018-07-07T00:00:00+00:00'
-permalink: entry
----
-1. In real property law. En

@@ -1,7 +1,0 @@
----
-layout: post
-title: Approval
-date: '2018-07-07T00:00:00+00:00'
-permalink: approval
----
-The act of a judge or magistrate ln sanctioning and accepting as satisfactory a bond, security, or other in-strumeut which ls required by law to pass his inspection and receive his approbation before it becomes operative

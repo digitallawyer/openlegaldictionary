@@ -1,7 +1,0 @@
----
-layout: post
-title: Chapel
-date: '2018-07-07T00:00:00+00:00'
-permalink: chapel
----
-A place of worship; a lesser or inferior church, sometimes a part of or subordinate to another church, webster. Rex v. Nixon, 7 Car. & P. 442

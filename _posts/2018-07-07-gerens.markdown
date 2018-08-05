@@ -1,7 +1,0 @@
----
-layout: post
-title: Gerens
-date: '2018-07-07T00:00:00+00:00'
-permalink: gerens
----
-Bearing. Gerens datum, bear-lug date. l’Ld. Raym. 336; Hob. 19

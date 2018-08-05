@@ -1,7 +1,0 @@
----
-layout: post
-title: Prest
-date: '2018-07-07T00:00:00+00:00'
-permalink: prest
----
-In old English law. A duty ln money to be paid by the sheriff upon hls account in the exchequer, or for money left or remaining ln his hands. Cowell

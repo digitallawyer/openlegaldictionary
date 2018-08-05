@@ -1,7 +1,0 @@
----
-layout: post
-title: Deforce
-date: '2018-07-07T00:00:00+00:00'
-permalink: deforce
----
-In English law. To wlth-hold wrongfully; to withhold the possesslon of lands from one who is lawfully entitled to them. 3 Bl. Comm. 172; Phelps v. Bald-win, 17 Conn. 212

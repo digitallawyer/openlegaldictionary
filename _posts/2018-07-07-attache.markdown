@@ -1,7 +1,0 @@
----
-layout: post
-title: Attache
-date: '2018-07-07T00:00:00+00:00'
-permalink: attache
----
-A person attached to the suite of an ambassador or to a foreign lega-tion

@@ -1,0 +1,7 @@
+---
+title: In Pejorem Partem
+permalink: "/definitions/in-pejorem-partem.html"
+body: In the worst
+published_at: '2018-07-07'
+layout: post
+---

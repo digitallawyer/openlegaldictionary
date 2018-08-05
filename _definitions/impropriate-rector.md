@@ -1,0 +1,10 @@
+---
+title: Impropriate Rector
+permalink: "/definitions/impropriate-rector.html"
+body: In ecclesiastical law. Commonly signifies a lay rector as opposed to a spiritual
+  rector; just as irn-propriate tithes are tithes in the hands of a lay owner, as
+  opposed to approprlate tithes, which are tithes in the hands of a spiritual owner.
+  Brown
+published_at: '2018-07-07'
+layout: post
+---

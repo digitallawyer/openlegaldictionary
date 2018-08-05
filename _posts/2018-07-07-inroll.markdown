@@ -1,7 +1,0 @@
----
-layout: post
-title: Inroll
-date: '2018-07-07T00:00:00+00:00'
-permalink: inroll
----
-A form of “enroll," used ln the old books. 3 Rep. Ch. 63, 73 ; 3 East, 410

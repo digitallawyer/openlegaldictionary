@@ -1,7 +1,0 @@
----
-layout: post
-title: I O U
-date: '2018-07-07T00:00:00+00:00'
-permalink: i-o-u
----
-A memorandum of debt, consisting of these letters, (“I owe you,”) a sum of money, and the debtor's signature, is termed an “I O U.” Kinney v. Flynn, 2 R. I. 329

@@ -1,7 +1,0 @@
----
-layout: post
-title: Termini
-date: '2018-07-07T00:00:00+00:00'
-permalink: termini
----
-Lat Ends; bounds; llmlt-lng or termlnatlng polnts

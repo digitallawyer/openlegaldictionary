@@ -1,7 +1,0 @@
----
-layout: post
-title: Tempus
-date: '2018-07-07T00:00:00+00:00'
-permalink: tempus
----
-Lat. In the clvll and old Engllsh law. Time ln general. A tlme limited; a season; e. g., tempus pcssonis, mast time in the forest

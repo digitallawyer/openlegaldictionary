@@ -1,7 +1,0 @@
----
-layout: post
-title: Laia
-date: '2018-07-07T00:00:00+00:00'
-permalink: laia
----
-A roadway ln a wood. Mon. Angl. t 1, p. 483

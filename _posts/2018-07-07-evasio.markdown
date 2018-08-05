@@ -1,7 +1,0 @@
----
-layout: post
-title: Evasio
-date: '2018-07-07T00:00:00+00:00'
-permalink: evasio
----
-Lat. In old practlce. An es-cape from prison or custody. Reg. orig. 312

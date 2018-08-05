@@ -1,7 +1,0 @@
----
-layout: post
-title: A Gratia
-date: '2018-07-07T00:00:00+00:00'
-permalink: a-gratia
----
-From grace or favor; as a matter of Indulgence, not of right

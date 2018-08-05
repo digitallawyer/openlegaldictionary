@@ -1,7 +1,0 @@
----
-layout: post
-title: Injuria
-date: '2018-07-07T00:00:00+00:00'
-permalink: injuria
----
-Lat. Injury; wrong; the pri-vation or violation of right. 3 Bl. Comm. 2

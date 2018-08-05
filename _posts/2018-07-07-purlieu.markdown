@@ -1,7 +1,0 @@
----
-layout: post
-title: Purlieu
-date: '2018-07-07T00:00:00+00:00'
-permalink: purlieu
----
-In English law. A space of land near a royal forest, which, belng severed from it, was made purlieu; that is, pure or free from the forest laws

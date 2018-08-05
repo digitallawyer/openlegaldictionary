@@ -1,7 +1,0 @@
----
-layout: post
-title: Sans Jour
-date: '2018-07-07T00:00:00+00:00'
-permalink: sans-jour
----
-Fr. without day; sine die

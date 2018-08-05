@@ -1,7 +1,0 @@
----
-layout: post
-title: Ibidem
-date: '2018-07-07T00:00:00+00:00'
-permalink: ibidem
----
-Lat In the same place; in the same book; on the same page, etc. Abbreviated to “ibid.” or “ib

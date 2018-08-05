@@ -1,7 +1,0 @@
----
-layout: post
-title: Inlaw
-date: '2018-07-07T00:00:00+00:00'
-permalink: inlaw
----
-To place under the protection of the law. “Swearing obedience to the king in a leet, which doth inlaw the subject." Bacon

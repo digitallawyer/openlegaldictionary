@@ -1,7 +1,0 @@
----
-layout: post
-title: Qujbstor
-date: '2018-07-07T00:00:00+00:00'
-permalink: qujbstor
----
-Lat A Roman magistrate, -whose office it was to collect the public rev-enue. Varro de L. L. iv. 14

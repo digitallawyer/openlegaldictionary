@@ -1,7 +1,0 @@
----
-layout: post
-title: Breach
-date: '2018-07-07T00:00:00+00:00'
-permalink: breach
----
-The breaking or violating of a law, right, or duty, either by commission or omission

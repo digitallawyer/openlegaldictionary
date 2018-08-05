@@ -1,0 +1,8 @@
+---
+title: Hobs Weard
+permalink: "/definitions/hobs-weard.html"
+body: In old English law. A servlce or corvde, consisting ln watchlng the horses of
+  the lord. Anc. Inst Eng
+published_at: '2018-07-07'
+layout: post
+---

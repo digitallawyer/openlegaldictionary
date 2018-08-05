@@ -1,7 +1,0 @@
----
-layout: post
-title: Avenage
-date: '2018-07-07T00:00:00+00:00'
-permalink: avenage
----
-A certain quantity of oats paid by a tenant to his landlord as rent, or in lieu of some other duties

@@ -1,7 +1,0 @@
----
-layout: post
-title: Forestarius
-date: '2018-07-07T00:00:00+00:00'
-permalink: forestarius
----
-In English law. A

@@ -1,7 +1,0 @@
----
-layout: post
-title: Pandects
-date: '2018-07-07T00:00:00+00:00'
-permalink: pandects
----
-A compilation of Roman law, consisting of selected pussages from the writings of the most authoritative of the older jurists, methodically arranged, pre-pared by Tribonian with the assistance of sixteen associates, under a commission from the emperor Justinian. This work, which I£ otherwise called the “Digest,” comprises fif-ty books, and is one of the four great works composing the Corpus Juris Civilis. It wad first published in A. D. 533

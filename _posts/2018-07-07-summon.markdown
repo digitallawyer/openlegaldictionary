@@ -1,7 +1,0 @@
----
-layout: post
-title: Summon
-date: '2018-07-07T00:00:00+00:00'
-permalink: summon
----
-In practice. To serve a summons ; to cite a defendant to appear in conrt to answer a suit which has been begun against him; to notify the defendant that an action has been Instituted against him, and that he ls required to answer to it at a time and place named

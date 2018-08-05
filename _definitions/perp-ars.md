@@ -1,0 +1,7 @@
+---
+title: Perp Ars
+permalink: "/definitions/perp-ars.html"
+body: L. Lat. A purpart; a part of the inheritance
+published_at: '2018-07-07'
+layout: post
+---

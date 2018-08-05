@@ -1,7 +1,0 @@
----
-layout: post
-title: Divisa
-date: '2018-07-07T00:00:00+00:00'
-permalink: divisa
----
-In old English law. A device, award, or decree; also a devise; also bounds or limits of division of a parish or farm, etc. Cowell. Also a court held ou the bound-ary, in order to settle disputes of the tenants

@@ -1,7 +1,0 @@
----
-layout: post
-title: Petitio
-date: '2018-07-07T00:00:00+00:00'
-permalink: petitio
----
-Lat. In tbo civil law. The plaintiff’s statement of his cause of action to an action in rem. Calvin

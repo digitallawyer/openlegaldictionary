@@ -1,7 +1,0 @@
----
-layout: post
-title: Body
-date: '2018-07-07T00:00:00+00:00'
-permalink: body
----
-A person. Used of a natural body, or of an artificial one created by law, as a Corporation

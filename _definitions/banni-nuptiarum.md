@@ -1,0 +1,7 @@
+---
+title: Banni Nuptiarum
+permalink: "/definitions/banni-nuptiarum.html"
+body: L. Lat. In old Engllsh law. The bans of matrimony
+published_at: '2018-07-07'
+layout: post
+---

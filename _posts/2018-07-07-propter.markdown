@@ -1,7 +1,0 @@
----
-layout: post
-title: Propter
-date: '2018-07-07T00:00:00+00:00'
-permalink: propter
----
-For; on account of. The initial word of several Latin phrases

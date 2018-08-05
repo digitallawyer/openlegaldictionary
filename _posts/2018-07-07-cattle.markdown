@@ -1,7 +1,0 @@
----
-layout: post
-title: Cattle
-date: '2018-07-07T00:00:00+00:00'
-permalink: cattle
----
-A term which includes the domestic animals generally; all the animals used by man for labor or food

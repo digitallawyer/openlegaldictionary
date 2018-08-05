@@ -1,7 +1,0 @@
----
-layout: post
-title: Adversus
-date: '2018-07-07T00:00:00+00:00'
-permalink: adversus
----
-In the civil law. Against, (contra.) Adversus bonos mores, against good morals. Dig. 47, 10, 15

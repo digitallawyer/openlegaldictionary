@@ -1,7 +1,0 @@
----
-layout: post
-title: Soapha
-date: '2018-07-07T00:00:00+00:00'
-permalink: soapha
----
-Lat In Roman law. A boat; a lighter. A ship's boat

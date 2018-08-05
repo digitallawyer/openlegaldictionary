@@ -1,0 +1,10 @@
+---
+title: Pro Re Nata
+permalink: "/definitions/pro-re-nata.html"
+body: For the affair lmme-diately in hand; adapted to meet the particular occasion.
+  Thus, a course of judicial action adopted under pressure of the exigen-cies of the
+  affair ln hand, rather than ln con-formity to established precedents, is said to
+  be taken pro re nata
+published_at: '2018-07-07'
+layout: post
+---

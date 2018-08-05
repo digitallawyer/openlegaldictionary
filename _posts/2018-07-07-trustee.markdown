@@ -1,7 +1,0 @@
----
-layout: post
-title: Trustee
-date: '2018-07-07T00:00:00+00:00'
-permalink: trustee
----
-The person appointed, or required by law, to execute a trust; one ln whom an estate, Interest, or power is vested, under an express or implied agreement to administer or exercise it for the benefit of to the use of another

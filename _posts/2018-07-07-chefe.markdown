@@ -1,7 +1,0 @@
----
-layout: post
-title: Chefe
-date: '2018-07-07T00:00:00+00:00'
-permalink: chefe
----
-In Anglo-Norman law. Were or weregild; the price of the head or person, (capitis pretium

@@ -1,0 +1,7 @@
+---
+title: Elsewhere
+permalink: "/definitions/elsewhere.html"
+body: In another place; ln any other place. See 1 Vern. 4, and note
+published_at: '2018-07-07'
+layout: post
+---

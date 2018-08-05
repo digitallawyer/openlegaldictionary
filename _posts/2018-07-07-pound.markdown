@@ -1,7 +1,0 @@
----
-layout: post
-title: Pound
-date: '2018-07-07T00:00:00+00:00'
-permalink: pound
----
-1. A place, inclosed by public authority, for the temporary detent ion of stray animals. Harriman j. Fifleld, 36 Vt. 345; wooley v. Groton, 2 Cush. (Mass.) 308

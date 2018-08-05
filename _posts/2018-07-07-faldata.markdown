@@ -1,7 +1,0 @@
----
-layout: post
-title: Faldata
-date: '2018-07-07T00:00:00+00:00'
-permalink: faldata
----
-In old English law. A flock or fold of sheep. Cowell

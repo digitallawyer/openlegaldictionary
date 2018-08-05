@@ -1,7 +1,0 @@
----
-layout: post
-title: Hart
-date: '2018-07-07T00:00:00+00:00'
-permalink: hart
----
-A stag or male deer of the forest five years old complete

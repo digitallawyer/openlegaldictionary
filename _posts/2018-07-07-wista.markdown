@@ -1,7 +1,0 @@
----
-layout: post
-title: Wista
-date: '2018-07-07T00:00:00+00:00'
-permalink: wista
----
-In Saxon law. Half a hide of land, or sixty acres

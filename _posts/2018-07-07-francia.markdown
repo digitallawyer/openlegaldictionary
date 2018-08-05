@@ -1,7 +1,0 @@
----
-layout: post
-title: Francia
-date: '2018-07-07T00:00:00+00:00'
-permalink: francia
----
-France. Bract fol. 427b

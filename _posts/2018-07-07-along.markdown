@@ -1,7 +1,0 @@
----
-layout: post
-title: Along
-date: '2018-07-07T00:00:00+00:00'
-permalink: along
----
-This term means “by," “on," or "over,” according to the subject-matter and the context Pratt v. Railroad Co., 42 Me. 585; walton v. Railway Co., 67 Mo. 58; Church v. Meeker, 34 Conn. 421

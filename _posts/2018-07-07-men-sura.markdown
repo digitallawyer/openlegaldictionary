@@ -1,7 +1,0 @@
----
-layout: post
-title: Men Sura
-date: '2018-07-07T00:00:00+00:00'
-permalink: men-sura
----
-In old English law. A measure

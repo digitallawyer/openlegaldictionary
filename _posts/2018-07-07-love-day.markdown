@@ -1,7 +1,0 @@
----
-layout: post
-title: Love-Day
-date: '2018-07-07T00:00:00+00:00'
-permalink: love-day
----
-In old English law. The day on whlch any dispute was amicably settled between neighbors; or a day on which one neighbor helps another without hire, wharton

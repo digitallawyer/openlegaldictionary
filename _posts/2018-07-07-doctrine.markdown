@@ -1,7 +1,0 @@
----
-layout: post
-title: Doctrine
-date: '2018-07-07T00:00:00+00:00'
-permalink: doctrine
----
-A rule, principle, theory, or tenet of the law; as, the doctrine of mer-ger, the doctrine of relation, etc

@@ -1,7 +1,0 @@
----
-layout: post
-title: Inlagare
-date: '2018-07-07T00:00:00+00:00'
-permalink: inlagare
----
-In old Euglish law. To restore to protection of law. To restore a man from the condltion of outlawry, opposed to utlagare. Bract, lib. 3, tr. 2, c. 14

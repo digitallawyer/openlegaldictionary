@@ -1,7 +1,0 @@
----
-layout: post
-title: Rejoin
-date: '2018-07-07T00:00:00+00:00'
-permalink: rejoin
----
-In pleading. To answer a plaintiff's replication ln an action at law, by some matter of fact

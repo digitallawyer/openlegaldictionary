@@ -1,7 +1,0 @@
----
-layout: post
-title: Terre-Tenant
-date: '2018-07-07T00:00:00+00:00'
-permalink: terre-tenant
----
-He who ls Uterally ln the occupation or possession of the land, as distinguished from the owner out of pos-sessiou. But, in a more technical sense, the person who ls seised of the land, though not in actual occupancy of it, and locally, in Pennsylvania, one who purchases and takes land subject to the existing lien of a mort-gage or judgment against a former owner. See Dengler v. Kieliner, 13 Pa. 38, 53 Am. Dec. 441; Hulett v. lnsurance Co., 114 Pa. 142, 6 Atl. 554

@@ -1,7 +1,0 @@
----
-layout: post
-title: Roman Law
-date: '2018-07-07T00:00:00+00:00'
-permalink: roman-law
----
-This term, in a general sense, comprehends all the laws which pre-valled among the Romans, without regard to the time of their origin, inclnding the col-lections of Justinian

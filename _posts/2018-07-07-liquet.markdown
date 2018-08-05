@@ -1,7 +1,0 @@
----
-layout: post
-title: Liquet
-date: '2018-07-07T00:00:00+00:00'
-permalink: liquet
----
-It ls'clear or apparent; lt appears. Satis liquet, it sufficiently appears. 1 Strange, 412

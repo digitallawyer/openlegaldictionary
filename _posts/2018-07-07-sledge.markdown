@@ -1,7 +1,0 @@
----
-layout: post
-title: Sledge
-date: '2018-07-07T00:00:00+00:00'
-permalink: sledge
----
-A hurdle to draw traitors to execution. 1 Hale, P. C. 82

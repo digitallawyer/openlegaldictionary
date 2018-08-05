@@ -1,7 +1,0 @@
----
-layout: post
-title: Testatus
-date: '2018-07-07T00:00:00+00:00'
-permalink: testatus
----
-Lat In the civil law. Testate; one who has made a will. Dig. 50, 17, 7

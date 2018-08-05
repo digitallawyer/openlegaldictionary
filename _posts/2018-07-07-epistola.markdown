@@ -1,7 +1,0 @@
----
-layout: post
-title: Epistola
-date: '2018-07-07T00:00:00+00:00'
-permalink: epistola
----
-A letter; a charter; an ln-stroment ln writing for conveyance of lands or assurance of contracts. Calvin; Spel-man

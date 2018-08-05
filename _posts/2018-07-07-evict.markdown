@@ -1,7 +1,0 @@
----
-layout: post
-title: Evict
-date: '2018-07-07T00:00:00+00:00'
-permalink: evict
----
-In tbo civil law. To recover anything from a person by virtue of the judgment of a court or judicial sentence

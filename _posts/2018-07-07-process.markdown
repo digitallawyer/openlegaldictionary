@@ -1,7 +1,0 @@
----
-layout: post
-title: Process
-date: '2018-07-07T00:00:00+00:00'
-permalink: process
----
-In practice. This word is generally defined to be the means of compel* ling the defendant in an action to appear in
