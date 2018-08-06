@@ -1,5 +1,6 @@
 ---
 title: Partnership
+letter: P
 permalink: "/definitions/partnership.html"
 body: A voluntary contract between two or more competent persons to place thelr moncy.
   effects, labor, and skill, or some or all of them, in lawful commerce or business,

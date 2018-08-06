@@ -1,5 +1,6 @@
 ---
 title: Adulterine
+letter: A
 permalink: "/definitions/adulterine.html"
 body: Begotten in an adulter-ous intercourse. In t^e. Roman, and canon law, adulterine
   bastards )vere distinguished from such as were the issue ot two unmar-ried persons,

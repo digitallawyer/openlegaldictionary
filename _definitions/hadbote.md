@@ -1,5 +1,6 @@
 ---
 title: Hadbote
+letter: H
 permalink: "/definitions/hadbote.html"
 body: In Saxon law. A recompense or satisfaction for the violation of holy orders,
   or violence offered to persons in holy orders. Cowell; Blount

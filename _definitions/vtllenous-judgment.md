@@ -1,5 +1,6 @@
 ---
 title: Vtllenous Judgment
+letter: V
 permalink: "/definitions/vtllenous-judgment.html"
 body: A Judgment which deprived one of his libera lex, whereby he was discredited
   and disabled as a juror or witness; forfeited his goods and chattels and lands for

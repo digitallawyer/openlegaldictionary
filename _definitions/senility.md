@@ -1,5 +1,6 @@
 ---
 title: Senility
+letter: S
 permalink: "/definitions/senility.html"
 body: Incapacity to contract aris-ing from the impairment of the Intellectual faculties
   by old age

@@ -1,5 +1,6 @@
 ---
 title: Garter
+letter: G
 permalink: "/definitions/garter.html"
 body: A string or ribbon by which tlie stocking is held upon the leg. The mark of
   the highest order of English knighthood, ranking next after the nobility. This milita-ry

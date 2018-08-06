@@ -1,5 +1,6 @@
 ---
 title: Shyster
+letter: S
 permalink: "/definitions/shyster.html"
 body: A “pettifogging shyster" is an unscrupulous practitioner who disgraces his profession
   by doing mean work, and re-sorts to sharp practice to do it Bailey ▼. Kalamazoo

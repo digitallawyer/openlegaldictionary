@@ -1,5 +1,6 @@
 ---
 title: Riding Armed
+letter: R
 permalink: "/definitions/riding-armed.html"
 body: In Engllsh law. The offense of riding or going armed with dan-gerous or unusual
   weapons is a misdemeanor tending to disturb the public peace by ter-rifying the

@@ -1,5 +1,6 @@
 ---
 title: Constituted Authorities
+letter: C
 permalink: "/definitions/constituted-authorities.html"
 body: Officers properly appointed under the constitution for the government of the
   people

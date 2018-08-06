@@ -1,5 +1,6 @@
 ---
 title: Tuteue Actio
+letter: T
 permalink: "/definitions/tuteue-actio.html"
 body: Lat. In the civll law. An action of tutelage; an action which lay for a ward
   or pupil, on the termination of tutelage, against the tutor or guardian, to compel

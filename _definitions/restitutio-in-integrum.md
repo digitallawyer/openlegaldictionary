@@ -1,5 +1,6 @@
 ---
 title: Restitutio In Integrum
+letter: R
 permalink: "/definitions/restitutio-in-integrum.html"
 body: Lat. In the civil law. Restoration or restitution to the previous condition.
   This was effected by the pnetor on equitable grounds, at the pray-er of an injured

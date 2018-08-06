@@ -1,5 +1,6 @@
 ---
 title: Grand Days
+letter: G
 permalink: "/definitions/grand-days.html"
 body: In English practice. Certain days in the terms, which are solemn-ly kept in
   the inns of court and chancery, viz., Candlemas day lu Hilary term, Ascen-sion day

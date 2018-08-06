@@ -1,5 +1,6 @@
 ---
 title: Unica Taxatio
+letter: U
 permalink: "/definitions/unica-taxatio.html"
 body: Tbe obsolete lan-guage of a special award of venire, where, of several defendants,
   one pleads, and one lets judgment go hy default, whereby the jury, who nre to try

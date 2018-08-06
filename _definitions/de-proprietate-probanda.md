@@ -1,5 +1,6 @@
 ---
 title: De Proprietate Probanda
+letter: D
 permalink: "/definitions/de-proprietate-probanda.html"
 body: writ for proving property. A writ directed to the sheriff, to Inquire of the
   property or goods distrained, where the defendant in an action of replevin claims

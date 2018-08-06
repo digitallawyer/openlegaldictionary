@@ -1,5 +1,6 @@
 ---
 title: Jactura
+letter: J
 permalink: "/definitions/jactura.html"
 body: In the clvll law. A throw-lng of goods overboard in a storm; jettison. Loss
   from such a cause. Calvin

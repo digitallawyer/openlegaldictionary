@@ -1,5 +1,6 @@
 ---
 title: Anecius
+letter: A
 permalink: "/definitions/anecius.html"
 body: L. Lat. Spelled also tesnecius, enitius, crncas, cncyus. The eldest-born; the
   first-born; senior, as contrasted with the puis-ne, (younger.) Spelman

@@ -1,5 +1,6 @@
 ---
 title: Ventre Inspiciendo
+letter: V
 permalink: "/definitions/ventre-inspiciendo.html"
 body: In old Eug-lish law. A writ that lay for an heir pre-sumptive, to cause an examination
   to be made of the widow in order to determine whether she were pregnant or not,

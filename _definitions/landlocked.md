@@ -1,5 +1,6 @@
 ---
 title: Landlocked
+letter: L
 permalink: "/definitions/landlocked.html"
 body: An expression some-times applied to a piece of land belonging to one persou
   and surrounded hy land belonging to other persons, so that it cannot be approached

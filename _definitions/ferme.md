@@ -1,5 +1,6 @@
 ---
 title: Ferme
+letter: F
 permalink: "/definitions/ferme.html"
 body: A farm; a rent; a lease; a house or land, or both, taken by indenture or lease.
   Plowd. 195; Vicat, See Fabm

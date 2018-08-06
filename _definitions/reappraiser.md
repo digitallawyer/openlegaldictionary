@@ -1,5 +1,6 @@
 ---
 title: Reappraiser
+letter: R
 permalink: "/definitions/reappraiser.html"
 body: A person who, in cer-tain cases, is appointed to make a revalua tlon or second
   appraisement of imported goods at the custom-house

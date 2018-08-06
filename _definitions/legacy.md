@@ -1,5 +1,6 @@
 ---
 title: Legacy
+letter: L
 permalink: "/definitions/legacy.html"
 body: A bequest or glft of personal property by last wlll and testament Browne v.
   Cogswell, 5 Allen (Mass.) 557; Evans v. Price, 118 111. 593, 8 N. E. 854; Probate

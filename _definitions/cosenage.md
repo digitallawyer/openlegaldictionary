@@ -1,5 +1,6 @@
 ---
 title: Cosenage
+letter: C
 permalink: "/definitions/cosenage.html"
 body: In old English law. Kin-dred; cousinship. Also a writ that lay for the heir
   where the tres oil, i. e., the father of the besail, or great-grandfather, was seised

@@ -1,5 +1,6 @@
 ---
 title: Mil-Reis
+letter: M
 permalink: "/definitions/mil-reis.html"
 body: The name of a piece of money in the coinage of Portugal, and the Azores and
   Madeira islands. Its value at the custom-house, according as it is coined in the

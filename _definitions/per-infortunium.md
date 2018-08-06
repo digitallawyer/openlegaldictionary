@@ -1,5 +1,6 @@
 ---
 title: Per Infortunium
+letter: P
 permalink: "/definitions/per-infortunium.html"
 body: Lat. By mlsad-venture. In criminal law, homicide per infortunium is committed
   where a man, doing a lawful act, without any intention of hurt, unfortunately kllls

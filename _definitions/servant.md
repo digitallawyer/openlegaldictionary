@@ -1,5 +1,6 @@
 ---
 title: Servant
+letter: S
 permalink: "/definitions/servant.html"
 body: A servant is one who is employed to render personal servlces to hls employer,
   otherwise than in the pursuit ot an independent calling, and who in such service

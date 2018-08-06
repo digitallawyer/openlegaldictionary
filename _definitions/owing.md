@@ -1,5 +1,6 @@
 ---
 title: Owing
+letter: O
 permalink: "/definitions/owing.html"
 body: Something unpaid. A debt, for example, is owing while it is unpaid, and whether
   it be due or not. Coquard v. Bank of Kansas City, 12 Mo. App. 261; Mus-selman v.

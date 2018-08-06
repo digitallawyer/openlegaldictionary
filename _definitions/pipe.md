@@ -1,5 +1,6 @@
 ---
 title: Pipe
+letter: P
 permalink: "/definitions/pipe.html"
 body: A roll In the exchequer; otherwise called the “great roll.” A liquid measure
   containing two hogsheads

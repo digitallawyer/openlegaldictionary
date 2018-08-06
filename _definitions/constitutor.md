@@ -1,5 +1,6 @@
 ---
 title: Constitutor
+letter: C
 permalink: "/definitions/constitutor.html"
 body: In the civil law. one who, by a simple agreement, becomes respon* sible for
   the payment of another’s debt

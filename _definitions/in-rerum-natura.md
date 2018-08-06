@@ -1,5 +1,6 @@
 ---
 title: In Rerum Natura
+letter: I
 permalink: "/definitions/in-rerum-natura.html"
 body: In the nature of things; in the realm of actuality; in exlst-ence. In a dilatory
   plea, an allegatlon that the plaintiff is not in rerum natura is equlv-alent to

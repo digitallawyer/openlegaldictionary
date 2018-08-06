@@ -1,5 +1,6 @@
 ---
 title: Spadones
+letter: S
 permalink: "/definitions/spadones.html"
 body: Lat in the clvll law. Im-potent persons. Those who, on account of thelr temperament
   or some accident they have suffered, are unable to procreate. Inst 1, 11, 9; Dig.

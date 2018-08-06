@@ -1,5 +1,6 @@
 ---
 title: Jour
+letter: J
 permalink: "/definitions/jour.html"
 body: A French word, signifying “day.” It is used in our old law-books; as “tout jours,”
   forever

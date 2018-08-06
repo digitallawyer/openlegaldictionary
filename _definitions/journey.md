@@ -1,5 +1,6 @@
 ---
 title: Journey
+letter: J
 permalink: "/definitions/journey.html"
 body: The original signification of this word was a day’s travel. It is now ap-plied
   to a travel by land from place to place, without restriction of time. But, when

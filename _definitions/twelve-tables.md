@@ -1,5 +1,6 @@
 ---
 title: Twelve Tables
+letter: T
 permalink: "/definitions/twelve-tables.html"
 body: The earliest stat-ute or code of Roman law, framed by a corn-mission of ten
   men, B. C. 450, upon the re-turn of a commission of three who had beeu sent abroad

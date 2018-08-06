@@ -1,5 +1,6 @@
 ---
 title: Circumspecte Agatis
+letter: C
 permalink: "/definitions/circumspecte-agatis.html"
 body: The title of a statute passed 13 Edw. I. A. D. 1285, and so called from the
   initial words of it, the object of whlch was to ascertain the boundaries of ecclesiastical

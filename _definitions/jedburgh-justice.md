@@ -1,5 +1,6 @@
 ---
 title: Jedburgh Justice
+letter: J
 permalink: "/definitions/jedburgh-justice.html"
 body: Summary jus-tice inflicted upon a marauder or felon witli-out a regular trlal,
   equivalent to “lynch law." So called from a Scotch town, near the English border,

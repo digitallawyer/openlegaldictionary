@@ -1,5 +1,6 @@
 ---
 title: Cursitors
+letter: C
 permalink: "/definitions/cursitors.html"
 body: Clerks in the chancery of-flce, whose duties consisted in drawing up those writs
   which were of course, de cures, whence their name. They were abolished by St. 5

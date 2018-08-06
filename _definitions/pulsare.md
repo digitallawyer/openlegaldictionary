@@ -1,5 +1,6 @@
 ---
 title: Pulsare
+letter: P
 permalink: "/definitions/pulsare.html"
 body: Lat. In the clvll law. To beat; to accuse or charge; to proceed agalnst at law.
   Calvin

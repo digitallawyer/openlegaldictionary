@@ -1,5 +1,6 @@
 ---
 title: Negro
+letter: N
 permalink: "/definitions/negro.html"
 body: The word, “negro" means a black man, one descended from the African race, and
   does not commonly include a mulatto. Felix v. State, 18 Ala. 720. But the laws of

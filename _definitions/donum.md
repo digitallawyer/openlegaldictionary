@@ -1,5 +1,6 @@
 ---
 title: Donum
+letter: D
 permalink: "/definitions/donum.html"
 body: Lat in the civil law. A gift; a free gift. Calvin. Distinguished from munua.
   Dig. 50, 16, 194

@@ -1,5 +1,6 @@
 ---
 title: Pilfer
+letter: P
 permalink: "/definitions/pilfer.html"
 body: To pilfer, in the plain and popular sense, means to steal. To charge another
   wlth pilfering is to charge him with stealing, and is slander. Becket v. Sterrett,

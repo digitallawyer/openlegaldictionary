@@ -1,5 +1,6 @@
 ---
 title: Negotiorum Gestio
+letter: N
 permalink: "/definitions/negotiorum-gestio.html"
 body: I^at. In the clvll law. Literally, a doing of business or businesses. A species
   of spontaneous ageu-cy, or an interference by oue iu the affairs of another, in

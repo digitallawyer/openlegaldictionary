@@ -1,5 +1,6 @@
 ---
 title: Sages De La Ley
+letter: S
 permalink: "/definitions/sages-de-la-ley.html"
 body: L. Fr. Sages of the law; persons learned in the law. A term applled to the chancellor
   and Justices of the king’s bench

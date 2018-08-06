@@ -1,5 +1,6 @@
 ---
 title: Mill
+letter: M
 permalink: "/definitions/mill.html"
 body: 1. A machine or englne for grlnd-lng, sawing, manufacturlng, etc.; also the
   building contalnlng such machinery. State v. Livermore, 44 N. H. 387; Lamhorn v.

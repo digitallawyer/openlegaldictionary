@@ -1,5 +1,6 @@
 ---
 title: Commendatio
+letter: C
 permalink: "/definitions/commendatio.html"
 body: In the civil law. Commendation, praise, or recommendation, as in the maxim “simplex
   commendatio non obligat,” meaning that mere recommendation or praise of an article

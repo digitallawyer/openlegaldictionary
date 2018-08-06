@@ -1,5 +1,6 @@
 ---
 title: Strangers
+letter: S
 permalink: "/definitions/strangers.html"
 body: By this term is Intended third persons generally. Thus the persons bound by
   a fine are partles, privies, and strangers; the parties are either the cogni-zors

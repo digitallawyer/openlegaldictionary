@@ -1,5 +1,6 @@
 ---
 title: Tyranny
+letter: T
 permalink: "/definitions/tyranny.html"
 body: Arbitrary or despotic gov-emment; the severe and autocratic exercise of sovereign
   power, either vested constltu-tionally in one ruler, or usurped by him by breaking

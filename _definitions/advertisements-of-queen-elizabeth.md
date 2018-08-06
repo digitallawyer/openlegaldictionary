@@ -1,5 +1,6 @@
 ---
 title: Advertisements Of Queen Elizabeth
+letter: A
 permalink: "/definitions/advertisements-of-queen-elizabeth.html"
 body: Certain articles or ordinances drawn up by Archbishop Parker and some of tbe
   bishops in 1564, at the request of Queen Elizabeth, the object of which was to enforce

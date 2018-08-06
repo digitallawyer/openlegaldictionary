@@ -1,5 +1,6 @@
 ---
 title: Kymobtha
+letter: K
 permalink: "/definitions/kymobtha.html"
 body: A welsh term for a waster, rhymer, minstrel, or other vagabond who makes assemblies
   and collections. Barring. Ob. St 360

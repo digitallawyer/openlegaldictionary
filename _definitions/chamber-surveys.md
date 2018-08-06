@@ -1,5 +1,6 @@
 ---
 title: Chamber Surveys
+letter: C
 permalink: "/definitions/chamber-surveys.html"
 body: At an early day in Pennsylvania, surveyors often made drafts on paper of pretended
   surveys of pub-lic lands, and returned them to the land office as duly surveyed,

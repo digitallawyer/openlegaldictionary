@@ -1,5 +1,6 @@
 ---
 title: Short Cause
+letter: S
 permalink: "/definitions/short-cause.html"
 body: A cause which is not likely to occupy a great portion of the time of the court,
   and which may be entered on the list of “short causes,’’ upon the applica-tion of

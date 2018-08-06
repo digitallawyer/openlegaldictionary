@@ -1,5 +1,6 @@
 ---
 title: Wabrant
+letter: W
 permalink: "/definitions/wabrant.html"
 body: icularly, a writ or precept issued by a magistrate, justice, or other competent
   authority, addressed to a sheriff, constable, or other officer, requiring him to

@@ -1,5 +1,6 @@
 ---
 title: Textus Roffensis
+letter: T
 permalink: "/definitions/textus-roffensis.html"
 body: In old English law. The Rochester text. An ancient manu-script containing many
   of the Saxon laws, and the rights, customs, tenures, etc., of the church of Rochester,

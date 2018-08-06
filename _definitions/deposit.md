@@ -1,5 +1,6 @@
 ---
 title: Deposit
+letter: D
 permalink: "/definitions/deposit.html"
 body: SIT. A naked bailment of goods to be kept for the depositor without reward,
   and to. be returned when he shall require it Jones, Bailm. 36, 117; National Bank

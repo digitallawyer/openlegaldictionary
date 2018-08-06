@@ -1,5 +1,6 @@
 ---
 title: Apocrisarius
+letter: A
 permalink: "/definitions/apocrisarius.html"
 body: In ecclesiastical law. one who answers for another. An officer whose duty was
   to carry to the emperor mes-sages relating to ecclesiastical matters, and to take

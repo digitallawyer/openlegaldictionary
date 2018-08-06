@@ -1,5 +1,6 @@
 ---
 title: Goods
+letter: G
 permalink: "/definitions/goods.html"
 body: In oontraots. The term “goods" is not so wide as “chattels,” for it applies
   to Inanimate objects, and does not in-clude animals or chattels real, as a lease

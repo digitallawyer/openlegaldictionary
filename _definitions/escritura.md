@@ -1,5 +1,6 @@
 ---
 title: Escritura
+letter: E
 permalink: "/definitions/escritura.html"
 body: In Spanish law. A writ-ten instrument Every deed that is made by the hand of
   a public escribano, or notary of a corporation or council (concejo,) or sealed wlth

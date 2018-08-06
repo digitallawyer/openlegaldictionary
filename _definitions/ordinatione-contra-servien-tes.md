@@ -1,5 +1,6 @@
 ---
 title: Ordinatione Contra Servien-Tes
+letter: O
 permalink: "/definitions/ordinatione-contra-servien-tes.html"
 body: A writ that lay against a servant for leaving his master contrary to the ordinance
   of St. 23 & 24 Edw. III. Reg. orlg. 189

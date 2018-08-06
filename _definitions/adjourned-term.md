@@ -1,5 +1,6 @@
 ---
 title: Adjourned Term
+letter: A
 permalink: "/definitions/adjourned-term.html"
 body: In practice. A continuance, by adjournment, of a regular term. Harris v. Gest,
   4 ohio St. 473; Kiugs-ley v. Bagby, 2 Kan. App. 23, 41 Pac. 991. Distinguished from

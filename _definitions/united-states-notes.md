@@ -1,5 +1,6 @@
 ---
 title: United States Notes
+letter: U
 permalink: "/definitions/united-states-notes.html"
 body: Promissory notes, resembling bank-notes, issued by the government of tbe United
   States

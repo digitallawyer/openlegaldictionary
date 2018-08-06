@@ -1,5 +1,6 @@
 ---
 title: Forced Sale
+letter: F
 permalink: "/definitions/forced-sale.html"
 body: In practice. A sale made at the time and in the manner pre* scribed by law,
   in virtue of execution issued on a judgment already rendered by a court of competent

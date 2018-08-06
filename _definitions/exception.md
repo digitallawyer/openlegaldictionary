@@ -1,5 +1,6 @@
 ---
 title: Exception
+letter: E
 permalink: "/definitions/exception.html"
 body: In praotioe. A formal objection to the action of the court, during the trial
   of a cause, in refusing a request or overruling an objection; implying that the

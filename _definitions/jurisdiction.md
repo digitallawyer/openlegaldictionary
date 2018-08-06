@@ -1,5 +1,6 @@
 ---
 title: Jurisdiction
+letter: J
 permalink: "/definitions/jurisdiction.html"
 body: The power and au-thority constitutionally conferred upon (or constitutionally
   recognized as existing iu^ a court or judge to pronounce the sentence of the law,

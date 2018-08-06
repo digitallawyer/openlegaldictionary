@@ -1,5 +1,6 @@
 ---
 title: Inquiry
+letter: I
 permalink: "/definitions/inquiry.html"
 body: The writ of inquiry is a ju-dlcial process addressed to the sheriff of the county
   in which the venue is laid, stating the former proceedings in the action, and, “because

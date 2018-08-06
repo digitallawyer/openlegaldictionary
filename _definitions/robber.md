@@ -1,5 +1,6 @@
 ---
 title: Robber
+letter: R
 permalink: "/definitions/robber.html"
 body: one who commits a robbery. The term is not in law synonymous with “thief," but
   applies only to one who steals with force or open violence. See De Rothschild ▼.

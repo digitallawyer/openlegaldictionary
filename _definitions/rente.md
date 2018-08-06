@@ -1,5 +1,6 @@
 ---
 title: Rente
+letter: R
 permalink: "/definitions/rente.html"
 body: In French law. Rente is the annual return which represents the revenue of a
   capital or of an immovable allenated. The coustitution of rente, is a contract by

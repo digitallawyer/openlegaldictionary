@@ -1,5 +1,6 @@
 ---
 title: Tenor
+letter: T
 permalink: "/definitions/tenor.html"
 body: A term used in pleading to de-note tiiat an exact copy is set out 1 Chit. Crim.
   Law, 235

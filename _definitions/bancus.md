@@ -1,5 +1,6 @@
 ---
 title: Bancus
+letter: B
 permalink: "/definitions/bancus.html"
 body: L. Lat in old English law and practice. A bench or seat in the king’s hall or
   palace. Fleta, lib. 2, c. 16, $ 1

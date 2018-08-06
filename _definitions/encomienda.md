@@ -1,5 +1,6 @@
 ---
 title: Encomienda
+letter: E
 permalink: "/definitions/encomienda.html"
 body: In Spanish law. A grant from the crown to a private person of a certain portion
   of territory in the Spanish colonies, together with the concession of a certain

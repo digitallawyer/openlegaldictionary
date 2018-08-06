@@ -1,5 +1,6 @@
 ---
 title: Rubric
+letter: R
 permalink: "/definitions/rubric.html"
 body: Directions printed in books of law and in prayer-books, so termed because they
   were originally distinguished by red lnk

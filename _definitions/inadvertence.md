@@ -1,5 +1,6 @@
 ---
 title: Inadvertence
+letter: I
 permalink: "/definitions/inadvertence.html"
 body: Heedlessness; lack of attention ; failure of a person to pay care-ful and prudent
   attention to the progress of a negotiation or a proceeding in court by which his

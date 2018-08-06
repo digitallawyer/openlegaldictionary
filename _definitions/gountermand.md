@@ -1,5 +1,6 @@
 ---
 title: Gountermand
+letter: G
 permalink: "/definitions/gountermand.html"
 body: A change or revoca-tlon of orders, authority, or instructions pre-vlously issued.
   It may be either express or implied ; the former where the order or instruction

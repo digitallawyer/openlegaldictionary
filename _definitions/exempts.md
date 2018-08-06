@@ -1,5 +1,6 @@
 ---
 title: Exempts
+letter: E
 permalink: "/definitions/exempts.html"
 body: Persons who are not bound by law, but excused from the performance of duties
   imposed upon others

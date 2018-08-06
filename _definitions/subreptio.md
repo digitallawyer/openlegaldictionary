@@ -1,5 +1,6 @@
 ---
 title: Subreptio
+letter: S
 permalink: "/definitions/subreptio.html"
 body: Lat. In the civil law. obtaining gifts of escheat, etc., from the king by concealing
   the truth. Bell; Calvin

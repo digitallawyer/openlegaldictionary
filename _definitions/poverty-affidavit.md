@@ -1,5 +1,6 @@
 ---
 title: Poverty Affidavit
+letter: P
 permalink: "/definitions/poverty-affidavit.html"
 body: An affidavit, made and filed by one of the parties to a suit, that he is not
   able to furnish security for the final costs. The use of the term is confined to

@@ -1,5 +1,6 @@
 ---
 title: Arras
+letter: A
 permalink: "/definitions/arras.html"
 body: In Spanish law. The donation which the husbnnd makes to his wife, by rea-son
   or on account of marriage, and in consideration of the dote, or portion, which he

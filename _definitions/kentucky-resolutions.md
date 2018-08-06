@@ -1,5 +1,6 @@
 ---
 title: Kentucky Resolutions
+letter: K
 permalink: "/definitions/kentucky-resolutions.html"
 body: A series of resolutions drawn up by Jefferson, and adopted by the legislature
   of Kentucky in 1799, protesting against the “alien aud sedi-tiou laws," declaring

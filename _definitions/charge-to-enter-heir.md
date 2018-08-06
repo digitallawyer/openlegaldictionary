@@ -1,5 +1,6 @@
 ---
 title: Charge To Enter Heir
+letter: C
 permalink: "/definitions/charge-to-enter-heir.html"
 body: In Scotch law. A writ commanding a person to enter heir to his predecessor within
   forty days, otherwise an action to be raised against him as lf he had entered

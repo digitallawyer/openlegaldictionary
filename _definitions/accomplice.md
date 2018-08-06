@@ -1,5 +1,6 @@
 ---
 title: Accomplice
+letter: A
 permalink: "/definitions/accomplice.html"
 body: In criminal law. A person who knowingly, voluntarily, and with common intent
   with the principal offender unites in the commission of a crime. Clapp y. State,

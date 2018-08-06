@@ -1,5 +1,6 @@
 ---
 title: Firmly
+letter: F
 permalink: "/definitions/firmly.html"
 body: A statement tliut an affiant “firmly believes” the contents of the attida-vit
   Imports a strong or high degree of belief, and is equivalent to saying that he “verily”

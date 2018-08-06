@@ -1,5 +1,6 @@
 ---
 title: Maturity
+letter: M
 permalink: "/definitions/maturity.html"
 body: In mercantile law. The time when a blll of exchange or promissory note becomes
   due. Story, Bllls, | 329. Gil-bert v. Sprague, 88 111. App. 508; wheeless v. williams,

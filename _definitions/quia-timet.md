@@ -1,5 +1,6 @@
 ---
 title: Quia Timet
+letter: Q
 permalink: "/definitions/quia-timet.html"
 body: Lat Because he fears or apprehends. In equity practice. The technical name of
   a blll filed by a party who seeks the ald of a court of equity, because he fears

@@ -1,5 +1,6 @@
 ---
 title: Oolliery
+letter: O
 permalink: "/definitions/oolliery.html"
 body: This term is sufficiently wide to include all contiguous and connected veins
   and seams of coal which are worked as one concern, without regard to the closes

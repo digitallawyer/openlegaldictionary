@@ -1,5 +1,6 @@
 ---
 title: Adstipulator
+letter: A
 permalink: "/definitions/adstipulator.html"
 body: In Roman law. An accessory party to a promise, who received the same promise
   as his principal did, and conld equally receive and exact payment; or he only stipulated

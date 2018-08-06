@@ -1,5 +1,6 @@
 ---
 title: In Initialibus
+letter: I
 permalink: "/definitions/in-initialibus.html"
 body: 'In the prellmlna-ries. A term in Scotch practice, applied to the preliminary
   examination of a witness as to the following points: whether he knows the parties,

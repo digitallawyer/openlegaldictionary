@@ -1,5 +1,6 @@
 ---
 title: Sequestro Habendo
+letter: S
 permalink: "/definitions/sequestro-habendo.html"
 body: In English ecclesiastical law. A Judicial writ for the discharging a sequestration
   of the profits of a church benefice, granted by the bishop at the sovereign's command,

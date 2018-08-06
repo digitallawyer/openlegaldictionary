@@ -1,5 +1,6 @@
 ---
 title: De Redisseisina
+letter: D
 permalink: "/definitions/de-redisseisina.html"
 body: writ of redisseisin. A writ which lay where a man recovered by assise of novel
   disseisin land, rent, or com-mon, and the like, and was put in possession thereof

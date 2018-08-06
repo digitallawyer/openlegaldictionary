@@ -1,5 +1,6 @@
 ---
 title: Improvement
+letter: I
 permalink: "/definitions/improvement.html"
 body: A valuable addition made to property (usually real estate) or an amelioration
   in its condition, amounting to more than mere repairs or replacement of waste, costing

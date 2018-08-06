@@ -1,5 +1,6 @@
 ---
 title: Service
+letter: S
 permalink: "/definitions/service.html"
 body: In oontraots. The being' em-ployed to serve another; duty or labor to be rendered
   by one person to another

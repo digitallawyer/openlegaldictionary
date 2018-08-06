@@ -1,5 +1,6 @@
 ---
 title: Responsibility
+letter: R
 permalink: "/definitions/responsibility.html"
 body: The obligation to answer for an act done, and to repair any in-jury it may have
   caused

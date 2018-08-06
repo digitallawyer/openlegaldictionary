@@ -1,5 +1,6 @@
 ---
 title: Immunity
+letter: I
 permalink: "/definitions/immunity.html"
 body: An exemption from serv-ing in an office, or performing duties which the law
   generally requires other citizens to perform. Long v. Converse, 91 U. S. 113, 23

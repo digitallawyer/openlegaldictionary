@@ -1,5 +1,6 @@
 ---
 title: Uncertainty
+letter: U
 permalink: "/definitions/uncertainty.html"
 body: Such vagueness, obscurity, or confusion in any written instru-ment, e. g., a
   will, as to render it unlntelli-gible to those who are called npon to execute or

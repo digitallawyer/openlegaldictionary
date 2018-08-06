@@ -1,5 +1,6 @@
 ---
 title: Tenant'S Fixtures
+letter: T
 permalink: "/definitions/tenants-fixtures.html"
 body: This phrase signifies things which are fixed to the freehold of the demised
   premises, but which the tenant may detach and take away, provided he does so in

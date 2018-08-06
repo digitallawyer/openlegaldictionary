@@ -1,5 +1,6 @@
 ---
 title: Child
+letter: C
 permalink: "/definitions/child.html"
 body: 'This word has two meanings in law: (1) In the law of the domestic relations,
   nnd as to descent and distribution, it is used strictly as the correlative of “parent,”

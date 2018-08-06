@@ -1,5 +1,6 @@
 ---
 title: Affinity
+letter: A
 permalink: "/definitions/affinity.html"
 body: At oommon law. Relationship by marriage between the husband and the blood relations
   of the wife, and be-tween the wife and the blood relations of the husband. 1 Bl.

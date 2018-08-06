@@ -1,5 +1,6 @@
 ---
 title: Trading
+letter: T
 permalink: "/definitions/trading.html"
 body: Engaging in trade, (q. v.;) pursuing the business or occupation of trade! or
   of a trader

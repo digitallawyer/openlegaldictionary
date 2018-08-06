@@ -1,5 +1,6 @@
 ---
 title: De Anno Bissextili
+letter: D
 permalink: "/definitions/de-anno-bissextili.html"
 body: of the bis-sextile or leap year. The title of a statute passed in the twenty-first
   year of Henry III., which in fact, however, is nothing more than a sort of writ

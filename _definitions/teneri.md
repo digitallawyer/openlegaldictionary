@@ -1,5 +1,6 @@
 ---
 title: Teneri
+letter: T
 permalink: "/definitions/teneri.html"
 body: Tlie Latin name for that clause in a bond in which tbe obligor expresses that
   he is “held and firmly bound” to the obligee, his heirs, etc

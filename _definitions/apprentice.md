@@ -1,5 +1,6 @@
 ---
 title: Apprentice
+letter: A
 permalink: "/definitions/apprentice.html"
 body: A person, usually a minor, bound in due form of iaw to a master. to learn from
   him hls art, trade, or business, and to serve him during the time of his apprenticeship.

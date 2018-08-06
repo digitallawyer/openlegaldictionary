@@ -9,7 +9,7 @@ const search = instantsearch({
   appId: '{{ site.algolia.application_id }}',
   apiKey: '{{ site.algolia.search_only_api_key }}',
   indexName: '{{ site.algolia.index_name }}',
-  routing: true
+  urlSync: true
 });
 
 const hitTemplate = function(hit) {
@@ -73,7 +73,7 @@ search.start();
 .post-item {
   margin-bottom: 15px;
   border-bottom: 1px solid lightgray;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 .post-link .ais-Highlight {
   color: #111;

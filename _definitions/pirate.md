@@ -1,5 +1,6 @@
 ---
 title: Pirate
+letter: P
 permalink: "/definitions/pirate.html"
 body: A person who lives by piracy; one guilty of the crime of piracy. A sea-rob-ber,
   who, to enrich himself, by subtlety or open force, setteth upon merchants and oth-ers

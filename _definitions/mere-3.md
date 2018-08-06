@@ -1,5 +1,6 @@
 ---
 title: Mere
+letter: M
 permalink: "/definitions/mere-3.html"
 body: L. Fr. Mother. JBle, mere, flllc, grandmother, mother, daughter. Brltt c. 89.
   En ventre sa mere, in its mother's womb

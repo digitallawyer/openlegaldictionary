@@ -1,5 +1,6 @@
 ---
 title: Intended To Be Recorded
+letter: I
 permalink: "/definitions/intended-to-be-recorded.html"
 body: This phrase is frequently used iu conveyances, when reciting some other conveyance
   which has not yet been recorded, but which forms a link in the chain of title. In

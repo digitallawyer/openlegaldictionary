@@ -1,5 +1,6 @@
 ---
 title: Abigeus
+letter: A
 permalink: "/definitions/abigeus.html"
 body: Lat (Pl., abigei, or more rarely abigeatores.) In the civil law. ' A stealer
   of cattle; one who drove or drew nway (subtraxit) cattle from their pastures, as

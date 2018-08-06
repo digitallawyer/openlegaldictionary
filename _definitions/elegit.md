@@ -1,5 +1,6 @@
 ---
 title: Elegit
+letter: E
 permalink: "/definitions/elegit.html"
 body: "(Lat He has chosen.) This is the name, in Engllsh practice, of a writ of execution
   first given by the statute of Westm. 2 (13 Edw. I. c. 18) either upon a judgment

@@ -1,5 +1,6 @@
 ---
 title: Bubble
+letter: B
 permalink: "/definitions/bubble.html"
 body: An extravagant or unsubstan-tial project for extensive operations lu busl-ness
   or commerce, generally founded on a fictitious or exaggerated prospectus, to ensnare

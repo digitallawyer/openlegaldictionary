@@ -1,5 +1,6 @@
 ---
 title: Right Of Search
+letter: R
 permalink: "/definitions/right-of-search.html"
 body: In international law. The right of one vessel, on the high seas, to stop a vessel
   of another nationality and examine her papers and (in some cases) her cargo. Thus,

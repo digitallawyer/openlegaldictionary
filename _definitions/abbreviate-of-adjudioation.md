@@ -1,5 +1,6 @@
 ---
 title: Abbreviate Of Adjudioation
+letter: A
 permalink: "/definitions/abbreviate-of-adjudioation.html"
 body: In Scotch law. An abstract of the decree of adjudication, and of the lauds adjudged,
   with the amount of the debt Adjudication is that diligence (execution) of the law

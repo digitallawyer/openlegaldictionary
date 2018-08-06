@@ -1,5 +1,6 @@
 ---
 title: Escheat
+letter: E
 permalink: "/definitions/escheat.html"
 body: In fendal law. Escheat is an obstruction of the course of descent, and consequent
   determination of the tenure, by some unforeseen contingency, in which case the land

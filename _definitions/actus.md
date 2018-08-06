@@ -1,5 +1,6 @@
 ---
 title: Actus
+letter: A
 permalink: "/definitions/actus.html"
 body: In tbe civil law. A sitecies of right of way, consisting in the right of driving
   cattle, or a carriage, over the land subject to the servitude. Inst. 2, 3, pr. It

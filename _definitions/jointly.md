@@ -1,5 +1,6 @@
 ---
 title: Jointly
+letter: J
 permalink: "/definitions/jointly.html"
 body: Acting together or in concert or co-operation; holding in common or interdependently,
   not separately. Redama-tlon Dist. ▼. Parvin, 67 Cal. 501, 8 Pac. 43 ; Gold & Stock

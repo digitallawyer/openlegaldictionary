@@ -1,5 +1,6 @@
 ---
 title: Fishing Bill
+letter: F
 permalink: "/definitions/fishing-bill.html"
 body: A term descriptive of a blll in equity which seeks a discovery up-on general,
   loose, and vague allegations. Story, Eq. Pl. 4 325; In re Pacific Ry. Com’n (C.

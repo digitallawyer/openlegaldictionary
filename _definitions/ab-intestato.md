@@ -1,5 +1,6 @@
 ---
 title: Ab Intestato
+letter: A
 permalink: "/definitions/ab-intestato.html"
 body: Lat in the civil law. From an intestate; from the intestate; in case of intestacy.
   II or edit as ab intcstato, an inheritance derived from an intestate. Inst. 2, 9,

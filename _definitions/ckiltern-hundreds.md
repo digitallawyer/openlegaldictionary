@@ -1,5 +1,6 @@
 ---
 title: Ckiltern Hundreds
+letter: C
 permalink: "/definitions/ckiltern-hundreds.html"
 body: In Engllsh law. The stewardship of the Chiltern Hundreds is a nominal ofiice
   in the gift of the crown, usually accepted by members of the house of commons desirous

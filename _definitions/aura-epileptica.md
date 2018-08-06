@@ -1,5 +1,6 @@
 ---
 title: Aura Epileptica
+letter: A
 permalink: "/definitions/aura-epileptica.html"
 body: In medical jurls-prudence. A term used to designate the sensation of a cold
   vapor frequently experienced by epileptics before the loss of con-sclousness occurs

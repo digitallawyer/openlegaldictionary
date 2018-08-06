@@ -1,5 +1,6 @@
 ---
 title: Revestire
+letter: R
 permalink: "/definitions/revestire.html"
 body: In old European law. To return or resign an investiture, seisin, or, possession
   that has been received; to rein-vest; to re-enfeoff. Spelman

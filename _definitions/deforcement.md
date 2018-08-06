@@ -1,5 +1,6 @@
 ---
 title: Deforcement
+letter: D
 permalink: "/definitions/deforcement.html"
 body: Deforcement is where a man wrongfully holds lands to which another person is
   entitled. It there-fore Includes disseisin, abatement, discon-tinuance, and Intrusion.

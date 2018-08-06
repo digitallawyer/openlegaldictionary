@@ -1,5 +1,6 @@
 ---
 title: Writ Of Right
+letter: W
 permalink: "/definitions/writ-of-right.html"
 body: This was a writ which lay for oue who had the rlght of property, against another
   who had the right of possession and the actual occupation. The writ properly lay

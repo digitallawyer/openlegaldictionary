@@ -1,5 +1,6 @@
 ---
 title: Formed Design
+letter: F
 permalink: "/definitions/formed-design.html"
 body: In criminal law, and particularly with reference to homicide, this term means
   a deliberate and fixed in-tention to kill, whether directed against a particular

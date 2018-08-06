@@ -1,5 +1,6 @@
 ---
 title: Thrithing
+letter: T
 permalink: "/definitions/thrithing.html"
 body: In Saxon and old English law. The third part of a county; a division of a county
   consisting of three or more hundreds. Cowell. Corrupted to the modern “riding,"

@@ -1,5 +1,6 @@
 ---
 title: Runlet
+letter: R
 permalink: "/definitions/runlet.html"
 body: T, or RUNLET. A measure of wine, oil, etc., containing eighteen gallons aud
   a half. Cowell

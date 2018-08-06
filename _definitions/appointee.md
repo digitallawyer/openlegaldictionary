@@ -1,5 +1,6 @@
 ---
 title: Appointee
+letter: A
 permalink: "/definitions/appointee.html"
 body: A person who is appolnt-ed or selected for a particular purpose; as the appointee
   under a power is the person who is to receive the benefit of the power

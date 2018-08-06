@@ -1,5 +1,6 @@
 ---
 title: Prjefectus Urbi
+letter: P
 permalink: "/definitions/prjefectus-urbi.html"
 body: Lat in Roman law. The name of an ofiicer who, from the time of Augustus, had
   the superintendence of the city and its police, with jurisdiction extending one

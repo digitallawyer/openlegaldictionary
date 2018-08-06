@@ -1,5 +1,6 @@
 ---
 title: Inception
+letter: I
 permalink: "/definitions/inception.html"
 body: ON. Commencement; opening; initiation. The beginning .of. the operation of a
   contract or will, or of a note, mortgage, lien, etc.; the beginning of a cause or

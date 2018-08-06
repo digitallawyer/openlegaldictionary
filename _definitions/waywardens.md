@@ -1,5 +1,6 @@
 ---
 title: Waywardens
+letter: W
 permalink: "/definitions/waywardens.html"
 body: The English highway acts provide that In every parish forming part of a highway
   district there shall an-nuaily be elected one or more waywardens. The waywardens

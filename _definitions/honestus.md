@@ -1,5 +1,6 @@
 ---
 title: Honestus
+letter: H
 permalink: "/definitions/honestus.html"
 body: Lat. of good character or standing. Coram duobus vel pluribus viris legalibus
   ct honestis, before two or more lawful and good men. Bract fol. 6L

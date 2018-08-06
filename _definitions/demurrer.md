@@ -1,5 +1,6 @@
 ---
 title: Demurrer
+letter: D
 permalink: "/definitions/demurrer.html"
 body: In pleading. The form-al mode of disputing the sufficiency in law of the pleadlng
   of the other slde. In effect it is an allegation that, even lf the facts as stated

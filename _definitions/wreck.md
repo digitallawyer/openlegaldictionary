@@ -1,5 +1,6 @@
 ---
 title: Wreck
+letter: W
 permalink: "/definitions/wreck.html"
 body: At eommon law. Such goods as after a shipwreck are cast upon the land by the
   sea, aud, as lying within the territory of some county, do not belong to the Jurisdiction‘of

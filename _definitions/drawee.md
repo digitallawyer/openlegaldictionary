@@ -1,5 +1,6 @@
 ---
 title: Drawee
+letter: D
 permalink: "/definitions/drawee.html"
 body: A person to whom a bill of exchange is addressed, and who is request* ed to
   pay the amount of mouey therein mentioned

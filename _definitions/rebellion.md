@@ -1,5 +1,6 @@
 ---
 title: Rebellion
+letter: R
 permalink: "/definitions/rebellion.html"
 body: Deliberate, organized re-sistance, by force and arms, to the laws or operations
   of the government, committed by a subject See Hubbard v. Hamden Exp. Co., 10 R.

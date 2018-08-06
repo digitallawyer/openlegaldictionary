@@ -1,5 +1,6 @@
 ---
 title: Jedile
+letter: J
 permalink: "/definitions/jedile.html"
 body: In Roman law. An officer who attended to the repairs of the temples and other
   public buildings; the repairs and clean-llness of the streets; the care of the weights

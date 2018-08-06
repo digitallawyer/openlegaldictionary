@@ -1,5 +1,6 @@
 ---
 title: Accession. Deed Of
+letter: A
 permalink: "/definitions/accession-deed-of.html"
 body: In Scotch law. A deed executed by the credltors of a bankrupt or insolvent debtor,
   by which they approve of a trust given by their debtor for the general behoof, and

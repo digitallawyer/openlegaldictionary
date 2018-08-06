@@ -1,5 +1,6 @@
 ---
 title: Treasure-Trove
+letter: T
 permalink: "/definitions/treasure-trove.html"
 body: Literally, treas-ure found. Money or coin, gold, silver, plate or bullion found
   hidden in the earth or oth-er private place, the owner thereof being un-known. 1

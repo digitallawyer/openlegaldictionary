@@ -1,5 +1,6 @@
 ---
 title: Grammar School
+letter: G
 permalink: "/definitions/grammar-school.html"
 body: In England, this term designates a school in which such in-struction is given
   as will prepare the stu-dent to enter a college or university, and in this sense

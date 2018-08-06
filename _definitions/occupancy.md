@@ -1,5 +1,6 @@
 ---
 title: Occupancy
+letter: O
 permalink: "/definitions/occupancy.html"
 body: occupancy is a mode of acquiring property- by which a thing which belongs to
   nobody becomes the property of the person who took possession of it, with the intention

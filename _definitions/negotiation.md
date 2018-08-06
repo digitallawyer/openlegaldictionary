@@ -1,5 +1,6 @@
 ---
 title: Negotiation
+letter: N
 permalink: "/definitions/negotiation.html"
 body: ". The deliberation, dis-cusslon, or conference upon the terms of a proposed
   agreement; the act of settling or arranging the terms and conditions of a bar-gain,

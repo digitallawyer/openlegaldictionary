@@ -1,5 +1,6 @@
 ---
 title: Argument Ab Inconvenienti
+letter: A
 permalink: "/definitions/argument-ab-inconvenienti.html"
 body: An argument arising from the inconvenience w’hich the proposed construction
   of the law tvould create.

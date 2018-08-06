@@ -1,5 +1,6 @@
 ---
 title: Poor
+letter: P
 permalink: "/definitions/poor.html"
 body: As used In law, this term denotes those who are so destitute of property or
   of the means of support, either from their own >labor or the care of relatives,

@@ -1,5 +1,6 @@
 ---
 title: Jds Lath
+letter: J
 permalink: "/definitions/jds-lath.html"
 body: In Roman law. The rlght of Latium or of the Latins. The principal privllege
   of the Latins seems to have been the use of their own laws, and their not be-lng

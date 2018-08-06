@@ -1,5 +1,6 @@
 ---
 title: Vidame
+letter: V
 permalink: "/definitions/vidame.html"
 body: In French feudal law. orig-inally, an officer who represented the bishop, as
   the viscount did the count. In process of time, these dignitaries erected their

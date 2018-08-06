@@ -1,5 +1,6 @@
 ---
 title: Men Of Straw
+letter: M
 permalink: "/definitions/men-of-straw.html"
 body: Men who used in former days to ply about courts of law, so called from their
   manner of makiug known their occupation, (i. e., hy a straw iu one of their shoes,)

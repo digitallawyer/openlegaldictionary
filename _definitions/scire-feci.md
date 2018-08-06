@@ -1,5 +1,6 @@
 ---
 title: Scire Feci
+letter: S
 permalink: "/definitions/scire-feci.html"
 body: Lat. In practice. The name given to the sheriff's return to a writ of scirc
   facias that he has caused notice to be given to the party or parties against whom

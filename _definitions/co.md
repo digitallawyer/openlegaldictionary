@@ -1,5 +1,6 @@
 ---
 title: C. O
+letter: C
 permalink: "/definitions/co.html"
 body: D. "Collect ou delivery.” These letters are not cabalistic, but have a determinate
   meaning. They import the carrier’s liability to return to the consignor either the

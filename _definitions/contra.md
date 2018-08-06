@@ -1,5 +1,6 @@
 ---
 title: Contra
+letter: C
 permalink: "/definitions/contra.html"
 body: Against, confronting, opposite to; on the other hand; on the contrary. The word
   is used in many Latin phrases, as appears by the following titles. In the books

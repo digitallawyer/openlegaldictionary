@@ -1,5 +1,6 @@
 ---
 title: Warnoth
+letter: W
 permalink: "/definitions/warnoth.html"
 body: In old English law. Au ancient custom, whereby, if any tenant hold-ing of the
   Castle of Dover failed in paying hls rent at the day, he should forfeit double,

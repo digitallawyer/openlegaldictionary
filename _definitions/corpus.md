@@ -1,5 +1,6 @@
 ---
 title: Corpus
+letter: C
 permalink: "/definitions/corpus.html"
 body: "(Lat.) Body; the body; an aggregate or mass, (of men, laws, or articles;) physical
   substance, as distinguished from ln-tellectual conception; the principal sum or

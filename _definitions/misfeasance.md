@@ -1,5 +1,6 @@
 ---
 title: Misfeasance
+letter: M
 permalink: "/definitions/misfeasance.html"
 body: A misdeed or trespass. The doing what a party ought to do improperly. 1 Tidd,
   Pr. 4. The Improper perform-ance of some act which a man may lawfully do. 3 Steph.

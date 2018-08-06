@@ -1,5 +1,6 @@
 ---
 title: Rector
+letter: R
 permalink: "/definitions/rector.html"
 body: In English law. Be that has full possession of a parochial church. A rector
   (or parson) has, for the most part, the whole right to all the ecclesiastical dues

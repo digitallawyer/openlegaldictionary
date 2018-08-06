@@ -1,5 +1,6 @@
 ---
 title: Mooring
+letter: M
 permalink: "/definitions/mooring.html"
 body: In maritime law. Anchor-ing or making fast to the shore or dock; the securing
   or confining a vessel in a particular station, as by cables and anchors or by a

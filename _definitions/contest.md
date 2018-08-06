@@ -1,5 +1,6 @@
 ---
 title: Contest
+letter: C
 permalink: "/definitions/contest.html"
 body: To make defense to an ad-verse claim in a court ,of law; to oppose, resist,
   or dispute the case mnde by a plaintiff. Pratt v. Breckinridge, 112 Ky. 1, 65 S.

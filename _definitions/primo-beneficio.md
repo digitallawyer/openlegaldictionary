@@ -1,5 +1,6 @@
 ---
 title: Primo Beneficio
+letter: P
 permalink: "/definitions/primo-beneficio.html"
 body: Lat A writ dl-recting a grant of the first benefice in the sovereign’s gift.
   CowelL

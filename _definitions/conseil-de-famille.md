@@ -1,5 +1,6 @@
 ---
 title: Conseil De Famille
+letter: C
 permalink: "/definitions/conseil-de-famille.html"
 body: In French law. A family council. Certain acts require the sanction of this body.
   For example, a guardian can neither accept nor reject an in-heritance to which the

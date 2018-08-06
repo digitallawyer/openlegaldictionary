@@ -1,5 +1,6 @@
 ---
 title: Comprivigni
+letter: C
 permalink: "/definitions/comprivigni.html"
 body: In the civil law. Chil-dren by a former marriage, (indlvidualiy called “privigni,"
   or “privign#,") consider-ed relatively to each other. Thus, the son of a husband

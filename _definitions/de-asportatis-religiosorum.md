@@ -1,5 +1,6 @@
 ---
 title: De Asportatis Religiosorum
+letter: D
 permalink: "/definitions/de-asportatis-religiosorum.html"
 body: Concerning the property of religious persons carried away. The title of the
   statute 35 Edward I. passed to check the abuses of clerical possessions, oue of

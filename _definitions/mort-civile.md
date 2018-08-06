@@ -1,5 +1,6 @@
 ---
 title: Mort Civile
+letter: M
 permalink: "/definitions/mort-civile.html"
 body: In French law. Civil death, as upon conviction for felony. It was nominally
   abollshed by a law of the 31st of May, 1854, but something very similar to it, in

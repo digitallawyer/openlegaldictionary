@@ -1,5 +1,6 @@
 ---
 title: Kalendarium
+letter: K
 permalink: "/definitions/kalendarium.html"
 body: In the civll law. A calendar; n book of accounts, memorandum-hook, or debt-hook;
   a book in which accounts were kept of moneys loaned out on lnterest. Dlg. 32, 64.

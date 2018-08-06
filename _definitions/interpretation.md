@@ -1,5 +1,6 @@
 ---
 title: Interpretation
+letter: I
 permalink: "/definitions/interpretation.html"
 body: The art or process of discovering and expounding the intended signification
   of the language used lu a statute, will, contract, or any other written document,

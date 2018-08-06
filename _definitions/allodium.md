@@ -1,5 +1,6 @@
 ---
 title: Allodium
+letter: A
 permalink: "/definitions/allodium.html"
 body: Land held absolutely in one’s own right, and not of any lord or su-perior; land
   not subject to feudal duties or burdens

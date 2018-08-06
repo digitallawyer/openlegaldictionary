@@ -1,5 +1,6 @@
 ---
 title: Authentic
+letter: A
 permalink: "/definitions/authentic.html"
 body: Genuine; true; having the character and authority of an original; duly vested
   with all necessary formalities and legally attested; competent, credible, and reliable

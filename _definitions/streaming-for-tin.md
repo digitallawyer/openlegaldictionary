@@ -1,5 +1,6 @@
 ---
 title: Streaming For Tin
+letter: S
 permalink: "/definitions/streaming-for-tin.html"
 body: The process of working tin in Cornwall and Devon. The right to stream must not
   be exercised so as to interfere with the rights of other private individuals; e.

@@ -1,5 +1,6 @@
 ---
 title: Novelty
+letter: N
 permalink: "/definitions/novelty.html"
 body: An objection to a patent or claim for a patent on the ground that the invention
   is not new or original is called an objection “for want of novelty.”

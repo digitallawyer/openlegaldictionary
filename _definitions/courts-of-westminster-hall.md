@@ -1,5 +1,6 @@
 ---
 title: Courts Of Westminster Hall
+letter: C
 permalink: "/definitions/courts-of-westminster-hall.html"
 body: The superior courts, both of law and equity, were for centuries fixed at Westmiuster,
   an ancient palace of the monarchs of England. Formerly, all the superior courts

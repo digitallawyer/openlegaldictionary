@@ -1,5 +1,6 @@
 ---
 title: Thirds
+letter: T
 permalink: "/definitions/thirds.html"
 body: The designation, In colloquial language, of that portion of a decedent's personal
   estate (one-third) which goes to the widow where there is also a child or chib dren.

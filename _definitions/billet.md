@@ -1,5 +1,6 @@
 ---
 title: Billet
+letter: B
 permalink: "/definitions/billet.html"
 body: A soldier's quarters in a civilian’s house; or the ticket which authorizes hini
   to occupy them

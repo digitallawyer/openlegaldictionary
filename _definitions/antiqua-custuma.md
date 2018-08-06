@@ -1,5 +1,6 @@
 ---
 title: Antiqua Custuma
+letter: A
 permalink: "/definitions/antiqua-custuma.html"
 body: In English law. Ancient custom. An export duty on wool, wool-felts, and leather,
   imposed during the reign of Edw. I. It was so called by way of distinction from

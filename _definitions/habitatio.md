@@ -1,5 +1,6 @@
 ---
 title: Habitatio
+letter: H
 permalink: "/definitions/habitatio.html"
 body: Lat in the civU law. The right of dwelling; the right of free resi-dence in
   another’s house. Inst. 2, 5; Dig. 7,8

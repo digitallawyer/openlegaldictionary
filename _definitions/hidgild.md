@@ -1,5 +1,6 @@
 ---
 title: Hidgild
+letter: H
 permalink: "/definitions/hidgild.html"
 body: A sum of money pald by a villein or servant to save himself from a whipping.
   Fleta, L 1, c. 47, | 20

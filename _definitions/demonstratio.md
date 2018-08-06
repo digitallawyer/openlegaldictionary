@@ -1,5 +1,6 @@
 ---
 title: Demonstratio
+letter: D
 permalink: "/definitions/demonstratio.html"
 body: Lat Description; addition; denomination, occurring oftenfln the phrase, "Falsa
   demonstratio non nocet” (a false description does not harm

@@ -1,5 +1,6 @@
 ---
 title: Testament
+letter: T
 permalink: "/definitions/testament.html"
 body: A disposition of personal property to take place after the owner’s de-cease,
   according to his desire and direction. Plnche v. Jones, 54 Fed. 865, 4 C. C. A.

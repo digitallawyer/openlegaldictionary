@@ -1,5 +1,6 @@
 ---
 title: Procure
+letter: P
 permalink: "/definitions/procure.html"
 body: In criminal law, and in analogous uses elsewhere, to “procure” is to initiate
   a proceeding to cause a thing to be done; to instigate; to contrive, bring about,

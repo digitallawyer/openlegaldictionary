@@ -1,5 +1,6 @@
 ---
 title: Logs
+letter: L
 permalink: "/definitions/logs.html"
 body: Stems or trunks of trees cut into convenient lengths for the purpose of being
   afterwards manufactured into lumber of va-rious kinds; not including manufactured

@@ -1,5 +1,6 @@
 ---
 title: Regulation
+letter: R
 permalink: "/definitions/regulation.html"
 body: The act of regulating, a rule or order prescribed for management ,or government;
   a regulatlng prlnclple; a precept. See Curry v. Marvin, 2 Fla. 415; Ames v. Unlon

@@ -1,5 +1,6 @@
 ---
 title: Show Cause
+letter: S
 permalink: "/definitions/show-cause.html"
 body: To show cause against a rule nisi, an order, decree, execution, etc., is to
   appear as directed, and present to the court such reasons and considerations as

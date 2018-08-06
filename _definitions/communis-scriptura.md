@@ -1,5 +1,6 @@
 ---
 title: Communis Scriptura
+letter: C
 permalink: "/definitions/communis-scriptura.html"
 body: In old Eng-lish law. A common writing; a writing common to both parties; a chirograph.
   Gian, llb. 8, c. 1

@@ -1,5 +1,6 @@
 ---
 title: Defective
+letter: D
 permalink: "/definitions/defective.html"
 body: Lacking in some particu-lar which is essential to the completeness, legal sufficiency,
   or security of the object spoken of; as, a “defective” highway or bridge, (Manson

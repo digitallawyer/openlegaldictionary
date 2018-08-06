@@ -1,5 +1,6 @@
 ---
 title: Denounce
+letter: D
 permalink: "/definitions/denounce.html"
 body: An act or thing is “de-nounced” when the law declares it a crime and prescribes
   a punishment for it. State v. De Hart, 109 La. 370, 33 South. 605. The word is also

@@ -1,5 +1,6 @@
 ---
 title: Guinea
+letter: G
 permalink: "/definitions/guinea.html"
 body: A coin formerly issued by the English mint, but all these coins were called
   in in the time of wm. IV. The word now means only the sum of £1. Is., in whlch denomination

@@ -1,5 +1,6 @@
 ---
 title: Rural Deans
+letter: R
 permalink: "/definitions/rural-deans.html"
 body: In English ecclesias-tical la... Very ancient officers of the church, almost
   grown out of use, until about the middle of the present century, about which time

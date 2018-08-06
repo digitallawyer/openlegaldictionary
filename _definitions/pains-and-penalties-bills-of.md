@@ -1,5 +1,6 @@
 ---
 title: Pains And Penalties, Bills Of
+letter: P
 permalink: "/definitions/pains-and-penalties-bills-of.html"
 body: The name given to acts of parliament to attaint particular persons of treason
   or felony, or to inflict pains and penalties beyond or contrary to the common law,

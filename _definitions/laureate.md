@@ -1,5 +1,6 @@
 ---
 title: Laureate
+letter: L
 permalink: "/definitions/laureate.html"
 body: In English lnw. An officer of the household of the sovereign, whose business
   formerly consisted only in composing an ode annually, on the sovereign’s birth*

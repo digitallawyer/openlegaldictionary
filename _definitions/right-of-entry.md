@@ -1,5 +1,6 @@
 ---
 title: Right Of Entry
+letter: R
 permalink: "/definitions/right-of-entry.html"
 body: A right of entry is the right of taking or resuming possession of land b^ entering
   on it in a peaceable manner

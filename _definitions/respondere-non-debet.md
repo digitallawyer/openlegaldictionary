@@ -1,5 +1,6 @@
 ---
 title: Respondere Non Debet
+letter: R
 permalink: "/definitions/respondere-non-debet.html"
 body: Lat. In pleading. The prayer of a plea where the de-fendant insists that he
   ought not to answer, as when he claims a privilege; for example, as being a member

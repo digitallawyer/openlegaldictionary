@@ -1,5 +1,6 @@
 ---
 title: Litis Contestatio
+letter: L
 permalink: "/definitions/litis-contestatio.html"
 body: Lat. In tbe oivil and canon law. Contestation of suit; the process of contesting
   a suit by the op-posing statements of the respective parties; the process of coming

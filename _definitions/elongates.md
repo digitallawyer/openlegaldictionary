@@ -1,5 +1,6 @@
 ---
 title: Elongates
+letter: E
 permalink: "/definitions/elongates.html"
 body: Eloigned. A return made by a sheriff to a writ de homine replegiando, stating
   that the party to be replevied has been eloigned, or conveyed out of his jurisdiction.

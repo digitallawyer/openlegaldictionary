@@ -1,5 +1,6 @@
 ---
 title: Alibi
+letter: A
 permalink: "/definitions/alibi.html"
 body: Lat. in criminal law. Elsewhere; in another place. A term used to ex-press that
   mode of defense to a criminal prosecution, where the party accused, in or-der to

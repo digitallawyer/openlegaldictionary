@@ -1,5 +1,6 @@
 ---
 title: Banneret
+letter: B
 permalink: "/definitions/banneret.html"
 body: or BANNERET. In English law. A knight made in the field, by the ceremony of
   cutting off the point of his standard, and making it, as it were, a banner. Knights

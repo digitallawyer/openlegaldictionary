@@ -1,5 +1,6 @@
 ---
 title: Traversing Note
+letter: T
 permalink: "/definitions/traversing-note.html"
 body: This is a pleading in chancery, and consists of a denial put in by the plaintiff
   on behalf of the defendant, generally denying all the statements in the plaintiff's

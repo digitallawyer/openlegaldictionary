@@ -1,5 +1,6 @@
 ---
 title: Purchase
+letter: P
 permalink: "/definitions/purchase.html"
 body: The word, “purchase" is used In law in contradistinction to “descent,” and means
   any other mode of acquiring real property than by the common course of in-heritance.

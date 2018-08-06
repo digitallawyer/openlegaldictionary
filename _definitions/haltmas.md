@@ -1,5 +1,6 @@
 ---
 title: Haltmas
+letter: H
 permalink: "/definitions/haltmas.html"
 body: In English law. The feast of All Sainis, on the 1st of November; one of the
   cross-quarters of the year, was computed from Hallmas to Candlemas, whar-ton

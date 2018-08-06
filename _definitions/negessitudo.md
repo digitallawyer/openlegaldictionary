@@ -1,5 +1,6 @@
 ---
 title: Negessitudo
+letter: N
 permalink: "/definitions/negessitudo.html"
 body: Lat. In the civil law. An obligation; a close connection; relation-ship by blood.
   Calvin

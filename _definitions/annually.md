@@ -1,5 +1,6 @@
 ---
 title: Annually
+letter: A
 permalink: "/definitions/annually.html"
 body: The meaning of this term, as applied to interest, is not an undertaking to pay
   interest at the end of one year only, but to pay interest at the end of each and

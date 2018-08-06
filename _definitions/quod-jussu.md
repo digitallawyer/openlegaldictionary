@@ -1,5 +1,6 @@
 ---
 title: Quod Jussu
+letter: Q
 permalink: "/definitions/quod-jussu.html"
 body: LaL In the civil law. The name of an action given to one who had contracted
   with a son or slave, by order ot the father or master, to compel such father or

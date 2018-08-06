@@ -1,5 +1,6 @@
 ---
 title: Cessio In Jure
+letter: C
 permalink: "/definitions/cessio-in-jure.html"
 body: In Roman law. A fictitious suit, in which the person who was to acquire the
   thiug claimed (vindicabat) the thiug as his own, the person who was to transfer

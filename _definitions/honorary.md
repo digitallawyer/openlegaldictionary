@@ -1,5 +1,6 @@
 ---
 title: Honorary
+letter: H
 permalink: "/definitions/honorary.html"
 body: As applied to public offices and other positions of responsibility or trust,
   this term means either that the office or tltle is bestowed upon the Incumbent as

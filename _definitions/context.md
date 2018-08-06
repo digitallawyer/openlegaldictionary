@@ -1,5 +1,6 @@
 ---
 title: Context
+letter: C
 permalink: "/definitions/context.html"
 body: The context of a particular sentence or clanse in a statute, contract, will,
   etc., comprises those parts of the text which immediately precede and follow it

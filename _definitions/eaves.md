@@ -1,5 +1,6 @@
 ---
 title: Eaves
+letter: E
 permalink: "/definitions/eaves.html"
 body: The edge of a roof, built so as to project over the walls of a house, in order
   that the rain may drop therefrom to the ground Instead of running down the wall.

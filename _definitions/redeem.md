@@ -1,5 +1,6 @@
 ---
 title: Redeem
+letter: R
 permalink: "/definitions/redeem.html"
 body: To buy back. To liberate an qstate or article from mortgage or pledge by paying
   the debt for which it stood as secu-rity. To repurchase in a literal sense; as,

@@ -1,5 +1,6 @@
 ---
 title: Movent
+letter: M
 permalink: "/definitions/movent.html"
 body: one who moves; one who makes a motion before a court; the applicant for a rule
   or order

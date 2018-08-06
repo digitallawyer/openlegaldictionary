@@ -1,5 +1,6 @@
 ---
 title: Gradatim
+letter: G
 permalink: "/definitions/gradatim.html"
 body: In old English law. By degrees or steps; step by step; from one de-gree to another.
   Bract fol. 64

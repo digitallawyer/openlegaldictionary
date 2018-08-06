@@ -1,5 +1,6 @@
 ---
 title: Diploma
+letter: D
 permalink: "/definitions/diploma.html"
 body: In the civil law. A royal charter; letters patent granted by a prince or sovereign.
   Calvin

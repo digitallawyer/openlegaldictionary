@@ -1,5 +1,6 @@
 ---
 title: Extend
+letter: E
 permalink: "/definitions/extend.html"
 body: 'To expand, enlarge, prolong, widen, carry ont, further than the original limit;
   as, to extend the time for filing an answer, to extend a lease, term of ofHce, charter,

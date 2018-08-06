@@ -1,5 +1,6 @@
 ---
 title: Intention
+letter: I
 permalink: "/definitions/intention.html"
 body: Meaning; will; purpose; design. “The intention ot the testator, to be collected
   from the whole will, is to gov-ern, provided it be not uniawful or inconsist* ent

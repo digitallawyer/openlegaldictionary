@@ -1,5 +1,6 @@
 ---
 title: Utfangthef
+letter: U
 permalink: "/definitions/utfangthef.html"
 body: In Saxon and old Eng-lish law. The privilege of a lord of a manor to judge and
   punish a thief dwelling out of his liberty, and committing theft with-out the same,

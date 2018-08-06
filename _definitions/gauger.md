@@ -1,5 +1,6 @@
 ---
 title: Gauger
+letter: G
 permalink: "/definitions/gauger.html"
 body: A surveying officer under the customs, excise, and internal revenue laws, appointed
   to examine all tuns, pipes, bogs-heads, barrels and tierces of wine, oil, and other

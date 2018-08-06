@@ -1,5 +1,6 @@
 ---
 title: Quare Non Admibit
+letter: Q
 permalink: "/definitions/quare-non-admibit.html"
 body: In Engllsh law. A writ to recover damages against a bishop who does not admit
   a plaintifTs clerk. It is, however, rarely or never necessary; for it is said that

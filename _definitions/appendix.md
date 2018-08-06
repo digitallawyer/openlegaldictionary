@@ -1,5 +1,6 @@
 ---
 title: Appendix
+letter: A
 permalink: "/definitions/appendix.html"
 body: A printed volume, used on an appeal to the Engllsh house of lords or privy council,
   containing tbe documents and other evidence presented in the lnferior court and

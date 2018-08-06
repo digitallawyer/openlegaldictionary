@@ -1,5 +1,6 @@
 ---
 title: Dolo
+letter: D
 permalink: "/definitions/dolo.html"
 body: In Spanlsh law. Bad or mls-chlevous design, white. New Recop. b. 1, tit L c-
   1, f 3

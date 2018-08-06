@@ -1,5 +1,6 @@
 ---
 title: Board
+letter: B
 permalink: "/definitions/board.html"
 body: A committee of persons organ-ized under authority of law in order to exer-clse
   certain authorities, have oversight or control of certain matters, or discharge

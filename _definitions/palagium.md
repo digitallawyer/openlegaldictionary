@@ -1,5 +1,6 @@
 ---
 title: Palagium
+letter: P
 permalink: "/definitions/palagium.html"
 body: A duty to lords of manors for exporting and importing vessels of wine at any
   of their ports. Jacob

@@ -1,5 +1,6 @@
 ---
 title: Petitioner
+letter: P
 permalink: "/definitions/petitioner.html"
 body: one who presents a petition to a court, officer, or legislative body. In legal
   proceedings begun by petition, the person against whom action or relief is prayed,

@@ -1,5 +1,6 @@
 ---
 title: Deforciatio
+letter: D
 permalink: "/definitions/deforciatio.html"
 body: L. Lat in old Engllsh law. A distress, distraint, or seizure of goods for satisfaction
   of a lawful debt. Cowell

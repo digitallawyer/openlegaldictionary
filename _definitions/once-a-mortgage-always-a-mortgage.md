@@ -1,5 +1,6 @@
 ---
 title: Once A Mortgage, Always A Mortgage
+letter: O
 permalink: "/definitions/once-a-mortgage-always-a-mortgage.html"
 body: This rule signlfles that an Instrument orlglnally intended as a mort-gage, and
   not a deed, cannot be converted into anything else than a mortgage by any subsequent

@@ -1,5 +1,6 @@
 ---
 title: Lath, Lathe
+letter: L
 permalink: "/definitions/lath-lathe.html"
 body: The name of an ancient clvll division in England, intermediate between the county
   or shlre and the hundred. Said to he the same as what, in other parts of the kingdom,

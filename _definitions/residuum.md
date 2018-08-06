@@ -1,5 +1,6 @@
 ---
 title: Residuum
+letter: R
 permalink: "/definitions/residuum.html"
 body: That which remains after any process of separation or deduction; a residue or
   balance.- That which remains of a decedent’s estate, after debts have been paid

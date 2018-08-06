@@ -1,5 +1,6 @@
 ---
 title: Convinging Proof
+letter: C
 permalink: "/definitions/convinging-proof.html"
 body: Such as is sufficient to establish the proposition in ques-tlon, beyond hesltation,
   amblguity, or reason-able doubt in an unprejudiced mind. Evans v. Rugee, 57 wis.

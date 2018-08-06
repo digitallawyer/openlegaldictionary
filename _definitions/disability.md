@@ -1,5 +1,6 @@
 ---
 title: Disability
+letter: D
 permalink: "/definitions/disability.html"
 body: The want of legal ability or capacity to exercise legal rights, elther spectator
   ordinary, or to do certain acts with proper legal effect, or to enjoy.certaln prlvl-leges

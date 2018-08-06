@@ -1,5 +1,6 @@
 ---
 title: Credentials
+letter: C
 permalink: "/definitions/credentials.html"
 body: LS. In International law. Tbe instruments which authorize and estah-lish a public
   miuister in his character with the state or prince to whom they are address^ ed.

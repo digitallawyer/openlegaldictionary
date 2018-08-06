@@ -1,5 +1,6 @@
 ---
 title: Fieri Feci
+letter: F
 permalink: "/definitions/fieri-feci.html"
 body: "(I have caused to he made.) In practice. The name given to the return made
   by a sheriff or other officer to a writ of fieri facias, where he has collected

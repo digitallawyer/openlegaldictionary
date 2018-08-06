@@ -1,5 +1,6 @@
 ---
 title: Conduct Money
+letter: C
 permalink: "/definitions/conduct-money.html"
 body: In English prac-tlce. Money paid to a witness who has been subpoenaed on a trial,
   sufficient to defray the reasonable expenses of going to, staying at, and returning

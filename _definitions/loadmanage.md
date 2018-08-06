@@ -1,5 +1,6 @@
 ---
 title: Loadmanage
+letter: L
 permalink: "/definitions/loadmanage.html"
 body: The pay to loadsmen; that is, persons wbo sail or row before ships, in barks
   or small vessels, with instruments for towing tbe ship and directing her course,

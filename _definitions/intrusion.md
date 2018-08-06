@@ -1,5 +1,6 @@
 ---
 title: Intrusion
+letter: I
 permalink: "/definitions/intrusion.html"
 body: A species of injury by ouster or amotion of possession from the freehold, being
   an entry of a stranger, after a particular estate of freehold is determined, before

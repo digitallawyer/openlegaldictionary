@@ -1,5 +1,6 @@
 ---
 title: Inalienable
+letter: I
 permalink: "/definitions/inalienable.html"
 body: Not subject to alienation ; the characteristic of those things which cannot
   be bought or sold or transferred from one person to another, such as rivers and

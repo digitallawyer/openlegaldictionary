@@ -1,5 +1,6 @@
 ---
 title: Parol
+letter: P
 permalink: "/definitions/parol.html"
 body: A word; speech; hence, oral or verbal; expressed or evidenced by speech only;
   not expressed by wrltlng; not ex-pressed by sealed instrument

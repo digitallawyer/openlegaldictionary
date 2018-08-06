@@ -1,5 +1,6 @@
 ---
 title: Min Ute
+letter: M
 permalink: "/definitions/min-ute.html"
 body: In measures of time or circumference, a minute is the sixtieth part of an hour
   or degree

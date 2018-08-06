@@ -1,5 +1,6 @@
 ---
 title: Collatio Bonorum
+letter: C
 permalink: "/definitions/collatio-bonorum.html"
 body: Lat A Join-ing together or contribution of goods into a common fund. This occurs
   where a portion of money, advanced by the father to a son or daughter, is brought

@@ -1,5 +1,6 @@
 ---
 title: Appellate
+letter: A
 permalink: "/definitions/appellate.html"
 body: Pertaining to or having cognizance of appeals and other proceedings for the
   judicial review of adjudications

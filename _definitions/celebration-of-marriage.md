@@ -1,5 +1,6 @@
 ---
 title: Celebration Of Marriage
+letter: C
 permalink: "/definitions/celebration-of-marriage.html"
 body: The formal act by which a man aud woman take each other for husband and wife,
   accord-lng to law; the solemnization of a marriage. The term is usually applied

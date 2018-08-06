@@ -1,5 +1,6 @@
 ---
 title: Universal
+letter: U
 permalink: "/definitions/universal.html"
 body: Having relation to the whole or an entirety; pertaining to all with-out exception;
   a term more extensive than “general,” which latter may admit of ex-ceptions. See

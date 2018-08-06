@@ -1,5 +1,6 @@
 ---
 title: Commoners
+letter: C
 permalink: "/definitions/commoners.html"
 body: in English law. Per* sons having a right of common. So called because they have
   a right to pasture on the waste, in common with the lord. 2 H. Bl. 889

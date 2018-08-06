@@ -1,5 +1,6 @@
 ---
 title: Hundred
+letter: H
 permalink: "/definitions/hundred.html"
 body: Under the Saxon orgauiza-tion of England, each county or shire corn-prised an
   indefinite number of hundreds, each hundred containing ten titMngs, or groups of

@@ -1,5 +1,6 @@
 ---
 title: Slavery
+letter: S
 permalink: "/definitions/slavery.html"
 body: The condition of a slave; that civll relation In which one man has ab-solute
   power over the life, fortune, end lib-erty of another

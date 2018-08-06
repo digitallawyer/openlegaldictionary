@@ -1,5 +1,6 @@
 ---
 title: Court Of Peculiars
+letter: C
 permalink: "/definitions/court-of-peculiars.html"
 body: A spiritual court in England, belng a branch of, and annexed to, the Court of
   Arches. It has a jurisdiction over all those parishes dis-persed through the province

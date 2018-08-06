@@ -1,5 +1,6 @@
 ---
 title: Dishonor
+letter: D
 permalink: "/definitions/dishonor.html"
 body: In mercantile law and usage. To refuse or decline to accept a bill of exchange,
   or to refuse or neglect to pay a bill or note at maturity. Shelton v. Braith-waite,

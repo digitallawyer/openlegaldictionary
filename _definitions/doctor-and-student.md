@@ -1,5 +1,6 @@
 ---
 title: Doctor And Student
+letter: D
 permalink: "/definitions/doctor-and-student.html"
 body: The title of a work written-by St. Germain in the reign of Henry VIIL in which
   many principles of the common law are discussed in a popular manner. It is in the

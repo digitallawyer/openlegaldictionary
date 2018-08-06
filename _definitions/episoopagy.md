@@ -1,5 +1,6 @@
 ---
 title: Episoopagy
+letter: E
 permalink: "/definitions/episoopagy.html"
 body: The office of overlook-ing or overseeing; the office of a bishop, who is to
   overlook and oversee the concerns of the church. A form of church government by

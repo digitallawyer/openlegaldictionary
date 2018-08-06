@@ -1,5 +1,6 @@
 ---
 title: Dramatic Composition
+letter: D
 permalink: "/definitions/dramatic-composition.html"
 body: In copy-right law. A literary work setting forth a story, incident, or scene
   from life, in which, however, the narrative is not related, hut is represented by

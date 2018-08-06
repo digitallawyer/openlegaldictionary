@@ -1,5 +1,6 @@
 ---
 title: Burgomaster
+letter: B
 permalink: "/definitions/burgomaster.html"
 body: The title given In Germany to the chief executive officer of a borough, town,
   or city; corresponding to our “mayor

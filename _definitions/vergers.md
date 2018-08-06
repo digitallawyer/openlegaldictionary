@@ -1,5 +1,6 @@
 ---
 title: Vergers
+letter: V
 permalink: "/definitions/vergers.html"
 body: In Bkiglish law. officers who carry white wands before the justices of either
   bench. Cowell. Mentioned ln

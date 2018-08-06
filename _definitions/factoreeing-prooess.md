@@ -1,5 +1,6 @@
 ---
 title: Factoreeing Prooess
+letter: F
 permalink: "/definitions/factoreeing-prooess.html"
 body: Itt American law. A process by which the effects of a debtor are attached in
   the hands of a third person. A term peculiar to the practice in Vermont and Connecticut

@@ -1,5 +1,6 @@
 ---
 title: Liquidate
+letter: L
 permalink: "/definitions/liquidate.html"
 body: To adjust or settle an ln-debtedness; to determine an amount to lie paid; to
   clear up an account and ascertain the balance; to fix the amount required to satisfy

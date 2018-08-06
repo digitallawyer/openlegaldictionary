@@ -1,5 +1,6 @@
 ---
 title: Eligible
+letter: E
 permalink: "/definitions/eligible.html"
 body: As applied to a candidate for an elective office, this term means capa-ble of
   being chosen; the subject of selection or choice; and also implies competency to

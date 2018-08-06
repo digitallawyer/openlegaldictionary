@@ -1,5 +1,6 @@
 ---
 title: Inquirendo
+letter: I
 permalink: "/definitions/inquirendo.html"
 body: An authority given to some official person to institute an inquiry, concerning
   the crown's interests

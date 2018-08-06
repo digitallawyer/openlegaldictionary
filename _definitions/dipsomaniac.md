@@ -1,5 +1,6 @@
 ---
 title: Dipsomaniac
+letter: D
 permalink: "/definitions/dipsomaniac.html"
 body: A person subject to dipsomania, one who has an irresistible de-sire for alcoholic
   liquors. See Insanity

@@ -1,5 +1,6 @@
 ---
 title: Qualify
+letter: Q
 permalink: "/definitions/qualify.html"
 body: To make one’s self fit or pre-pared to exercise a right, office, or franchise.
   To take the steps necessary to prepare one’s self for an office or appointment,

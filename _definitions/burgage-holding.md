@@ -1,5 +1,6 @@
 ---
 title: Burgage-Holding
+letter: B
 permalink: "/definitions/burgage-holding.html"
 body: A tenure by which lands in royal boroughs in Scotland were held of the sovereign.
   The service was watching and warding, and was done by the burgesses within the territory

@@ -1,5 +1,6 @@
 ---
 title: Predominant
+letter: P
 permalink: "/definitions/predominant.html"
 body: This term, in its natural and ordinary signification, is under-stood to be something
   greater or superior in power aud influence to others, with which it is connected

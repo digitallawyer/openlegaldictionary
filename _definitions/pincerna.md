@@ -1,5 +1,6 @@
 ---
 title: Pincerna
+letter: P
 permalink: "/definitions/pincerna.html"
 body: Tn old English law. Suffer ; the king’s butler, whose office it was to select
   out of the cargo of every vessel laden with wine, one cask at the prow and another

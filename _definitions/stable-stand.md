@@ -1,5 +1,6 @@
 ---
 title: Stable-Stand
+letter: S
 permalink: "/definitions/stable-stand.html"
 body: In forest law. one of the four evidences or presumptions where-by a man was
   convicted of an intent to steal the king’s deer in the forest. This was when a man

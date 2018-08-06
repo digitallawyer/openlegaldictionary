@@ -1,5 +1,6 @@
 ---
 title: Judex
+letter: J
 permalink: "/definitions/judex.html"
 body: Lat. In Roman law. A private person appointed by the prtetor, with the consent
   of the parties, to try and decide a cause or action commenced before him. He received

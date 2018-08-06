@@ -1,5 +1,6 @@
 ---
 title: Court Of Oyer And Terminer
+letter: C
 permalink: "/definitions/court-of-oyer-and-terminer.html"
 body: In English law. A court for the trial of cases of treason and felony. The commis-sloners
   of assise and nisi prius are judges selected by the king and appointed aud au-thorized

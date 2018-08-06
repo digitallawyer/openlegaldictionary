@@ -1,5 +1,6 @@
 ---
 title: Egchymosis
+letter: E
 permalink: "/definitions/egchymosis.html"
 body: In medical Jurisprudence. Blackness. It is an extravasation of blood by rupture
   of capillary vessels, and hence it follows contusion; but it may exist, as in cases

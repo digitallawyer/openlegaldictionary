@@ -1,5 +1,6 @@
 ---
 title: Ejectione Firms
+letter: E
 permalink: "/definitions/ejectione-firms.html"
 body: Ejection, or ejectment of farm. The name of a writ or action of trespass, which
   lay at common law where lands or tenements were let for a term of years, and afterwards

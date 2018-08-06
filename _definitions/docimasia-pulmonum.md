@@ -1,5 +1,6 @@
 ---
 title: Docimasia Pulmonum
+letter: D
 permalink: "/definitions/docimasia-pulmonum.html"
 body: In medical jurisprudence. The hydrostatic test used chiefly in cases of alleged
   infanticide to de-termlne whether the child was born alive or dead, which consists

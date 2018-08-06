@@ -1,5 +1,6 @@
 ---
 title: Continuance
+letter: C
 permalink: "/definitions/continuance.html"
 body: The adjournment or postponement of an actlon pending in a court, to a subsequent
   day of the same or another term. Com. v. Maloney, 145 Mass. 205, 13 N. E. 482; State

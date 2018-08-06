@@ -1,5 +1,6 @@
 ---
 title: Stockholder
+letter: S
 permalink: "/definitions/stockholder.html"
 body: A person- wbo owns shares of stock in a corporation or joint-stock company.
   See Mills v. Stewart, 41 N. Y. 386; Ross v. Knapp, etc., Co., 77 111. App. 424;

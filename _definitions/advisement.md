@@ -1,5 +1,6 @@
 ---
 title: Advisement
+letter: A
 permalink: "/definitions/advisement.html"
 body: Dellberatlon, conslder-atlon, consultation; the consultation of a court, after
   the argument of a cause by counsel, and before delivering thelr opinion. Clark v.

@@ -1,5 +1,6 @@
 ---
 title: Antichresis
+letter: A
 permalink: "/definitions/antichresis.html"
 body: In the civil law. A species of mortgage, or pledge of immovables. An agreement
   by which the debtor gives to the creditor the Income from the property which he

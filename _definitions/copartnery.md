@@ -1,5 +1,6 @@
 ---
 title: Copartnery
+letter: C
 permalink: "/definitions/copartnery.html"
 body: In Scotch law. The contract of copartnership. A contract by which the several
   partners agree concerning the communication of loss or gain, aris-ing from the subject

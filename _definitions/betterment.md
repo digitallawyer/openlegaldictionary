@@ -1,5 +1,6 @@
 ---
 title: Betterment
+letter: B
 permalink: "/definitions/betterment.html"
 body: An improvement put upon an estate whlch enhances its value more than mere repairs.
   The term is also applied to denote the additional value which an estate acquires

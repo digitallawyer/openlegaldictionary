@@ -1,5 +1,6 @@
 ---
 title: Somnambulism
+letter: S
 permalink: "/definitions/somnambulism.html"
 body: Sleep-waIking. whether this condition is anything more than a co-operation of
   the voluntary muscles with the thoughts which occupy the mind during sleep is not

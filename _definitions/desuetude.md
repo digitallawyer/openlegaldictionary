@@ -1,5 +1,6 @@
 ---
 title: Desuetude
+letter: D
 permalink: "/definitions/desuetude.html"
 body: Disuse; cessation or dis-continuance of use. Applied to obsolete statutes. James
   v. Cornu?-, 12 Serg. & R. (Pa.) 227

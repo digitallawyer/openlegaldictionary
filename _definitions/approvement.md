@@ -1,5 +1,6 @@
 ---
 title: Approvement
+letter: A
 permalink: "/definitions/approvement.html"
 body: 'By the common law, approvement is said to he a species of confession, aud incident
   to the arraignment of a prisoner indicted for treason or felony, who confesses the

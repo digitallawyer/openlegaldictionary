@@ -1,5 +1,6 @@
 ---
 title: Assumption
+letter: A
 permalink: "/definitions/assumption.html"
 body: The act or agreement of assuming or taking upon one’s self; the un* dertaking
   or adoption of a debt or obligation primarily resting upon another, as where the

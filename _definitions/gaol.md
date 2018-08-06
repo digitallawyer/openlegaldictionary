@@ -1,5 +1,6 @@
 ---
 title: Gaol
+letter: G
 permalink: "/definitions/gaol.html"
 body: A prison for temporary confinement; a jail; a place for the confinement of offenders
   against the law

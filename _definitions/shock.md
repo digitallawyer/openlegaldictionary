@@ -1,5 +1,6 @@
 ---
 title: Shock
+letter: S
 permalink: "/definitions/shock.html"
 body: In medical jurisprudence. A sudden and severe depression of the vltal functions,
   particularly of the nerves and the circulation, due to the nervous exhaustion following

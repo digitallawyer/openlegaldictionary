@@ -1,5 +1,6 @@
 ---
 title: Ordonnance
+letter: O
 permalink: "/definitions/ordonnance.html"
 body: Fr. In French law, an ordinance; an order of a court; a complla-tion or systematized
   body of law relating to a particular subject-matter, as, commercial law or maritime

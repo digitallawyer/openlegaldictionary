@@ -1,5 +1,6 @@
 ---
 title: Locare
+letter: L
 permalink: "/definitions/locare.html"
 body: To let for hire; to deliver or bail a thing for a certain reward or compensation.
   Bract fol. 62

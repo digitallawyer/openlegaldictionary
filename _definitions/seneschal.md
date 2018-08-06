@@ -1,5 +1,6 @@
 ---
 title: Seneschal
+letter: S
 permalink: "/definitions/seneschal.html"
 body: In old European law. A title of office and dignity, derived from the middle
   ages, answering to that of steward or high steward in England. Seneschals were originally

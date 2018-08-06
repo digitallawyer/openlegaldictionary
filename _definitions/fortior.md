@@ -1,5 +1,6 @@
 ---
 title: Fortior
+letter: F
 permalink: "/definitions/fortior.html"
 body: Lat. Stronger. A term ap-plled, in the latv of evidence, to that specles of
   presumption, arising from facts shown in evidence, which is strong enough to shift

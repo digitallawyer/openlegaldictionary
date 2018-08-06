@@ -1,5 +1,6 @@
 ---
 title: Recognition
+letter: R
 permalink: "/definitions/recognition.html"
 body: Ratlficatlon; confirmation; an acknowledgment that something done hy another
   person in one’s name had one’s authority

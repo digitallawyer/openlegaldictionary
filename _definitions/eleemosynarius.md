@@ -1,5 +1,6 @@
 ---
 title: Eleemosynarius
+letter: E
 permalink: "/definitions/eleemosynarius.html"
 body: In old English law. An almoner, or chief officer, who received the eleemosynary
   rents ani gifts, and in due method distributed them to pious and charitable uses.

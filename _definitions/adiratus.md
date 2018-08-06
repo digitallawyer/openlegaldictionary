@@ -1,5 +1,6 @@
 ---
 title: Adiratus
+letter: A
 permalink: "/definitions/adiratus.html"
 body: Lost; strayed; a price or value set upon things stolen or lost, as a rec-ompense
   to the owner. Cowell

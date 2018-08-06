@@ -1,5 +1,6 @@
 ---
 title: Hysteropotmoi
+letter: H
 permalink: "/definitions/hysteropotmoi.html"
 body: Those who, hav-ing been thought dead, had, after a long absence in foreign countries,
   returned safely home; or those wbo, having been thought dead in battle, had afterwards

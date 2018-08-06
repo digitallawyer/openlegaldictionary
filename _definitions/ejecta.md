@@ -1,5 +1,6 @@
 ---
 title: Ejecta
+letter: E
 permalink: "/definitions/ejecta.html"
 body: In old English law. A woman ravished or deflowered, or cast forth from the virtuous.
   Blount

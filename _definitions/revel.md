@@ -1,5 +1,6 @@
 ---
 title: Revel
+letter: R
 permalink: "/definitions/revel.html"
 body: A criminal complaint charged that the defendant did “revel, quarrel, commit
   mischief, and otherwise behave in a disorderly manner.” Held, that the word “revel”

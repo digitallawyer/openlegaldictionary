@@ -1,5 +1,6 @@
 ---
 title: Inferior Court
+letter: I
 permalink: "/definitions/inferior-court.html"
 body: This term may denote any court subordinate to the chief ap-peliate tribunal
   in the particular judicial system; hut it is commonly used as the designs-tion of

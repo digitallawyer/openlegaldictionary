@@ -1,5 +1,6 @@
 ---
 title: Chippingavel
+letter: C
 permalink: "/definitions/chippingavel.html"
 body: In old English law. A tax upon trade; a toll imposed upou trattic. or upon goods
   brought to a pluoe to be sold

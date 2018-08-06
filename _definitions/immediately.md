@@ -1,5 +1,6 @@
 ---
 title: Immediately
+letter: I
 permalink: "/definitions/immediately.html"
 body: “It is Impossible to lay down any hard and fast rule as to what is the meaning
   of the word ‘immediately’ in all cases. The words ‘forthwith’ and ‘im-mediately*

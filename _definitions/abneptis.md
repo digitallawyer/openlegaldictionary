@@ -1,5 +1,6 @@
 ---
 title: Abneptis
+letter: A
 permalink: "/definitions/abneptis.html"
 body: Lat A great-great-grand-daughter. The granddaughter of a grand-son or granddaughter.
   Calvin

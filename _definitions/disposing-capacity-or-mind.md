@@ -1,5 +1,6 @@
 ---
 title: Disposing Capacity Or Mind
+letter: D
 permalink: "/definitions/disposing-capacity-or-mind.html"
 body: These are alternative or synonymous phrases in the law of wills for “sound mind,”
   and “testamentary capacity,” (q. v.)

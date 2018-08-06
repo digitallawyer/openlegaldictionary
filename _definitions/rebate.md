@@ -1,5 +1,6 @@
 ---
 title: Rebate
+letter: R
 permalink: "/definitions/rebate.html"
 body: Discount; reducing the Interest of money in consideration of prompt payment.
   Also a deduction from a stlpulat-ed premium on a policy of insurance, in pursuance

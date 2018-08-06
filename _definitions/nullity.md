@@ -1,5 +1,6 @@
 ---
 title: Nullity
+letter: N
 permalink: "/definitions/nullity.html"
 body: Nothing; no proceeding; an act or proceedlng in a canse whlch the op-poslte
   party may treat as though it had not taken place, or whlch has absolutely no legal

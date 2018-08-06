@@ -1,5 +1,6 @@
 ---
 title: Despoil
+letter: D
 permalink: "/definitions/despoil.html"
 body: This word involves, in Its t signification, violence or clandestine means' by
   which one is deprived of that which he " possesses. Its Spanish equivalent, despojar,

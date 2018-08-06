@@ -1,5 +1,6 @@
 ---
 title: Edicts Of Justinian
+letter: E
 permalink: "/definitions/edicts-of-justinian.html"
 body: Thirteen constitutions or laws of this prince, found in most editions of the
   Corpus Juris Civilis, after the Novels. Being confined to matters of police in the

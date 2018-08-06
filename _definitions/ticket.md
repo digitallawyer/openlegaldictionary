@@ -1,5 +1,6 @@
 ---
 title: Ticket
+letter: T
 permalink: "/definitions/ticket.html"
 body: In oontraots. A slip of paper containing a certificate that the person to whom
   it is issued, or the holder, is en-titled to some right or privilege thereln mentioned

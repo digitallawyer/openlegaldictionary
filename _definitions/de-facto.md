@@ -1,5 +1,6 @@
 ---
 title: De Facto
+letter: D
 permalink: "/definitions/de-facto.html"
 body: In fact, in deed, actunlly. This phrase is used to characterize au officer,
   a government, a past action, or a state of af-fairs which exists actually and must

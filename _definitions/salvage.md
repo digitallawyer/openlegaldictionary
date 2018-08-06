@@ -1,5 +1,6 @@
 ---
 title: Salvage
+letter: S
 permalink: "/definitions/salvage.html"
 body: In maritime law. A compensation allowed to persons by whose assist-ance a ship
   or its cargo lias been saved, in whole or in part, from Impending danger, or recovered

@@ -1,5 +1,6 @@
 ---
 title: Hostage
+letter: H
 permalink: "/definitions/hostage.html"
 body: A person who is given into the possession of the enemy, in a public war, his
   freedom (or life) to stand as security for the performance of some contract or promise

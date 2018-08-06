@@ -1,5 +1,6 @@
 ---
 title: Receptus
+letter: R
 permalink: "/definitions/receptus.html"
 body: Lat in the civil law. The name sometimes given to an arbitrator, because he
   had been received or chosen to set-tie the differences between the parties. Dig.

@@ -1,5 +1,6 @@
 ---
 title: Asphyxia
+letter: A
 permalink: "/definitions/asphyxia.html"
 body: In medical jurisprudence. A morbid condition of swooning, Buffoca-tion, or suspended
   animation, resulting in death if uot relieved, produced by any serl-ous interference

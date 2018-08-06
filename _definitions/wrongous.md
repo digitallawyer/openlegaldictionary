@@ -1,5 +1,6 @@
 ---
 title: Wrongous
+letter: W
 permalink: "/definitions/wrongous.html"
 body: In Scotch law. wrong-ful; unlawful; as wrongous imprisonment Ersk. Prin. 4,
   4, 25

@@ -1,5 +1,6 @@
 ---
 title: Suspend
+letter: S
 permalink: "/definitions/suspend.html"
 body: 'To interrupt; to cause to cease for a time; to stay, delay, or hinder; to discontinue
   temporarily, but with an ex-, pectation or purpose of resumption.'' To for-bid a

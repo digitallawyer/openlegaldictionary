@@ -1,5 +1,6 @@
 ---
 title: Rudeness
+letter: R
 permalink: "/definitions/rudeness.html"
 body: Roughness; incivilityf vio-lence Touching another with rudeness may constitute
   a battery

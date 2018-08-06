@@ -1,5 +1,6 @@
 ---
 title: Outrage
+letter: O
 permalink: "/definitions/outrage.html"
 body: Injurious violence, or, in general, any species of serious wrong offered to
   the person, feelings, or rights of another. See McKinley v. Railroad Co., 44 Iowa,

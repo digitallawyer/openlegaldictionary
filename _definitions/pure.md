@@ -1,5 +1,6 @@
 ---
 title: Pure
+letter: P
 permalink: "/definitions/pure.html"
 body: Absolute; complete; slmple; unmixed ; unqualified; free from conditions or restrictions;
   as in the phrases pure charlty, pure debt, pure obllgation, pure plea, pure vlllenage,

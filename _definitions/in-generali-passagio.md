@@ -1,5 +1,6 @@
 ---
 title: In Generali Passagio
+letter: I
 permalink: "/definitions/in-generali-passagio.html"
 body: In the general passage; that is, on the journey to Palestine with the general
   company or body of Crusaders. This term was of frequent occurrence in the old law

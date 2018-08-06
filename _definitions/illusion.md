@@ -1,5 +1,6 @@
 ---
 title: Illusion
+letter: I
 permalink: "/definitions/illusion.html"
 body: In medical jurisprudence. An image or Impression in the mind, excited by some
   external object addressing itself to one or more of the senses, bnt which, in-stead

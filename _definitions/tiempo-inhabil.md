@@ -1,5 +1,6 @@
 ---
 title: Tiempo Inhabil
+letter: T
 permalink: "/definitions/tiempo-inhabil.html"
 body: Span. A time of inability; a time when the person is not able to pay his debts,
   (when, for instance, he may not alienate property to the prejudice of his creditors.)

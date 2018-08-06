@@ -1,5 +1,6 @@
 ---
 title: Advertisement
+letter: A
 permalink: "/definitions/advertisement.html"
 body: Notice given in a manner designed to attract public attention; information communicated
   to the public, or to an Individual concerned, by means of handbills or the newspaper.

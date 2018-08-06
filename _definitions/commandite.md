@@ -1,5 +1,6 @@
 ---
 title: Commandite
+letter: C
 permalink: "/definitions/commandite.html"
 body: In French law. A spe-cial or limited partnership, where the con-tract is between
   one or more persons who are * general partners, and jointly and severally responsible,

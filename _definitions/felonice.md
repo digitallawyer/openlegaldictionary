@@ -1,5 +1,6 @@
 ---
 title: Felonice
+letter: F
 permalink: "/definitions/felonice.html"
 body: Feloniously. Anciently an indispensable word in indictments for felony, and
   classed by Lord Coke among those voces artts (words of art) which cannot be ex-pressed

@@ -1,5 +1,6 @@
 ---
 title: Ad Valorem
+letter: A
 permalink: "/definitions/ad-valorem.html"
 body: According to value. Duties are either ad valorem or speei/fc; the former when
   the duty is laid in the form of a percentage on the value of the property; the latter

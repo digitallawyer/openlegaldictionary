@@ -1,5 +1,6 @@
 ---
 title: Feme
+letter: F
 permalink: "/definitions/feme.html"
 body: L. Fr. A woman. In the phrase “baron et feme" (q. v.) the word has the sense
   of “wife.”

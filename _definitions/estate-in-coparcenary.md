@@ -1,5 +1,6 @@
 ---
 title: Estate In Coparcenary
+letter: E
 permalink: "/definitions/estate-in-coparcenary.html"
 body: An estate which several persons hold as one heir, whether male or female. This
   estate has the three unities of time, title, and possession; but the interests of

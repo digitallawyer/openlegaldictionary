@@ -1,5 +1,6 @@
 ---
 title: Pienalis
+letter: P
 permalink: "/definitions/pienalis.html"
 body: Lat. In the civil law. Pen-al; Imposing a penalty; claiming or en-forcing a
   penalty. Actiones poenales, penal actions. Inst 4, 6, 12

@@ -1,5 +1,6 @@
 ---
 title: Ferry
+letter: F
 permalink: "/definitions/ferry.html"
 body: A liberty to have a boat upon a river for the transportation of men, horses,
   and carriages with thelr contents, for a ren-sonable toll. The term is also used

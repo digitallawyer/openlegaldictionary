@@ -1,5 +1,6 @@
 ---
 title: Lordship
+letter: L
 permalink: "/definitions/lordship.html"
 body: Iu English law. Domin* lou, manor, seigniory, domain; also a title of honor
   used to a nobleman not being a duke. It is also the customary titulary appellatlon

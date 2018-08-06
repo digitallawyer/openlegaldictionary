@@ -1,5 +1,6 @@
 ---
 title: Faderfium
+letter: F
 permalink: "/definitions/faderfium.html"
 body: In old English law. A marriage gift coming from the father or brother of the
   bride

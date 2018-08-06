@@ -1,5 +1,6 @@
 ---
 title: Decims
+letter: D
 permalink: "/definitions/decims.html"
 body: In ecclesiastical law. Tenths, or tlthes. The tenth part of the annual profit
   of each living, payable formerly to the pope. There were several valuations made

@@ -1,5 +1,6 @@
 ---
 title: Highway
+letter: H
 permalink: "/definitions/highway.html"
 body: A free and pnblic road, way, or street; one which every person has the right
   to use. Abbott v. Duluth (C. C.) 104 Fed. 837; Shelby County Com’rs v. Cas-tetter,

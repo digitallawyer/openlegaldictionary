@@ -1,5 +1,6 @@
 ---
 title: Referendarius
+letter: R
 permalink: "/definitions/referendarius.html"
 body: An officer by whom the order of causes was laid before the Roman emperor, the
   desires of petitioners made known, and answers returned to them. Vicat, Voc. Jur.;

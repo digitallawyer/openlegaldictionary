@@ -1,5 +1,6 @@
 ---
 title: Over
+letter: O
 permalink: "/definitions/over.html"
 body: Iu conveyancing, the word “over" is used to deuote a contingent limitation In-tended
   to take effect on the failure of a prior estate. Thus, in wbat is commonly called

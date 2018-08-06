@@ -1,5 +1,6 @@
 ---
 title: Tempest
+letter: T
 permalink: "/definitions/tempest.html"
 body: A violent or furious storm; a current of wind rushing with extreme violence,
   and usually accompanied with rain or snow. See Stover v. Insurance Co., 3 Phila.

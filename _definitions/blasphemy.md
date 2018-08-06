@@ -1,5 +1,6 @@
 ---
 title: Blasphemy
+letter: B
 permalink: "/definitions/blasphemy.html"
 body: In English l*w. Blasphemy is the offense of speaking matter relating to God,
   Jesaq Christ, the Bible, or the Book of Common Prayer, intended to wound the feelings

@@ -1,5 +1,6 @@
 ---
 title: Thalweg
+letter: T
 permalink: "/definitions/thalweg.html"
 body: Germ.. A term used in topography to designate a line representing the deepest
   part of a continuous depression in the surface, such as a watercourse; hence the

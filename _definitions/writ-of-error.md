@@ -1,5 +1,6 @@
 ---
 title: Writ Of Error
+letter: W
 permalink: "/definitions/writ-of-error.html"
 body: A writ issued from a court of appellate jurisdiction, directed to the judge
   or judges of a court of record, re-qulring them to remit to the appellate court

@@ -1,5 +1,6 @@
 ---
 title: Notary Public
+letter: N
 permalink: "/definitions/notary-public.html"
 body: A public officer whose function ia to attest and certify, by his hand and official
   seal, certain classes of documents, in order to give them credit and authenticity

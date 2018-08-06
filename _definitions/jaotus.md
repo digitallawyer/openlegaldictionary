@@ -1,5 +1,6 @@
 ---
 title: Jaotus
+letter: J
 permalink: "/definitions/jaotus.html"
 body: A throwing goods overboard to llghten or save the vessel, in whlch case the
   goods so sacrificed are a proper subject for general average. Dig. 14, 2, “de lege

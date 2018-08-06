@@ -1,5 +1,6 @@
 ---
 title: Innuendo
+letter: I
 permalink: "/definitions/innuendo.html"
 body: This Latin word (comnion-ly translated “meaning”) was the technical beginning
   of that clause in a declaration or indictment for slander or libel in which the

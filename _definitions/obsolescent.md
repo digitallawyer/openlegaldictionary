@@ -1,5 +1,6 @@
 ---
 title: Obsolescent
+letter: O
 permalink: "/definitions/obsolescent.html"
 body: 'Becoming obsolete: going out of use; not entirely disused, but gradually becoming
   so'

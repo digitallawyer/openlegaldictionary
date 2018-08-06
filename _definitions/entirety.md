@@ -1,5 +1,6 @@
 ---
 title: Entirety
+letter: E
 permalink: "/definitions/entirety.html"
 body: The whole, in contradls-tinctlon to, a moiety or part only, when land is conveyed
   to husband and wife, they do not take by moieties, hut both are seised of the entirety.

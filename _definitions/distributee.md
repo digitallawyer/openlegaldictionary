@@ -1,5 +1,6 @@
 ---
 title: Distributee
+letter: D
 permalink: "/definitions/distributee.html"
 body: An heir; a person en-titled to share in the distribution of an es-tate. This
   term is admissible to denote one of the persons who are entitled, under the statute

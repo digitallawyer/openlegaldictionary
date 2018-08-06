@@ -1,5 +1,6 @@
 ---
 title: En Owel Main
+letter: E
 permalink: "/definitions/en-owel-main.html"
 body: L. Fr. In equal hand. The word “otcel” occurs also in the phrase "owelty ot
   partition.”

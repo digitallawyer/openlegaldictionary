@@ -1,5 +1,6 @@
 ---
 title: Appello
+letter: A
 permalink: "/definitions/appello.html"
 body: Lat. Iu the civil law. 1 appeal. The form of making an appeal apud acta. Dig.
   49, 1, 2

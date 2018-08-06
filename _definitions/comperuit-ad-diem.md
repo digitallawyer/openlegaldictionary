@@ -1,5 +1,6 @@
 ---
 title: Comperuit Ad Diem
+letter: C
 permalink: "/definitions/comperuit-ad-diem.html"
 body: In practlce. A plea in an action of debt on a bail bond that the defendant appeared
   at the day required

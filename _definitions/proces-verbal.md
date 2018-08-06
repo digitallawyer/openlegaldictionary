@@ -1,5 +1,6 @@
 ---
 title: Proces Verbal
+letter: P
 permalink: "/definitions/proces-verbal.html"
 body: In French law. A written report, whlch is signed, setting forth a statement
   of facts. This term is applled to the report proving the meeting and the resolutions

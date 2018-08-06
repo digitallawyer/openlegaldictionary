@@ -1,5 +1,6 @@
 ---
 title: Draftsman
+letter: D
 permalink: "/definitions/draftsman.html"
 body: Any one who draws or frames a legal document, e.g., a will, con-veyance, pleading,
   etc

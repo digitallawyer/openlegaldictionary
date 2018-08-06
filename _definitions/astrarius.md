@@ -1,5 +1,6 @@
 ---
 title: Astrarius
+letter: A
 permalink: "/definitions/astrarius.html"
 body: In old Engllsh iaw. A householder; belonging to the house; a per-son in actual
   possession of a house

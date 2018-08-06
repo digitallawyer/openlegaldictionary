@@ -1,5 +1,6 @@
 ---
 title: Forisfactus
+letter: F
 permalink: "/definitions/forisfactus.html"
 body: A criminal, one who has forfeited his life by commission of a capital offeuse.
   Spelman

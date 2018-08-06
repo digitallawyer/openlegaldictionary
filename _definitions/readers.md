@@ -1,5 +1,6 @@
 ---
 title: Readers
+letter: R
 permalink: "/definitions/readers.html"
 body: In the middle temple, those persons were so called who were appointed to deliver
   lectures or “readings” at certain periods during term. The clerks in holy or-ders

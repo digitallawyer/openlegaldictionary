@@ -1,5 +1,6 @@
 ---
 title: De Averiis Captis In Wither-Namium
+letter: D
 permalink: "/definitions/de-averiis-captis-in-wither-namium.html"
 body: writ for taking cattle in wlth-ernam. A writ which lay where the sheriff returned
   to a plurics writ of replevin that the cattle or goods, etc., were eloined. etc.;

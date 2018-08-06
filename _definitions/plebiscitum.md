@@ -1,5 +1,6 @@
 ---
 title: Plebiscitum
+letter: P
 permalink: "/definitions/plebiscitum.html"
 body: Lat. In Roman law. A law enacted by the plcbs or commonalty, (that is, the dtizens,
   with the exceptlon of

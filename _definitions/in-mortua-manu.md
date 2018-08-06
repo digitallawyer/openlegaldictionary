@@ -1,5 +1,6 @@
 ---
 title: In Mortua Manu
+letter: I
 permalink: "/definitions/in-mortua-manu.html"
 body: Property owned by religions societies was said to be held in mortua manu, or
   in mortmain, since religions men were civiliter mortui. 1 Bl. Comm. 479; Tayl. Gloss

@@ -1,5 +1,6 @@
 ---
 title: Shifting
+letter: S
 permalink: "/definitions/shifting.html"
 body: Changlng; varylng; pass-lng from one person to another by substltu-tlon. “Shlftlng
   the burden of proof" is transferrlng it from one party to the other, or from one

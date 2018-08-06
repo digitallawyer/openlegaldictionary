@@ -1,5 +1,6 @@
 ---
 title: Toxicology
+letter: T
 permalink: "/definitions/toxicology.html"
 body: GY. The science ot poisons; that department of medical science which treats
   of poisons, their effect, their recog-nition, their antidotes, and generally of

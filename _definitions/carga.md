@@ -1,5 +1,6 @@
 ---
 title: Carga
+letter: C
 permalink: "/definitions/carga.html"
 body: In Spanlsh law. An Incumbrance; a charge, white, New Recop. b. 2, tlt 13, c.
   2, | 2

@@ -1,5 +1,6 @@
 ---
 title: Extort
+letter: E
 permalink: "/definitions/extort.html"
 body: The natural meaning of the* word “extort" is to obtain money or other valuable
   thing either by compulsion, by actual force, or by the force of motives applled

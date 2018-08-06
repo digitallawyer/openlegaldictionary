@@ -1,5 +1,6 @@
 ---
 title: Roster
+letter: R
 permalink: "/definitions/roster.html"
 body: A list of persons who are to perform certain legal duties when called upon in
   -their turn. In military affairs it is a table or plan by which the duty of officers

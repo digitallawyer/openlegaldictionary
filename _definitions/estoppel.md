@@ -1,5 +1,6 @@
 ---
 title: Estoppel
+letter: E
 permalink: "/definitions/estoppel.html"
 body: A bar or impedlment rais-ed by the law, which precludes a man from alleging
   or from denying a certain fact or state of facts, in consequence of his previous

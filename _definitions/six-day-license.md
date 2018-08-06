@@ -1,5 +1,6 @@
 ---
 title: Six-Day License
+letter: S
 permalink: "/definitions/six-day-license.html"
 body: In Engllsh law. A liquor license, containing a condition that the premises in
   respect of which the license is granted shall be closed during the whole of Sunday,

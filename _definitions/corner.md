@@ -1,5 +1,6 @@
 ---
 title: Corner
+letter: C
 permalink: "/definitions/corner.html"
 body: A combination among the dealers in a specific commodity, or outside capitalists,
   for the purpose of buying up the greater portion of that commodity which is upou

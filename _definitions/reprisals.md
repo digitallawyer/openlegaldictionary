@@ -1,5 +1,6 @@
 ---
 title: Reprisals
+letter: R
 permalink: "/definitions/reprisals.html"
 body: The forcibly taking a thing by one nation which belonged to another, in return
   or satisfaction for an injury committed by the latter on the former. Vat« tel, b.

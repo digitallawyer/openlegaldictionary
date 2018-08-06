@@ -1,5 +1,6 @@
 ---
 title: Immobilis
+letter: I
 permalink: "/definitions/immobilis.html"
 body: Let Immovable. Immobilia or res immobiles, immovable things, such as lands and
   buddings. Mackeld. Rom. Law, 1160

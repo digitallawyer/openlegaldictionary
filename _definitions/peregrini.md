@@ -1,5 +1,6 @@
 ---
 title: Peregrini
+letter: P
 permalink: "/definitions/peregrini.html"
 body: Lat in Roman law. The class of peregrini embraced at the same time both those
   yho had no capacity in law, (capacity for rights or jural relations,) namely, the

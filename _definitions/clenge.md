@@ -1,5 +1,6 @@
 ---
 title: Clenge
+letter: C
 permalink: "/definitions/clenge.html"
 body: In old Scotch law. To dear or acquit of a criminal charge. Literally, to cleanse
   or clean

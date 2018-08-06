@@ -1,5 +1,6 @@
 ---
 title: Republic
+letter: R
 permalink: "/definitions/republic.html"
 body: A commonwealth; a form of government which derives all Its powers dlrectly or
   indirectly from the general body of citizens, and in which the executive power is

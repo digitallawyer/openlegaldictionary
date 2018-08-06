@@ -1,5 +1,6 @@
 ---
 title: Anno Domini
+letter: A
 permalink: "/definitions/anno-domini.html"
 body: In the year of the Lord. Commonly abbreviated A. D. The computation of time,
   accordlng to the Christian era, dates from the birth of Christ

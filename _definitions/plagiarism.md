@@ -1,5 +1,6 @@
 ---
 title: Plagiarism
+letter: P
 permalink: "/definitions/plagiarism.html"
 body: The act of appropriating, the literary composition of another, or parts or passages
   of hls writings, or tbe Ideas or language of the same, and passlng them off as the

@@ -1,5 +1,6 @@
 ---
 title: Peers Of Fees
+letter: P
 permalink: "/definitions/peers-of-fees.html"
 body: Vassals or tenants of the same lord, who were obliged to serve and attend him
   in hls courts, being equal in function. These were termed “peers of fees,” because

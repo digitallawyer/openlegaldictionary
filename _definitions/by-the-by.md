@@ -1,5 +1,6 @@
 ---
 title: By The By
+letter: B
 permalink: "/definitions/by-the-by.html"
 body: Incidentally; without new process. A term used in former Engllsh practice to
   denote the method of filing a dec-laration against a defendant who was al-ready

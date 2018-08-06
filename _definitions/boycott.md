@@ -1,5 +1,6 @@
 ---
 title: Boycott
+letter: B
 permalink: "/definitions/boycott.html"
 body: A conspiracy formed and in-tended directly or indirectly to prevent the carrying
   on of any lawful business, or to injure the business of any one by wrongfully preventing

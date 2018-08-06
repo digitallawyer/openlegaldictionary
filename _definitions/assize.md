@@ -1,5 +1,6 @@
 ---
 title: Assize
+letter: A
 permalink: "/definitions/assize.html"
 body: or ASSIZE. 1. An ancient species of court, consisting of a certain number of
   men, usually twelve, who were sum-moned together to try a disputed cause, per-formiug

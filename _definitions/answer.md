@@ -1,5 +1,6 @@
 ---
 title: Answer
+letter: A
 permalink: "/definitions/answer.html"
 body: In pleading. Any pleading setting up matters of fact by way of defense. In chancery
   pleading, the term denotes a defense in writing, made by a defendant to the allegations

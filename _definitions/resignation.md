@@ -1,5 +1,6 @@
 ---
 title: Resignation
+letter: R
 permalink: "/definitions/resignation.html"
 body: The act by which an ofiicer renounces the further exercise of his ofiice and
   returns the same into the hands of those from whom he received it

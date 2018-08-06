@@ -1,5 +1,6 @@
 ---
 title: Hard Labor
+letter: H
 permalink: "/definitions/hard-labor.html"
 body: A punlshment, addi-tional to mere imprisonment, sometimes im-posed upon convicts
   sentenced to a penitentiary. But the labor is not, as a rule, any harder than ordinary

@@ -1,5 +1,6 @@
 ---
 title: Client
+letter: C
 permalink: "/definitions/client.html"
 body: A person who employs or re-tains an nttorney, or counsellor, to nppear for him
   in courts, ndvise, assist, nnd defend him in legal proceedings, and to nct for him

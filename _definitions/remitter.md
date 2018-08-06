@@ -1,5 +1,6 @@
 ---
 title: Remitter
+letter: R
 permalink: "/definitions/remitter.html"
 body: The relation back of a later defective title to an earlier valid title. Remitter
   is where he who has the true property or jus proprietatis in lands, but is out of

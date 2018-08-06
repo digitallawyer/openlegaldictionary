@@ -1,5 +1,6 @@
 ---
 title: Reverter
+letter: R
 permalink: "/definitions/reverter.html"
 body: Reversion. A possibility of reverter is that species of reversionary interest
   whlch exists when the grant is so llmited that it may possibly terminate. 1 washb.

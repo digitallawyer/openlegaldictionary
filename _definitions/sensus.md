@@ -1,5 +1,6 @@
 ---
 title: Sensus
+letter: S
 permalink: "/definitions/sensus.html"
 body: Lat. Sense, meaning, slgniflca-tion. Malo sensu, in an evil or derogatory sense.
   Mitiori sensu, in a milder, less se-vere, or less stringent sense. Sensu honesto,

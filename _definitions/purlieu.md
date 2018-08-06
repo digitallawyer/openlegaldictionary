@@ -1,5 +1,6 @@
 ---
 title: Purlieu
+letter: P
 permalink: "/definitions/purlieu.html"
 body: In English law. A space of land near a royal forest, which, belng severed from
   it, was made purlieu; that is, pure or free from the forest laws

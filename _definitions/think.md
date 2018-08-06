@@ -1,5 +1,6 @@
 ---
 title: Think
+letter: T
 permalink: "/definitions/think.html"
 body: NK. In a special finding by a Jury, this word is equivalent to "believe,” and
   ex-presses the conclusion of the jury with suffl-cient positiveness. Martin v. Central

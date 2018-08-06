@@ -1,5 +1,6 @@
 ---
 title: Field Reeve
+letter: F
 permalink: "/definitions/field-reeve.html"
 body: An officer elected, in England, by the owners of a regulated pas-‘ ture to keep
   in order the fences, ditches, etc.,’ on the land, to regulate the times during which

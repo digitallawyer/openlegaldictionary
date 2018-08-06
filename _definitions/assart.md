@@ -1,5 +1,6 @@
 ---
 title: Assart
+letter: A
 permalink: "/definitions/assart.html"
 body: In English lnw. The offense committed in the forest, by pulling up the trees
   by tlie roots that are thickets and coverts for deer, and making the ground plain

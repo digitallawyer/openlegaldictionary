@@ -1,5 +1,6 @@
 ---
 title: Faithfully
+letter: F
 permalink: "/definitions/faithfully.html"
 body: As used in bonds of pub-lic aud private officers, this term imports not only
   honesty, but also a punctilious discharge of all the duties of the office, requiring

@@ -1,5 +1,6 @@
 ---
 title: Writ Of Mainprize
+letter: W
 permalink: "/definitions/writ-of-mainprize.html"
 body: In English law. A writ dlrected to the sherlff, (either generally, wben any
   man is Imprisoned for a bailable offense and bail has been refused, or specially,

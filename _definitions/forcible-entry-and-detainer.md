@@ -1,5 +1,6 @@
 ---
 title: Forcible Entry And Detainer
+letter: F
 permalink: "/definitions/forcible-entry-and-detainer.html"
 body: The action of forcible entry and detainer is a summary proceeding to recover
   possession of premises forcibly or unlawfully detained. The inquiry in such cases

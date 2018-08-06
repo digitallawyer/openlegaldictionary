@@ -1,5 +1,6 @@
 ---
 title: Anaesthesia
+letter: A
 permalink: "/definitions/anaesthesia.html"
 body: In medical jurisprudence. (1) Loss of sensatlon, or insensibility to paln, general
   or local, induced by the ad-ministration or application of certaiu drugs such as

@@ -1,5 +1,6 @@
 ---
 title: Marshaling
+letter: M
 permalink: "/definitions/marshaling.html"
 body: Arranging, ranklng, or disposing in order; particularly, in the case of a group
   or series of conflicting clalms or Interests, arranging them in such an order of

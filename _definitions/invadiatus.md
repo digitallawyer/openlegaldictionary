@@ -1,5 +1,6 @@
 ---
 title: Invadiatus
+letter: I
 permalink: "/definitions/invadiatus.html"
 body: one who is under pledge; one wbo has had sureties or pledges given for him.
   Spelman

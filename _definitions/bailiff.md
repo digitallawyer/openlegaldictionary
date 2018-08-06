@@ -1,5 +1,6 @@
 ---
 title: Bailiff
+letter: B
 permalink: "/definitions/bailiff.html"
 body: In a general sense, a person to whom some authority, care, guardianship, or
   jurisdiction is delivered, committed, or intrusted; one who is deputed or ap-pointed

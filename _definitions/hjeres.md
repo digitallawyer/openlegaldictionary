@@ -1,5 +1,6 @@
 ---
 title: Hjeres
+letter: H
 permalink: "/definitions/hjeres.html"
 body: In Roman law. The heir, or universal successor in the event of death. The helr
   is he who actively or passively suc-eeeds to the entire property of the estate-leaver.

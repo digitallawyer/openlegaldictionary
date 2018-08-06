@@ -1,5 +1,6 @@
 ---
 title: Tangible Property
+letter: T
 permalink: "/definitions/tangible-property.html"
 body: Property which may be touched; such as is perceptible to the senses; corporeal
   property, whether real or personal. The phrase is used in op-position to such species

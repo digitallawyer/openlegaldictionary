@@ -1,5 +1,6 @@
 ---
 title: Custom-House
+letter: C
 permalink: "/definitions/custom-house.html"
 body: In administrative law. Tbe house or office where commodities are entered for
   importation or exportation

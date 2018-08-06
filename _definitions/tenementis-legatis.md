@@ -1,5 +1,6 @@
 ---
 title: Tenementis Legatis
+letter: T
 permalink: "/definitions/tenementis-legatis.html"
 body: An ancient writ, lying to the city of London, or any oth-er corporation, (where
   the old custom was that men mlght devise by will lands and tenements, as well as

@@ -1,5 +1,6 @@
 ---
 title: Fecial Law
+letter: F
 permalink: "/definitions/fecial-law.html"
 body: The nearest approach to a system of International law known to the ancient world.
   It was a branch of Roman Jurisprudence, concerned with embassies, declarations of

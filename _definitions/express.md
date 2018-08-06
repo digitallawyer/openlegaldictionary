@@ -1,5 +1,6 @@
 ---
 title: Express
+letter: E
 permalink: "/definitions/express.html"
 body: Made known distinctly and explicitly, and not left to inference or im-plication.
   Declared in terms; set forth in words. Manifested by direct and appropri-ate language,

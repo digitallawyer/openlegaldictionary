@@ -1,5 +1,6 @@
 ---
 title: Mortmain
+letter: M
 permalink: "/definitions/mortmain.html"
 body: A term applied to denote the alienation of lands or tenements to any corporation,
   sole or aggregate, ecclesiastical or temporal. These purchases havlng been chiefly

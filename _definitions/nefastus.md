@@ -1,5 +1,6 @@
 ---
 title: Nefastus
+letter: N
 permalink: "/definitions/nefastus.html"
 body: Lat Inauspicious. Applied, in the Roman law, to a day on which it was unlawful
   to open the courts or admin-ister justice

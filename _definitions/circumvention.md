@@ -1,5 +1,6 @@
 ---
 title: Circumvention
+letter: C
 permalink: "/definitions/circumvention.html"
 body: In Scotch law. Any act of fraud whereby a person is reduced to a deed by decreet.
   It has the same sense In the clvll law. Dig. 50, 17, 49, 155. And see oregon v.

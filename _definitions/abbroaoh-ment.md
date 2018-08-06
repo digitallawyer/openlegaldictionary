@@ -1,5 +1,6 @@
 ---
 title: Abbroaoh-Ment
+letter: A
 permalink: "/definitions/abbroaoh-ment.html"
 body: or ABBROAOH-MENT. The act of forestalling a market, by buying up at wholesale
   the merchandise intended to be sold there, for the purpose of selling it at retail.

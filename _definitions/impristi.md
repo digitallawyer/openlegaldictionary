@@ -1,5 +1,6 @@
 ---
 title: Impristi
+letter: I
 permalink: "/definitions/impristi.html"
 body: Adherents; followers. Those who slde wlth or take the part of another, either
   in his defense or otherwise

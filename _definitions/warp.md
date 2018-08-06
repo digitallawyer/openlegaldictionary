@@ -1,5 +1,6 @@
 ---
 title: Warp
+letter: W
 permalink: "/definitions/warp.html"
 body: A rope attached to some fixed point, used for moving a ship. Pub. St Mass. 1882,
   p. 1297

@@ -1,5 +1,6 @@
 ---
 title: Bailee
+letter: B
 permalink: "/definitions/bailee.html"
 body: 'In the law of contracts, one to whom goods are bailed: the party to whom personal
   property is delivered under a contract of bailment. Phelps v. People, 72 N. ¥. 35V:

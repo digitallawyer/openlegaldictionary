@@ -1,5 +1,6 @@
 ---
 title: Consummate
+letter: C
 permalink: "/definitions/consummate.html"
 body: Completed; as distiu-guished from initiate, or that which is mere-ly begun.
   Tbe husband of a woman seised of an estate of inheritance becomes, by the birth

@@ -1,5 +1,6 @@
 ---
 title: Bark
+letter: B
 permalink: "/definitions/bark.html"
 body: Is sometimes figuratively used to deuote the mere words or letter of an instru-ment,
   or outer covering of the ideas sought to be expressed, as distinguished from its

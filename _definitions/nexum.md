@@ -1,5 +1,6 @@
 ---
 title: Nexum
+letter: N
 permalink: "/definitions/nexum.html"
 body: Lat. In Roman law. In an-cient tlmes the neaeum seems to have been a species
   of formal contract, involving a loan of money, and attended wlth peculiar conse-quences,

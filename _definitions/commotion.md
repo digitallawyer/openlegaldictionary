@@ -1,5 +1,6 @@
 ---
 title: Commotion
+letter: C
 permalink: "/definitions/commotion.html"
 body: A “civil commotton" is nn insurrection bf the people for general purposes, though
   it may not amount to re

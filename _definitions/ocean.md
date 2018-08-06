@@ -1,5 +1,6 @@
 ---
 title: Ocean
+letter: O
 permalink: "/definitions/ocean.html"
 body: The main or open sea; the high sea; that portion of the sea which does not lie
   within the body of any country and is not subject to the territorial jurisdiction

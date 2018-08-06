@@ -1,5 +1,6 @@
 ---
 title: Scold
+letter: S
 permalink: "/definitions/scold.html"
 body: A troublesome and angry woman, who, by brawling and wrangling among her neighbors,
   breaks the public pence, in-creases discord, and becomes a public nui-sance to the

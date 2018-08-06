@@ -1,5 +1,6 @@
 ---
 title: Verdict
+letter: V
 permalink: "/definitions/verdict.html"
 body: In practice. The formal nnd unanimous decision or fluding of a jury, im-paneled
   and sworn for the trial of a canse, npon the matters or questions duly submitted

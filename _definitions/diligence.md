@@ -1,5 +1,6 @@
 ---
 title: Diligence
+letter: D
 permalink: "/definitions/diligence.html"
 body: 'Prudence; vigilant activity; attentiveness; or care, of which there are Infinite
   shades, from the slightest momentary thought to the most vigilant ahx5> lety; but

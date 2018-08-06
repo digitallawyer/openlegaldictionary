@@ -1,5 +1,6 @@
 ---
 title: Et Kabuit
+letter: E
 permalink: "/definitions/et-kabuit.html"
 body: And he had it A common phrase in the Year Books, expressive of the allowance
   of an appllcatlon or demand by a party. Pam. demanda la view. Et habuit, etc. M.

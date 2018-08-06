@@ -1,5 +1,6 @@
 ---
 title: Not Guilty By Statute
+letter: N
 permalink: "/definitions/not-guilty-by-statute.html"
 body: In English practice. A plea of the general issue by a defendant in a civil'
   action, when he intends to give special matter in evidence by virtue of some act

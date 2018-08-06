@@ -1,5 +1,6 @@
 ---
 title: Popular Sense
+letter: P
 permalink: "/definitions/popular-sense.html"
 body: In reference to the construction of a statute, thls term means that sense which
   people conversant with the subject-matter with jvhlch the statute is dealing would

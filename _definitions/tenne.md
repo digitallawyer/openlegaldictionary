@@ -1,5 +1,6 @@
 ---
 title: Tenne
+letter: T
 permalink: "/definitions/tenne.html"
 body: A term of heraldry, meaning orange color. In engravings it should he represented
   by lines In bend sinister crossed by others bar-ways. Heralds who blazon by the

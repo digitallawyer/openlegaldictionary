@@ -1,5 +1,6 @@
 ---
 title: Slay
+letter: S
 permalink: "/definitions/slay.html"
 body: This word, in an indictment, adds nothing to the force and effect of the word
   ‘•kill,” when used with reference to the tak-ing of human life. It is particularly

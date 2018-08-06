@@ -1,5 +1,6 @@
 ---
 title: Translative Fact
+letter: T
 permalink: "/definitions/translative-fact.html"
 body: A fact by mea ne of wbich a right is transferred or passes from one person to
   another; one, that is, which fulfills the double function of terminating the right

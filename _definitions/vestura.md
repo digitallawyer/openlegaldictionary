@@ -1,5 +1,6 @@
 ---
 title: Vestura
+letter: V
 permalink: "/definitions/vestura.html"
 body: A crop of grass or corn. Also a garment; metaphorically applied to a possession
   or seisin

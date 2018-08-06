@@ -1,5 +1,6 @@
 ---
 title: Daily
+letter: D
 permalink: "/definitions/daily.html"
 body: Every day; every day in the week; every day in the week except one. A newspaper
   which is published six days in each week is a “daily’’ newspaper. Rlchard-son v.

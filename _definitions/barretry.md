@@ -1,5 +1,6 @@
 ---
 title: Barretry
+letter: B
 permalink: "/definitions/barretry.html"
 body: In criminal law. The act or ofTense of a bapretor, (q. v.;) usually call-ed
   “common barretry.” The offense of fre-quently exciting and stirring up suits and

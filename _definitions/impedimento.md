@@ -1,5 +1,6 @@
 ---
 title: Impedimento
+letter: I
 permalink: "/definitions/impedimento.html"
 body: In Spanish law. A prohibition to contract marriage, established by law between
   certain persons

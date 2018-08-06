@@ -1,5 +1,6 @@
 ---
 title: Transcript
+letter: T
 permalink: "/definitions/transcript.html"
 body: An official copy of cer-tain proceedings in a court. Thus, any per-son interested
   in a judgment or other record of a court can obtain a transcript of it. U. S. v.

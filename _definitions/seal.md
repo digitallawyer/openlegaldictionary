@@ -1,5 +1,6 @@
 ---
 title: Seal
+letter: S
 permalink: "/definitions/seal.html"
 body: An impression upon wax, wafer, or some otber tenacious substance capable of
   being impressed. Allen v. Sullivan R. Co., 32 N. H. 449; Solon v. williamsburgh

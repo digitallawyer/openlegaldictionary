@@ -1,5 +1,6 @@
 ---
 title: Negligent Escape
+letter: N
 permalink: "/definitions/negligent-escape.html"
 body: An escape from confinement effected by the prisoner without the knowledge or
   connivance of the keeper of the prison, but which waB made possible or practicable

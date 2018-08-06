@@ -1,5 +1,6 @@
 ---
 title: United States Bonds
+letter: U
 permalink: "/definitions/united-states-bonds.html"
 body: obligations for payment of money which have been at various times Issued by
   .the government of the United States

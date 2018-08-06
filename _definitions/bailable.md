@@ -1,5 +1,6 @@
 ---
 title: Bailable
+letter: B
 permalink: "/definitions/bailable.html"
 body: Capable of being hailed; admitting of bail; authorizing or requiring bail. A
   bailable action is one in which the defendant cannot be released from arrest except

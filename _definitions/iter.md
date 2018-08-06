@@ -1,5 +1,6 @@
 ---
 title: Iter
+letter: I
 permalink: "/definitions/iter.html"
 body: 'Lat in tbe oivil law. A way; a right of way belonging as a servitude to an
   estate in the country, (preedium rusticum.) The right of way was of three kinds:

@@ -1,5 +1,6 @@
 ---
 title: Ascent
+letter: A
 permalink: "/definitions/ascent.html"
 body: Passage upwards; the trans-mission of an estate from the ancestor to tbe heir
   in the ascending line. See 4 Kent. Comm. 393, 397

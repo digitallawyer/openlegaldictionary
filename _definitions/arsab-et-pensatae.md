@@ -1,5 +1,6 @@
 ---
 title: Arsab Et Pensatae
+letter: A
 permalink: "/definitions/arsab-et-pensatae.html"
 body: Burnt and weighed. A term formerly applied to money tested or assayed by fire
   and by weighing

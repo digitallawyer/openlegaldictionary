@@ -1,5 +1,6 @@
 ---
 title: Excusable
+letter: E
 permalink: "/definitions/excusable.html"
 body: Admitting of excuse or palliation. As used in the law, this word implies that
   the act or omission spoken of is on its face unlawful, wrong, or liable to entail

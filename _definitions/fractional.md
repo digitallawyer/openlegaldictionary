@@ -1,5 +1,6 @@
 ---
 title: Fractional
+letter: F
 permalink: "/definitions/fractional.html"
 body: As applied to tracts of land, particularly townships, sections, quar-ter sections,
   and other divisions according to the government survey, and aiso mining claims,

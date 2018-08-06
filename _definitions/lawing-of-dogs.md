@@ -1,5 +1,6 @@
 ---
 title: Lawing Of Dogs
+letter: L
 permalink: "/definitions/lawing-of-dogs.html"
 body: The cutting sev-eral claws of the forefeet of dogs in the for-est, to prevent
   their running at deer

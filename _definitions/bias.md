@@ -1,5 +1,6 @@
 ---
 title: Bias
+letter: B
 permalink: "/definitions/bias.html"
 body: Inclination; bent; prepossession; a preconceived opinion; a predisposition to
   decide a cause or an issue in a certain way, which does not leave the mind perfectly

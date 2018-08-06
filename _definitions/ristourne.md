@@ -1,5 +1,6 @@
 ---
 title: Ristourne
+letter: R
 permalink: "/definitions/ristourne.html"
 body: Fr. In insurance law; the dissolution of a policy or contract of insurance for
   any cause. Emerig. Tralte des Assur. c. 16

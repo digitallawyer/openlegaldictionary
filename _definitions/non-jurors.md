@@ -1,5 +1,6 @@
 ---
 title: Non-Jurors
+letter: N
 permalink: "/definitions/non-jurors.html"
 body: In English law. Per-sons who refuse to take the oaths, required by law, to support
   the government

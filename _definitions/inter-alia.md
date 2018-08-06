@@ -1,5 +1,6 @@
 ---
 title: Inter Alia
+letter: I
 permalink: "/definitions/inter-alia.html"
 body: Among other things. A term anciently used in pleading, especially in recitlng
   statutes, where the whole statute was not set forth at length. Inter alia enactatum

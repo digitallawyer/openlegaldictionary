@@ -1,5 +1,6 @@
 ---
 title: Per Autre Vie
+letter: P
 permalink: "/definitions/per-autre-vie.html"
 body: L. Fr. For or during another’s life; for snch period as an-other person shall
   live

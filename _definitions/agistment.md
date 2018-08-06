@@ -1,5 +1,6 @@
 ---
 title: Agistment
+letter: A
 permalink: "/definitions/agistment.html"
 body: The taking in of another person’s cattle to be fed, or to pasture, upon one’s
   own land, in consideration of an agreed price to he paid by the owner. Also the

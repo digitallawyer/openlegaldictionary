@@ -1,5 +1,6 @@
 ---
 title: Cadastre
+letter: C
 permalink: "/definitions/cadastre.html"
 body: In Spanish lnw. An official statement of the quantity and value of real property
   in any district, made for the pur-pose of justly apportioning the taxes payable

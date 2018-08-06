@@ -1,5 +1,6 @@
 ---
 title: Spittle
+letter: S
 permalink: "/definitions/spittle.html"
 body: or SPITTLE. A charitable foundation; a hospital for diseased people; a hospital.
   Cowell

@@ -1,5 +1,6 @@
 ---
 title: Adjudge
+letter: A
 permalink: "/definitions/adjudge.html"
 body: To pass upon judicially; to decide, settle, or decree; to sentence or condemn.
   webb v. Bidwell, 15 Minn. 479, (Gil. 394;) western Assur. Co. v. Klein, 48 Neb.

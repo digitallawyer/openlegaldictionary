@@ -1,5 +1,6 @@
 ---
 title: Assecurator
+letter: A
 permalink: "/definitions/assecurator.html"
 body: In maritime law. An insurer, (aversor periculi.) Locc. de Jure Mar. lib. 2,
   c. 5, fi 10

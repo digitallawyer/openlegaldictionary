@@ -1,5 +1,6 @@
 ---
 title: Catals
+letter: C
 permalink: "/definitions/catals.html"
 body: Goods and chattels. See Ca-talla
 published_at: '2018-07-07'

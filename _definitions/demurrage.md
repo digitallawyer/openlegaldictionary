@@ -1,5 +1,6 @@
 ---
 title: Demurrage
+letter: D
 permalink: "/definitions/demurrage.html"
 body: In maritime law. The sum whlch is fixed by the contract of car-rlage, or whlch
   is allowed, as remuneration to the owner of a ship for the detention of his vessel

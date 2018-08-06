@@ -1,5 +1,6 @@
 ---
 title: Rescous
+letter: R
 permalink: "/definitions/rescous.html"
 body: Rescue. The taking back by force goods which had been taken under a distress,
   or the violently taking away a man who is nnder arrest, and setting him at liberty,

@@ -1,5 +1,6 @@
 ---
 title: Soit
+letter: S
 permalink: "/definitions/soit.html"
 body: Fr. Let it be; ' be it so. A term used in several Law-French phrases employ-ed
   in English law, particularly as expressive of the will or assent of the sovereign

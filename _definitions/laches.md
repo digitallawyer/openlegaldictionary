@@ -1,5 +1,6 @@
 ---
 title: Laches
+letter: L
 permalink: "/definitions/laches.html"
 body: 'Negligence, consisting in the omission of something which a party might do,
   and might reasonably he expected to do, towards the vindication or enforcement of

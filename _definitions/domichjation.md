@@ -1,5 +1,6 @@
 ---
 title: Domichjation
+letter: D
 permalink: "/definitions/domichjation.html"
 body: In Spanish law. The acquisition of domiciliary rights and status, nearly equivalent
   to naturalization, which may be accomplished by belng born in the kingdom, by conversion

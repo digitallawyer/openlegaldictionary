@@ -1,5 +1,6 @@
 ---
 title: Dissolution Of Parliament
+letter: D
 permalink: "/definitions/dissolution-of-parliament.html"
 body: The crown may dissolve parliament either in person or by proclamation; the dissolution
   is usually by proclamation, after a prorogation. No parliament may last for a longer

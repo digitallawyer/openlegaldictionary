@@ -1,5 +1,6 @@
 ---
 title: Contingent
+letter: C
 permalink: "/definitions/contingent.html"
 body: Possible, but not assur-ed; doubtful or uncertain, conditioned upon the occurrence
   of some future event which is Itself uncertain, or questionable. Verdler v. Roach,

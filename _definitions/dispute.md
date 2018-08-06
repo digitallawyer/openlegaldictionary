@@ -1,5 +1,6 @@
 ---
 title: Dispute
+letter: D
 permalink: "/definitions/dispute.html"
 body: A conflict or controversy; a conflict of claims or rights; an assertion of a
   right, claim, or demand on one side, met by contrary claims or allegations on the

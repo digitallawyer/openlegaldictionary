@@ -1,5 +1,6 @@
 ---
 title: Ex Facie
+letter: E
 permalink: "/definitions/ex-facie.html"
 body: From the face; apparently; evidently. A term applied to what appears on the
   face of a writing

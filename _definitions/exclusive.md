@@ -1,5 +1,6 @@
 ---
 title: Exclusive
+letter: E
 permalink: "/definitions/exclusive.html"
 body: Shuttlng out; debarring from interference or participation; vested in one person
   alone. An exclusive right is one which only the grantee thereof can exercise, and

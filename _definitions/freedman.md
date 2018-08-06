@@ -1,5 +1,6 @@
 ---
 title: Freedman
+letter: F
 permalink: "/definitions/freedman.html"
 body: In Roman law. one who was set free from a state of bondage; an emancipated slave.
   The word is used in the same sense In the United States, respecting negroes who

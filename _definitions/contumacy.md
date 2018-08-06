@@ -1,5 +1,6 @@
 ---
 title: Contumacy
+letter: C
 permalink: "/definitions/contumacy.html"
 body: The refusal or inten-tlonal omission of a person who has been duly cited before
   a court to appear and defend the charge laid against him, or, if he is duly before

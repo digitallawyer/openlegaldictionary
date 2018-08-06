@@ -1,5 +1,6 @@
 ---
 title: Half
+letter: H
 permalink: "/definitions/half.html"
 body: A moiety; one of two equal parts of anything susceptible of division. Prentiss
   v. Brewer, 17 wis. 644, 86 Am. Dec. 730; Hartford Iron Min. Co. v. Cambridge Min.

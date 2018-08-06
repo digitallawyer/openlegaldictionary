@@ -1,5 +1,6 @@
 ---
 title: Agtion On The Case
+letter: A
 permalink: "/definitions/agtion-on-the-case.html"
 body: A species of personal action of very extensive application, otherwise called
   “trespass on the case,” or simply “case,” from the circumstance of the plaintiff’s

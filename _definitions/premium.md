@@ -1,5 +1,6 @@
 ---
 title: Premium
+letter: P
 permalink: "/definitions/premium.html"
 body: The sum paid or agreed to be paid hy an assured to the underwriter as the consideration
   for the insurance; being a certain rate per cent on the amount in-sured. 1 PhlL

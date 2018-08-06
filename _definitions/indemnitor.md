@@ -1,5 +1,6 @@
 ---
 title: Indemnitor
+letter: I
 permalink: "/definitions/indemnitor.html"
 body: The person who is bound, by an indemnity contract, to indent nify or protect
   the other

@@ -1,5 +1,6 @@
 ---
 title: Recite
+letter: R
 permalink: "/definitions/recite.html"
 body: To state in a written Instrn ment facts connected with Its inception, or reasons
   for Its being made. Also to quote or set forth the words or the contents of some

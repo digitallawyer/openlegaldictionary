@@ -1,5 +1,6 @@
 ---
 title: Serious
+letter: S
 permalink: "/definitions/serious.html"
 body: Important; weighty; momentous, and not trifling; as in the phrases “serl-ous
   bodily harm,” “serious personal Injury,” etc. Lawlor v. People, 74 111. 231; Union

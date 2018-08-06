@@ -1,5 +1,6 @@
 ---
 title: Debet Et Detinet
+letter: D
 permalink: "/definitions/debet-et-detinet.html"
 body: He owes and de-tains. words anciently used in the original writ, (aud now, in
   English, in the plaintiff's declaration,) in an action of debt, where it was brought

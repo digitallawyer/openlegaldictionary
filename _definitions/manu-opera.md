@@ -1,5 +1,6 @@
 ---
 title: Manu Opera
+letter: M
 permalink: "/definitions/manu-opera.html"
 body: Lat. Cattle or irnple-menta of husbandry; also stolen goods tak-en from a thief
   caught in the fact. Cowell

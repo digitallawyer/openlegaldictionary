@@ -1,5 +1,6 @@
 ---
 title: Brevlarium Aniani
+letter: B
 permalink: "/definitions/brevlarium-aniani.html"
 body: Another name for the Brevarium Alarlclanum, (q. v.) Anian was the referendery
   or chancellor of Alaric, and was commanded hy the latter to authen-ticate, by hls

@@ -1,5 +1,6 @@
 ---
 title: Writ Of Prevention
+letter: W
 permalink: "/definitions/writ-of-prevention.html"
 body: Thls name is given to certain wrlts whlch may he is-sued in anticipation of
   suits which may arise. Co. Lltt 100

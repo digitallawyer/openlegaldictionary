@@ -1,5 +1,6 @@
 ---
 title: Tuchas
+letter: T
 permalink: "/definitions/tuchas.html"
 body: In Spanish law. objections or exceptions to witnesses, white, New Re-cop. b.
   3, tit 7, c. 10

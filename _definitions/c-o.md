@@ -1,5 +1,6 @@
 ---
 title: C. O
+letter: C
 permalink: "/definitions/c-o.html"
 body: loot on delivery. See C. O. D.—Collector. one authorized to receive taxes or
   oth-er impositions; as “collector of taxes." A person appointed by a private person

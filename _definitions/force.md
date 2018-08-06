@@ -1,5 +1,6 @@
 ---
 title: Force
+letter: F
 permalink: "/definitions/force.html"
 body: Power dynamically considered, that is, in motion or in action; constraining
   power, compulsion; strength directed to an end. Usually the word occurs in such

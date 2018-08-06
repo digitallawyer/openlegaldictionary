@@ -1,5 +1,6 @@
 ---
 title: Low Justice
+letter: L
 permalink: "/definitions/low-justice.html"
 body: In old European law, jurisdlction of petty offenses, as distinguished from “high
   Justice,’’ (q. v

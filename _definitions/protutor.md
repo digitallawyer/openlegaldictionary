@@ -1,5 +1,6 @@
 ---
 title: Protutor
+letter: P
 permalink: "/definitions/protutor.html"
 body: Lat in the civil law. He who, not being the tutor of a minor, has administered
   his property or affairs as lf he had been, whether he thought himself legal-ly invested

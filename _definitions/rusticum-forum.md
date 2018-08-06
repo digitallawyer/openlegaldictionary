@@ -1,5 +1,6 @@
 ---
 title: Rusticum Forum
+letter: R
 permalink: "/definitions/rusticum-forum.html"
 body: Lat A rude, un-lea rued, or unlettered tribunal; a term some-times applled to
   arbitrators selected by the parties to settle a dlspute. See Underhill v. Van Cortlandt,

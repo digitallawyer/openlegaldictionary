@@ -1,5 +1,6 @@
 ---
 title: Magnum Concilium
+letter: M
 permalink: "/definitions/magnum-concilium.html"
 body: In old English law. The great council; the general council of the realm; afterwards
   called “parliament” 1 Bl. Comm. 148; 1 Reeve, Eng. Law, 62; Spelman

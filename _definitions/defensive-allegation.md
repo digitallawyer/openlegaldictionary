@@ -1,5 +1,6 @@
 ---
 title: Defensive Allegation
+letter: D
 permalink: "/definitions/defensive-allegation.html"
 body: In Eng-llsh ecclesiastical law. A species of plead-ing, where the defendant,
   instead of denying the plaintiff’s charge upon oath, has any cir-cumstances to offer

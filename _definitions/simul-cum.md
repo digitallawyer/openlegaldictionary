@@ -1,5 +1,6 @@
 ---
 title: Simul Cum
+letter: S
 permalink: "/definitions/simul-cum.html"
 body: Lat Together with. In actions of tort and in prosecutions, where several persons
   united in committing the act complained of, some of whom are known and others not,

@@ -1,5 +1,6 @@
 ---
 title: Functus Officio
+letter: F
 permalink: "/definitions/functus-officio.html"
 body: Lat. Having ful-fllled the function, discharged the ofiice, or accomplished
   the purpose, and therefore of no further force or authority. Applied to an officer

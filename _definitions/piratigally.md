@@ -1,5 +1,6 @@
 ---
 title: Piratigally
+letter: P
 permalink: "/definitions/piratigally.html"
 body: A technical word which must always be used in an indictment for piracy. 3 InsL
   112

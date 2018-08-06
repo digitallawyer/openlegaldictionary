@@ -1,5 +1,6 @@
 ---
 title: Parallel
+letter: P
 permalink: "/definitions/parallel.html"
 body: For two lines of street railway to be “parallel,” within the meaning of a statute,
   it may not be necessary that the two lines should be parallel for the whole length

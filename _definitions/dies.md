@@ -1,5 +1,6 @@
 ---
 title: Dies
+letter: D
 permalink: "/definitions/dies.html"
 body: Lat A day; days. Days for appearance in court. Provisions or malnte-nnnce for
   a day. The king's rents were anciently reserved by so many days’ provisions. Spelman;

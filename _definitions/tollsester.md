@@ -1,5 +1,6 @@
 ---
 title: Tollsester
+letter: T
 permalink: "/definitions/tollsester.html"
 body: An old excise; a duty paid by tenants of some manors to the lord for liberty
   to brew and seil ale. Cowell

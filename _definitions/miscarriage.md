@@ -1,5 +1,6 @@
 ---
 title: Miscarriage
+letter: M
 permalink: "/definitions/miscarriage.html"
 body: In medical jaris-prndonoe. The expulsion of the ovum or embyro from the uterus
   within the first six

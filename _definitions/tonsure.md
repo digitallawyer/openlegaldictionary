@@ -1,5 +1,6 @@
 ---
 title: Tonsure
+letter: T
 permalink: "/definitions/tonsure.html"
 body: In old Engllsh law. A be-£ng shaven; the having the head shaven; a shaven head.
   4 Bl. Coinm. 367

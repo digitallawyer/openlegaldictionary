@@ -1,5 +1,6 @@
 ---
 title: I Iii
+letter: I
 permalink: "/definitions/i-tii.html"
 body: erangement is accompanied with more or less of excitement. Sometimes the excitement
   amounts to a fury. The individual in such cases is subject to hallucinations and

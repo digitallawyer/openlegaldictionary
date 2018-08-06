@@ -1,5 +1,6 @@
 ---
 title: Adoption
+letter: A
 permalink: "/definitions/adoption.html"
 body: The act of one who takes another’s child into his own family, treating hlm as
   hls own, and giving hlm alL the rights and duties of hls own child. A ju-rldical

@@ -1,5 +1,6 @@
 ---
 title: Caballeria
+letter: C
 permalink: "/definitions/caballeria.html"
 body: In Spanish law. An allotment of land acquired hy conquest, to a horse soldier.
   It was a strip one hundred feet wide by two hundred feet deep. The term has been

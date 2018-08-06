@@ -1,5 +1,6 @@
 ---
 title: De Alto Et Basso
+letter: D
 permalink: "/definitions/de-alto-et-basso.html"
 body: of high and low. A phrase anciently used to denote the absolute submission of
   all differences to arbitfa-tion. CowelL

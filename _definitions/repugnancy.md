@@ -1,5 +1,6 @@
 ---
 title: Repugnancy
+letter: R
 permalink: "/definitions/repugnancy.html"
 body: An Inconsistency, op-position, or contrariety between two or more clauses of
   the same deed or contract, or between two or more material allegations of the same

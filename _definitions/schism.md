@@ -1,5 +1,6 @@
 ---
 title: Schism
+letter: S
 permalink: "/definitions/schism.html"
 body: In eccleslastlcal lnw. A dlvi-sion or sepnrntlon in n church or deuomina-tlon
   of Christinns, occasioned by a diversity of fnlth, creed, or religious opinions.

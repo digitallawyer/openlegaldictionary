@@ -1,5 +1,6 @@
 ---
 title: Quarantine
+letter: Q
 permalink: "/definitions/quarantine.html"
 body: A period of time (theoretically forty days) during which a vessel, coming from
   a place where a contagious or Infectious disease is prevalent, is detained by authority

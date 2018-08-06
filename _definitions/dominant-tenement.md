@@ -1,5 +1,6 @@
 ---
 title: Dominant Tenement
+letter: D
 permalink: "/definitions/dominant-tenement.html"
 body: A term used in the civil Snd Scotch law, and thence in ours, relating to servitudes,
   meaning the tenement or subject in favor of which the service is constituted; as

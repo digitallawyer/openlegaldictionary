@@ -1,5 +1,6 @@
 ---
 title: Orphanage Part
+letter: O
 permalink: "/definitions/orphanage-part.html"
 body: That portion of an intestate's effects which his children were entitled to by
   the custom of London. This custom appears to have been a remnant of what, was once

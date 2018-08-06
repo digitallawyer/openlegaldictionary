@@ -1,5 +1,6 @@
 ---
 title: Diptycha
+letter: D
 permalink: "/definitions/diptycha.html"
 body: Diptychs; tablets of wood, metal, or other substance, used among the Romans
   for the purpose of writing, and fold* ed like a book of two leaves. The diptychs

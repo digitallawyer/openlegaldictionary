@@ -1,5 +1,6 @@
 ---
 title: Public
+letter: P
 permalink: "/definitions/public.html"
 body: Pertaining to a state, nation, or whole community; proceeding from, relating
   to, or ahecting the whole body of peo-ple or an entire community, open to all; notorious.

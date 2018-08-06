@@ -1,5 +1,6 @@
 ---
 title: Distringas
+letter: D
 permalink: "/definitions/distringas.html"
 body: In English practice. A writ directed to the sheriff of the county in which a
   defendant resides, or has any goods or chattels, commanding him to distrain up*

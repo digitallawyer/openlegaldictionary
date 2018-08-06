@@ -1,5 +1,6 @@
 ---
 title: Bastardy
+letter: B
 permalink: "/definitions/bastardy.html"
 body: The offense of begetting a bastard child. The condition of a bastard. Dinkey
   v. Com., 17 Pa. 129, 55 Am. Dec. 542

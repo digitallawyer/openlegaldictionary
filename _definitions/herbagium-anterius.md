@@ -1,5 +1,6 @@
 ---
 title: Herbagium Anterius
+letter: H
 permalink: "/definitions/herbagium-anterius.html"
 body: The first crop of grass or hay, in opposition to after-math or second cutting.
   Paroch. Antiq. 459

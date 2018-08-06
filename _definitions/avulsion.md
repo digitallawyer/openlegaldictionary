@@ -1,5 +1,6 @@
 ---
 title: Avulsion
+letter: A
 permalink: "/definitions/avulsion.html"
 body: The removal of a consid-erable quantity of soil from the land of one man, and
   its deposit upon or annexation to the land of, another, suddenly and by the perceptible

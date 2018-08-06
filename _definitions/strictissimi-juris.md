@@ -1,5 +1,6 @@
 ---
 title: Strictissimi Juris
+letter: S
 permalink: "/definitions/strictissimi-juris.html"
 body: Lat. of the strictest right or law. “Licenses being matter of special indulgence,
   the application of them was formerly strictissimi juris." 1 Edw. Adm. 328

@@ -1,5 +1,6 @@
 ---
 title: Accruer, Clause Of
+letter: A
 permalink: "/definitions/accruer-clause-of.html"
 body: An express clause, frequently occurring in the case of gifts hy deed or will
   to persons as tenants in common, providing that upon the death of one or more of

@@ -1,5 +1,6 @@
 ---
 title: Code
+letter: C
 permalink: "/definitions/code.html"
 body: A collection or compendium of laws. A complete system of positive law. scientifically
   arranged, and promulgated hy leglslatlve authority. Johnson v. Harrison, 47 Mlnn.

@@ -1,5 +1,6 @@
 ---
 title: Fordika
+letter: F
 permalink: "/definitions/fordika.html"
 body: In old records. Grass or herbage growing on the edge or bank of dykes or ditches.
   Cowell

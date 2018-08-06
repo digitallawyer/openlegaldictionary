@@ -1,5 +1,6 @@
 ---
 title: Prebend
+letter: P
 permalink: "/definitions/prebend.html"
 body: In English ecclesiastical law. A stipend granted in cathedral church-es; also,
   but Improperly, a prebendary. A simple prebend is merely a revenue; a pre-bend with

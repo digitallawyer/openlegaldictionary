@@ -1,5 +1,6 @@
 ---
 title: Define
+letter: D
 permalink: "/definitions/define.html"
 body: To explain or state the exact meaning of words and phrases; to settle, make
   clear, establish boundaries. U. S. v. Smith, 5 wheat. 160, 5 L. Ed. 57; waiters

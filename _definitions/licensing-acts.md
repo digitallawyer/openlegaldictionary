@@ -1,5 +1,6 @@
 ---
 title: Licensing Acts
+letter: L
 permalink: "/definitions/licensing-acts.html"
 body: TS. This expression is applied by Hallam (Const Hist. c. 13) to acts of parliament
   for the restraint of printing, except by license. It may also be ap-plied to any

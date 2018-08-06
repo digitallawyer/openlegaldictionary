@@ -1,5 +1,6 @@
 ---
 title: Negligence
+letter: N
 permalink: "/definitions/negligence.html"
 body: The omission to do something which a reasonable man, guided by those considerations
   which ordinarily reg-. ulate the conduct of human affairs, would do, or doing something

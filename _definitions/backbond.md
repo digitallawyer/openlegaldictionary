@@ -1,5 +1,6 @@
 ---
 title: Backbond
+letter: B
 permalink: "/definitions/backbond.html"
 body: In Scotch law. A deed attaching a qualification or condition to the terms of
   a conveyance or other instrument. This deed is nsed when particular circum-stnnces

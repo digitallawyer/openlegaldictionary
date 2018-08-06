@@ -1,5 +1,6 @@
 ---
 title: Postliminium
+letter: P
 permalink: "/definitions/postliminium.html"
 body: Lat. In the civil law. A doctrine or fiction of the law by which the restoration
   of a person to any status or right formerly possessed by him was considered as relating

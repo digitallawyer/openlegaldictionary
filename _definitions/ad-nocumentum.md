@@ -1,5 +1,6 @@
 ---
 title: Ad Nocumentum
+letter: A
 permalink: "/definitions/ad-nocumentum.html"
 body: To the nuisance, or annoyance. Fleta, lib. 2, c. 52, 8 19. Ad nocumentum liberi
   tenementi sui, to the nuisance of his freehold. Formal words in the old assise of

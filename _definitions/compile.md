@@ -1,5 +1,6 @@
 ---
 title: Compile
+letter: C
 permalink: "/definitions/compile.html"
 body: To compile is to copy from various authors into one work. Between a compilation
   and an abridgment there is a dear distinction. A compilation consists of selected

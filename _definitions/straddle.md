@@ -1,5 +1,6 @@
 ---
 title: Straddle
+letter: S
 permalink: "/definitions/straddle.html"
 body: In stock-brokers* parlance the term means the double privilege 'of a “put” and
   a “call," and secures to the holder the right to demand of the seller at a certnin

@@ -1,5 +1,6 @@
 ---
 title: Apprenticeship
+letter: A
 permalink: "/definitions/apprenticeship.html"
 body: A contract by which one person, usually a minor, called the “apprentice,” is
   bound to another person, called the “master,” to serve him during a prescribed term

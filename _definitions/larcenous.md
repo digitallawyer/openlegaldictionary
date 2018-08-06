@@ -1,5 +1,6 @@
 ---
 title: Larcenous
+letter: L
 permalink: "/definitions/larcenous.html"
 body: Having the character of larceny; as a “larcenous taking.” Contemplating or intending
   larceny; as a "larcenous purpose.”

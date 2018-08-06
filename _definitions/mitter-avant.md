@@ -1,5 +1,6 @@
 ---
 title: Mitter Avant
+letter: M
 permalink: "/definitions/mitter-avant.html"
 body: L. Fr. In old prae-tice. To put before; to present before a court; to produce
   in court

@@ -1,5 +1,6 @@
 ---
 title: Pauper
+letter: P
 permalink: "/definitions/pauper.html"
 body: A person so poor that he must be supported at public expense; also a suitor
   who, on account of poverty. is allowed to sue or defend without being chargeable

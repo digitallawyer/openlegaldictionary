@@ -1,5 +1,6 @@
 ---
 title: Chancel
+letter: C
 permalink: "/definitions/chancel.html"
 body: In ecclesiastical law. The part of a church in which tlie communion table stands;
   it belongs to the rector or the impropriator. 2 Broom & II. Comm. 420

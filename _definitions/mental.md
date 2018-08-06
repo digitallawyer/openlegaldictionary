@@ -1,5 +1,6 @@
 ---
 title: Mental
+letter: M
 permalink: "/definitions/mental.html"
 body: Relating to or existing in the mind; intellectual, emotional, or psychic, aa
   distinguished from bodily or physical

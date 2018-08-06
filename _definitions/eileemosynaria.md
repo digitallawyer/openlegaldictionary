@@ -1,5 +1,6 @@
 ---
 title: Eileemosynaria
+letter: E
 permalink: "/definitions/eileemosynaria.html"
 body: The place in a religious house where the common alms were deposited, and thence
   by the almoner dls-tributed to the poor

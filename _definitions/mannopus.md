@@ -1,5 +1,6 @@
 ---
 title: Mannopus
+letter: M
 permalink: "/definitions/mannopus.html"
 body: In old English law. Goods taken in the hands of an apprehended thief. The same
   as “mainour," (q. vj

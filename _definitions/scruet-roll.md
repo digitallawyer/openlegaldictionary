@@ -1,5 +1,6 @@
 ---
 title: Scruet-Roll
+letter: S
 permalink: "/definitions/scruet-roll.html"
 body: In old practice. A species of roll or record, on which the ball on habeas corpus
   was entered

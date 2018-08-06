@@ -1,5 +1,6 @@
 ---
 title: Heirshif
+letter: H
 permalink: "/definitions/heirshif.html"
 body: The quality or condition of being heir, or the relation between the heir and
   hls ancestor

@@ -1,5 +1,6 @@
 ---
 title: Maieie
+letter: M
 permalink: "/definitions/maieie.html"
 body: In French law. The govern-ment building of each commune. It con-tains the record
   office of ail civil acts nnd the list of voters; and it is there that political

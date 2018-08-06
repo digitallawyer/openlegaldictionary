@@ -1,5 +1,6 @@
 ---
 title: Per Stirpes
+letter: P
 permalink: "/definitions/per-stirpes.html"
 body: Lat By roots or stocks; by representatlon. This term, de-rived from the clvil
   law, is much used in the law of descents and distribution, and de-notes that method

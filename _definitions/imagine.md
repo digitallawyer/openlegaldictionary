@@ -1,5 +1,6 @@
 ---
 title: Imagine
+letter: I
 permalink: "/definitions/imagine.html"
 body: In English law. In cases ot treason the law makes it a crime to lmag-ine the
   death of the king. But, in order to complete the crime, this act of the mind must

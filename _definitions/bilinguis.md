@@ -1,5 +1,6 @@
 ---
 title: Bilinguis
+letter: B
 permalink: "/definitions/bilinguis.html"
 body: of a double language or tongue; that can speak two languages. A term applied
   in the old books to a jury corn-posed partly of Englishmen and partly of foreigners,

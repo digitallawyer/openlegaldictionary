@@ -1,5 +1,6 @@
 ---
 title: Conoord
+letter: C
 permalink: "/definitions/conoord.html"
 body: In the old process of levying a fine of lands, the concord was an agreement
   between the parties (real or feign-ed) in which the deforciant (or he who keeps

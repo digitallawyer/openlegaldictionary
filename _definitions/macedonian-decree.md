@@ -1,5 +1,6 @@
 ---
 title: Macedonian Decree
+letter: M
 permalink: "/definitions/macedonian-decree.html"
 body: In Roman law. This was the Benatus-consuUwn Mace-donianum, a decree of tbe Roman
   senate, first given under Claudius, and renewed un-der Vespasian, by whlch it was

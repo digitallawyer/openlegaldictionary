@@ -1,5 +1,6 @@
 ---
 title: Naturalize
+letter: N
 permalink: "/definitions/naturalize.html"
 body: To confer citizeushlp upou an alien; to make a foreigner the same, in respect
   to rights and privileges, as if he were a native citizen or subject

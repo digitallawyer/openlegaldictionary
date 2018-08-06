@@ -1,5 +1,6 @@
 ---
 title: Bank
+letter: B
 permalink: "/definitions/bank.html"
 body: 1. A beuch or seat; the bench or tribunal occupied by the judges; the seat of
   judgment; a court. The full bench, or full court; the assembly of all the judges

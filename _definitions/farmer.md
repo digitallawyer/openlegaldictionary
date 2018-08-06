@@ -1,5 +1,6 @@
 ---
 title: Farmer
+letter: F
 permalink: "/definitions/farmer.html"
 body: 1. The lessee of a farm. It is said that every lessee for life or years, although
   it be but of a small house and land, is called “farmer.” Thls word implies no mystery,

@@ -1,5 +1,6 @@
 ---
 title: Presbyterium
+letter: P
 permalink: "/definitions/presbyterium.html"
 body: That part of the church where divine offices are performed; formerly applied
   to the choir or chancel, because it was the piace appropriated to the bishop, priest,

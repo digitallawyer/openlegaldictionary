@@ -1,5 +1,6 @@
 ---
 title: Behavior
+letter: B
 permalink: "/definitions/behavior.html"
 body: Manner of behaving, whether good or bad; conduct; manners; carriage of one’s
   self, with respect to pro-priety and morals; deportment, webster. State v. Roll.

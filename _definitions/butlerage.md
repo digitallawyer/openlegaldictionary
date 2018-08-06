@@ -1,5 +1,6 @@
 ---
 title: Butlerage
+letter: B
 permalink: "/definitions/butlerage.html"
 body: A privilege formerly al-lowed to the king’s butler, to take a certain part of
   every cask of wine imported by an alien

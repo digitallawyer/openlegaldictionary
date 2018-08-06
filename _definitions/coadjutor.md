@@ -1,5 +1,6 @@
 ---
 title: Coadjutor
+letter: C
 permalink: "/definitions/coadjutor.html"
 body: An assistant, helper, or oily; particularly a person appointed to as-sist a
   bishop who from age or infirmity is unable to perform his duty. Olcott v. Ga-bert,

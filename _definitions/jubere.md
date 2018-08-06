@@ -1,5 +1,6 @@
 ---
 title: Jubere
+letter: J
 permalink: "/definitions/jubere.html"
 body: Lat in the civll law. To order, dlrect, or command. Calvin. The word jubeo,
   (I order,) in a wlll, was called a “word of direction,” as distinguished from “precatory

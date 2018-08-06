@@ -1,5 +1,6 @@
 ---
 title: Court Of Wards And Liveries
+letter: C
 permalink: "/definitions/court-of-wards-and-liveries.html"
 body: A court of record, established in England iu the reign of Henry VIII. For the
   sur-vey and management of the valuable fruits of tenure, a court of record was created

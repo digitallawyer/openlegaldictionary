@@ -1,5 +1,6 @@
 ---
 title: Supply, Committee Of
+letter: S
 permalink: "/definitions/supply-committee-of.html"
 body: In English law. All bills which relate to the pub-llc income or expenditure
   must originate with the house of commons, and all bills au-thorizing expenditure

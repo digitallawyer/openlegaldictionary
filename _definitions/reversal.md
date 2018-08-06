@@ -1,5 +1,6 @@
 ---
 title: Reversal
+letter: R
 permalink: "/definitions/reversal.html"
 body: The annulling or making vqld a Judgment on account of some error or irregularity.
   Usually spoken of the action of an appellate court

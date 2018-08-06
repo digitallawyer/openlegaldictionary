@@ -1,5 +1,6 @@
 ---
 title: Ego, Talis
+letter: E
 permalink: "/definitions/ego-talis.html"
 body: I, such a one. words used in describing the forms of old deeds. Fleta, lib.
   3, c. 14, § 5

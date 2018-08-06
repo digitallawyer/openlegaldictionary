@@ -1,5 +1,6 @@
 ---
 title: Liberti, Libertini
+letter: L
 permalink: "/definitions/liberti-libertini.html"
 body: Lat in Rom-an law. Freedman. There seems to have been some difference in the
   use of these two words; the former denoting the manumitted slaves considered in

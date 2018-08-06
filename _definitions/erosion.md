@@ -1,5 +1,6 @@
 ---
 title: Erosion
+letter: E
 permalink: "/definitions/erosion.html"
 body: The gradual eating away of the soil by the operation of currents or tides. Distinguished
   from submergence, which is the disappearance of the soil under the water and the

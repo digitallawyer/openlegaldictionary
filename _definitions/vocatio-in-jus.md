@@ -1,5 +1,6 @@
 ---
 title: Vocatio In Jus
+letter: V
 permalink: "/definitions/vocatio-in-jus.html"
 body: Lut. A summoning to court. In the earlier practice of the Roman law, (under
   the legis actiones,) the creditor orally called upon his debtor to go with him before

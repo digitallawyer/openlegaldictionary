@@ -1,5 +1,6 @@
 ---
 title: Sail
+letter: S
 permalink: "/definitions/sail.html"
 body: In insurance law. To pnt to sea; to begin a voyage. The least locomotion, with
   readiness of equipment and clearance, satisfies a warranty to sail. Pittegrew v.

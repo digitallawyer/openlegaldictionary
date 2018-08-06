@@ -1,5 +1,6 @@
 ---
 title: Aocedas Ad Curiam
+letter: A
 permalink: "/definitions/aocedas-ad-curiam.html"
 body: An original writ out of chancery, directed to the sheriff, for the removal of
   a replevin suit from a hundred court or court baron to one of the superior courts.

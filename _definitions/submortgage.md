@@ -1,5 +1,6 @@
 ---
 title: Submortgage
+letter: S
 permalink: "/definitions/submortgage.html"
 body: when a person who holds a mortgage as security for a loan which he has made,
   procures a loan to himself from a third person, and pledges his mortgage as security,

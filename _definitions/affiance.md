@@ -1,5 +1,6 @@
 ---
 title: Affiance
+letter: A
 permalink: "/definitions/affiance.html"
 body: A plighting of troth be-tween man and woman. Lltt | 39. An agreement by which
   a man or woman prom-ise each other that they will marry together. Poth. Traits du

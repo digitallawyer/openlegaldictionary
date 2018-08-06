@@ -1,5 +1,6 @@
 ---
 title: Cession
+letter: C
 permalink: "/definitions/cession.html"
 body: The act of ceding; a yield-ing or giving up; surrender; relinquishment of property
   or rights

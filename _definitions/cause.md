@@ -1,5 +1,6 @@
 ---
 title: Cause
+letter: C
 permalink: "/definitions/cause.html"
 body: That which*produces an effect; whatever moves, impels, or leads. The ori-gin
   or foundation of a thing, as of a suit or action; a ground of'action. Corning v.

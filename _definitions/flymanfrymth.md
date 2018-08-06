@@ -1,5 +1,6 @@
 ---
 title: Flyman.Frymth
+letter: F
 permalink: "/definitions/flymanfrymth.html"
 body: In oid English law. The offense of harboring a fugitive, the penalty attached
   to which was one of the rights of the crown

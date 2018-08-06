@@ -1,5 +1,6 @@
 ---
 title: Justitium
+letter: J
 permalink: "/definitions/justitium.html"
 body: Lat. In the civil law. A suspension or interwlssiou of the admluis-tration of
   justice in courts; vacation time. Calvin

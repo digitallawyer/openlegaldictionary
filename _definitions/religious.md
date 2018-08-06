@@ -1,5 +1,6 @@
 ---
 title: Religious
+letter: R
 permalink: "/definitions/religious.html"
 body: when religious books, or reading are spoken of, those which tend to promote
   the religion taught by the Christian dispensation must be considered as referred

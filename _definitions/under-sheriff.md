@@ -1,5 +1,6 @@
 ---
 title: Under-Sheriff
+letter: U
 permalink: "/definitions/under-sheriff.html"
 body: An oflicer who acts directly under the sheriff, and performs all the duties
   of the sheriff’s office, a few only excepted where the personal presence of the

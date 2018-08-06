@@ -1,5 +1,6 @@
 ---
 title: Constructive
+letter: C
 permalink: "/definitions/constructive.html"
 body: That which is established by the mind of the law in its act of construing facts,
   conduct, circumstances, or instruments; that which has not the char-acter assigned

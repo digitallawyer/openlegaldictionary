@@ -1,5 +1,6 @@
 ---
 title: Mainad
+letter: M
 permalink: "/definitions/mainad.html"
 body: In old Engllsh law. A false oath; perjury. Cowell. Probably from Sax. “manath"
   or “mainath” a false or de-celtful oath

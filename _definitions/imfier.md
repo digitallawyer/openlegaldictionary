@@ -1,5 +1,6 @@
 ---
 title: Imfier
+letter: I
 permalink: "/definitions/imfier.html"
 body: Umpire, (q. v
 published_at: '2018-07-07'

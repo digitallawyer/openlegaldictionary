@@ -1,5 +1,6 @@
 ---
 title: Post-Fene
+letter: P
 permalink: "/definitions/post-fene.html"
 body: In old conveyancing. A flne or sum of money, (otherwise called the “king’s silver”)
   formerly due on granting the licentia concordandi, or leave to agree, in levying

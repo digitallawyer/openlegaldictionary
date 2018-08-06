@@ -1,5 +1,6 @@
 ---
 title: De Bene Esse
+letter: D
 permalink: "/definitions/de-bene-esse.html"
 body: Conditionally; provl-sionally; in anticipation of future need. A phrase applied
   to proceedings which are tak-en at parte or provisionally, and are allow-ed to Btand

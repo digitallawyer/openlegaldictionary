@@ -1,5 +1,6 @@
 ---
 title: Prsfectus Vigilum
+letter: P
 permalink: "/definitions/prsfectus-vigilum.html"
 body: Lat. In Roman law. The chief ofiicer of the night watch. His jurisdiction extended
   to certain offenses affecting the public peace, aud even to larcenies; but he could

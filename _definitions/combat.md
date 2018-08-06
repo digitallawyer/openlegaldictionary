@@ -1,5 +1,6 @@
 ---
 title: Combat
+letter: C
 permalink: "/definitions/combat.html"
 body: A forcible encounter between two or more persons; a battle; a duel. Trial by
   battle

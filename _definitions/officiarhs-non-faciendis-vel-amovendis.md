@@ -1,5 +1,6 @@
 ---
 title: Officiarhs Non Faciendis Vel Amovendis
+letter: O
 permalink: "/definitions/officiarhs-non-faciendis-vel-amovendis.html"
 body: A writ addressed to the magistrates of a corporation, requiring them not to
   make such a man an oflicer, or to put one out of the office he has, until ln-quiry

@@ -1,5 +1,6 @@
 ---
 title: Chivalry, Oourt Of
+letter: C
 permalink: "/definitions/chivalry-oourt-of.html"
 body: In English law. The name of a court anciently held as a court of honor merely,
   before the earl-mar-shal, and as a crimlnal court before the lord high constable,

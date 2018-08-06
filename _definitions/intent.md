@@ -1,5 +1,6 @@
 ---
 title: Intent
+letter: I
 permalink: "/definitions/intent.html"
 body: 1. In criminal law and the law of evidence. Purpose; formulated design; a resolve
   to do or forbear a particular act; aim; determination. In its literal sense, the

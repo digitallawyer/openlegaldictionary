@@ -1,5 +1,6 @@
 ---
 title: Cancel
+letter: C
 permalink: "/definitions/cancel.html"
 body: To obliterate, strike, or cross out; to destroy the effect of an instrument
   by defacing, obliterating, expunging, or erasing it

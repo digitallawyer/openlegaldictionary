@@ -1,5 +1,6 @@
 ---
 title: De Hjsrede Deliberando Illi Qui Habet Custodiam Terras
+letter: D
 permalink: "/definitions/de-hjsrede-deliberando-illi-qui-habet-custodiam-terras.html"
 body: writ for delivering an heir to him who has ward-1 ship of the land. A writ dlrected
   to the sheriff,, to require one that had the body of him that was ward to another

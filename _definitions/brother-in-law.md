@@ -1,5 +1,6 @@
 ---
 title: Brother-In-Law
+letter: B
 permalink: "/definitions/brother-in-law.html"
 body: A wife’s brother or a sister’s husband. There is not any re-lationskip, but
   only affinity, between broth-ers-ln-law. Farmers’ L. & T. Co. v. Iowa water Co.

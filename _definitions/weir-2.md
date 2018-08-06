@@ -1,5 +1,6 @@
 ---
 title: Weir
+letter: W
 permalink: "/definitions/weir-2.html"
 body: or WEIR. A great dam or fence made across a river, or against water, formed
   of stakes interlaced by twigs of osier, and accommodated for the taking of fish,

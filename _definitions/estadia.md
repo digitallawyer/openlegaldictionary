@@ -1,5 +1,6 @@
 ---
 title: Estadia
+letter: E
 permalink: "/definitions/estadia.html"
 body: In Spanish law. Delay in a voyage, or in the delivery of cargo, caused by the
   charterer or consignee, for which demurrage is payable

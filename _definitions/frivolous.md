@@ -1,5 +1,6 @@
 ---
 title: Frivolous
+letter: F
 permalink: "/definitions/frivolous.html"
 body: An answer or plea is called "frivolous” when it is clearly insufli-cient on
   its face, and does not controvert the material points of the opposite pleading,

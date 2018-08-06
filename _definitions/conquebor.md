@@ -1,5 +1,6 @@
 ---
 title: Conquebor
+letter: C
 permalink: "/definitions/conquebor.html"
 body: In old English and Scotch law. The first purchaser of an es-tnte; he who brought
   it into the family owning it 2 BL Comm. 242, 243

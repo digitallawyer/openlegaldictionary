@@ -1,5 +1,6 @@
 ---
 title: Counterfeit
+letter: C
 permalink: "/definitions/counterfeit.html"
 body: In criminal law. To forge; to copy or lmitate, without authority or right, and
   with a view to deceive or defraud, by passing the copy or thing forged for that

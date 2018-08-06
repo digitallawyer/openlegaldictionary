@@ -1,5 +1,6 @@
 ---
 title: Doubt
+letter: D
 permalink: "/definitions/doubt.html"
 body: Uncertainty of mlnd; the ab-sence of a settled opinion or conviction; the attitude
   of mind towards the acceptance of or belief in a proposition, theory, or statement,

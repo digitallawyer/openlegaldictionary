@@ -1,5 +1,6 @@
 ---
 title: Titulars Of Erection
+letter: T
 permalink: "/definitions/titulars-of-erection.html"
 body: Persons who in Scotland, after the Reformation, obtained grant» from the crown
   of the monas-terles and priories then erected into temporal lordshlps. Thus the

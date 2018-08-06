@@ -1,5 +1,6 @@
 ---
 title: Judicia
+letter: J
 permalink: "/definitions/judicia.html"
 body: Lat. In Roman law. Judl-cial proceedings; trials. Judicio publica, criminal
   trials. Dig. 48, 1

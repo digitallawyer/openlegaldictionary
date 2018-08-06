@@ -1,5 +1,6 @@
 ---
 title: Wagon
+letter: W
 permalink: "/definitions/wagon.html"
 body: A common vehicle for the transportation of goods, wares, and merchan-dlse of
   all descriptions. The term does not include a hackney-coach. Quigley v. Gorham,

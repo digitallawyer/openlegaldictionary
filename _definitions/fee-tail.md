@@ -1,5 +1,6 @@
 ---
 title: Fee-Tail
+letter: F
 permalink: "/definitions/fee-tail.html"
 body: An estate tail; an estate of inheritance given to a man and the heirs of his
   body, or limited to certain classes of pnr-tlcular heirs. It corresponds to the

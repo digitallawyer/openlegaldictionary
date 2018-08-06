@@ -1,5 +1,6 @@
 ---
 title: Potential
+letter: P
 permalink: "/definitions/potential.html"
 body: Existing in possibility but not in act; naturally and probably expected to come
   into existence at some future time, though not now existing; for example, the future

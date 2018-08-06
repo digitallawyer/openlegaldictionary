@@ -1,5 +1,6 @@
 ---
 title: Governor
+letter: G
 permalink: "/definitions/governor.html"
 body: The title of the chief ex-ecutive in each of the states and territories of the
   United States; and also of the chief

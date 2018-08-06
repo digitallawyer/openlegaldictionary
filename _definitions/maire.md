@@ -1,5 +1,6 @@
 ---
 title: Maire
+letter: M
 permalink: "/definitions/maire.html"
 body: In old Sootob law. An ofiicer to whom process was directed, otherwise called
   “mair of fie,” (fee,) and classed with the “serjand.” Skene

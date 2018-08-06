@@ -1,5 +1,6 @@
 ---
 title: Appendant
+letter: A
 permalink: "/definitions/appendant.html"
 body: A thing annexed to or belonging to another thing and passing with lt; a thlng
   of inheritance belonging to an-other inheritance which is more worthy; as an advowson,

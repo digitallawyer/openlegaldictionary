@@ -1,5 +1,6 @@
 ---
 title: Censo
+letter: C
 permalink: "/definitions/censo.html"
 body: In Spanish and Mexican law. An annuity. A ground rent The right which a person
   acquires to receive a certain annual pension, for the delivery which he makes to

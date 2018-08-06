@@ -1,5 +1,6 @@
 ---
 title: Unascertained Duties
+letter: U
 permalink: "/definitions/unascertained-duties.html"
 body: Payment in gross, on an estimate as to amount, and where the merchant, on a
   final liquidation, wlll be entltled by law to allowances or de-dnctions which do

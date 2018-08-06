@@ -1,5 +1,6 @@
 ---
 title: Abatuda
+letter: A
 permalink: "/definitions/abatuda.html"
 body: Anything diminished. Mon-eta abatuda is money clipped or diminished in value.
   Cowell; Dufresue

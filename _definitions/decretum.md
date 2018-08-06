@@ -1,5 +1,6 @@
 ---
 title: Decretum
+letter: D
 permalink: "/definitions/decretum.html"
 body: In tbe civU law. A species of imperial constitution, being a*Judg-meut or sentence
   given by the emperor upon

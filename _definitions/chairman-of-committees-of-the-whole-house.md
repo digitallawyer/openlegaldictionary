@@ -1,5 +1,6 @@
 ---
 title: Chairman Of Committees Of The Whole House
+letter: C
 permalink: "/definitions/chairman-of-committees-of-the-whole-house.html"
 body: In English parliamentary practice. In the commons, this of-flcer, always a member,
   is elected by. the house on the assembling of every new par-llament. when the house

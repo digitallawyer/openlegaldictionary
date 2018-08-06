@@ -1,5 +1,6 @@
 ---
 title: Founded
+letter: F
 permalink: "/definitions/founded.html"
 body: Based upon; arising from, growing out of, or resting upon; as in the expressions
   “founded in fraud,” “founded on a consideration,” “founded on contract," and the

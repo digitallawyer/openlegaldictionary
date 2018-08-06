@@ -1,5 +1,6 @@
 ---
 title: C. C
+letter: C
 permalink: "/definitions/c-c9.html"
 body: sferred, is matter in pais. 2 Bl. Comm. 294.—Aot of attainder. A legislative
   act, at-tainting a person. See Attainder.—Act of bankruptcy. Any act which renders

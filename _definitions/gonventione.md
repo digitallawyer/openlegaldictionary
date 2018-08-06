@@ -1,5 +1,6 @@
 ---
 title: Gonventione
+letter: G
 permalink: "/definitions/gonventione.html"
 body: The name of a writ for the breach of any covenant in writing, whether real or
   personal. Reg. orig. 115; Fitzh. Nat. Brev. 145

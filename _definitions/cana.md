@@ -1,5 +1,6 @@
 ---
 title: Cana
+letter: C
 permalink: "/definitions/cana.html"
 body: A Spanish measure of length varying (in different localities) from about five
   to seven feet

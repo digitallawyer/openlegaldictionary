@@ -1,5 +1,6 @@
 ---
 title: Pawnbroker
+letter: P
 permalink: "/definitions/pawnbroker.html"
 body: A person whose busi-ness is to lend money, usually in small sums, on secnrity
   of personal property deposited with hith or left in pawn. Little Rock v. Barton,

@@ -1,5 +1,6 @@
 ---
 title: Borg
+letter: B
 permalink: "/definitions/borg.html"
 body: In Saxon law. A pledge, pledge giver, or surety. The name glven among the Saxons
   to the head of each family com-posing a tithing or decennary, each being the pledge

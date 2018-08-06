@@ -1,5 +1,6 @@
 ---
 title: Vraic
+letter: V
 permalink: "/definitions/vraic.html"
 body: Seaweed. It is used in great quantities by the inhabitants of Jersey and Guernsey
   for manure, and also for fuel by the poorer classes

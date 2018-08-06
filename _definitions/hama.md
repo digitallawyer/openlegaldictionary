@@ -1,5 +1,6 @@
 ---
 title: Hama
+letter: H
 permalink: "/definitions/hama.html"
 body: In old Engllsh law. A hook; an engine with which a house on fire is pulled down.
   Yel. 60

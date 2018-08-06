@@ -1,5 +1,6 @@
 ---
 title: Gallon
+letter: G
 permalink: "/definitions/gallon.html"
 body: A llquid measure, containing 231 cublc Inches, or four qunrts. The im-perial
   gallon contalns about 277, and the ale gallon 282, cublc inches. Hollender v. Ma-gone

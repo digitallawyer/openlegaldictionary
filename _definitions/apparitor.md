@@ -1,5 +1,6 @@
 ---
 title: Apparitor
+letter: A
 permalink: "/definitions/apparitor.html"
 body: An oflicer or messenger enytloyed to serve the process of the splr-itual courts
   in England and summon offenders. Cowell

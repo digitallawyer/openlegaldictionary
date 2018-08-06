@@ -1,5 +1,6 @@
 ---
 title: Tail, Estate In
+letter: T
 permalink: "/definitions/tail-estate-in.html"
 body: An estate of In-heritance, which, instead of descending to heirs generally,
   goes to the helrs of the donee’s body, whlch menns his lawful issue, his children,

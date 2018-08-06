@@ -1,5 +1,6 @@
 ---
 title: Quem Reditum Reddit
+letter: Q
 permalink: "/definitions/quem-reditum-reddit.html"
 body: L. Lat. An old writ which lay where a rent-charge or other rent which was not
   rent service was granted by fine holding of the grantor. If the tenant would not

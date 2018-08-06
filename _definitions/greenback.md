@@ -1,5 +1,6 @@
 ---
 title: Greenback
+letter: G
 permalink: "/definitions/greenback.html"
 body: The popular and almost exclusive name applied to all United States treasury
   Issues. It is not applied to any oth-er species of paper currency; and, when em-ployed

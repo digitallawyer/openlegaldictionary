@@ -1,5 +1,6 @@
 ---
 title: Preaudience
+letter: P
 permalink: "/definitions/preaudience.html"
 body: The right of being heard before another. A privilege belonging to the English
   bar, the members of wbicb are entitled to be heard in their order, ac-cording to

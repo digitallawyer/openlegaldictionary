@@ -1,5 +1,6 @@
 ---
 title: Rebel
+letter: R
 permalink: "/definitions/rebel.html"
 body: The name of rebels is given to all subjects who unjustly take up arms against
   the ruler of the society, [or the law-ful and constitutional government,] whether

@@ -1,5 +1,6 @@
 ---
 title: Prsoeptories
+letter: P
 permalink: "/definitions/prsoeptories.html"
 body: In feudal law. A kind of benefices, so called because they were possessed by
   the more eminent templars, whom the chief master by his authority created and called

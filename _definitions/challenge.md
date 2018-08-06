@@ -1,5 +1,6 @@
 ---
 title: Challenge
+letter: C
 permalink: "/definitions/challenge.html"
 body: 1. To object or except to; to prefer objections to a person, right, or Instrument;
   to formally call lnto ques-tion tbe capability of a person for a particular function,

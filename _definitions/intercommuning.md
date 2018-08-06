@@ -1,5 +1,6 @@
 ---
 title: Intercommuning
+letter: I
 permalink: "/definitions/intercommuning.html"
 body: Letters of Inter-communing were letters from the Scotch privy council passing
   (on their act) in the king's name, charging the lieges not to reset, supply, or

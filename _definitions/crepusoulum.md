@@ -1,5 +1,6 @@
 ---
 title: Crepusoulum
+letter: C
 permalink: "/definitions/crepusoulum.html"
 body: Twilight In the law of burglary, this term means the presence of sufficient
   light to discern the face of a man; such light as exists immediately before the

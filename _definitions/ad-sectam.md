@@ -1,5 +1,6 @@
 ---
 title: Ad Sectam
+letter: A
 permalink: "/definitions/ad-sectam.html"
 body: At the suit of. Com-nionly abbreviated to ads. Used iu entering and indexing
   the names of cases, where it is desired that the name of the defendant should come

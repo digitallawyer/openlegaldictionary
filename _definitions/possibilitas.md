@@ -1,5 +1,6 @@
 ---
 title: Possibilitas
+letter: P
 permalink: "/definitions/possibilitas.html"
 body: Lat. Possibility; a possibility. Posgibilitas post dissolutionem exeeutioni*
   nunquam reviviscatur, a possi-bility will never be revived after the dissolu-tlon

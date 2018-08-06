@@ -1,5 +1,6 @@
 ---
 title: Writ Of Proclamation
+letter: W
 permalink: "/definitions/writ-of-proclamation.html"
 body: In Engllsh law. By the statute 31 Eliz. c. 3, when an exigent is sued out, a
   writ of proclama-tlon shall issue at the same tlme, commanding the sherlff of the

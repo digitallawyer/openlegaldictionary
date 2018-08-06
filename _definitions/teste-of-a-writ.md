@@ -1,5 +1,6 @@
 ---
 title: Teste Of A Writ
+letter: T
 permalink: "/definitions/teste-of-a-writ.html"
 body: In practice. The concluding clause, commencing with the word "witness,” etc.
   A writ which bears the teste is sometimes said to be tested

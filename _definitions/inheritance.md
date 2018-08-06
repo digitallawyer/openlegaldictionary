@@ -1,5 +1,6 @@
 ---
 title: Inheritance
+letter: I
 permalink: "/definitions/inheritance.html"
 body: An estate in things real, descending to the heir. 2 Bl. Comm. 201; In re Donahue’s
   Estate, 36 Cal. 332; Dodge’s Appeal, 106 Pa. 220, 51 Am. Rep. 619; Rountree v. Pursell,

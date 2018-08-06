@@ -1,5 +1,6 @@
 ---
 title: Loyalty
+letter: L
 permalink: "/definitions/loyalty.html"
 body: Adherence to law. Faithfulness to one’s prince or sovereign or to the existing
   government

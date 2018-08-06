@@ -1,5 +1,6 @@
 ---
 title: Provided
+letter: P
 permalink: "/definitions/provided.html"
 body: The word used in introducing a proviso (which see.) ordinarily it sig nifles
   or expresses a condition; but this is not invariable, for, according to the context,

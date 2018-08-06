@@ -1,5 +1,6 @@
 ---
 title: Bayou
+letter: B
 permalink: "/definitions/bayou.html"
 body: A species of creek or stream common in Louisiana and Texas. An out-let from
   a swamp, pond, or lagoon, to a river, or the sen. See Surgett v. Lnpice, 8 IIow.

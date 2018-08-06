@@ -1,5 +1,6 @@
 ---
 title: Plow-Bote
+letter: P
 permalink: "/definitions/plow-bote.html"
 body: An allowance of wood whlch tenants are entltled to, for repairing their plows
   and other implements of bus-bandry

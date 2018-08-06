@@ -1,5 +1,6 @@
 ---
 title: Modification
+letter: M
 permalink: "/definitions/modification.html"
 body: A change; an altera-tion which introduces new elements into the details, or
   cancels some of them, but leaves the general purpose and effect of the subject-matter

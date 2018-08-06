@@ -1,5 +1,6 @@
 ---
 title: Sojourning
+letter: S
 permalink: "/definitions/sojourning.html"
 body: Thls term means some-thlng more than “traveling,” and applies to a temporary,
   as contradistinguished from a permanent, residence. Henry v. Ball, 1 wheat 5, 4

@@ -1,5 +1,6 @@
 ---
 title: Arches Court
+letter: A
 permalink: "/definitions/arches-court.html"
 body: In English ecclesiastical law. A court of appeal belonging to the Archbishop
   of Canterbury, the Judge of which is called the “Dean of the Arches,” because hls

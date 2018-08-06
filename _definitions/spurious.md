@@ -1,5 +1,6 @@
 ---
 title: Spurious
+letter: S
 permalink: "/definitions/spurious.html"
 body: Not proceeding from the •true source; not genuine; counterfeited. “A spurious
   bank-bill may be a legitimate lm-pression from the genuine plate, but it must have

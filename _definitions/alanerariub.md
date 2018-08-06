@@ -1,5 +1,6 @@
 ---
 title: Alanerariub
+letter: A
 permalink: "/definitions/alanerariub.html"
 body: A manager and keeper of dogs for the sport of hawking; from alanus, a dog known
   to the ancients. A fal-coner. Blount

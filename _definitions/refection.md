@@ -1,5 +1,6 @@
 ---
 title: Refection
+letter: R
 permalink: "/definitions/refection.html"
 body: In the civil law. Rep-aration; re-establishment of a building. Dig. 19, 1, 6»
   L

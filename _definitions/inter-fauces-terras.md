@@ -1,5 +1,6 @@
 ---
 title: Inter Fauces Terras
+letter: I
 permalink: "/definitions/inter-fauces-terras.html"
 body: "(Between the jaws of the land.) A term used to describe a roadstead or arm
   of the sea en-closed between promontories or projecting headlands"

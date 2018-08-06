@@ -1,5 +1,6 @@
 ---
 title: Delirium Tremens
+letter: D
 permalink: "/definitions/delirium-tremens.html"
 body: A disorder of the nervous Bystem, involving the brain and setting up an attack
   of temporary delusional Insanity, sometimes attended with violent ex-citement or

@@ -1,5 +1,6 @@
 ---
 title: Primage
+letter: P
 permalink: "/definitions/primage.html"
 body: In mercantile law. A small allowance or compensation payable to the master and
   mariners of a ship or vessel; to the former for the use of hls cables and ropes

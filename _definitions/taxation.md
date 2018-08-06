@@ -1,5 +1,6 @@
 ---
 title: Taxation
+letter: T
 permalink: "/definitions/taxation.html"
 body: The imposition of & tax; the act or process of imposing and levying a pecuniary
   charge or enforced contribution, ratable, or proportioned to value or some other

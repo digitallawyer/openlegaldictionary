@@ -1,5 +1,6 @@
 ---
 title: Dalus, Dailus, Dailia
+letter: D
 permalink: "/definitions/dalus-dailus-dailia.html"
 body: A. A certain measure of land; such narrow slips of pasture. as are left between
   the plowed furrows in arable land. Cowell

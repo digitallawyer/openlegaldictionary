@@ -1,5 +1,6 @@
 ---
 title: Litigant
+letter: L
 permalink: "/definitions/litigant.html"
 body: A party to a lawsuit; one engaged in litigation; usually spoken of active parties,
   not of nominal ones

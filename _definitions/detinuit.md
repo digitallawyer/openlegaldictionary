@@ -1,5 +1,6 @@
 ---
 title: Detinuit
+letter: D
 permalink: "/definitions/detinuit.html"
 body: In pleading. An action of replevin is said to be in the detinuit when the plaintiff
   acquires possession of the property claimed by means of the writ. The right to retain

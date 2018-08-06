@@ -1,5 +1,6 @@
 ---
 title: Jubilacion
+letter: J
 permalink: "/definitions/jubilacion.html"
 body: In Spanish law. The privilege of a public officer to be retired, on account
   of infirmity or disability, retaining the rank and pay of his office (or part of

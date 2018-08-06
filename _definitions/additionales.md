@@ -1,5 +1,6 @@
 ---
 title: Additionales
+letter: A
 permalink: "/definitions/additionales.html"
 body: In the law of con-tracts. Additional terms or propositions to he added to a
   former agreement

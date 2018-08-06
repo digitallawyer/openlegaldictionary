@@ -1,5 +1,6 @@
 ---
 title: Mittimus
+letter: M
 permalink: "/definitions/mittimus.html"
 body: In English law. A writ used in sending a record or its tenor from one court
   to another. Thus, where a nul tiei record is pleaded in one court to the record

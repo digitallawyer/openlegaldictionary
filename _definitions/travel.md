@@ -1,5 +1,6 @@
 ---
 title: Travel
+letter: T
 permalink: "/definitions/travel.html"
 body: To go from one piace to another at a distance; to journey; spoken of voluntary
   change of place. See white v. Beazley, 1 Barn. & Aid. 171; Hancock v. Rand, 94 N.

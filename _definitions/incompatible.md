@@ -1,5 +1,6 @@
 ---
 title: Incompatible
+letter: I
 permalink: "/definitions/incompatible.html"
 body: Two or more rela-tious, offices, functions, or rights which can-not naturally,
   or may uot legally, exist in or be exercised by the same persou at the same time,

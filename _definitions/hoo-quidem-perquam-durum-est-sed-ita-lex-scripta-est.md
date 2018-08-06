@@ -1,5 +1,6 @@
 ---
 title: Hoo Quidem Perquam Durum Est, Sed Ita Lex Scripta Est
+letter: H
 permalink: "/definitions/hoo-quidem-perquam-durum-est-sed-ita-lex-scripta-est.html"
 body: Let. (This Indeed is exceedingly hard, bat so the law is written; such is the
   written or positive law.) An observation quoted by Blackstone as used by Ulplan

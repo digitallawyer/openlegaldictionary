@@ -1,5 +1,6 @@
 ---
 title: Shereffe
+letter: S
 permalink: "/definitions/shereffe.html"
 body: The body of the lordship of Caerdiff in South wales, excluding the members of
   it Powel, Hist, wales, 123

@@ -1,5 +1,6 @@
 ---
 title: Tanistry
+letter: T
 permalink: "/definitions/tanistry.html"
 body: In old Irish law. A spe-cles of tenure, founded on anclent usage, which allotted
   the lnherltance of lands, cas-tles, etc., to the “oldest and worthiest man of the

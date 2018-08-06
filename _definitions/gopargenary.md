@@ -1,5 +1,6 @@
 ---
 title: Gopargenary
+letter: G
 permalink: "/definitions/gopargenary.html"
 body: A species of estate, or tenancy, which exists where lands of inheritance descend
   from thc ancestor to two or more persons. It urises in England either l*y common

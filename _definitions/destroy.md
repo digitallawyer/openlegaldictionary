@@ -1,5 +1,6 @@
 ---
 title: Destroy
+letter: D
 permalink: "/definitions/destroy.html"
 body: As used in policies of Insur- ■ ance, leases, and in maritime law, this, term
   is often applied to an act which renders the subject useless for its intended purpose,

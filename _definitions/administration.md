@@ -1,5 +1,6 @@
 ---
 title: Administration
+letter: A
 permalink: "/definitions/administration.html"
 body: lu public law. The administration of government means the practical management
   and direction of the executive department, or of the public machinery or functions,

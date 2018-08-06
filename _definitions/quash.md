@@ -1,5 +1,6 @@
 ---
 title: Quash
+letter: Q
 permalink: "/definitions/quash.html"
 body: To overthrow; to abate; to an-nul; to make void. Spelman; 3 Bl. Comm. 303; Crawford
   v. Stewart, 38 Pa. 34; Hoi-land v. webster, 43 Fla,. 85^29 South. 625; Bosley v.

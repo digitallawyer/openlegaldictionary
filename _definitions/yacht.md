@@ -1,5 +1,6 @@
 ---
 title: Yacht
+letter: Y
 permalink: "/definitions/yacht.html"
 body: A light sea-going vessel, used only for pleasure-trips, racing, etc. webster.
   See 22 St. at Large, 566 (U. S. Comp. St 1901, p. 2845); Rev. St U. S. §§ 4215-4218

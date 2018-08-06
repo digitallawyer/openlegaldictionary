@@ -1,5 +1,6 @@
 ---
 title: Pleader
+letter: P
 permalink: "/definitions/pleader.html"
 body: A person,whose business it is to draw pleadings. Formerly, when plead-ing at
   common law was a hlghly technical and difficult art, there was a class of men known

@@ -1,5 +1,6 @@
 ---
 title: Handsale
+letter: H
 permalink: "/definitions/handsale.html"
 body: Anciently, among all tbe northern nations, shaking of hands was held necessary
   to blnd a bargain,—a custom stlll retained in verbal contracts. A sale thus made

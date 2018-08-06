@@ -1,5 +1,6 @@
 ---
 title: Estrepement
+letter: E
 permalink: "/definitions/estrepement.html"
 body: A species of aggra-vated waste, by stripping or devastating the land, to the
   injury of the reversioner, and especlally pending a suit for possession

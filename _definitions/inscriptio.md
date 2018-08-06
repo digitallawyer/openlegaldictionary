@@ -1,5 +1,6 @@
 ---
 title: Inscriptio
+letter: I
 permalink: "/definitions/inscriptio.html"
 body: Lat in the dvil law. A wrltten accusation in which the accuser un-dertakes to
   suffer the punishment appropri-ate to the offense charged, if the accused is able

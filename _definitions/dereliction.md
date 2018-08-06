@@ -1,5 +1,6 @@
 ---
 title: Dereliction
+letter: D
 permalink: "/definitions/dereliction.html"
 body: The gaining of land from the water, in consequence of the sea shrinking back
   below the usuai water mark; the opposite of alluvion, (q. v.) Dyer, 326b; 2 Bl.

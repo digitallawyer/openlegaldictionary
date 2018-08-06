@@ -1,5 +1,6 @@
 ---
 title: Non-Afparent Easement
+letter: N
 permalink: "/definitions/non-afparent-easement.html"
 body: A non-continuous or discontinuous easement Fet-ters v. Humphreys, 18 N. J. Eq.
   262. See Easement

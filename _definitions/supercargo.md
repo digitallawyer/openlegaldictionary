@@ -1,5 +1,6 @@
 ---
 title: Supercargo
+letter: S
 permalink: "/definitions/supercargo.html"
 body: An agent of the own-6r of goods shipped as cargo on a vessel, who has charge
   of the cargo on board, sells the same to the best advantage in the foreign market,

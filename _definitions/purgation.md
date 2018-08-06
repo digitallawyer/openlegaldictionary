@@ -1,5 +1,6 @@
 ---
 title: Purgation
+letter: P
 permalink: "/definitions/purgation.html"
 body: The act of cleanslng or exonerating one’s self of a crime, accusation, or suspicion
   of guilt, by denylng the charge-on oath or by ordeal

@@ -1,5 +1,6 @@
 ---
 title: Surveyor
+letter: S
 permalink: "/definitions/surveyor.html"
 body: one who makes surveys of land; one who has the overseeing or care of another
   person’s land or works

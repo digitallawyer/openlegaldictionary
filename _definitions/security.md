@@ -1,5 +1,6 @@
 ---
 title: Security
+letter: S
 permalink: "/definitions/security.html"
 body: Protection; assurance; ln-demnlficatlon. The term is usually applled to an obligation,
   pledge, mortgage, deposit, llen, etc., given by a debtor in order to make sure the

@@ -1,5 +1,6 @@
 ---
 title: Uti Rogas
+letter: U
 permalink: "/definitions/uti-rogas.html"
 body: Lat. In Roman law. The form of words by which a vote in favor of a proposed
   law was orally expressed. Uti rogas, rolo vel jubeo, as you ask, I will or order;

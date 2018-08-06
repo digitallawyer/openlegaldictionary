@@ -1,5 +1,6 @@
 ---
 title: Suffragan
+letter: S
 permalink: "/definitions/suffragan.html"
 body: Bishops who In former times were appointcd to supply the place of others during
   their absence on embassies or other business were so termed. They were' consecrated

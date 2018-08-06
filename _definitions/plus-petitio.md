@@ -1,5 +1,6 @@
 ---
 title: Plus Petitio
+letter: P
 permalink: "/definitions/plus-petitio.html"
 body: 'In Roman law. A phrase denoting the offense of claiming more thau was just
   In one’s pleadings. Thlfc mord might be claimed in four different respects; viz.:

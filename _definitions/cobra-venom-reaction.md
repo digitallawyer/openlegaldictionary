@@ -1,5 +1,6 @@
 ---
 title: Cobra-Venom Reaction
+letter: C
 permalink: "/definitions/cobra-venom-reaction.html"
 body: In med-ical jurisprudence. A method of sernm-diag-nosis of insanity from haemolysis
   (breaking up of the red corpuscles of the blood) by ln-Jectlons of the venom of

@@ -1,5 +1,6 @@
 ---
 title: De Curia Claudenda
+letter: D
 permalink: "/definitions/de-curia-claudenda.html"
 body: An obsolete writ, to require a defendant to fence in his court or land about
   his house, where it was left open to the injury of his neighbor’s freehold. 1 Crabb,

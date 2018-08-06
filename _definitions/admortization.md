@@ -1,5 +1,6 @@
 ---
 title: Admortization
+letter: A
 permalink: "/definitions/admortization.html"
 body: The reduction of property of lands or tenements to mort-main, in the feudal
   customs

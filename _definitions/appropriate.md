@@ -1,5 +1,6 @@
 ---
 title: Appropriate
+letter: A
 permalink: "/definitions/appropriate.html"
 body: 1. To make a thing one's own; to make a thing the subject of property; to exercise
   dominion over an ob-ject to the extent, and for the purpose, of making it subserve

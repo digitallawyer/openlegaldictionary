@@ -1,5 +1,6 @@
 ---
 title: Chartophylax
+letter: C
 permalink: "/definitions/chartophylax.html"
 body: In old European law. A keeper of records or public iustru-ments; a chartulary;
   a registrar. Spelman

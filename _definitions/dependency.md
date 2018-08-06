@@ -1,5 +1,6 @@
 ---
 title: Dependency
+letter: D
 permalink: "/definitions/dependency.html"
 body: A territory distinct from the country in which the supreme sovereign power resides,
   but belonging right* folly to it, and subject to the laws and regulations which

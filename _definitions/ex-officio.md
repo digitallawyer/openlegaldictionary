@@ -1,5 +1,6 @@
 ---
 title: Ex Officio
+letter: E
 permalink: "/definitions/ex-officio.html"
 body: From office; by virtue of the ofiice; without any other warrant or appointment
   than that resulting from the holding of a particular ofiice. Powers may be exercised

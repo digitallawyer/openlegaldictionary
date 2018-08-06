@@ -1,5 +1,6 @@
 ---
 title: Sworn Brothers
+letter: S
 permalink: "/definitions/sworn-brothers.html"
 body: In old English law. Persons who, by mutual oaths, covenant to share in each,
   other’s fortunes

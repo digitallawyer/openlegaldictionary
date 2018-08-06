@@ -1,5 +1,6 @@
 ---
 title: Duces Tecum Licet Languidus
+letter: D
 permalink: "/definitions/duces-tecum-licet-languidus.html"
 body: "(Bring with you, although sick.) In practice. An ancient writ, now obsolete,
   directed to the sheriff, upon a return that he could not bring his prisoner without

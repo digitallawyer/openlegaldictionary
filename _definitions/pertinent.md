@@ -1,5 +1,6 @@
 ---
 title: Pertinent
+letter: P
 permalink: "/definitions/pertinent.html"
 body: Applicable; relevant. Evidence is called “pertinent” when it is directed to
   the issue or matters in dispute, and legitimately tends to prove the allegations

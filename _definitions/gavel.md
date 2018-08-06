@@ -1,5 +1,6 @@
 ---
 title: Gavel
+letter: G
 permalink: "/definitions/gavel.html"
 body: ln English law. Custom; tribute ; toll; yearly rent; paymeut of revenue; of
   which there were anciently several sorts; as gavel-corn, gavel-malt, oat-garcl,

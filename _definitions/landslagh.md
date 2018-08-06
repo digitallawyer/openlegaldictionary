@@ -1,5 +1,6 @@
 ---
 title: Landslagh
+letter: L
 permalink: "/definitions/landslagh.html"
 body: Iu Swedish law. A body of common lnw, compiled about the thirteenth century,
   out of the particular customs of every province; being analogous to the cominon

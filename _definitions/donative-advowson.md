@@ -1,5 +1,6 @@
 ---
 title: Donative Advowson
+letter: D
 permalink: "/definitions/donative-advowson.html"
 body: In ecclesias-tical law. A species of advowson, where the benefice 4s conferred
   on the clerk by the patron’s deed of donation, without presenta-tlon, institution,

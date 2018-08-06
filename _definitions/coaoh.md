@@ -1,5 +1,6 @@
 ---
 title: Coaoh
+letter: C
 permalink: "/definitions/coaoh.html"
 body: Coach is a generic term. It is a kind of carriage, and is distinguished from
   other vehicles, chiefly, as being a covered box, hung on leathers, with four wheels.

@@ -1,5 +1,6 @@
 ---
 title: Anger
+letter: A
 permalink: "/definitions/anger.html"
 body: A strong passion of the mind excited by real or supposed injuries; not synonymous
   with “heat of passion,” “malice,” or “rage or resentment,” because these are all

@@ -1,5 +1,6 @@
 ---
 title: Paintings
+letter: P
 permalink: "/definitions/paintings.html"
 body: It is held that colored lmitations of rugs and carpets and colored working designs,
   each of them valuable and designed by skilled persons and hand paint-ed, but having

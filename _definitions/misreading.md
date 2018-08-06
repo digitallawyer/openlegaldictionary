@@ -1,5 +1,6 @@
 ---
 title: Misreading
+letter: M
 permalink: "/definitions/misreading.html"
 body: Reading a deed or other lnstrument to an llliterate or blind man (who is a party
   to lt) in a false or deceitful manner, so that he conceives a wrong idea of its

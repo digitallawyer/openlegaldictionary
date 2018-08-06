@@ -1,5 +1,6 @@
 ---
 title: Hypothetical Question
+letter: H
 permalink: "/definitions/hypothetical-question.html"
 body: A com-binatlon of assumed or proved facts and cir-cumstances, stated in such
   form as to constitute a coherent and specific situation or state of facts, upon

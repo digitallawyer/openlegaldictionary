@@ -1,5 +1,6 @@
 ---
 title: Approach
+letter: A
 permalink: "/definitions/approach.html"
 body: in international law. The right of a ship of war, upon the high sea, to visit
   another vessel for the purpose of ascertaining the nationality of the latter. 1

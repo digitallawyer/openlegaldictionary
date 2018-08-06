@@ -1,5 +1,6 @@
 ---
 title: Consular Courts
+letter: C
 permalink: "/definitions/consular-courts.html"
 body: Courts held by the consuls of one country, within the ter-ritory of another,
   under authority given by treaty, for the settlement of civil cases be-tween citizens

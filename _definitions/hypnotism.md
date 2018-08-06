@@ -1,5 +1,6 @@
 ---
 title: Hypnotism
+letter: H
 permalink: "/definitions/hypnotism.html"
 body: In medical jurisprudence. A psychic or mental state rendering the pa-tient susceptible
   to suggestion at the will of another

@@ -1,5 +1,6 @@
 ---
 title: Fianza
+letter: F
 permalink: "/definitions/fianza.html"
 body: Sp. in Spanish law, trust, con-fldence, and correlatively a legal duty or ob-ligatiou
   arising therefrom. The term is suffl-clentiy broad lu meanlng to include both a

@@ -1,5 +1,6 @@
 ---
 title: Preces Primaries
+letter: P
 permalink: "/definitions/preces-primaries.html"
 body: In English ec-tfeslastical law. A right of the crown to name to the first prebend
   that becomes va-cant after the accession of the sovereign, in every church of the

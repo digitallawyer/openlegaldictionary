@@ -1,5 +1,6 @@
 ---
 title: Statement
+letter: S
 permalink: "/definitions/statement.html"
 body: In a general sense, an allegation; a declaration of matters of fact. The term
   has come to be used of a variety of formal narratives of facts, required by law

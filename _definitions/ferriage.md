@@ -1,5 +1,6 @@
 ---
 title: Ferriage
+letter: F
 permalink: "/definitions/ferriage.html"
 body: The toll or fare paid for the transportation of persons and property across
   a ferry

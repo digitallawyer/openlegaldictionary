@@ -1,5 +1,6 @@
 ---
 title: Rangho
+letter: R
 permalink: "/definitions/rangho.html"
 body: Sp. A small collection of men or thelr dwellings; a hamlet. As used, however,
   in Mexico and in the Spanish law formerly prevailing in California, the term signifies

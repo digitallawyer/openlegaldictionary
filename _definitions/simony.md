@@ -1,5 +1,6 @@
 ---
 title: Simony
+letter: S
 permalink: "/definitions/simony.html"
 body: In English ecclesiastical law. The corrupt presentation of any oue to an ecclesiastical
   benefice for money, gift, or re-ward. 2 Bl. Comm. 278. An unlawful con-tract for

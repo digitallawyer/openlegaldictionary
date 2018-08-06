@@ -1,5 +1,6 @@
 ---
 title: Search-Warrant
+letter: S
 permalink: "/definitions/search-warrant.html"
 body: A search-warrant is an order in writing, issued by a justice or other magistrate,
   in the name of the state, directed to a sheriff, constable, or oth-er officer, commanding

@@ -1,5 +1,6 @@
 ---
 title: Suretyship
+letter: S
 permalink: "/definitions/suretyship.html"
 body: 'The contract of suretyship is that whereby one obligates himself to pay the
   debt of another in consideration of credit or indulgence, or other benefit given

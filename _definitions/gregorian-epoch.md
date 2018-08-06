@@ -1,5 +1,6 @@
 ---
 title: Gregorian Epoch
+letter: G
 permalink: "/definitions/gregorian-epoch.html"
 body: The time from which the Gregorian calendar or computation dates; i. e., from
   the year 1582

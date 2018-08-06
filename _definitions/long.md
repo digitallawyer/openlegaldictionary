@@ -1,5 +1,6 @@
 ---
 title: Long
+letter: L
 permalink: "/definitions/long.html"
 body: In various compound legal terms (see infra) this word carries a meaning not
   essentially different from its signification in the vernacular

@@ -1,5 +1,6 @@
 ---
 title: Preventive Justice
+letter: P
 permalink: "/definitions/preventive-justice.html"
 body: ". The system of measures taken by government with ref-erence to the direct
   prevention of crime. It generally consists in obliging those per-sons whom there

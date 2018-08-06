@@ -1,5 +1,6 @@
 ---
 title: Pax Regis
+letter: P
 permalink: "/definitions/pax-regis.html"
 body: Lat. The peace of the king; that is, the peace, good order, and se-curlty for
   life and property which it is one of the objects of government to maintain, and

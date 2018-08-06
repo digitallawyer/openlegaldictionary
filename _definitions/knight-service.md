@@ -1,5 +1,6 @@
 ---
 title: Knight-Service
+letter: K
 permalink: "/definitions/knight-service.html"
 body: A species of feu-dal tenure, which differed very slightly from a pure and perfect
   feud, being entirely of a military nature; and it was the first, most universal,

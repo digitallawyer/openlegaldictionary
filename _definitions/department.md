@@ -1,5 +1,6 @@
 ---
 title: Department
+letter: D
 permalink: "/definitions/department.html"
 body: 1. one of the terrlto-rial divisions of a country. The term is chiefiy used
   in this sense in France, where the division of the country Into departments is somewhat

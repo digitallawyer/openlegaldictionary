@@ -1,5 +1,6 @@
 ---
 title: Freeman
+letter: F
 permalink: "/definitions/freeman.html"
 body: This word has had various meanings at different stages of history. In the Roman
   law, it denoted one who was either bom free or emancipated, and was the opposite

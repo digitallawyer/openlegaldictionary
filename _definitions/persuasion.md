@@ -1,5 +1,6 @@
 ---
 title: Persuasion
+letter: P
 permalink: "/definitions/persuasion.html"
 body: The act of persuading; the nct of influencing the mind by arguments or reasons
   offered, or by anything that moves the mind or passions, or inclines the will to

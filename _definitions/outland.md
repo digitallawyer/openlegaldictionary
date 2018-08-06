@@ -1,5 +1,6 @@
 ---
 title: Outland
+letter: O
 permalink: "/definitions/outland.html"
 body: The Saxon thanes divided their hereditary lands into Inland, such as lay nearest
   their dwelling, which they kept' to their own use, and outland, which lay beyond

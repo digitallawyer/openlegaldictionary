@@ -1,5 +1,6 @@
 ---
 title: Prosecution
+letter: P
 permalink: "/definitions/prosecution.html"
 body: In criminal law. A criminal action; a proceeding instituted and carried on by
   due course of law, before a competent tribunal, for the purpose of de-termining

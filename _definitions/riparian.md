@@ -1,5 +1,6 @@
 ---
 title: Riparian
+letter: R
 permalink: "/definitions/riparian.html"
 body: Belonging or relating to the bank of a river; of or on the bank. Land lying
   beyond the natural watershed of a stream is not “riiwrian.” Bathgate v. Ir-vine,

@@ -1,5 +1,6 @@
 ---
 title: Gabel
+letter: G
 permalink: "/definitions/gabel.html"
 body: An excise; a tax on movables; a rent, custom, or service. Co. Litt. 213. —Land
   gabel. See Land

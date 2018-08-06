@@ -1,5 +1,6 @@
 ---
 title: Umpirage
+letter: U
 permalink: "/definitions/umpirage.html"
 body: The decision of an umpire. The word “umpirage,” in reference to an umpire, is
   the same as the word “award,” in reference to arbitrators; but “award" is commonly

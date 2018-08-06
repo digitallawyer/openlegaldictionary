@@ -1,5 +1,6 @@
 ---
 title: Chefe
+letter: C
 permalink: "/definitions/chefe.html"
 body: In Anglo-Norman law. Were or weregild; the price of the head or person, (capitis
   pretium

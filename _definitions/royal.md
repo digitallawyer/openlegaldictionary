@@ -1,5 +1,6 @@
 ---
 title: Royal
+letter: R
 permalink: "/definitions/royal.html"
 body: Of or pertaining to or proceed-ing from the king oc sovereign in a mon-archlcal
   government

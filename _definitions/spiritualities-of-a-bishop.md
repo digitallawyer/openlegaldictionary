@@ -1,5 +1,6 @@
 ---
 title: Spiritualities Of A Bishop
+letter: S
 permalink: "/definitions/spiritualities-of-a-bishop.html"
 body: Those profits which a bishop receives in hls ecclesiastical character, as the
   dues arising from hls ordaining and instituting priests, and such like, in contradistinction

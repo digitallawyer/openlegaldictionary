@@ -1,5 +1,6 @@
 ---
 title: Power Of Disposition
+letter: P
 permalink: "/definitions/power-of-disposition.html"
 body: Every power of. disposition is deemed absolute, by means of which the donee
   of such power is enabled In hia life-time to dispose of the en-tire fee for his

@@ -1,5 +1,6 @@
 ---
 title: Tauri Liberi Libertas
+letter: T
 permalink: "/definitions/tauri-liberi-libertas.html"
 body: Lat. A common bull; because he was free to all the tenants withln such a manor,
   liberty, etc

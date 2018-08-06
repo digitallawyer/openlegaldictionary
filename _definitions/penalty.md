@@ -1,5 +1,6 @@
 ---
 title: Penalty
+letter: P
 permalink: "/definitions/penalty.html"
 body: 1. The sum of money which the obligor of a bond undertakes to pay by way of
   penalty, in tbe event of his omitting to perform or carry out the terms imposed

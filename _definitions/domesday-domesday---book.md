@@ -1,5 +1,6 @@
 ---
 title: Domesday, Domesday - Book
+letter: D
 permalink: "/definitions/domesday-domesday---book.html"
 body: "(Sax.) An ancient record made in the time of william the Conqueror, and now
   remain-ing in the English exchequer, consisting of two volumes of unequal size,

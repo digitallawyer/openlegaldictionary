@@ -1,5 +1,6 @@
 ---
 title: Remanentia
+letter: R
 permalink: "/definitions/remanentia.html"
 body: In old English law. A remainder. Spelman. A perpetuity, or perpetual estate.
   Glan. llb. 7, & 1

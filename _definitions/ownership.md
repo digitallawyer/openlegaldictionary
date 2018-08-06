@@ -1,5 +1,6 @@
 ---
 title: Ownership
+letter: O
 permalink: "/definitions/ownership.html"
 body: The complete dominion, title, or proprietary right in a thing or claim. See
   Property

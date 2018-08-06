@@ -1,5 +1,6 @@
 ---
 title: Homologate
+letter: H
 permalink: "/definitions/homologate.html"
 body: In modern civil law. To approve; to confirm; as a court homologates a proceeding.
   See Homologation. Literally, to use the same words with an-other; to say the like.

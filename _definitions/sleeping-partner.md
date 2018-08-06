@@ -1,5 +1,6 @@
 ---
 title: Sleeping Partner
+letter: S
 permalink: "/definitions/sleeping-partner.html"
 body: A dormant partner; one whose name does not appear in the firm, and who takes
   no active part in the business, but who has an interest in the concern, and shares

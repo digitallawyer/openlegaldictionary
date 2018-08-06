@@ -1,5 +1,6 @@
 ---
 title: Dowager
+letter: D
 permalink: "/definitions/dowager.html"
 body: A widow who is endowed, or who has a jointure in lieu of dower. In England,
   this is a title or addition given to the widows of princes, dukes, earls, and other

@@ -1,5 +1,6 @@
 ---
 title: Curriculum
+letter: C
 permalink: "/definitions/curriculum.html"
 body: The year; of the course of a year; the set of studies for a particular period,
   appointed by a university

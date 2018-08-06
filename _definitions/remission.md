@@ -1,5 +1,6 @@
 ---
 title: Remission
+letter: R
 permalink: "/definitions/remission.html"
 body: In tbe civil Uw. A release of a debt it is conventional, when it is expressly
   granted to the debtor by a cred-itor having a capacity to alienate; or tacit, when

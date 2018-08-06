@@ -1,5 +1,6 @@
 ---
 title: Roman Catholio Charities Aot
+letter: R
 permalink: "/definitions/roman-catholio-charities-aot.html"
 body: The statute 23 & 24 Vict c. 134, providing a method for enjoying estates given
   upon

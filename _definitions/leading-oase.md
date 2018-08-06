@@ -1,5 +1,6 @@
 ---
 title: Leading Oase
+letter: L
 permalink: "/definitions/leading-oase.html"
 body: Among the various cases that are argued and determined in the courts, some,
   from their important character, have demanded more than usual attention from the

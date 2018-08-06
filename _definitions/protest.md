@@ -1,5 +1,6 @@
 ---
 title: Protest
+letter: P
 permalink: "/definitions/protest.html"
 body: 1. A formal declaration made by a person interested or concerned in some act
   about to be done, or already per-formed, and in relation thereto, whereby he expresses

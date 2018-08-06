@@ -1,5 +1,6 @@
 ---
 title: Suborner
+letter: S
 permalink: "/definitions/suborner.html"
 body: one who suborns or pro-cures another to commlt any crime, particularly to commit
   perjury

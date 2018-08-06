@@ -1,5 +1,6 @@
 ---
 title: Post Obit Bond
+letter: P
 permalink: "/definitions/post-obit-bond.html"
 body: A bond glven by an expectant, to become due on tbe death of a person from whom
   he will have property. A bond or agreement glven by a borrower of money, by which

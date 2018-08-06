@@ -1,5 +1,6 @@
 ---
 title: Counsellor
+letter: C
 permalink: "/definitions/counsellor.html"
 body: An advocate of barrls-ter. A member of the legal profession whose special function
   is to give counsel or advice as to the legal aspects of judicial contro-versies,

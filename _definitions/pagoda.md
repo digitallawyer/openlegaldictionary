@@ -1,5 +1,6 @@
 ---
 title: Pagoda
+letter: P
 permalink: "/definitions/pagoda.html"
 body: A gold or silver coin, of several kinds and values, formerly current in India.
   It was valued, at the United States custom-house, at $1.94

@@ -1,5 +1,6 @@
 ---
 title: Set-Off
+letter: S
 permalink: "/definitions/set-off.html"
 body: A counter-claim or cross-de-mand; a claim or demand which the defend-ant in
   an action sets off against the claim of the plaintiff, as being his due, whereby

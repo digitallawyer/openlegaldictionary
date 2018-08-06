@@ -1,5 +1,6 @@
 ---
 title: Unliquidated
+letter: U
 permalink: "/definitions/unliquidated.html"
 body: Not ascertained in amount; not determined; remaining unassessed or unsettled;
   as unliquidated dam-ages. See Damages

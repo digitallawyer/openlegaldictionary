@@ -1,5 +1,6 @@
 ---
 title: Medicine
+letter: M
 permalink: "/definitions/medicine.html"
 body: The practice of medicine is a pursuit very generally known and under-stood,
   and so also is that of surgery. The former includes the application and use of medicines

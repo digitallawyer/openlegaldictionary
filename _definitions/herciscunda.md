@@ -1,5 +1,6 @@
 ---
 title: Herciscunda
+letter: H
 permalink: "/definitions/herciscunda.html"
 body: In the clvll law. To *be divided. Familia hcrcixcundo, an inherlt-ance to be
   divided. Actio famili# herds-fund#, an action for dividing an inheritance. Erciscunda

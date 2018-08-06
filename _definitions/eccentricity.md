@@ -1,5 +1,6 @@
 ---
 title: Eccentricity
+letter: E
 permalink: "/definitions/eccentricity.html"
 body: In criminal law and medical jurisprudence. Personal or indlvid-ual peculiarities
   of mind and disposition which markedly distinguish the subject from the' ordinary,

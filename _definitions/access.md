@@ -1,5 +1,6 @@
 ---
 title: Access
+letter: A
 permalink: "/definitions/access.html"
 body: Approach; or the means, pow-er, or opportunlty of approaching. Some-times importing
   the occurrence of sexual in-tercourse; otherwise as importing opportuni-ty of communication

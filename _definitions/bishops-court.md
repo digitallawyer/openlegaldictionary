@@ -1,5 +1,6 @@
 ---
 title: Bishop'S Court
+letter: B
 permalink: "/definitions/bishops-court.html"
 body: In English law. An ecclesiastical court, held in the cathedral of each diocese,
   tlie judge whereof is the bishop’s chancellor, who judges by the civil canon law;

@@ -1,5 +1,6 @@
 ---
 title: Heregeld
+letter: H
 permalink: "/definitions/heregeld.html"
 body: Sax. In old English law. A tribute or tax levied for the maintenance of an army.
   Spelman

@@ -1,5 +1,6 @@
 ---
 title: Indictio
+letter: I
 permalink: "/definitions/indictio.html"
 body: In old public law. A declaration; a proclamation. Indictio belli, a declaration
   or lndiction of war. An indict-ment

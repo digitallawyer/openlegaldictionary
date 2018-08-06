@@ -1,5 +1,6 @@
 ---
 title: Final
+letter: F
 permalink: "/definitions/final.html"
 body: Definitive; terminating; completed ; last. In its use in jurisprudence, this
   word is generally contrasted with “interlocu-tory.” Johnson v. New York, 48 Hun,

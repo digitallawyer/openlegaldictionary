@@ -1,5 +1,6 @@
 ---
 title: Disgrace
+letter: D
 permalink: "/definitions/disgrace.html"
 body: Ignominy; shame; dishon-or. No witness is required to disgrace him-seif. 13
   How. State Tr. 17, 334

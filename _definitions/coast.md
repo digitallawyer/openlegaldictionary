@@ -1,5 +1,6 @@
 ---
 title: Coast
+letter: C
 permalink: "/definitions/coast.html"
 body: The edge or margin of a country bounding on the sea. It is held that the term
   includes small islands and reefs natu-rally connected with the adjacent land, and

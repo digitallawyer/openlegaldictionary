@@ -1,5 +1,6 @@
 ---
 title: Infringement
+letter: I
 permalink: "/definitions/infringement.html"
 body: A breaking into; a trespass or encroachment upon; a violation of a law, regulation,
   contract, or rigbt. Used especially of invasions of the rights se-cured by patents,

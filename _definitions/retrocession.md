@@ -1,5 +1,6 @@
 ---
 title: Retrocession
+letter: R
 permalink: "/definitions/retrocession.html"
 body: In the civil law. when the assignee of heritable rights conveys hls rights back
   to the* cedent, it is called a “retrocession.” Ersk. Inst. 3, 5,1

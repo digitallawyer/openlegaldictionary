@@ -1,5 +1,6 @@
 ---
 title: Habitancy
+letter: H
 permalink: "/definitions/habitancy.html"
 body: Settled dwelling in a given place; fixed and permanent residence there. This
   term is more cpmprehenslve than “domicile,” for one may he domiciled in a given

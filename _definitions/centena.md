@@ -1,5 +1,6 @@
 ---
 title: Centena
+letter: C
 permalink: "/definitions/centena.html"
 body: A hundred. A district or division containing originally a hundred free-men,
   established among the Goths, Germans, Franks, and Lombards, for military and civil

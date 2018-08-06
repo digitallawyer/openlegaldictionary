@@ -1,5 +1,6 @@
 ---
 title: Movable
+letter: M
 permalink: "/definitions/movable.html"
 body: That which can be changed in place, as movable property; or in time, aa movable
   feasts or terms of court See wood v. George, 6 Dana (Ky.) 343; Strong v. white,

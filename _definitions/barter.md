@@ -1,5 +1,6 @@
 ---
 title: Barter
+letter: B
 permalink: "/definitions/barter.html"
 body: 'A contract by which parties exchange goods or commodities for other goods.
   It differs from sale, in this: that in'

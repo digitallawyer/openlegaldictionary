@@ -1,5 +1,6 @@
 ---
 title: Conventicle
+letter: C
 permalink: "/definitions/conventicle.html"
 body: A private assembly or meetlng for the exercise of religion. Tbe word was first
   an appellation of reproach to the religious assemblies of wycliffe in The reigns

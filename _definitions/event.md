@@ -1,5 +1,6 @@
 ---
 title: Event
+letter: E
 permalink: "/definitions/event.html"
 body: In reference to judicial and quasi judicial proceedings, the “event" means the
   conclusion, end, or finai outcome or re-suit of a litigation; as, in the phrase

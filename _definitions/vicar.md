@@ -1,5 +1,6 @@
 ---
 title: Vicar
+letter: V
 permalink: "/definitions/vicar.html"
 body: one who performs the functlons of another; a substitute. Also the incumbent
   of an approprlated or lmproprlated ecclesias-tlcal benefice, as distinguished from

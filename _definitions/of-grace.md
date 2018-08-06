@@ -1,5 +1,6 @@
 ---
 title: Of Grace
+letter: O
 permalink: "/definitions/of-grace.html"
 body: A term applied to hny jier-mission or license granted to & phrty in the course
   of a judlclal proceeding which 1S not claimable as a matter of Course or of right,

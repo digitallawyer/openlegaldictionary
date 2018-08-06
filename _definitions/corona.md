@@ -1,5 +1,6 @@
 ---
 title: Corona
+letter: C
 permalink: "/definitions/corona.html"
 body: The crown. Placita corona; pleas of the crown; criminal actions or pro-ceedlngs,
   in which the crown was the pros-ecutor

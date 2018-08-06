@@ -1,5 +1,6 @@
 ---
 title: Data
+letter: D
 permalink: "/definitions/data.html"
 body: In old practice and conveyancing. The date of a deed; the time when it was given;
   that Is, executed

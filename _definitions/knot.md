@@ -1,5 +1,6 @@
 ---
 title: Knot
+letter: K
 permalink: "/definitions/knot.html"
 body: In seamen’s language, a “knot” is a division of the log-line serving to meas-ure
   the rate of the vessel’s motion. The number of knots which run off from the reel

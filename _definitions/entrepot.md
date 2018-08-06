@@ -1,5 +1,6 @@
 ---
 title: Entrepot
+letter: E
 permalink: "/definitions/entrepot.html"
 body: A warehouse or magazine for the deposit of goods. In France, a bulld-ing or
   place where goods from abroad may be deposited, and from whence they may be withdrawn

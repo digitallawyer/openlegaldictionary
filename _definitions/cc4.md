@@ -1,5 +1,6 @@
 ---
 title: C. C
+letter: C
 permalink: "/definitions/cc4.html"
 body: d by the inhabitants of a manor to their ord, towards the charge of holding
   a court leet. Bailey, Diet.—Common form. A will is said to be proved in common form

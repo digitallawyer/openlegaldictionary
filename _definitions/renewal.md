@@ -1,5 +1,6 @@
 ---
 title: Renewal
+letter: R
 permalink: "/definitions/renewal.html"
 body: The act of renewlng or reviving. The substitution of a new grant, engagement,
   or right, in place of one which has expired, of the snme character and on the same

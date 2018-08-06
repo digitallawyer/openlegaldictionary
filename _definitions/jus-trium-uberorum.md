@@ -1,5 +1,6 @@
 ---
 title: Jus Trium Uberorum
+letter: J
 permalink: "/definitions/jus-trium-uberorum.html"
 body: 'In Roman . law. A right or privilege allowed to the parent of three or more
   children. 2 Kent,'' Comm. 85; 2 Bl. Comm. 247. These prlvl-’ leges were an exemption

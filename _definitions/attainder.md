@@ -1,5 +1,6 @@
 ---
 title: Attainder
+letter: A
 permalink: "/definitions/attainder.html"
 body: That extinction of civil rights and capacities which takes place when-ever a
   person who has committed treason or felony receives sentence of death for his crime.

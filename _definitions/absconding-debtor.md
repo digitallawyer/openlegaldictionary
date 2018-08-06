@@ -1,5 +1,6 @@
 ---
 title: Absconding Debtor
+letter: A
 permalink: "/definitions/absconding-debtor.html"
 body: one,who;ab-sconds from his credltors. An absconding, debtor is oue who lives
   without the stpte, or who has intentionally concealed himself from his creditors,

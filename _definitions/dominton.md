@@ -1,5 +1,6 @@
 ---
 title: Dominton
+letter: D
 permalink: "/definitions/dominton.html"
 body: ownership, or right to property. 2 Bl. Comm. 1. Title to an ar-tide of property
   which arises from the pow-er of disposition and the right of claiming it Beker v.

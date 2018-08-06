@@ -1,5 +1,6 @@
 ---
 title: Bar Fee
+letter: B
 permalink: "/definitions/bar-fee.html"
 body: In Eugllsh law. A fee taken by the sheriff, time out of mind, for every prisoner
   who is acquitted. Bac. Abr. “Ex-tortion.” Abolished by St. 14 Geo. III. c. 26; 55

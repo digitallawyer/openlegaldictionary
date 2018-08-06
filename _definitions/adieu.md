@@ -1,5 +1,6 @@
 ---
 title: Adieu
+letter: A
 permalink: "/definitions/adieu.html"
 body: L. Fr. without day. A com-mon term in the Year Books, implying final dismissal
   from court

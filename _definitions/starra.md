@@ -1,5 +1,6 @@
 ---
 title: Starra
+letter: S
 permalink: "/definitions/starra.html"
 body: or STARRA. The old term for contract or obligation among the Jews, be-ing a
   corruption from the Hebrew word “sftefar,” a covenant By an ordinance of Richard

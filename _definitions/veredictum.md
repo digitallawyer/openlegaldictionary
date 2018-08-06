@@ -1,5 +1,6 @@
 ---
 title: Veredictum
+letter: V
 permalink: "/definitions/veredictum.html"
 body: L. Lat in old English law. A verdict; a declaration of the truth of a matter
   in issue, submitted to a jury for trial

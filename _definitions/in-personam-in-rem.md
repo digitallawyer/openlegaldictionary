@@ -1,5 +1,6 @@
 ---
 title: In Personam, In Rem
+letter: I
 permalink: "/definitions/in-personam-in-rem.html"
 body: In the Ro-maa law, from which they are taken, the expressions “in rem” and “in
   personam” were always opposed to one another, an act or proceeding in personam being

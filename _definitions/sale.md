@@ -1,5 +1,6 @@
 ---
 title: Sale
+letter: S
 permalink: "/definitions/sale.html"
 body: A 'contract between two parties, called, respectively, the “seller" (or vendor)
   and the “buyer,” (or purchaser,) by whlch the former, in consideration of the payment

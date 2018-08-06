@@ -1,5 +1,6 @@
 ---
 title: Amb Actus
+letter: A
 permalink: "/definitions/amb-actus.html"
 body: A messenger; a servant sent about; one whose services his master hired out.
   Spelman

@@ -1,5 +1,6 @@
 ---
 title: Vetera Statuta
+letter: V
 permalink: "/definitions/vetera-statuta.html"
 body: Lat Ancient statutes. The English statutes from Magna Charta to the end of the
   reign of Edward II. are so called; tbose from the beglnnlng of tbe relgn of Edward

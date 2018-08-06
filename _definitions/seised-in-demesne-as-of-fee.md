@@ -1,5 +1,6 @@
 ---
 title: Seised In Demesne As Of Fee
+letter: S
 permalink: "/definitions/seised-in-demesne-as-of-fee.html"
 body: Thls is the strict technical expression nsed to describe the ownership in "an
   estate in fee-simple in possession in a corporeal here^ dltament.” The word “seised"

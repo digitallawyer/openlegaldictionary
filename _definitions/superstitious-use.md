@@ -1,5 +1,6 @@
 ---
 title: Superstitious Use
+letter: S
 permalink: "/definitions/superstitious-use.html"
 body: In Engllsh law. when lands, tenements, rents, goods, or chattels are given,
   secured, or appointed for and towards the maintenance of a priest or chaplain to

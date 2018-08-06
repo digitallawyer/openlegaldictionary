@@ -1,5 +1,6 @@
 ---
 title: Foldage
+letter: F
 permalink: "/definitions/foldage.html"
 body: A privilege possessed in some placee by the lord of a manor, which con-sists
   in the rigbt of having his tenant’s sheep to feed on his fields, so as to manure

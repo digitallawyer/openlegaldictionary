@@ -1,5 +1,6 @@
 ---
 title: Corporeal
+letter: C
 permalink: "/definitions/corporeal.html"
 body: A term descriptive of such things as have an objective, material existence;
   perceptible by the senses of sight and touch; possessing a real body, opiwsed to

@@ -1,5 +1,6 @@
 ---
 title: Allot
+letter: A
 permalink: "/definitions/allot.html"
 body: To apportion, distribute; to dl-vide property previously held in common among
   those entitled, assigning to each his ratable portion, to be held in severalty;

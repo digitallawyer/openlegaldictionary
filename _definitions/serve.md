@@ -1,5 +1,6 @@
 ---
 title: Serve
+letter: S
 permalink: "/definitions/serve.html"
 body: In Scotch practice. To render a verdict or decision in favor of a person claiming
   to be an heir; to declare the fact of hls heirship Judicially. A jury are said to

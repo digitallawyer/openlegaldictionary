@@ -1,5 +1,6 @@
 ---
 title: Bord-Brigch
+letter: B
 permalink: "/definitions/bord-brigch.html"
 body: In Saxon law. A breach or vlolatlon of suretyship; pledge-breach, or breach
   of mutual fidelity

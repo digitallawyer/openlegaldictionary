@@ -1,5 +1,6 @@
 ---
 title: Chop-Ohurgh
+letter: C
 permalink: "/definitions/chop-ohurgh.html"
 body: A word mentioned in 9 Hen. VI. c. 65, by the sense of which it was in those
   days a klnd of trade, and by tlie judges declared to be lawful. But Brooke, in hls

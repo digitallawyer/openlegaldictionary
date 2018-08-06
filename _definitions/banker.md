@@ -1,5 +1,6 @@
 ---
 title: Banker
+letter: B
 permalink: "/definitions/banker.html"
 body: A private person who keeps a bank; one who is engaged in the business of banking.
   People v. Doty, 80 N. Y. 228; Auten v. Bank, 174 U. S. 125, 19 Sup; Ct. 628, 43

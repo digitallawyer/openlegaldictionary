@@ -1,5 +1,6 @@
 ---
 title: Insurable Interest
+letter: I
 permalink: "/definitions/insurable-interest.html"
 body: Such a real and substantial Interest in specific property as will sustain a
   contract to indemnify the person interested against its loss. Mutual

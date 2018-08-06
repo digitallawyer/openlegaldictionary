@@ -1,5 +1,6 @@
 ---
 title: Ex Comparatione Scriptorum
+letter: E
 permalink: "/definitions/ex-comparatione-scriptorum.html"
 body: By a comparison of writings or handwritings. A term in the law of evidence.
   Best, Pres. 218.

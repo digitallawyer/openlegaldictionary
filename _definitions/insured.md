@@ -1,5 +1,6 @@
 ---
 title: Insured
+letter: I
 permalink: "/definitions/insured.html"
 body: The person who obtains insurance on his property, or upon whose life an insurance
   is effected

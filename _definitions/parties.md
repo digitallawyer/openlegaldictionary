@@ -1,5 +1,6 @@
 ---
 title: Parties
+letter: P
 permalink: "/definitions/parties.html"
 body: Tbe persons who take part in the performance of any act, or who are directly
   Interested in any affair, eontract, or conveyance, or who are actively concerned

@@ -1,5 +1,6 @@
 ---
 title: Kings-At-Arms
+letter: K
 permalink: "/definitions/kings-at-arms.html"
 body: 'The prlncipal her-aid of Englaq0 was of old designated “klng of the heralds,"
   a title which seems to have been exchanged for “king-at-aruis” about the reign of

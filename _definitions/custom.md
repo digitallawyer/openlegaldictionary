@@ -1,5 +1,6 @@
 ---
 title: Custom
+letter: C
 permalink: "/definitions/custom.html"
 body: A usage or practice of tlie people, which, by common adoption and ac-quiesceuce.
   and by long aud uuvaryiug habit, has become compulsory, and has acquired the force

@@ -1,5 +1,6 @@
 ---
 title: Desafuero
+letter: D
 permalink: "/definitions/desafuero.html"
 body: In Spanish law. An irregular actlon committed wlth violence against law, custom,
   or reason

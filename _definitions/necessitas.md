@@ -1,5 +1,6 @@
 ---
 title: Necessitas
+letter: N
 permalink: "/definitions/necessitas.html"
 body: Lat. Necessity; a force, power, or influence which compels one to act agninst
   hls will. Calvin

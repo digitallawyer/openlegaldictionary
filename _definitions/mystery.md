@@ -1,5 +1,6 @@
 ---
 title: Mystery
+letter: M
 permalink: "/definitions/mystery.html"
 body: A trade, art, or occupation. 2 Inst 668. Masters frequently bind them-selves
   in the indentures with their appren-tices to teach them their art, trade, and mystery.

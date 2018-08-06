@@ -1,5 +1,6 @@
 ---
 title: Guild
+letter: G
 permalink: "/definitions/guild.html"
 body: A voluntary association of persons pursuing the same trade, art, profession,
   or business, such as printers, goldsmiths, wool merchants, etc., united under a

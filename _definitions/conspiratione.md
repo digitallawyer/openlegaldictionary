@@ -1,5 +1,6 @@
 ---
 title: Conspiratione
+letter: C
 permalink: "/definitions/conspiratione.html"
 body: An ancient writ that lay against conspirators. Reg. orig. 134; Fitzh. Nat Brev.
   114

@@ -1,5 +1,6 @@
 ---
 title: Divine Laws
+letter: D
 permalink: "/definitions/divine-laws.html"
 body: As distinguished from those of human origin, divine laws are those of whicli
   the authorship is ascribed to God, being either positive or revealed laws or the

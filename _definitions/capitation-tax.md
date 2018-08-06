@@ -1,5 +1,6 @@
 ---
 title: Capitation Tax
+letter: C
 permalink: "/definitions/capitation-tax.html"
 body: AX. one which is levied upon the person simply, without any reference to his
   property, real or personal, or to any business in which he may be engaged, or to

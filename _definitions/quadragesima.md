@@ -1,5 +1,6 @@
 ---
 title: Quadragesima
+letter: Q
 permalink: "/definitions/quadragesima.html"
 body: Lat The fortieth. The first Sunday iu Lent is so called because it is about
   the fortieth day before Easter. Oowell

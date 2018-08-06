@@ -1,5 +1,6 @@
 ---
 title: Herge
+letter: H
 permalink: "/definitions/herge.html"
 body: In Saxon law. offenders who joined in a body of more than thirty-five to commit-
   depredations

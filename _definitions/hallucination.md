@@ -1,5 +1,6 @@
 ---
 title: Hallucination
+letter: H
 permalink: "/definitions/hallucination.html"
 body: In medical juris-prudence. A trick or deceit of the senses; a morbld error either
   of the sense of sight or that of hearlng, or posslbly of the other senses; a psychological

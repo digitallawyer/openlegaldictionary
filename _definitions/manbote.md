@@ -1,5 +1,6 @@
 ---
 title: Manbote
+letter: M
 permalink: "/definitions/manbote.html"
 body: In Saxon law. A compensation or recompense for homicide, particularly due to
   the lord for killing his man or vassal, the amount of which was regulated by that

@@ -1,5 +1,6 @@
 ---
 title: Gounterpart
+letter: G
 permalink: "/definitions/gounterpart.html"
 body: In conveyancing. The corresponding part of an instrument; a duplicate or copy,
   where an instrument of conveyance, as a lease, is executed in parts, that is, by

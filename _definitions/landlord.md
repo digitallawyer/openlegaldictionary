@@ -1,5 +1,6 @@
 ---
 title: Landlord
+letter: L
 permalink: "/definitions/landlord.html"
 body: He of whom lands or ten-ementa are holdeu. He who, being tbe owner of an estate
   in land, has leased the same for a term of yeara, on a rent reserved, to au-other

@@ -1,5 +1,6 @@
 ---
 title: Admiralty
+letter: A
 permalink: "/definitions/admiralty.html"
 body: A court exercising jurls-diction over maritlme causes, both civil and criminal,
   and marine affairs, commerce and navigation, controversies arising out of acts done

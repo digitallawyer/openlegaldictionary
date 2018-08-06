@@ -1,5 +1,6 @@
 ---
 title: Cause List
+letter: C
 permalink: "/definitions/cause-list.html"
 body: In English practice. A printed roll of actions, to be tried in the order of
   thelr entry, with the names of the solicitors for each litigant Similar to the calendar

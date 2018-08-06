@@ -1,5 +1,6 @@
 ---
 title: Withdrawing Record
+letter: W
 permalink: "/definitions/withdrawing-record.html"
 body: In prac-tice. The withdrawing by a plaintiff of the nisi prius or trial record
   filed in a cause, just before the trial is entered upon, for the pur-pose of preventing

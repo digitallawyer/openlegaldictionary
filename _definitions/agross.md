@@ -1,5 +1,6 @@
 ---
 title: Agross
+letter: A
 permalink: "/definitions/agross.html"
 body: Under a grant of a right of way across the plaintiff's lot of land, the grantee
   has not a rlght to enter at oue place, go partly across, and then come out at an-other

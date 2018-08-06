@@ -1,5 +1,6 @@
 ---
 title: Receuptor
+letter: R
 permalink: "/definitions/receuptor.html"
 body: OR. A name given in some of the states to a person who receives from the sheriff
   goods which the latter has seized under process of garnishment, on giving to the

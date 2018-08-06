@@ -1,5 +1,6 @@
 ---
 title: Raffle
+letter: R
 permalink: "/definitions/raffle.html"
 body: A kind of lottery in which several persons pay, in shares, the value of something
   put up as a stake, and then deter-mine by chance (as by casting dice) which one

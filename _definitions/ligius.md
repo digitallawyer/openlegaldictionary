@@ -1,5 +1,6 @@
 ---
 title: Ligius
+letter: L
 permalink: "/definitions/ligius.html"
 body: A person bound to another by a solemn tie or engagement. Now used to express
   the relation of a subject to his sovereign

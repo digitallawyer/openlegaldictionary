@@ -1,5 +1,6 @@
 ---
 title: Lode
+letter: L
 permalink: "/definitions/lode.html"
 body: This term, as used in the legis-lation of congress, is applicable to any zone
   or belt of miueralized rotit lying within boundaries clearly separating it from

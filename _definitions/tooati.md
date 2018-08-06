@@ -1,5 +1,6 @@
 ---
 title: Tooati
+letter: T
 permalink: "/definitions/tooati.html"
 body: Lat. In Roman la’fv. Advocates; so called under the empire because they were
   required, wben appearing in court to plead a cause, to wear the toga, which had

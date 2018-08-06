@@ -1,5 +1,6 @@
 ---
 title: Gamalis
+letter: G
 permalink: "/definitions/gamalis.html"
 body: A child born in lawful wed-lock ; also one born to betrothed but unmarried parents.
   Spelman

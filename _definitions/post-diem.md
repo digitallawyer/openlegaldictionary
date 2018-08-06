@@ -1,5 +1,6 @@
 ---
 title: Post Diem
+letter: P
 permalink: "/definitions/post-diem.html"
 body: After the day; as, a plea of payment post diem, after the day when the money
   became due. Com. Dig. “Plead-er," 2

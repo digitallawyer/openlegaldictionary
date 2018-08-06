@@ -1,5 +1,6 @@
 ---
 title: Adulteration
+letter: A
 permalink: "/definitions/adulteration.html"
 body: The act of corrupt-ing or debasing. The term is generally np-piied to the act
   of mixing up with food or drink intended to be sold other matters of an inferior

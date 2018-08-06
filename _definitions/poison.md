@@ -1,5 +1,6 @@
 ---
 title: Poison
+letter: P
 permalink: "/definitions/poison.html"
 body: In medical Jurisprudence. A substance having an inherent deleterious property
   which renders it, when taken into the system, capable of destroying life. 2 whart.

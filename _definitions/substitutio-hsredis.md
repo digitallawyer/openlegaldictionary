@@ -1,5 +1,6 @@
 ---
 title: Substitutio Hsredis
+letter: S
 permalink: "/definitions/substitutio-hsredis.html"
 body: Lat. In Roman law, it was competent for a testator after instituting a baeres
   (called the “baeres institutus") to substitute auother (called the “baeres substitutus”)

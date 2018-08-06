@@ -1,5 +1,6 @@
 ---
 title: Comorth
+letter: C
 permalink: "/definitions/comorth.html"
 body: H, or COMORTH. A contrl-bution which was gathered at marriages, and when young
   priests said or sung the first masses. Prohibited by 26 Hen. VIIL c. 6. CowelL

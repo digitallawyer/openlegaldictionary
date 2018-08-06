@@ -1,5 +1,6 @@
 ---
 title: Exuere Patriam
+letter: E
 permalink: "/definitions/exuere-patriam.html"
 body: AM. To throw off of renounce one’s country or native allegiance; to expatriate
   one's self. Phillim. Dohi. IS

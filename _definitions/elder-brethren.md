@@ -1,5 +1,6 @@
 ---
 title: Elder Brethren
+letter: E
 permalink: "/definitions/elder-brethren.html"
 body: A distinguished body of men, elected as masters of Trinity House, an Institution
   incorporated in the reign of Henry VIII., charged with numer-ous important duties

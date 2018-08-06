@@ -1,5 +1,6 @@
 ---
 title: Equality
+letter: E
 permalink: "/definitions/equality.html"
 body: The condition of possessing the same rights, prlvlleges, and immunlties, and
   belng liable to the same duties

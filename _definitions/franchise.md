@@ -1,5 +1,6 @@
 ---
 title: Franchise
+letter: F
 permalink: "/definitions/franchise.html"
 body: A apecial privilege conferred by government npon an individual or corporation,
   and which does not belong to the citizens of the country generally, of common right.

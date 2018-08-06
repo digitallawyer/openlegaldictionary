@@ -1,5 +1,6 @@
 ---
 title: I H. Bi
+letter: I
 permalink: "/definitions/i-h-bi.html"
 body: ook. In mercantile law. A book in which an account of bilis of exchange and
   prom-issory notes, whether payable or receivable, is stated.—Bill-bead. A printed

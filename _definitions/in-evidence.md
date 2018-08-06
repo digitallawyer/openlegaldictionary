@@ -1,5 +1,6 @@
 ---
 title: In Evidence
+letter: I
 permalink: "/definitions/in-evidence.html"
 body: Included in the evidence already adduced. The “facts in evidence” are such as
   have already been proved in the canse

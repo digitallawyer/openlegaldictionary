@@ -1,5 +1,6 @@
 ---
 title: Opening
+letter: O
 permalink: "/definitions/opening.html"
 body: In American practice. The beginning; the commencement; tbe first ad-dress of
   tbe counsel

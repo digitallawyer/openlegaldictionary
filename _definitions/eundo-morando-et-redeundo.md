@@ -1,5 +1,6 @@
 ---
 title: Eundo, Morando, Et Redeundo
+letter: E
 permalink: "/definitions/eundo-morando-et-redeundo.html"
 body: Lat Going, remaining, and returning. A person who is privileged from arrest
   (as a witness, legislator, etc.) is generally so privi-leged eundo, morando, et

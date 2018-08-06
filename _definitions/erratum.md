@@ -1,5 +1,6 @@
 ---
 title: Erratum
+letter: E
 permalink: "/definitions/erratum.html"
 body: Lat Error. Used in the Latin formula for assigning errors, and in the reply
   thereto, “ln nullo est erratum,” i. e., there was no error, no error was committed

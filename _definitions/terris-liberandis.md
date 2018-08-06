@@ -1,5 +1,6 @@
 ---
 title: Terris Liberandis
+letter: T
 permalink: "/definitions/terris-liberandis.html"
 body: A writ that lay for a man convicted hy attaint, to bring the record and process
   before the king, and take a flne for his imprisonment, and then to deliver to him

@@ -1,5 +1,6 @@
 ---
 title: Sanis
+letter: S
 permalink: "/definitions/sanis.html"
 body: A kind of punishment among the Greeks; inflicted by binding the male-factor
   fast to a piece of wood. Enc. LendJ

@@ -1,5 +1,6 @@
 ---
 title: River
+letter: R
 permalink: "/definitions/river.html"
 body: A natural stream of water, of greater volume than a creek or rivulet, flowing
   in a more or less permanent bed or chan-nel, between defined banks or walls, with

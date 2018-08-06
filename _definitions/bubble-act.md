@@ -1,5 +1,6 @@
 ---
 title: Bubble Act
+letter: B
 permalink: "/definitions/bubble-act.html"
 body: The statute 6 Geo. I. c. 18, “for restraining several extravagant and unwarrantable
   practices herein mentioned," was so called. It prescribed penalties for the formation

@@ -1,5 +1,6 @@
 ---
 title: Pathology
+letter: P
 permalink: "/definitions/pathology.html"
 body: 'In medical jurispru-dence. The science or doctrine of diseases. That part of
   medicine which explains the nature of diseases, their causes, and thelr symptoms.

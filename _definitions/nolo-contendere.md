@@ -1,5 +1,6 @@
 ---
 title: Nolo Contendere
+letter: N
 permalink: "/definitions/nolo-contendere.html"
 body: Lat I will not contest it The name of a plea in a criminal action, having the
   same legal effect as a plea of guilty, so far as regards all proceedings on the

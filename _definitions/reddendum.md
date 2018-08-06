@@ -1,5 +1,6 @@
 ---
 title: Reddendum
+letter: R
 permalink: "/definitions/reddendum.html"
 body: Lat. In conveyancing. Rendering; yielding. The technlcal name of that clause
   in a conveyance by whlch the grantor creates or reserves some new thing to himself,

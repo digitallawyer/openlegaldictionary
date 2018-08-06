@@ -1,5 +1,6 @@
 ---
 title: Touch
+letter: T
 permalink: "/definitions/touch.html"
 body: In lnsurance law. To stop at a port If there be liberty granted hy the policy
   to touch, or to touch and stay, at an intermediate port on the passage, the better

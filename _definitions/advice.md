@@ -1,5 +1,6 @@
 ---
 title: Advice
+letter: A
 permalink: "/definitions/advice.html"
 body: Vlew; opinlou; the counsel given by lawyers to thelr clients; an opinion expressed
   as to wisdom of future conduct

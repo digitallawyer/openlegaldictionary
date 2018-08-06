@@ -1,5 +1,6 @@
 ---
 title: Superficies
+letter: S
 permalink: "/definitions/superficies.html"
 body: Lat in the dull law. The allenation by the owner of the surface of the soll
   of all rlghts necessary for building on the surface, a yearly rent being generally

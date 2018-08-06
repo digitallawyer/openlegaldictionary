@@ -1,5 +1,6 @@
 ---
 title: Octroi
+letter: O
 permalink: "/definitions/octroi.html"
 body: Fr. In French law. originally, a duty, whlch, by the permission of the seigneur,
   any city was accustomed to col-lect on liquors and some other goods, brought wlthln

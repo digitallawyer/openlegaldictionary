@@ -1,5 +1,6 @@
 ---
 title: Writ Of Recaption
+letter: W
 permalink: "/definitions/writ-of-recaption.html"
 body: If, pendlng an action of replevin for a distress, the defendant distrains again
   for the same rent or service, the owner of the goods is not driven to another action

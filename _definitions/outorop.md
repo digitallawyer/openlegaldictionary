@@ -1,5 +1,6 @@
 ---
 title: Outorop
+letter: O
 permalink: "/definitions/outorop.html"
 body: In mlnlng law. The edge of a stratum which appears at the surface of the ground;
   that portion of a vein or lode which appears at the surface or immediately under

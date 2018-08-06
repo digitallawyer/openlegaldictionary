@@ -1,5 +1,6 @@
 ---
 title: Mind
+letter: M
 permalink: "/definitions/mind.html"
 body: In Its legal sense, "mind” means only the ability to will, to direct, to permit,
   or to assent. In this sense, a corporation has a mind, and exerts its mind each

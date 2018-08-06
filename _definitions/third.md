@@ -1,5 +1,6 @@
 ---
 title: Third
+letter: T
 permalink: "/definitions/third.html"
 body: Following next after the sec, ond j also, with reference to any legal in? strument
   or transaction or judicial proceeding, nny outsider or person not a party tq the

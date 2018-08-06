@@ -1,5 +1,6 @@
 ---
 title: Privies
+letter: P
 permalink: "/definitions/privies.html"
 body: Persons connected together, or having a mutual interest in the same action or
   thing, by some relation other than that of actual contract between them; persons

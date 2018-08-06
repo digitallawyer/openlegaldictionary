@@ -1,5 +1,6 @@
 ---
 title: Striking A Jury
+letter: S
 permalink: "/definitions/striking-a-jury.html"
 body: The selecting or nominating a jury of twelve men out of the whole number returned
   as jurors on the panel. It is especially used of the selection of a special jury,

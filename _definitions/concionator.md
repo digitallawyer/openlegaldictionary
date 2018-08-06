@@ -1,5 +1,6 @@
 ---
 title: Concionator
+letter: C
 permalink: "/definitions/concionator.html"
 body: In old records. A common council man; a freeman called to a legislative hall
   or assembly. Cowell

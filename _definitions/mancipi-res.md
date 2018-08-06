@@ -1,5 +1,6 @@
 ---
 title: Mancipi Res
+letter: M
 permalink: "/definitions/mancipi-res.html"
 body: LaL In Roman law. Certain classes of thlngs which could not be aliened or transferred
   except by means of a certain formal ceremony of conveyance called “mancipatio:*

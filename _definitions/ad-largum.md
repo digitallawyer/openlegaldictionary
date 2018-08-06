@@ -1,5 +1,6 @@
 ---
 title: Ad Largum
+letter: A
 permalink: "/definitions/ad-largum.html"
 body: At large; at liberty; free, or unconflned. Ire ad largum, to go at large. Plowd.
   37

@@ -1,5 +1,6 @@
 ---
 title: Ita Lex Scripta Est
+letter: I
 permalink: "/definitions/ita-lex-scripta-est.html"
 body: Lat So the law is written. Dig. 40, 9, 12. The law must be obeyed notwithstanding
   the apparent rigor of Its application. 3 Bl. Comm. 430. we must be content with

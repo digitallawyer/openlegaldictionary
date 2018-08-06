@@ -1,5 +1,6 @@
 ---
 title: Dictation
+letter: D
 permalink: "/definitions/dictation.html"
 body: In Louisiana, this term is used in a technical sense, aud means to pronounce
   orally what is destined to be written at the same time by another. It is used in

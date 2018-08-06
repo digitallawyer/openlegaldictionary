@@ -1,5 +1,6 @@
 ---
 title: Province
+letter: P
 permalink: "/definitions/province.html"
 body: E. Sometimes this signifies the district into which a country lias been divid
   ed; as, the province of Canterbury, in Eng-land; the province of Languedoc, in France.

@@ -1,5 +1,6 @@
 ---
 title: Summon
+letter: S
 permalink: "/definitions/summon.html"
 body: In practice. To serve a summons ; to cite a defendant to appear in conrt to
   answer a suit which has been begun against him; to notify the defendant that an

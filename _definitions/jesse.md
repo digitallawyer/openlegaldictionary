@@ -1,5 +1,6 @@
 ---
 title: Jesse
+letter: J
 permalink: "/definitions/jesse.html"
 body: A large brass candlestlck, usually hung in the middle of a church or choir.
   Cowell

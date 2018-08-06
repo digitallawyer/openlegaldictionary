@@ -1,5 +1,6 @@
 ---
 title: Bega
+letter: B
 permalink: "/definitions/bega.html"
 body: A land measure used in the Blast Indies. In Beugal it is equal to about a third
   part of an acre

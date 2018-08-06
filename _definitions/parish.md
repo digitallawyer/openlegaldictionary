@@ -1,5 +1,6 @@
 ---
 title: Parish
+letter: P
 permalink: "/definitions/parish.html"
 body: In English law. A circuit of ground, committed to the charge of one parson or
   vicar, or other minister having cure of souls therein. 1 Bl. Comm. 111. wilson v.

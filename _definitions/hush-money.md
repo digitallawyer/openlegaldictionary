@@ -1,5 +1,6 @@
 ---
 title: Hush-Money
+letter: H
 permalink: "/definitions/hush-money.html"
 body: A colloquial expression to designate a bribe to hinder information; pay to secure
   silence

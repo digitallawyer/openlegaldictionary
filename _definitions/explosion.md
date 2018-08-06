@@ -1,5 +1,6 @@
 ---
 title: Explosion
+letter: E
 permalink: "/definitions/explosion.html"
 body: A sudden and rapid com-bustion, causing violent expansion of the air, and accompanied
   by a report

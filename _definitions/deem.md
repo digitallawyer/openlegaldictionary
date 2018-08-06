@@ -1,5 +1,6 @@
 ---
 title: Deem
+letter: D
 permalink: "/definitions/deem.html"
 body: To hold; conslder; adjudge; condemn. Cory v. Spencer, 67 Kan. 648, 73 Pac. 920,
   63 L. R. A. 275; Blaufus v. People, 69 N. ¥. Ill, 25 Am. Rep. 148; U. S. v. Doher-ty

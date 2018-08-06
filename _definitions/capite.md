@@ -1,5 +1,6 @@
 ---
 title: Capite
+letter: C
 permalink: "/definitions/capite.html"
 body: Lat. By the head. Tenure in capite was an ancient feudal tenure, whereby a man
   held lands of the king immedtate-ly. It was of two sorts,—the one, principal and

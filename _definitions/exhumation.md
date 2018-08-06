@@ -1,5 +1,6 @@
 ---
 title: Exhumation
+letter: E
 permalink: "/definitions/exhumation.html"
 body: Disinterment; the removal from the earth of anything previously burled therein,
   particularly a human corpse

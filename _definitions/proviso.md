@@ -1,5 +1,6 @@
 ---
 title: Proviso
+letter: P
 permalink: "/definitions/proviso.html"
 body: A condltion or provision which is inserted in a deed, lease, mortgage, or contract,
   and on the performance or non-performance of which the validity of the deed, etc.,

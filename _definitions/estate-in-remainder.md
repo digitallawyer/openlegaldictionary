@@ -1,5 +1,6 @@
 ---
 title: Estate In Remainder
+letter: E
 permalink: "/definitions/estate-in-remainder.html"
 body: An estate limited to take effect in possession, or in enjoyment, or in both,
   subject only to any term of years or contingent interest that may intervene, immediately

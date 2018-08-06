@@ -1,5 +1,6 @@
 ---
 title: Ab Aotis
+letter: A
 permalink: "/definitions/ab-aotis.html"
 body: Lat An. officer having charge of acta, public records, registers, jour-nals,
   or minutes; an officer who entered on record the acta or proceedings of a court;

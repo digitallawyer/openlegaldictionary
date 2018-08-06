@@ -1,5 +1,6 @@
 ---
 title: Per Aes Et Libram
+letter: P
 permalink: "/definitions/per-aes-et-libram.html"
 body: Lat. In Roman law. The sale per aes ef libram (with copper and scales) was a
   ceremony used in transfer-ring res mancipi, in the emancipation of a son or slave,

@@ -1,5 +1,6 @@
 ---
 title: Convent
+letter: C
 permalink: "/definitions/convent.html"
 body: The fraternity of an abbey or priory, as societas is the number of fellows in
   a college. A religious house, now regarded as a merely voluntary association, not

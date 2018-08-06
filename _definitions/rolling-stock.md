@@ -1,5 +1,6 @@
 ---
 title: Rolling Stock
+letter: R
 permalink: "/definitions/rolling-stock.html"
 body: The portable or movable apparatus and machinery of a rallroad, particularly
   such as moves on the road, viz., engines, cars, tenders, coaches, and trucks. See

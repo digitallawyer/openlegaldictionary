@@ -1,5 +1,6 @@
 ---
 title: Muebles
+letter: M
 permalink: "/definitions/muebles.html"
 body: In Spanish law. Movables; all sorts of personal property, white, New Recop.
   b. 1, tlt. 3, c. 1, § 2

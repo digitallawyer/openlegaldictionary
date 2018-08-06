@@ -1,5 +1,6 @@
 ---
 title: I W. A M
+letter: I
 permalink: "/definitions/i-w-a-m.html"
 body: rights. A formal and emphatic leg-islative assertion and declaration of popular
   rights and liberties usually promulgated upon a change of government; particularly

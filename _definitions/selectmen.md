@@ -1,5 +1,6 @@
 ---
 title: Selectmen
+letter: S
 permalink: "/definitions/selectmen.html"
 body: The name of certain municipal officers, in the Nqw England states, elected by
   the towns to transact thelr gen-eral pnbllc business, and possessing certain executive

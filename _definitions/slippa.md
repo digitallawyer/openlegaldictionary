@@ -1,5 +1,6 @@
 ---
 title: Slippa
+letter: S
 permalink: "/definitions/slippa.html"
 body: A stirrup. There is a tenure of land in Cambridgeshire by holding the sovereign’s
   stirrup, wharton

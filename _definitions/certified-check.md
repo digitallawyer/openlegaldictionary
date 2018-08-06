@@ -1,5 +1,6 @@
 ---
 title: Certified Check
+letter: C
 permalink: "/definitions/certified-check.html"
 body: In the practice of bankers. This is a depositor’s check rec-ognlzed and accepted
   by the proper officer of the bank as a valid appropriation of the amount specified

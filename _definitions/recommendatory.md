@@ -1,5 +1,6 @@
 ---
 title: Recommendatory
+letter: R
 permalink: "/definitions/recommendatory.html"
 body: Precatory, advisory, or directory. Recommendatory words in a will are such as
   do not express the testator's command in a peremptory form, but advise, counsel,

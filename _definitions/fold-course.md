@@ -1,5 +1,6 @@
 ---
 title: Fold-Course
+letter: F
 permalink: "/definitions/fold-course.html"
 body: In English law. Land to which the sole right of folding the cattle of others
   is appurtenant. Sometimes it means merely such right of folding. Tbe right of folding

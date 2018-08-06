@@ -1,5 +1,6 @@
 ---
 title: Hacienda
+letter: H
 permalink: "/definitions/hacienda.html"
 body: Iu Spanish law. The pub-lic domaln; the royal estate; the aggregate wealth of
   the state. The science of admin-isterlng the national wealth; public economy. Also

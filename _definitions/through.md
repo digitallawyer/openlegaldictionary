@@ -1,5 +1,6 @@
 ---
 title: Through
+letter: T
 permalink: "/definitions/through.html"
 body: This word is sometimes equivalent to “over;" as in a statute in ref-erence to
   laying out a road “through" certain grounds. Hyde Park v. Oakwoods Cemetery Ass’n,

@@ -1,5 +1,6 @@
 ---
 title: Cognomen
+letter: C
 permalink: "/definitions/cognomen.html"
 body: In Roman law. A man's family name. The first name (prcrnomcn) was the proper
   name of the Individual; the second (nomen) indicated the gens or tribe to which

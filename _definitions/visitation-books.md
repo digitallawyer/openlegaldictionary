@@ -1,5 +1,6 @@
 ---
 title: Visitation Books
+letter: V
 permalink: "/definitions/visitation-books.html"
 body: In English law. Books compiled by the heralds, when prog-resses were solemnly
   and regularly made Into every part of the kingdom, to Inquire into the state of

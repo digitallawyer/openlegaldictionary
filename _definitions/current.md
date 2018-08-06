@@ -1,5 +1,6 @@
 ---
 title: Current
+letter: C
 permalink: "/definitions/current.html"
 body: Ruuning; now in transit; whatever is at present in course of passage; as “the
   current month.” when applied to money, it means “lawful;” current money is equivalent

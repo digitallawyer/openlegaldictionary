@@ -1,5 +1,6 @@
 ---
 title: Consols
+letter: C
 permalink: "/definitions/consols.html"
 body: An abbreviation of the ex-pression "consolidated annuities," and used in modern
   times as a name of various funds united in one for the payment of the British national

@@ -1,5 +1,6 @@
 ---
 title: Feodary
+letter: F
 permalink: "/definitions/feodary.html"
 body: An oflicer of the court of wards, appointed by the master of that court, under
   32 Hen. VIII. c. 20, whose business if was to be present with the escheator in every

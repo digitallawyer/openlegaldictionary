@@ -1,5 +1,6 @@
 ---
 title: Robbery
+letter: R
 permalink: "/definitions/robbery.html"
 body: Robbery is the felonious taking of personal property in th§ possession of another,
   from his person or immediate presence, and against hls will, accomplished by means

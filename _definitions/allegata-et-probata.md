@@ -1,5 +1,6 @@
 ---
 title: Allegata Et Probata
+letter: A
 permalink: "/definitions/allegata-et-probata.html"
 body: Lat. Things alleged and proved. The allegations made hy a party to a sult, and
   the proof ad-duced in their support

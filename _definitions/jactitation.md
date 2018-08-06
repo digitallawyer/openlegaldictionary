@@ -1,5 +1,6 @@
 ---
 title: Jactitation
+letter: J
 permalink: "/definitions/jactitation.html"
 body: A false boasting; a false clalm; assertions repeated to the preju-dlce of another's
   rlght The species of defamation or disparagement of another’s title to real estate

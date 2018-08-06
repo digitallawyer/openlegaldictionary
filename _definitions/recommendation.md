@@ -1,5 +1,6 @@
 ---
 title: Recommendation
+letter: R
 permalink: "/definitions/recommendation.html"
 body: In feudal law. A method of converting allodial land into feudal property. The
   owner of the allod surrendered it to the king or a lord, doing homage, and received

@@ -1,5 +1,6 @@
 ---
 title: Herus
+letter: H
 permalink: "/definitions/herus.html"
 body: Lat. A master. Servus facit ut rterus det, the servant does [the work] in order
   that the master may glve [hlm the wages agreed on.] Herus dat ut servus facit, the

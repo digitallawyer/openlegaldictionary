@@ -1,5 +1,6 @@
 ---
 title: Friendly Societies
+letter: F
 permalink: "/definitions/friendly-societies.html"
 body: In English law. Associations supported by subscrip-tion, for the relief and
   maintenance of the members, or their wives, children, relatives, and nominees, in

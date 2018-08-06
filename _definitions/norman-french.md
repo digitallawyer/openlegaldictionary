@@ -1,5 +1,6 @@
 ---
 title: Norman French
+letter: N
 permalink: "/definitions/norman-french.html"
 body: The tongue in whlch several formal proceedings of state in England are stlll
   carrled on. The lan-guage, having remained the same since the date of the Conquest,

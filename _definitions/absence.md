@@ -1,5 +1,6 @@
 ---
 title: Absence
+letter: A
 permalink: "/definitions/absence.html"
 body: CE. The state of being absent, removed, or away from one’s domlci^ or qsual.
   plaqe of residence. , v/ ;.c.i

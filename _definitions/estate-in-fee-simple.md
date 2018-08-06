@@ -1,5 +1,6 @@
 ---
 title: Estate In Fee-Simple
+letter: E
 permalink: "/definitions/estate-in-fee-simple.html"
 body: The estate which a man has where 'lands are given to him and to his heirs absolutely
   without any end or limit put to his estate. 2 Bl. Coram. 106; Plowd. 557; 1 Prest.

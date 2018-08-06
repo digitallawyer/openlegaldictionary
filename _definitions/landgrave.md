@@ -1,5 +1,6 @@
 ---
 title: Landgrave
+letter: L
 permalink: "/definitions/landgrave.html"
 body: A name formerly given to those who executed justice on behalf of the German
   emperors, with regard to the internal policy of the country. It was ap* plied, by

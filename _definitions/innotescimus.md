@@ -1,5 +1,6 @@
 ---
 title: Innotescimus
+letter: I
 permalink: "/definitions/innotescimus.html"
 body: Lat. we make known. A term formerly applied to letters patent, derived from
   the emphatic word at the conclusion of the Latin forms. It was a species of exemplification

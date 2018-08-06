@@ -1,5 +1,6 @@
 ---
 title: Movables
+letter: M
 permalink: "/definitions/movables.html"
 body: Things movable; movable or personal chattels, which may be annexed to or attendant
   on the person of the owner, and carried about with him from one part of the world

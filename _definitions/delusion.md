@@ -1,5 +1,6 @@
 ---
 title: Delusion
+letter: D
 permalink: "/definitions/delusion.html"
 body: In medical jurisprudence. An insane delusion is an unreasoning and in-corrigible
   belief in the existence of facts which are either impossible absolutely, or, at

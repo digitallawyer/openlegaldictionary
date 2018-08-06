@@ -1,5 +1,6 @@
 ---
 title: Personate
+letter: P
 permalink: "/definitions/personate.html"
 body: In criminal law. To as-sume the person (character) of another, wlth-out his
   consent or knowledge, in order to de-ceive others, and, in such feigned character,

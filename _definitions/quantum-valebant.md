@@ -1,5 +1,6 @@
 ---
 title: Quantum Valebant
+letter: Q
 permalink: "/definitions/quantum-valebant.html"
 body: As much as they were worth. In pleadlng. The com-mon count In an action of assumpsit
   for goods sold and delivered, founded on an implled assumpsit or promise, on the

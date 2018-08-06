@@ -1,5 +1,6 @@
 ---
 title: De Theolonio
+letter: D
 permalink: "/definitions/de-theolonio.html"
 body: A writ which lay for a person who was prevented from taking toll. Reg. orig.
   103

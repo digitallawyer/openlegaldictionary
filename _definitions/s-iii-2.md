@@ -1,5 +1,6 @@
 ---
 title: S Iii
+letter: S
 permalink: "/definitions/s-iii-2.html"
 body: 'term is often defined in statutes and judicial decisions as meaning “tbe crime
   against nature," the “crimen innominatum" or as car-nal copulation, against the

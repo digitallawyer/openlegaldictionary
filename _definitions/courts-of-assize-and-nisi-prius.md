@@ -1,5 +1,6 @@
 ---
 title: Courts Of Assize And Nisi Prius
+letter: C
 permalink: "/definitions/courts-of-assize-and-nisi-prius.html"
 body: Courts in England composed of two or more commissioners, called “judges of assize,”
   (or of “assize and nisi prius,") who are twice in every year sent by the king’s

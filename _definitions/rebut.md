@@ -1,5 +1,6 @@
 ---
 title: Rebut
+letter: R
 permalink: "/definitions/rebut.html"
 body: In pleading and evidence. To rehut is to defeat or take away the effect of something.
   Thus, when a plaintiff in an action produces evidence which raises a pre-sumption

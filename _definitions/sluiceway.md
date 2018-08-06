@@ -1,5 +1,6 @@
 ---
 title: Sluiceway
+letter: S
 permalink: "/definitions/sluiceway.html"
 body: An artificial channel ln-to which water is let by a sluice. Speciflcal-ly, a
   trench constructed over the bed of a stream, so that logs or lumber can be floated

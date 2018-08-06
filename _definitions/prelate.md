@@ -1,5 +1,6 @@
 ---
 title: Prelate
+letter: P
 permalink: "/definitions/prelate.html"
 body: A clergyman of a superior order, as an archblshop or a bishop, having authority
   over the lower clergy; a dignitary of the church, webster

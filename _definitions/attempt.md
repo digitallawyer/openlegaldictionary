@@ -1,5 +1,6 @@
 ---
 title: Attempt
+letter: A
 permalink: "/definitions/attempt.html"
 body: In criminal law. An effort or endeavor to accomplish a crime, arnount-ing to
   more than mere preparation or pfan-nlng for it, and which, if not prevented, would

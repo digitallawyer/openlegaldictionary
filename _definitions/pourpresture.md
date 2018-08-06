@@ -1,5 +1,6 @@
 ---
 title: Pourpresture
+letter: P
 permalink: "/definitions/pourpresture.html"
 body: An inclosure. Any-thlng done to the nuisance or hurt of the public demesnes,
   or the highways, etc., by inclosure or building, endeavoring to make that private

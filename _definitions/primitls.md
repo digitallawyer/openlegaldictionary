@@ -1,5 +1,6 @@
 ---
 title: Primitls
+letter: P
 permalink: "/definitions/primitls.html"
 body: In English law. First fruits; the first year’s whole profits of a spiritual
   preferment 1 Bl. Comm. 284

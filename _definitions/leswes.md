@@ -1,5 +1,6 @@
 ---
 title: Leswes
+letter: L
 permalink: "/definitions/leswes.html"
 body: Pastures. Domesday; Co. Litt 4b. A term often inserted in old deeds and conveyances.
   Cowell

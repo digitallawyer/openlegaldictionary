@@ -1,5 +1,6 @@
 ---
 title: Supreme Court
+letter: S
 permalink: "/definitions/supreme-court.html"
 body: A court of high powers and extensive jurisdiction, existing ih most of the states.
   In some it is the offldal style of the chief appellate court or court of last resort

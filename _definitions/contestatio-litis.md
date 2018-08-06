@@ -1,5 +1,6 @@
 ---
 title: Contestatio Litis
+letter: C
 permalink: "/definitions/contestatio-litis.html"
 body: In Roman law. Contestation of sult; the framing an Issue; joinder in issue.
   The formal act of both the parties with which the proceedings in jure were closed

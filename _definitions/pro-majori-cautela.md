@@ -1,5 +1,6 @@
 ---
 title: Pro Majori Cautela
+letter: P
 permalink: "/definitions/pro-majori-cautela.html"
 body: For great-er caution; by way of additional security. Usually applied to some
   act doue, or some clause inserted in an instrument, which may not be really necessary,

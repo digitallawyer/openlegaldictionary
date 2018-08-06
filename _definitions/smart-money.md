@@ -1,5 +1,6 @@
 ---
 title: Smart-Money
+letter: S
 permalink: "/definitions/smart-money.html"
 body: Vindictive or exem-piary damages. See Brewer v. Jacobs (C. C.) 22 Fed. 224;
   Springer v. Somers Fuel Co., 196 Pa. 156, 46 Ati. 370; Day v. wood-worth, 13 How.

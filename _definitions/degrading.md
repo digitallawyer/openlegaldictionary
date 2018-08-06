@@ -1,5 +1,6 @@
 ---
 title: Degrading
+letter: D
 permalink: "/definitions/degrading.html"
 body: Revlllng; holding one up to public obloquy; lowering a person in the estimation
   of the public

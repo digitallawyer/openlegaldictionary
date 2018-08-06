@@ -1,5 +1,6 @@
 ---
 title: Abettor
+letter: A
 permalink: "/definitions/abettor.html"
 body: In criminal law. An instigator, or setter on; one who promotes or procures a
   crime to be committed; one who commands, advises, instigates, or encourages another

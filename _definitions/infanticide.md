@@ -1,5 +1,6 @@
 ---
 title: Infanticide
+letter: I
 permalink: "/definitions/infanticide.html"
 body: The murder or killing of an infant soon after Its birth. The fact of the birth
   distinguishes this act from “foeticide" or “procuring abortion,” which terms denote

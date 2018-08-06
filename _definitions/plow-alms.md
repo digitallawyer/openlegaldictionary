@@ -1,5 +1,6 @@
 ---
 title: Plow-Alms
+letter: P
 permalink: "/definitions/plow-alms.html"
 body: The anclent payment of a penny to the church from every plow-land. 1 Mon. Angl.
   256

@@ -1,5 +1,6 @@
 ---
 title: Mediate Powers
+letter: M
 permalink: "/definitions/mediate-powers.html"
 body: Those incident to primary powers given by a principal to hls agent For example,
   the general authority given to collect, receive, and pay debts due by or to the

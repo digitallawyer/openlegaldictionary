@@ -1,5 +1,6 @@
 ---
 title: Building Lease
+letter: B
 permalink: "/definitions/building-lease.html"
 body: A lease of land for a long term of years, usually 99, at a rent called a “ground
   rent,” the lessee covenant-ing to erect certaln edifices thereon according to specification,

@@ -1,5 +1,6 @@
 ---
 title: Fauces Terrs
+letter: F
 permalink: "/definitions/fauces-terrs.html"
 body: "(Jaws of the land.) Narrow headlands and promontories, inclos-ing a portion
   or arm of the sea within them. 1 Kent, Comm. 367, and note; Hale, De Jure Mar. 10;

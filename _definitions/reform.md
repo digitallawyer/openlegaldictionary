@@ -1,5 +1,6 @@
 ---
 title: Reform
+letter: R
 permalink: "/definitions/reform.html"
 body: To correct, rectify, amend, remodel. Instruments inter partes may be reformed,
   when defective, by a court of equi-ty. By thls is meant that the court, after ascertaining

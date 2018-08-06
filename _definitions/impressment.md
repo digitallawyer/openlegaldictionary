@@ -1,5 +1,6 @@
 ---
 title: Impressment
+letter: I
 permalink: "/definitions/impressment.html"
 body: A power possessed by the English crown of taking persons or property to aid
   in the defense of the country, with or without the consent of the persons concerned.

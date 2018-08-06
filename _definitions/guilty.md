@@ -1,5 +1,6 @@
 ---
 title: Guilty
+letter: G
 permalink: "/definitions/guilty.html"
 body: Havlng committed a crime or tort; the word used by a prisoner In plead-lng to
   an indictment when he confesses the crime of which he is charged, and by the jury

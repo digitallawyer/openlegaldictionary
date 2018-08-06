@@ -1,5 +1,6 @@
 ---
 title: Terminable Property
+letter: T
 permalink: "/definitions/terminable-property.html"
 body: Thls name is sometimes given to property of such a nature that Its duration
   is not perpetual or indefinite, but is llmited or llable to terminate upon tlie

@@ -1,5 +1,6 @@
 ---
 title: Quare Incumbravit
+letter: Q
 permalink: "/definitions/quare-incumbravit.html"
 body: In English law. A writ which lay against a bishop who, within six months after
   the vacation of a benefice, conferred it on his clerk, whlle two others were contendlng

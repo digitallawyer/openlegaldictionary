@@ -1,5 +1,6 @@
 ---
 title: Pluries
+letter: P
 permalink: "/definitions/pluries.html"
 body: Lat often; frequently, when an original and alias writ have been issued and
   proved ineffectual, a third writ, called a “pluries writ,” may frequently.be issued.

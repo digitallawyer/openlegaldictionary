@@ -1,5 +1,6 @@
 ---
 title: Assay
+letter: A
 permalink: "/definitions/assay.html"
 body: The proof or trial, by. chemical experiments, of the purity or fineness of met-als,—particularly
   of the precious metals, gold and silver

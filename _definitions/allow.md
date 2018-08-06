@@ -1,5 +1,6 @@
 ---
 title: Allow
+letter: A
 permalink: "/definitions/allow.html"
 body: 'To grant, approve, or permit; as to allow an appeal or a marriage; to allow
   an account. Also to give a fit portion out of a larger property or fund. Thurman

@@ -1,5 +1,6 @@
 ---
 title: Tumbrel
+letter: T
 permalink: "/definitions/tumbrel.html"
 body: A castigatory, trebucket, or ducking-stool, anciently used as a punisb-ment
   for common scolds

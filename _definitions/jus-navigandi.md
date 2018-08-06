@@ -1,5 +1,6 @@
 ---
 title: Jus Navigandi
+letter: J
 permalink: "/definitions/jus-navigandi.html"
 body: The right of nav-' igating or navigation; the right of commerce by ships or
   by sea. Locc. de Jure Mar. lih. 1, c. 3

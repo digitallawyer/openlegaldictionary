@@ -1,5 +1,6 @@
 ---
 title: Fehmgerichte
+letter: F
 permalink: "/definitions/fehmgerichte.html"
 body: The name given to certain secret tribunals which flourished in Germany from
   the end of the twelfth cen-tury to the middle of the sixteenth, usurping many of

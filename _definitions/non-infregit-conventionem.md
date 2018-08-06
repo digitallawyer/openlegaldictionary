@@ -1,5 +1,6 @@
 ---
 title: Non Infregit Conventionem
+letter: N
 permalink: "/definitions/non-infregit-conventionem.html"
 body: Lat He did not break the contract The name of a plea sometimes pleaded in the
   action of covenant, and intended as a general issue, but held to be a had plea;

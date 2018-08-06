@@ -1,5 +1,6 @@
 ---
 title: Satisfaction
+letter: S
 permalink: "/definitions/satisfaction.html"
 body: The act of satisfying a party by paylng what is due to him, (as on a mortgage,
   lien, or contract,) or what is awarded to him, by the judgment of a conrt or otherwise.

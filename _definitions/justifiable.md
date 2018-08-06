@@ -1,5 +1,6 @@
 ---
 title: Justifiable
+letter: J
 permalink: "/definitions/justifiable.html"
 body: Rightful; warranted or sanctioned by law; that which can be shown to be sustained
   by law; as justifiable homicide. See Homicide

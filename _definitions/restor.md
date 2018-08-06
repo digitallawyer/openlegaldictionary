@@ -1,5 +1,6 @@
 ---
 title: Restor
+letter: R
 permalink: "/definitions/restor.html"
 body: R, or RESTOR. The remedy or recourse which marine underwriters have against
   each other, according to the date of their assurances, or against the master, if

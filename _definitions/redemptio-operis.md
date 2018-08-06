@@ -1,5 +1,6 @@
 ---
 title: Redemptio Operis
+letter: R
 permalink: "/definitions/redemptio-operis.html"
 body: Lat in Roman law, a contract for the hlrlng or letting of services, or for the
   performance of a certain work in consideration of the pay* ment of a stipulated

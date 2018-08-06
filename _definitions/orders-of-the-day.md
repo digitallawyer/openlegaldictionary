@@ -1,5 +1,6 @@
 ---
 title: Orders Of The Day
+letter: O
 permalink: "/definitions/orders-of-the-day.html"
 body: Any member of the English house of commons who wishes to propose any question,
   or to “move the house," as it is termed, must, in order to give the house due notice

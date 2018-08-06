@@ -1,5 +1,6 @@
 ---
 title: Yorkshire Registries
+letter: Y
 permalink: "/definitions/yorkshire-registries.html"
 body: The registries of titles to land provided by acts of parliament for the ridings
   of the county of York in England. These resemble the offices for the registration

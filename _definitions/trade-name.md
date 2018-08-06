@@ -1,5 +1,6 @@
 ---
 title: Trade-Name
+letter: T
 permalink: "/definitions/trade-name.html"
 body: ME. A trade-name is a name which hy user and reputation has acquired the property
   of indicating that a certain trade or occupation is carried on by a partic-ular

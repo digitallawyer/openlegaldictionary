@@ -1,5 +1,6 @@
 ---
 title: Writ Of Associatton
+letter: W
 permalink: "/definitions/writ-of-associatton.html"
 body: In English practice. A writ whereby certaln persons (usually the clerk of assize
   and his sub-ordinate officers) are directed to associate themselves wlth the justices

@@ -1,5 +1,6 @@
 ---
 title: Outer House
+letter: O
 permalink: "/definitions/outer-house.html"
 body: The name given to the great hall of the parliament house in Edinburgh, in which
   the lords ordinary of the court of session sit as single judges to hear causes.

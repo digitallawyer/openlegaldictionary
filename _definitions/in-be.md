@@ -1,5 +1,6 @@
 ---
 title: In Be
+letter: I
 permalink: "/definitions/in-be.html"
 body: In the affair; in the matter of. This is tbe usual method of entitling a Judi-clal
   proceeding in which there are not adver-sary parties, but merely some res concerning

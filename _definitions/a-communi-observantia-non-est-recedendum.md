@@ -1,5 +1,6 @@
 ---
 title: A communi observantia non est recedendum
+letter: A
 permalink: "/definitions/a-communi-observantia-non-est-recedendum.html"
 body: From common observance there should be no departure; There must be no departure
   from common usage. 2 Coke, 74; Co. Litt. 186a, 2299b, 365a; Wing. Max. 752, max.

@@ -1,5 +1,6 @@
 ---
 title: Compound Interest
+letter: C
 permalink: "/definitions/compound-interest.html"
 body: Interest up-on Interest, i. e., when the Interest of a sum of money is added
   to the principal, and then bears Interest, which thus becomes a sort of secondary

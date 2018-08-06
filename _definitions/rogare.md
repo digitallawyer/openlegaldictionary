@@ -1,5 +1,6 @@
 ---
 title: Rogare
+letter: R
 permalink: "/definitions/rogare.html"
 body: Lat. In Roman law. To ask »r solicit. Rogare legem, to ask for the adop-tion
   of a law, i. e., to propose it for enactment, to bring in a bill. In a derivative

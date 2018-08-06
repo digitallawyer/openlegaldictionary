@@ -1,5 +1,6 @@
 ---
 title: Pre-Emption
+letter: P
 permalink: "/definitions/pre-emption.html"
 body: In international law. The right of pre-emption is the right of a nation to detain
   the merchandise of strangers passing through her territories or seas, in order to

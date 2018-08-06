@@ -1,5 +1,6 @@
 ---
 title: Extra-Territoriality
+letter: E
 permalink: "/definitions/extra-territoriality.html"
 body: The extra-territorial operation of laws; that is, tbclr operation upon persons,
   rights, or jural relations, existing beyond the limits of the enacting state, but

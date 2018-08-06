@@ -1,5 +1,6 @@
 ---
 title: Pleading
+letter: P
 permalink: "/definitions/pleading.html"
 body: The peculiar science ot system of rules and principles, established in the common
   law, according to which the pleadings or responsive allegations of litigating parties

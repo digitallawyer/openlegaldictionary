@@ -1,5 +1,6 @@
 ---
 title: Concerning, Concerned
+letter: C
 permalink: "/definitions/concerning-concerned.html"
 body: Relating to; pertaining to; affecting; Involving; being engaged in or taking
   part in. U. S. v. Fulkerson (D. C.) 74 Fed. 631; May v. Brown, 3 Barn. & C. *137;

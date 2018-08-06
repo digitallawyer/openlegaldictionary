@@ -1,5 +1,6 @@
 ---
 title: Temere
+letter: T
 permalink: "/definitions/temere.html"
 body: Lat. In the civil law. Rash-ly; inconsiderately. A plaintiff was said temere
   litigare who demanded a thing out of malice, or sued without just cause, and who

@@ -1,5 +1,6 @@
 ---
 title: Anonymous
+letter: A
 permalink: "/definitions/anonymous.html"
 body: Nameless; wanting a name or names. A publication, withholding the name of tlie
   author, is said to be anony-mous. Cases are sometimes reported anony-mously, i.

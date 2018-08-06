@@ -1,5 +1,6 @@
 ---
 title: Plaint
+letter: P
 permalink: "/definitions/plaint.html"
 body: In Enclisb praotioe. A prlvate memorial tendered in open court to the Judge,
   wherein the party injured sets forth his cause of action. A proceeding in inferior

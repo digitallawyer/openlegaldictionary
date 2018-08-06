@@ -1,5 +1,6 @@
 ---
 title: Diverso Intuitu
+letter: D
 permalink: "/definitions/diverso-intuitu.html"
 body: Lat. with a dlf-ferent view, purpose, or design; in a dlffer-ent view or point
   of view; by a different

@@ -1,5 +1,6 @@
 ---
 title: Rescission
+letter: R
 permalink: "/definitions/rescission.html"
 body: Rescission, or the act of rescinding, is where a contract is canceled, annulled,
   or abrogated hy the parties, or one of them

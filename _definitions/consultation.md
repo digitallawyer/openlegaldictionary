@@ -1,5 +1,6 @@
 ---
 title: Consultation
+letter: C
 permalink: "/definitions/consultation.html"
 body: A writ whereby a cause which has been wrongfully removed by prohibition out
   of an ecclesiastical conrt to a temporal court is returned to the ecclesias-tlcal

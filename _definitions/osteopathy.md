@@ -1,5 +1,6 @@
 ---
 title: Osteopathy
+letter: O
 permalink: "/definitions/osteopathy.html"
 body: A method or system of treating various diseases of the human body without the
   use of drugs, by manipulation applied to varlous nerve centers, rubbing, pulllng,

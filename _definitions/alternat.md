@@ -1,5 +1,6 @@
 ---
 title: Alternat
+letter: A
 permalink: "/definitions/alternat.html"
 body: A usage among dlploma-tlsts by which the rank nnd places of differ-ent powers,
   who have the same right and pretensions to precedence, are changed from time to

@@ -1,5 +1,6 @@
 ---
 title: Performance
+letter: P
 permalink: "/definitions/performance.html"
 body: The fulfillment or ac-complishment of a promise, contract, or oth* er obligation
   according to its terms

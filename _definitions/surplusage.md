@@ -1,5 +1,6 @@
 ---
 title: Surplusage
+letter: S
 permalink: "/definitions/surplusage.html"
 body: In pleading. Allegations of matter wholly foreign aud impertinent to the cause.
   All matter beyond the circumstances necessary to constitute the action. See State

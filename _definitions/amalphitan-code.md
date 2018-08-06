@@ -1,5 +1,6 @@
 ---
 title: Amalphitan Code
+letter: A
 permalink: "/definitions/amalphitan-code.html"
 body: A collection of sea-laws, compiled about the end of the eleventh century, by
   the people of Amalphl. It consists of tbe laws on maritime subjects, which were

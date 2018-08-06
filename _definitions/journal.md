@@ -1,5 +1,6 @@
 ---
 title: Journal
+letter: J
 permalink: "/definitions/journal.html"
 body: A daily book; a book in whlch entries are made or events recorded from day to
   day. In maritime law, the jour-nal (otherwise called “log” or “log-book”) is a book

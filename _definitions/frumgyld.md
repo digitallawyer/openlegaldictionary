@@ -1,5 +1,6 @@
 ---
 title: Frumgyld
+letter: F
 permalink: "/definitions/frumgyld.html"
 body: Sax. The first payment made to the kindred of a slain person in rec-ompense
   for his murder. Blount

@@ -1,5 +1,6 @@
 ---
 title: Fide-Jubere
+letter: F
 permalink: "/definitions/fide-jubere.html"
 body: 'In the clvil law. To order a thing upon one’s faith; to pledge one’s self;
   to become surety for another. Fide-jubes? Fide-jubeo: Do you pledge your-self? I

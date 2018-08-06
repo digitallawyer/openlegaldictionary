@@ -1,5 +1,6 @@
 ---
 title: Quid Fro Quo
+letter: Q
 permalink: "/definitions/quid-fro-quo.html"
 body: what for what; something for something. Used in law for the giving one valuable
   thing for another. It is nothing more than the mutual consideration which passes

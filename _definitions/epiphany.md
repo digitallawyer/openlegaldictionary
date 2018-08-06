@@ -1,5 +1,6 @@
 ---
 title: Epiphany
+letter: E
 permalink: "/definitions/epiphany.html"
 body: A Christian festival, oth-erwise called the “Manifestation of Christ to the
   Gentiles," observed on the 6th of Janu-ary, in honor of the appearance of the star

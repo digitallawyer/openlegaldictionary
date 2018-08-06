@@ -1,5 +1,6 @@
 ---
 title: Exploration
+letter: E
 permalink: "/definitions/exploration.html"
 body: In mining law. The examination and investigation of land sup-posed to contain
   valuable minerals, by drilling, boring, sinking shafts, driving tunnels, and other

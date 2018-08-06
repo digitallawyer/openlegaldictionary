@@ -1,5 +1,6 @@
 ---
 title: Precognition
+letter: P
 permalink: "/definitions/precognition.html"
 body: In Scotch practice. Preliminary examination. The investigation of a criminal
   case, preliminary to commit-ting the accused for trial. 2 Alls. Crim. Pr. 134

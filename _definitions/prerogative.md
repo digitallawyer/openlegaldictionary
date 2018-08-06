@@ -1,5 +1,6 @@
 ---
 title: Prerogative
+letter: P
 permalink: "/definitions/prerogative.html"
 body: An exclusive or peculiar privilege. The special power, privilege, immunity,
   or advantage vested in an offi-cial person, either generally, or in respect to the

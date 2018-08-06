@@ -1,5 +1,6 @@
 ---
 title: Suggestion
+letter: S
 permalink: "/definitions/suggestion.html"
 body: In practice. A statement, formally entered on the record, of some fact or circumstance
   which will materially affect the further proceedings in the cause, or which is necessary

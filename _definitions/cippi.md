@@ -1,5 +1,6 @@
 ---
 title: Cippi
+letter: C
 permalink: "/definitions/cippi.html"
 body: An old English law term for the stocks, an Instrument iu which the wrists or
   ankles of petty offenders were coufiued

@@ -1,5 +1,6 @@
 ---
 title: Injunction
+letter: I
 permalink: "/definitions/injunction.html"
 body: A prohibltlve writ is-sued by a court of equity, at the suit of a party complainant,
   directed to a party de-fendant in the action, or to a party made a defendant for

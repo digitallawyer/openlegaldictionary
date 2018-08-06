@@ -1,5 +1,6 @@
 ---
 title: Court Of Session
+letter: C
 permalink: "/definitions/court-of-session.html"
 body: The name of the highest court of civil jurisdiction lu Scot-land. It was composed
   of fifteen judges, now of thirteen. It sits in two divisions. The lord president

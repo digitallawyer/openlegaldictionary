@@ -1,5 +1,6 @@
 ---
 title: Defalk
+letter: D
 permalink: "/definitions/defalk.html"
 body: LK. To set off one clalm against another; to deduct a debt due to one from a
   debt which one owes. Johnson v. Signal Co., 57 N. J. Eq. 79, 40 Atl. 193; Pepper

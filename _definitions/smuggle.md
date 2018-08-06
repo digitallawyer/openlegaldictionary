@@ -1,5 +1,6 @@
 ---
 title: Smuggle
+letter: S
 permalink: "/definitions/smuggle.html"
 body: The act, with intent to de-fraud, of bringing into the United States, or with
   like intent, attempting to bring into the United States, dutiable articles, without

@@ -1,5 +1,6 @@
 ---
 title: Analogy
+letter: A
 permalink: "/definitions/analogy.html"
 body: In logic. Identity or similarity of proportion, where there is no precedent
   in point, in cases on the same sub-ject, lawyers have recourse to cases ou a different

@@ -1,5 +1,6 @@
 ---
 title: Convigted
+letter: C
 permalink: "/definitions/convigted.html"
 body: This term has a definite signification in law, and means that a judg-ment of
   final condemnation has been pronounced against the accused. Gallagher v. State,

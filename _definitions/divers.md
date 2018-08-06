@@ -1,5 +1,6 @@
 ---
 title: Divers
+letter: D
 permalink: "/definitions/divers.html"
 body: Various, several, sundry; a collective term grouping a number of un-specified
   persons, objects, or acts. Com. v. Butts, 124 Mass. 452; State v. Hodgson, 66 Vt

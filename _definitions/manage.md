@@ -1,5 +1,6 @@
 ---
 title: Manage
+letter: M
 permalink: "/definitions/manage.html"
 body: To conduct; to carry on; to direct the concerns of a business or establtsb-ment.
   Generally applied to affairs that are somewhat complicated and that Involve skill

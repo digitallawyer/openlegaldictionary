@@ -1,5 +1,6 @@
 ---
 title: Shareholder
+letter: S
 permalink: "/definitions/shareholder.html"
 body: In the strict sense of the term, a “shareholder” is a person who has agreed
   to become a member of a corpora-tion or company, and with respect to whom all the

@@ -1,5 +1,6 @@
 ---
 title: Buthna
+letter: B
 permalink: "/definitions/buthna.html"
 body: or BUTHNA. In old Scotch law. A park where cattle are inclosed and fed. Bothna
   also signifies a barony, lord-ship, etc. Skene

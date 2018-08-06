@@ -1,5 +1,6 @@
 ---
 title: Dram
+letter: D
 permalink: "/definitions/dram.html"
 body: In common parlance, this term means a drink of some substance containing alcohol,
   something which can produce In-toxicatlon. Lacy v. State, 32 Tex. 228

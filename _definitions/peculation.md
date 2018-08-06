@@ -1,5 +1,6 @@
 ---
 title: Peculation
+letter: P
 permalink: "/definitions/peculation.html"
 body: In the dvii law. The unlawful appropriation, by a depositary of public funds,
   of the property of the govern-ment intrusted to his care, to his own use, or that

@@ -1,5 +1,6 @@
 ---
 title: Conversation
+letter: C
 permalink: "/definitions/conversation.html"
 body: Manner of living; habits of life; conduct; as in the phrase "chaste life and
   conversation.” Bradshaw v. People, 153 111. 156, 38 N. E. 652. “Crimlnal conversatlon”

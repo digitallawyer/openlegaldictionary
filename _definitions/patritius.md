@@ -1,5 +1,6 @@
 ---
 title: Patritius
+letter: P
 permalink: "/definitions/patritius.html"
 body: An honor conferred on men of the first quallty in the t!me of the English Saxon
   kings

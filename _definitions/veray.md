@@ -1,5 +1,6 @@
 ---
 title: Veray
+letter: V
 permalink: "/definitions/veray.html"
 body: 'AY. L. Fr. True. An old form of vrai. Thus, reray, or true, tenant, is one
   •who bolds in fee-simple; veray tenant by the manner, is the same as tenant by the

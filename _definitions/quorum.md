@@ -1,5 +1,6 @@
 ---
 title: Quorum
+letter: Q
 permalink: "/definitions/quorum.html"
 body: when a’committee, board of directors, meeting of shareholders, legis) a-tlve
   or other body of persons cannot nct un-less a certaln number nt least of them are

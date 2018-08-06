@@ -1,5 +1,6 @@
 ---
 title: Literatura
+letter: L
 permalink: "/definitions/literatura.html"
 body: "“Ad literaturam po-nere” means to put children to school. This liberty was
   anciently denied to those parents who were servile tenants, without the lord’s consent.

@@ -1,5 +1,6 @@
 ---
 title: Chattel
+letter: C
 permalink: "/definitions/chattel.html"
 body: An article of personal prop-erty; any species of property not amounting to a
   freehold or fee in land. People v. Hol-brook, 13 Johns. (N. Y.) 94; Hornblower v.

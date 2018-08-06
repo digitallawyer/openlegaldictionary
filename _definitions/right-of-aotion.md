@@ -1,5 +1,6 @@
 ---
 title: Right Of Aotion
+letter: R
 permalink: "/definitions/right-of-aotion.html"
 body: ON. The right to bring suit; a*legal right to maintain an action, growing out
   of a given transaction or state of ;facts and- based thereon. Hibbard v. Clark,

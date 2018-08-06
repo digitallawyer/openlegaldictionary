@@ -1,5 +1,6 @@
 ---
 title: Recto, Breve De
+letter: R
 permalink: "/definitions/recto-breve-de.html"
 body: A writ of right, which was of so high a nature that as other writs in real actions
   were only to recover the possession of the land, etc., in question, this aimed to

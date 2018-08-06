@@ -1,5 +1,6 @@
 ---
 title: Jus Utendi
+letter: J
 permalink: "/definitions/jus-utendi.html"
 body: The right to use proper-ty without destroying its substance. It is employed
   in contradistinction to the jusr abutendi. 3 Toullier, no. 86

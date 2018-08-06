@@ -1,5 +1,6 @@
 ---
 title: Tenendas
+letter: T
 permalink: "/definitions/tenendas.html"
 body: In Scotch law. The name of a clanse in charters of heritable rights, which derives
   its name from its first words. “tcnenda* preediet as terras;" it points out the

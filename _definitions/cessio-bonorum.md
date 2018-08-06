@@ -1,5 +1,6 @@
 ---
 title: Cessio Bonorum
+letter: C
 permalink: "/definitions/cessio-bonorum.html"
 body: In Roman law. Cession of goods. A surrender, rellnqulsh-ment, or assignment
   of all his property and effects made by an insolvent debtor for the benefit of his

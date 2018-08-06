@@ -1,5 +1,6 @@
 ---
 title: De Perambulatione Facienda
+letter: D
 permalink: "/definitions/de-perambulatione-facienda.html"
 body: A writ which lay where there was a dis-pute as to the boundaries of two adjacent
   lordships or towns, directed to the sheriff, commanding him to take with him twelve

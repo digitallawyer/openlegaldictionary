@@ -1,5 +1,6 @@
 ---
 title: Purser
+letter: P
 permalink: "/definitions/purser.html"
 body: The person appointed by the master of a ship or vessel, whose duty it is to
   take care of the ship's books, in which every thing on board is inserted, as well

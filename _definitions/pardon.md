@@ -1,5 +1,6 @@
 ---
 title: Pardon
+letter: P
 permalink: "/definitions/pardon.html"
 body: An act of grace, proceeding from the power intrusted with the execution of the
   laws, which exempts the Individual on whom it is bestowed from the punishment the

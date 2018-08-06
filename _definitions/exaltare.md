@@ -1,5 +1,6 @@
 ---
 title: Exaltare
+letter: E
 permalink: "/definitions/exaltare.html"
 body: In old English law. To raise; to elevate. Frequently spoken of wa-ter, i. e.,
   to raise the surface of a pond or pool

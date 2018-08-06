@@ -1,5 +1,6 @@
 ---
 title: Chartis Reddendis
+letter: C
 permalink: "/definitions/chartis-reddendis.html"
 body: "(For return-ing the charters.) An ancient writ which lay against one who had
   charters of feoffment intrusted to his keeping and refused to de-liver them. Reg.

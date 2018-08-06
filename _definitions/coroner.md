@@ -1,5 +1,6 @@
 ---
 title: Coroner
+letter: C
 permalink: "/definitions/coroner.html"
 body: The name of an ancient officer ot the common law, whose office and functions
   are continued iu modern Eugllsh aud American administration. The coroner is an officer

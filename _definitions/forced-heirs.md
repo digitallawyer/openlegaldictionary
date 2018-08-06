@@ -1,5 +1,6 @@
 ---
 title: Forced Heirs
+letter: F
 permalink: "/definitions/forced-heirs.html"
 body: In Louisiana. Those persons whom the testator or donor cannot deprive of the
   portion of hia estate reserved for them by law, except in cases where he has a just

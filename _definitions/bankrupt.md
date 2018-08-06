@@ -1,5 +1,6 @@
 ---
 title: Bankrupt
+letter: B
 permalink: "/definitions/bankrupt.html"
 body: A person who has com-mitted an act of bankruptcy; one who has done some act
   or suffered some act to be done in consequence of which, under the laws of hls country,

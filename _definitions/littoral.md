@@ -1,5 +1,6 @@
 ---
 title: Littoral
+letter: L
 permalink: "/definitions/littoral.html"
 body: Belonging to the shore, as of seas and great lakes, webster. Corre-sponding
   to riparian proprietors on a stream or small pond are littoral proprietors on a

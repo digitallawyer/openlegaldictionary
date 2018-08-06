@@ -1,5 +1,6 @@
 ---
 title: Codicil
+letter: C
 permalink: "/definitions/codicil.html"
 body: A testamentary dlsposition subsequent to a will, and by which the will is altered,
   explained, added to, subtracted from, or confirmed by way of republlcatlon, but

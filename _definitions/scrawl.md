@@ -1,5 +1,6 @@
 ---
 title: Scrawl
+letter: S
 permalink: "/definitions/scrawl.html"
 body: A word used in some of the United States for scrowl or scroll. “The word ‘seal,’
   written in a scrawl attached to the name of an obligor, makes the instrument a specialty.”

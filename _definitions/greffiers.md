@@ -1,5 +1,6 @@
 ---
 title: Greffiers
+letter: G
 permalink: "/definitions/greffiers.html"
 body: In French law. Regis-trars, or cierks of the courts. They are officials attached
   to the courts to assist the Judg-es in their duties. They keep the minutes, write

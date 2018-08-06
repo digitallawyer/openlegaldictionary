@@ -1,5 +1,6 @@
 ---
 title: Fredum
+letter: F
 permalink: "/definitions/fredum.html"
 body: A fine paid for obtaining par-don when the peace had been broken. Spelman; Blount.
   A sum paid the magistrate for protection against the right of revenge

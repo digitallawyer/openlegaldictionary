@@ -1,5 +1,6 @@
 ---
 title: Ex Oontinenti
+letter: E
 permalink: "/definitions/ex-oontinenti.html"
 body: Immediately; without any Interval or delay; incontinently. A term of the civil
   law. Calvin

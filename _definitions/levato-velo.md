@@ -1,5 +1,6 @@
 ---
 title: Levato Velo
+letter: L
 permalink: "/definitions/levato-velo.html"
 body: Lat. An expression used in the Roman law, and applied to the trial of wreck
   and salvage. Commentators disagree about the origin of the expression; but all agree

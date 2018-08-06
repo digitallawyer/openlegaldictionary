@@ -1,5 +1,6 @@
 ---
 title: Caveat
+letter: C
 permalink: "/definitions/caveat.html"
 body: Lat Let him beware. A formal notice or warning given by a party ln-terested
   to a court, judge, or ministerial offl-cer against tbe performance of certain acts

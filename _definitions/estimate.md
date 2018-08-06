@@ -1,5 +1,6 @@
 ---
 title: Estimate
+letter: E
 permalink: "/definitions/estimate.html"
 body: This word is used to ex-press the mind or judgment of the speaker or writer
   on the particular subject under con-sideration. It implies a calculation or com-putation,

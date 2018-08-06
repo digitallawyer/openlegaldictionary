@@ -1,5 +1,6 @@
 ---
 title: Arrestandis Bonis Ne Dissi-Pentur
+letter: A
 permalink: "/definitions/arrestandis-bonis-ne-dissi-pentur.html"
 body: In old English law. A writ which lay for a person whose cattle or goods were
   taken by another, who during a contest was likely to make away with them, aud who

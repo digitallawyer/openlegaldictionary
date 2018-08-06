@@ -1,5 +1,6 @@
 ---
 title: Butty
+letter: B
 permalink: "/definitions/butty.html"
 body: A local term in the north of England, for the associate or deputy of another
   ; also of things used in common

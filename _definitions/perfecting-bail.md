@@ -1,5 +1,6 @@
 ---
 title: Perfecting Bail
+letter: P
 permalink: "/definitions/perfecting-bail.html"
 body: Certain quallfica-tlons of a property character being requir-ed of persons who
   tender themselves as bail, when such persons have justified, i. e., established

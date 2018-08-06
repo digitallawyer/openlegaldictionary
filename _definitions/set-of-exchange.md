@@ -1,5 +1,6 @@
 ---
 title: Set Of Exchange
+letter: S
 permalink: "/definitions/set-of-exchange.html"
 body: In mercantile law. Foreign bllls are usually drawn in duplicate or tripllcate,
   the several parts be-Ing called respectively “first of exchange,” “second of exchange,’*

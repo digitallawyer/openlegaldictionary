@@ -1,5 +1,6 @@
 ---
 title: Specialty
+letter: S
 permalink: "/definitions/specialty.html"
 body: A wrltlng sealed and de-Hvered, containing some agreement A writing sealed and
   delivered, which is given as a security for the payment of a debt, in which such

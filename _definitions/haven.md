@@ -1,5 +1,6 @@
 ---
 title: Haven
+letter: H
 permalink: "/definitions/haven.html"
 body: A place of a large recelpt and safe riding of shlps, so situate and secured
   by the land circumjacent that the vessels thereby rlde and anchor safely, and are

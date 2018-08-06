@@ -1,5 +1,6 @@
 ---
 title: Ofera
+letter: O
 permalink: "/definitions/ofera.html"
 body: A composition of a dramatic kind, set to music and sung, accompanied with musical
   instruments, and enriched with appropriate costumes, scenery, etc. The house in

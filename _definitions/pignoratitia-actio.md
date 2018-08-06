@@ -1,5 +1,6 @@
 ---
 title: Pignoratitia Actio
+letter: P
 permalink: "/definitions/pignoratitia-actio.html"
 body: Lat. In the civil law. An action of pledge, or founded on a pledge, which was
   either directa, for the debtor, after payment of the debt, or con-traria, for the

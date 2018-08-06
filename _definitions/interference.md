@@ -1,5 +1,6 @@
 ---
 title: Interference
+letter: I
 permalink: "/definitions/interference.html"
 body: In patent law, this term designates a collision between rights claimed or granted;
   that is, where a persou claims a patent for the whole or any integral part of the

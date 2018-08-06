@@ -1,5 +1,6 @@
 ---
 title: Deduction For New
+letter: D
 permalink: "/definitions/deduction-for-new.html"
 body: In marine iu-surance. An allowance or drawback credlt-ed to the Insurers on
   the cost of repairing a vessel for damage arising from the perils of the sea insured

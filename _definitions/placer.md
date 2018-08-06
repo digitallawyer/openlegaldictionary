@@ -1,5 +1,6 @@
 ---
 title: Placer
+letter: P
 permalink: "/definitions/placer.html"
 body: In mining law. A superficial deposit of sand, gravel, or disintegrated rock,
   carrylng one or more of the preclous metals, along the course or under the bed of

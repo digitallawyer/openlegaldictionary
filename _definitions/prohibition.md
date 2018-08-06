@@ -1,5 +1,6 @@
 ---
 title: Prohibition
+letter: P
 permalink: "/definitions/prohibition.html"
 body: In practice. The name of a writ issued by a superior court, directed to the
   judge and parties of a suit in an in-ferior court, commanding them to cease from

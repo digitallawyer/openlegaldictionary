@@ -1,5 +1,6 @@
 ---
 title: S; U
+letter: S
 permalink: "/definitions/s-u.html"
 body: 'Libby, 26 Fed. Cas. 928; U. S. v. winn, 28 Fed. Cas. 735.—Ship''s hnsband.
   In mari-time law. A person appointed by the several part-owners of a ship, and usually

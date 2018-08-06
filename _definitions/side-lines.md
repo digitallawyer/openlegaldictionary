@@ -1,5 +1,6 @@
 ---
 title: Side Lines
+letter: S
 permalink: "/definitions/side-lines.html"
 body: In mining law, the side lines of a mining claim are those which measure the
   extent of the claim on each side of the middle of the vein at the surface. They

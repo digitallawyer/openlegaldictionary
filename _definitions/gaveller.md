@@ -1,5 +1,6 @@
 ---
 title: Gaveller
+letter: G
 permalink: "/definitions/gaveller.html"
 body: An officer of the English crown having the general management of the mines,
   pits, and quarries in the Forest of Dean and Hundred of St. Brlavel’s, subject,

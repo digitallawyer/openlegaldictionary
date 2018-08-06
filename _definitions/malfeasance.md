@@ -1,5 +1,6 @@
 ---
 title: Malfeasance
+letter: M
 permalink: "/definitions/malfeasance.html"
 body: The wrongful or unjust doing of some act which the doer has no right to perform,
   or which he has stipulated by contract not to do. It differs from “misfeasance"

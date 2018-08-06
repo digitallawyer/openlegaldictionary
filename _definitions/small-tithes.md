@@ -1,5 +1,6 @@
 ---
 title: Small Tithes
+letter: S
 permalink: "/definitions/small-tithes.html"
 body: All personal and mix-ed tithes, and also hops, flax, saffrons, po-tatoes, and
   sometimes, by custom, wood, otherwise called “privy tithes.” 2 Steph. Comm. 726

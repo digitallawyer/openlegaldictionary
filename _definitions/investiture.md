@@ -1,5 +1,6 @@
 ---
 title: Investiture
+letter: I
 permalink: "/definitions/investiture.html"
 body: A ceremony which ac-companied the grant of lands in the feudal ages, and consisted
   in the open and notorious delivery of possession in the presence of the other vassals,

@@ -1,5 +1,6 @@
 ---
 title: Annua Pensione
+letter: A
 permalink: "/definitions/annua-pensione.html"
 body: An ancient writ to provide the king's chaplain, if he had no pre-ferment, with
   a pension. Reg. orig. 165, 307

@@ -1,5 +1,6 @@
 ---
 title: Offset
+letter: O
 permalink: "/definitions/offset.html"
 body: A deduction; a counterclaim; a contrary claim or demand by which a given claim
   may be lessened or canceled. See Leonard v. Charter oak L. Ius. Co., 05 Conn. 529,

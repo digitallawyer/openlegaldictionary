@@ -1,5 +1,6 @@
 ---
 title: Incineration
+letter: I
 permalink: "/definitions/incineration.html"
 body: Burning to ashes; destruction of a substance by fire, as, the corpse of a murdered
   person

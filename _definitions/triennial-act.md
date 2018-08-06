@@ -1,5 +1,6 @@
 ---
 title: Triennial Act
+letter: T
 permalink: "/definitions/triennial-act.html"
 body: An Engllsh statute limtting the duratlon of every parliament to three years,
   uifless sooner dissolved. It was passed by the long parliament in 1640, and afterwards

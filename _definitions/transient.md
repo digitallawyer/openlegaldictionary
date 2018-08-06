@@ -1,5 +1,6 @@
 ---
 title: Transient
+letter: T
 permalink: "/definitions/transient.html"
 body: In poor-laws. A “tran-slent person” is not exactly a persou on a Journey from
   one known place to another, but rather a wanderer ever ou the tramp. Middlebury

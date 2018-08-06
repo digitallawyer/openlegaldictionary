@@ -1,5 +1,6 @@
 ---
 title: Subditus
+letter: S
 permalink: "/definitions/subditus.html"
 body: Lat in old English law. A vassal; a dependent; any one under the power of another.
   Spelman

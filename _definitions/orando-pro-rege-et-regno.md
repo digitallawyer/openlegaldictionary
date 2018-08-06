@@ -1,5 +1,6 @@
 ---
 title: Orando Pro Rege Et Regno
+letter: O
 permalink: "/definitions/orando-pro-rege-et-regno.html"
 body: An ancient writ which issued, while there was no standing collect for a sitting
   parlia-ment, to pray for the peace and good govern-ment of the realm.

@@ -1,5 +1,6 @@
 ---
 title: Ordinum Fugitivi
+letter: O
 permalink: "/definitions/ordinum-fugitivi.html"
 body: In old English law. Those of the religious who deserted thelr houses, and, throwing
   off the habits, renounced their particular order in con-tempt of their oath and

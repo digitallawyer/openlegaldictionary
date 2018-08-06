@@ -1,5 +1,6 @@
 ---
 title: Apncea
+letter: A
 permalink: "/definitions/apncea.html"
 body: In medical jurisprudence, want of breath; difficulty in breathing; partial or
   temporary suspension of resplra-tion; specifically, such difficulty of resplra-tion'

@@ -1,5 +1,6 @@
 ---
 title: Cover Into
+letter: C
 permalink: "/definitions/cover-into.html"
 body: The phrase “covered ln-to tbe treasury,” as used in acts of congress and tbe
   practice of the United States treasury department, means that money hns actually

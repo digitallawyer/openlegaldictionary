@@ -1,5 +1,6 @@
 ---
 title: Odhal
+letter: O
 permalink: "/definitions/odhal.html"
 body: Complete property, as opposed to feudal tenure. The transposition of the syllables
   of “odfcal” makes it “allodh," aud hence, according to Blackstone, arises the word

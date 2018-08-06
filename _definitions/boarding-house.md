@@ -1,5 +1,6 @@
 ---
 title: Boarding-House
+letter: B
 permalink: "/definitions/boarding-house.html"
 body: A boarding-house is not in common parlance, or in legal mean-ing, every private
   house where one or more boarders are kept occasionally only and upon special considerations.

@@ -1,5 +1,6 @@
 ---
 title: Rout
+letter: R
 permalink: "/definitions/rout.html"
 body: A rout is an unlawful assembly which has made a motion towards the execu-tion
   of the common purpose of the persons assembled. It is, therefore, between an un-lawful

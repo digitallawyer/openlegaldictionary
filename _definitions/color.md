@@ -1,5 +1,6 @@
 ---
 title: Color
+letter: C
 permalink: "/definitions/color.html"
 body: An appearance, semblance, or simulacrum, as distinguished from that which is
   real. A prima fade or apparent right Hence, a deceptive appearance; a plausible,

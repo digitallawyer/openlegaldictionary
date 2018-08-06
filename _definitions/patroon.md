@@ -1,5 +1,6 @@
 ---
 title: Patroon
+letter: P
 permalink: "/definitions/patroon.html"
 body: The proprietors of certain manors created in New York in colonial times were
   so called

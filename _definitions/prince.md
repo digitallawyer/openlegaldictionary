@@ -1,5 +1,6 @@
 ---
 title: Prince
+letter: P
 permalink: "/definitions/prince.html"
 body: In a general sense, a sover-eign; the ruler of a nation or state. More particularly,
   the son of a klng or emperor, or the issue of a royal family; as princes of the

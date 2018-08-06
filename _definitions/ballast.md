@@ -1,5 +1,6 @@
 ---
 title: Ballast
+letter: B
 permalink: "/definitions/ballast.html"
 body: In marine Insurance. There is considerable analogy between ballast and dunnage.
   The former is used for trlmming-the ship, and bringing it down to a draft of water

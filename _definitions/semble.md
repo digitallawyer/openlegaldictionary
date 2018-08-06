@@ -1,5 +1,6 @@
 ---
 title: Semble
+letter: S
 permalink: "/definitions/semble.html"
 body: L. Fr. It seems; it would appear. Thls expresslon is often used in the reports
   to preface a statement by the court upon a polnt of law whlch is not directly decided,

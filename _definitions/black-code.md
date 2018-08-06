@@ -1,5 +1,6 @@
 ---
 title: Black Code
+letter: B
 permalink: "/definitions/black-code.html"
 body: A name given collectively to the body of laws, statutes, and rules in force
   in various southern states prlor to 1865, which regulated the lnstitu-tlon of slavery,

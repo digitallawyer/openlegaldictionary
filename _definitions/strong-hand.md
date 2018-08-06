@@ -1,5 +1,6 @@
 ---
 title: Strong Hand
+letter: S
 permalink: "/definitions/strong-hand.html"
 body: The words “with strong hand” imply a degree of criminal force, whereas the words
   vi et armis ("with force and arms”) are mere formal words in the action of trespass,

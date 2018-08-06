@@ -1,5 +1,6 @@
 ---
 title: Customary
+letter: C
 permalink: "/definitions/customary.html"
 body: According to custom or usage; founded on, or growing out of, or dependent on,
   a custom, (q. v

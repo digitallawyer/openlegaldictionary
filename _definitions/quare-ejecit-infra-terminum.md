@@ -1,5 +1,6 @@
 ---
 title: Quare Ejecit Infra Terminum
+letter: Q
 permalink: "/definitions/quare-ejecit-infra-terminum.html"
 body: wherefore he ejected within the term. In old practice. A writ which lay for
   a lessee where he was ejected before the expiration of hls term, in cases where

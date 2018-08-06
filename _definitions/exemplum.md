@@ -1,5 +1,6 @@
 ---
 title: Exemplum
+letter: E
 permalink: "/definitions/exemplum.html"
 body: In the civil law. Copy; a written authorized copy. This word is also used in
   the modern sense of “example,”—ad eaeemplum constituti singular es non traM, exceptional

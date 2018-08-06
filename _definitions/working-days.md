@@ -1,5 +1,6 @@
 ---
 title: Working Days
+letter: W
 permalink: "/definitions/working-days.html"
 body: In settling lay-days, or days of demurrage, sometimes the con-tract specifies
   “working daysin the compu-tation, Sundays and custom-house holidays are excluded.

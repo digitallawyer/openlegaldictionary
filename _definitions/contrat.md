@@ -1,5 +1,6 @@
 ---
 title: Contrat
+letter: C
 permalink: "/definitions/contrat.html"
 body: 'In French law. Contracts are of the following varieties: (1) Bilateral, or
   syndllagmatiquc, where each party is bound to the other to do what is just nnd proper;

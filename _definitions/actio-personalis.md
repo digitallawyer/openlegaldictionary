@@ -1,5 +1,6 @@
 ---
 title: Actio Personalis
+letter: A
 permalink: "/definitions/actio-personalis.html"
 body: In the civil and common law. A personal action. The ordi-nary term for this
   kind of action in the civil law is actio in personam, (q. t>.,) the word personalis

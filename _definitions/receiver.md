@@ -1,5 +1,6 @@
 ---
 title: Receiver
+letter: R
 permalink: "/definitions/receiver.html"
 body: VER. A receiver is an indifler-ent person between the parties appointed by the
   court to collect and receive the rents, issues, and profits of land, or the produce

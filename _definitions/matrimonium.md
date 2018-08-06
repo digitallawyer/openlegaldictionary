@@ -1,5 +1,6 @@
 ---
 title: Matrimonium
+letter: M
 permalink: "/definitions/matrimonium.html"
 body: Lat. In Roman law. A legal marriage, contracted in strict ac--cordance with
   the forms of the older Roman law, i. e., either with the farreum, the coemptio,

@@ -1,5 +1,6 @@
 ---
 title: Assignable
+letter: A
 permalink: "/definitions/assignable.html"
 body: That may he assigned or transferred; transferable; negotiable, as a bill of
   exchange. Comb. 176; Story, Bills, 5 17

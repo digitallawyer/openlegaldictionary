@@ -1,5 +1,6 @@
 ---
 title: Attest
+letter: A
 permalink: "/definitions/attest.html"
 body: To witness the execution of a written instrument, at the request of him who
   makes lt, and subscribe the same as a witness. white v. Magarahan, 87 Ga. 217, 13

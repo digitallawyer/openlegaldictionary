@@ -1,5 +1,6 @@
 ---
 title: Manner And Form; Modo Et Forma
+letter: M
 permalink: "/definitions/manner-and-form-modo-et-forma.html"
 body: Formal words Introduced at the concluslon of a traverse. Their object is to
   put the party whose pleading is traversed not only to the proof that the matter

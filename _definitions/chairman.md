@@ -1,5 +1,6 @@
 ---
 title: Chairman
+letter: C
 permalink: "/definitions/chairman.html"
 body: A name glven to the pre-siding officer of an assembly, public meeting, convention,
   deliberative or legislative body, board of directors, committee, etc

@@ -1,5 +1,6 @@
 ---
 title: Cognizance
+letter: C
 permalink: "/definitions/cognizance.html"
 body: In old praotioe. That part of a fine in whlch the defendant acknowledged that
   the land in question was the right of the complainant. From this the fine itself

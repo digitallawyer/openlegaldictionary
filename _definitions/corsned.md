@@ -1,5 +1,6 @@
 ---
 title: Corsned
+letter: C
 permalink: "/definitions/corsned.html"
 body: In Saxon law. The morsel of execration. A species of ordeal in use among the
   Saxons, performed by eating a piece of bread over which the priest had pronounced

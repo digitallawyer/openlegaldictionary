@@ -1,5 +1,6 @@
 ---
 title: Temporalities
+letter: T
 permalink: "/definitions/temporalities.html"
 body: In Engllsh law. The lay fees of bishops, with w'hich their churches are endowed
   or permitted to be endowed by the liberality of the sovereign, and in virtue of

@@ -1,5 +1,6 @@
 ---
 title: Burgator
+letter: B
 permalink: "/definitions/burgator.html"
 body: one who breaks into houses or inclosed places, as distinguished from one who
   committed robbery in the open country. Spelman

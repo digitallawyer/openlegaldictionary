@@ -1,5 +1,6 @@
 ---
 title: Shew Age
+letter: S
 permalink: "/definitions/shew-age.html"
 body: SCHEVAGE, SOHEWAGE, or SHEW AGE. A kind of toll or custom, exacted by mayors,
   sheriffs, etc., of merchant strangers, for wares showed or offered for sale within

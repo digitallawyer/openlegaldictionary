@@ -1,5 +1,6 @@
 ---
 title: Letting Out
+letter: L
 permalink: "/definitions/letting-out.html"
 body: The act of awarding a contract; e. g., a construction contract, or contract
   for carrying the mails

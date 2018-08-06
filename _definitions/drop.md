@@ -1,5 +1,6 @@
 ---
 title: Drop
+letter: D
 permalink: "/definitions/drop.html"
 body: In English practice, when the members of a court are equally divided on the
   argument showing cause against a rule nisi, no order is made, i. e., the rule is

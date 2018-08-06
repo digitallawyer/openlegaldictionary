@@ -1,5 +1,6 @@
 ---
 title: Commissoria Lex
+letter: C
 permalink: "/definitions/commissoria-lex.html"
 body: In Roman iaw. A clause which might be Inserted iu an agreement for a sale upon
   credit, to the effect that the vendor should be freed from his obligation, and might

@@ -1,5 +1,6 @@
 ---
 title: Function
+letter: F
 permalink: "/definitions/function.html"
 body: office; duty; fulfillment of a definite end or set of ends by the correct adjustment
   of means. The occupation of an office. By the performance of its duties, the officer

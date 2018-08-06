@@ -1,5 +1,6 @@
 ---
 title: Lake
+letter: L
 permalink: "/definitions/lake.html"
 body: A large body of water, contained in a depression of the earth’s surface, and
   supplied from the drainage of a more or less extended area, webster. See Jones v.

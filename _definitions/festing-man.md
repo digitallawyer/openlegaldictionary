@@ -1,5 +1,6 @@
 ---
 title: Festing-Man
+letter: F
 permalink: "/definitions/festing-man.html"
 body: In old English law. A frank-pledge, or one who was surety for the good behavior
   of another. Monasteries enjoyed the privilege of belng “free from festlng-men,"

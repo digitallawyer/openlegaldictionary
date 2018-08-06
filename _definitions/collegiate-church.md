@@ -1,5 +1,6 @@
 ---
 title: Collegiate Church
+letter: C
 permalink: "/definitions/collegiate-church.html"
 body: In English ecclesiastical law. A church built and endowed for a society or body
   corporate of a dean or other president, and secular priests, as canons or prebendaries

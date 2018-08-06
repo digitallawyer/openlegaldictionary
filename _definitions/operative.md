@@ -1,5 +1,6 @@
 ---
 title: Operative
+letter: O
 permalink: "/definitions/operative.html"
 body: A workman; a laboring man; an artisan; particularly one employed in factories.
   Cocking v. ward (Tenn. Ch. App.) 48 S. W. 287; In re City Trnst Co., 121 Fed. 706,

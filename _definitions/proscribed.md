@@ -1,5 +1,6 @@
 ---
 title: Proscribed
+letter: P
 permalink: "/definitions/proscribed.html"
 body: In the civil law. Among the Romans, a man was said to be “proscribed" when a
   reward was offered for hls head; but the term was more usually ap-plied to those

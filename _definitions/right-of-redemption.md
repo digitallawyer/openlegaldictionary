@@ -1,5 +1,6 @@
 ---
 title: Right Of Redemption
+letter: R
 permalink: "/definitions/right-of-redemption.html"
 body: The right to dislncumber property or to free it from a claim or lien; specifically,
   the right (grant-ed by statute only) to free property from the incumbrance of a

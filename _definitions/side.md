@@ -1,5 +1,6 @@
 ---
 title: Side
+letter: S
 permalink: "/definitions/side.html"
 body: The same court is sometimes said to have different sides; that is, different
   provinces or fields of jurisdiction. Thus, an admiralty court may have an “instance

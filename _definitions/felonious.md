@@ -1,5 +1,6 @@
 ---
 title: Felonious
+letter: F
 permalink: "/definitions/felonious.html"
 body: Malignant; maliciouB; done with lntent to commit a crime; having the grade or
   quality of a felony. People v. Moore, 37 Hun (N. Y.) 93; Aikman v. Com., 18 S. W.

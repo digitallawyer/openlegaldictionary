@@ -1,5 +1,6 @@
 ---
 title: Qujbstor
+letter: Q
 permalink: "/definitions/qujbstor.html"
 body: Lat A Roman magistrate, -whose office it was to collect the public rev-enue.
   Varro de L. L. iv. 14

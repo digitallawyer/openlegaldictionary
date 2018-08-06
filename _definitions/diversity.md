@@ -1,5 +1,6 @@
 ---
 title: Diversity
+letter: D
 permalink: "/definitions/diversity.html"
 body: In criminal pleading. A plea by the prisoner in bar of execution, al-leging
   that he is not the same who was at-talnted, npon which a jury is immediately Impaneled

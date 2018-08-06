@@ -1,5 +1,6 @@
 ---
 title: Nugatory
+letter: N
 permalink: "/definitions/nugatory.html"
 body: Futile; ineffectual; ln-vulld; destitute of constraining force or vi-tality.
   A legislative act may be “nugatory” because unconstitutional

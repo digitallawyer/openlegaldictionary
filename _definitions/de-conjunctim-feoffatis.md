@@ -1,5 +1,6 @@
 ---
 title: De Conjunctim Feoffatis
+letter: D
 permalink: "/definitions/de-conjunctim-feoffatis.html"
 body: Con-cerning persons jolntly enfeoffed, or seised. The title of the statute 34
   Edw. I., whlch was passed to prevent the delay occasioned by tenants in novel disseisin,

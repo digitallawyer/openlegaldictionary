@@ -1,5 +1,6 @@
 ---
 title: Jus Naturale
+letter: J
 permalink: "/definitions/jus-naturale.html"
 body: The natural law, or law of nature; law. or legal principles, sup-posed to be
   discoverable by the light of nature or abstract reasoning, or to he taught by nature

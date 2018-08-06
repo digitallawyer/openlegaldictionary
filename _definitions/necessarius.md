@@ -1,5 +1,6 @@
 ---
 title: Necessarius
+letter: N
 permalink: "/definitions/necessarius.html"
 body: Lat Necessary; nn-a void able; Indispensable; not admitting of choice or the
   action of the will; needful

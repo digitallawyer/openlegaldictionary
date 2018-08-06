@@ -1,5 +1,6 @@
 ---
 title: Fratres Pyes
+letter: F
 permalink: "/definitions/fratres-pyes.html"
 body: In old English law. Certain friars who wore white and black garments, walsingham,
   124

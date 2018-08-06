@@ -1,5 +1,6 @@
 ---
 title: Manufactory
+letter: M
 permalink: "/definitions/manufactory.html"
 body: A building, the main or principal design or use of which is to be a place for
   produclng articles as products of labor; not merely a place where some-thtng may

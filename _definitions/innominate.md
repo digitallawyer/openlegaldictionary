@@ -1,5 +1,6 @@
 ---
 title: Innominate
+letter: I
 permalink: "/definitions/innominate.html"
 body: In the civU law*. Not named or classed; belonging to no specific class; ranking
   nnder a general head. A term applied to those contracts for which no certain or

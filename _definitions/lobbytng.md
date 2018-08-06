@@ -1,5 +1,6 @@
 ---
 title: Lobbytng
+letter: L
 permalink: "/definitions/lobbytng.html"
 body: "“Lobbying” is defined to be any personal solicitation of a member of a legislative
   body during a session thereof, by private Interview, or letter or message, or other

@@ -1,5 +1,6 @@
 ---
 title: Fasti
+letter: F
 permalink: "/definitions/fasti.html"
 body: In Roman law. Lawful. Dies fasti, lawful days; days on which justice could lawfully
   be administered by the praetor. See Dies Fasti

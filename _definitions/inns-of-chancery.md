@@ -1,5 +1,6 @@
 ---
 title: Inns Of Chancery
+letter: I
 permalink: "/definitions/inns-of-chancery.html"
 body: So called be-cause anciently inhabited by such clerks as chiefly studied the
   framing of writs, which regularly belonged to the cursitors, who were officers of

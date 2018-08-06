@@ -1,5 +1,6 @@
 ---
 title: Wholesale
+letter: W
 permalink: "/definitions/wholesale.html"
 body: To sell by wholesale is to sell by large parcels, generally in original packages,
   and not by retail

@@ -1,5 +1,6 @@
 ---
 title: Glossa
+letter: G
 permalink: "/definitions/glossa.html"
 body: Lat. A gloss, explanation, or interpretation. The gloss# ot the Roman law are
   brief illustrative comments or annotations on the text of Justinian’s collections,

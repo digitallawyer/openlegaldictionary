@@ -1,5 +1,6 @@
 ---
 title: Disinter
+letter: D
 permalink: "/definitions/disinter.html"
 body: To exhume, unbury, take out of the grave. People v. Baumgartner, 135 Cal. 72,
   66 Pac. 974

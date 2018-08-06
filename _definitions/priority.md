@@ -1,5 +1,6 @@
 ---
 title: Priority
+letter: P
 permalink: "/definitions/priority.html"
 body: A legal preference or precedence. when two persons have similar rights in respect
   of the same subject-matter, but one is entitled to exercise his right to the exclusion

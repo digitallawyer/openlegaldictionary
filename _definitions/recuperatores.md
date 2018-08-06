@@ -1,5 +1,6 @@
 ---
 title: Recuperatores
+letter: R
 permalink: "/definitions/recuperatores.html"
 body: In Roman law. A specles of judges first appointed to decide controversies between
   Roman citizens and strangers concerning rights requiring speedy fernedy, but whose

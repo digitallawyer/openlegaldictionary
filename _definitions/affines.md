@@ -1,5 +1,6 @@
 ---
 title: Affines
+letter: A
 permalink: "/definitions/affines.html"
 body: In the clvll law. Connections by marriage, whether of the persons or their relatives.
   Calvin

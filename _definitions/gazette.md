@@ -1,5 +1,6 @@
 ---
 title: Gazette
+letter: G
 permalink: "/definitions/gazette.html"
 body: The official publication of the English government, also called the “Lon-don
   Gazette.” It is evidence of acts of state, and of everythlng done by the king in

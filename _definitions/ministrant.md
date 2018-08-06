@@ -1,5 +1,6 @@
 ---
 title: Ministrant
+letter: M
 permalink: "/definitions/ministrant.html"
 body: The party cross-exam-inlng a witness was so called, under the old system of
   the ecclesiastical courts

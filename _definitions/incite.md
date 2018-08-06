@@ -1,5 +1,6 @@
 ---
 title: Incite
+letter: I
 permalink: "/definitions/incite.html"
 body: To arouse; stir up; instigate; set iu motion; as, to "incite” a riot. Also,
   generally, in criminal law to instigate, per-suade, or move another to commit a

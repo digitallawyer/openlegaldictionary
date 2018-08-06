@@ -1,5 +1,6 @@
 ---
 title: Despot
+letter: D
 permalink: "/definitions/despot.html"
 body: This word, in its original and most simple acceptation, signifies master and
   supreme lord; it is synonymous with mon-arch ; bnt taken in bad part, as it is usually

@@ -1,5 +1,6 @@
 ---
 title: Gavelkind
+letter: G
 permalink: "/definitions/gavelkind.html"
 body: A species of socage ten-ure common in Kent, In England, where the lands desceud
   to all the sons, or heirs of the nearest degree, together; may be disposed of by

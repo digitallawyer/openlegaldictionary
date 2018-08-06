@@ -1,5 +1,6 @@
 ---
 title: Proletariate
+letter: P
 permalink: "/definitions/proletariate.html"
 body: The class of prole-tarii; the lowest stratum of the people of a country, consistiug
   mainly of the waste of otber classes, or of those fractious of the population who,

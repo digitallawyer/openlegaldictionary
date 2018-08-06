@@ -1,5 +1,6 @@
 ---
 title: Corporation Courts
+letter: C
 permalink: "/definitions/corporation-courts.html"
 body: 'Certain courts in Virginia described as follows: “For each city of the state,
   there shall be a court called a ‘corporation court,’ to be held by a judge, with

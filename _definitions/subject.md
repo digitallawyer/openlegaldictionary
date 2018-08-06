@@ -1,5 +1,6 @@
 ---
 title: Subject
+letter: S
 permalink: "/definitions/subject.html"
 body: In logic. That concerning which the affirmation in a proposition is made; the
   first word in a proposition

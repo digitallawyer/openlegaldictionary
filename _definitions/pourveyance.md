@@ -1,5 +1,6 @@
 ---
 title: Pourveyance
+letter: P
 permalink: "/definitions/pourveyance.html"
 body: In old English law. The providing corn, fuel, victuals, and other necessaries
   for the king’s house. Cowell

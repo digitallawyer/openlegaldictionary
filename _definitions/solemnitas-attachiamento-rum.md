@@ -1,5 +1,6 @@
 ---
 title: Solemnitas Attachiamento-Rum
+letter: S
 permalink: "/definitions/solemnitas-attachiamento-rum.html"
 body: Iu old Engllsh practlce. Solemnlty or formality of attachments. The issulng
   of attachments in a certaln formal and regular order. Bract fols. 439, 440; 1 Reeve,

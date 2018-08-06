@@ -1,5 +1,6 @@
 ---
 title: Versus
+letter: V
 permalink: "/definitions/versus.html"
 body: LaL Against In the tltle of a cause, the name of the plaintiff is put first,
   followed by the word “versus,” then the defendant’s name. Thus, “Fletcher versus

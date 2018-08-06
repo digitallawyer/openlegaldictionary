@@ -1,5 +1,6 @@
 ---
 title: Cards
+letter: C
 permalink: "/definitions/cards.html"
 body: In criminal law. Small palters or pasteboards of an oblong or rectangular shape,
   on which are printed figures or points, used in playing certain games. See Estes

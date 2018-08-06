@@ -1,5 +1,6 @@
 ---
 title: Parasoeve
+letter: P
 permalink: "/definitions/parasoeve.html"
 body: The sixth day of the last week in Lent, particularly called “Good Friday." In
   English law, it is a dies non juridicus

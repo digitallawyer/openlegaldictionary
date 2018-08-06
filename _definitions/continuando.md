@@ -1,5 +1,6 @@
 ---
 title: Continuando
+letter: C
 permalink: "/definitions/continuando.html"
 body: In pleading. A form of allegation in which the trespass, criminal offense, or
   other wrongful act complained of is charged to have been committed on a specified

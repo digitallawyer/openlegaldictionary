@@ -1,5 +1,6 @@
 ---
 title: Color Of Office
+letter: C
 permalink: "/definitions/color-of-office.html"
 body: An act unjustly done by the countenance of an ofiice, being grounded upon corruption,
   to which the office is as a shadow and color. Plow. 64

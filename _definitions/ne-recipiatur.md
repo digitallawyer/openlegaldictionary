@@ -1,5 +1,6 @@
 ---
 title: Ne Recipiatur
+letter: N
 permalink: "/definitions/ne-recipiatur.html"
 body: Lat. That it be not received. A caveat or warning given to a law ofiicer, by
   a party in a cause, not to receive the next proceedings of his opponent. 1 Sell.

@@ -1,5 +1,6 @@
 ---
 title: Buoy
+letter: B
 permalink: "/definitions/buoy.html"
 body: In maritime law. A piece of wood or cork, or a barrel, raft, or other thlng,
   made secure and floating upon a stream or bay, intended as a guide and warning to

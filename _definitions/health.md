@@ -1,5 +1,6 @@
 ---
 title: Health
+letter: H
 permalink: "/definitions/health.html"
 body: Freedom from slckness or suffering. The right to the enjoyment of health is
   a subdivision of the right of per-sonal security, one of the absolute rights of

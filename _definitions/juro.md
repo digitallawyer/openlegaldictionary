@@ -1,5 +1,6 @@
 ---
 title: Juro
+letter: J
 permalink: "/definitions/juro.html"
 body: In Spanish iaw. A certain per-petual pension, granted by the king on the public
   revenues, and more especially on the salt-works, by favor, either in consideration

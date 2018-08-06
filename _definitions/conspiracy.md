@@ -1,5 +1,6 @@
 ---
 title: Conspiracy
+letter: C
 permalink: "/definitions/conspiracy.html"
 body: In criminal law. A combination or confederacy between two or more persons formed
   for the purpose of com-mitting, by their joint efforts, some unlaw-ful or criminal

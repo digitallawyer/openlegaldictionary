@@ -1,5 +1,6 @@
 ---
 title: Relevancy
+letter: R
 permalink: "/definitions/relevancy.html"
 body: As a quallty of evidence, “relevancy" means appllcabillty to the issue jolned.
   Relevancy is that which conduces to the proof of a pertinent hypothesis; a per-tlnent

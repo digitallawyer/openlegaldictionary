@@ -1,5 +1,6 @@
 ---
 title: Twyhindi
+letter: T
 permalink: "/definitions/twyhindi.html"
 body: The lower order of Saxons, valued at 200s. in the scale of pecuniary mulcts
   inflicted for crimes. Cowell

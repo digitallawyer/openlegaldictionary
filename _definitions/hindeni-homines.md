@@ -1,5 +1,6 @@
 ---
 title: Hindeni Homines
+letter: H
 permalink: "/definitions/hindeni-homines.html"
 body: A society of men. The Saxons ranked men Into three classes, and valued them,
   as to. satisfaction for ln-jurles, etc., according to their class. The highest class

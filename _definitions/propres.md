@@ -1,5 +1,6 @@
 ---
 title: Propres
+letter: P
 permalink: "/definitions/propres.html"
 body: In French law. The term “propres" or “biens propres" (as distin-guished from
   “acquets") denotes all proper-ty inherited hy a person, whether by devise or ab

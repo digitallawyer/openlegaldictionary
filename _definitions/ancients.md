@@ -1,5 +1,6 @@
 ---
 title: Ancients
+letter: A
 permalink: "/definitions/ancients.html"
 body: 'In Engllsh law. Gentle-men of the Inns of court and chancery. In Gray’s Inn
   the society consists of benchers, ancients, barristers, and students under the bar:

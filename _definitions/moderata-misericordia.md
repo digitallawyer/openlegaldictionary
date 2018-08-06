@@ -1,5 +1,6 @@
 ---
 title: Moderata Misericordia
+letter: M
 permalink: "/definitions/moderata-misericordia.html"
 body: A writ founded on Magna Charta, which lies for him who is amerced in a court,
   not of rec-ord, for any transgression beyond the quality or quantity of the offense.

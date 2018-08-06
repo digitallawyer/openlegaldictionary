@@ -1,5 +1,6 @@
 ---
 title: Whore
+letter: W
 permalink: "/definitions/whore.html"
 body: A whore is a woman who practices unlawful commerce with men, partlcu-larly one
   who does so for hire; a harlot; a concubine; a prostitute. Sheehey v. Cokley, 43

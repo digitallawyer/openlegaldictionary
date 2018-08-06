@@ -1,5 +1,6 @@
 ---
 title: Overhaul
+letter: O
 permalink: "/definitions/overhaul.html"
 body: To inquire into; to re-view; to disturb. “The merits of a judg-ment can never
   be overhauled by an original suit.” 2 II. Bl. 414

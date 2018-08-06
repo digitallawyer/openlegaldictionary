@@ -1,5 +1,6 @@
 ---
 title: Dog-Draw
+letter: D
 permalink: "/definitions/dog-draw.html"
 body: AW. In old forest law. The manifest deprehension of an offender against venison
   In a forest, when he was found drawing after a deer by the scent of a hound led

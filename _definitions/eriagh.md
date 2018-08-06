@@ -1,5 +1,6 @@
 ---
 title: Eriagh
+letter: E
 permalink: "/definitions/eriagh.html"
 body: A term of the Irish Brehon law, denoting a pecuniary mulct or recompense which
   a murderer was judicially con-demned to pay to the family or relatives of his victim,

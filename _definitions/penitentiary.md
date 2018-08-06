@@ -1,5 +1,6 @@
 ---
 title: Penitentiary
+letter: P
 permalink: "/definitions/penitentiary.html"
 body: A prison or place of punishment; tbe place of punlshment in which convicts sentenced
   to confinement and hard labor are confined by the authority of the law. Millar v.

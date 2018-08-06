@@ -1,5 +1,6 @@
 ---
 title: Said
+letter: S
 permalink: "/definitions/said.html"
 body: Before mentioned. This word is constantly used in contracts, pleadings, and
   other legal papers, with the same force as “aforesaid.” See Shattuck v. Balcom,

@@ -1,5 +1,6 @@
 ---
 title: Asportation
+letter: A
 permalink: "/definitions/asportation.html"
 body: 'The removal of things from one place to another. The carrying away of goods;
   one of the circumstances requisite to constitute the offense of larceny. 4 Bl. Comm.

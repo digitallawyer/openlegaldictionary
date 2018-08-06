@@ -1,5 +1,6 @@
 ---
 title: Perpetrator
+letter: P
 permalink: "/definitions/perpetrator.html"
 body: Generally, this term denotes the person who actually commits a crime or delict,
   or by whose immediate agen-cy it occurs. But, where a servant of a railroad company

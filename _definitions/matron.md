@@ -1,5 +1,6 @@
 ---
 title: Matron
+letter: M
 permalink: "/definitions/matron.html"
 body: A married woman; an elderly woman. The female superintendent of an establishment
   or institution, such as a

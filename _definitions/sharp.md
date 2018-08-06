@@ -1,5 +1,6 @@
 ---
 title: Sharp
+letter: S
 permalink: "/definitions/sharp.html"
 body: A “sharp” clause in a mortgage or other security (or the whole instrument described
   as “sharp") is one which empowers the creditor to take prompt and summary ac-tion

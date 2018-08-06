@@ -1,5 +1,6 @@
 ---
 title: Rachimburgii
+letter: R
 permalink: "/definitions/rachimburgii.html"
 body: In the legal polity of the Sallans and Rlpuarlans and other Germanic peoples,
   this name was given to the judges or assessors who sat with the count in his mallum,

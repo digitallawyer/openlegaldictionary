@@ -1,5 +1,6 @@
 ---
 title: Resistance
+letter: R
 permalink: "/definitions/resistance.html"
 body: The act of resisting op-position; the employment of forcible means to prevent
   the execution of an endeavor in which force is employed. See U. S. v. Jose (C. C.)

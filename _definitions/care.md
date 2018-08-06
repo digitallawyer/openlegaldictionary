@@ -1,5 +1,6 @@
 ---
 title: Care
+letter: C
 permalink: "/definitions/care.html"
 body: As a legal term, this word means dlligence, prudence, discretion, attentiveness,
   watchfulness, vlgilance. It is the opposite of negligence or carelessness

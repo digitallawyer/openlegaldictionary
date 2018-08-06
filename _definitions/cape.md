@@ -1,5 +1,6 @@
 ---
 title: Cape
+letter: C
 permalink: "/definitions/cape.html"
 body: In Engllsh practice. A judicial writ touching a plea of . lands or tenements,
   divlded lnto cape magnum, or the grand cape, whlch lay before "appearance to sum*

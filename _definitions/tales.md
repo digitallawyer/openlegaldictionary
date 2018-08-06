@@ -1,5 +1,6 @@
 ---
 title: Tales
+letter: T
 permalink: "/definitions/tales.html"
 body: Lat Such; such men. when, by means of challenges or any other cause, a sufficient
   number of unexceptionable jurors does uot appear at tbe trial, elther party may

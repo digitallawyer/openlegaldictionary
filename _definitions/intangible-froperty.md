@@ -1,5 +1,6 @@
 ---
 title: Intangible Froperty
+letter: I
 permalink: "/definitions/intangible-froperty.html"
 body: Used chief-ly in the law of taxation, this term means such property as has no
   intrinsic and marketable value, but is merely the representa-tive or evldence of

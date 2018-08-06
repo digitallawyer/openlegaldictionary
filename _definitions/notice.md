@@ -1,5 +1,6 @@
 ---
 title: Notice
+letter: N
 permalink: "/definitions/notice.html"
 body: Knowledge; Information; the result of observation, whether by the senses or
   the mind; knowledge of the existence of a fact or state of affairs; the means of

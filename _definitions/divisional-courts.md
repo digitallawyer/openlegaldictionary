@@ -1,5 +1,6 @@
 ---
 title: Divisional Courts
+letter: D
 permalink: "/definitions/divisional-courts.html"
 body: Courts in Eng-land, consisting of two or (in special cases) more judges of the
   high court of justice, sitting to transact certain kinds of business which cannot

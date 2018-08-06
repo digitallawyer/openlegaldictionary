@@ -1,5 +1,6 @@
 ---
 title: Onroerende And Vast Staat
+letter: O
 permalink: "/definitions/onroerende-and-vast-staat.html"
 body: Dutch. Immovable and fast estate, that is, land or real estate. The phrase is
   used in Dutch wills, deeds, and antenuptial contracts of the early colonial period

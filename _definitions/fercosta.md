@@ -1,5 +1,6 @@
 ---
 title: Fercosta
+letter: F
 permalink: "/definitions/fercosta.html"
 body: Ital. A kind of small ves-sel or boat. Mentioned in old Scotch law, and called
   “fercost” Skene

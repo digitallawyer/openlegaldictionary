@@ -1,5 +1,6 @@
 ---
 title: Overdue
+letter: O
 permalink: "/definitions/overdue.html"
 body: A negotiable instrument or other evidence of debt is overdue when the day of
   its maturity is past and it remains unpaid. Camp v. Scott, 14 VL 387 ; La Due v.

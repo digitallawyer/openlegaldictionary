@@ -1,5 +1,6 @@
 ---
 title: Dismiss
+letter: D
 permalink: "/definitions/dismiss.html"
 body: To send away; to discharge; to. cause to be removed. To dismiss au action or
   suit is to send it out of court without any further consideration or hearing. Bos-ley

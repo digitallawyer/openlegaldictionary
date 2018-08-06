@@ -1,5 +1,6 @@
 ---
 title: Summoneas
+letter: S
 permalink: "/definitions/summoneas.html"
 body: L. Lat in old practice. A writ of summons; a writ by which a party was summoned
   to appear in court

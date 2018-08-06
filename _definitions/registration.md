@@ -1,5 +1,6 @@
 ---
 title: Registration
+letter: R
 permalink: "/definitions/registration.html"
 body: Recording; Inserting In an official register; the act of making a list, catalogue,
   schedule, or register, particu-larly of an official character, or of making entries

@@ -1,5 +1,6 @@
 ---
 title: Suffrage
+letter: S
 permalink: "/definitions/suffrage.html"
 body: A vote; the act of voting; the right or privilege of casting a vote at public
   elections. The last is the meaning of the term in such phrases as “the extension

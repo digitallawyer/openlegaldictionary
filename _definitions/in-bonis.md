@@ -1,5 +1,6 @@
 ---
 title: In Bonis
+letter: I
 permalink: "/definitions/in-bonis.html"
 body: Among the goods or property; In actual possession. Inst. 4, 2, 2. In bonis defunctl,
   among the goods of the deceased

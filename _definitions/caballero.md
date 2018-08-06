@@ -1,5 +1,6 @@
 ---
 title: Caballero
+letter: C
 permalink: "/definitions/caballero.html"
 body: In Spanish law. A knight. So called on account of its being more honorable to
   go on horseback (d caballo) than on any other beast

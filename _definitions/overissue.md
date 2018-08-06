@@ -1,5 +1,6 @@
 ---
 title: Overissue
+letter: O
 permalink: "/definitions/overissue.html"
 body: To issue in excessive quan-tity; to issue in excess of fixed legal limits. Thus,
   “overissued stock” of a private corporation is capital stock issued in excess of

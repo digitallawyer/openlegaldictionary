@@ -1,5 +1,6 @@
 ---
 title: Profert In Curia
+letter: P
 permalink: "/definitions/profert-in-curia.html"
 body: IA. L. Lat. He pro-duces in court. In old practice, these words were inserted
   in a declaration, as an allega-tion that the plaintiff was ready to produce, or

@@ -1,5 +1,6 @@
 ---
 title: Obreption
+letter: O
 permalink: "/definitions/obreption.html"
 body: obtaining anything by fraud or surprise. Acquisition of escheats, etc., from
   the sovereign, by making faise rep* resentations. Beit

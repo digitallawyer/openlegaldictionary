@@ -1,5 +1,6 @@
 ---
 title: Quarry
+letter: Q
 permalink: "/definitions/quarry.html"
 body: In mining law. An open excavation where the works* are visible at the surface;
   a place or pit where stone, slate, marble, etc., is dug out or separated from a

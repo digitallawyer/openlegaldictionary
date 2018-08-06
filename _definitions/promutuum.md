@@ -1,5 +1,6 @@
 ---
 title: Promutuum
+letter: P
 permalink: "/definitions/promutuum.html"
 body: Lat. In the civil Uw. A quasi contract, by which he who receives a certain sum
   of money, or a certain quan-tity of fungible things, which have been paid to him

@@ -1,5 +1,6 @@
 ---
 title: Restraint
+letter: R
 permalink: "/definitions/restraint.html"
 body: Confinement, abridgment, or limitation. Prohibition of action; holding or pressing
   back from action. Hindrance, confinement, or restriction of liberty

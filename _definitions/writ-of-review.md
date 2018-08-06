@@ -1,5 +1,6 @@
 ---
 title: Writ Of Review
+letter: W
 permalink: "/definitions/writ-of-review.html"
 body: "(1) A general designation of any form of process issuing from an appellate
   court and Intended to bring up for review the record or decision of the court below.

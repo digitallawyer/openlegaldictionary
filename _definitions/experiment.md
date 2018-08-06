@@ -1,5 +1,6 @@
 ---
 title: Experiment
+letter: E
 permalink: "/definitions/experiment.html"
 body: In patent law, either a trial of an uncompleted mechanical structure to ascertain
   what changes or additions may be necessary to make it accomplish the design of the

@@ -1,5 +1,6 @@
 ---
 title: Copyhold
+letter: C
 permalink: "/definitions/copyhold.html"
 body: A species of estate at will, or customary estate in England, the only vis-ible
   title to whlch consists of the copies of the court rolls, which are* made out by

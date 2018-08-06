@@ -1,5 +1,6 @@
 ---
 title: Tinkermen
+letter: T
 permalink: "/definitions/tinkermen.html"
 body: Fishermen who destroy-ed the young fry on the river Thames by nets and unlawful
   engines. Cow’ell

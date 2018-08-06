@@ -1,5 +1,6 @@
 ---
 title: Assizes De Jerusalem
+letter: A
 permalink: "/definitions/assizes-de-jerusalem.html"
 body: A code of feudal jurisprudence prepared by an as-sembly of barons and lords
   A. D. 1099, after the conquest of Jerusalem

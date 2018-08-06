@@ -1,5 +1,6 @@
 ---
 title: Agnati
+letter: A
 permalink: "/definitions/agnati.html"
 body: In Roman law. The term in-cluded “all the cognates who trace thelr connection
   exclusively through males. A table of cognates is formed by taking each liueal ancestor

@@ -1,5 +1,6 @@
 ---
 title: A Quo
+letter: A
 permalink: "/definitions/a-quo.html"
 body: A term used, with the correla-tive ad quern, (to which,) in expressing the computation
   of time, and also of distance in space. Thus, dies d quo, the day from which, and

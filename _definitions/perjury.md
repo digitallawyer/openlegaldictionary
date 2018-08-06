@@ -1,5 +1,6 @@
 ---
 title: Perjury
+letter: P
 permalink: "/definitions/perjury.html"
 body: In criminal law. The wlllful assertion as to a matter of fact, oplnlon, belief,
   or knowledge, made by a witness in a judicial proceedlng as part of his evidence,

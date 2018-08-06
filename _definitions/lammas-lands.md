@@ -1,5 +1,6 @@
 ---
 title: Lammas Lands
+letter: L
 permalink: "/definitions/lammas-lands.html"
 body: Lands over whlch there is a right of pasturage by persons other than the owner
   from about Lammas, or reap-lng tlme, until sowing time, wharton

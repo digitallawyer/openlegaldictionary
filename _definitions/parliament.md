@@ -1,5 +1,6 @@
 ---
 title: Parliament
+letter: P
 permalink: "/definitions/parliament.html"
 body: The supreme legisla-tlve assembly of Great Britain and Ireland, consisting of
   the king or queen and the three estates of the realm, viz., the lords spiritual,

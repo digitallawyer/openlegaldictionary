@@ -1,5 +1,6 @@
 ---
 title: Continuous
+letter: C
 permalink: "/definitions/continuous.html"
 body: Uninterrupted; unbroken ; not intermittent or occasional; so persistently repeated
   at short intervals as to constitute virtually an unbroken series. Black v. Canal

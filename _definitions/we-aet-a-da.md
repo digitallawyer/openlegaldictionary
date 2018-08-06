@@ -1,5 +1,6 @@
 ---
 title: We Aet. A Da
+letter: W
 permalink: "/definitions/we-aet-a-da.html"
 body: A purging from a crime by the oaths of several persons, according to the degree
   and quality of the accused. Cow-ell

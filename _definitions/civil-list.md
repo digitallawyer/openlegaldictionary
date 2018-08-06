@@ -1,5 +1,6 @@
 ---
 title: Civil List
+letter: C
 permalink: "/definitions/civil-list.html"
 body: In English public law. An annual sum granted by parliament, at the commencement
   of each reign, for the expense of the royal household and establishment, as distinguished

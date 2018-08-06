@@ -1,5 +1,6 @@
 ---
 title: Dialogus De Scaccario
+letter: D
 permalink: "/definitions/dialogus-de-scaccario.html"
 body: Dialogue of or about the exchequer. An ancient treatise on the court of exchequer,
   attributed by some to Gervase of Tilbury, by others to Richard Fitz Nigel, bishop

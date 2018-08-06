@@ -1,5 +1,6 @@
 ---
 title: Escribano
+letter: E
 permalink: "/definitions/escribano.html"
 body: In Spanish law. An offl-cer, resembling a notary in French law, who has authority,
   to set down in writing, und verify by hls attestation, transactions and contracts

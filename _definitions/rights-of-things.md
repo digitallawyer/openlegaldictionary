@@ -1,5 +1,6 @@
 ---
 title: Rights Of Things
+letter: R
 permalink: "/definitions/rights-of-things.html"
 body: Such as a man may acquire over external objects, or things unconnected with
   his person. 1 BL Comm. 122

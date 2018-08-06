@@ -1,5 +1,6 @@
 ---
 title: Privity
+letter: P
 permalink: "/definitions/privity.html"
 body: The term “privity” means mutual or successive relationship to the same rights
   of property. The executor is in prlv-lty with the testator, the heir with the ances

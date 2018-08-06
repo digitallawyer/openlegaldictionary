@@ -1,5 +1,6 @@
 ---
 title: Caption
+letter: C
 permalink: "/definitions/caption.html"
 body: In praotioe. That part of a legal instrument, as a commission, indict-ment,
   etc., whlch shows where, when, nnd by what authority it is taken, found, or executed.

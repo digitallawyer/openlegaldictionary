@@ -1,5 +1,6 @@
 ---
 title: Many
+letter: M
 permalink: "/definitions/many.html"
 body: This term denotes a multitude, not merely a number greater than that denoted
   by the word “few." . Louisville de N

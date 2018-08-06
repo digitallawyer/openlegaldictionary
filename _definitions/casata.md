@@ -1,5 +1,6 @@
 ---
 title: Casata
+letter: C
 permalink: "/definitions/casata.html"
 body: In old English law. A house with land sufficient for the support of one family,
   otherwise called “bide,” a hide of land, and by Bede, "familia.” Spelman

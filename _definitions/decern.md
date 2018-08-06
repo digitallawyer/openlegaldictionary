@@ -1,5 +1,6 @@
 ---
 title: Decern
+letter: D
 permalink: "/definitions/decern.html"
 body: In Scotch law. To decree. “Decernlt and ordainlt." 1 How. State Tr. 927. “Decerns.”
   Shaw, 16

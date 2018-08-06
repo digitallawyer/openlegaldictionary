@@ -1,5 +1,6 @@
 ---
 title: Estate In Joint Tenancy
+letter: E
 permalink: "/definitions/estate-in-joint-tenancy.html"
 body: An estate in lands or tenements granted to two or more persons, to hold in fee-simple,
   fee-tall, for life, for years, or at will. 2 Bl. Comm. 180; 2 Crabb, Real Prop.

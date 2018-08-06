@@ -1,5 +1,6 @@
 ---
 title: Acquietandis Plegiis
+letter: A
 permalink: "/definitions/acquietandis-plegiis.html"
 body: A writ of justices, formerly lying for the surety agninst a creditor, who refuses
   to acquit him after

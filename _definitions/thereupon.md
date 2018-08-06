@@ -1,5 +1,6 @@
 ---
 title: Thereupon
+letter: T
 permalink: "/definitions/thereupon.html"
 body: At once; without lnter-ruption; without delay or lapse of time. Putnam v. Langley,
   133 Mass. 205

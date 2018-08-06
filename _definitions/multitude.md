@@ -1,5 +1,6 @@
 ---
 title: Multitude
+letter: M
 permalink: "/definitions/multitude.html"
 body: An assemblage of many people. According to Coke it is not a word of very precise
   meaning; for some authori-ties hold that there must be at least ten persons to make

@@ -1,5 +1,6 @@
 ---
 title: Necessaries
+letter: N
 permalink: "/definitions/necessaries.html"
 body: Things indispensable, or things proper and useful, for the sustenance of human
   life. This is a relative term, and its meaning will contract or expand according

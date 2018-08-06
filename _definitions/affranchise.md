@@ -1,5 +1,6 @@
 ---
 title: Affranchise
+letter: A
 permalink: "/definitions/affranchise.html"
 body: pellate court of a judgment, order, or decree of n lower court brought before
   it for review. See Affirm.

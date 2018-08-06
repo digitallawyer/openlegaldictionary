@@ -1,5 +1,6 @@
 ---
 title: Deprive
+letter: D
 permalink: "/definitions/deprive.html"
 body: In a constitutional provision that no person shall be “deprived of his prop-erty”
   without due process of law, this word is equivalent to the term “take,” and de-notes

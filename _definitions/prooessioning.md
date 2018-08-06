@@ -1,5 +1,6 @@
 ---
 title: Prooessioning
+letter: P
 permalink: "/definitions/prooessioning.html"
 body: A proceeding to determine boundaries, in use in some of the United States, similar
   in all respects to the English perambulation, (q. v

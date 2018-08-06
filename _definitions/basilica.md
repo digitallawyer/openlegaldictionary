@@ -1,5 +1,6 @@
 ---
 title: Basilica
+letter: B
 permalink: "/definitions/basilica.html"
 body: The name given to a com-pilation of Roman and Greek law, prepared about A. D.
   880 by the Emperor Basilius, and published by his successor, Leo the Phi-losopher.

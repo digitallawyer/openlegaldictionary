@@ -1,5 +1,6 @@
 ---
 title: Plebiscite
+letter: P
 permalink: "/definitions/plebiscite.html"
 body: In modern constltutlonal law, the name "plebiscite" has been given to a vote
   of the entire people, (that is, the aggregate of the enfranchised Indlvlduals composlng

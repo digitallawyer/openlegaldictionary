@@ -1,5 +1,6 @@
 ---
 title: Retorno Habendo
+letter: R
 permalink: "/definitions/retorno-habendo.html"
 body: A writ that lies for tbe distrainor of goods (when, on re-plevin brought, he
   has proved his distress to be a lawful one) against him who was so dis-trained,

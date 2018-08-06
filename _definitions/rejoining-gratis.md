@@ -1,5 +1,6 @@
 ---
 title: Rejoining Gratis
+letter: R
 permalink: "/definitions/rejoining-gratis.html"
 body: Rejoining vol-untarlly, or wlthout being required to do so by a rule to rejoin,
   when a defendant was under terms to rejoin gratis, he had to de-liver a rejolnder,

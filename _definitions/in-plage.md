@@ -1,5 +1,6 @@
 ---
 title: In Plage
+letter: I
 permalink: "/definitions/in-plage.html"
 body: In mining law, rock or min-eralized matter is “in place" when remain-lng as
   nature placed it, that is, unsevered from the circumjacent rock, or which is fixed

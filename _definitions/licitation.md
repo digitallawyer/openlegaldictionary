@@ -1,5 +1,6 @@
 ---
 title: Licitation
+letter: L
 permalink: "/definitions/licitation.html"
 body: In the civil law. An offering for sale to the highest bidder, or to him who
   will give most for a thing. An act by which co-heirs or other co-proprietors of

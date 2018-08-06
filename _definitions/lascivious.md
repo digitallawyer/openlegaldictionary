@@ -1,5 +1,6 @@
 ---
 title: Lascivious
+letter: L
 permalink: "/definitions/lascivious.html"
 body: Tending to excite lust; lewd; indecent; obscene; relating to sexual impurity;
   tending to deprave the morals in respect to sexual relations. See Swearingen v.

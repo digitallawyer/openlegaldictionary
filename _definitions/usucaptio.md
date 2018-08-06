@@ -1,5 +1,6 @@
 ---
 title: Usucaptio
+letter: U
 permalink: "/definitions/usucaptio.html"
 body: 'or USUCAPTIO. A term of Roman law used to denote a mode of ac-qulsition of
   property. It corresponds very nearly to the term “prescription.” But the prescription

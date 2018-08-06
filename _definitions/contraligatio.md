@@ -1,5 +1,6 @@
 ---
 title: Contraligatio
+letter: C
 permalink: "/definitions/contraligatio.html"
 body: In old Eugllsh law. Counter-obligation. Literally, counter-hlnd-ing. Est enim
   obligatio quasi contraligatio. Fleta, lib. 2, c. 56, § 1

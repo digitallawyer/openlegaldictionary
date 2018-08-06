@@ -1,5 +1,6 @@
 ---
 title: Reverser
+letter: R
 permalink: "/definitions/reverser.html"
 body: ER. In Scotch law. The pro ‘prietor of an estate who grants a wadset (or mortgage)
   of hls lands; and who has‘tf'Aglit

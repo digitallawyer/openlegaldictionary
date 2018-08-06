@@ -1,5 +1,6 @@
 ---
 title: Plant
+letter: P
 permalink: "/definitions/plant.html"
 body: The fixtures, tools, machinery, and apparatus whlch are necessary to carry on
   a trade or business, wharton. Southern Bell Tel. Co. v. D’Alemberte, 89 Fla. 25,

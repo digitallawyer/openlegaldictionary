@@ -1,5 +1,6 @@
 ---
 title: Deraign
+letter: D
 permalink: "/definitions/deraign.html"
 body: Seems to mean, literally, to confound and disorder, or to turn out of course,
   or displace; as deraignment or de-parture out of religion, in St. 31 Hen. VIII.

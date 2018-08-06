@@ -1,5 +1,6 @@
 ---
 title: Territorial, Territoriality
+letter: T
 permalink: "/definitions/territorial-territoriality.html"
 body: These terms are used to slgnlfy connection with, or limitation with reference
   to, a par-tlcular country or territory. Thus, "terri-torial law" is the correct

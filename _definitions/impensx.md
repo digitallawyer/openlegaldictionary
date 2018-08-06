@@ -1,5 +1,6 @@
 ---
 title: Impens.X
+letter: I
 permalink: "/definitions/impensx.html"
 body: Lat. In the civil law. Ex-penses; outlays. Mackeld. Rom. Law, S 168; Calvin.
   Divided into necessary, (necessaries,) useful, (utiles,) and tasteful or orna-mental,

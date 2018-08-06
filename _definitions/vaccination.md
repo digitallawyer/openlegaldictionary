@@ -1,5 +1,6 @@
 ---
 title: Vaccination
+letter: V
 permalink: "/definitions/vaccination.html"
 body: Inoculation with vac-cine or the virus of cowpox as a preventive against the
   smallpox; frequently made com-pulsory by statute. See Daniel v. Putnam County, US

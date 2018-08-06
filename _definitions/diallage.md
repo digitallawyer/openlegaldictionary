@@ -1,5 +1,6 @@
 ---
 title: Diallage
+letter: D
 permalink: "/definitions/diallage.html"
 body: A rhetorical figure in which arguments are placed in various points of view,
   and then turned to one point. Enc. Lond

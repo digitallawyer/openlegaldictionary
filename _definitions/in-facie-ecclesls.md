@@ -1,5 +1,6 @@
 ---
 title: In Facie Ecclesls
+letter: I
 permalink: "/definitions/in-facie-ecclesls.html"
 body: In the face of the church. A term applied In the law of England to marriages,
   which are required to be solemnized in a parish church or public chapel, unless

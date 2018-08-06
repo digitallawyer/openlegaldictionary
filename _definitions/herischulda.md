@@ -1,5 +1,6 @@
 ---
 title: Herischulda
+letter: H
 permalink: "/definitions/herischulda.html"
 body: In old Scotch law. A flue or penalty for not obeying the proclaina-tion made
   for warfare. Skene

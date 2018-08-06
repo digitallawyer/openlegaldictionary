@@ -1,5 +1,6 @@
 ---
 title: Jewel
+letter: J
 permalink: "/definitions/jewel.html"
 body: By “jewels” are meant ornaments of the person, such as ear-rings, pearls, diamonds,
   etc., which are prepared to be worn. See Com. v. Stephens, 14 Pick. (Mass.) 373;

@@ -1,5 +1,6 @@
 ---
 title: Dessaisissement
+letter: D
 permalink: "/definitions/dessaisissement.html"
 body: In French law. when a person is declared bankrupt, he is immediately deprived
   of the enjoyment and administration of all hls property; this dep* rivation, which

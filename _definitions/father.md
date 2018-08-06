@@ -1,5 +1,6 @@
 ---
 title: Father
+letter: F
 permalink: "/definitions/father.html"
 body: The male parent He by whom a child is begotten. As used in law, this term may
   (according to the context and the nature of the Instrument) include a pu-tatlve

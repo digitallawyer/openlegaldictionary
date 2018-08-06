@@ -1,5 +1,6 @@
 ---
 title: Enforce
+letter: E
 permalink: "/definitions/enforce.html"
 body: To put into execution; to cause to take effect; to make effective; as, to enforce
   a writ, a judgment, or the collec-tion of a debt or fine. Breitenbach v. Bush, 44

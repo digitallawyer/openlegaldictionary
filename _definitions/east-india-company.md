@@ -1,5 +1,6 @@
 ---
 title: East India Company
+letter: E
 permalink: "/definitions/east-india-company.html"
 body: The East India Company was originally established for prosecuting the trade
   between England and India, which they acquired a right to carry on exclusively.

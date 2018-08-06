@@ -1,5 +1,6 @@
 ---
 title: Pallio Cooperire
+letter: P
 permalink: "/definitions/pallio-cooperire.html"
 body: In old English law. An ancient custom, where children were born out of wedlock,
   and their parents afterwards intermarried. The children, to-gether with the father

@@ -1,5 +1,6 @@
 ---
 title: Non Bis In Idem
+letter: N
 permalink: "/definitions/non-bis-in-idem.html"
 body: Not twice for the same;' that is, a man shall not be twice tried for the same
   crime. This maxim of the civil law (Code, 0, 2, 9, 11) expresses the same principle

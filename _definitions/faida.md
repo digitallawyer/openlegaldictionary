@@ -1,5 +1,6 @@
 ---
 title: Faida
+letter: F
 permalink: "/definitions/faida.html"
 body: In Saxon law. Malice; open and deadly hostility; deadly feud. The word designated
   the enmity between the family of a murdered man and that of his murderer, which

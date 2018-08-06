@@ -1,5 +1,6 @@
 ---
 title: Ad Hoc
+letter: A
 permalink: "/definitions/ad-hoc.html"
 body: For this; for this special pur-pose. An attorney ad hoc, or a guardian or curator
   ad hoc, is one appointed for a spe-cial purpose, generally to represent the client

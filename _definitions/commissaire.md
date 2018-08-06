@@ -1,5 +1,6 @@
 ---
 title: Commissaire
+letter: C
 permalink: "/definitions/commissaire.html"
 body: In French law. A person who receives from a meetlug of shareholders a special
   authority, viz., that of checking and examining the accounts of a manager or of

@@ -1,5 +1,6 @@
 ---
 title: Vote
+letter: V
 permalink: "/definitions/vote.html"
 body: Suffrage; the expression of his will, preference, or choice, formally manir
   fested by a member of a legislative or delib-erative body, or of a constituency

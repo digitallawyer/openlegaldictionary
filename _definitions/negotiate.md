@@ -1,5 +1,6 @@
 ---
 title: Negotiate
+letter: N
 permalink: "/definitions/negotiate.html"
 body: TE. To discuss or arrange a sale or bargain; to arrange the preliminaries of
   a business transaction. Also to sell or discount negotiable paper, or assign or

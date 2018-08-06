@@ -1,5 +1,6 @@
 ---
 title: Shewing
+letter: S
 permalink: "/definitions/shewing.html"
 body: In Engllsh law. To be qult of attachment in a court, in plalnts shewed and not
   avowed, obsolete

@@ -1,5 +1,6 @@
 ---
 title: Nomocanon
+letter: N
 permalink: "/definitions/nomocanon.html"
 body: "(1) A collection of can-ons and imperial laws relative or conform-able thereto.
   The first nomocanon was made by Johannes Scholastlcus in 554. Photins, patriarch

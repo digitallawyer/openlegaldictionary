@@ -1,5 +1,6 @@
 ---
 title: Elongata
+letter: E
 permalink: "/definitions/elongata.html"
 body: In practice. Eloigned; carried away to a distance. The old form of the return
   made by a sheriff to a writ of replevin, stating that the goods or beasts had been

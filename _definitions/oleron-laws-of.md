@@ -1,5 +1,6 @@
 ---
 title: Oleron, Laws Of
+letter: O
 permalink: "/definitions/oleron-laws-of.html"
 body: A code of maritime laws published at the island of oleron in the twelfth century
   by Eleanor of Gui-enne. They were adopted In England suc-cessively under Richard

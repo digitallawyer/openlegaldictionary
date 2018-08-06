@@ -1,5 +1,6 @@
 ---
 title: Danegelt, Danegeld
+letter: D
 permalink: "/definitions/danegelt-danegeld.html"
 body: A tribute of Is. and afterwards of 2s. uf>on every hide of laud through the
   realm, levied by the An-glo-Saxons, for maiutalulug such a number of forces as were

@@ -1,5 +1,6 @@
 ---
 title: Distributive
+letter: D
 permalink: "/definitions/distributive.html"
 body: Exercising or accom-pllshing distribution; apportioning, dividing, and assigning
   in separate items or shares

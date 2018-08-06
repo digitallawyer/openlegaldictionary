@@ -1,5 +1,6 @@
 ---
 title: Scyregemote
+letter: S
 permalink: "/definitions/scyregemote.html"
 body: In Saxon law. The meeting or court of the shire. This was the most lmportant
   court in the Saxon polity, having jurisdictlon of both ecclesiastical and secular

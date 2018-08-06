@@ -1,5 +1,6 @@
 ---
 title: Assist
+letter: A
 permalink: "/definitions/assist.html"
 body: To help; aid; Buccor; lend countenance or encouragement to; particl-pate in
   as an auxiliary. People v. Hayne, 83 Cal. Ill, 23 Pac. 1, 7 L. R. A. 348, 17 Am.

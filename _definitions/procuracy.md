@@ -1,5 +1,6 @@
 ---
 title: Procuracy
+letter: P
 permalink: "/definitions/procuracy.html"
 body: The writing or Instru-ment which authorizes a procurator to act. Cowell; Termes
   de la Ley

@@ -1,5 +1,6 @@
 ---
 title: Laden In Bulk
+letter: L
 permalink: "/definitions/laden-in-bulk.html"
 body: A term of marltime law, applled to a vessel which is freight-ed with a cargo
   which is neither in casks, boxes, bales, nor cases, but lies loose in the hold,

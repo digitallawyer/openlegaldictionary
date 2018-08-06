@@ -1,5 +1,6 @@
 ---
 title: Tippling House
+letter: T
 permalink: "/definitions/tippling-house.html"
 body: A place where in-toxica ting drinks are sold in drams or email quantities to
   be drunk on the premises, and where men resort for drinking purposes. See Leesburg

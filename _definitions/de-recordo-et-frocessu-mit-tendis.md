@@ -1,5 +1,6 @@
 ---
 title: De Recordo Et Frocessu Mit-Tendis
+letter: D
 permalink: "/definitions/de-recordo-et-frocessu-mit-tendis.html"
 body: writ to send the record and pro-cess of a cause to a superior court; a species
   of writ of error. Reg. orlg. 209

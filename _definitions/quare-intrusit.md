@@ -1,5 +1,6 @@
 ---
 title: Quare Intrusit
+letter: Q
 permalink: "/definitions/quare-intrusit.html"
 body: A writ that for-merly lay where the lord proffered a sultable marriage to hls
   ward, who rejected It, and entered into the land, and married another, the value

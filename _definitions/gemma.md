@@ -1,5 +1,6 @@
 ---
 title: Gemma
+letter: G
 permalink: "/definitions/gemma.html"
 body: Lat. In the civll law. A gem; a precious stone. Gems were distin-guished by
   their transparency; such as ein-eralds, chrysolites, amethysts. Dig. 34, 2, 19,

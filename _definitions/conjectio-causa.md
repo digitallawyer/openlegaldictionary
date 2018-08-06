@@ -1,5 +1,6 @@
 ---
 title: Conjectio Causa
+letter: C
 permalink: "/definitions/conjectio-causa.html"
 body: In the civU law. A statement of the case. A brief synopsis of the case given
   by the advocate te the judge in opening the trial. Calvin

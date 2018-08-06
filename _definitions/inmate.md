@@ -1,5 +1,6 @@
 ---
 title: Inmate
+letter: I
 permalink: "/definitions/inmate.html"
 body: 'A person who lodges or dwells in the same house with another, occupying different
   rooms, but using the same door for passing In and out of the house, webster: Jacob'

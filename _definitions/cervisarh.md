@@ -1,5 +1,6 @@
 ---
 title: Cervisarh
+letter: C
 permalink: "/definitions/cervisarh.html"
 body: Iu Saxon law. Tenants who were bound to supply drink for their lord’s table.
   Cowell

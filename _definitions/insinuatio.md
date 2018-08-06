@@ -1,5 +1,6 @@
 ---
 title: Insinuatio
+letter: I
 permalink: "/definitions/insinuatio.html"
 body: Lat in old English law. Information or suggestion. Ex insinuations on the Information.
   Reg. Jud. 25, 50

@@ -1,5 +1,6 @@
 ---
 title: Feodum
+letter: F
 permalink: "/definitions/feodum.html"
 body: This word (meaning a feud or fee) is the one most commonly used by the older
   English law-writers, though its equlva-lent, “feud urn,” is used generally by the

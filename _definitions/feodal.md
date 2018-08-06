@@ -1,5 +1,6 @@
 ---
 title: Feodal
+letter: F
 permalink: "/definitions/feodal.html"
 body: Belonging to a fpe or feud; feudal. More commonly used by the old writers than
   feudal

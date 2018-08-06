@@ -1,5 +1,6 @@
 ---
 title: Quousque
+letter: Q
 permalink: "/definitions/quousque.html"
 body: Lat. How long; how far; until. In old conveyances it is used as a word of limitation.
   10 Coke, 41

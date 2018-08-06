@@ -1,5 +1,6 @@
 ---
 title: Commons House Of Parliament
+letter: C
 permalink: "/definitions/commons-house-of-parliament.html"
 body: In the English parliament The lower house, so called because the commons of
   the realm, that is, the knights, citizens, and burgesses returned to parliament,

@@ -1,5 +1,6 @@
 ---
 title: Acequia
+letter: A
 permalink: "/definitions/acequia.html"
 body: In Mexican law. A ditch, channel, or canal, through whlch water, diverted from
   its natural course, is conducted, for use in irrigation or other purposes

@@ -1,5 +1,6 @@
 ---
 title: Porrecting
+letter: P
 permalink: "/definitions/porrecting.html"
 body: "-Producing for exam-ination or taxation, as porrecting a bill of costs, by
   a proctor"

@@ -1,5 +1,6 @@
 ---
 title: Puer
+letter: P
 permalink: "/definitions/puer.html"
 body: Lat in the civil law. A child; one of the age from seven to fourteen, in-cluding,
   iu this sense, a girl. But it also meant a "boy,” as distinguished from a “girlor

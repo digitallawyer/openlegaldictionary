@@ -1,5 +1,6 @@
 ---
 title: Mercat
+letter: M
 permalink: "/definitions/mercat.html"
 body: A market. An old form of the latter word common in Scotch law, formed from the
   Latin “mercatum

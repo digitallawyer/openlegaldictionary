@@ -1,5 +1,6 @@
 ---
 title: Corroborate
+letter: C
 permalink: "/definitions/corroborate.html"
 body: To strengthen; to add weight or credibility to a thing by additional and confirming
   facts or evidence. Still v. State (Tex. Cr. R.) 50 S. W. 355; State v. Hicks, 6

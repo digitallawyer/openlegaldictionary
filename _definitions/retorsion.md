@@ -1,5 +1,6 @@
 ---
 title: Retorsion
+letter: R
 permalink: "/definitions/retorsion.html"
 body: In international law. A species of retaliation, which takes place where a government,
   whose citizens are subjected to severe and stringent regulation or harsh treatment

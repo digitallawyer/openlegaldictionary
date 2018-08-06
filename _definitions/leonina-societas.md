@@ -1,5 +1,6 @@
 ---
 title: Leonina Societas
+letter: L
 permalink: "/definitions/leonina-societas.html"
 body: Lat. An at-tempted partnership, in which one party was to bear all the losses,
   and have no share in the profits. This was a void partnership in Roman law; and,

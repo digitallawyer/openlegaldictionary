@@ -1,5 +1,6 @@
 ---
 title: Mohatra
+letter: M
 permalink: "/definitions/mohatra.html"
 body: In French law. A transac-tion covering a fraudulent device to evade the laws
   agalnst usury

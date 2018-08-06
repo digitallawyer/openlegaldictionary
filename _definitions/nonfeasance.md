@@ -1,5 +1,6 @@
 ---
 title: Nonfeasance
+letter: N
 permalink: "/definitions/nonfeasance.html"
 body: The neglect or failure of a person to do some act which he ought to do. The
   term is not generally used to denote a breach of contract, but rather the failure

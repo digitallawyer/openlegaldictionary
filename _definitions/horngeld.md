@@ -1,5 +1,6 @@
 ---
 title: Horngeld
+letter: H
 permalink: "/definitions/horngeld.html"
 body: Sax. In old English law. A tax withln a forest, paid for horned beasts. CoweU;
   Blount

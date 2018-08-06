@@ -1,5 +1,6 @@
 ---
 title: Neighborhood
+letter: N
 permalink: "/definitions/neighborhood.html"
 body: A piace near; an adjoining or surrounding district; a more immediate vicinity;
   vicinage. See Langley v. Barnstead, 63 N. H. 246; Madison v. Mor-ristown Gaslight

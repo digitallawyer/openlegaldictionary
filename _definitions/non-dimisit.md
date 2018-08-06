@@ -1,5 +1,6 @@
 ---
 title: Non Dimisit
+letter: N
 permalink: "/definitions/non-dimisit.html"
 body: L. Lat He did not de-mise. A plea resorted to where a plaintiff declared upon
   a demise without stating the Indenture in an action of debt for rent. Also, a plea

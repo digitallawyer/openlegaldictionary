@@ -1,5 +1,6 @@
 ---
 title: Monogamy
+letter: M
 permalink: "/definitions/monogamy.html"
 body: Tbe marriage of one wife only, or the state of such as are restrained to a single
   wife, webster

@@ -1,5 +1,6 @@
 ---
 title: Prayer
+letter: P
 permalink: "/definitions/prayer.html"
 body: The request contained in a blll in equity that the court will grant tbe process,
   aid, or relief which the complainant desires. Also, by extension, the term is applied

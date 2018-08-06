@@ -1,5 +1,6 @@
 ---
 title: Peculatus
+letter: P
 permalink: "/definitions/peculatus.html"
 body: Lat in the civil law. The offense of stealing or embezzling the puh-11c money.
   Hence the common English word “peculation," but “embezzlement’’ is the proper legal

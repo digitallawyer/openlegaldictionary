@@ -1,5 +1,6 @@
 ---
 title: Heir-Looms
+letter: H
 permalink: "/definitions/heir-looms.html"
 body: Such goods and chat-tels as, contrary to the nature of chattels, shall go hy
   special custom to the heir along with the inheritance, and not to the ex-ecutor.

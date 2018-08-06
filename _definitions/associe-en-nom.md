@@ -1,5 +1,6 @@
 ---
 title: Associe En Nom
+letter: A
 permalink: "/definitions/associe-en-nom.html"
 body: In French Law. In a socidtd en commandite an associd en nom is one who is liable
   for the engagements of the undertaking to the whole extent of his property. This

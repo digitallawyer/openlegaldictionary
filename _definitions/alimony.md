@@ -1,5 +1,6 @@
 ---
 title: Alimony
+letter: A
 permalink: "/definitions/alimony.html"
 body: The allowance made to a wife out of her husband’s estate for her sup-port, either
   during a matrimonial suit, or at its termination, when she proves herself entitled

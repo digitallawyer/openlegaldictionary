@@ -1,5 +1,6 @@
 ---
 title: Judgment In Personam
+letter: J
 permalink: "/definitions/judgment-in-personam.html"
 body: A Judg-ment against a particular person, as distin-guished from a judgment against
   a thing or a right or status. The former class of judg-ments are conclusive only

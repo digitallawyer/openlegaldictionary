@@ -1,5 +1,6 @@
 ---
 title: Soil
+letter: S
 permalink: "/definitions/soil.html"
 body: The surface, or surface-covering of the land, not including mlnerals beneath
   it or grass or plants growing upon it But in a wider (and more usual) sense, the

@@ -1,5 +1,6 @@
 ---
 title: Majestas
+letter: M
 permalink: "/definitions/majestas.html"
 body: Lat. In Roman law. The majesty, sovereign, authority, or supreme prerogative
   of the state, or prince. Also a. shorter form of the expression “crimen majestatis”

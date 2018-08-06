@@ -1,5 +1,6 @@
 ---
 title: Subinfeudation
+letter: S
 permalink: "/definitions/subinfeudation.html"
 body: The system which the feudal tenants introduced of granting smaller estates out
   of those whlch they held of thelr lord, to be held of themselves as inferior lords.

@@ -1,5 +1,6 @@
 ---
 title: Solicitor
+letter: S
 permalink: "/definitions/solicitor.html"
 body: In Engllsh law. A legal practltloner in the court of chancery. The words “solicitor"
   nnd “attorney” are commonly used indiscriminately, although they are not precisely

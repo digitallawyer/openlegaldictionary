@@ -1,5 +1,6 @@
 ---
 title: Toxin
+letter: T
 permalink: "/definitions/toxin.html"
 body: In its widest sense, this term may denote any poison or toxicant; but as used
   in pathology and medical jurisprudence ft signifies, in general, any diffusible

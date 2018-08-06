@@ -1,5 +1,6 @@
 ---
 title: Court Of The Duchy Of Lancaster
+letter: C
 permalink: "/definitions/court-of-the-duchy-of-lancaster.html"
 body: A court of special jurisdiction, held before the chancellor of the duchy or
   his deputy, concerning ali matters of equity re-lating to lands holden of the king

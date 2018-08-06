@@ -1,5 +1,6 @@
 ---
 title: Annexation
+letter: A
 permalink: "/definitions/annexation.html"
 body: The act of attaching, adding, joining, or uniting one thing to another ; generally
   spoken of the connection of a smaller or subordinate thing with a larger or principal

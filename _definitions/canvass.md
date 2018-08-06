@@ -1,5 +1,6 @@
 ---
 title: Canvass
+letter: C
 permalink: "/definitions/canvass.html"
 body: The act of examining and counting the returns of votes cast at a pub-lic election.
   Bowler v. Elsenhood, 1 S. Dak. 577, 48 N. W. 136, 12 L. R. A. 705; Clark v. Tracy,

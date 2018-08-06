@@ -1,5 +1,6 @@
 ---
 title: Opposition
+letter: O
 permalink: "/definitions/opposition.html"
 body: In bankruptcy prao
 published_at: '2018-07-07'

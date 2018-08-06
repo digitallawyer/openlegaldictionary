@@ -1,5 +1,6 @@
 ---
 title: Genus
+letter: G
 permalink: "/definitions/genus.html"
 body: In the civil law. A general class or dlvision, comprising several species. In
   toto jure generi per speciem derogatnr, et illud potisaimum habetur quod ad speciem

@@ -1,5 +1,6 @@
 ---
 title: Mortgage
+letter: M
 permalink: "/definitions/mortgage.html"
 body: An estate created by a conveyance absolute in lts form, hut intended to secure
   the performance of some act, such as the payment of money, and the like, by the

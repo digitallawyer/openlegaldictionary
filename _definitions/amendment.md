@@ -1,5 +1,6 @@
 ---
 title: Amendment
+letter: A
 permalink: "/definitions/amendment.html"
 body: In praotioe. The cor-rection of an error committed in any pro-cess, pleading,
   or proceeding at law. or in eq-uity, and which is done either of course, or by the

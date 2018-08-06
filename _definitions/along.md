@@ -1,5 +1,6 @@
 ---
 title: Along
+letter: A
 permalink: "/definitions/along.html"
 body: This term means “by," “on," or "over,” according to the subject-matter and the
   context Pratt v. Railroad Co., 42 Me. 585; walton v. Railway Co., 67 Mo. 58; Church

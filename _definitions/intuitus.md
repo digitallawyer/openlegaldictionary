@@ -1,5 +1,6 @@
 ---
 title: Intuitus
+letter: I
 permalink: "/definitions/intuitus.html"
 body: Lat. A view; regard; con-templation. Diverso intuitu, (q. v.,) with a different
   view

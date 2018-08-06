@@ -1,5 +1,6 @@
 ---
 title: Dimisi
+letter: D
 permalink: "/definitions/dimisi.html"
 body: SI. In old conveyancing. I have demised. Dimisi, concessi, et ad flrmam tradidi,
   have demised, granted, and to farm let. Tbe usual words of operation in a lease.

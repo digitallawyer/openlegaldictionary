@@ -1,5 +1,6 @@
 ---
 title: Lot Of Land
+letter: L
 permalink: "/definitions/lot-of-land.html"
 body: A small tract or par-cel of land in a village, town, or city, suitable for .building,
   or for a garden, or other simllar uses. See Pllz v. Klllingsworth, 20 or. 432. 26

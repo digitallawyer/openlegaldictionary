@@ -1,5 +1,6 @@
 ---
 title: Treasury
+letter: T
 permalink: "/definitions/treasury.html"
 body: A place or building in which stores of wealth are reposited; particularly, a
   place where the puhllc revenues are deposited and kept, and where money is disbursed

@@ -1,5 +1,6 @@
 ---
 title: Going
+letter: G
 permalink: "/definitions/going.html"
 body: In various compound phrases (as those which follow) thls term lmplies elther
   motlon, progress, active operation, or present and continuous validlty and efficacy

@@ -1,5 +1,6 @@
 ---
 title: Imfotence
+letter: I
 permalink: "/definitions/imfotence.html"
 body: In medical jurisprudence. The incapacity for copulation or propagating the species.
   Properly used of the male; but it has also been used synonymously with “sterility.”

@@ -1,5 +1,6 @@
 ---
 title: Substance
+letter: S
 permalink: "/definitions/substance.html"
 body: 'Essence; the material or essential part of a tiling, as distinguished from
   “form.” See State v. Bnrgdoerfer, 107 Mo. 1, 17 S. W. 646, 14 L. R. A. 846; Hugov.

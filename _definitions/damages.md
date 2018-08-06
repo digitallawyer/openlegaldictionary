@@ -1,5 +1,6 @@
 ---
 title: Damages
+letter: D
 permalink: "/definitions/damages.html"
 body: A pecuniary compensation or Indemnity, which may be recovered in the courts
   by apy person who has suffered loss, detriment, or injury, whether to hls person,

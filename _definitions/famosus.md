@@ -1,5 +1,6 @@
 ---
 title: Famosus
+letter: F
 permalink: "/definitions/famosus.html"
 body: In the clvil and old Engllsh law. i Relating to or affecting character or reputation;
   defamatory; slanderous

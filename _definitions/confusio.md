@@ -1,5 +1,6 @@
 ---
 title: Confusio
+letter: C
 permalink: "/definitions/confusio.html"
 body: In the clvll law. The inseparable intermixture of property belonging to different
   owners; it is properly confined to the pouring together of fluids, but is sometimes

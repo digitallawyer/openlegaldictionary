@@ -1,5 +1,6 @@
 ---
 title: Feloniously
+letter: F
 permalink: "/definitions/feloniously.html"
 body: with a felonious In-tent; with the Intention of committing a crime. An indispensable
   word in modern indictments for felony, ns fclonicc was in the Latin forms. 4 Bl.

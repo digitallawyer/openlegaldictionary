@@ -1,5 +1,6 @@
 ---
 title: Pass-Book
+letter: P
 permalink: "/definitions/pass-book.html"
 body: A book in which a bank or banker enters the deposits made by a customer, and
   which is retained by the latter. Also a book in which a merchant enters the items

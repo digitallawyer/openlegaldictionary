@@ -1,5 +1,6 @@
 ---
 title: Marital
+letter: M
 permalink: "/definitions/marital.html"
 body: Relating to, or connected with, the status of marriage; pertaining to a husband;
   incident to a husband

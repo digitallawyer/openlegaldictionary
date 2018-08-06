@@ -1,5 +1,6 @@
 ---
 title: Imputed
+letter: I
 permalink: "/definitions/imputed.html"
 body: As used in legal phrases, thls word means attributed vicariously; that is, an
   act, fact, or quality is said to be “imput-ed” to a person when it is ascribed or

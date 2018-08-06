@@ -1,5 +1,6 @@
 ---
 title: Dictator
+letter: D
 permalink: "/definitions/dictator.html"
 body: A magistrate Invested with unlimited power, and created in times of na-tional
   distress and peril. Among the Ro-mans, he continued in ofiice for six months only,

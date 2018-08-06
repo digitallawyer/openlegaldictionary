@@ -1,5 +1,6 @@
 ---
 title: Retour Sans Frotet
+letter: R
 permalink: "/definitions/retour-sans-frotet.html"
 body: Fr. Return without protest. A request or direction by a drawer of a bill of
   exchange that, should the bill be dishonored by the drawee, it may he returned without

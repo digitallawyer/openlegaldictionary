@@ -1,5 +1,6 @@
 ---
 title: Receipt
+letter: R
 permalink: "/definitions/receipt.html"
 body: PT. A receipt is the written ac-knowledgment of the receipt of money, or a thing
   of value, without containing any affirmative obligation upon either party to It;

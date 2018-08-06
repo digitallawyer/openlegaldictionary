@@ -1,5 +1,6 @@
 ---
 title: Pent-Road
+letter: P
 permalink: "/definitions/pent-road.html"
 body: A road shut up or closed at its terminal points, wolcott v. whit comb, 40 VL
   41

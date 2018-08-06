@@ -1,5 +1,6 @@
 ---
 title: Commandery
+letter: C
 permalink: "/definitions/commandery.html"
 body: In old English law. A manor or chief messuage wlth lands and tenements thereto
   appertalnlng, which be-longed to the priory of St. John of Jerusalem, in England;

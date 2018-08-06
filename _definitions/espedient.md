@@ -1,5 +1,6 @@
 ---
 title: Espedient
+letter: E
 permalink: "/definitions/espedient.html"
 body: ln Spanish law. A junc-tion of all the serrate papers made In the course of
   any one proceeding and which re-mains in the office at the close of it. Castillero

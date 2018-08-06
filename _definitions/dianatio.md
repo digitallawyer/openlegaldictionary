@@ -1,5 +1,6 @@
 ---
 title: Dianatio
+letter: D
 permalink: "/definitions/dianatio.html"
 body: A logical reasoning in a pro-gresslve manner, proceeding from one subject to
   another. Enc. Lond

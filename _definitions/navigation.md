@@ -1,5 +1,6 @@
 ---
 title: Navigation
+letter: N
 permalink: "/definitions/navigation.html"
 body: The act or the science or the buslness of traversing the sea or other waters
   In ships or vessels. Pollock v. Cleve-land Ship Building Co., 56 ohio St. 655, 47

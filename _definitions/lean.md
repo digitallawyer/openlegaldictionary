@@ -1,5 +1,6 @@
 ---
 title: Lean
+letter: L
 permalink: "/definitions/lean.html"
 body: To lncline in opinion or prefer-ence. A court is sometimes said to "lean against”
   a doctrine, construction, or view contended for, whereby it is meant that the eourt

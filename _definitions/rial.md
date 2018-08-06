@@ -1,5 +1,6 @@
 ---
 title: Rial
+letter: R
 permalink: "/definitions/rial.html"
 body: A piece of gold coin current for 10b., in the reign of Henry VI., at which time
   there were half-rials and quarter-rials or rial-farthings. In the beginning of Queen

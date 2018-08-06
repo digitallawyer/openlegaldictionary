@@ -1,5 +1,6 @@
 ---
 title: Taverner
+letter: T
 permalink: "/definitions/taverner.html"
 body: In old English law. A seller of wine; one who kept a house or shop for the sale
   of wine

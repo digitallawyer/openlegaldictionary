@@ -1,5 +1,6 @@
 ---
 title: Survey
+letter: S
 permalink: "/definitions/survey.html"
 body: The process by which a parcel of land is measured and its contents ascer-tained;
   also a statement of the result of such survey, with the courses and distances and

@@ -1,5 +1,6 @@
 ---
 title: Promise
+letter: P
 permalink: "/definitions/promise.html"
 body: A declaration, verbal or written, made hy one person to another for a good or
   valuable consideration iu the na-ture of a covenant hy which the promisor binds

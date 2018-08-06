@@ -1,5 +1,6 @@
 ---
 title: Bigamy
+letter: B
 permalink: "/definitions/bigamy.html"
 body: The criminal offense of wlll-fully and knowingly contracting a second marriage
   (or going through the form of a second marriage) while the first marriage, to the

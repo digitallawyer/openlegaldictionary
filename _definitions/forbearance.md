@@ -1,5 +1,6 @@
 ---
 title: Forbearance
+letter: F
 permalink: "/definitions/forbearance.html"
 body: The act of abstaining from proceeding against a delinquent debtor; delay in
   exacting the enforcement of a right; indulgence granted to a debtor. Reynolds v.

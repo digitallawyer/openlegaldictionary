@@ -1,5 +1,6 @@
 ---
 title: Adverse
+letter: A
 permalink: "/definitions/adverse.html"
 body: opposed; contrary; in re-sistance or opposition to a claim, application, or
   proceedlng

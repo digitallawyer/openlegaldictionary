@@ -1,5 +1,6 @@
 ---
 title: Particular
+letter: P
 permalink: "/definitions/particular.html"
 body: This term, as nsed fn law, is almost always opposed to “general,” and means
   either individual, local, partial, special, or belonglng to a single person, place,

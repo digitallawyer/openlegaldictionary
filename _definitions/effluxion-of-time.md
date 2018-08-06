@@ -1,5 +1,6 @@
 ---
 title: Effluxion Of Time
+letter: E
 permalink: "/definitions/effluxion-of-time.html"
 body: when this phrase is used in leases, conveyances, and other like deeds, or in
   agreements expressed in simple writing, it indicates the-conclusion or expiration

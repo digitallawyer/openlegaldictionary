@@ -1,5 +1,6 @@
 ---
 title: Substitutional, Substitution-Ary
+letter: S
 permalink: "/definitions/substitutional-substitution-ary.html"
 body: 'where a will contains a gift of property tq a class of persons, with a clause
   providing that on the death of a member of the class before the period of distribution

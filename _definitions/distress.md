@@ -1,5 +1,6 @@
 ---
 title: Distress
+letter: D
 permalink: "/definitions/distress.html"
 body: The taking a personal chat-tel out of the possession of a wrong-doer Into the
   custody of the party injured, to procure a satisfaction for a wrong committed; as

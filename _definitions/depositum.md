@@ -1,5 +1,6 @@
 ---
 title: Depositum
+letter: D
 permalink: "/definitions/depositum.html"
 body: Lat in the civil lntf. one of the forms of the contract of bailment, being a
   naked bailment of goods to be Jiept for the use of the bailor without reward. Foster

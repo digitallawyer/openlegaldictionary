@@ -1,5 +1,6 @@
 ---
 title: Integrity
+letter: I
 permalink: "/definitions/integrity.html"
 body: As occaslonally used in statutes prescribing the qualifications of pub-lic officers,
   trustees, etc., this term means soundness of moral prlnclple and character, as shown,

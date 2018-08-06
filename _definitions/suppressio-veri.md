@@ -1,5 +1,6 @@
 ---
 title: Suppressio Veri
+letter: S
 permalink: "/definitions/suppressio-veri.html"
 body: Lat Suppression or concealment of the truth. “It is a* rule of equity, as well
   as of law, that a sup-pressio veri is equivalent to a suggestio falsi; and where

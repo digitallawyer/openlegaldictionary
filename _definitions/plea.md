@@ -1,5 +1,6 @@
 ---
 title: Plea
+letter: P
 permalink: "/definitions/plea.html"
 body: In old English law. A suit or action. Thus, the power to “hold pleas” is the
   power to take cognizance of actions or suits; so “common pleas” are actions or suits

@@ -1,5 +1,6 @@
 ---
 title: Salary
+letter: S
 permalink: "/definitions/salary.html"
 body: A recompense or consideration made to a person for hls pains and industry In
   another person’s business; also wages, stipend, or annual allowance. Cowell

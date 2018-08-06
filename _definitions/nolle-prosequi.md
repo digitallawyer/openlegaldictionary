@@ -1,5 +1,6 @@
 ---
 title: Nolle Prosequi
+letter: N
 permalink: "/definitions/nolle-prosequi.html"
 body: Lat in practice. A formal entry upon the record, by the plaintiff in a civil
   suit or the prosecuting officer in a criminal action, by which he de-clares that

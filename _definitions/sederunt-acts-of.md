@@ -1,5 +1,6 @@
 ---
 title: Sederunt, Acts Of
+letter: S
 permalink: "/definitions/sederunt-acts-of.html"
 body: In Scotch law. Certain ancient ordinances of the court of session, conferring
   upon the courts power to establish general rules of practice. Bell

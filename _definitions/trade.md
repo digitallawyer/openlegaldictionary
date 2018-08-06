@@ -1,5 +1,6 @@
 ---
 title: Trade
+letter: T
 permalink: "/definitions/trade.html"
 body: The act or business of exchang-lng commodities by barter; or the business of
   buying and selling for money; traffic; bar-ter. webster; May v. Sloan, 101 U. S.

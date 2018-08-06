@@ -1,5 +1,6 @@
 ---
 title: Gonorrhcea
+letter: G
 permalink: "/definitions/gonorrhcea.html"
 body: In medical jurlsprud-ence. A venereal disease, characterized by a purulent inflammation
   of the urethra

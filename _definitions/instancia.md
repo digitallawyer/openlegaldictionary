@@ -1,5 +1,6 @@
 ---
 title: Instancia
+letter: I
 permalink: "/definitions/instancia.html"
 body: In Spanish law. The in-stltution and prosecution of a snit from its commencement
   nntll definitive judgment The first instance, “primcra instaneia" is the prosecution

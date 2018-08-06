@@ -1,5 +1,6 @@
 ---
 title: Court Of Equity
+letter: C
 permalink: "/definitions/court-of-equity.html"
 body: A court which has jurisdiction in equity, which administers justice aud decides
   controversies in accord-ance with the rules, principles, and precedents of equity,

@@ -1,5 +1,6 @@
 ---
 title: Confessor
+letter: C
 permalink: "/definitions/confessor.html"
 body: An ecclesiastic who receives auricular confessions of sins from persons under
   hls spiritual charge, and pronounces absolution upon them. The secrets of the confessional

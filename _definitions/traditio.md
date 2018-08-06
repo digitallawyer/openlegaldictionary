@@ -1,5 +1,6 @@
 ---
 title: Traditio
+letter: T
 permalink: "/definitions/traditio.html"
 body: Lat. Iu the civU law. De-livery; transfer of possession; a derivative mode of
   acquiring, by which the owner of a corporeal thing, having the right and the will

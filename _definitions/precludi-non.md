@@ -1,5 +1,6 @@
 ---
 title: Precludi Non
+letter: P
 permalink: "/definitions/precludi-non.html"
 body: Lat. In pleading. The commencement of a repllcatlon to a plea in bar, by whlch
   the plalntlff "says that, by reason of anything in the said plea alleged, he ought

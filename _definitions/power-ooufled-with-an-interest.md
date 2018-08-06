@@ -1,5 +1,6 @@
 ---
 title: Power Ooufled With An Interest
+letter: P
 permalink: "/definitions/power-ooufled-with-an-interest.html"
 body: By this phrase is meant a right or power to do some act, together with an in-Xerest
   in the subject-matter on which the power is to be exercised. It is distinguished

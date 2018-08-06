@@ -1,5 +1,6 @@
 ---
 title: Agency
+letter: A
 permalink: "/definitions/agency.html"
 body: A relation, created either by express or implied contract or by law, where-by
   one party (called the prlncipal or con-stltuent) delegates the transaction of some

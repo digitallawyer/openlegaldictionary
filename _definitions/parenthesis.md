@@ -1,5 +1,6 @@
 ---
 title: Parenthesis
+letter: P
 permalink: "/definitions/parenthesis.html"
 body: Part of a sentence occurring in the middle thereof, and inclosed between marks
   like ( ), the omission of which part would not Injure the gramma tical construction

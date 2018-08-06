@@ -1,5 +1,6 @@
 ---
 title: Isis
+letter: I
 permalink: "/definitions/isis.html"
 body: est jns enndl, ambnlandi bominis | non etiam Jnmentum agendi vol vobien-lnm.
   A way is the right of going or walking, and does not Include the right of driving

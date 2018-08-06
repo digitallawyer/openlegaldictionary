@@ -1,5 +1,6 @@
 ---
 title: Pais, Pays
+letter: P
 permalink: "/definitions/pais-pays.html"
 body: Fr. The country; the neighborhood. A trial per pat's signifies a trial by the
   country; that is, by jury. An assurance by matter in pais is an assurance transacted

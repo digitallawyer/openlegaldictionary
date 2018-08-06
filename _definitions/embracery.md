@@ -1,5 +1,6 @@
 ---
 title: Embracery
+letter: E
 permalink: "/definitions/embracery.html"
 body: In criminal law. This offense consists in the attempt to influence a Jury corruptly
   to one side or the other, by promises, persuasions, entreaties, entertainments,

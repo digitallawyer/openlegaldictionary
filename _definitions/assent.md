@@ -1,5 +1,6 @@
 ---
 title: Assent
+letter: A
 permalink: "/definitions/assent.html"
 body: Compliance; approval of some-thing done; a declaration of willingness to do
   something in compliance with a request Norton v. Davis, 83 Tex. 32, 18 8. W. 430;

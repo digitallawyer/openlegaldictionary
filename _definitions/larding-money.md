@@ -1,5 +1,6 @@
 ---
 title: Larding Money
+letter: L
 permalink: "/definitions/larding-money.html"
 body: ln the manor of Bradford, in wilts, the tenants pay to their lord a small yearly
   rent by this name, whicli is said to be for liberty to feed their hogs with the

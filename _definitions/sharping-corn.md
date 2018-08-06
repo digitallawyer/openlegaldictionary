@@ -1,5 +1,6 @@
 ---
 title: Sharping Corn
+letter: S
 permalink: "/definitions/sharping-corn.html"
 body: A customary gift of corn, which, at every Christmas, the far* mers in some parts
   of England give to thelr smith for sharpening their plow-irons, har-row-tlnes, etc.

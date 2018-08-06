@@ -1,5 +1,6 @@
 ---
 title: Madman
+letter: M
 permalink: "/definitions/madman.html"
 body: An insane persou, partlcu-larly one suffering from mania in any of its forms.
   Said to be inapplicable to idiots (Com. v. Haskell, 2 Brewst. [Pa.] 497); but it

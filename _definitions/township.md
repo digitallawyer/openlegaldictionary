@@ -1,5 +1,6 @@
 ---
 title: Township
+letter: T
 permalink: "/definitions/township.html"
 body: HIP. 1. In surveys of the public land of the United States, a “township” is
   a division of territory six miles square, con-taiuing thirty-six sections

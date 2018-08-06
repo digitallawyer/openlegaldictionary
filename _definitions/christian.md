@@ -1,5 +1,6 @@
 ---
 title: Christian
+letter: C
 permalink: "/definitions/christian.html"
 body: Pertaining to Jesus Christ or the religion founded by him; professing Christianity.
   The adjective is also used in senses more remote from its original meaning. Thus

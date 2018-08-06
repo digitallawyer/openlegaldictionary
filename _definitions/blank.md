@@ -1,5 +1,6 @@
 ---
 title: Blank
+letter: B
 permalink: "/definitions/blank.html"
 body: A space left unfilled in a writ-ten document, In which one or more words or
   marks are to be inserted to complete the sense. Angle v. Insurance Co., 92 U. S.

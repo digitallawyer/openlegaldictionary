@@ -1,5 +1,6 @@
 ---
 title: Seamen
+letter: S
 permalink: "/definitions/seamen.html"
 body: Sailors; mariners; persons whose business is navigating ships. Commonly exclusive
   of the officers of a ship

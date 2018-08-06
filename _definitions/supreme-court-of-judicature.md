@@ -1,5 +1,6 @@
 ---
 title: Supreme Court Of Judicature
+letter: S
 permalink: "/definitions/supreme-court-of-judicature.html"
 body: The court formed by the English judicature act, 1873, (as modified by the judicature
   act, 1875, the appellate jurisdiction act, 1876, and the judicature acts of 1877,

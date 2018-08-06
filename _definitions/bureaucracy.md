@@ -1,5 +1,6 @@
 ---
 title: Bureaucracy
+letter: B
 permalink: "/definitions/bureaucracy.html"
 body: A system in which the business of government is carried on in departments, each
   under the control of a chief, in contradistinction from a system in which the officers

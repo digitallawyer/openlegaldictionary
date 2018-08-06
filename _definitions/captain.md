@@ -1,5 +1,6 @@
 ---
 title: Captain
+letter: C
 permalink: "/definitions/captain.html"
 body: A head-man; commander; commanding officer. The captain of a war-vessel is the
   oflicer first in command. In the Unlted States navy, the rank of “captain” is intermediate

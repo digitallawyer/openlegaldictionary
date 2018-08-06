@@ -1,5 +1,6 @@
 ---
 title: Pricking Note
+letter: P
 permalink: "/definitions/pricking-note.html"
 body: where goods In-tended to be exported are put direct from the station of the
   warehouse into a ship alongside, the exporter fills up a document to authorize the

@@ -1,5 +1,6 @@
 ---
 title: Falsi Crimen
+letter: F
 permalink: "/definitions/falsi-crimen.html"
 body: EN. Fraudulent suboma-tlon or concealment, with design to darken or hide the
   truth, and make things appear otherwise than they are. It is committed (1) by words,

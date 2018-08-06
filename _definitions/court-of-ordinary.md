@@ -1,5 +1,6 @@
 ---
 title: Court Of Ordinary
+letter: C
 permalink: "/definitions/court-of-ordinary.html"
 body: In some of the United States (e. g., Georgia) this name is given to the probate
   or surrogate’s court, or the court having the usual jurisdiction in respect to the

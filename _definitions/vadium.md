@@ -1,5 +1,6 @@
 ---
 title: Vadium
+letter: V
 permalink: "/definitions/vadium.html"
 body: Lat' A pledge; security hy pledge of property. Coggs v. Bernard, 2 Ld. Raym.
   913

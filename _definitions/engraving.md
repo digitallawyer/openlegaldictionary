@@ -1,5 +1,6 @@
 ---
 title: Engraving
+letter: E
 permalink: "/definitions/engraving.html"
 body: In copyright law. The art of producing on hard material incised or raised patterns,
   lines, and the like, from which an impression or print is taken. The term may apply

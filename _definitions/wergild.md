@@ -1,5 +1,6 @@
 ---
 title: Wergild
+letter: W
 permalink: "/definitions/wergild.html"
 body: D, or WERGILD. This was the price of homicide, or other atrocious per-sonal
   ofTense, paid partly to the king for the loss of a subject, partly to the lord for

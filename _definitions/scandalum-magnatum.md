@@ -1,5 +1,6 @@
 ---
 title: Scandalum Magnatum
+letter: S
 permalink: "/definitions/scandalum-magnatum.html"
 body: In Eng-lish law. Scandal or slander of great men or nobles, words* spoken in
   derogation of a peer, a Judge, or other great oflicer of the realm, for which an

@@ -1,5 +1,6 @@
 ---
 title: Court-Hand
+letter: C
 permalink: "/definitions/court-hand.html"
 body: In old Engllsh practlce. The pecullar hand in which the records of courts were
   written from the earliest period down to the reign of George II. Its char-acteristics

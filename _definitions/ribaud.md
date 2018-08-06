@@ -1,5 +1,6 @@
 ---
 title: Ribaud
+letter: R
 permalink: "/definitions/ribaud.html"
 body: A rogue; vagrant; whore-monger; a person given to all manner of wickedness.
   Cowell

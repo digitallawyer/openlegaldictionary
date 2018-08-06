@@ -1,5 +1,6 @@
 ---
 title: Frutos
+letter: F
 permalink: "/definitions/frutos.html"
 body: in Spanish law. Fruits; products; produce; grains; profits, white. New Recop.
   h. 1, tit. 7, c. 5. § 2

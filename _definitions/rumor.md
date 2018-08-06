@@ -1,5 +1,6 @@
 ---
 title: Rumor
+letter: R
 permalink: "/definitions/rumor.html"
 body: Flying or popular report; a current story passing from one person to an* other
   without any known authority for the truth of it. webster. It is not generally admissible

@@ -1,5 +1,6 @@
 ---
 title: In Medio
+letter: I
 permalink: "/definitions/in-medio.html"
 body: Intermediate. A term applied, in Scotch practice, to a fund held he-tween parties
   litigant

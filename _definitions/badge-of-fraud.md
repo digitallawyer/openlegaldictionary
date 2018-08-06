@@ -1,5 +1,6 @@
 ---
 title: Badge Of Fraud
+letter: B
 permalink: "/definitions/badge-of-fraud.html"
 body: A term used rel-atively to the law of fraudulent convey-ances made to hinder
   and defraud creditors, it is defiued as a fact tending to throw sus-picion upon

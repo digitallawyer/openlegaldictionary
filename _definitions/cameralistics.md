@@ -1,5 +1,6 @@
 ---
 title: Cameralistics
+letter: C
 permalink: "/definitions/cameralistics.html"
 body: The science of fl-nance or public revenue, comprehending the means of raising
   and disposing of it

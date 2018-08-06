@@ -1,5 +1,6 @@
 ---
 title: Karl
+letter: K
 permalink: "/definitions/karl.html"
 body: In Saxon and old English law A man; a serving man. Buxkarl, a seaman. Huskarl,
   a house servant. Spelman

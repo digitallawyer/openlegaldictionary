@@ -1,5 +1,6 @@
 ---
 title: Impropriation
+letter: I
 permalink: "/definitions/impropriation.html"
 body: In ecclesiastical law. The annexing an ecclesiastical bene-flee to the use of
   a lay person, whether indl-vidual or corporate, In the same way as appropriation

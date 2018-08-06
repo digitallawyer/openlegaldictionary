@@ -1,5 +1,6 @@
 ---
 title: De Mercatoribus
+letter: D
 permalink: "/definitions/de-mercatoribus.html"
 body: “Concerning merchants." The name of a statute passed in the eleventh year of
   Edw. I. (1233,) more commonly called the “Statute of Acton Bur-nel,” authorizing

@@ -1,5 +1,6 @@
 ---
 title: Ascertain
+letter: A
 permalink: "/definitions/ascertain.html"
 body: To fix; to render certaiu or definite; to estimate and determine; to clear of
   doubt or obscurity. Brown v. Lyd-dy, 11 Hun, 456; Bunting v. Speek, 41 Kan. 424,

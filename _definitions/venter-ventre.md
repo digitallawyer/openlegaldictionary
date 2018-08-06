@@ -1,5 +1,6 @@
 ---
 title: Venter, Ventre
+letter: V
 permalink: "/definitions/venter-ventre.html"
 body: The belly or woipb. The term is used in law as designat-ing the maternal parentage
   of children. Thus, where In ordinary phraseology we Should say that A. was B.’s

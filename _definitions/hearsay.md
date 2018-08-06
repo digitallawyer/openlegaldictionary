@@ -1,5 +1,6 @@
 ---
 title: Hearsay
+letter: H
 permalink: "/definitions/hearsay.html"
 body: A term applied to that spe-cies of testimony given by a witness who relates,
   not what he knows personally, but what others have told him, or what he has heard

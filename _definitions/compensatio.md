@@ -1,5 +1,6 @@
 ---
 title: Compensatio
+letter: C
 permalink: "/definitions/compensatio.html"
 body: Lat. In the civU law. Compensation, or set-off. A proceeding re-8embling a set-off
   in the common law, being a claim on the part of the defendant to have an amount

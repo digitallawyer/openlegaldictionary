@@ -1,5 +1,6 @@
 ---
 title: Supplicatio
+letter: S
 permalink: "/definitions/supplicatio.html"
 body: 'LaL In the civil law. A petition for pardon of a first ofTense; aiso a petition
   for reversal of judgment: also equivalent to “duplicalio,’’ which corresponds to

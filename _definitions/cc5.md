@@ -1,5 +1,6 @@
 ---
 title: C. C
+letter: C
 permalink: "/definitions/cc5.html"
 body: s distinguished from equity iaw, it ts a body of rules and principles, written
   or unwritten, which are of fixed and immutable authority, and which must be applied

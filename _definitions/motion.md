@@ -1,5 +1,6 @@
 ---
 title: Motion
+letter: M
 permalink: "/definitions/motion.html"
 body: In praotice. An occasional application to a court by the parties or their counsel,
   in order to obtain some rule or order, which becomes necessary either in the progress

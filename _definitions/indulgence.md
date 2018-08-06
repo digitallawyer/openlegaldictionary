@@ -1,5 +1,6 @@
 ---
 title: Indulgence
+letter: I
 permalink: "/definitions/indulgence.html"
 body: In the Roman Catholic Church. A remission of the punishment due to sins, granted
   hy the pope or church, nnd supposed to save tlie sinner from purgatory. Its abuse

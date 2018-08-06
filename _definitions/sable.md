@@ -1,5 +1,6 @@
 ---
 title: Sable
+letter: S
 permalink: "/definitions/sable.html"
 body: The heraldic term for black. It is called “Saturn," by those who blazon by planets,
   and “diamond," by those who use the names of jewels. Engravers com-monly represent

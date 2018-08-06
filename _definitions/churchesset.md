@@ -1,5 +1,6 @@
 ---
 title: Churchesset
+letter: C
 permalink: "/definitions/churchesset.html"
 body: In old English law. A certain portion or measure of wheat, anclent-ly paid to
   the church on St. Martin's day; and which, according to Fleta, was paid as well

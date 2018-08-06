@@ -1,5 +1,6 @@
 ---
 title: Game
+letter: G
 permalink: "/definitions/game.html"
 body: 1. Birds and beasts of a wild nature, obtained by fowling and hunting. Bacon,
   Abr. See Coolidge v. Choate, 11 Metc. (Mass.) 79. The term is said to include (in

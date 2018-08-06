@@ -1,5 +1,6 @@
 ---
 title: Warrantia Chartje
+letter: W
 permalink: "/definitions/warrantia-chartje.html"
 body: In old praotice. warranty of charter. A writ which lay for one who, being enfeoffed
   of lands or tenements, wlth a clause of warranty, was afterwards Impleaded in an

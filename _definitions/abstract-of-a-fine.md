@@ -1,5 +1,6 @@
 ---
 title: Abstract Of A Fine
+letter: A
 permalink: "/definitions/abstract-of-a-fine.html"
 body: In old conveyancing. one of the parts of a fine, being an abstract of the writ
   of covenant, and the concord, naming the parties, the parcels of land, and the agreement.

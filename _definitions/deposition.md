@@ -1,5 +1,6 @@
 ---
 title: Deposition
+letter: D
 permalink: "/definitions/deposition.html"
 body: The testimony of a witness taken upon interrogatories, not in open court, but
   in pursuance of a commission to take testimony issued by a court, or under a general

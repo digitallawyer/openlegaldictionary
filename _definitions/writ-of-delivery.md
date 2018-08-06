@@ -1,5 +1,6 @@
 ---
 title: Writ Of Delivery
+letter: W
 permalink: "/definitions/writ-of-delivery.html"
 body: A writ of execution employed to enforce a Judgment for the delivery of chattels.
   It commands the sherifT to cause the chattels mentioned in the writ to be returned

@@ -1,5 +1,6 @@
 ---
 title: S Iii
+letter: S
 permalink: "/definitions/s-iii.html"
 body: e estate ot a deceased person, corn-prising all kinds of property owned or claimed
   hy him, as well as hls debts and obllga-tions, and considered as a legal entity

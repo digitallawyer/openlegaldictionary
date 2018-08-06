@@ -1,5 +1,6 @@
 ---
 title: Batteby
+letter: B
 permalink: "/definitions/batteby.html"
 body: Any unlawful beating, or other wrongful physical violence or con-stralnt, inflicted
   on a human being without his consent 2 Bish. Crim. Law, $ 71; Good-rum v. State,

@@ -1,5 +1,6 @@
 ---
 title: Ignorantia
+letter: I
 permalink: "/definitions/ignorantia.html"
 body: Lat. Ignorance; want of knowledge. Distinguished, from mistake, (error,) or
   wrong conception. Mackeld. Rom. Law, § 178; Dig. 22, 6. Divided by Lord Coke into

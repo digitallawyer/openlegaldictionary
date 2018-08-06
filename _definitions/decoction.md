@@ -1,5 +1,6 @@
 ---
 title: Decoction
+letter: D
 permalink: "/definitions/decoction.html"
 body: The act of boiling a sub-stance in water, for extracting its virtues. Also the
   liquor in which a substance has been boiled; water impregnated with the prlnci-ples

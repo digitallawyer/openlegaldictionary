@@ -1,5 +1,6 @@
 ---
 title: Sponsions
+letter: S
 permalink: "/definitions/sponsions.html"
 body: In International law. Agreements or engagements made by certain public officers
   (as generals or admirals in time of war) in behalf of tbeir governments, either

@@ -1,5 +1,6 @@
 ---
 title: Curatorshif
+letter: C
 permalink: "/definitions/curatorshif.html"
 body: The office of a curator. Curatorship differs from tutorship, (q. v.,) in this;
   that the latter is instituted for the protection of property in the first place,

@@ -1,5 +1,6 @@
 ---
 title: Ordines Majores Et Minores
+letter: O
 permalink: "/definitions/ordines-majores-et-minores.html"
 body: In ecclesiastical law. The holy orders of priest, deacon, and subdeacon, any
   of which qualified for presentation and admission to an ecclesiastical dignity or

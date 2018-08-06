@@ -1,5 +1,6 @@
 ---
 title: Absque Impetitione Vasti
+letter: A
 permalink: "/definitions/absque-impetitione-vasti.html"
 body: without impeachment of waste; without accountability for waste; without liability
   to suit for v/aste. A clause anciently often in-serted in leases, (as the equivalent

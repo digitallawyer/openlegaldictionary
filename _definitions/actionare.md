@@ -1,5 +1,6 @@
 ---
 title: Actionare
+letter: A
 permalink: "/definitions/actionare.html"
 body: L. Lat. (From actio, an action.) In old records. To bring an action; to prosecute,
   or sue. Thorn’s Chron.; whls-haw

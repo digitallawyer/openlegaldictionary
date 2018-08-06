@@ -1,5 +1,6 @@
 ---
 title: Vetus Jus
+letter: V
 permalink: "/definitions/vetus-jus.html"
 body: Lat. The old law. A term used in the civil law, sometimes to designate the law
   of the Twelve Tables, and sometimes merely a law which was in force previous to

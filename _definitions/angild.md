@@ -1,5 +1,6 @@
 ---
 title: Angild
+letter: A
 permalink: "/definitions/angild.html"
 body: In Saxon law. The single value of a man or other thing; a single were-gild;
   the compensation of a thing according to its single value or estimation. Spelman.

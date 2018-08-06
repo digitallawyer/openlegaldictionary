@@ -1,5 +1,6 @@
 ---
 title: Asylum
+letter: A
 permalink: "/definitions/asylum.html"
 body: 1. A sanctuary, or place of refuge and protection, where criminals and debtors
   found shelter, and from which they could not be taken without sacrilege. State v.

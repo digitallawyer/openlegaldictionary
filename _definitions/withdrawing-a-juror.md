@@ -1,5 +1,6 @@
 ---
 title: Withdrawing A Juror
+letter: W
 permalink: "/definitions/withdrawing-a-juror.html"
 body: In prac-tice. The withdrawing of one of the twelve jurors from the box, with
   the result that, the jury heing now found to be incomplete, no further proceedings

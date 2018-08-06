@@ -1,5 +1,6 @@
 ---
 title: Incur
+letter: I
 permalink: "/definitions/incur.html"
 body: Men contract debts; they incur liabilities. In the one case, they act attirma-tlvely;
   in the other, the liability is incurred or cast npon them by act or operation of

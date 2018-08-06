@@ -1,5 +1,6 @@
 ---
 title: Cousin
+letter: C
 permalink: "/definitions/cousin.html"
 body: Klndred in the fourth degree, being the issue (.male or female) of the broth-er
   or sister of one’s father or mother

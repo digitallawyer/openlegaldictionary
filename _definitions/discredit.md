@@ -1,5 +1,6 @@
 ---
 title: Discredit
+letter: D
 permalink: "/definitions/discredit.html"
 body: To destroy or impair the credibility of a person; to Impeach; to lessen the
   degree of credit to be accorded to a witness or document, as by impugning the veracity

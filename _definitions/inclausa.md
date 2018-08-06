@@ -1,5 +1,6 @@
 ---
 title: Inclausa
+letter: I
 permalink: "/definitions/inclausa.html"
 body: In old records. A home close or inclosure near the house. Paroch. Antiq. 31;
   Cowell

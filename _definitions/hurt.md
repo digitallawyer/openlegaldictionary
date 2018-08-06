@@ -1,5 +1,6 @@
 ---
 title: Hurt
+letter: H
 permalink: "/definitions/hurt.html"
 body: In such phrases as “to the hurt or annoyance of another,” or “hurt, molest-ed,
   or restrained in his person or estate," this word is not restricted to physical

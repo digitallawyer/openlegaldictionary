@@ -1,5 +1,6 @@
 ---
 title: Custody
+letter: C
 permalink: "/definitions/custody.html"
 body: The care and keeping of anything; as when an article is said to be “in the custody
   of the court.” People v. Burr, 41 IIow. Prac. (N. Y.) 296; Einmerson v. State, 33

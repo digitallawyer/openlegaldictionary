@@ -1,5 +1,6 @@
 ---
 title: Literal
+letter: L
 permalink: "/definitions/literal.html"
 body: According to language; following expression in words. A literal con-structlon
   of a document adheres closely to its words, without making differences for extrinsic

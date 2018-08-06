@@ -1,5 +1,6 @@
 ---
 title: Crew
+letter: C
 permalink: "/definitions/crew.html"
 body: The aggregate of seamen who man a ship or vessel, Including the master and officers;
   or it may mean the ship’s company. exclusive of the master, or exclusive of the

@@ -1,5 +1,6 @@
 ---
 title: Knowledge
+letter: K
 permalink: "/definitions/knowledge.html"
 body: The difference between “knowledge” and “belief’ is nothing more than In the
   degree of certainty, with re-gard to things which make not a very deep Impression

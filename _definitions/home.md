@@ -1,5 +1,6 @@
 ---
 title: Home
+letter: H
 permalink: "/definitions/home.html"
 body: when a person voluntarily takes up his abode in a given place, with intention
   to remain permanently, or for an indefinite period of time, or without any present

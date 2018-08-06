@@ -1,5 +1,6 @@
 ---
 title: Pending
+letter: P
 permalink: "/definitions/pending.html"
 body: Begun, hut not yet completed ; unsettled; undetermined; in process of settlement
   or adjustment. Thus, an action or suit is said to be “pending” from its inception

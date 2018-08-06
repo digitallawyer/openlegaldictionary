@@ -1,5 +1,6 @@
 ---
 title: Floating Debt
+letter: F
 permalink: "/definitions/floating-debt.html"
 body: 'By this term is meant that mass of lawful and valid claims against the corporation
   for the payment of which there is no money in the corporate treasury specifically

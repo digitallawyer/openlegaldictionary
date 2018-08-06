@@ -1,5 +1,6 @@
 ---
 title: Surrebutter
+letter: S
 permalink: "/definitions/surrebutter.html"
 body: In pleading. The plaintiff's answer of fact to the defendant’s rebutter. Steph.
   Pl. 59

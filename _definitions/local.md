@@ -1,5 +1,6 @@
 ---
 title: Local
+letter: L
 permalink: "/definitions/local.html"
 body: Relating to place; expressive of place; belonging or confined to a partlcu-lar
   place. Distinguished from “general," “personal," and “transitory

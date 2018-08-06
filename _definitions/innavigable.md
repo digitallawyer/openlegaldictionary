@@ -1,5 +1,6 @@
 ---
 title: Innavigable
+letter: I
 permalink: "/definitions/innavigable.html"
 body: As applied to streams, not capable of or suitable for navigation; lm-pussuble
   by ships or vessels

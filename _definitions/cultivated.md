@@ -1,5 +1,6 @@
 ---
 title: Cultivated
+letter: C
 permalink: "/definitions/cultivated.html"
 body: A field on which a crop of wheat is growing is a cultivated field, al-though
   not a stroke of labor may have been done in it since the seed was put in the ground,

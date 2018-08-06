@@ -1,5 +1,6 @@
 ---
 title: Discovery
+letter: D
 permalink: "/definitions/discovery.html"
 body: In a general sense, the ascertainment of that which was previously unknown;
   the disclosure or coming to light of what was previously hidden; the acqnisi-tion

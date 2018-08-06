@@ -1,5 +1,6 @@
 ---
 title: Constraint
+letter: C
 permalink: "/definitions/constraint.html"
 body: This term is held to be exactly equivalent with “restraint." Edmondson v. Harris,
   2 Tenn. Ch. 427

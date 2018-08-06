@@ -1,5 +1,6 @@
 ---
 title: Falcidian Law
+letter: F
 permalink: "/definitions/falcidian-law.html"
 body: In Roman law. A law on the subject of testamentary disposi-tion, enacted by
   the people in the year of Rome 714, on the proposition of the tribune Falcidlus.

@@ -1,5 +1,6 @@
 ---
 title: Prover
+letter: P
 permalink: "/definitions/prover.html"
 body: In old Englisb law. A person who, on being indicted of treason or fel ony, and
   arraigned for the same, confessed the fact before plea pleaded, and appealed or

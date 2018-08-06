@@ -1,5 +1,6 @@
 ---
 title: Notify
+letter: N
 permalink: "/definitions/notify.html"
 body: In legal proceedings, and in respect to public matters, this word is generally,
   if not universally, used as Importing a notice given by some person, whose duty

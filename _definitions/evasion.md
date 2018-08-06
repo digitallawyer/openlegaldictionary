@@ -1,5 +1,6 @@
 ---
 title: Evasion
+letter: E
 permalink: "/definitions/evasion.html"
 body: A subtle endeavoring to set aside truth or to escape the punishment of the law.
   This wlll not be allowed. If one person says to another that he will not strike

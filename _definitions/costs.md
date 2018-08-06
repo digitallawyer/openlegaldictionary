@@ -1,5 +1,6 @@
 ---
 title: Costs
+letter: C
 permalink: "/definitions/costs.html"
 body: A pecuniary allowance, made to the successful party, (and recoverable from the
   losing party,) for his expenses in prose-cutlng or defending a suit or a distinct

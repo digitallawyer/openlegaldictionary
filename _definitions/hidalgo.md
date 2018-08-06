@@ -1,5 +1,6 @@
 ---
 title: Hidalgo
+letter: H
 permalink: "/definitions/hidalgo.html"
 body: In Spanlsh law. A noble; a person entltled to the rights of noblllty. By hidalgos
   are understood men chosen from

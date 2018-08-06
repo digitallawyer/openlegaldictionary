@@ -1,5 +1,6 @@
 ---
 title: Turbary
+letter: T
 permalink: "/definitions/turbary.html"
 body: Turbary, or common of turbary, is the right or liberty of digging turf upon
   another man’s ground. Brown

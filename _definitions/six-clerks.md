@@ -1,5 +1,6 @@
 ---
 title: Six Clerks
+letter: S
 permalink: "/definitions/six-clerks.html"
 body: In English practice, of-ficers of the court of chancery, who receiv-ed and filed
   all bills, answers, replications, and other papers, signed office copies of pleadings,

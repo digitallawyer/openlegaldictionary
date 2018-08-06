@@ -1,5 +1,6 @@
 ---
 title: Pubuoiana
+letter: P
 permalink: "/definitions/pubuoiana.html"
 body: In the civil law. The name of an actlon Introduced by the prtetor Publicius,
   the object of which was to recover a thing which had been lost. Its effects were

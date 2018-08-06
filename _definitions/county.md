@@ -1,5 +1,6 @@
 ---
 title: County
+letter: C
 permalink: "/definitions/county.html"
 body: The name given to the principal subdivisions of the kingdom of Eng-land and
   of most of the states of the American Union, denoting a distinct portion of territory

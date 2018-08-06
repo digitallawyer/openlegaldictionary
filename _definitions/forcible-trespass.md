@@ -1,5 +1,6 @@
 ---
 title: Forcible Trespass
+letter: F
 permalink: "/definitions/forcible-trespass.html"
 body: In North Carolina, this is an invasion of the rights of auother with respect
   to his personal prop-erty, of the same character, or under the same circumstances,

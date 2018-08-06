@@ -1,5 +1,6 @@
 ---
 title: Drawback
+letter: D
 permalink: "/definitions/drawback.html"
 body: In the customs laws, thls term denotes an allowance made by the gov-ernment
   npon the duties due on Imported merchandise when the importer, instead of selling

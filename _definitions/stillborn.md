@@ -1,5 +1,6 @@
 ---
 title: Stillborn
+letter: S
 permalink: "/definitions/stillborn.html"
 body: A stillborn child is one born dead or in such an early stage of preg-nancy as
   to be incapable of living, though not actually dead at the time of birth. Chil-dren

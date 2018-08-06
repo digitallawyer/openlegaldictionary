@@ -1,5 +1,6 @@
 ---
 title: Midshipman
+letter: M
 permalink: "/definitions/midshipman.html"
 body: In ships of war, a kind of naval cadet, whose buslness is to second or transmit
   the orders of the superior officers and assist in the necessary business of the

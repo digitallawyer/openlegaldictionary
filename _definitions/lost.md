@@ -1,5 +1,6 @@
 ---
 title: Lost
+letter: L
 permalink: "/definitions/lost.html"
 body: An article is “lost" when the owner has lost the possession or custody of it,
   iu-voluntarily and by any means, but more par-ticularly by accident or his own negligence

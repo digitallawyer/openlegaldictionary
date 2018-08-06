@@ -1,5 +1,6 @@
 ---
 title: Chapitre
+letter: C
 permalink: "/definitions/chapitre.html"
 body: A summary of matters to be inquired of or presented before justices in eyre,
   Justices of assise, or of the peace, in their sessions. Also articles delivered

@@ -1,5 +1,6 @@
 ---
 title: Bilged
+letter: B
 permalink: "/definitions/bilged.html"
 body: In admiralty law and marine insurance. That state or condition of a vessel in
   which water is freely admitted through holes and breaches made in the planks of

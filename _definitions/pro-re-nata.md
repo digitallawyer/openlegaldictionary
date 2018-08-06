@@ -1,5 +1,6 @@
 ---
 title: Pro Re Nata
+letter: P
 permalink: "/definitions/pro-re-nata.html"
 body: For the affair lmme-diately in hand; adapted to meet the particular occasion.
   Thus, a course of judicial action adopted under pressure of the exigen-cies of the

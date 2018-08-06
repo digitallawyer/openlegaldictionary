@@ -1,5 +1,6 @@
 ---
 title: Dotal
+letter: D
 permalink: "/definitions/dotal.html"
 body: Relating to the dos or portion of a woman; constituting her portion; corn-prised
   in her portion

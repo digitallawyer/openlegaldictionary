@@ -1,5 +1,6 @@
 ---
 title: Saying Clause
+letter: S
 permalink: "/definitions/saying-clause.html"
 body: A saving clause in a statute is an exception of a special thlng out of the general
   things mentioned in the stat-ute; it is ordlnarily a restriction in a repeal-lng

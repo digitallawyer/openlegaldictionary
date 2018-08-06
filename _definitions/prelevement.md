@@ -1,5 +1,6 @@
 ---
 title: Prelevement
+letter: P
 permalink: "/definitions/prelevement.html"
 body: Fr. In French law. A prelimlnary deduction; particularly, the portion or share
   which one member of a firm is entitled to take out of the partnership as-sets before

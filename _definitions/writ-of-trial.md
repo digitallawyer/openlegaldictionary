@@ -1,5 +1,6 @@
 ---
 title: Writ Of Trial
+letter: W
 permalink: "/definitions/writ-of-trial.html"
 body: In English law. A writ directing an actlon brought in a supe-rior court to be
   tried in an inferior court or before the under-sherlff, under St. 3 & 4 wm. IV.

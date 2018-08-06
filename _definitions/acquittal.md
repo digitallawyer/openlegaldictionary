@@ -1,5 +1,6 @@
 ---
 title: Acquittal
+letter: A
 permalink: "/definitions/acquittal.html"
 body: In contracts. A release, absolution, or discharge from an obligation, liability,
   or engagement

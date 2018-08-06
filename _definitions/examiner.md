@@ -1,5 +1,6 @@
 ---
 title: Examiner
+letter: E
 permalink: "/definitions/examiner.html"
 body: In English law. A - person appointed by a court to take the examb nation of
   witnesses in an action, i. e., to take down the result of thelr interrogation by

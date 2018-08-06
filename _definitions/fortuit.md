@@ -1,5 +1,6 @@
 ---
 title: Fortuit
+letter: F
 permalink: "/definitions/fortuit.html"
 body: In French law. Accidental; fortuitous. Cos fortuit, a fortuitous event. Fartuitmcnt,
   accidentally; by chance

@@ -1,5 +1,6 @@
 ---
 title: Languidus
+letter: L
 permalink: "/definitions/languidus.html"
 body: "(Lat. Sick.) In practice. The name of a return made by tbe sheriff when a defendant,
   whom he has taken by virtue of process, is so dangerously sick that to remove him

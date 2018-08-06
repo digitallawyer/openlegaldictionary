@@ -1,5 +1,6 @@
 ---
 title: Revenue
+letter: R
 permalink: "/definitions/revenue.html"
 body: As applied to the income ot a government, this is a broad and general term,
   including all publlc moneys which the state collects and receives, from whatever

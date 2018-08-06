@@ -1,5 +1,6 @@
 ---
 title: Quod Computet
+letter: Q
 permalink: "/definitions/quod-computet.html"
 body: That he account Judgment quod computet is a preliminary or interlocutory judgment
   given in the action of account-render (also in the case of cred-itors’ bllls against

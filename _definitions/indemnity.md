@@ -1,5 +1,6 @@
 ---
 title: Indemnity
+letter: I
 permalink: "/definitions/indemnity.html"
 body: An Indemnity is a col-lateral contract or assurance, by which one person engages
   to secure another against an anticipated loss or to prevent him from be-lng damnified

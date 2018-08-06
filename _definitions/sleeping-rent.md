@@ -1,5 +1,6 @@
 ---
 title: Sleeping Rent
+letter: S
 permalink: "/definitions/sleeping-rent.html"
 body: In English iaw. An expression frequently used in coal-mine leases and agreements
   for the same. It signifies a fixed or dead, i. e., certain, rent, as distin-guished

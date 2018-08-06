@@ -1,5 +1,6 @@
 ---
 title: Leasehold
+letter: L
 permalink: "/definitions/leasehold.html"
 body: An estate in realty held nnder a lease; an estate for a fixed term of years.
   See Stubbings v. Evanston, 136 I1L 37, 26 N. E. 577, 11 L. R. A. 839, 29 Am. SL

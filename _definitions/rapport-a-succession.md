@@ -1,5 +1,6 @@
 ---
 title: Rapport A Succession
+letter: R
 permalink: "/definitions/rapport-a-succession.html"
 body: In French law and in Loulslana. A proceeding similar to hotchpot; the restoration
   to the succession of such property as the heir may have received by way of advancement

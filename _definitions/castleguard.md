@@ -1,5 +1,6 @@
 ---
 title: Castleguard
+letter: C
 permalink: "/definitions/castleguard.html"
 body: In feudal law. An imposition anciently laid upon such persons as lived within
   a certain distance of any castle, towards the maintenance, bf such as watched and

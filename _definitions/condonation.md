@@ -1,5 +1,6 @@
 ---
 title: Condonation
+letter: C
 permalink: "/definitions/condonation.html"
 body: The conditional re-mission or forgiveness, by one of the married parties, of
   a matrimonial offense committed by the other, and which would constitute a cause

@@ -1,5 +1,6 @@
 ---
 title: Batture
+letter: B
 permalink: "/definitions/batture.html"
 body: In Louisiana. A marine term used to denote a bottom of sand, stone, or rock
   mixed together and rising towards the surface of the water; an elevation of the

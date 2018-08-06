@@ -1,5 +1,6 @@
 ---
 title: Tillage
+letter: T
 permalink: "/definitions/tillage.html"
 body: A place tilled or cultivated; land under cultivation, as opposed to lands lying
   fallow or in pasture

@@ -1,5 +1,6 @@
 ---
 title: Reformatory
+letter: R
 permalink: "/definitions/reformatory.html"
 body: This term is of too wlde and uncertaln slgnlficatlon to support a bequest for
   the bulldlug of a “boys’ re-formatory.” It includes all places and in-stitutions

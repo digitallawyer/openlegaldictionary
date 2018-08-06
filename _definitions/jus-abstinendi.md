@@ -1,5 +1,6 @@
 ---
 title: Jus Abstinendi
+letter: J
 permalink: "/definitions/jus-abstinendi.html"
 body: The right of renun-ciation; the right of an heir, under the Roman law, to renounce
   or decline the in-heritance, as, for example, where his accept-ance, in consequence

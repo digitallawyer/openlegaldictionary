@@ -1,5 +1,6 @@
 ---
 title: Summer-Hus Silver
+letter: S
 permalink: "/definitions/summer-hus-silver.html"
 body: A payment to the lords of the wood on the wealds of Kent, who used to visit
   those places in summer, when thelr under-tenants were bound to prepare little summer-houses

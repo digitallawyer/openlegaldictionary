@@ -1,5 +1,6 @@
 ---
 title: Noxalis Aotio
+letter: N
 permalink: "/definitions/noxalis-aotio.html"
 body: Lat in the civU law. An action which lay against the mas-ter of a slave, for
   some offense (as theft or robbery) committed .or damage or injury done by the slave,

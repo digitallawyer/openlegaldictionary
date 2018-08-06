@@ -1,5 +1,6 @@
 ---
 title: Millbank Prison
+letter: M
 permalink: "/definitions/millbank-prison.html"
 body: Formerly called the “Penitentiary at Millbank.” A prison at westminster, for
   convicts under sentence of transportation, untll the sentence or order shall be

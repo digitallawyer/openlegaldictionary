@@ -1,5 +1,6 @@
 ---
 title: Pro Emtore
+letter: P
 permalink: "/definitions/pro-emtore.html"
 body: As a purchaser; by the title of a purchaser. A species of usueap-tlon. Dig.
   41, 4. See Id. 5, 3, 13, 1

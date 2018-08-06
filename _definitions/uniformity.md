@@ -1,5 +1,6 @@
 ---
 title: Uniformity
+letter: U
 permalink: "/definitions/uniformity.html"
 body: In taxation. Uniform-lty in taxation implies equality in the bur-den of taxation,
   which cannot exist without uniformity in the mode of assessment, as well as in the

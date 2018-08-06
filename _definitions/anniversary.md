@@ -1,5 +1,6 @@
 ---
 title: Anniversary
+letter: A
 permalink: "/definitions/anniversary.html"
 body: An annual day, in old ecclesiastical law, set apart in memory of a deceased
   person. Also called “year day” or “mlnd day.” Spelman

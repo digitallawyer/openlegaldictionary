@@ -1,5 +1,6 @@
 ---
 title: Habentes Homines
+letter: H
 permalink: "/definitions/habentes-homines.html"
 body: In old Eng-llsh law. Rich men; literally, having men. The same with fees ting-men,
   (q. v.) Cowell

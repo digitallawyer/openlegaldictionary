@@ -1,5 +1,6 @@
 ---
 title: Boulevard
+letter: B
 permalink: "/definitions/boulevard.html"
 body: The word “boulevard," whlch originally indicated a bulwark or ram-part, and
   was afterwards applled to a pub-lic walk or road on the site of a demolished fortification,

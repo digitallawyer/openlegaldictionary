@@ -1,5 +1,6 @@
 ---
 title: Reveland
+letter: R
 permalink: "/definitions/reveland.html"
 body: The land which in Domesday is said to bave been “thane-lant^” and afterwards
   converted into “reveland." It seems to have been land which, having reverted to

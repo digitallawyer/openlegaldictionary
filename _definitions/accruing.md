@@ -1,5 +1,6 @@
 ---
 title: Accruing
+letter: A
 permalink: "/definitions/accruing.html"
 body: Inchoate; in process of maturing. That which will or may, at a future time,
   ripen Into a vested right, an available demand, or an existing cause of action.

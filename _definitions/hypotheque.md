@@ -1,5 +1,6 @@
 ---
 title: Hypotheque
+letter: H
 permalink: "/definitions/hypotheque.html"
 body: In French lnw. Hy-pothecatlon; a mortgage on real property; the right vested
   in a creditor by the assign-inent to hlm of real estate as security for the payment

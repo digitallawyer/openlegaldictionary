@@ -1,5 +1,6 @@
 ---
 title: Baculus
+letter: B
 permalink: "/definitions/baculus.html"
 body: A rod, stafT, or wand, used In old English practice in making livery of seisin
   where no building stood on tbe land, (Bract. 40;) a stick or wand, by the erection

@@ -1,5 +1,6 @@
 ---
 title: Tool
+letter: T
 permalink: "/definitions/tool.html"
 body: The usual meaning of the word “tool” is “an instrument of manual opera-tion;”
   that is, an instrument to be used and managed by the hand Instead of heing moved

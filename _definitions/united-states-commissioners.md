@@ -1,5 +1,6 @@
 ---
 title: United States Commissioners
+letter: U
 permalink: "/definitions/united-states-commissioners.html"
 body: Each circuit court of the United States may appoint, in different parts of the
   district for which it is held, as many discreet persons as it may deem necessary,

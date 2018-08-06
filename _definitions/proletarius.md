@@ -1,5 +1,6 @@
 ---
 title: Proletarius
+letter: P
 permalink: "/definitions/proletarius.html"
 body: Lat. In Roman law. A person of poor or mean condition; those among the common
   people whose fortunes were below a certain valuation ; those who were so poor that

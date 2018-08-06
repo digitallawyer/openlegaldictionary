@@ -1,5 +1,6 @@
 ---
 title: Colt
+letter: C
 permalink: "/definitions/colt.html"
 body: An animal of the horse species, whether male or female, not more than four years
   old. Mallory v. Berry, 16 Kan. 295; Pullen v. State, 11 Tex. App. 91

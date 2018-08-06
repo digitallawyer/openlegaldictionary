@@ -1,5 +1,6 @@
 ---
 title: Dom. Proc
+letter: D
 permalink: "/definitions/dom-proc.html"
 body: An abbreviation of Do-mus Procerum or Domo Procerum; the house of lords in England.
   Sometimes ex-pressed by the letters D. P

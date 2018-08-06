@@ -1,5 +1,6 @@
 ---
 title: Attorney General
+letter: A
 permalink: "/definitions/attorney-general.html"
 body: In English law. The chief law officer of the realm, be-iug created by letters
   patent, whose ofiice is to exhibit informations and prosecute for the crown iu matters'

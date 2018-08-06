@@ -1,5 +1,6 @@
 ---
 title: Garroting
+letter: G
 permalink: "/definitions/garroting.html"
 body: A method of inflicting the death penalty on convicted criminals prac-tised in
   Spain, Portugal, aud some Spauish-American countries, consistiug in strangula-tion

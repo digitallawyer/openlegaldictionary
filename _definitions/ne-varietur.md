@@ -1,5 +1,6 @@
 ---
 title: Ne Varietur
+letter: N
 permalink: "/definitions/ne-varietur.html"
 body: Lat. It must not be altered. A phrase sometimes written by a notary upon a bill
   or note, for the purpose of establishing its identity, which, however

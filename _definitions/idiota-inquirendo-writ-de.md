@@ -1,5 +1,6 @@
 ---
 title: Idiota Inquirendo, Writ De
+letter: I
 permalink: "/definitions/idiota-inquirendo-writ-de.html"
 body: This is the name of an old writ which directs the sheriff to inquire whether
   a man be an idiot or not. The Inquisition is to be made by a Jury of twelve men.

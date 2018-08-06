@@ -1,5 +1,6 @@
 ---
 title: Defamation
+letter: D
 permalink: "/definitions/defamation.html"
 body: The taking from one's reputation. The offense of injuring a per* son’s character,
   fame, or reputation by false and malicious statements. The term seems to be comprehensive

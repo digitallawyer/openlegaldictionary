@@ -1,5 +1,6 @@
 ---
 title: Aids
+letter: A
 permalink: "/definitions/aids.html"
 body: 'In fendal law, orlglnally mere benevolences granted by a tenant to his lord,
   In times of distress; but at length the lords claimed them as of right. They were

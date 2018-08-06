@@ -1,5 +1,6 @@
 ---
 title: Bote
+letter: B
 permalink: "/definitions/bote.html"
 body: In .old Engllsh law. A recom-*pense or compensation, or profit or advan-tage.
   Also reparation or amends for any damage done. Necessaries for the mainte-nance

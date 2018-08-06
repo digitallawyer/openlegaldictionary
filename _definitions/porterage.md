@@ -1,5 +1,6 @@
 ---
 title: Porterage
+letter: P
 permalink: "/definitions/porterage.html"
 body: A kind of duty formerly paid at the English custom-house to those who attended
   the water-side, and belonged to the package-office; but it is now abolished. Also

@@ -1,5 +1,6 @@
 ---
 title: Denial
+letter: D
 permalink: "/definitions/denial.html"
 body: A traverse in the pleading of one party of an allegation of fact set up by the
   other; a defense. See Flack v. o’Brien, 19 Mlsc. Rep. 399, 43 N. Y. Supp. 854; Mott

@@ -1,5 +1,6 @@
 ---
 title: Indiction, Cycle Of
+letter: I
 permalink: "/definitions/indiction-cycle-of.html"
 body: A mode of computing time by the space of fifteen years, instituted by Constantine
   the Great; origl-nally the period for the payment of certain taxes. Some of the

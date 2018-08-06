@@ -1,5 +1,6 @@
 ---
 title: Apographia
+letter: A
 permalink: "/definitions/apographia.html"
 body: A civil law term sig-nlfylng an inventory or enumeration of things in one’s
   possession. Calvin

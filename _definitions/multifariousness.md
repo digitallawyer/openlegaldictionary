@@ -1,5 +1,6 @@
 ---
 title: Multifariousness
+letter: M
 permalink: "/definitions/multifariousness.html"
 body: In equity pleading. The fault of improperly joining In one hill distinct and
   independent matters, and thereby confounding them; as, for ex-ample, the uniting

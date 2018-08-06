@@ -1,5 +1,6 @@
 ---
 title: Traditor
+letter: T
 permalink: "/definitions/traditor.html"
 body: In old English law. A traitor; one guilty of high treason. Fleta, llb. 1, c.
   21, S 8

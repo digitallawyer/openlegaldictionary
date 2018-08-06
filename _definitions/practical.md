@@ -1,5 +1,6 @@
 ---
 title: Practical
+letter: P
 permalink: "/definitions/practical.html"
 body: A practical construction of a constitution or statute is one deter-mined. not
   by judicial decision, but practice sanctioned by general consent. Farmers’ & Mechanics*

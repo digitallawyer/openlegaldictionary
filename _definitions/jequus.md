@@ -1,5 +1,6 @@
 ---
 title: Jequus
+letter: J
 permalink: "/definitions/jequus.html"
 body: Lat Equal; even. A provision in a will for the division of the residu-ary estate
   ex tequus among the legatees means equally or evenly. Archer v. Morris, 61 N. J.

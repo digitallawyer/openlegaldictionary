@@ -1,5 +1,6 @@
 ---
 title: Curate
+letter: C
 permalink: "/definitions/curate.html"
 body: In ecclesiastical law. Prop-erly, an incumbent who has the cure of souls, but
   uow generally restricted to signify the spiritual assistant of a rector or vicar

@@ -1,5 +1,6 @@
 ---
 title: Apoplexy
+letter: A
 permalink: "/definitions/apoplexy.html"
 body: In medical jurisprudence. The failure of consciousness aud suspension of voluntary
   motion from suspension of the functions of the cerebrum

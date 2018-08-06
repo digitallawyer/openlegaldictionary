@@ -1,5 +1,6 @@
 ---
 title: Agriculture
+letter: A
 permalink: "/definitions/agriculture.html"
 body: RE. The science or art of cultivating the ground, especially in fields or large
   areas, including the tillage of the soil, the planting of seeds, the raising and

@@ -1,5 +1,6 @@
 ---
 title: Idem Sonans
+letter: I
 permalink: "/definitions/idem-sonans.html"
 body: Sounding the same or alike; having the same sound. A term ap-plied to names
   which are substantially the same, though slightly varied In the spelling, as “Lawrence”

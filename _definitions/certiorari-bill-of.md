@@ -1,5 +1,6 @@
 ---
 title: Certiorari, Bill Of
+letter: C
 permalink: "/definitions/certiorari-bill-of.html"
 body: In English chancery practice. An original bill praying relief. It was filed
   for the purpose of removing a suit pending in some inferior court of equity iuto

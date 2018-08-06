@@ -1,5 +1,6 @@
 ---
 title: Perdurable
+letter: P
 permalink: "/definitions/perdurable.html"
 body: As applied to an estate, perdurable signifies lasting long or forever. Thus,
   a disseisor or tenant in fee upon con-dltion has as high and great an estate as

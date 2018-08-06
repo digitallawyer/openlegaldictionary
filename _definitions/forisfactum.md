@@ -1,5 +1,6 @@
 ---
 title: Forisfactum
+letter: F
 permalink: "/definitions/forisfactum.html"
 body: Forfeited. Bona fo-risfacta, forfeited goods. 1 Bl. Comm. 299. A crime. Du Cange;
   Spelman

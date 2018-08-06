@@ -1,5 +1,6 @@
 ---
 title: Junk-Shop
+letter: J
 permalink: "/definitions/junk-shop.html"
 body: A shop where old cord-age and ships’ tackle, old iron, rags, bottles, paper,
   etc., are kept and sold. A place where odds and ends are purchased and sold. Charleston

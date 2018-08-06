@@ -1,5 +1,6 @@
 ---
 title: Stumpage
+letter: S
 permalink: "/definitions/stumpage.html"
 body: The sum agreed to be paid to an owner of land for trees stauding (or lying)
   upon his land, the purchaser being permitted to enter upon tiie land and to cut

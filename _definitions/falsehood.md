@@ -1,5 +1,6 @@
 ---
 title: Falsehood
+letter: F
 permalink: "/definitions/falsehood.html"
 body: A statement or assertion known to be untrue, and intended to deceive. X willful
   act or declaration contrary to the truth. Putnam v. osgood, 51 N. H. 207

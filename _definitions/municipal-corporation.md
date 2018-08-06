@@ -1,5 +1,6 @@
 ---
 title: Municipal Corporation
+letter: M
 permalink: "/definitions/municipal-corporation.html"
 body: A pub-iic corporation, created by government for political purposes, and having
   subordinate and local powers of legislation; e. g., a coun-ty, town, city, etc.

@@ -1,5 +1,6 @@
 ---
 title: Strike Off
+letter: S
 permalink: "/definitions/strike-off.html"
 body: In common parlance, and in the language of the auction-room, prop-erty is understood
   to be “struck off” or “knocked down,” when the auctioneer, by the fall of hls hammer,

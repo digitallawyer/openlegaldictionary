@@ -1,5 +1,6 @@
 ---
 title: Centime
+letter: C
 permalink: "/definitions/centime.html"
 body: The name of a denomination of Freuch money, being the one-hundredth part of
   a franc

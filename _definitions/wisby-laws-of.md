@@ -1,5 +1,6 @@
 ---
 title: Wisby, Laws Of
+letter: W
 permalink: "/definitions/wisby-laws-of.html"
 body: The name given to a code /of maritime laws promulgated at wisby, then the capital
   of Gothland, in Sweden, in the latter part of the thirteenth century. This compilation

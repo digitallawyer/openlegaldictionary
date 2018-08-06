@@ -1,5 +1,6 @@
 ---
 title: Insanity
+letter: I
 permalink: "/definitions/insanity.html"
 body: Unsoundness of mind; mad-nees; mental alienation or derangement; a morbid psychic
   condition resulting from dis-order of the brain, w'hether arising from mal-formatloh

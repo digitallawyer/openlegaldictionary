@@ -1,5 +1,6 @@
 ---
 title: Descendible
+letter: D
 permalink: "/definitions/descendible.html"
 body: Capable of passing by descent, or of belng inherited or transmitted by devise,
   (spoken of estates, tltles, offices, and other property.) Collins v. Smlth, 105

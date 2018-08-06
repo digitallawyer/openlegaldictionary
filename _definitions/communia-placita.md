@@ -1,5 +1,6 @@
 ---
 title: Communia Placita
+letter: C
 permalink: "/definitions/communia-placita.html"
 body: In old Engllsh law. Common pleas or actions; those between one subject and another,
   as dlstin-gnished from pleas of the crown

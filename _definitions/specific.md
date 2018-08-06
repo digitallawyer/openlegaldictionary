@@ -1,5 +1,6 @@
 ---
 title: Specific
+letter: S
 permalink: "/definitions/specific.html"
 body: Having a certain form or designation; observing-a certain form; particular;
   precise

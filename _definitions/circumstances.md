@@ -1,5 +1,6 @@
 ---
 title: Circumstances
+letter: C
 permalink: "/definitions/circumstances.html"
 body: A principal fact or event being the object of investigation, the circumstances
   are the related or accessory facts or occurrences whlch attend upon lt, which closely

@@ -1,5 +1,6 @@
 ---
 title: Stouthrieff
+letter: S
 permalink: "/definitions/stouthrieff.html"
 body: In Scotch law. For* merly this word included every species ot theft accompanied
   with violence to the person, but of late years it has become the vox signata for

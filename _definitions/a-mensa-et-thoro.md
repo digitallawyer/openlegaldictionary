@@ -1,5 +1,6 @@
 ---
 title: A Mensa Et Thoro
+letter: A
 permalink: "/definitions/a-mensa-et-thoro.html"
 body: From bed and board. Descriptive of a limited divorce or separation by judicial
   sentence

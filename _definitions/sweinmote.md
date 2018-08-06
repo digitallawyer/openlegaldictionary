@@ -1,5 +1,6 @@
 ---
 title: Sweinmote
+letter: S
 permalink: "/definitions/sweinmote.html"
 body: In forest law. A court holden before the verderors, as judges, by the steward
   of the sweinmote, thrice in ev-ery year, the stceins or freeholders within the forest

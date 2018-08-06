@@ -1,5 +1,6 @@
 ---
 title: Quxstio
+letter: Q
 permalink: "/definitions/quxstio.html"
 body: In Roman law. Anclently a specles of commissiou granted by the eomitia to one
   or more persons for the pur-pose of inquiring into some crime or public offense

@@ -1,5 +1,6 @@
 ---
 title: Abortion
+letter: A
 permalink: "/definitions/abortion.html"
 body: In criminal law. The miscarriage or premature delivery of a woman who is quick
   with child, when this is brought about with a malicious design, or for an unlawful

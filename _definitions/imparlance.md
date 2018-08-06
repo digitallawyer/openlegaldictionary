@@ -1,5 +1,6 @@
 ---
 title: Imparlance
+letter: I
 permalink: "/definitions/imparlance.html"
 body: In early practice, imparlance meant time given to either of the parties to an
   action to answer the pleading of the other. It thus amounted to a continuance of

@@ -1,5 +1,6 @@
 ---
 title: Namium
+letter: N
 permalink: "/definitions/namium.html"
 body: L. Lat in old English law. A taking; a dlstress. Spelman. Things, goods, or
   animals taken hy way of distress. Simplex namium, a simple taking or pledge. Bract

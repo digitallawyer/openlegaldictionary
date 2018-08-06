@@ -1,5 +1,6 @@
 ---
 title: Disaffirmance
+letter: D
 permalink: "/definitions/disaffirmance.html"
 body: The repudiation of a former transaction. The refusal by one who hais the right
   to refuse, (as in the case of a voidable contract,) to abide by hls former acts,

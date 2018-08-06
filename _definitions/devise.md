@@ -1,5 +1,6 @@
 ---
 title: Devise
+letter: D
 permalink: "/definitions/devise.html"
 body: A testamentary disposition of land or realty; a gift of real proi>erty by the
   last will and testament of the donor. Scbolie v. Scholle, 113 N. Y. 261, 21 N. E.

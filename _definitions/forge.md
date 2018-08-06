@@ -1,5 +1,6 @@
 ---
 title: Forge
+letter: F
 permalink: "/definitions/forge.html"
 body: To fabricate, construct, or pre-pare one thing iu imitation of another thing,
   with the intention of substituting tbe false for the genuine, or otherwise deceiving

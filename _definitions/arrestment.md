@@ -1,5 +1,6 @@
 ---
 title: Arrestment
+letter: A
 permalink: "/definitions/arrestment.html"
 body: In Scotch law. Secur-ing a criminal's person till trial, or that of a debtor
   till he give security judicio sisti. The order of a judge, by which he who is debtor

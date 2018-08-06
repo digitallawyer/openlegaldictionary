@@ -1,5 +1,6 @@
 ---
 title: Surmise
+letter: S
 permalink: "/definitions/surmise.html"
 body: 'Formerly where a defendant pleaded a local custom, for iustance, a cus: tom
   of the city of London, it was necessary for him to “surmise,” that is, to suggest

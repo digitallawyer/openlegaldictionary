@@ -1,5 +1,6 @@
 ---
 title: Dumb-Bidding
+letter: D
 permalink: "/definitions/dumb-bidding.html"
 body: In sales at auction, when the minimum amount which the owner will take for the
   article is written on a piece of paper, and placed by the owner under a candlestick,

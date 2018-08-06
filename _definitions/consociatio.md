@@ -1,5 +1,6 @@
 ---
 title: Consociatio
+letter: C
 permalink: "/definitions/consociatio.html"
 body: Lat An association, fellowship, or partnership. Applied by some of the older
   writers to a corporation, and even to a natlon consldered as a body politic. Thomas

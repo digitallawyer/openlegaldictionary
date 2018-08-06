@@ -1,5 +1,6 @@
 ---
 title: Honorarium
+letter: H
 permalink: "/definitions/honorarium.html"
 body: In the civil law. An honorary or free gift; a gratuitous payment, as distinguished
   from hire or compensation for service; a lawyer’s or counsellor's fee. Dig. 50,

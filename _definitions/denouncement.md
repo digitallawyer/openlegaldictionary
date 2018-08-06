@@ -1,5 +1,6 @@
 ---
 title: Denouncement
+letter: D
 permalink: "/definitions/denouncement.html"
 body: In Spanish and Mexican law. A denouncement was a Judicial proceeding, and, though
   real property might be acquired by an alien in fraud of the law,—that is, without

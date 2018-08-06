@@ -1,5 +1,6 @@
 ---
 title: Miserabile Depositum
+letter: M
 permalink: "/definitions/miserabile-depositum.html"
 body: Lat. In the civil law. The name of an Involuntary deposit, made under pressing
   necessity; as, for Instance, shipwreck, fire, or other inevitable calamity. Poth.

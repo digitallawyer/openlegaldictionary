@@ -1,5 +1,6 @@
 ---
 title: Norroy
+letter: N
 permalink: "/definitions/norroy.html"
 body: In English law. The title of the third of the three klngs-at-arms, or pro-vlncial
   heralds

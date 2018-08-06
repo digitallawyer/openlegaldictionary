@@ -1,5 +1,6 @@
 ---
 title: Conscienoe
+letter: C
 permalink: "/definitions/conscienoe.html"
 body: The moral sense; the faculty of judging the moral qualities of ac-tious, or
   of discriminating between right aud wrong; particularly applied to one’s percep-tlon

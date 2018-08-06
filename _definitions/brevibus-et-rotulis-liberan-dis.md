@@ -1,5 +1,6 @@
 ---
 title: Brevibus Et Rotulis Liberan-Dis
+letter: B
 permalink: "/definitions/brevibus-et-rotulis-liberan-dis.html"
 body: A writ or mandate to a sheriff to de-liver to his successor the county, and
   ap-purtenances, with the rolls, briefs, remem-brance, and all other things belonging

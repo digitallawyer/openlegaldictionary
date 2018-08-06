@@ -1,5 +1,6 @@
 ---
 title: Building
+letter: B
 permalink: "/definitions/building.html"
 body: A structure or edifice erected by the hand of man, composed of natural materials,
   as stone or wood, and Intended for use or convenience. Truesdell v. Gray, 13 Gray

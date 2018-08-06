@@ -1,5 +1,6 @@
 ---
 title: Tenet; Tenuit
+letter: T
 permalink: "/definitions/tenet-tenuit.html"
 body: Lat. He holds; he held. In the Latin forms of the writ of waste against a tenant,
   these words intro-duced the allegation of tenure. If the ten-ancy still existed,

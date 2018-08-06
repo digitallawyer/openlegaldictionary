@@ -1,5 +1,6 @@
 ---
 title: Do Ut Des
+letter: D
 permalink: "/definitions/do-ut-des.html"
 body: Lat. 1 give that you may give; I give [you] that you may give [me.] A formula
   in the civil law, constituting a general division under which those contracts (termed

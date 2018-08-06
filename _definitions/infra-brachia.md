@@ -1,5 +1,6 @@
 ---
 title: Infra Brachia
+letter: I
 permalink: "/definitions/infra-brachia.html"
 body: within her arms. Used of a husband de jure, as weli as de facto. 2 Inst. 317.
   Also infer brachia. Bract fol. 14Sb. It was in this sense that a woman could only

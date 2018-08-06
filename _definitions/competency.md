@@ -1,5 +1,6 @@
 ---
 title: Competency
+letter: C
 permalink: "/definitions/competency.html"
 body: In tbe law of evi-denco. The presence of those characteristics, or the absence
   of those disabilities, which render a witness legally fit and qualified to give

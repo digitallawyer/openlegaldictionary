@@ -1,5 +1,6 @@
 ---
 title: Self-Defense
+letter: S
 permalink: "/definitions/self-defense.html"
 body: NSE. In criminal law^ The protection of one’s person or property aga hist some
   injury attempted by another. The right of such protection. An excuse for the •use

@@ -1,5 +1,6 @@
 ---
 title: Expunge
+letter: E
 permalink: "/definitions/expunge.html"
 body: To blot out; to efface de-slgnedly; to obliterate; to strike out wholly. webster.
   See Cancel

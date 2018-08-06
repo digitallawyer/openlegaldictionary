@@ -1,5 +1,6 @@
 ---
 title: Subscriptio
+letter: S
 permalink: "/definitions/subscriptio.html"
 body: Lat in the civU law. A writing under, or under-writing; a writ-ing of tbe name
   under or at tbe bottom of an instrument by way of attestation or ratificn-tion;

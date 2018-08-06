@@ -1,5 +1,6 @@
 ---
 title: Sarculatura
+letter: S
 permalink: "/definitions/sarculatura.html"
 body: L. Lat. In old records. Weeding corn. A tenant’s service of weeding for the
   lord. Cowell

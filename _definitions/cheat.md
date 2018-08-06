@@ -1,5 +1,6 @@
 ---
 title: Cheat
+letter: C
 permalink: "/definitions/cheat.html"
 body: Swindling; defrauding. “Deceitful practices in defrauding or endeavoring to
   defraud another of his known right, by some willful device, contrary to the plain

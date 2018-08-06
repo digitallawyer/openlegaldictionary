@@ -1,5 +1,6 @@
 ---
 title: Ranger
+letter: R
 permalink: "/definitions/ranger.html"
 body: 'In forest law. A sworn of fleer of the forest, whose office chiefly con-sists
   in three points: To walk daily through his charge to see, hear, and Inquire as weil

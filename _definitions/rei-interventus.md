@@ -1,5 +1,6 @@
 ---
 title: Rei Interventus
+letter: R
 permalink: "/definitions/rei-interventus.html"
 body: Lat Thlngs in-tervening; that is, things done by one of the partles to a contract,
   in the falth of Its va-lldity, and with the assent of the other par-ty, and whlch

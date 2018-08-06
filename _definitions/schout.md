@@ -1,5 +1,6 @@
 ---
 title: Schout
+letter: S
 permalink: "/definitions/schout.html"
 body: In Dutch law. An officer of a court whose functions somewhat resemble those
   of a sheriff

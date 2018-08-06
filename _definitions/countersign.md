@@ -1,5 +1,6 @@
 ---
 title: Countersign
+letter: C
 permalink: "/definitions/countersign.html"
 body: The signature of a secretary or other subordinate officer to any writing signed
   by the principal or superior to vouch for the authenticity of it Fifth Ave. Bank

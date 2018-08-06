@@ -1,5 +1,6 @@
 ---
 title: Regulje Generales
+letter: R
 permalink: "/definitions/regulje-generales.html"
 body: Lat. General rules, whlch the courts promulgate from time to time for the regulation
   of their practice

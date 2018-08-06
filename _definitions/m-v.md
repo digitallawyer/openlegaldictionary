@@ -1,5 +1,6 @@
 ---
 title: M. V
+letter: M
 permalink: "/definitions/m-v.html"
 body: orporations. A merger of corporations consist in the uniting of two or more
   corporations by the transfer of property of all to one of them, which continues

@@ -1,5 +1,6 @@
 ---
 title: Nominate Oontraots
+letter: N
 permalink: "/definitions/nominate-oontraots.html"
 body: 'In the civil law. Contracts having a proper or peculiar name and form, and
   which were divided into four kinds, expressive of the ways in which they were ''formed,

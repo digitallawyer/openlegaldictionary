@@ -1,5 +1,6 @@
 ---
 title: Consensual Contract
+letter: C
 permalink: "/definitions/consensual-contract.html"
 body: Ax term derived from the clvil law, denoting a con-tract founded upon and completed
   by the mere consent of the contracting parties, without any external formality or

@@ -1,5 +1,6 @@
 ---
 title: Chastity
+letter: C
 permalink: "/definitions/chastity.html"
 body: Purity; continence. That virtue which prevents the unlawful inter-course of
   the sexes. Also the state of purity or abstinence from unlawful sexual connection.

@@ -1,5 +1,6 @@
 ---
 title: Lambeth Degree
+letter: L
 permalink: "/definitions/lambeth-degree.html"
 body: In Engllsh law. A degree conferred by the Archbishop of Canterbury, in prejudice
   of the unlverslties. 3 Steph. Comm. 65; 1 Bl. Comm. 381

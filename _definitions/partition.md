@@ -1,5 +1,6 @@
 ---
 title: Partition
+letter: P
 permalink: "/definitions/partition.html"
 body: The dividing of lands held by Joint tenants, coparceners, or tenants in common,
   into distinct portions, so that they may hold them in severalty. And, in a less

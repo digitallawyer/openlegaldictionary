@@ -1,5 +1,6 @@
 ---
 title: Molestation
+letter: M
 permalink: "/definitions/molestation.html"
 body: In Scotch law. A possessory action calculated for continuing pro-prietors of
   lauded estates in the lawful pos-session of them till the point of right be determined

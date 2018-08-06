@@ -1,5 +1,6 @@
 ---
 title: Alter
+letter: A
 permalink: "/definitions/alter.html"
 body: To make a change ln; to modi-fy; to vary in some degree; to change some of the
   elements or ingredients or details with-out substituting an entirely new thing or

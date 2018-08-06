@@ -1,5 +1,6 @@
 ---
 title: Metecorn
+letter: M
 permalink: "/definitions/metecorn.html"
 body: A measure or portion of corn, given by a lord to customary tenants as a reward
   and encouragement for labor. Cowell

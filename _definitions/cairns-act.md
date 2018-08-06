@@ -1,5 +1,6 @@
 ---
 title: Cairns' Act
+letter: C
 permalink: "/definitions/cairns-act.html"
 body: An English statute for enabling the court of chancery to award dam-ages. 21
   & 22 Vict. c. 27

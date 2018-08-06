@@ -1,5 +1,6 @@
 ---
 title: Ex Parte Talis
+letter: E
 permalink: "/definitions/ex-parte-talis.html"
 body: A writ that lay for a bailiff or receiver, who, having auditors appointed to
   take his accounts, cannot obtain of them reasonable allowance, but is cast into

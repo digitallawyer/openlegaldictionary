@@ -1,5 +1,6 @@
 ---
 title: Intend
+letter: I
 permalink: "/definitions/intend.html"
 body: To design, resolve, purpose. To apply a rule of law in the nature of presumption;
   to discern and follow the proba-billties of llke cases

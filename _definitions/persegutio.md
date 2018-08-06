@@ -1,5 +1,6 @@
 ---
 title: Persegutio
+letter: P
 permalink: "/definitions/persegutio.html"
 body: Lat. In the clvil law. A following after; a pursuing at law; a sult or prosecution.
   Properly that kind of Judl-cial proceedlng before the prretor which was called “extraordinary.”

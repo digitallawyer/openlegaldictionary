@@ -1,5 +1,6 @@
 ---
 title: Void
+letter: V
 permalink: "/definitions/void.html"
 body: Null; ineffectual; nugatory; hav-lng uo legal force or binding effect; unable,
   in law, to support the purpose for which it was intended

@@ -1,5 +1,6 @@
 ---
 title: Senile Dementia
+letter: S
 permalink: "/definitions/senile-dementia.html"
 body: That peculiar de-cay of the mental faculties which occurs in extreme old age,
   and in many cases much earlier, whereby the person is reduced to second childhood,

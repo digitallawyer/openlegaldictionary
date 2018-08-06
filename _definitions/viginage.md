@@ -1,5 +1,6 @@
 ---
 title: Viginage
+letter: V
 permalink: "/definitions/viginage.html"
 body: Neighborhood; near dwell-lng; vicinity. 2 Bl. Comm. 33; Cowell. In modern usage,
   it means the county where a trial is had, a crime committed, etc. See State v. Crlnklaw,

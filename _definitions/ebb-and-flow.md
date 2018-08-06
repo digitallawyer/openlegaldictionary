@@ -1,5 +1,6 @@
 ---
 title: Ebb And Flow
+letter: E
 permalink: "/definitions/ebb-and-flow.html"
 body: An expression used Eoolesia est infra setatom ot in ons-formerly in this country
   to denote the limits todia domini regis, qni tenctnr Jnra ot of admiralty jurisdiction.

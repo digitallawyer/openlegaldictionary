@@ -1,5 +1,6 @@
 ---
 title: Neat, Net
+letter: N
 permalink: "/definitions/neat-net.html"
 body: The clear weight or quan-tity of an article, without the bag, box, keg, or other
   thing in which it may be enveloped

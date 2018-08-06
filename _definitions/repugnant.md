@@ -1,5 +1,6 @@
 ---
 title: Repugnant
+letter: R
 permalink: "/definitions/repugnant.html"
 body: NANT. That which is contrary to what is stated before, or insensible. A repugnant
   condition is void

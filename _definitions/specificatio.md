@@ -1,5 +1,6 @@
 ---
 title: Specificatio
+letter: S
 permalink: "/definitions/specificatio.html"
 body: Lat in the civil law. Literally, a maklng of form; a givlng of form to materials.
   That mode of acquiring property through which a persou, by trans-forming a thing

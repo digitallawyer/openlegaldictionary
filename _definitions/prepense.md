@@ -1,5 +1,6 @@
 ---
 title: Prepense
+letter: P
 permalink: "/definitions/prepense.html"
 body: Forethought; preconceiv-ed; premeditated. See Territory v. Banni-gan. 1 Dak.
   451, 46 N. W. 597; People v. Clark, 7 N. Y. 385

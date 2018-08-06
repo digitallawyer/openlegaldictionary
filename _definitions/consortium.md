@@ -1,5 +1,6 @@
 ---
 title: Consortium
+letter: C
 permalink: "/definitions/consortium.html"
 body: In the civil law. A nnlon of fortunes; a lawful Roman marriage. Also, the joining
   of several persons as par-ties to one action. In old English law, the term signified

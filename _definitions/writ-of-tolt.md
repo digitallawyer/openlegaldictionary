@@ -1,5 +1,6 @@
 ---
 title: Writ Of Tolt
+letter: W
 permalink: "/definitions/writ-of-tolt.html"
 body: In Engllsh law. The name of a wrlt to remove proceedings on a writ of right
   patent from the court-baron Into the county court

@@ -1,5 +1,6 @@
 ---
 title: Strumpet
+letter: S
 permalink: "/definitions/strumpet.html"
 body: A whore, harlot, or oour-tesan. This word was anciently used for an addition.
   It occurs as au addition to the name of a woman in a return made by a jury in the

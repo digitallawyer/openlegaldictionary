@@ -1,5 +1,6 @@
 ---
 title: Perform
+letter: P
 permalink: "/definitions/perform.html"
 body: To perform an obllgation or contract is to execute, fulfill, or accomplish it
   according to its terms. This may consist either in action on the part of the person

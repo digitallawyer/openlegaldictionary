@@ -1,5 +1,6 @@
 ---
 title: Scandal
+letter: S
 permalink: "/definitions/scandal.html"
 body: Defamatory reports or ru-mors; aspersion or slanderous talk, uttered recklessly
   or maliciously

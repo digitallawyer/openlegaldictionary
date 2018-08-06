@@ -1,5 +1,6 @@
 ---
 title: Plead
+letter: P
 permalink: "/definitions/plead.html"
 body: To make, deliver, or file any pleading; to conduct the pleadings in a cause.
   To interpose any pleading in a suit which contalns allegations of fact; in this

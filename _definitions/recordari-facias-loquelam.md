@@ -1,5 +1,6 @@
 ---
 title: Recordari Facias Loquelam
+letter: R
 permalink: "/definitions/recordari-facias-loquelam.html"
 body: In English practice. A writ by which a suit or plaint in replevin may be removed
   from a county court to one of the courts of west-minster Hall. 3 Bl. Comm. 149;

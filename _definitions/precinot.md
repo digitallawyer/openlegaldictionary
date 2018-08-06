@@ -1,5 +1,6 @@
 ---
 title: Precinot
+letter: P
 permalink: "/definitions/precinot.html"
 body: A constable’s or police dis-trict. The immediate neighborhood of a palace or
   court. A poll-diatrlct. See Union Pac. Ry. Co. v. Ryan, 113 U. S. 516, 5 Sup. Ct

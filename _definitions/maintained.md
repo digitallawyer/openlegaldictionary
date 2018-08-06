@@ -1,5 +1,6 @@
 ---
 title: Maintained
+letter: M
 permalink: "/definitions/maintained.html"
 body: In pleading. A tech-nlcal word indispensable in an indictment for maintenance.
   1 wils. 325

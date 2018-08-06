@@ -1,5 +1,6 @@
 ---
 title: Salvor
+letter: S
 permalink: "/definitions/salvor.html"
 body: A person who, without any particular relation to a ship in distress, prof-fers
   useful service, and gives it as a volun-teer adventurer, withont any pre-existing

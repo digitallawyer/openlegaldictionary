@@ -1,5 +1,6 @@
 ---
 title: Borsholder
+letter: B
 permalink: "/definitions/borsholder.html"
 body: In Saxon law. The borough's ealder, or headborough, supposed to be in the discreetest
   man in the borough, town, or tithing

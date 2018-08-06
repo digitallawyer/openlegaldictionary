@@ -1,5 +1,6 @@
 ---
 title: Clause
+letter: C
 permalink: "/definitions/clause.html"
 body: A single paragraph or subdivision of a legal document, such as a con-tract,
   deed, will, constitution, or statute. Sometimes a sentence or part of a sentence.

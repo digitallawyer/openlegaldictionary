@@ -1,5 +1,6 @@
 ---
 title: Water
+letter: W
 permalink: "/definitions/water.html"
 body: As designating a commodity or a subject of ownership, this term has the same
   meaning in law as in common speech; hut in another sense, and especially in the

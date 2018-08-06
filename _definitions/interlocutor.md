@@ -1,5 +1,6 @@
 ---
 title: Interlocutor
+letter: I
 permalink: "/definitions/interlocutor.html"
 body: In Scotch practice. An order or decree of court; an order made in open court
   2 Swint. 362; Arkley, 32

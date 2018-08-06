@@ -1,5 +1,6 @@
 ---
 title: Descriptio Persone
+letter: D
 permalink: "/definitions/descriptio-persone.html"
 body: Lat. De-ecriptlon of the person. By this is meant a word or phrase used merely
   for the purpose of identifying or pointing out the person lntended, and not as an

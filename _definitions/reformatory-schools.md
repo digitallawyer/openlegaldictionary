@@ -1,5 +1,6 @@
 ---
 title: Reformatory Schools
+letter: R
 permalink: "/definitions/reformatory-schools.html"
 body: In English law. Schools to which convicted juvenile offenders (under sixteen)
   may be sent by order of the court before which they are tried, If the offense be

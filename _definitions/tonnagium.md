@@ -1,5 +1,6 @@
 ---
 title: Tonnagium
+letter: T
 permalink: "/definitions/tonnagium.html"
 body: ln old Engllsh law. A custom or impost upbn wines and other merchandise exported
   or imported, according to a certain rate per ton. Spelman; Cowell

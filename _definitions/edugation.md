@@ -1,5 +1,6 @@
 ---
 title: Edugation
+letter: E
 permalink: "/definitions/edugation.html"
 body: within the meaning of a statute relative to the pow’ers and duties of guardians,
   this term comprehends not mere-ly the instruction received at school or col-lege,

@@ -1,5 +1,6 @@
 ---
 title: Peaceable
+letter: P
 permalink: "/definitions/peaceable.html"
 body: Free from the character of force, violence, or trespass; as, a “peace-able entry”
   on lands. "Peaceable posses-sion” of real estate is such as is acquiesced in by

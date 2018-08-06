@@ -1,5 +1,6 @@
 ---
 title: Trebucket
+letter: T
 permalink: "/definitions/trebucket.html"
 body: A tumbrel, castigatory, or cucking-stool. See James v. Comm., 12 Serg. & R.
   (Pa.) 227

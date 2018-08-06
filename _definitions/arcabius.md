@@ -1,5 +1,6 @@
 ---
 title: Arcabius
+letter: A
 permalink: "/definitions/arcabius.html"
 body: In civil and old English law. A treasurer; a keeper of publlc money. Cod. 10,
   70, 15; Spelman

@@ -1,5 +1,6 @@
 ---
 title: Attaint
+letter: A
 permalink: "/definitions/attaint.html"
 body: In old English practice. A writ which lay to inquire whether a jury of twelve
   men had given a false verdict, iu or-der that the judgment might be reversed. 3

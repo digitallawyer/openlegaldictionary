@@ -1,5 +1,6 @@
 ---
 title: Conditional
+letter: C
 permalink: "/definitions/conditional.html"
 body: That which is depend-ent upon or granted subject to a condition. —Conditional
   creditor. In the civil law. A creditor having a future right of action, or hav-ing

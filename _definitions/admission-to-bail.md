@@ -1,5 +1,6 @@
 ---
 title: Admission To Bail
+letter: A
 permalink: "/definitions/admission-to-bail.html"
 body: The order of a competent court or magistrate that a person accused of crime
   be discharged from actual custody upon the taking of bail. Comp. Laws Nev. 1900,

@@ -1,5 +1,6 @@
 ---
 title: Syndig
+letter: S
 permalink: "/definitions/syndig.html"
 body: In tbe oivil law. An advocate or patron; a burgess or recorder; an agent or
   attorney who acts for a corporation or university; an actor or procurator; an assignee,

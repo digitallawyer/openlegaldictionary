@@ -1,5 +1,6 @@
 ---
 title: Limb
+letter: L
 permalink: "/definitions/limb.html"
 body: A member of the human body. In the phrase “life and limb,” the latter term appears
   to denote bodily integrity in general; but in the definition of “mayhem” it refers

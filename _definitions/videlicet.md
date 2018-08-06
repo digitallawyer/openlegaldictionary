@@ -1,5 +1,6 @@
 ---
 title: Videlicet
+letter: V
 permalink: "/definitions/videlicet.html"
 body: LaL The words “to-wit,” or “that is to say,” so frequently used in pleading,
   are technically called the “videlicet” or “scilicet;” and when any fact alleged

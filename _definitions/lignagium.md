@@ -1,5 +1,6 @@
 ---
 title: Lignagium
+letter: L
 permalink: "/definitions/lignagium.html"
 body: A right of cuttlng fuel in woods; also a-tribute or payment due for the same.
   Jacob

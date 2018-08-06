@@ -1,5 +1,6 @@
 ---
 title: Ledger
+letter: L
 permalink: "/definitions/ledger.html"
 body: A book of accounts in which a trader enters the names of all persons with whom
   he has dealings; there being two par-ailel columns in each account, one for the

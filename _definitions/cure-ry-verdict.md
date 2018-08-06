@@ -1,5 +1,6 @@
 ---
 title: Cure Ry Verdict
+letter: C
 permalink: "/definitions/cure-ry-verdict.html"
 body: The rectification or rendering nugatory of a defect in the pleadings by the
   rendition of a verdict; the court will presume, after a verdict, that the particular

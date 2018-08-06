@@ -1,5 +1,6 @@
 ---
 title: Servient
+letter: S
 permalink: "/definitions/servient.html"
 body: Serving; subject to a service or servitude. A servient estate is one which is
   burdened with a servitude

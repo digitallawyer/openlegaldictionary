@@ -1,5 +1,6 @@
 ---
 title: Si Recognoscat
+letter: S
 permalink: "/definitions/si-recognoscat.html"
 body: Lat. If he ac-knowledge. In old practice. A writ which lay for a creditor against
   his debtor for money numbered (pecunia numerata) or counted; that is, a specific

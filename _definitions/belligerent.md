@@ -1,5 +1,6 @@
 ---
 title: Belligerent
+letter: B
 permalink: "/definitions/belligerent.html"
 body: Iu iuternational lnw. A term used to designate either of two na-tions wbicb
   are actually in a state of war with each other, as well as thelr allies ac-tively

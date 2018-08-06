@@ -1,5 +1,6 @@
 ---
 title: Anthropometry
+letter: A
 permalink: "/definitions/anthropometry.html"
 body: ln criminal law and medical jurisprudence. The measure-inent of the human body;
   a system of meas-uring the dimensions of the human body, both absolutely and in

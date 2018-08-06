@@ -1,5 +1,6 @@
 ---
 title: Lyon King Of Arms
+letter: L
 permalink: "/definitions/lyon-king-of-arms.html"
 body: In Scotch law. The ancient duty of this officer was to carry public messages
   to foreign states, and it is still the practice of the heralds to make all royal

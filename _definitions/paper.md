@@ -1,5 +1,6 @@
 ---
 title: Paper
+letter: P
 permalink: "/definitions/paper.html"
 body: A written or printed document or Instrument, A document filed or intro-duced
   in evidence in a suit at law, as, ia the phrase “papers in the case” and in “pa-pers

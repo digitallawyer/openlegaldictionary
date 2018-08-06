@@ -1,5 +1,6 @@
 ---
 title: Transference
+letter: T
 permalink: "/definitions/transference.html"
 body: In Scotch law. The proceeding to be taken upon the death of one of the parties
   to a pending suit, whereby the action is transferred or continued, in its then condition,

@@ -1,5 +1,6 @@
 ---
 title: Insurance
+letter: I
 permalink: "/definitions/insurance.html"
 body: A contract whereby, for a stipulated consideration, one party undertakes to
   compensate the other for loss on a specified subject by specified perils. The party

@@ -1,5 +1,6 @@
 ---
 title: Invention
+letter: I
 permalink: "/definitions/invention.html"
 body: In patent law. The act or operation of finding out something new; the process
   of contriving and producing some-thing not previously known or existing, by the

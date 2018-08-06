@@ -1,5 +1,6 @@
 ---
 title: Color Of Title
+letter: C
 permalink: "/definitions/color-of-title.html"
 body: The appearance, semblance, or simulacrum of title. Any fact, extraneous to the
   act or mere will of tlie claimant, which has the appearance, on its face, of supporting

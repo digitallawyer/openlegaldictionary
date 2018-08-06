@@ -1,5 +1,6 @@
 ---
 title: Date Certaine
+letter: D
 permalink: "/definitions/date-certaine.html"
 body: In French law. A deed is said to have a date certaine (fixed date) when it has
   been subjected to the for-mality of registration; after this formality has been

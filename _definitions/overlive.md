@@ -1,5 +1,6 @@
 ---
 title: Overlive
+letter: O
 permalink: "/definitions/overlive.html"
 body: To survive; to live longer than another. Finch, Law, b. 1, c. 3, no. 58; 1 Leon.
   1

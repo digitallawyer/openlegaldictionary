@@ -1,5 +1,6 @@
 ---
 title: Jus Deliberandi
+letter: J
 permalink: "/definitions/jus-deliberandi.html"
 body: In the civil law. The right of deliberating. A term granted by the proper oflicer
   at the request of him who is called to the Inheritance, (the heir,) within, which

@@ -1,5 +1,6 @@
 ---
 title: Pignoris Gapio
+letter: P
 permalink: "/definitions/pignoris-gapio.html"
 body: Lat. In Roman law. Thls was the name of one of the legis actiones. It was employed
   only In certain particular kinds of pecunlary cases, and con-sisted in that the

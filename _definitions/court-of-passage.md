@@ -1,5 +1,6 @@
 ---
 title: Court Of Passage
+letter: C
 permalink: "/definitions/court-of-passage.html"
 body: An Inferior court, possessing a very ancient Jurisdiction over causes of action
   arising within the bor-ough of Liverpool. It appears to have been also called the

@@ -1,5 +1,6 @@
 ---
 title: Consideration
+letter: C
 permalink: "/definitions/consideration.html"
 body: The inducement to a contract The cause, motive, price, or impelling Influence
   which induces a contracting party to enter into a contract The reason or material

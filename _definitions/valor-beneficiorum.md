@@ -1,5 +1,6 @@
 ---
 title: Valor Beneficiorum
+letter: V
 permalink: "/definitions/valor-beneficiorum.html"
 body: L. Lat. The value of every ecclesiastical benefice and preferment, according
   to which the first fruits aud tenths are collected aud paid. It is commonly called

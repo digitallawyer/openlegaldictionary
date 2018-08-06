@@ -1,5 +1,6 @@
 ---
 title: Able-Bodied
+letter: A
 permalink: "/definitions/able-bodied.html"
 body: As used in a statute relating to service in the militia, tills term does not
   imply an absolute freedom from all physical aliment It imports an absence of those

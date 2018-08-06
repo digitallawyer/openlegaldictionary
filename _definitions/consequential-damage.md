@@ -1,5 +1,6 @@
 ---
 title: Consequential Damage
+letter: C
 permalink: "/definitions/consequential-damage.html"
 body: Such damage, loss, or Injury as does not flow directly and immediately from
   the act of the party, but only from some of the consequences or results of such

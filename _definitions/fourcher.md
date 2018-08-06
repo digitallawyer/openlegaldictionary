@@ -1,5 +1,6 @@
 ---
 title: Fourcher
+letter: F
 permalink: "/definitions/fourcher.html"
 body: Fr. To fork. This was a method of delaying an action anciently re-sorted to
   by defendants wben two of them were Joined in the suit. Instead of appear-ing together,

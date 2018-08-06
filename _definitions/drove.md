@@ -1,5 +1,6 @@
 ---
 title: Drove
+letter: D
 permalink: "/definitions/drove.html"
 body: A number of animals collected and driven together in a body; a flock or herd
   of cattle in process of heing driven; indefinite as to number, but Including at

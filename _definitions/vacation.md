@@ -1,5 +1,6 @@
 ---
 title: Vacation
+letter: V
 permalink: "/definitions/vacation.html"
 body: That period of time between the end of one term of court and the beginning of
   another. See Von Schmidt v. widber, 99 Cal. 511, 34 Pac. 109; Conkling v. Ridgely,

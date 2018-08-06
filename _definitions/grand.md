@@ -1,5 +1,6 @@
 ---
 title: Grand
+letter: G
 permalink: "/definitions/grand.html"
 body: As to grand “Assize,” “Bill of Sale," “Cape,” “Distress,” “Jury," “Larceny,"
   and “Serjeanty,” see those titles

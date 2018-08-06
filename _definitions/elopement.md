@@ -1,5 +1,6 @@
 ---
 title: Elopement
+letter: E
 permalink: "/definitions/elopement.html"
 body: The act of a wife who voluntarily deserts her husband to cohabit with another
   man. 2 Bl. Comm. 130. To constitute an elopement, the wife must not only leave the

@@ -1,5 +1,6 @@
 ---
 title: Ornest
+letter: O
 permalink: "/definitions/ornest.html"
 body: In old English law. The trial by battle, which does not seem to have been usual
   in England before the time of the Conqueror, though originating in the klng-donis

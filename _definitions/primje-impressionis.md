@@ -1,5 +1,6 @@
 ---
 title: Primje Impressionis
+letter: P
 permalink: "/definitions/primje-impressionis.html"
 body: A case prime impreaatonte (ot the first Impression) is a case of a new kind,
   to which no established principle of law or precedent directly applies, and whlch

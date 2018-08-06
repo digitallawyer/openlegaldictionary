@@ -1,5 +1,6 @@
 ---
 title: Amparo
+letter: A
 permalink: "/definitions/amparo.html"
 body: In Spanish-American law. A document issued to a claimant of land as a protection
   to him, until a survey can be ordered, and the title of possession issued by an

@@ -1,5 +1,6 @@
 ---
 title: Ouster
+letter: O
 permalink: "/definitions/ouster.html"
 body: In practice. A putting out; dispossession; amotion of possession. A spe-cies
   of injuries to things real, by which the wrong-doer gains actual occupation of the

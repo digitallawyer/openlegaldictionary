@@ -1,5 +1,6 @@
 ---
 title: Blue Laws
+letter: B
 permalink: "/definitions/blue-laws.html"
 body: A supposititious code of severe laws for the regulation of religious and personal
   conduct in the colonies of Connecticut and New Haven; hence any rigid Sunday laws

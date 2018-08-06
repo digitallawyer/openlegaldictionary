@@ -1,5 +1,6 @@
 ---
 title: Dives
+letter: D
 permalink: "/definitions/dives.html"
 body: Iu the practlce of the English chancery division, “dives costs” are costs on
   the ordinary scale, as opposed to the costs formerly allowed to a successful pauper

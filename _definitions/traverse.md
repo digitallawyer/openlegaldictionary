@@ -1,5 +1,6 @@
 ---
 title: Traverse
+letter: T
 permalink: "/definitions/traverse.html"
 body: In the language of plead-ing, a traverse slgnifies a denial. Thus; where a defendant
   denies any materlal allegation of fact in the plaintiff’s declaration, he is said

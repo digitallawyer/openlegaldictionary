@@ -1,5 +1,6 @@
 ---
 title: Indefinite Payment
+letter: I
 permalink: "/definitions/indefinite-payment.html"
 body: In Scotch law. Payment without specification. In-definite payment is where a
   debtor, owing several debts to one creditor, makes a pay-ment to the creditor, without

@@ -1,5 +1,6 @@
 ---
 title: Pray In Aid
+letter: P
 permalink: "/definitions/pray-in-aid.html"
 body: In old English practice. To call upon for assistance. In real actions, the tenant
   might pray in aid or call for assistance of another, to help him to plead, because

@@ -1,5 +1,6 @@
 ---
 title: Newspaper
+letter: N
 permalink: "/definitions/newspaper.html"
 body: According to the usage of the commercial world, a newsimper is defined to be
   a publlcation in numbers, con-slstlng commonly of single sheets, and published at

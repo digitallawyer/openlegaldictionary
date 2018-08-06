@@ -1,5 +1,6 @@
 ---
 title: Organized County
+letter: O
 permalink: "/definitions/organized-county.html"
 body: A county which has its lawful officers, legal maehin-ery, and means for carrying
   out the powers and performing the duties pertaining to it as a quasi municipal corporation.

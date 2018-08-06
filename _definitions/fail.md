@@ -1,5 +1,6 @@
 ---
 title: Fail
+letter: F
 permalink: "/definitions/fail.html"
 body: 1. The difference between “fall” and “refuse” is that the latter involves an
   act of the will, while the former may be an act of Inevitable necessity. Taylor

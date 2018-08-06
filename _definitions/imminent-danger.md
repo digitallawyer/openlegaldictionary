@@ -1,5 +1,6 @@
 ---
 title: Imminent Danger
+letter: I
 permalink: "/definitions/imminent-danger.html"
 body: In relation to homlclde in self-defense, this term means immediate danger, such
   as must be instantly met, such as cannot be guarded against by calling for the assistance

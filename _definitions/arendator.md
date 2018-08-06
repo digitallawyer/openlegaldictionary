@@ -1,5 +1,6 @@
 ---
 title: Arendator
+letter: A
 permalink: "/definitions/arendator.html"
 body: A farmer or renter; in some provinces of Russia, one who farms the public rents
   or revenues; a “crown arenda-tor" is one who rents an estate belonging to the crown

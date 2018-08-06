@@ -1,5 +1,6 @@
 ---
 title: Keyage
+letter: K
 permalink: "/definitions/keyage.html"
 body: A toll paid for loading and unloading merchandise at a key or wharf. Rowan v.
   Portland, 8 B. Mon. (Ky.) 253

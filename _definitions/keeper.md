@@ -1,5 +1,6 @@
 ---
 title: Keeper
+letter: K
 permalink: "/definitions/keeper.html"
 body: A custodian, manager, or su-perlntendent; one who has the care, cus-tody, or
   management of any thing or place. Schultz v. State, 32 ohlo St. 281; State v. Rozum,

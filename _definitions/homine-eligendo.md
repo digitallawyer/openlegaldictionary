@@ -1,5 +1,6 @@
 ---
 title: Homine Eligendo
+letter: H
 permalink: "/definitions/homine-eligendo.html"
 body: In old English law. A writ directed to a corporation, re-qulring the members
   to make choice of a man to keep one part of the seal appointed for statutes merchant,

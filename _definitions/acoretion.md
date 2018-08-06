@@ -1,5 +1,6 @@
 ---
 title: Acoretion
+letter: A
 permalink: "/definitions/acoretion.html"
 body: 'The act of growing to a thing; usually applled to the gradual and Imperceptible
   accumulation of land by nat-ural causes, as out of the Bea or a river. Accretion

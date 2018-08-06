@@ -1,5 +1,6 @@
 ---
 title: Armed
+letter: A
 permalink: "/definitions/armed.html"
 body: A vessel is “armed” when she is fitted with a full armament for fighting purposes.
   She may be equipped for warlike purposes, without being “armed.” By “arm-ed” it

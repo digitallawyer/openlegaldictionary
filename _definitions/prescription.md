@@ -1,5 +1,6 @@
 ---
 title: Prescription
+letter: P
 permalink: "/definitions/prescription.html"
 body: A mode of acqulring title to incorporeal hereditaments grounded on the fact
   of immemorial or long-continued enjoyment. See Lucas v. Turnpike Co., 36 W. Va.

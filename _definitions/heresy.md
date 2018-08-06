@@ -1,5 +1,6 @@
 ---
 title: Heresy
+letter: H
 permalink: "/definitions/heresy.html"
 body: In English law. An offense against religion, consisting not in a total de-nlal
   of Christianity, but of some of its essen-tlal doctrines, publicly and obstinately

@@ -1,5 +1,6 @@
 ---
 title: Representative
+letter: R
 permalink: "/definitions/representative.html"
 body: Representation le the act of one person representing or stand* ing in the place
   of another; and he who so represents or stands in the place of another is termed

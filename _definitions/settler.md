@@ -1,5 +1,6 @@
 ---
 title: Settler
+letter: S
 permalink: "/definitions/settler.html"
 body: A person who, for the purpose of acquiring a pre-emption right, has gone upon
   the land in question, and is actu-ally resident there. See Hume v. Gracy, 86 Tex.

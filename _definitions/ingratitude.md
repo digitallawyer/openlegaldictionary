@@ -1,5 +1,6 @@
 ---
 title: Ingratitude
+letter: I
 permalink: "/definitions/ingratitude.html"
 body: In Roman law, in-gratitude was accounted a sufficient cause for revoking a gift
   or recalling the liberty of a freedman. Such is also the law of France, wlth respect

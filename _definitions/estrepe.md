@@ -1,5 +1,6 @@
 ---
 title: Estrepe
+letter: E
 permalink: "/definitions/estrepe.html"
 body: To strip; to despoil; to lay waste; to commit waste upon an estate, as by cutting
   down trees, removing buildings, etc. To injure the value of a reversionary interest

@@ -1,5 +1,6 @@
 ---
 title: Emend A
+letter: E
 permalink: "/definitions/emend-a.html"
 body: Amends; something given in reparation for a trespass; or, in old Saxon times,
   in compensation for an injury or crime. Spelman

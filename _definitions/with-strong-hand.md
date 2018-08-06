@@ -1,5 +1,6 @@
 ---
 title: With Strong Hand
+letter: W
 permalink: "/definitions/with-strong-hand.html"
 body: In pleadlng. A technical phrase Indispensable in describ-ing a forcible entry
   in an indictment. No other word or circumlocution will answer the same purpose.

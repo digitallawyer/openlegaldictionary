@@ -1,5 +1,6 @@
 ---
 title: Rebuttal
+letter: R
 permalink: "/definitions/rebuttal.html"
 body: The introduction of rebut-ting evidence; the stage of a trial at which such
   evidence may be introduced; also the rebutting evidence ltself. Lux v. Haggin, 60

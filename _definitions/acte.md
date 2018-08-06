@@ -1,5 +1,6 @@
 ---
 title: Acte
+letter: A
 permalink: "/definitions/acte.html"
 body: In French law, denotes a docu* ment, or formal, solemn writing, embodying a
   legal attestation that something has been done, corresponding to one sense or use

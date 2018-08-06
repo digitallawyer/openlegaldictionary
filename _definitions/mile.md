@@ -1,5 +1,6 @@
 ---
 title: Mile
+letter: M
 permalink: "/definitions/mile.html"
 body: A measure of length or distance, containing 8 furlongs, or 1,760 yards, or 5,280
   feet This is the measure of an ordl-nary< or statute mile; but the nautical or geographical

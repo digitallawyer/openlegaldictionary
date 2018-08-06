@@ -1,5 +1,6 @@
 ---
 title: De Cursu
+letter: D
 permalink: "/definitions/de-cursu.html"
 body: of course. The usual, necessary, and formal proceedings in an action are said
   to be de cursu; as distinguished from summary proceedings, or such as are incidental

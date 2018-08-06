@@ -1,5 +1,6 @@
 ---
 title: Decretals
+letter: D
 permalink: "/definitions/decretals.html"
 body: In ecclesiastical law. Letters of the pope, written at the suit or Instance
   of one or more persons, determining some point br question in ecclesiastical law,

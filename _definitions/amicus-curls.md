@@ -1,5 +1,6 @@
 ---
 title: Amicus Curls
+letter: A
 permalink: "/definitions/amicus-curls.html"
 body: Lat A friend of the court A by-stander (usually a counsel-lor) who Interposes
   and volunteers lnforma-tion upon some matter of law in regard to which the judge

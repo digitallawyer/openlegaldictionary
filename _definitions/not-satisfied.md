@@ -1,5 +1,6 @@
 ---
 title: Not Satisfied
+letter: N
 permalink: "/definitions/not-satisfied.html"
 body: A return sometimes made by sheriffs or constables to a writ of execution; but
   it is not a technical formula, and is condemned by the courts as ambigu-ous and

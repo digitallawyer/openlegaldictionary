@@ -1,5 +1,6 @@
 ---
 title: Hyfotheca
+letter: H
 permalink: "/definitions/hyfotheca.html"
 body: “Hypotheca” was a term of the Roman law, and denoted a pledge or mortgage. As
   distinguished from the term “pignus" in the same law, it denoted a mortgage, whether

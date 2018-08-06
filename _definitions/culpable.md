@@ -1,5 +1,6 @@
 ---
 title: Culpable
+letter: C
 permalink: "/definitions/culpable.html"
 body: Blnmable; censurable; In-volving tiie breach of a legal duty or the commission
   of a fault. The term is not nec-.essarily equivalent to “criminal,” for, in pres-ent

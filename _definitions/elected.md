@@ -1,5 +1,6 @@
 ---
 title: Elected
+letter: E
 permalink: "/definitions/elected.html"
 body: The word “elected,” in its ordinary signification, carries with it the idea
   of a vote, generally popular, sometimes more restricted, and cannot be held the

@@ -1,5 +1,6 @@
 ---
 title: Contusion
+letter: C
 permalink: "/definitions/contusion.html"
 body: In medical jurisprudence. A bruise; an Injury to any external part of the body
   by the lmpact of a fall or the blow of a blunt instrument, without laceration of

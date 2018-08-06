@@ -1,5 +1,6 @@
 ---
 title: De Retorno Habendo
+letter: D
 permalink: "/definitions/de-retorno-habendo.html"
 body: For hav-ing a return; to have a return. A term ap-plied to the judgment for
   the defendant in an action of replevin, awarding him a re-turn of the goods replevied;

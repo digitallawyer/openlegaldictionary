@@ -1,5 +1,6 @@
 ---
 title: Lodger
+letter: L
 permalink: "/definitions/lodger.html"
 body: one who occupies hired apnrt-ments iu another’s house; a tenant of part of another’s
   house

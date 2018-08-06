@@ -1,5 +1,6 @@
 ---
 title: Flying Switch
+letter: F
 permalink: "/definitions/flying-switch.html"
 body: In railroading, a flying switch is made by uncoupling the cars from the engine
   while in motion, and throw-ing the cars onto the side track, by turning the switch,

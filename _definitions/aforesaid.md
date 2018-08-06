@@ -1,5 +1,6 @@
 ---
 title: Aforesaid
+letter: A
 permalink: "/definitions/aforesaid.html"
 body: Before, or already said, mentioned, or recited; premtsed. Plowd. 67. Foreaaid
   is used in Scotch law

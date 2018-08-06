@@ -1,5 +1,6 @@
 ---
 title: Adjust
+letter: A
 permalink: "/definitions/adjust.html"
 body: To bring to proper relations; to settle; to determine and apportion an uinount
   due. Flaherty v. Insurance Co., 20 App. Div. 275, 46 N. Y. Supp. 934; Miller v.

@@ -1,5 +1,6 @@
 ---
 title: Alieni Juris
+letter: A
 permalink: "/definitions/alieni-juris.html"
 body: Lat Under the control, or subject to the authority, of another person; e. g.,
   an infant who is under the au-thority of his father or guardian; a wife under the

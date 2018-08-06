@@ -1,5 +1,6 @@
 ---
 title: Adrift
+letter: A
 permalink: "/definitions/adrift.html"
 body: Sea-weed, between high and low wnter-mnrk, which lias not been deposlt-ed on
   tbe shore, nnd which during flood-tide is moved by each rising and receding wave,

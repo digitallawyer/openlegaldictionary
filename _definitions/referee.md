@@ -1,5 +1,6 @@
 ---
 title: Referee
+letter: R
 permalink: "/definitions/referee.html"
 body: In practice. A person to whom a cause pending in a conrt is referred hy the
   court, to take testimony, hear the par-ties, and report thereon to the court See

@@ -1,5 +1,6 @@
 ---
 title: Stillicidium
+letter: S
 permalink: "/definitions/stillicidium.html"
 body: Lat Tn the civll law. The drip of water from the eaves of a honse. The servitnde
   stillicidii consists in the right to have the water drip from one’s eaves upon the

@@ -1,5 +1,6 @@
 ---
 title: Alluvion
+letter: A
 permalink: "/definitions/alluvion.html"
 body: That increase of the earth on a shore or bank of a river, or to the shore of
   the sea, by the force of the water, as by a current or by waves, which is so gradual

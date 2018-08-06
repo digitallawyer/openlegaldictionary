@@ -1,5 +1,6 @@
 ---
 title: Objection
+letter: O
 permalink: "/definitions/objection.html"
 body: The act of a party who objects to some matter or proceeding in the course of
   a trial, (see object, v.:) or an argu-ment or reason urged by bim in support of

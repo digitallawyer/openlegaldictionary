@@ -1,5 +1,6 @@
 ---
 title: Symbolsography
+letter: S
 permalink: "/definitions/symbolsography.html"
 body: The art or cunning rightly to form and make written iustru-ments. It is either
   judicial or extrajudicial; the latter being wholly occupied with such instruments

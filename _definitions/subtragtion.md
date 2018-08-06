@@ -1,5 +1,6 @@
 ---
 title: Subtragtion
+letter: S
 permalink: "/definitions/subtragtion.html"
 body: 'The offense of wlth-holdlng or withdrawing from another man what by law he
   is entitled to. There are various descriptions of this offense, of which the principal

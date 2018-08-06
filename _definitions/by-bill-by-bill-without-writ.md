@@ -1,5 +1,6 @@
 ---
 title: By Bill, By Bill Without Writ
+letter: B
 permalink: "/definitions/by-bill-by-bill-without-writ.html"
 body: In practice. Terms anciently used to des-ignate actions commenced by original
   bill, as distinguished from those commenced by original writ, and applied in modern

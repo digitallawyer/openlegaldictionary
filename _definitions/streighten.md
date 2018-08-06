@@ -1,5 +1,6 @@
 ---
 title: Streighten
+letter: S
 permalink: "/definitions/streighten.html"
 body: In the old books. To narrow or restrict. “The habendum should not atreighten
   the devise.” 1 Leon. 58

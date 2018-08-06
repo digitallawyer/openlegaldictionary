@@ -1,5 +1,6 @@
 ---
 title: Best Evidence
+letter: B
 permalink: "/definitions/best-evidence.html"
 body: Primary evidence, as distinguished from secondary; original, as distinguished
   from substitutionary; the best and highest evidence of which the na-ture of the

@@ -1,5 +1,6 @@
 ---
 title: Associate
+letter: A
 permalink: "/definitions/associate.html"
 body: An officer in each of the English courts of common law, appointed by the chief
   judge of the court, and holding his office during good behavior, whose duties were

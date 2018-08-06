@@ -1,5 +1,6 @@
 ---
 title: Purpart
+letter: P
 permalink: "/definitions/purpart.html"
 body: A share; a part in a division ; that part of an estate, formerly held In common,
   which is by partition allotted to any one of the parties. The word was an-ciently

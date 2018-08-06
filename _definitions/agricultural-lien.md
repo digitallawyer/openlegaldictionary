@@ -1,5 +1,6 @@
 ---
 title: Agricultural Lien
+letter: A
 permalink: "/definitions/agricultural-lien.html"
 body: A statutory lien in some states to secure money or sup-plies advanced to an
   agriculturist to be ex-pended or employed in the making of a crop and attaching

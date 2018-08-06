@@ -1,5 +1,6 @@
 ---
 title: Execute
+letter: E
 permalink: "/definitions/execute.html"
 body: To finlsh, accomplish, make complete, fulfill. To perform; obey the in-j unctions
   of

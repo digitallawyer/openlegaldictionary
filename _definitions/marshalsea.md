@@ -1,5 +1,6 @@
 ---
 title: Marshalsea
+letter: M
 permalink: "/definitions/marshalsea.html"
 body: In Engllsh law. A prison belonging to the king’s bench. It has now been consolldated
   with others, un-der the name of the “King’s Prison." —Marshalsea, conrt of. The

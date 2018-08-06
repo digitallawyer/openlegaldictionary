@@ -1,5 +1,6 @@
 ---
 title: Abdication
+letter: A
 permalink: "/definitions/abdication.html"
 body: The act of a sovereign in renouncing and relinquishing his government or throne,
   so that either the throne is left entirely vacant, or is filled by a successor appointed

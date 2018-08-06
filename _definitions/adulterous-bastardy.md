@@ -1,5 +1,6 @@
 ---
 title: Adulterous Bastardy
+letter: A
 permalink: "/definitions/adulterous-bastardy.html"
 body: Adul-terous bastards are' those produced by an unlawful connection between two
   persons, who, at the time when the child was con-ceived, were, either of them or

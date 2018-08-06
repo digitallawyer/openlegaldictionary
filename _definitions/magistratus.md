@@ -1,5 +1,6 @@
 ---
 title: Magistratus
+letter: M
 permalink: "/definitions/magistratus.html"
 body: Lat in the clvll law. A magistrate. Calvln. A judlclal officer who had the power
   of hearlng and determin-lng causes, but whose office properly was to lnqulre Into

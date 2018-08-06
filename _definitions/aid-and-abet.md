@@ -1,5 +1,6 @@
 ---
 title: Aid And Abet
+letter: A
 permalink: "/definitions/aid-and-abet.html"
 body: In criminal law. That kind of connection with the commission of a crime which,
   at common law, rendered the person guilty as a principal in the second degree, it

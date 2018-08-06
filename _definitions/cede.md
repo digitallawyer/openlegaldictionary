@@ -1,5 +1,6 @@
 ---
 title: Cede
+letter: C
 permalink: "/definitions/cede.html"
 body: To yield up; to assign; to grant. Generally used to designate the transfer of
   territory from one government to another. Goetz v. Unlted States (C. C.) 103 Fed.

@@ -1,5 +1,6 @@
 ---
 title: Troyer
+letter: T
 permalink: "/definitions/troyer.html"
 body: In common-law practice, the action of trover (or trover and conversion) is a
   species of action on the case, and origl-nally lay for the recovery of damages against

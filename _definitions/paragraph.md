@@ -1,5 +1,6 @@
 ---
 title: Paragraph
+letter: P
 permalink: "/definitions/paragraph.html"
 body: A part or section of a statute, pleading, affidavit, etc., which con-tains one
   article, the sense of which is com-plete. McClellan v. Hein, 56 Neb. 600, 77 N.

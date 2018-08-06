@@ -1,5 +1,6 @@
 ---
 title: Responsible
+letter: R
 permalink: "/definitions/responsible.html"
 body: To say that a person is “responsible” means that he is able to pay a sum for
   which he is or may become liable, or to discharge an obligation which he may be

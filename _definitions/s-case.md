@@ -1,5 +1,6 @@
 ---
 title: S Case
+letter: S
 permalink: "/definitions/s-case.html"
 body: ETT’S CASE. A celebrated decision of the English king's bench, In 1771, (20
   How. St. Tr. 1,) that slavery no longer existed in England in any form, and could

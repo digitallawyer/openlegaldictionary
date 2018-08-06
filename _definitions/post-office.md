@@ -1,5 +1,6 @@
 ---
 title: Post-Office
+letter: P
 permalink: "/definitions/post-office.html"
 body: A bureau or department of government, or under governmental superintendence,
   whose office is to receive, trans-mlt, and deliver letters, papers, and other mall-matter

@@ -1,5 +1,6 @@
 ---
 title: Conseil Judiciaire
+letter: C
 permalink: "/definitions/conseil-judiciaire.html"
 body: In French law. when a person has been subjected to an Interdiction on the ground
   of his insane extravagance, but the interdiction is not ab-solute, but limited only,

@@ -1,5 +1,6 @@
 ---
 title: Decretum Gratiani
+letter: D
 permalink: "/definitions/decretum-gratiani.html"
 body: Grattan's de-cree, or decretum. A collection of eccleslas-tical law in three
   books or parts, made in the year 1151, by Gratian, a Benedictine monk of Bologna,

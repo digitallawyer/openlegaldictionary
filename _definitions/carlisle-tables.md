@@ -1,5 +1,6 @@
 ---
 title: Carlisle Tables
+letter: C
 permalink: "/definitions/carlisle-tables.html"
 body: Life and annuity tables, compiled at Carlisle, England, about 1780. Used by
   actuaries, etc

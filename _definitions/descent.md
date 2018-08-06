@@ -1,5 +1,6 @@
 ---
 title: Descent
+letter: D
 permalink: "/definitions/descent.html"
 body: Heredltary succession. Succession to the ownership of an estate by inheritance,
   or by any act of law, as distinguished from “purchase.” Tltle by descent is the

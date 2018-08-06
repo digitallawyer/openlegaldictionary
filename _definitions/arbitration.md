@@ -1,5 +1,6 @@
 ---
 title: Arbitration
+letter: A
 permalink: "/definitions/arbitration.html"
 body: In practice. The investigation and determination of a matter or matters of difference
   between contending par-ties, by one or more unofficial persons, chos-en by the parties,

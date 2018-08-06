@@ -1,5 +1,6 @@
 ---
 title: Tail
+letter: T
 permalink: "/definitions/tail.html"
 body: Limlted; abridged; reduced; curtailed, as a fee or estate in fee, to a certain
   order of succession, or to certain heirs

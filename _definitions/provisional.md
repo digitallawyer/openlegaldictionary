@@ -1,5 +1,6 @@
 ---
 title: Provisional
+letter: P
 permalink: "/definitions/provisional.html"
 body: Temporary; prelimi nary; tentative; taken or done hy way of precaution or ad
   interim

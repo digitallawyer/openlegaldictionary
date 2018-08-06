@@ -1,5 +1,6 @@
 ---
 title: Sealing Up
+letter: S
 permalink: "/definitions/sealing-up.html"
 body: P. where a party to an ae tion has been ordered to produce a document part of
   which is either irrelevant to the matters in question or is privileged from' production,

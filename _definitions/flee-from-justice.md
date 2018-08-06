@@ -1,5 +1,6 @@
 ---
 title: Flee From Justice
+letter: F
 permalink: "/definitions/flee-from-justice.html"
 body: To leave one’s home, residence, or known place of abode, or to conceal one’s
   self therein, wlth intent, in either case, to avoid detection or punishment for

@@ -1,5 +1,6 @@
 ---
 title: Garnishment
+letter: G
 permalink: "/definitions/garnishment.html"
 body: In the process of attachment. A warning to a person in whose hands the effects
   of another are attached not to pay the money or deliver the property of the defendant

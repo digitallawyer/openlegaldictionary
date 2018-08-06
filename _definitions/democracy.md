@@ -1,5 +1,6 @@
 ---
 title: Democracy
+letter: D
 permalink: "/definitions/democracy.html"
 body: That form of govern-ment in which the sovereign power resides in and is exercised
   by the whole body of free citizens; qs distinguished from a monarchy, aristocracy,

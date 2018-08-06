@@ -1,5 +1,6 @@
 ---
 title: Homologacion
+letter: H
 permalink: "/definitions/homologacion.html"
 body: In Spanish law. The tacit consent and approval inferred by law from the omission
   of the parties, for the space of ten days, to complain of the sen-tences of arbitrators,

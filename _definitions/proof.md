@@ -1,5 +1,6 @@
 ---
 title: Proof
+letter: P
 permalink: "/definitions/proof.html"
 body: Proof, in civil process, is a sufficient reason for the truth of a Juridical
   proposition by which a party seeks either to maintain hls own claim or to defeat

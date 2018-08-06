@@ -1,5 +1,6 @@
 ---
 title: Adpromissor
+letter: A
 permalink: "/definitions/adpromissor.html"
 body: In the civil and Scotch law. A guarantor, surety, or caution-er; a peculiar
   species of fidejussor; one who adds hls own promise to the promise given hy the

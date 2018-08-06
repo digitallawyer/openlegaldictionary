@@ -1,5 +1,6 @@
 ---
 title: Conchjation
+letter: C
 permalink: "/definitions/conchjation.html"
 body: In French law. The formality to which intending litigants are subjected in cases
   brought before the juge de pair. The judge convenes the parties and endeavors to

@@ -1,5 +1,6 @@
 ---
 title: Congeable
+letter: C
 permalink: "/definitions/congeable.html"
 body: L. Fr. Lawful; permissible ; allowable. "Disseisin is properly where a man entereth
   into any lauds or tene-ments where his entry is not congeable, and putteth out him

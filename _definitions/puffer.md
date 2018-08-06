@@ -1,5 +1,6 @@
 ---
 title: Puffer
+letter: P
 permalink: "/definitions/puffer.html"
 body: A person employed by the owner of property which is sold at auction to attend
   the sale and run up the price by making spurious bids. See Peck v. List, 23 W

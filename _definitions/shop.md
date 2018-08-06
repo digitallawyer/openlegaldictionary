@@ -1,5 +1,6 @@
 ---
 title: Shop
+letter: S
 permalink: "/definitions/shop.html"
 body: A building in which goods and merchandise are sold at retail, or where mechanics
   work, and sometimes keep their products for sale. See State v. Morgan, 98 N. C.

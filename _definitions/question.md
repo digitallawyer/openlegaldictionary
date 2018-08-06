@@ -1,5 +1,6 @@
 ---
 title: Question
+letter: Q
 permalink: "/definitions/question.html"
 body: A method of criminal ex-amination heretofore in use in some of the countries
   of continental Europe, consisting of the application of torture to the supposed

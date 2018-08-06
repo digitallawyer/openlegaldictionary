@@ -1,5 +1,6 @@
 ---
 title: Tramp
+letter: T
 permalink: "/definitions/tramp.html"
 body: A strolling beggar; a vagrant or vagabond. See State v. Hogan, 63 ohio St 202,
   58 N. E. 572, 52 L. R. A. 863, 81 Am. SL Rep. 626; Miller v. State, 73 In<L 92;

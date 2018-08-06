@@ -1,5 +1,6 @@
 ---
 title: Lunacy
+letter: L
 permalink: "/definitions/lunacy.html"
 body: 'Lunacy is that condition or habit in which the mind is directed by the will,
   but is wholly or partially misguided or erroneously governed by it; or it is the

@@ -1,5 +1,6 @@
 ---
 title: Capitaneus
+letter: C
 permalink: "/definitions/capitaneus.html"
 body: A tenant in capite. He who held his land or title directly from the king himself.
   A captain; a naval commander

@@ -1,5 +1,6 @@
 ---
 title: Permutatione
+letter: P
 permalink: "/definitions/permutatione.html"
 body: A writ to an ordi-nary, commanding him to admit a clerk to a benefice upon exchange
   made with another. Reg. orig. 307

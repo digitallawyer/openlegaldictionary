@@ -1,5 +1,6 @@
 ---
 title: Predial Servitude
+letter: P
 permalink: "/definitions/predial-servitude-2.html"
 body: A rlght whlch is granted for the advantage of one piece of land over another,
   and which may he exer-dsed by every possessor of the land entitled against every

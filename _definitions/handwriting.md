@@ -1,5 +1,6 @@
 ---
 title: Handwriting
+letter: H
 permalink: "/definitions/handwriting.html"
 body: The chirography of a person; the cast or form of writlng pecul-lar to a person,
   including the size, shape, and style of letters, trlcks of penmanship, nnd whatever

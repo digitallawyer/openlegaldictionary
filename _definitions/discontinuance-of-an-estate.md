@@ -1,5 +1,6 @@
 ---
 title: Discontinuance Of An Estate
+letter: D
 permalink: "/definitions/discontinuance-of-an-estate.html"
 body: The termination or suspension of an estate-tail, in consequence of the act of
   the tenant in tail, in conveying a larger estate in the land than he was by law

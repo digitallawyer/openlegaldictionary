@@ -1,5 +1,6 @@
 ---
 title: Administrative
+letter: A
 permalink: "/definitions/administrative.html"
 body: Pertaining to administration. Particularly, having the char-acter of executive
   or ministerial action. In this sense, administrative functions or acts are distinguished

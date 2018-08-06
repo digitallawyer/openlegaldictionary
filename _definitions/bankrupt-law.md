@@ -1,5 +1,6 @@
 ---
 title: Bankrupt Law
+letter: B
 permalink: "/definitions/bankrupt-law.html"
 body: A law relating to bankrupts and the procedure against them in the courts. A
   law providing a remedy for the creditors of a bankrupt, and for the re-lief and

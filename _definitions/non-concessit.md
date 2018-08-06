@@ -1,5 +1,6 @@
 ---
 title: Non Concessit
+letter: N
 permalink: "/definitions/non-concessit.html"
 body: Lat. He did not grant. The name of a plea denying a grant, which could be made
   only by a stranger

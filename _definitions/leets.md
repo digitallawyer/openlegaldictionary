@@ -1,5 +1,6 @@
 ---
 title: Leets
+letter: L
 permalink: "/definitions/leets.html"
 body: Meetlngs whlch were appointed for the nomiu ation or election of eccleslastlc-al
   officers in Scotland. Cowell

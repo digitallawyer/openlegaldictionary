@@ -1,5 +1,6 @@
 ---
 title: Erigimus
+letter: E
 permalink: "/definitions/erigimus.html"
 body: we erect one of tbe words by which a corporation mny be cre-ated in England
   by the king’s charter. 1 Bl. Comm. 473

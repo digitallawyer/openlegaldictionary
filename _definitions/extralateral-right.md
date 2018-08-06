@@ -1,5 +1,6 @@
 ---
 title: Extralateral Right
+letter: E
 permalink: "/definitions/extralateral-right.html"
 body: In mining law. The right of the owner of a mining claim duly located on tbe
   public domain to follow, and mine, any vein or lode the apex of which lies within

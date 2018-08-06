@@ -1,5 +1,6 @@
 ---
 title: Circumstantial Evidence
+letter: C
 permalink: "/definitions/circumstantial-evidence.html"
 body: Evidence directed to the attending circumstan-ces; evidence which inferentially
   proves the principal fact by establishing a condition of surrounding and limiting

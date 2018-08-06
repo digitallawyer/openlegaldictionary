@@ -1,5 +1,6 @@
 ---
 title: I, A
+letter: I
 permalink: "/definitions/i-a.html"
 body: titutes of Gains. An elementary work of the Roman jurist Gaius; important as
   having formed the foundation of the Institutes of Justinian, (a. v.) These Institutes

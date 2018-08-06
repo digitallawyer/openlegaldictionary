@@ -1,5 +1,6 @@
 ---
 title: Stews
+letter: S
 permalink: "/definitions/stews.html"
 body: Certain brothels anciently per-mitted in England, suppressed by Henry VIII.
   Also, breeding places for tame pheas-ants

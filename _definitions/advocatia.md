@@ -1,5 +1,6 @@
 ---
 title: Advocatia
+letter: A
 permalink: "/definitions/advocatia.html"
 body: In the civil law. The quality, function, privilege, or territorial jurisdiction
   of an advocate

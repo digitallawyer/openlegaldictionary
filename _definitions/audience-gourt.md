@@ -1,5 +1,6 @@
 ---
 title: Audience Gourt
+letter: A
 permalink: "/definitions/audience-gourt.html"
 body: In English law. A court belonging to the Archbishop of Can-terbury, having jurisdiction
   of matters of form only, as the confirmation of bishops, and the. like. This court

@@ -1,5 +1,6 @@
 ---
 title: More Or Less
+letter: M
 permalink: "/definitions/more-or-less.html"
 body: Thls phrase, Inserted in a conveyance of land lmmediately after the statement
   of the quantity of land con-veyed, means that such statement is not to be taken

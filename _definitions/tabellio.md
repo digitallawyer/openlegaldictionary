@@ -1,5 +1,6 @@
 ---
 title: Tabellio
+letter: T
 permalink: "/definitions/tabellio.html"
 body: Lat in Roman law. An officer correspondlng in some respects to a notary. His
   business was to draw legal instruments, (contracts, wills, etc.,) and witness their

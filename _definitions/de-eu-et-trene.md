@@ -1,5 +1,6 @@
 ---
 title: De Eu Et Trene
+letter: D
 permalink: "/definitions/de-eu-et-trene.html"
 body: L. Fr. of water and whlp of three cords. A term applied to a neife, that is,
   a bond woman or female villein, as employed in servile work, and sub-Ject to corporal

@@ -1,5 +1,6 @@
 ---
 title: Gurges
+letter: G
 permalink: "/definitions/gurges.html"
 body: Lat. Properly a whirlpool, but in old English law and conveyanclng, a deep plt
   filled wlth water, distlngulshed from “stagnum,” whlch was a shallow pool or pond.

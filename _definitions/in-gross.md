@@ -1,5 +1,6 @@
 ---
 title: In Gross
+letter: I
 permalink: "/definitions/in-gross.html"
 body: In a large quantity or sura; without division or particulars;' by whole-sale.
   Green v. Taylor, 10 Fed. Cas. No. 1,126

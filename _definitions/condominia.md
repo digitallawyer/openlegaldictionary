@@ -1,5 +1,6 @@
 ---
 title: Condominia
+letter: C
 permalink: "/definitions/condominia.html"
 body: In the clvil law. Co-ownerships or limited ownerships, such as emphyteusis,
   superficies, pignus, hypotheca, ususfructus, usus, and habitatio. These were more

@@ -1,5 +1,6 @@
 ---
 title: Exoneration
+letter: E
 permalink: "/definitions/exoneration.html"
 body: The removal of a bur-den, charge, or duty. Particularly, the act of rellevlng
   a person or estate from a charge or liability by castlng the same upon another person

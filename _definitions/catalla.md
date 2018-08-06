@@ -1,5 +1,6 @@
 ---
 title: Catalla
+letter: C
 permalink: "/definitions/catalla.html"
 body: In old English Law. Chattels. The word among the Normans prlma-rlly signified
   only beasts of husbandry, or, as they are still called, “cattle,” but, in a secondary

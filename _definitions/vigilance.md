@@ -1,5 +1,6 @@
 ---
 title: Vigilance
+letter: V
 permalink: "/definitions/vigilance.html"
 body: watchfulness; precau-tion; a proper degree of actlvity and prompt-ness in pursuing
   one’s rights or guarding them from Infraction, or in making or dis-covering opportunities

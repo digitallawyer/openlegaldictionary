@@ -1,5 +1,6 @@
 ---
 title: Terminus Juris
+letter: T
 permalink: "/definitions/terminus-juris.html"
 body: In Engllsh ecdesl-astical practlce. The tlme of one or two years, allowed by
   law for the determination of appeals. IIalllfax, Clvll Law, b. 3, c. 11. no. 38

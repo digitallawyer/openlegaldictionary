@@ -1,5 +1,6 @@
 ---
 title: Heredad
+letter: H
 permalink: "/definitions/heredad.html"
 body: In Spanlsh law. A piece of land under cultivatlon; a cultivated farm, real estate;
   an inheritance or heirship. —Heredad yaoente. From Lat. “hareditas jacens,” (q.

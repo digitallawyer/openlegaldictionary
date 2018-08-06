@@ -1,5 +1,6 @@
 ---
 title: Ejectione Custodlb
+letter: E
 permalink: "/definitions/ejectione-custodlb.html"
 body: In old Eng-lish law. Ejectment of ward. Thls phrase, which is the Latin equivalent
   for the French "ejectment de garde” was the title of a writ which lay for a guardian

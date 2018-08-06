@@ -1,5 +1,6 @@
 ---
 title: Defendemus
+letter: D
 permalink: "/definitions/defendemus.html"
 body: Lat. A word used iu grants and donations, which binds the donor and his heirs
   to defend the donee, if any one go about to lay any incumbrance on the thing glven

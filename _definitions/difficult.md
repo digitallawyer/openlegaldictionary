@@ -1,5 +1,6 @@
 ---
 title: Difficult
+letter: D
 permalink: "/definitions/difficult.html"
 body: For the meaning of the phrase “difficult and extraordinary cnse,” as used in
   New York statutes and practlce, see Standard Trust Co. v. New York, etc., R. Co.,

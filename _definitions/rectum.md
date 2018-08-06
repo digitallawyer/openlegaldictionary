@@ -1,5 +1,6 @@
 ---
 title: Rectum
+letter: R
 permalink: "/definitions/rectum.html"
 body: UM. Lat Right;. also a trial or accusation. Bract; CowelL ^-Reotnm ease. To
   be right in court.—Reotnm rogam. To ask for right; to petition, the judge to do

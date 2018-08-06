@@ -1,5 +1,6 @@
 ---
 title: Incumber
+letter: I
 permalink: "/definitions/incumber.html"
 body: ER. To Incumber land is to piake it subject to a charge or liability; e. g.,
   by mortgaging it Incumbrances include not only mortgages and other voluntary charges,

@@ -1,5 +1,6 @@
 ---
 title: Florentine Pandects
+letter: F
 permalink: "/definitions/florentine-pandects.html"
 body: A copy of the Pandects discovered .accidentally about the year 1137, at Amalphl,
   a town in Italy, near Salerno. From Amalphl, the copy fonnd its way to Pisa, and,

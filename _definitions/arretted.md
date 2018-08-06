@@ -1,5 +1,6 @@
 ---
 title: Arretted
+letter: A
 permalink: "/definitions/arretted.html"
 body: 'Charged; charging. The convening a person charged with a crime be-fore a judge.
   Staundef. I’. C. 45. It is used sometimes for imputed or laid unto: as no folly

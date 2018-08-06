@@ -1,5 +1,6 @@
 ---
 title: Speculation
+letter: S
 permalink: "/definitions/speculation.html"
 body: In commerce. The act or practice of buying lands, goods, etc., in expectation
   of a rise of price and of selling them at an advance, as distinguished from a regular

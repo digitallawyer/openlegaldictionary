@@ -1,5 +1,6 @@
 ---
 title: Ballot
+letter: B
 permalink: "/definitions/ballot.html"
 body: In the law of elections. A slip of paper bearing the names of the offices to
   be filled at the particular election and the-names of the candidates for whom the

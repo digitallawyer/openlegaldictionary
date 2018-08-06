@@ -1,5 +1,6 @@
 ---
 title: Cranage
+letter: C
 permalink: "/definitions/cranage.html"
 body: A liberty to use a craue for drawing up goods and wares of burden from ships
   and vessels, at any creek of the sea, or wharf, unto the land, and to make a. profit

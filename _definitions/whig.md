@@ -1,5 +1,6 @@
 ---
 title: Whig
+letter: W
 permalink: "/definitions/whig.html"
 body: Thls name was applied in Scot-land, A. D. 1648, to those violent Covenant-era
   who opposed the Duke of Hamilton’s ln-vasion of England in order to restore Charles

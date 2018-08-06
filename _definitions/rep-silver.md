@@ -1,5 +1,6 @@
 ---
 title: Rep-Silver
+letter: R
 permalink: "/definitions/rep-silver.html"
 body: In old records. Money paid by servile tenants for exemption from the customary
   duty of reaping tor the lord. CowelL

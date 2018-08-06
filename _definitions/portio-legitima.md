@@ -1,5 +1,6 @@
 ---
 title: Portio Legitima
+letter: P
 permalink: "/definitions/portio-legitima.html"
 body: Lat in the civil law. The birthright portion; that portion of an lnherltance
   to which a given heir is entitled, and of which he cannot be deprived by the will

@@ -1,5 +1,6 @@
 ---
 title: Ante
+letter: A
 permalink: "/definitions/ante.html"
 body: Lat. Before. Usually employed in old pleadings as expressive of time, as pr#
   (before) was of place, aud coram (before) of person. Townsh. Pl. 22

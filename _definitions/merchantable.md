@@ -1,5 +1,6 @@
 ---
 title: Merchantable
+letter: M
 permalink: "/definitions/merchantable.html"
 body: Fit for sale; vendible In market; of a quality such as will brlng the ordinary
   market price. Riggs v. Armstrong, 23 W. Va. 773; Pacific Coast Elevator Co. v. Bravinder,

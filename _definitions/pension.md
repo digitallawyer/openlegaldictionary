@@ -1,5 +1,6 @@
 ---
 title: Pension
+letter: P
 permalink: "/definitions/pension.html"
 body: A stated allowance out o' the public treasury granted by government to an individual,
   or to hls representatlves, for hls valuable services to the country, or in compensation

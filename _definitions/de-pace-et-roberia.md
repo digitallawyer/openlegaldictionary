@@ -1,5 +1,6 @@
 ---
 title: De Pace Et Roberia
+letter: D
 permalink: "/definitions/de-pace-et-roberia.html"
 body: of peace [breach of peace] and robbery, one of tbe kinds of criminal appeal
   formerly in use in England, nnd which lay in cases of robbery and breach of the

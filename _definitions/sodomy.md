@@ -1,5 +1,6 @@
 ---
 title: Sodomy
+letter: S
 permalink: "/definitions/sodomy.html"
 body: Iu criminal law. The crlme of unnatural sexual connectlon; so named from its
   prevalence in Sodom. See Genesis, xix

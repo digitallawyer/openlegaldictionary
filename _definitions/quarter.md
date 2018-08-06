@@ -1,5 +1,6 @@
 ---
 title: Quarter
+letter: Q
 permalink: "/definitions/quarter.html"
 body: The fourth part of any-thlng. especlally of a year. Also a length of four inches.
   In England, a measure of corn, generally reckoned at eight bushels, though subject

@@ -1,5 +1,6 @@
 ---
 title: Exigenter
+letter: E
 permalink: "/definitions/exigenter.html"
 body: An officer of the Eng-lish court of common pleas, whose duty it was to make
   out the exigents and proclamations in the process of outlawry. Cowell. Abolished

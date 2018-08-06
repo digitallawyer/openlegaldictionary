@@ -1,5 +1,6 @@
 ---
 title: Testimony
+letter: T
 permalink: "/definitions/testimony.html"
 body: Evidence of a witness; evidence given by a witness, under oath or affirmation;
   as distinguished from evidence derived from writings, and other sources

@@ -1,5 +1,6 @@
 ---
 title: Nomen
+letter: N
 permalink: "/definitions/nomen.html"
 body: Lat. In the civil law. A name; the name, style, or designation of a person.
   Properly, the name showing to what gens or tribe he belonged, as distinguished from

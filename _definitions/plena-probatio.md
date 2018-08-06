@@ -1,5 +1,6 @@
 ---
 title: Plena Probatio
+letter: P
 permalink: "/definitions/plena-probatio.html"
 body: In the civU law. A term used to signify full proof, (that is, proof by two witnesses,)
   in contradistinction to semi-plena probatio, w'hich is only a pre-sumption. Cod.

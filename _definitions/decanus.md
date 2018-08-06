@@ -1,5 +1,6 @@
 ---
 title: Decanus
+letter: D
 permalink: "/definitions/decanus.html"
 body: In eoolesiastioal and old European law. An officer having supervision over ten;
   a dean. A term applied not only to ecclesiastical, but to civil and mlll-tary, officers.

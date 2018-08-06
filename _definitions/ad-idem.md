@@ -1,5 +1,6 @@
 ---
 title: Ad Idem
+letter: A
 permalink: "/definitions/ad-idem.html"
 body: To the same point, or effect Ad idem facit, it makes to or goes to establish
   the same point Bract, fol. 27b

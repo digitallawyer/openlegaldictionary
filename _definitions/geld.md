@@ -1,5 +1,6 @@
 ---
 title: Geld
+letter: G
 permalink: "/definitions/geld.html"
 body: In Saxon law. Money or tribute. A mulct, compensation, value, price. Angeld
   was the single valne of a thing; twigeld, doable value, etc. So, weregeld was the

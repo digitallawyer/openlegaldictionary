@@ -1,5 +1,6 @@
 ---
 title: Coterie
+letter: C
 permalink: "/definitions/coterie.html"
 body: A fashionable association, or a knot of persons forming a particular circle.
   The origin of the term was purely comrner-dal, signifying an association, in which

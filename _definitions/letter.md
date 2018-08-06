@@ -1,5 +1,6 @@
 ---
 title: Letter
+letter: L
 permalink: "/definitions/letter.html"
 body: I. one of the arbitrary marks or characters constituting the alphabet, and used
   in written language as the representatives of so'unds or articulations of the human

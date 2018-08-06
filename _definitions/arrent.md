@@ -1,5 +1,6 @@
 ---
 title: Arrent
+letter: A
 permalink: "/definitions/arrent.html"
 body: In old English law. To let or demise at a fixed rent. Particularly used with
   reference to the public domain or crown lands; as where a license was granted to

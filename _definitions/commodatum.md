@@ -1,5 +1,6 @@
 ---
 title: Commodatum
+letter: C
 permalink: "/definitions/commodatum.html"
 body: 'In the civil law. He who lends to another a thing for a definite time, to be
   enjoyed and used under certain conditions, without any pay or reward, is called

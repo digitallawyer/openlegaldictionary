@@ -1,5 +1,6 @@
 ---
 title: Candidate
+letter: C
 permalink: "/definitions/candidate.html"
 body: A person who offers himself, or is presented by others, to be elected to an
   office. Derived from the Latin Candidas, (white,) because in Rome it was the custom

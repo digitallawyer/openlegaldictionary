@@ -1,5 +1,6 @@
 ---
 title: Proxy
+letter: P
 permalink: "/definitions/proxy.html"
 body: A person who iB substituted or deputed by another to represent him and act for
   hlm. particularly In some meeting or public body. Also the instrument containing

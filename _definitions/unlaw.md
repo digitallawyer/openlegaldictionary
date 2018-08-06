@@ -1,5 +1,6 @@
 ---
 title: Unlaw
+letter: U
 permalink: "/definitions/unlaw.html"
 body: In Scotch law. A witness was . formerly inadmissible who was not worth the king's
   unlaw; i. e., the sum of £10 Soots, then the common fine for absence from court

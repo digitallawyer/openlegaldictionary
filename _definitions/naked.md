@@ -1,5 +1,6 @@
 ---
 title: Naked
+letter: N
 permalink: "/definitions/naked.html"
 body: As a term of jurisprudence, this word is equivalent to hare, wanting in nec-essary
   conditions, lncomplete, as a naked con-tract, (niifluni pactum,) i. e., a contract

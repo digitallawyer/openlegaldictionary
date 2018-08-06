@@ -1,5 +1,6 @@
 ---
 title: Assisa
+letter: A
 permalink: "/definitions/assisa.html"
 body: In old Engllsh and Scotch law. An assise; a kind of jury or inquest; a writ;
   a sitting of a court; au ordinance or statute; a fixed or specific time, number,

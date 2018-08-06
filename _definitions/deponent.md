@@ -1,5 +1,6 @@
 ---
 title: Deponent
+letter: D
 permalink: "/definitions/deponent.html"
 body: In practice, one who de-poses (that Is, testifies or makes oath in writing)
   to the truth of certain facts; one who gives under oath testimony which is reduced

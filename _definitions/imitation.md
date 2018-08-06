@@ -1,5 +1,6 @@
 ---
 title: Imitation
+letter: I
 permalink: "/definitions/imitation.html"
 body: The maklng of one thlng In the similitude or likeness of another; as, counterfeit
   coin is said to be made “ln lmita-tlon" of the genuine. An imitation of a trade-mark

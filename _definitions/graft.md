@@ -1,5 +1,6 @@
 ---
 title: Graft
+letter: G
 permalink: "/definitions/graft.html"
 body: A term used in equity to deuote the confirmation, by relation back, of the right
   of a mortgagee in premises to which, at the making of the mortgage, the mortgag-or

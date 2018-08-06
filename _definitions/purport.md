@@ -1,5 +1,6 @@
 ---
 title: Purport
+letter: P
 permalink: "/definitions/purport.html"
 body: Meaning; import; substan-tlal meaning; substance. The “purport” of an instrument
   means the substance of it as it appears on the face of the instrument, and is distinguished

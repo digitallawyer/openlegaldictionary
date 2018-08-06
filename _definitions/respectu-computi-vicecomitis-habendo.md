@@ -1,5 +1,6 @@
 ---
 title: Respectu Computi Vicecomitis Habendo
+letter: R
 permalink: "/definitions/respectu-computi-vicecomitis-habendo.html"
 body: A wrlt for respiting a sheriff’s account addressed to the treasurer and harons
   of the exchequer. Reg. orlg. 139t

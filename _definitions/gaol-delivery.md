@@ -1,5 +1,6 @@
 ---
 title: Gaol Delivery
+letter: G
 permalink: "/definitions/gaol-delivery.html"
 body: In criminal law. The delivery or clearing of a gaol of the prls-oners confined
   therein, by trying them

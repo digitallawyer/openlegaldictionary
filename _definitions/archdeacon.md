@@ -1,5 +1,6 @@
 ---
 title: Archdeacon
+letter: A
 permalink: "/definitions/archdeacon.html"
 body: A dignitary of the Anglicau church who has ecclesiastical juris-diction immediately
   subordinate to that of the bishop, either throughout the whole of his diocese or

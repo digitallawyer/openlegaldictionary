@@ -1,5 +1,6 @@
 ---
 title: Trebellanic Portion
+letter: T
 permalink: "/definitions/trebellanic-portion.html"
 body: "“In conse-quence of this article, the trebellanlc portion of the civil law—that
   is to say, the portion ot the property of the testator which the insti-tuted heir

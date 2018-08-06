@@ -1,5 +1,6 @@
 ---
 title: Holy Orders
+letter: H
 permalink: "/definitions/holy-orders.html"
 body: In eccleslastlcal law. The orders of bishops, (Including archbish-ops,) priests,
   and deacons in the Church of England. The Roman canonists had the or-ders of bishop,

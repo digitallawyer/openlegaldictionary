@@ -1,5 +1,6 @@
 ---
 title: Conusant
+letter: C
 permalink: "/definitions/conusant.html"
 body: Cognizant; acquainted with; having actual knowledge; as, if a party knowing
   of an agreement in which he has an Interest makes no objection to It, he is said

@@ -1,5 +1,6 @@
 ---
 title: Festuoa
+letter: F
 permalink: "/definitions/festuoa.html"
 body: or FESTUOA. In old English law. Tbe rod or wand, by the dellvery of whlch the
   property in land was formerly transferred in making a feoffment. Called, also, "baculum,"

@@ -1,5 +1,6 @@
 ---
 title: Refund
+letter: R
 permalink: "/definitions/refund.html"
 body: To repay or restore; to return money bad by one party of another See-Rackliff
   v. Greenbush, 93 Me. 99, 44 Atl. 375; Maynard v. Mechanics’ Nat Bank, 1 Brewst.

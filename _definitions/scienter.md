@@ -1,5 +1,6 @@
 ---
 title: Scienter
+letter: S
 permalink: "/definitions/scienter.html"
 body: LaL Knowingly. The term is used iu pleadiug to signify an allega-tion (or that
   part of the declaration or in-dictment which contains it) setting out the defendant’s

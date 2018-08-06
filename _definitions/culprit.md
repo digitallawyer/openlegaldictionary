@@ -1,5 +1,6 @@
 ---
 title: Culprit
+letter: C
 permalink: "/definitions/culprit.html"
 body: A person who is indicted for a criminal offense, but not yet convicted. It is
   not, however, a technical term of the law; and in its vernacular usage it seems

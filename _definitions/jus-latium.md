@@ -1,5 +1,6 @@
 ---
 title: Jus Latium
+letter: J
 permalink: "/definitions/jus-latium.html"
 body: In Roman law. A rule of law applicable to magistrates in Latium. It was either
   majus Latium or minus Latium,—the majus Latium raising to the dignity of Roman citizen

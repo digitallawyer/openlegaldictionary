@@ -1,5 +1,6 @@
 ---
 title: Factor
+letter: F
 permalink: "/definitions/factor.html"
 body: 1. A commercial agent, em-ployed by a principal to sell merchandise consigned
   to him for that purpose, for and in behalf of the principal, but usually in his

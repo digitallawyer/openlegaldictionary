@@ -1,5 +1,6 @@
 ---
 title: Amitinus
+letter: A
 permalink: "/definitions/amitinus.html"
 body: The child of a brother or sister; a cousin; one who has the same grandfather,
   but different father and mother. Calvin

@@ -1,5 +1,6 @@
 ---
 title: Treasurer
+letter: T
 permalink: "/definitions/treasurer.html"
 body: An oflicer of a public or private corporation, company, or government, charged
   with the receipt, custody, and disbursement of its moneys or funds. See State v.

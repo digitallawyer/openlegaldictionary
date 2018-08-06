@@ -1,5 +1,6 @@
 ---
 title: Forathe
+letter: F
 permalink: "/definitions/forathe.html"
 body: In forest law. one who could make oath, i. e., bear wltness for an-other. Cowell;
   Spelman

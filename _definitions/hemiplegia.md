@@ -1,5 +1,6 @@
 ---
 title: Hemiplegia
+letter: H
 permalink: "/definitions/hemiplegia.html"
 body: In medical Juriepru-dence. Unilateral paralysis; paralysis of one slde of the
   body, commonly due to a lesion in the brain, but sometimes originating from the

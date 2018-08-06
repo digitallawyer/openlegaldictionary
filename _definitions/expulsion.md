@@ -1,5 +1,6 @@
 ---
 title: Expulsion
+letter: E
 permalink: "/definitions/expulsion.html"
 body: A putting or driving out The act of depriving a member of a corpora-tion, legislative
   body, assembly, society, com-mercial organization, etc., of his member-ship in the

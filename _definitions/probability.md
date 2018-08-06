@@ -1,5 +1,6 @@
 ---
 title: Probability
+letter: P
 permalink: "/definitions/probability.html"
 body: Likelihood; appearance of truth; verisimilitude. The likelf-hood of a proposition
   or hypothesis being true, from its conformity to reason or experience, or from superior

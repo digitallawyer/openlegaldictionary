@@ -1,5 +1,6 @@
 ---
 title: Marc-Banco
+letter: M
 permalink: "/definitions/marc-banco.html"
 body: The name of a piece of money formerly coined at Hamburg. Its value was thirty-five
   cents

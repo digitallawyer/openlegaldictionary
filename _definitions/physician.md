@@ -1,5 +1,6 @@
 ---
 title: Physician
+letter: P
 permalink: "/definitions/physician.html"
 body: A practitioner of medi-dne; a person duly authorized or licensed to treat diseases;
   one lawfully engaged in the practice of medicine, without reference to any particular

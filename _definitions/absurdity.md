@@ -1,5 +1,6 @@
 ---
 title: Absurdity
+letter: A
 permalink: "/definitions/absurdity.html"
 body: In statutory construction, an “absurdity" is not only that which is physically
   impossible, but also that whlch is morally so; and that is to be regarded as morally

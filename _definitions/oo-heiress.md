@@ -1,5 +1,6 @@
 ---
 title: Oo-Heiress
+letter: O
 permalink: "/definitions/oo-heiress.html"
 body: A joint heiress. A woman who has an equal share of an inherit-ance with another
   woman

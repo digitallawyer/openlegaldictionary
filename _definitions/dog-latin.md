@@ -1,5 +1,6 @@
 ---
 title: Dog-Latin
+letter: D
 permalink: "/definitions/dog-latin.html"
 body: The Latin of illiterate persons; Latin words put together on the English grammatical
   system

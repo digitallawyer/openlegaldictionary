@@ -1,5 +1,6 @@
 ---
 title: Clausum Fregit
+letter: C
 permalink: "/definitions/clausum-fregit.html"
 body: L. Lat (He broke the close.) In pleadiug and practice. Tech-nical words formerly
   used In certaln actions

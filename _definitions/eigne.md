@@ -1,5 +1,6 @@
 ---
 title: Eigne
+letter: E
 permalink: "/definitions/eigne.html"
 body: L. Fr. Eldest; eldest-born. The term is of common occurrence in the old books.
   Thus, bastard eigne means an illegit-imate son whose parents afterwards marry and

@@ -1,5 +1,6 @@
 ---
 title: Academy
+letter: A
 permalink: "/definitions/academy.html"
 body: In its original meaning, an association formed for mutual improvement, or for
   the advancement of science or art; in later use, a species of educational institution,

@@ -1,5 +1,6 @@
 ---
 title: Facies
+letter: F
 permalink: "/definitions/facies.html"
 body: Lat The face or countenance; the exterlor appearance or view; hence, con-templatlon
   or study of a thlng on lts external or apparent slde. Thus, prima facie menus at

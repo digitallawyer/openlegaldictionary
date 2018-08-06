@@ -1,5 +1,6 @@
 ---
 title: Legalis Homo
+letter: L
 permalink: "/definitions/legalis-homo.html"
 body: Lat. A lawful man; a person who stands rectus in curia; a person not outlawed,
   excommunicated, or in-famous. It occurs in the phrase, “probi et legates homines”

@@ -1,5 +1,6 @@
 ---
 title: Holograph
+letter: H
 permalink: "/definitions/holograph.html"
 body: A will or deed written entirely by the testator or grantor with hls own hand.
   Estate of Billings, 64 Cal. 427, 1 Pac. 701; Harrison v. weatherby, 180 111. 418,

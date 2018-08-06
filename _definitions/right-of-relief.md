@@ -1,5 +1,6 @@
 ---
 title: Right Of Relief
+letter: R
 permalink: "/definitions/right-of-relief.html"
 body: In Scotch law. The right of a cautioner (surety) to demand reimbursement from
   the principal debtor when he has been compelled to pay the debt 1 BeU, Comm. 347

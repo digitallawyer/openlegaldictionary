@@ -1,5 +1,6 @@
 ---
 title: Defendant
+letter: D
 permalink: "/definitions/defendant.html"
 body: The person defending or denylng; the party agalnst whom rellef or recovery is
   sought in an action or suit. Jew-ett Car Co. v. Kirkpatrick Const. Co. (C. C.) 107

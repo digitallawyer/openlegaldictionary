@@ -1,5 +1,6 @@
 ---
 title: Apothecary
+letter: A
 permalink: "/definitions/apothecary.html"
 body: Any person who keeps a shop or building where medicines are corn-pounded or
   prepared according to prescriptions of physicians, or where medicines ure sold.

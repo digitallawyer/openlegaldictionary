@@ -1,5 +1,6 @@
 ---
 title: Ademptio
+letter: A
 permalink: "/definitions/ademptio.html"
 body: Lat in the civil law. A revocation of a legacy; an ademption. Inst 2, 21, pr.
   where it was expressly transfer-red from one person to another. It was called translatio.

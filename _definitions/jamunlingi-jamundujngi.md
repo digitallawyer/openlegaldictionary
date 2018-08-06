@@ -1,5 +1,6 @@
 ---
 title: Jamunlingi, Jamundujngi
+letter: J
 permalink: "/definitions/jamunlingi-jamundujngi.html"
 body: Freemen who delivered themselves and property to the protectlon of a more powerful
   person, in order to avoid military service and other burdens. Spelman. Also a spe*

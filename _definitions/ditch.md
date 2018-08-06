@@ -1,5 +1,6 @@
 ---
 title: Ditch
+letter: D
 permalink: "/definitions/ditch.html"
 body: The words “ditch” aud “drain” have no technical or exact meaning. They both
   may mean a hollow space in the grouud, natural or artificial, where water is 'collected

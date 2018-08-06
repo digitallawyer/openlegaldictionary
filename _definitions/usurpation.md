@@ -1,5 +1,6 @@
 ---
 title: Usurpation
+letter: U
 permalink: "/definitions/usurpation.html"
 body: Torts. The unlawful assumption of tlie use of property which be-longB to another;
   an interruption or the dls-turbing a man in his right and possession. Tomlins

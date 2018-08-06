@@ -1,5 +1,6 @@
 ---
 title: Habit
+letter: H
 permalink: "/definitions/habit.html"
 body: A disposition or condition of the body or mind acquired by custom or a usual
   repetitlon of the same act or function. Knlckerbocker L. Ins. Co. v. Foley, 105

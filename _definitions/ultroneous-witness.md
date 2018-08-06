@@ -1,5 +1,6 @@
 ---
 title: Ultroneous Witness
+letter: U
 permalink: "/definitions/ultroneous-witness.html"
 body: In Scotch law. A volunteer witness; one who appears to give evidence without
   being called upon. 2 Alls. Crim. Pr. 393

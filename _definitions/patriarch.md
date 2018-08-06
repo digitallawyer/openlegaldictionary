@@ -1,5 +1,6 @@
 ---
 title: Patriarch
+letter: P
 permalink: "/definitions/patriarch.html"
 body: The chief bishop over several countries or provinces, as an arch-bishop is of
   several dioceses. Godb. 20

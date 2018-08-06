@@ -1,5 +1,6 @@
 ---
 title: Valuation
+letter: V
 permalink: "/definitions/valuation.html"
 body: The act of ascertaining the worth of a thing. Tbe estimated worth of a thing.
   See Lowenstein v. Schiffer, 38 App. Dlv. 178, 56 N. Y. Supp. 674; State v. Central

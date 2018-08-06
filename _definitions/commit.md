@@ -1,5 +1,6 @@
 ---
 title: Commit
+letter: C
 permalink: "/definitions/commit.html"
 body: In practice. To send a per-son to prison by virtue of a lawful authori-ty, for
   any crime or contempt, or to an asy-lum, workhouse, reformatory, or the like, hy

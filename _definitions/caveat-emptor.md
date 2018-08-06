@@ -1,5 +1,6 @@
 ---
 title: Caveat Emptor
+letter: C
 permalink: "/definitions/caveat-emptor.html"
 body: OR. Let the buyer take care. This maxim summarizes the rule that the purchaser
   of an article must examine, judge, and test it for himself, being bound to discover

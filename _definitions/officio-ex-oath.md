@@ -1,5 +1,6 @@
 ---
 title: Officio, Ex, Oath
+letter: O
 permalink: "/definitions/officio-ex-oath.html"
 body: An oath where-by a person may be obliged to make any pre-sentment of any crime
   or offense, or to con-fess or accuse himself of any criminal matter or thlng whereby

@@ -1,5 +1,6 @@
 ---
 title: Reinsurance
+letter: R
 permalink: "/definitions/reinsurance.html"
 body: A contract of rein-sura nee is one by which an Insurer procures a third person
   to insure him against ioss or liability hy reason of such original Insurance. Civ.

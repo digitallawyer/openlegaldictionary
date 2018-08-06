@@ -1,5 +1,6 @@
 ---
 title: Tabuls
+letter: T
 permalink: "/definitions/tabuls.html"
 body: Lat in Roman law. Ta-bles. writings of any kind used as evidences of a transaction.
   Brissonius

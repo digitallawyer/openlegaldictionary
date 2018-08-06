@@ -1,5 +1,6 @@
 ---
 title: Telephone
+letter: T
 permalink: "/definitions/telephone.html"
 body: In a general sense, the name “telephone" applies to any instrument or apparatus
   which transmits sound beyond the limits of ordinary audibility. But, since the recent

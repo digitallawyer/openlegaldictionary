@@ -1,5 +1,6 @@
 ---
 title: Mustizo
+letter: M
 permalink: "/definitions/mustizo.html"
 body: A name given to the Issue of an Indian and a negro. Miller v. Dawson, Dud. (S.
   C.) 174

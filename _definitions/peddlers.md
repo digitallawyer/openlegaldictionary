@@ -1,5 +1,6 @@
 ---
 title: Peddlers
+letter: P
 permalink: "/definitions/peddlers.html"
 body: Itinerant traders; persons who sell small wares, which they carry with them
   in traveling about from place to place. In re wilson, 19 D. C. 341, 12 L. R. A.

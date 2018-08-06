@@ -1,5 +1,6 @@
 ---
 title: De Vi Laica Amovenda
+letter: D
 permalink: "/definitions/de-vi-laica-amovenda.html"
 body: writ of (or for) removing lay force. A writ whlch lay where two parsons contended
   for a church, and one of them entered Into it with a great number of laymen, and

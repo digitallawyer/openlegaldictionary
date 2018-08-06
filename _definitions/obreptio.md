@@ -1,5 +1,6 @@
 ---
 title: Obreptio
+letter: O
 permalink: "/definitions/obreptio.html"
 body: Lat. The obtaining a thing by fraud or surprise. Calvin. Called, in Scotch law,
   “obreption

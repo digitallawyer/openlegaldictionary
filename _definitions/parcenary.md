@@ -1,5 +1,6 @@
 ---
 title: Parcenary
+letter: P
 permalink: "/definitions/parcenary.html"
 body: The state or condition of holding title to lands Jolutly by parceners or co-parceners,
   before a division of the joint estate.

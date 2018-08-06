@@ -1,5 +1,6 @@
 ---
 title: Frilingi
+letter: F
 permalink: "/definitions/frilingi.html"
 body: Persons of free descent, or freemen born; the middle class of persons among
   the Saxons. Spelman

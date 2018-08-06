@@ -1,5 +1,6 @@
 ---
 title: Irresistible Impulse
+letter: I
 permalink: "/definitions/irresistible-impulse.html"
 body: Used chief-ly in criminal law, this term means an im-pulse to commit an unlawful
   or crimlnal act which cannot be resisted or overcome by the patient because Insanity

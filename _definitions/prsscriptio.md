@@ -1,5 +1,6 @@
 ---
 title: Prsscriptio
+letter: P
 permalink: "/definitions/prsscriptio.html"
 body: Lat. In the dvil law. That mode of acquisition whereby one be-comes proprietor
   of a thlng on the ground that he has for a long time possessed it as hls own; prescription.

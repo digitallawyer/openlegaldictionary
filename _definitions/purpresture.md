@@ -1,5 +1,6 @@
 ---
 title: Purpresture
+letter: P
 permalink: "/definitions/purpresture.html"
 body: A purpresture may be defined as an inclosure by a private party of a part of
   that which belongs to and ought to be open and free to the enjoyment of the public

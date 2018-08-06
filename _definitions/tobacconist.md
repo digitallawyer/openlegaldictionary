@@ -1,5 +1,6 @@
 ---
 title: Tobacconist
+letter: T
 permalink: "/definitions/tobacconist.html"
 body: Any person, firm, or corporatlon whose business it is to manufacture cigars,
   snuff, or tobacco in any form. Act of congress of July 13, 1866, | 9; 14 St. at

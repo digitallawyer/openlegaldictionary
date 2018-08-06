@@ -1,5 +1,6 @@
 ---
 title: Bannus
+letter: B
 permalink: "/definitions/bannus.html"
 body: In old English law. A proclamation. Bannus regis; the king’s proc-lamation,
   made by the voice of a herald, for-bidding all present at the trial by combat to

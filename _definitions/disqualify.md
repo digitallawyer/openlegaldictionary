@@ -1,5 +1,6 @@
 ---
 title: Disqualify
+letter: D
 permalink: "/definitions/disqualify.html"
 body: To divest or deprive of qualifications; to incapacitate; to render ineligible
   or unfit; as, in speaking of the “disqualification” of a judge by reason of his

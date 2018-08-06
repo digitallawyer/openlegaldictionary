@@ -1,5 +1,6 @@
 ---
 title: Recaption
+letter: R
 permalink: "/definitions/recaption.html"
 body: A retaking, or taking back. A species of remedy by the mere act of the party
   injured, (otherwise termed “re-prisal,”) which happens wben any one has deprived

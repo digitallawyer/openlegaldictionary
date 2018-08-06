@@ -1,5 +1,6 @@
 ---
 title: Ex Facto
+letter: E
 permalink: "/definitions/ex-facto.html"
 body: From or in consequence of a fact or action; actually. Usually applied to an
   unlawful or tortious act as the founda-tion of a title, etc. Sometimes used as equiv-alent

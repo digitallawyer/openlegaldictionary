@@ -1,5 +1,6 @@
 ---
 title: Memorandum
+letter: M
 permalink: "/definitions/memorandum.html"
 body: Lat. To he remembered ; he it remembered. A formal word with which the body
   of a record in the court of king’s beuch ancientiy commenced. Townsh. Pl. 486 ;

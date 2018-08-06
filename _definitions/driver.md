@@ -1,5 +1,6 @@
 ---
 title: Driver
+letter: D
 permalink: "/definitions/driver.html"
 body: one employed in conducting a coach, carriage, wagon, or other vehicle, with
   hones, mules, or other animals, or a bicycle, tricycle, or motor car, though not

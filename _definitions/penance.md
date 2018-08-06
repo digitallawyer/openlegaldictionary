@@ -1,5 +1,6 @@
 ---
 title: Penance
+letter: P
 permalink: "/definitions/penance.html"
 body: In eccleslastlcal law. An ecclesiastical punishment inflicted by an ecclesiastical
   court for some spiritual offense. Ayl. Par. 420

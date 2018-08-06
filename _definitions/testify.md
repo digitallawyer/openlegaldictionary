@@ -1,5 +1,6 @@
 ---
 title: Testify
+letter: T
 permalink: "/definitions/testify.html"
 body: To bear wituess; to give evidence as a witness; to make a solemn declaration,
   under oath or affirmation, in a judicial inquiry, for the purpose of establishing

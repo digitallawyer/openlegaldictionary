@@ -1,5 +1,6 @@
 ---
 title: Further
+letter: F
 permalink: "/definitions/further.html"
 body: In most of Its uses in law, this term means additlonal, though occas-sionully
   it may mean any, future, or othe-. See London & S. F. Bank v. Parrott, 125 Cal.

@@ -1,5 +1,6 @@
 ---
 title: Flagellat
+letter: F
 permalink: "/definitions/flagellat.html"
 body: whipped; scourged. An entry on old Scotch records. 1 Pitc. Crim. Tr. pt. 1,
   p. 7

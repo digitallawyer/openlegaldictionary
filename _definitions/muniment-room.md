@@ -1,5 +1,6 @@
 ---
 title: Muniment-Room
+letter: M
 permalink: "/definitions/muniment-room.html"
 body: E, or MUNIMENT-ROOM. A house or room of strength, in cathedrals, collegiate
   churches, castles, col-leges, public bulldings, etc., purposely made for keeping

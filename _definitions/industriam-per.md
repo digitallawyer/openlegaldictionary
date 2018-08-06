@@ -1,5 +1,6 @@
 ---
 title: Industriam, Per
+letter: I
 permalink: "/definitions/industriam-per.html"
 body: Lat. A qualified property in animals ferae natura may be ac-quired per industriam,
   i. e., by a man’s reclaiming and making them tame by art, in-dustry, and education;

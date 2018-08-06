@@ -1,5 +1,6 @@
 ---
 title: Indictment
+letter: I
 permalink: "/definitions/indictment.html"
 body: An indictment is an ac-cusation in writing found and presented by a grand jury,
   legally convoked and sworn, to the court in which it is impaneled, charg-ing that

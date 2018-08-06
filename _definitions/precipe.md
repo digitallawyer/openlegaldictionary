@@ -1,5 +1,6 @@
 ---
 title: Precipe
+letter: P
 permalink: "/definitions/precipe.html"
 body: Another form of the name of the written instructions to the clerk of court;
   also spelled “praecipe,” (q. v

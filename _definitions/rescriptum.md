@@ -1,5 +1,6 @@
 ---
 title: Rescriptum
+letter: R
 permalink: "/definitions/rescriptum.html"
 body: Lat in the civil law. A species of imperial constitution, in the form of an
   answer to some application or petition; a rescript Calvin

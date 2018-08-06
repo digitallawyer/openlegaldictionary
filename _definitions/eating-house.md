@@ -1,5 +1,6 @@
 ---
 title: Eating-House
+letter: E
 permalink: "/definitions/eating-house.html"
 body: Any place where food or refreshments of any kind, not including spirits, wines,
   ale, beer, or other malt liquors, are provided for casual visitors, and sold for

@@ -1,5 +1,6 @@
 ---
 title: Contratallia
+letter: C
 permalink: "/definitions/contratallia.html"
 body: In old English law. A counter-tally. A term used in the ex-chequer. Mem. In
   Scacc. M. 26 Edw. L

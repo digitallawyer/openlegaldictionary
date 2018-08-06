@@ -1,5 +1,6 @@
 ---
 title: Faldage
+letter: F
 permalink: "/definitions/faldage.html"
 body: The privilege which anclent-ly several lords reserved to themselves of set-tiDg
   up folds for sheep in any fields within their manors, the better to manure them,

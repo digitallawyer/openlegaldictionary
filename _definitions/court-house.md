@@ -1,5 +1,6 @@
 ---
 title: Court-House
+letter: C
 permalink: "/definitions/court-house.html"
 body: The building occupied for the public sessions of a court, with its va-rious
   offices. The term may be used of a place temporarily occupied for the sessions of

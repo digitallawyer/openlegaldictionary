@@ -1,5 +1,6 @@
 ---
 title: Solvency
+letter: S
 permalink: "/definitions/solvency.html"
 body: Ability to pay; present ability to pay; ability to pay one’s debts out of one’s
   own present means. Marsh ir. Dunckel. 25 Hun (N. Y.) 169; osborne v. Smith (C. C.)

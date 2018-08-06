@@ -1,5 +1,6 @@
 ---
 title: Coprolalia
+letter: C
 permalink: "/definitions/coprolalia.html"
 body: In medical jurisprudence. A disposition or habit of using ob-scene language,
   developing unexpectedly in the particular individual or contrary to his previous

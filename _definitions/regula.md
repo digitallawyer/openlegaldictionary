@@ -1,5 +1,6 @@
 ---
 title: Regula
+letter: R
 permalink: "/definitions/regula.html"
 body: Lat. In practice. A rule. Regula generalia, a general rule; a standing rule
   or order of a court Frequently ab-brevlated, “Reg. Gen.”

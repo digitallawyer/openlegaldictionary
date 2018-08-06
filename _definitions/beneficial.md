@@ -1,5 +1,6 @@
 ---
 title: Beneficial
+letter: B
 permalink: "/definitions/beneficial.html"
 body: Tending to the benefit of a person; yielding a profit, advantage, or benefit;
   enjoying or entitled to a benefit or profit. Iu re Importers’ Exchange (Com. Pl.)

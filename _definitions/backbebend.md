@@ -1,5 +1,6 @@
 ---
 title: Backbebend
+letter: B
 permalink: "/definitions/backbebend.html"
 body: Sax. Bearing upon the back or about the person. Applied to a thief taken with
   the stolen property in his Immediate possession. Bract. 1, 3, tr. 2, c. 32. Used

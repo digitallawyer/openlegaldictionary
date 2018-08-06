@@ -1,5 +1,6 @@
 ---
 title: Magisterial
+letter: M
 permalink: "/definitions/magisterial.html"
 body: Relating or pertaining to the character, office, powers, or duties of a magistrate
   or of the magistracy

@@ -1,5 +1,6 @@
 ---
 title: Vend
+letter: V
 permalink: "/definitions/vend.html"
 body: To sell; to transfer the owner-shlp of an article to another for a price in
   money. The term is not commonly applled to the sale of real estate, although Its

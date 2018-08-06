@@ -1,5 +1,6 @@
 ---
 title: Identitate Nominis
+letter: I
 permalink: "/definitions/identitate-nominis.html"
 body: In English law. An ancient writ (now obsolete) which lay for one taken and arrested
   in any per-sonal action, and committed to prison, by mistake for another man of

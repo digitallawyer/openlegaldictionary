@@ -1,5 +1,6 @@
 ---
 title: Mummification
+letter: M
 permalink: "/definitions/mummification.html"
 body: In medical jurisprudence. A term applied to the complete drying up of the body.
   It is the result « burial in a dry, hot soil, or the exposure of the body to a continuously

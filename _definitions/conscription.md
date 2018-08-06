@@ -1,5 +1,6 @@
 ---
 title: Conscription
+letter: C
 permalink: "/definitions/conscription.html"
 body: Draftlng Into the milltary service of the state; compulsory service falling
   upon all male subjects even-ly, within or under certain specified ages. Kneedler

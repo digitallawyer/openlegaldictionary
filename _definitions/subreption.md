@@ -1,5 +1,6 @@
 ---
 title: Subreption
+letter: S
 permalink: "/definitions/subreption.html"
 body: In French law. The fraud committed to obtain a pardon, title, or grant, by alleging
   facts contrary to truth

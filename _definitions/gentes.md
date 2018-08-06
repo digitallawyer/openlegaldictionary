@@ -1,5 +1,6 @@
 ---
 title: Gentes
+letter: G
 permalink: "/definitions/gentes.html"
 body: Lat People. Contra omnes gentes, against all people. Bract, fol. 37b. words
   used In the clause of warranty in old deeds

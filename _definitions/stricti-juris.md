@@ -1,5 +1,6 @@
 ---
 title: Stricti Juris
+letter: S
 permalink: "/definitions/stricti-juris.html"
 body: LaL of strict right or law; according to strict law. "A license is a thing stricti
   juris; a privilege which a man does not possess by his own right, but it is conceded

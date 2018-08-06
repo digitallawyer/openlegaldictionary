@@ -1,5 +1,6 @@
 ---
 title: Period
+letter: P
 permalink: "/definitions/period.html"
 body: Any point, space, or division of time. “The word ‘period’ has its etymological
   meaning, but it also has a distinctive signification, according to the subject with

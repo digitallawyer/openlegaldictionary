@@ -1,5 +1,6 @@
 ---
 title: Slough
+letter: S
 permalink: "/definitions/slough.html"
 body: An arm of a river, flowing be-tween islands and the main-land, and sep-arating
   the islands from one another. Sloughs have not the breadth of the main river, nor

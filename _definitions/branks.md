@@ -1,5 +1,6 @@
 ---
 title: Branks
+letter: B
 permalink: "/definitions/branks.html"
 body: An instrument formerly used io some parts of England for the correction of scolds;
   a scolding bridle. It inclosed the

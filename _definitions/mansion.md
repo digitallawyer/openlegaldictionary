@@ -1,5 +1,6 @@
 ---
 title: Mansion
+letter: M
 permalink: "/definitions/mansion.html"
 body: A dwelling-house or place of residence, Including its appurtenant out-buildings.
   Thompson v. People, 3 Parker, Cr. R. (N, Y.) 214; Comm. v. Pennock, 3 Serg. & R.

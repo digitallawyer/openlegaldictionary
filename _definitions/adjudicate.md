@@ -1,5 +1,6 @@
 ---
 title: Adjudicate
+letter: A
 permalink: "/definitions/adjudicate.html"
 body: To settle In the exercise of judicial authority. To determine finally. Synonymous
   with adjudge iu its strictest sense. United States v. Irwin, 127 U. S. 125, 8 Sup.

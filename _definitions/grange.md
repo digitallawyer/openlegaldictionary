@@ -1,5 +1,6 @@
 ---
 title: Grange
+letter: G
 permalink: "/definitions/grange.html"
 body: A farm furnished with barns, granaries, stables, and all conveniences for husbandry.
   Co. Litt 5a

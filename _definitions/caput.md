@@ -1,5 +1,6 @@
 ---
 title: Caput
+letter: C
 permalink: "/definitions/caput.html"
 body: A head; the head of a person; the whole person; the life of a person; one’s
   personality; status; civil condition

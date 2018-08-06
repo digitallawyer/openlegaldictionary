@@ -1,5 +1,6 @@
 ---
 title: Sever
+letter: S
 permalink: "/definitions/sever.html"
 body: To separate, when two joint defendants separate in the action, each piead-ing
   separately his own plea and relying up-on a separate defense, they are said to sever

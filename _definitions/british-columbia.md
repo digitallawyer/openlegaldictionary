@@ -1,5 +1,6 @@
 ---
 title: British Columbia
+letter: B
 permalink: "/definitions/british-columbia.html"
 body: The territory on the north-west coast of North America, oqce known by the designation
   of “New Cnl-edonia.” Its government is provided for by 21 & 22 Vict. c. 99. Vancouver

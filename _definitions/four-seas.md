@@ -1,5 +1,6 @@
 ---
 title: Four Seas
+letter: F
 permalink: "/definitions/four-seas.html"
 body: The seas surrounding Eng-land. These were divided into the western, including
   the Scotch aud Irish; the North? ern, or North sea; the Eastern, being the German

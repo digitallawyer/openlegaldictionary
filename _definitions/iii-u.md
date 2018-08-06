@@ -1,5 +1,6 @@
 ---
 title: Iii U
+letter: I
 permalink: "/definitions/iii-u.html"
 body: official. Partly official or authorized. Having color of officiaf right.—official
   aot. one done by an oflicer in nis official capacity nnder color and by virtue of

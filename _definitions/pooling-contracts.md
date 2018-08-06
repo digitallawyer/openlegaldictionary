@@ -1,5 +1,6 @@
 ---
 title: Pooling Contracts
+letter: P
 permalink: "/definitions/pooling-contracts.html"
 body: Agreements between competing railways for a dlvision of the traffic, or for
   a pro rata distribution of thelr earnings united Into a “pool” or common fund. 15

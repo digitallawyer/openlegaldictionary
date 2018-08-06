@@ -1,5 +1,6 @@
 ---
 title: Traistis
+letter: T
 permalink: "/definitions/traistis.html"
 body: In old Scotch law. A roll containing the particular dittay taken up upon malefactors,
   which, with the porteous, is delivered by the justice clerk to the coroner, to the

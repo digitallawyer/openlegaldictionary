@@ -1,5 +1,6 @@
 ---
 title: Bruise
+letter: B
 permalink: "/definitions/bruise.html"
 body: In medical jurisprudence. A contusion; an injury upou the flesh of a per-son
   with a bluut or heavy instrument, with-out solution of coutinulty, or without break-ing

@@ -1,5 +1,6 @@
 ---
 title: Rhodian Laws
+letter: R
 permalink: "/definitions/rhodian-laws.html"
 body: This, the earliest code or collection of maritime laws, was formulated by the
   people of the island of Rhodes, who, by thelr commercial prosperity and the superiority

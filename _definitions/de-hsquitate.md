@@ -1,5 +1,6 @@
 ---
 title: De Hsquitate
+letter: D
 permalink: "/definitions/de-hsquitate.html"
 body: In equity. De jure stricto, nihil possum vendicare, de aquitate tumen, nullo
   mo'do hoc obtinet; in strict law, I can claim nothing, bnt in equity this by no

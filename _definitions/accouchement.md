@@ -1,5 +1,6 @@
 ---
 title: Accouchement
+letter: A
 permalink: "/definitions/accouchement.html"
 body: The act of a woman in giving birth to a child. The fact of the accouchement,
   proved by a person who wns present, is often important evidence in prov-ing the

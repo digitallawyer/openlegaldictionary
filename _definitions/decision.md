@@ -1,5 +1,6 @@
 ---
 title: Decision
+letter: D
 permalink: "/definitions/decision.html"
 body: In practice. A judgment or decree pronounced by a court in settlement of a controversy
   submitted to it and

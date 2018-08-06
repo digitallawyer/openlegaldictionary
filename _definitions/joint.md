@@ -1,5 +1,6 @@
 ---
 title: Joint
+letter: J
 permalink: "/definitions/joint.html"
 body: United; combined; undivided; done by or against two or more unitedly; shared
   by or between two or more

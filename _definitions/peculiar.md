@@ -1,5 +1,6 @@
 ---
 title: Peculiar
+letter: P
 permalink: "/definitions/peculiar.html"
 body: In ecclesiastical law. A parish or church in Englnnd whlch has jurls-dlctlon
   of ecclesiastical matters within itself, and lndependent of the ordinary, and is

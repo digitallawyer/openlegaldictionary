@@ -1,5 +1,6 @@
 ---
 title: Lessor
+letter: L
 permalink: "/definitions/lessor.html"
 body: He who grants a lease. Viter-bo v. Friedlander. 120 U. S. 707, 7 Sup. Ct. 962,
   30 L. Ed. 776

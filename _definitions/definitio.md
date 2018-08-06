@@ -1,5 +1,6 @@
 ---
 title: Definitio
+letter: D
 permalink: "/definitions/definitio.html"
 body: 'Lat. Definition, or, more strictly, limiting or bounding; as in the max-im
   of the civil law: Omnis definitio pericu-losa est, parum est enim ut non subverti

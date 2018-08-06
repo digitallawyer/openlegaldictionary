@@ -1,5 +1,6 @@
 ---
 title: Consignment
+letter: C
 permalink: "/definitions/consignment.html"
 body: The act or process of consigning goods; the transportation of goods consigned;
   an article or collection of goods sent to a factor to be sold; goods or property

@@ -1,5 +1,6 @@
 ---
 title: Barmote Courts
+letter: B
 permalink: "/definitions/barmote-courts.html"
 body: Courts held in certain mining districts belongiug to the Duchy of Lancaster,
   for regulation of the mines, and for deciding questions of title and other matters

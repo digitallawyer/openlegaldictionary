@@ -1,5 +1,6 @@
 ---
 title: Abavunoulus
+letter: A
 permalink: "/definitions/abavunoulus.html"
 body: Lat in the civil law. A great-great-grandmother's brother, (abaviae /rater.)
   Inst 3, 6, 6; Dig. 38, 10, 3. Called avunculus maximus. Id. 38,10,10, 17. Call-ed

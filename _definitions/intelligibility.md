@@ -1,5 +1,6 @@
 ---
 title: Intelligibility
+letter: I
 permalink: "/definitions/intelligibility.html"
 body: In pleading. The statement of matters of fact dlrectly (excluding the necessity
   of inference or argu-ment to arrive at the meaning) and in such appropriate terms,

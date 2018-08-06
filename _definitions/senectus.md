@@ -1,5 +1,6 @@
 ---
 title: Senectus
+letter: S
 permalink: "/definitions/senectus.html"
 body: Lat old age. In the Ro-man law, the period of senectus, which re-lieved one
   from the charge of public office, was officially reckoned as beginning with the

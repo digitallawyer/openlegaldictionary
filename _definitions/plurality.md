@@ -1,5 +1,6 @@
 ---
 title: Plurality
+letter: P
 permalink: "/definitions/plurality.html"
 body: In the law of elections. The excess of the votes cast for one candl-date over
   those cast for any other, where there are only two candidates, be who receives the

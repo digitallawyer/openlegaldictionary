@@ -1,5 +1,6 @@
 ---
 title: Primogeniture
+letter: P
 permalink: "/definitions/primogeniture.html"
 body: 1. The state of being the first-born among several children of the same parents;
   seniority by birth in the same family

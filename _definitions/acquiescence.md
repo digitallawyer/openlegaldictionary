@@ -1,5 +1,6 @@
 ---
 title: Acquiescence
+letter: A
 permalink: "/definitions/acquiescence.html"
 body: Acquiescence is where a person who knows that he is entitled to im-peach a transaction
   or enforce a right neg-lects to do so for such a length of time that, under the

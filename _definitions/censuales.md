@@ -1,5 +1,6 @@
 ---
 title: Censuales
+letter: C
 permalink: "/definitions/censuales.html"
 body: ln old European law. A species of oblati or voluntary slaves of churches or
   monasteries; those who, to pro-cure tbe protection of the church, hound themselves

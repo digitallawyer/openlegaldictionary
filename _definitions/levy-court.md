@@ -1,5 +1,6 @@
 ---
 title: Levy Court
+letter: L
 permalink: "/definitions/levy-court.html"
 body: A court formerly ex-isting in the District of Columbia. It was a body charged
   with the administration of the ministerial and financial duties of wash lug-ton

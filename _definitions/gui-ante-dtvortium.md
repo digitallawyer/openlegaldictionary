@@ -1,5 +1,6 @@
 ---
 title: Gui Ante Dtvortium
+letter: G
 permalink: "/definitions/gui-ante-dtvortium.html"
 body: "(To whom before divorce.) A writ for' a woman di-vorced from her hnsband to
   recover her lands and tenements which she had in fee-simple or in tail, or for life,

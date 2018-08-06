@@ -1,5 +1,6 @@
 ---
 title: Ex Visitatione Dei
+letter: E
 permalink: "/definitions/ex-visitatione-dei.html"
 body: By the dls-pensation of God; by reason of physical in-capacity. Anciently, when
   a prisoner, belng arraigned, stood silent lnstead of pleading, a jury was Impaneled

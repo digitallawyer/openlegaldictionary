@@ -1,5 +1,6 @@
 ---
 title: In Pais
+letter: I
 permalink: "/definitions/in-pais.html"
 body: This phrase, as applied to a legal transaction, primarily means that it has
   taken place without legal proceedings. Thus a widow was said to make a request in

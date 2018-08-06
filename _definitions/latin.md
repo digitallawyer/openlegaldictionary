@@ -1,5 +1,6 @@
 ---
 title: Latin
+letter: L
 permalink: "/definitions/latin.html"
 body: 'The language of the ancient-Romans. There are three sorts of law Latln: (1)
   Good Latin, allowed by the grammarians and lawyers; (2) false or lncongruous Latin,

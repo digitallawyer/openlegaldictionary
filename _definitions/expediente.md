@@ -1,5 +1,6 @@
 ---
 title: Expediente
+letter: E
 permalink: "/definitions/expediente.html"
 body: In Mexican law, a term including all the papers or documents con-stitutlng a
   grant or title to laud from govern-ment Vanderslice v. Hanks, 3 Cal. 27, 38

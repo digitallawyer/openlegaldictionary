@@ -1,5 +1,6 @@
 ---
 title: Ambiguitas
+letter: A
 permalink: "/definitions/ambiguitas.html"
 body: Lat. From atnbiguus, doubtful, uncertain, obscure. Ambiguity; uncertainty of
   meaning

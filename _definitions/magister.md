@@ -1,5 +1,6 @@
 ---
 title: Magister
+letter: M
 permalink: "/definitions/magister.html"
 body: Lat. In Englisb law. A master or ruler; a person who has attained to some eminent
   degree in science. Cowell

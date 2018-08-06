@@ -1,5 +1,6 @@
 ---
 title: Then
+letter: T
 permalink: "/definitions/then.html"
 body: Thia word, as an adverb, means “at that time,” referring to a time specified,
   either past or future. It has no power in itself to fix a time. It simply refers

@@ -1,5 +1,6 @@
 ---
 title: Banishment
+letter: B
 permalink: "/definitions/banishment.html"
 body: In criminal law. A punishment inflicted upon criminals, by com-pelling them
   to quit a city, place, or country for a specified period of time, or for llfe. See

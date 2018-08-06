@@ -1,5 +1,6 @@
 ---
 title: Saladine Tenth
+letter: S
 permalink: "/definitions/saladine-tenth.html"
 body: A tax imposed in England and France, in 1188, by Pope Innocent III., to raise
   a fund for the crusade undertaken by Richard I. of England and Philip Augustus of

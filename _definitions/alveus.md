@@ -1,5 +1,6 @@
 ---
 title: Alveus
+letter: A
 permalink: "/definitions/alveus.html"
 body: The bed or channel through which tbe stream flows when it runs within Its ordinary
   channel. Calvin

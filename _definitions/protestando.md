@@ -1,5 +1,6 @@
 ---
 title: Protestando
+letter: P
 permalink: "/definitions/protestando.html"
 body: L. Lat Protesting. Tbe emphatic word formerly used in plead-ing by way of protestation.
   3 Bl. Comm. 311. See Protestation

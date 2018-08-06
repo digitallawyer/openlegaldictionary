@@ -1,5 +1,6 @@
 ---
 title: Co-Respondent
+letter: C
 permalink: "/definitions/co-respondent.html"
 body: A persou summoned to answer a hill, petition, or libel, to-gether with another
   respondent. Now chief-ly used to designate the person charged wlth adultery with

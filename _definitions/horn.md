@@ -1,5 +1,6 @@
 ---
 title: Horn
+letter: H
 permalink: "/definitions/horn.html"
 body: In old Scotch practice. A kind of trumpet used in denouncing contumacious persons
   rebels and outlaws, which was done with three blasts of the horn by the king’s sergeant.

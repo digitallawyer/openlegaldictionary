@@ -1,5 +1,6 @@
 ---
 title: Solemnize
+letter: S
 permalink: "/definitions/solemnize.html"
 body: To solemnize, spoken of a marriage, means no more than to enter ln-to a marriage
   contract, wlth due publicatlon, before thlrd persons, for the purpose of glv-ing

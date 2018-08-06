@@ -1,5 +1,6 @@
 ---
 title: Acquit A Caution
+letter: A
 permalink: "/definitions/acquit-a-caution.html"
 body: In French law, Certain goods pay higher export duties when exported to a foreign
   country than when they are destined for another French port. In order to prevent

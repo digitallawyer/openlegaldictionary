@@ -1,5 +1,6 @@
 ---
 title: Custuma Antiqua Sive Magna
+letter: C
 permalink: "/definitions/custuma-antiqua-sive-magna.html"
 body: "(Lat Ancient or great duties.) The duties on wool, sheep-skin, .or wool-pelts
   and leather exported were so called, and were payable by every merchant, stranger

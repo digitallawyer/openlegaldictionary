@@ -1,5 +1,6 @@
 ---
 title: Ex Legibus
+letter: E
 permalink: "/definitions/ex-legibus.html"
 body: According to the laws. A phrase of the clvll law, which means ac-cordlng to
   the intent or spirit of the law, as well as according to the words or letter. Dlg.

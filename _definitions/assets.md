@@ -1,5 +1,6 @@
 ---
 title: Assets
+letter: A
 permalink: "/definitions/assets.html"
 body: In probate law. Property of a decedent available for the payment of debts and
   legacies; the estate coming to the heir or personal representative which is charge-able,

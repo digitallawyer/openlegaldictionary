@@ -1,5 +1,6 @@
 ---
 title: Per Curiam
+letter: P
 permalink: "/definitions/per-curiam.html"
 body: Lat. By the court. A phrase used in the reports to distinguish an opinion of
   the whole court from an opinion written by any one judge. Sometimes it de-. notes

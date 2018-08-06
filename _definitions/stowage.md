@@ -1,5 +1,6 @@
 ---
 title: Stowage
+letter: S
 permalink: "/definitions/stowage.html"
 body: In maritime law. The storing, packlng, or arranging of the cargo in a ship,
   in such a manner as to protect the gooda from friction, braising, or damage from

@@ -1,5 +1,6 @@
 ---
 title: Pastor
+letter: P
 permalink: "/definitions/pastor.html"
 body: Lat. A shepherd. Applied to a minister of the Christian religion, who has charge
   of a congregation, hence called his “flock.” See First Presbyterian Church v. Myers,

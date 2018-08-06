@@ -1,5 +1,6 @@
 ---
 title: Cambist
+letter: C
 permalink: "/definitions/cambist.html"
 body: In mercantile law. A per-eon skilled in exchanges; one who trades in promlssory
   notes and bills of exchange

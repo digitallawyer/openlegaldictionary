@@ -1,5 +1,6 @@
 ---
 title: Preponderance
+letter: P
 permalink: "/definitions/preponderance.html"
 body: This word means something more than “weight;" it denotes a superiority of weight,
   or outweighing. The words are not synonymous, but substantially different There

@@ -1,5 +1,6 @@
 ---
 title: Nuno Fro Tunc
+letter: N
 permalink: "/definitions/nuno-fro-tunc.html"
 body: Lat Now for then. A phrase applied to acts allowed to be done after the time
   when they should be done, with a retroactive effect, i. e., with tbe same effect

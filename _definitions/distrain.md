@@ -1,5 +1,6 @@
 ---
 title: Distrain
+letter: D
 permalink: "/definitions/distrain.html"
 body: To take as a pledge prop-erty of another, and keep the same until he performs
   his obligation or until the property is replevied by the sheriff. It was used to

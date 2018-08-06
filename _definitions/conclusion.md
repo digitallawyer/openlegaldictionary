@@ -1,5 +1,6 @@
 ---
 title: Conclusion
+letter: C
 permalink: "/definitions/conclusion.html"
 body: The end; the termina-tion; the act of finishing or bringing to a close. The
   conclusion of a declaration or complaint is all that part which follows the statement

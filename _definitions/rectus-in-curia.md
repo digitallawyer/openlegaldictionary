@@ -1,5 +1,6 @@
 ---
 title: Rectus In Curia
+letter: R
 permalink: "/definitions/rectus-in-curia.html"
 body: Lat. Right in court The condition of one who stands at the bar, against whom
   no one objects any offense, when a person outlawed has revers-ed hls outlawry, so

@@ -1,5 +1,6 @@
 ---
 title: Decrepit
+letter: D
 permalink: "/definitions/decrepit.html"
 body: This term designates a person who is disabled, incapable, or incompe-tent, either
   from physical or mental weakness or defects, whether produced by age or other causes,

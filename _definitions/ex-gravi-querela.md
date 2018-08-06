@@ -1,5 +1,6 @@
 ---
 title: Ex Gravi Querela
+letter: E
 permalink: "/definitions/ex-gravi-querela.html"
 body: "(From or on the grievous complaint.) In old English prac-tlce. The name of
   a writ (so called from its initial words) which lay for a person to whom any lands

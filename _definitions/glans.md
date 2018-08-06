@@ -1,5 +1,6 @@
 ---
 title: Glans
+letter: G
 permalink: "/definitions/glans.html"
 body: In the clvll law. Acorns or nuts of the oak or other trees. In a larger sense,
   all fruits of trees

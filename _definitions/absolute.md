@@ -1,5 +1,6 @@
 ---
 title: Absolute
+letter: A
 permalink: "/definitions/absolute.html"
 body: Unconditional; complete and perfect in itself, wlthout relation to, or dependence
   on, other things or persons,—as an absolute right; without condition, excep-tion,

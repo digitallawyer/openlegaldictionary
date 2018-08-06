@@ -1,5 +1,6 @@
 ---
 title: Precipitin Test
+letter: P
 permalink: "/definitions/precipitin-test.html"
 body: Precipltins are formations in the blood of an animal induced by repeated injectlons
   Into its veins of the blood-serum of an animal of another species; and their importance

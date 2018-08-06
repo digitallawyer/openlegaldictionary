@@ -1,5 +1,6 @@
 ---
 title: De Clero
+letter: D
 permalink: "/definitions/de-clero.html"
 body: Concerning the clergy. The tltle of the statute 25 Edw. III. St. 3; containing
   a variety of provisions on the sub-ject of presentatlons, indictments of spir-ltual

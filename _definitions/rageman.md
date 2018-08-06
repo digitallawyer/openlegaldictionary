@@ -1,5 +1,6 @@
 ---
 title: Rageman
+letter: R
 permalink: "/definitions/rageman.html"
 body: A statute, so called, of justices assigned by Edward I. and his coun-cll, to
   go a circuit through all England, and to hear and determine all complaints of in-juries

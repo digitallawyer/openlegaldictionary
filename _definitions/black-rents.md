@@ -1,5 +1,6 @@
 ---
 title: Black Rents
+letter: B
 permalink: "/definitions/black-rents.html"
 body: In old Engllsh law. Rents reserved in work, grnin, provisions, or baser money,
   in contradistinction to thosc which were reserved in white money or sil-ver, which

@@ -1,5 +1,6 @@
 ---
 title: Special
+letter: S
 permalink: "/definitions/special.html"
 body: Relating to or designating a species, kind, or sort; designed for aparticr-lar
   purpose; confined to a particular pur

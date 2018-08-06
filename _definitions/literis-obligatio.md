@@ -1,5 +1,6 @@
 ---
 title: Literis Obligatio
+letter: L
 permalink: "/definitions/literis-obligatio.html"
 body: 'In Roman law. The contract of nomcn, which was constitut-ed by writing, (scripturA.)
   It was of two kinds, viz.: (1) A re in personam, when a transaction was transferred

@@ -1,5 +1,6 @@
 ---
 title: Emancipation
+letter: E
 permalink: "/definitions/emancipation.html"
 body: The act by which one who was unfree, or under the power and control of another,
   is set at liberty and made his own master. Fremont v. Sandown, 56 N. H. 303; Porter

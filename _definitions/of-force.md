@@ -1,5 +1,6 @@
 ---
 title: Of Force
+letter: O
 permalink: "/definitions/of-force.html"
 body: 'In force; extant: not obsolete; exlsting as a binding, or obligatory power.
   *’'

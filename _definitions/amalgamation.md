@@ -1,5 +1,6 @@
 ---
 title: Amalgamation
+letter: A
 permalink: "/definitions/amalgamation.html"
 body: A term applied in England to the merger or consolidation of two incorporated
   companies or societies

@@ -1,5 +1,6 @@
 ---
 title: Ostia Regni
+letter: O
 permalink: "/definitions/ostia-regni.html"
 body: Lat. Gates of the king-dom. The {torts of the kingdom of England are so tailed
   by Sir Matthew Hale. De Jure Mar. pt 2, c. 3

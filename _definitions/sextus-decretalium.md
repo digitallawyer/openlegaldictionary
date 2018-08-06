@@ -1,5 +1,6 @@
 ---
 title: Sextus Decretalium
+letter: S
 permalink: "/definitions/sextus-decretalium.html"
 body: Lat. The sixth (book) of the decretals; the sext, or sixth decretal. So called
   because append-ed, in the body of the canon law, to the five books of the decretals

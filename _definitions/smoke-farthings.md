@@ -1,5 +1,6 @@
 ---
 title: Smoke-Farthings
+letter: S
 permalink: "/definitions/smoke-farthings.html"
 body: In old English law. An annual rent paid to cathedral churches; another name
   for the pentecostals or customary oblations offered by the dispersed inhabitants

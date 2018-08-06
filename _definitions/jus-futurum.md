@@ -1,5 +1,6 @@
 ---
 title: Jus Futurum
+letter: J
 permalink: "/definitions/jus-futurum.html"
 body: In the civil law. A future right; an Inchoate, indplpnt, or ex-pectant right,
   not yet fully vested. It may be either "jus delatum," when the subse-quent acquisition

@@ -1,5 +1,6 @@
 ---
 title: Tacit
+letter: T
 permalink: "/definitions/tacit.html"
 body: Silent; not expressed; Implied or Inferred; manifested by the refraining from
   contradiction or objection; Inferred from the situation nnd circumstances, in the

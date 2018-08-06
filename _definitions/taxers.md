@@ -1,5 +1,6 @@
 ---
 title: Taxers
+letter: T
 permalink: "/definitions/taxers.html"
 body: Two officers yearly chosen in Cambridge, England, to see the true gauge of all
   the weights and measures

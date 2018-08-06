@@ -1,5 +1,6 @@
 ---
 title: Consequents
+letter: C
 permalink: "/definitions/consequents.html"
 body: In Scotch law. Im-plied powers or authorities. Things which follow, usually
   by implication of law. A commission being given to execute auy work, every power

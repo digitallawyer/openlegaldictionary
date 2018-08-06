@@ -1,5 +1,6 @@
 ---
 title: Seizure
+letter: S
 permalink: "/definitions/seizure.html"
 body: In praotioe. The act performed by an officer of the law, under the authority
   and exigence of a writ, in taking into the custody of the law the property, real

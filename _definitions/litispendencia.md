@@ -1,5 +1,6 @@
 ---
 title: Litispendencia
+letter: L
 permalink: "/definitions/litispendencia.html"
 body: In Spanish law. Lltispendency. The condition of a suit pend-ing in a court of
   justice

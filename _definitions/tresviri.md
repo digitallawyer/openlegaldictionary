@@ -1,5 +1,6 @@
 ---
 title: Tresviri
+letter: T
 permalink: "/definitions/tresviri.html"
 body: Lat. In Roman law. officers who had the charge of prisons, and the-execution
   of condemned criminals. Calvin

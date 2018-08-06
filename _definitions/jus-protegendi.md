@@ -1,5 +1,6 @@
 ---
 title: Jus Protegendi
+letter: J
 permalink: "/definitions/jus-protegendi.html"
 body: In the civil law; The name of a servitude. It is a right by which a part of
   the roof or tiling of one house is made to extend over tbe adjoining house. Dig.

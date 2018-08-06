@@ -1,5 +1,6 @@
 ---
 title: Divine Service
+letter: D
 permalink: "/definitions/divine-service.html"
 body: 'Divine service was the name of a feudal tenure, by which the tenants were obliged
   to do some special divine services in certaiu ; as to sing so many masses, to distribute

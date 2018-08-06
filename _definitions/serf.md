@@ -1,5 +1,6 @@
 ---
 title: Serf
+letter: S
 permalink: "/definitions/serf.html"
 body: In the feudal polity, the serfs were a class of persons whose social con-dition
   was servile, and who were bouud to labor and onerous duties at the will of thelr

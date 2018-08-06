@@ -1,5 +1,6 @@
 ---
 title: Ictus
+letter: I
 permalink: "/definitions/ictus.html"
 body: In old English law. A stroke or blow from a club or stone; a bruise, contusion,
   or swelling produced by a blow from' a club or stone, as distinguished from “ploga,”

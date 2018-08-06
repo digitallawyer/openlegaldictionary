@@ -1,5 +1,6 @@
 ---
 title: Pratique
+letter: P
 permalink: "/definitions/pratique.html"
 body: A license for the master of a ship to traffic in the ports of a given country,
   or with the inhabitants of a given port, upon the lifting of quarantine or pro-duction

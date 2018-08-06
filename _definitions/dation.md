@@ -1,5 +1,6 @@
 ---
 title: Dation
+letter: D
 permalink: "/definitions/dation.html"
 body: In the civil law. A gift; a giving of something. It is not exactly syn-onymous
   with “donation,” for the latter ira-plies generosity or liberality iu making a gift,

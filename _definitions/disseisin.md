@@ -1,5 +1,6 @@
 ---
 title: Disseisin
+letter: D
 permalink: "/definitions/disseisin.html"
 body: Dispossession; a depriva-tlon of possession; a privation of seisin; a usurpation
   of the right of seisin and posses-slon, and an exercise of such powers and privileges

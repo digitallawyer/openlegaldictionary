@@ -1,5 +1,6 @@
 ---
 title: Formal
+letter: F
 permalink: "/definitions/formal.html"
 body: Relating to matters of form; as, “formal defects;” inserted, added, oi joined
   pro forma. See Pasties

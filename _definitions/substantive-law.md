@@ -1,5 +1,6 @@
 ---
 title: Substantive Law
+letter: S
 permalink: "/definitions/substantive-law.html"
 body: That part of the law which the courts are established to ad-minister, as opposed
   to the rules according to which the substantive law Itself is administered. That

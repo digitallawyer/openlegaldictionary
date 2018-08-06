@@ -1,5 +1,6 @@
 ---
 title: Casu Consimili
+letter: C
 permalink: "/definitions/casu-consimili.html"
 body: In old Engllsh law. A writ of entry, granted where tenant hy the curtesy, or
   tenant for life, allenated in fee, or in tail, or for another’s llfe, whlch was

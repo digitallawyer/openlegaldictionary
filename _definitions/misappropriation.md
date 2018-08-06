@@ -1,5 +1,6 @@
 ---
 title: Misappropriation
+letter: M
 permalink: "/definitions/misappropriation.html"
 body: This is not a technical term of law, hut it is sometimes applied to the misdemeanor
   which is committed by a banker, factor, agent, trustee, etc, who fraudulently deals

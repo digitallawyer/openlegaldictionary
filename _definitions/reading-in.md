@@ -1,5 +1,6 @@
 ---
 title: Reading-In
+letter: R
 permalink: "/definitions/reading-in.html"
 body: In English ecclesiastical law. The title of a person admitted to a rectory or
   other benefice will be divested unless within two months after actual posses-slon

@@ -1,5 +1,6 @@
 ---
 title: Ex Delicto
+letter: E
 permalink: "/definitions/ex-delicto.html"
 body: From a delict, tort, fault, crime, or malfeasance. In both the civil and the
   common law, obligations and causes of action are divided into two great classes,—those

@@ -1,5 +1,6 @@
 ---
 title: Goopertio
+letter: G
 permalink: "/definitions/goopertio.html"
 body: In old English law. The head or branches of a tree cut down; though CQopertio
   arborum is rather the bark of tim-ber trees felled, and the chumps and broken wood.

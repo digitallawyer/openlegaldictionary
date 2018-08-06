@@ -1,5 +1,6 @@
 ---
 title: Deprivation
+letter: D
 permalink: "/definitions/deprivation.html"
 body: In English ecclesiastical law. The taking away from a clergy-man his benefice
   or other spiritual promotion or dignity, either by sentence declaratory in the proper

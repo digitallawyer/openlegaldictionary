@@ -1,5 +1,6 @@
 ---
 title: Pertenengia
+letter: P
 permalink: "/definitions/pertenengia.html"
 body: In Spanish law. The claim or right which one has to the property in anything;
   the territory which belongs to any one by way of Jurisdiction or property; that

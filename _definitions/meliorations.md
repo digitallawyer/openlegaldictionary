@@ -1,5 +1,6 @@
 ---
 title: Meliorations
+letter: M
 permalink: "/definitions/meliorations.html"
 body: In Scotch law. Improvements of an estate, other than mere re-pairs; betterments.
   1 Bell, Comm. 73. occasionally used in English and American law in the sense of

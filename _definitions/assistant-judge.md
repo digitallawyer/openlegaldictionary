@@ -1,5 +1,6 @@
 ---
 title: Assistant Judge
+letter: A
 permalink: "/definitions/assistant-judge.html"
 body: A judge of the English court of general or quarter sessions in Middlesex. He
   differs from the other justices in being a barrister of ten years’ standing, and

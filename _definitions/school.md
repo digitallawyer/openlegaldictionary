@@ -1,5 +1,6 @@
 ---
 title: School
+letter: S
 permalink: "/definitions/school.html"
 body: An institution of learning of a lower grade, below a college or a university.
   A place of primary instruction. The term generally refers to the common or pub-lic

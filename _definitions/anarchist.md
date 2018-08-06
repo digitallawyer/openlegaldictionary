@@ -1,5 +1,6 @@
 ---
 title: Anarchist
+letter: A
 permalink: "/definitions/anarchist.html"
 body: Qne who professes and advocates the doctrines of anarchy, q. v. And see Cerveny
   v. Chicago Dally News Co., 139 111. 345, 28 N. E. 692, 13 L. R. A. 864; United States

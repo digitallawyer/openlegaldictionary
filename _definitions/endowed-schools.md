@@ -1,5 +1,6 @@
 ---
 title: Endowed Schools
+letter: E
 permalink: "/definitions/endowed-schools.html"
 body: In England, certain schools having endowments are distinctively known as “endowed
   schools;” and a series of acts of parliament regulating them are known as the “endowed

@@ -1,5 +1,6 @@
 ---
 title: Repudiation
+letter: R
 permalink: "/definitions/repudiation.html"
 body: Rejection; disclaimer; renunciation; the rejection or refusal of an offered
   or available right or privilege, or of a duty or relation. See Iowa State Sav. Bank

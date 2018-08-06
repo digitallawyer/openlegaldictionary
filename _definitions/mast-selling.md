@@ -1,5 +1,6 @@
 ---
 title: Mast-Selling
+letter: M
 permalink: "/definitions/mast-selling.html"
 body: In old English law. The practice of selling the goods of dead seamen at the
   mast. Held void. 7 Mod. 14L

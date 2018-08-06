@@ -1,5 +1,6 @@
 ---
 title: S Case
+letter: S
 permalink: "/definitions/s-case-2.html"
 body: E’8 CASE. This case decided, in 1604, that “every man's house [meaning hls dwelling-house
   only] is his castle,” and that an officer executing civil process may not break

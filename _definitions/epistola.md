@@ -1,5 +1,6 @@
 ---
 title: Epistola
+letter: E
 permalink: "/definitions/epistola.html"
 body: A letter; a charter; an ln-stroment in writing for conveyance of lands or assurance
   of contracts. Calvin; Spel-man

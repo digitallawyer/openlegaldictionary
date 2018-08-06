@@ -1,5 +1,6 @@
 ---
 title: Catoniana Regula
+letter: C
 permalink: "/definitions/catoniana-regula.html"
 body: In Roman law. The rule which is commonly expressed in the maxim, Quod ab initio
   non valet tractu temporis non convalebit, meaning that what is at the beginning

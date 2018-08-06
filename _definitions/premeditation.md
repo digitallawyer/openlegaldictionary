@@ -1,5 +1,6 @@
 ---
 title: Premeditation
+letter: P
 permalink: "/definitions/premeditation.html"
 body: The act of rnedl-tatlng in advance; dellberatlon upon a contemplated act; plotting
   or contriving; a de-sign formed to do something before it is done. See State v.

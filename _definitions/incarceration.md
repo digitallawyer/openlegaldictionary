@@ -1,5 +1,6 @@
 ---
 title: Incarceration
+letter: I
 permalink: "/definitions/incarceration.html"
 body: Imprisonment; confinement in a jail or penltentlary. This term is seldom used
   in law, though found occasionally in statutes, (Rev. St. okl. 1903, f 2068.) when

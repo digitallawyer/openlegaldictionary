@@ -1,5 +1,6 @@
 ---
 title: Seniores
+letter: S
 permalink: "/definitions/seniores.html"
 body: In old English law. Seniors; ancients; elders. A term applied to the great men
   of the realm. Spelman

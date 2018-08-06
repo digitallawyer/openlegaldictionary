@@ -1,5 +1,6 @@
 ---
 title: Soul Scot
+letter: S
 permalink: "/definitions/soul-scot.html"
 body: A mortuary, or customary gift due ministers. In many parishes of Eng-land, on
   the death of parishioners. It was originally voluntary and lntended as amends for

@@ -1,5 +1,6 @@
 ---
 title: Hanaper
+letter: H
 permalink: "/definitions/hanaper.html"
 body: A hamper or basket in which were kept the writs of the court of chaucery relating
   to the business of a subject, and their returns. 8 Bl. Comm. 49. According to others,

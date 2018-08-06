@@ -1,5 +1,6 @@
 ---
 title: Infortiatum
+letter: I
 permalink: "/definitions/infortiatum.html"
 body: The name given by the glossators to the second of the three purts or volumes
   into which the Pandects were di-vided. The glossators at Bologna had at first only

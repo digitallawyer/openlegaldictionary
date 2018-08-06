@@ -1,5 +1,6 @@
 ---
 title: Mormonism
+letter: M
 permalink: "/definitions/mormonism.html"
 body: A social and rellglous system prevailing in the territory of Utah, a distinctive
   feature of which is the practlce of polygamy. These plural marriages are not recognized

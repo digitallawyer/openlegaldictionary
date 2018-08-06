@@ -1,5 +1,6 @@
 ---
 title: Strepitus
+letter: S
 permalink: "/definitions/strepitus.html"
 body: In old records. Estrepe-ment or strip; a species of waste or destruc-tlon of
   property. Spelman

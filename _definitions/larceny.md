@@ -1,5 +1,6 @@
 ---
 title: Larceny
+letter: L
 permalink: "/definitions/larceny.html"
 body: In criminal law. The wrongful and fraudulent taking and carrying away by one
   person of the mere personal goods of another from any place, with a fe* lonious

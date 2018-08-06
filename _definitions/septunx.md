@@ -1,5 +1,6 @@
 ---
 title: Septunx
+letter: S
 permalink: "/definitions/septunx.html"
 body: Lat. In Roman law. A division of the as, containing seven uneiae, or duodecimal
   parts; the proportion of seven-twelfths. Tayl. Civil Law, 492

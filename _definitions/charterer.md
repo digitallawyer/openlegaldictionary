@@ -1,5 +1,6 @@
 ---
 title: Charterer
+letter: C
 permalink: "/definitions/charterer.html"
 body: In mercantile law. One who charters (i. e., hires or engages) a ves-sel for
   a voyage; a freighter. 2 Steph. Comm. 184; 8 Kent, Conun. 137; Turner v. Cross,

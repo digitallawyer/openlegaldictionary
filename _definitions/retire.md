@@ -1,5 +1,6 @@
 ---
 title: Retire
+letter: R
 permalink: "/definitions/retire.html"
 body: 'RE. As applied to bills of exchange,-this word is ambiguous.. It is commonly
   used of an indorser who takes up a bill by handing the amount to a transferee,’

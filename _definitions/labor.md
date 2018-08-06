@@ -1,5 +1,6 @@
 ---
 title: Labor
+letter: L
 permalink: "/definitions/labor.html"
 body: 1. work; toil; service. Con-tlnued exertion, of the more onerous and Inferior
   kind, usually and chiefly consisting in the protracted expenditure of muscular force,

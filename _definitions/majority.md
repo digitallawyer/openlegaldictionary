@@ -1,5 +1,6 @@
 ---
 title: Majority
+letter: M
 permalink: "/definitions/majority.html"
 body: Full age; the age at which, by law, a person is entitled to the manage-ment
   of his own affairs and to the enjoyment of civic rights. The opposite of minority.

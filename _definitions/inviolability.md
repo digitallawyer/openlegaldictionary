@@ -1,5 +1,6 @@
 ---
 title: Inviolability
+letter: I
 permalink: "/definitions/inviolability.html"
 body: The attribute of being secured agaiqst violation. The persons of ambassadors
   are inviolable

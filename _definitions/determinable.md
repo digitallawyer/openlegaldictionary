@@ -1,5 +1,6 @@
 ---
 title: Determinable
+letter: D
 permalink: "/definitions/determinable.html"
 body: That which may cease or determine upon the happening of a certain contingency.
   2 Bl. Comm. 121

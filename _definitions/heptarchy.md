@@ -1,5 +1,6 @@
 ---
 title: Heptarchy
+letter: H
 permalink: "/definitions/heptarchy.html"
 body: A government exercised by seven persons, or a natlon divided into seven governments.
   In the year 560, seven dlfferent monarchies had been formed in England by the German

@@ -1,5 +1,6 @@
 ---
 title: Dispose
+letter: D
 permalink: "/definitions/dispose.html"
 body: To alienate or direct the ownership of property, as disposition by will. Used
   also of the determination of suits. Called a word of large exteut. Koerner v. wilkinson,

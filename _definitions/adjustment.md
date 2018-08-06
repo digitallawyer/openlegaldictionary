@@ -1,5 +1,6 @@
 ---
 title: Adjustment
+letter: A
 permalink: "/definitions/adjustment.html"
 body: In the law of insur-ance, the adjustment of a loss is the ascer-tninment of
   Its amount and the ratable distribution of it among those liable to pay it; the

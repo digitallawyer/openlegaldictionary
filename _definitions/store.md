@@ -1,5 +1,6 @@
 ---
 title: Store
+letter: S
 permalink: "/definitions/store.html"
 body: Storing is the keeping merchan-dise for safe custody, to be delivered in the
   same condition as -when received, where the safe-keeping is the principal object

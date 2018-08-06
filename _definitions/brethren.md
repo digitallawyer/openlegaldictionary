@@ -1,5 +1,6 @@
 ---
 title: Brethren
+letter: B
 permalink: "/definitions/brethren.html"
 body: This word, in a will, may Include sisters, as well as brothers, of the person
   indicated; it is not necessarily limited to the masculine gender. Terry v. Brunson,

@@ -1,5 +1,6 @@
 ---
 title: Tonnage
+letter: T
 permalink: "/definitions/tonnage.html"
 body: GE. The capaclty of a vessel for carrylng freight or other, loads, calcu-lated
   in tons. But the way of estimating the tonnage varles iu dlfferent countries. In

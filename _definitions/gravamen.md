@@ -1,5 +1,6 @@
 ---
 title: Gravamen
+letter: G
 permalink: "/definitions/gravamen.html"
 body: The burden or gist of a charge; the grievance or injury specially complained
   of

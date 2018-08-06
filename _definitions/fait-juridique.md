@@ -1,5 +1,6 @@
 ---
 title: Fait Juridique
+letter: F
 permalink: "/definitions/fait-juridique.html"
 body: In French law. A juridical fact one of the factors or ele-ments constitutive
   of an obligation

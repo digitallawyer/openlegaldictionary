@@ -1,5 +1,6 @@
 ---
 title: Damnum Absque Injuria
+letter: D
 permalink: "/definitions/damnum-absque-injuria.html"
 body: Loss, hurt, or harm without injury in the legal sense, that is, withont such
   an invasion of rights as is redressible by an action. A loss which does not give

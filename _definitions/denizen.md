@@ -1,5 +1,6 @@
 ---
 title: Denizen
+letter: D
 permalink: "/definitions/denizen.html"
 body: In English law. A person who, being au alien born, has obtained, ex donattone
   regis, letters patent to make him an English subject,—a high and incoinmu-nicable

@@ -1,5 +1,6 @@
 ---
 title: Necessity
+letter: N
 permalink: "/definitions/necessity.html"
 body: 'Controlling force; irresistible compulsion; a power or impulse so great that
   it admits no choice of conduct, when it is said that an aet is done “under necessity,”

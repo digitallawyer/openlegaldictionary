@@ -1,5 +1,6 @@
 ---
 title: Dean
+letter: D
 permalink: "/definitions/dean.html"
 body: In English ecclesiastical law. An ecclesiastical dignitary who presides over
   the chapter of a cathedral, and is next in rank to the bishop. So called from having

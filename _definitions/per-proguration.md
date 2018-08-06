@@ -1,5 +1,6 @@
 ---
 title: Per Proguration
+letter: P
 permalink: "/definitions/per-proguration.html"
 body: By proxy; by one acting as an agent with special powers; as under a letter of
   attorney. These words “give notice to all persons that the agent is acting under

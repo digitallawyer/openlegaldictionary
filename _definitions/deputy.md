@@ -1,5 +1,6 @@
 ---
 title: Deputy
+letter: D
 permalink: "/definitions/deputy.html"
 body: A substitute; a person duly authorized by an oflicer to exercise some or all
   of the functions pertaining to the office, in the place and stead of the latter.

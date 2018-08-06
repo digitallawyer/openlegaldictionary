@@ -1,5 +1,6 @@
 ---
 title: De Donis
+letter: D
 permalink: "/definitions/de-donis.html"
 body: Concerning gifts, (or more folly, de donis conditionalibus, concerning conditional
   gifts.) The. name of a celebrated English statute, passed in the thirteenth year

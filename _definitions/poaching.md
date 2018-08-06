@@ -1,5 +1,6 @@
 ---
 title: Poaching
+letter: P
 permalink: "/definitions/poaching.html"
 body: In English criminal iaw. The unlawful entry upon land for the pur-pose of takiug
   or destroying game; the tak-ing or destruction ot game upon another's land, usually

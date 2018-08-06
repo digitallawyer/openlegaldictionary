@@ -1,5 +1,6 @@
 ---
 title: Appealed
+letter: A
 permalink: "/definitions/appealed.html"
 body: In a sense not strictly technical, this word may be used to signify the exercise
   by a party of the right to re-move a litigation from one forum to another; as where

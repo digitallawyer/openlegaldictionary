@@ -1,5 +1,6 @@
 ---
 title: Guidon De La Mer
+letter: G
 permalink: "/definitions/guidon-de-la-mer.html"
 body: The name of a treatise on maritime law, by an unknown author, supposed to have
   been written about 1671 at Rouen, and considered, in continental Europe, as a work

@@ -1,5 +1,6 @@
 ---
 title: De Bono Et Malo
+letter: D
 permalink: "/definitions/de-bono-et-malo.html"
 body: "“For good and 111.” The Latin form of the law French phrase “De bien et de
   mal.” In ancient criminal pleading, this was the expression with which the prisoner

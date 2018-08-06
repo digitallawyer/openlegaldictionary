@@ -1,5 +1,6 @@
 ---
 title: Chaplain
+letter: C
 permalink: "/definitions/chaplain.html"
 body: An ecclesiastic who performs dlvlne service in a chapel; but it more commonly
   means one who attends upon a king, prince, or other person of quality, for the performance

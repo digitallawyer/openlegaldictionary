@@ -1,5 +1,6 @@
 ---
 title: Rate
+letter: R
 permalink: "/definitions/rate.html"
 body: Proportional or relative value, measure, or degree; the proportion or stand-ard
   by which quantity or value is adjusted. Thus, the rate ot interest is the proportion

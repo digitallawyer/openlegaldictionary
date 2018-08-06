@@ -1,5 +1,6 @@
 ---
 title: Craven
+letter: C
 permalink: "/definitions/craven.html"
 body: In old English law. A word of disgrace and obloquy, pronounced on either champion,
   in the ancient trial by bat-tie, proving recreant, i. e., yielding. Glanville tails

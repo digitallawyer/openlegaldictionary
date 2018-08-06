@@ -1,5 +1,6 @@
 ---
 title: Lieutenant
+letter: L
 permalink: "/definitions/lieutenant.html"
 body: 1. A deputy; substi* tute; an officer who supplies the place of another; one
   acting by vicarious authority. Etymologically, one who holds the post or office

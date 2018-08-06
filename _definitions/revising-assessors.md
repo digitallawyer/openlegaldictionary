@@ -1,5 +1,6 @@
 ---
 title: Revising Assessors
+letter: R
 permalink: "/definitions/revising-assessors.html"
 body: In Englis^’ law. Two officers elected by the burgesses of, non-parliamentary
   municipal boroughs fof the purpose of assisting the mayor in jfej* rising the parish

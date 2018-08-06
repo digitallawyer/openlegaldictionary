@@ -1,5 +1,6 @@
 ---
 title: Court-Baron
+letter: C
 permalink: "/definitions/court-baron.html"
 body: In English law. A conrt which, although not one of record, is incident to every
   manor, and cannot be sev-ered therefrom. It was ordained for the maintenance of

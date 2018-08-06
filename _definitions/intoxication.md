@@ -1,5 +1,6 @@
 ---
 title: Intoxication
+letter: I
 permalink: "/definitions/intoxication.html"
 body: The state of belng poisoned; the condition produced by the ad-mlnlstratlon or
   introduction lnto the human system of a poison. But in Its popular use this term

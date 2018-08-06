@@ -1,5 +1,6 @@
 ---
 title: Commonance
+letter: C
 permalink: "/definitions/commonance.html"
 body: The commoners, or tenants and inhabitants, who have the right of common or coinmoning
   in open field. CoweU

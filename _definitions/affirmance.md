@@ -1,5 +1,6 @@
 ---
 title: Affirmance
+letter: A
 permalink: "/definitions/affirmance.html"
 body: In practice. The con-firming, or ratifying a former law, or Judg-ment. Cowell;
   Blount

@@ -1,5 +1,6 @@
 ---
 title: Bringing Money Into Court
+letter: B
 permalink: "/definitions/bringing-money-into-court.html"
 body: The act of depositing money in the custody of a court or of its clerk or marshal,
   for the purpose of satisfying a debt or duty, or to await the result of an lnterpleader.

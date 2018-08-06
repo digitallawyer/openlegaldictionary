@@ -1,5 +1,6 @@
 ---
 title: Purse
+letter: P
 permalink: "/definitions/purse.html"
 body: A purse, prize, or premium is ordinarily some valuable thing, offered by a person
   for the doing of something hy others, into strife for which he does not enter. He

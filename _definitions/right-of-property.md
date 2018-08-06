@@ -1,5 +1,6 @@
 ---
 title: Right Of Property
+letter: R
 permalink: "/definitions/right-of-property.html"
 body: The mere right of property in land; the abstract right which remains to the
   owner after he has lost the right of possession, and to recover which the writ of

@@ -1,5 +1,6 @@
 ---
 title: Registrar
+letter: R
 permalink: "/definitions/registrar.html"
 body: An officer who has the custody or keeping of a registry or register. This word
   is used in England; “register” is more common In America

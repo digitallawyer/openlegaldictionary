@@ -1,5 +1,6 @@
 ---
 title: Voluntas
+letter: V
 permalink: "/definitions/voluntas.html"
 body: LaL Properly, volition, purpose, or intention, or a design or the feel-ing or
   impulse which prompts the commls-sion of an act; hut in old English law the term

@@ -1,5 +1,6 @@
 ---
 title: Cabinet
+letter: C
 permalink: "/definitions/cabinet.html"
 body: The advisory board or coun-cil of a king or other chief executive. In the government
   of the United States the cabinet is composed of the secretary of state, the sec-cretary

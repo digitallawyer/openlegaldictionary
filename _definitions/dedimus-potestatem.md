@@ -1,5 +1,6 @@
 ---
 title: Dedimus Potestatem
+letter: D
 permalink: "/definitions/dedimus-potestatem.html"
 body: "(we have given power.) In English practice. A writ or commission issuing out
   of chancery, eni-powering the persons named therein to per-form certain acts, as

@@ -1,5 +1,6 @@
 ---
 title: Charter-Party
+letter: C
 permalink: "/definitions/charter-party.html"
 body: A contract by which an entire ship, or some principal part thereof, is let to
   a merchant for the convey-ance of goods on a determined voyage to one or more places.

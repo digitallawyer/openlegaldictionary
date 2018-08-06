@@ -1,5 +1,6 @@
 ---
 title: Manufacturing Corporation
+letter: M
 permalink: "/definitions/manufacturing-corporation.html"
 body: A corporation engaged In the production of some article, thing, or object, by
   skill or labor, out of raw material, or from matter which has already been subjected

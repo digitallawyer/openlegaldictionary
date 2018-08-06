@@ -1,5 +1,6 @@
 ---
 title: In Kind
+letter: I
 permalink: "/definitions/in-kind.html"
 body: ND. In the same kind, class, or genus. A loan is returned “in kind” when not
   the identical article, but one corresponding and equivalent to it, is given to the

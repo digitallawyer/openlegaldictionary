@@ -1,5 +1,6 @@
 ---
 title: Apices Litigandi
+letter: A
 permalink: "/definitions/apices-litigandi.html"
 body: Extremely fine points, or subtleties of litigation. Nearly equivalent to the
   modem phrase “sharp prac-tice.” “It is unconscionable in a defendant to take advantage

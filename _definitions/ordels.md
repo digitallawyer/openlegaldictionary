@@ -1,5 +1,6 @@
 ---
 title: Ordels
+letter: O
 permalink: "/definitions/ordels.html"
 body: In old English law. The rlght of administering oaths and adjudging trials by
   ordeal within a preclnct or liberty. Cow-ell

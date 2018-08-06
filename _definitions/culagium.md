@@ -1,5 +1,6 @@
 ---
 title: Culagium
+letter: C
 permalink: "/definitions/culagium.html"
 body: In old records. The lay-ing up a ship in a dock, in order to be re-paired. Cowell;
   Blount

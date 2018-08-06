@@ -1,5 +1,6 @@
 ---
 title: Chain Of Title
+letter: C
 permalink: "/definitions/chain-of-title.html"
 body: A term applied metaphorically to the series of conveyances, or other forms of
   alienation, affecting a particular parcel of land, arranged consecutive-ly, from

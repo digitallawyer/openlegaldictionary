@@ -1,5 +1,6 @@
 ---
 title: Parole
+letter: P
 permalink: "/definitions/parole.html"
 body: In military law. A promlse glven by a prisoner of war, when he has leave to
   depart from custody, that he will return at the time appointed, unless dis-charged.

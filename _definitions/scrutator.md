@@ -1,5 +1,6 @@
 ---
 title: Scrutator
+letter: S
 permalink: "/definitions/scrutator.html"
 body: Lat . In old English law. A searcher or bailiff of a river; a water-bailiff,
   whose business was to look to the king’s rights, as hls wrecks, hls flotsam, jet-sam,

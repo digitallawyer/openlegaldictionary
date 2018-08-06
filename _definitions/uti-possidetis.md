@@ -1,5 +1,6 @@
 ---
 title: Uti Possidetis
+letter: U
 permalink: "/definitions/uti-possidetis.html"
 body: Lat. In tbo civU law. A species of interdict for the purpose of retaining possession
   of a thing, granted to one who, at the time of contesting suit, was in possession

@@ -1,5 +1,6 @@
 ---
 title: Place
+letter: P
 permalink: "/definitions/place-2.html"
 body: This word is a very indefinite term. It is applied to any locality, limited
   by boundaries, however large or however small. It may be used to designate a coun-try,

@@ -1,5 +1,6 @@
 ---
 title: Vested
+letter: V
 permalink: "/definitions/vested.html"
 body: Accrued; fixed; settled; absolute; having the character or giving the rights
   of absolute ownership; not contingent; not subject to be defeated by a condition

@@ -1,5 +1,6 @@
 ---
 title: Ward
+letter: W
 permalink: "/definitions/ward.html"
 body: 1. Guarding; care; charge; as, the ward of a castle; so in the phrase “watch
   and ward.”

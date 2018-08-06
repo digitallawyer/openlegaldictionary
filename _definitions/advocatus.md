@@ -1,5 +1,6 @@
 ---
 title: Advocatus
+letter: A
 permalink: "/definitions/advocatus.html"
 body: In the civil law. An advocate; one who managed or asslsted in managing another’s
   cause before a judicial tribunal. Called also “patronus.” Cod. 2, 7, 14. But dlstlnguislied

@@ -1,5 +1,6 @@
 ---
 title: Worship
+letter: W
 permalink: "/definitions/worship.html"
 body: The act of offering honor and adoration to the Divine Being. Rell-gious exercises
   participated In by a number of persons assembled for that purpose, tbe disturbance

@@ -1,5 +1,6 @@
 ---
 title: Mercy
+letter: M
 permalink: "/definitions/mercy.html"
 body: In praotioe. The arbitrament of the king or judge in punishing offenses uot
   directly censured by law. Jacob. So, “to be in mercy” signifies to be amerced or

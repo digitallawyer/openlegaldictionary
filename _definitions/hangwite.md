@@ -1,5 +1,6 @@
 ---
 title: Hangwite
+letter: H
 permalink: "/definitions/hangwite.html"
 body: In Saxon law. A fine for Illegal hanging of a thief, or for allowing him to
   escape. Immunity from such fine. Du Conge

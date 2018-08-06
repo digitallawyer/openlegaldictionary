@@ -1,5 +1,6 @@
 ---
 title: Drachma
+letter: D
 permalink: "/definitions/drachma.html"
 body: A term employed in old pleadings and records, to denote a groat Townsh. Pl.
   180.

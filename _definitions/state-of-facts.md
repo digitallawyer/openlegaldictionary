@@ -1,5 +1,6 @@
 ---
 title: State Of Facts
+letter: S
 permalink: "/definitions/state-of-facts.html"
 body: Formerly, when a master in chancery was directed by the court of chancery to
   make an inquiry or investiga-tion lnto any matter arlslng out of a suit, and which

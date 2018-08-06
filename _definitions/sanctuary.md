@@ -1,5 +1,6 @@
 ---
 title: Sanctuary
+letter: S
 permalink: "/definitions/sanctuary.html"
 body: In old English law. A consecrated place which had certain privi-leges annexed
   to it, and to which offenders were accustomed to resort for refuge, because they

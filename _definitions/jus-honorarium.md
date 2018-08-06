@@ -1,5 +1,6 @@
 ---
 title: Jus Honorarium
+letter: J
 permalink: "/definitions/jus-honorarium.html"
 body: The body of Ro-man law, which was made up of edicts of the supreme magistrates,
   particularly the praetors

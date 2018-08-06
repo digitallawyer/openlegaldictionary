@@ -1,5 +1,6 @@
 ---
 title: Classification
+letter: C
 permalink: "/definitions/classification.html"
 body: In the practice of the English chancery division, where there are several parties
   to an admlnistration actlon, including those who have been served with notice of

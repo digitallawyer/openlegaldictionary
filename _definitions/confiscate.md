@@ -1,5 +1,6 @@
 ---
 title: Confiscate
+letter: C
 permalink: "/definitions/confiscate.html"
 body: To appropriate property to the use of the state. To adjudge property to be forfeited
   to the public treasury; to seize and condemn private forfeited property to public

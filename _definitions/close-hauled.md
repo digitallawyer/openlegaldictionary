@@ -1,5 +1,6 @@
 ---
 title: Close-Hauled
+letter: C
 permalink: "/definitions/close-hauled.html"
 body: In admiralty law, this nautical term means the arrangement or trim of a vessel’s
   sails when she endeavors to make a progress in the nearest direction possible towards

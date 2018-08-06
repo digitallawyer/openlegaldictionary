@@ -1,5 +1,6 @@
 ---
 title: Lollards
+letter: L
 permalink: "/definitions/lollards.html"
 body: A body of primitive Wes-leyans, who assumed importance about the time of John
   wycliffe, (1360,) and were very successful iu disseminating evangelical truth; but,

@@ -1,5 +1,6 @@
 ---
 title: Banlieue
+letter: B
 permalink: "/definitions/banlieue.html"
 body: or BANLIEUE. A French and Canadian law term, having the same meaning as banleuca,
   (q. v

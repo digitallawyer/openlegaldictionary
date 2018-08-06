@@ -1,5 +1,6 @@
 ---
 title: Sheep-Walk
+letter: S
 permalink: "/definitions/sheep-walk.html"
 body: A right Of sheep-walk is the eame thing as a fold-course, (q. v.) Elton, Commons,
   44

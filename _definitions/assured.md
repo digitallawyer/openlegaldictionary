@@ -1,5 +1,6 @@
 ---
 title: Assured
+letter: A
 permalink: "/definitions/assured.html"
 body: A person who has been in-sured by some insurance company, or umler-writer, agaiust
   losses or perils mentioned in the policy of insurance. Brockway v. In-surunce Co.

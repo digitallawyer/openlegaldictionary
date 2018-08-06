@@ -1,5 +1,6 @@
 ---
 title: Monument
+letter: M
 permalink: "/definitions/monument.html"
 body: 1. Anything by which the memory of a person or an event is preserved or perpetuated.
   A tomb where a dead body has been deposited. Mead v. Case, 33 Barb. (N. Y.) 202;

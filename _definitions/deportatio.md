@@ -1,5 +1,6 @@
 ---
 title: Deportatio
+letter: D
 permalink: "/definitions/deportatio.html"
 body: Lat in the civil law. A kind of banlshment, where a condemned person was sent
   or carried away to some for-eign country, usually to an island, (in insu-lam deportatur,)

@@ -1,5 +1,6 @@
 ---
 title: Consisting
+letter: C
 permalink: "/definitions/consisting.html"
 body: Being composed or made up of. This word is not synonymous with “Including;”
   for the latter, when nsed in connection with a number of specified objects, always

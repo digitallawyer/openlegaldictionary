@@ -1,5 +1,6 @@
 ---
 title: De Recto De Advocatione
+letter: D
 permalink: "/definitions/de-recto-de-advocatione.html"
 body: writ of right of advowson. Reg. orlg. 29b. A writ which lay for one who had
   an estate in an advowson to him and his heirs in fee-simple, if he were disturbed

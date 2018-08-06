@@ -1,5 +1,6 @@
 ---
 title: Shipping
+letter: S
 permalink: "/definitions/shipping.html"
 body: Ships in general; ships or vessels of any kind Intended for navigation. Relating
   to ships; as, shipping interest, shipping affairs, shipping business, shipping con-cerus.

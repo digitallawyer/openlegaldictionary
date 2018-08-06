@@ -1,5 +1,6 @@
 ---
 title: Quickening
+letter: Q
 permalink: "/definitions/quickening.html"
 body: ln medical jurispru-dence. The first motion of the foetus in the womb felt by
   the mother, occurring usually about the middle of the term of pregnancy. See Com.

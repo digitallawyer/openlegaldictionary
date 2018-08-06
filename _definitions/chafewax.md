@@ -1,5 +1,6 @@
 ---
 title: Chafewax
+letter: C
 permalink: "/definitions/chafewax.html"
 body: An officer in the English chancery whose duty was to fit the wax to seal the
   writs, commissions, and other ln-struments thence issuing. The office was abolished

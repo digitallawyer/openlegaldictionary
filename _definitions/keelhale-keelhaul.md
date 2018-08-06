@@ -1,5 +1,6 @@
 ---
 title: Keelhale, Keelhaul
+letter: K
 permalink: "/definitions/keelhale-keelhaul.html"
 body: To drag a person under the keel of a ship by meaus of ropes from the yard-arms,
   a punishment for-merly practiced in the British navy. Enc. Lond

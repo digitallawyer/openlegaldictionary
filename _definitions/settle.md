@@ -1,5 +1,6 @@
 ---
 title: Settle
+letter: S
 permalink: "/definitions/settle.html"
 body: To adjust, ascertain, or liqui-date; to pay. Partles are sald to settle an account
   when they go over lts ltems and as-certaln and agree upon the balance due from one

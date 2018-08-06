@@ -1,5 +1,6 @@
 ---
 title: Disbar
+letter: D
 permalink: "/definitions/disbar.html"
 body: In England, to deprive a bar-ilster permanently of the privileges, of hls position;
   it is analogous to striking an nttor-ney off the rolls. In America, the word de-scribes

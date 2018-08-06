@@ -1,5 +1,6 @@
 ---
 title: Reprieve
+letter: R
 permalink: "/definitions/reprieve.html"
 body: In criminal law. The with* drawing of a sentence of death for an in-terval of
   time, whereby the execution is sus-pended. 4 Bl. Comm. 394. And see Butler v. State,

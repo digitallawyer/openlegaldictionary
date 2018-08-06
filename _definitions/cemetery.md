@@ -1,5 +1,6 @@
 ---
 title: Cemetery
+letter: C
 permalink: "/definitions/cemetery.html"
 body: A place of burial, dlffer-ing from a churchyard by its locality and ln-cidents.—by
   Its locality, as It is separate and apart from any sacred building used for the

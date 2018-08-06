@@ -1,5 +1,6 @@
 ---
 title: Crime
+letter: C
 permalink: "/definitions/crime.html"
 body: A crime is an act committed or omitted, in violation of a public law, either
   forbidding or commanding lt; a breach or violation of some public right or duty

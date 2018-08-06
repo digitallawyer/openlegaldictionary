@@ -1,5 +1,6 @@
 ---
 title: Cum Copula
+letter: C
 permalink: "/definitions/cum-copula.html"
 body: Lat with copulation, i. e., sexual intercourse. Used in speaking of the validity
   of a marriage contracted “per verba de futuro cum copula,” that is, with words referring

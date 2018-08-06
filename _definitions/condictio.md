@@ -1,5 +1,6 @@
 ---
 title: Condictio
+letter: C
 permalink: "/definitions/condictio.html"
 body: In Roman law. A general term for actions of a personal nature, found* ed npon
   an obligation to give or do a certain and defined thing or service. It is dis* tinguished

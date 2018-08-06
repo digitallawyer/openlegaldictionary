@@ -1,5 +1,6 @@
 ---
 title: Posteriority
+letter: P
 permalink: "/definitions/posteriority.html"
 body: This is a word of comparison and relation In tenure, the cor-relative of which
   is the word “priority.” Thus, a man who held lands or tenements of two lords was

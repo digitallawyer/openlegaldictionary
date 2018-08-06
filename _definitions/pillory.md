@@ -1,5 +1,6 @@
 ---
 title: Pillory
+letter: P
 permalink: "/definitions/pillory.html"
 body: A frame erected on a pillar, and made with holes and movable boards, through
   whlch the heads and hands of crim-inals were put

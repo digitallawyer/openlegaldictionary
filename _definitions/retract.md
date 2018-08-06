@@ -1,5 +1,6 @@
 ---
 title: Retract
+letter: R
 permalink: "/definitions/retract.html"
 body: To take back. To retract an offer is to withdraw it before acceptance, which
   the offerer may always do

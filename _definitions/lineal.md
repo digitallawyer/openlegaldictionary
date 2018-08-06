@@ -1,5 +1,6 @@
 ---
 title: Lineal
+letter: L
 permalink: "/definitions/lineal.html"
 body: That which comes in a llne; especlally a direct line, as from father to son.
   Collateral relationship is not called “lineal,” though the expresslon “collateral

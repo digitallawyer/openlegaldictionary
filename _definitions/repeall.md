@@ -1,5 +1,6 @@
 ---
 title: Repeall
+letter: R
 permalink: "/definitions/repeall.html"
 body: The abrogation or annulling of a previously existing law by the enact-ment of
   a subsequent statute which declares that the former law shall be revoked and abrogated,

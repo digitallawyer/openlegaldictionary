@@ -1,5 +1,6 @@
 ---
 title: Ring
+letter: R
 permalink: "/definitions/ring.html"
 body: A cllque; an exclusive combina-tion of persons for illegitimate or selfish purposes;
   as to control elections or political af-falrs, distribute offices, obtain contracts,

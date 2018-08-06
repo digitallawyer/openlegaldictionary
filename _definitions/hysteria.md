@@ -1,5 +1,6 @@
 ---
 title: Hysteria
+letter: H
 permalink: "/definitions/hysteria.html"
 body: A paroxysmal disease or disorder of the nervous system, more common in females
   than males, not originating in any anatomical lesion, due- to psychic rather than

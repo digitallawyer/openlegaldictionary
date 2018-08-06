@@ -1,5 +1,6 @@
 ---
 title: Transactio
+letter: T
 permalink: "/definitions/transactio.html"
 body: Lat in the civil lav. The settlement of a suit or matter in con-troversy, by
   the lltlgatlng parties, between themselves, wlthout referring it to arbltra-tlon.

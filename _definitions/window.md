@@ -1,5 +1,6 @@
 ---
 title: Window
+letter: W
 permalink: "/definitions/window.html"
 body: An opening made in the wall of a house to admit light and air, and to furnish
   a view or prospect The use of this word ih law is chiefly in connection with the

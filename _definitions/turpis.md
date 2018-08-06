@@ -1,5 +1,6 @@
 ---
 title: Turpis
+letter: T
 permalink: "/definitions/turpis.html"
 body: Lat in the dvil law. Base; mean; vile; disgraceful; infamous; unlaw-ful. Applled
   both to things and persons. Calvin

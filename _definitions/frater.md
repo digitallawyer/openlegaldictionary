@@ -1,5 +1,6 @@
 ---
 title: Frater
+letter: F
 permalink: "/definitions/frater.html"
 body: In tiie civil law. A brother. Frater con sanguineus, a brother having the same
   father, but born of a different mother. Frater u ter inns, a brother born of the

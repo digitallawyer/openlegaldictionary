@@ -1,5 +1,6 @@
 ---
 title: Boatable
+letter: B
 permalink: "/definitions/boatable.html"
 body: A term applied In some states to minor rivers and streams capable of being navigated
   in small boats, skiffs, or launches, though not by steam or sailing ves-sels. New

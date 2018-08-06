@@ -1,5 +1,6 @@
 ---
 title: Heretofore
+letter: H
 permalink: "/definitions/heretofore.html"
 body: This word simply de-notes time past, in distinction from time present or time
   future, and has no definite and precise signification beyond this. Andrews v. Thayer,

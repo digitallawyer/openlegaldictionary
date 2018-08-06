@@ -1,5 +1,6 @@
 ---
 title: Copyright
+letter: C
 permalink: "/definitions/copyright.html"
 body: The right of literary property as recognized and sanctioned by positive law.
   A right granted by statute to the author or originator of certain liter-ary or artistic

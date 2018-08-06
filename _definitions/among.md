@@ -1,5 +1,6 @@
 ---
 title: Among
+letter: A
 permalink: "/definitions/among.html"
 body: Intermingled with. “A thing which is among others is intermingled with them.
   Commerce among the states cannot stop at the external boundary line of each state,

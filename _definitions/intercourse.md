@@ -1,5 +1,6 @@
 ---
 title: Intercourse
+letter: I
 permalink: "/definitions/intercourse.html"
 body: Communlcatlon; literally, a running or passlng between persons or places; commerce.
   As applied to two persons, the word standing alone, and with-out a descriptive or

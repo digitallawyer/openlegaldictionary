@@ -1,5 +1,6 @@
 ---
 title: Review
+letter: R
 permalink: "/definitions/review.html"
 body: A reconsideration; second; view or examination; revision; consideration for
   purposes of correction. Used especially of the examination of a canse hy an appel-late

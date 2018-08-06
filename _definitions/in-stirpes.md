@@ -1,5 +1,6 @@
 ---
 title: In Stirpes
+letter: I
 permalink: "/definitions/in-stirpes.html"
 body: In the law of intestate succession. According to the roots or stocks; by representation;
   as distinguished from succession per capita. See Per Stirpes; Pbb Capita

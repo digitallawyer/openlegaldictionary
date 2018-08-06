@@ -1,5 +1,6 @@
 ---
 title: Communia Placita Non Tenenda In Scaccario
+letter: C
 permalink: "/definitions/communia-placita-non-tenenda-in-scaccario.html"
 body: An ancient writ directed to the treasurer and barons of the exchequer, forbidding
   them to hold pleas between common persons (i. e., not debtors to the king, who alone

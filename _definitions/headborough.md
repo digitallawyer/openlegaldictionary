@@ -1,5 +1,6 @@
 ---
 title: Headborough
+letter: H
 permalink: "/definitions/headborough.html"
 body: In Saxon law. Tbe head or chlef officer of a borough; chief of the frankpledge
   tithing or decennary. This office was afterwards, when the petty con-stableship

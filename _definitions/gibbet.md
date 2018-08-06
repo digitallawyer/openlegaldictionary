@@ -1,5 +1,6 @@
 ---
 title: Gibbet
+letter: G
 permalink: "/definitions/gibbet.html"
 body: A gallows; the post on which malefactors are hanged, or on which their bodies
   are exposed. It differs from a common gallows, in that it consists of one perpendicular

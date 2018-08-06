@@ -1,5 +1,6 @@
 ---
 title: Adeem
+letter: A
 permalink: "/definitions/adeem.html"
 body: To take away, recall, or revoke. To satisfy a legacy by some gift or substituted
   disposition, made by the testator, in advance. Tolman v. Toliuau, 85 Me. 317, 27

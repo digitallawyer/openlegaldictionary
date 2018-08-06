@@ -1,5 +1,6 @@
 ---
 title: Writ Of Entry
+letter: W
 permalink: "/definitions/writ-of-entry.html"
 body: A real action to re-cover the possession of land where the ten-ant (or owner)
   bas been disseised or other-wise wrongfully dispossessed. If the disseisor has aliened

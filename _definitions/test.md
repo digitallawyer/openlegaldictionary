@@ -1,5 +1,6 @@
 ---
 title: Test
+letter: T
 permalink: "/definitions/test.html"
 body: To bring one to a trial and exam-ination, or to ascertain the truth or the quality
   or fitness of a thing

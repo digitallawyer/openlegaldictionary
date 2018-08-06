@@ -1,5 +1,6 @@
 ---
 title: Indirect
+letter: I
 permalink: "/definitions/indirect.html"
 body: A term almost always used in law in opposition to “direct,” though not the only
   antithesis of the latter word, as the terms “collateral" and “cross” are sometimes

@@ -1,5 +1,6 @@
 ---
 title: Friendly Suit
+letter: F
 permalink: "/definitions/friendly-suit.html"
 body: A suit brought by a creditor in chancery agninst an executor or administrator,
   being really a suit hy the executor or administrator, in the name of a creditor,

@@ -1,5 +1,6 @@
 ---
 title: Invitation
+letter: I
 permalink: "/definitions/invitation.html"
 body: In the law of negligence, and with reference to trespasses on realty, invitation
   is the act of one who solicits or incites others to enter upon, remain in, or make

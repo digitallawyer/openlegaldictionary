@@ -1,5 +1,6 @@
 ---
 title: Ad Firmam
+letter: A
 permalink: "/definitions/ad-firmam.html"
 body: To farm. Derived from an old Saxon word denoting rent Ad flrmam noctis was a
   fine or penalty equal in amount to the estimated cost of entertaining the klng for

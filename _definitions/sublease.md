@@ -1,5 +1,6 @@
 ---
 title: Sublease
+letter: S
 permalink: "/definitions/sublease.html"
 body: A lease by a tenant to an* other person of a part of the premises held by him;
   an under-lease

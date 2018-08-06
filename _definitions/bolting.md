@@ -1,5 +1,6 @@
 ---
 title: Bolting
+letter: B
 permalink: "/definitions/bolting.html"
 body: In English practice. A term formerly used in the English inns of court, but
   more particularly at Gray’s Inn, signify-ing the private arguing of cases, as distln-guished

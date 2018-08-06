@@ -1,5 +1,6 @@
 ---
 title: Pack
+letter: P
 permalink: "/definitions/pack.html"
 body: To put together in sorts with a fraudulent design. To pack a jury is to use
   unlawful, Improper, or deceitful means to have the jury made up of persons favorably

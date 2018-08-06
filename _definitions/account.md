@@ -1,5 +1,6 @@
 ---
 title: Account
+letter: A
 permalink: "/definitions/account.html"
 body: A detailed statement of the mutual demands in the nature of debt and credit
   between parties, arising out of con

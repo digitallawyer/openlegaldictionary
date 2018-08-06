@@ -1,5 +1,6 @@
 ---
 title: Rent
+letter: R
 permalink: "/definitions/rent.html"
 body: At eommon law. A certain profit issuing yearly out of lands and tene-ments corporeal;
   a species of incorporeal hereditament. 2 Bl. Comm. 41. A compensation or return

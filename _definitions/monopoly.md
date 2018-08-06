@@ -1,5 +1,6 @@
 ---
 title: Monopoly
+letter: M
 permalink: "/definitions/monopoly.html"
 body: In commercial law. A privilege or pecullar advantage vested in one or more persons
   or companies, consisting in the exclusive right (or power) to carry on a partlcular

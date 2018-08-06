@@ -1,5 +1,6 @@
 ---
 title: Desperate
+letter: D
 permalink: "/definitions/desperate.html"
 body: Hopeless; worthless. This term is used in inventories and sched-ules of assets,
   particularly by executors, etc., to describe debts or claims which are con-sidered

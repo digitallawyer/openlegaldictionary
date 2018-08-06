@@ -1,5 +1,6 @@
 ---
 title: Ofinion
+letter: O
 permalink: "/definitions/ofinion.html"
 body: 1. In the law of evldence, oplnlon is an inference or conclusion drawn by a.
   witness from facts some of wbicb are known to him and others assumed, or drawn from

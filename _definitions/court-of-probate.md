@@ -1,5 +1,6 @@
 ---
 title: Court Of Probate
+letter: C
 permalink: "/definitions/court-of-probate.html"
 body: In English law. The name of a court established in 1857, under the probate act
   of that year, (20 A 21 VicL c. 77,) to be held in London, to which court was transferred

@@ -1,5 +1,6 @@
 ---
 title: Sailing Instructions
+letter: S
 permalink: "/definitions/sailing-instructions.html"
 body: written or printed directions, delivered by the commanding officer of a convoy
   to the several masters of the ships under hls care, by which they are enabled to

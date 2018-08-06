@@ -1,5 +1,6 @@
 ---
 title: Growing Crop
+letter: G
 permalink: "/definitions/growing-crop.html"
 body: A crop must be considered and treated as a growing crop from the time the seed
   is deposited in the ground, as at that time the seed loses the qualities of a chattel,

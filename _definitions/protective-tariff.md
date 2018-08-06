@@ -1,5 +1,6 @@
 ---
 title: Protective Tariff
+letter: P
 permalink: "/definitions/protective-tariff.html"
 body: A lnw imposing duties on imports, with the purpose and the efTect of discouraging
   the use of prod-ucts of foreign origin, and consequently of stimulating the home

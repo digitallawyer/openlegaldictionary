@@ -1,5 +1,6 @@
 ---
 title: Junto
+letter: J
 permalink: "/definitions/junto.html"
 body: or JUNTO. A select council for taking cognizance of affairs of great consequence
   requiring secrecy; a cabal or faction. This was a popular nickname ap-plled to the

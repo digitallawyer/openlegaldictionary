@@ -1,5 +1,6 @@
 ---
 title: Exit
+letter: E
 permalink: "/definitions/exit.html"
 body: Lat. It goes forth. This word is used in docket entries as a brief mention of
   the issue of process. Thus, "exit fl. fa." denotes that a writ of fieri facias has

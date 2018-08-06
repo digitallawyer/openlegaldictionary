@@ -1,5 +1,6 @@
 ---
 title: Countenance
+letter: C
 permalink: "/definitions/countenance.html"
 body: In old English law. Credit; estimation, wharton. Also, encouragement; aiding
   and abetting. Cooper v. Johnson, 81 Mo. 487

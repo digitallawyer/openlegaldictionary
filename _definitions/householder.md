@@ -1,5 +1,6 @@
 ---
 title: Householder
+letter: H
 permalink: "/definitions/householder.html"
 body: The occupier of a house. Brande. More correctly, one who keeps house with his
   family; the head or master of a family, webster; 18 Johns. 302. one who has a household;

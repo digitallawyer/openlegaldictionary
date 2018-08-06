@@ -1,5 +1,6 @@
 ---
 title: Leave
+letter: L
 permalink: "/definitions/leave.html"
 body: To give or dispose of by wilL “The word ‘leave,’ as applied to the subject-matter,
   prima fade means a disposition by will.” Thorley v. Thorley, 10 East, 438; Carr

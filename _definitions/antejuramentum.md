@@ -1,5 +1,6 @@
 ---
 title: Antejuramentum
+letter: A
 permalink: "/definitions/antejuramentum.html"
 body: In Saxon law. A preliminary or preparatory oath, (called also “pr#juramentum,”
   and “juramcntum calumni#,”) which both the accuser and ac-cused were required to

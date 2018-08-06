@@ -1,5 +1,6 @@
 ---
 title: De Excusationibus
+letter: D
 permalink: "/definitions/de-excusationibus.html"
 body: “Concerning excuses." This is the title of book 27 of the Pandects, (in the
   Corpus Juris Civilis.) It treats of the circumstances which excuse one 'from filling

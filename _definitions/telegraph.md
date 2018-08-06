@@ -1,5 +1,6 @@
 ---
 title: Telegraph
+letter: T
 permalink: "/definitions/telegraph.html"
 body: In the English telegraph act of 1863, the word is defined as “a wire or wires
   used for the purpose of telegraphic communication, with any casing, coating, tube,

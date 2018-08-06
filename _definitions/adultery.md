@@ -1,5 +1,6 @@
 ---
 title: Adultery
+letter: A
 permalink: "/definitions/adultery.html"
 body: Adultery is the voluntary sexual intercourse of a married person with a i>erson
   other than the -offender’s husband or wife. Clvll Code Cal. 8,93; 1 pish. Mar. &

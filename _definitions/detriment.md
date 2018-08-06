@@ -1,5 +1,6 @@
 ---
 title: Detriment
+letter: D
 permalink: "/definitions/detriment.html"
 body: Any loss or harm suffer-ed in person or property; e. g., the cousldera-tlon
   for a contract may conslst not only in a payment or other thing of value given,

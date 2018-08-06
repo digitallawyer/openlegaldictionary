@@ -1,5 +1,6 @@
 ---
 title: Inch
+letter: I
 permalink: "/definitions/inch.html"
 body: A measure of length, containing one-twelfth part of a foot; originally sup-posed
   equal to three barleycorns

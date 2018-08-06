@@ -1,5 +1,6 @@
 ---
 title: Misconduct
+letter: M
 permalink: "/definitions/misconduct.html"
 body: Any unlawful conduct on the part of a person concerned in the ad-ministration
   of Justice which is prejudicial to the rights of parties or to the right deter-mlnation

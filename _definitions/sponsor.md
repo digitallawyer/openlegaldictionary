@@ -1,5 +1,6 @@
 ---
 title: Sponsor
+letter: S
 permalink: "/definitions/sponsor.html"
 body: A surety; one who makes a promise or gives security for another, partic-ularly
   a godfather in baptlsm.

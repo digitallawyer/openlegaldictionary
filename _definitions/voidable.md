@@ -1,5 +1,6 @@
 ---
 title: Voidable
+letter: V
 permalink: "/definitions/voidable.html"
 body: That may he avoided, or declared void; not absolutely void, or void in itself.
   Most of the acts of infants are voidable only, and not absolutely void. 2 Kent,

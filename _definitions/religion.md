@@ -1,5 +1,6 @@
 ---
 title: Religion
+letter: R
 permalink: "/definitions/religion.html"
 body: As used in constitutional provisions forblddlng the “establlshment of religion,"
   the term means a partlcular system of faith and worship recognized and practised

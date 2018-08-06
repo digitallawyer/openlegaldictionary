@@ -1,5 +1,6 @@
 ---
 title: Grub Stake
+letter: G
 permalink: "/definitions/grub-stake.html"
 body: In mining law. A con-tract between two parties by which one un-dertakes to furnish
   the necessary provisions, tools, and other supplies, and the other to prospect for

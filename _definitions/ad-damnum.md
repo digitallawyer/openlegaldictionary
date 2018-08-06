@@ -1,5 +1,6 @@
 ---
 title: Ad Damnum
+letter: A
 permalink: "/definitions/ad-damnum.html"
 body: In pleading. “To the damage." The technical name of that cIause of the wrlt
   or declaration which contains a statement of the plaintiff’s money loss, or the

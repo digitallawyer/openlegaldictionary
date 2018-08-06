@@ -1,5 +1,6 @@
 ---
 title: Apotheca
+letter: A
 permalink: "/definitions/apotheca.html"
 body: In the clvil law. A re-pository; a place of deposit, as of wine, oil, books,
   etc. Calvin

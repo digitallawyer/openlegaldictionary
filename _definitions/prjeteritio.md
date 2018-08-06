@@ -1,5 +1,6 @@
 ---
 title: Prjeteritio
+letter: P
 permalink: "/definitions/prjeteritio.html"
 body: Lat A passing over or omission. Used in the Roman law to de-scribe the act of
   a testator in excluding a given heir from the Inheritance by silently passlng hlm

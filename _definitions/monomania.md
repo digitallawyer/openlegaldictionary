@@ -1,5 +1,6 @@
 ---
 title: Monomania
+letter: M
 permalink: "/definitions/monomania.html"
 body: In medical jurlspru-dence. Deraugement of a single faculty of the mind, or with
   regard to a particular sub-Ject, the other faculties being in regular ex-ercise.

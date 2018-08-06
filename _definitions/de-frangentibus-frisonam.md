@@ -1,5 +1,6 @@
 ---
 title: De Frangentibus Frisonam
+letter: D
 permalink: "/definitions/de-frangentibus-frisonam.html"
 body: Concerning those that break prison. The title of the statute 1 Edw. II. ordainlng
   that none from thenceforth who broke prison should have judgment of life or limb

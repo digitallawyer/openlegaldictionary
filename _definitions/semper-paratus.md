@@ -1,5 +1,6 @@
 ---
 title: Semper Paratus
+letter: S
 permalink: "/definitions/semper-paratus.html"
 body: Lat Always ready. The name of a plea by whlch the de-fendont alleges that he
   has always been ready to perform what is demanded of hlm. 3 Bl. Comm. 303

@@ -1,5 +1,6 @@
 ---
 title: Mandavi Ballivo
+letter: M
 permalink: "/definitions/mandavi-ballivo.html"
 body: "(I have com-manded or made my mandate to the bailiff.) in English practice.
   The return made by a sheriff, where the bailiff of a liberty has the execution of

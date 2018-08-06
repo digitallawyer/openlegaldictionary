@@ -1,5 +1,6 @@
 ---
 title: Causare
+letter: C
 permalink: "/definitions/causare.html"
 body: In the civil and old English law. To be engaged in a suit; to litl-gate; to
   conduct a cause

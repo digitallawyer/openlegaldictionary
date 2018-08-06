@@ -1,5 +1,6 @@
 ---
 title: Recrimination
+letter: R
 permalink: "/definitions/recrimination.html"
 body: A charge made by an accused person against the accuser; in particular a counter-charge
   of adultery or cruelty made by one charged with the same offense in a suit for divorce,

@@ -1,5 +1,6 @@
 ---
 title: Eminent Domain
+letter: E
 permalink: "/definitions/eminent-domain.html"
 body: Eminent domain is the right of the people or government to take private property
   for public use. Code Civ. Proc. Cal. 8 1237; Cherokee Nation v. Southern Kan. R.

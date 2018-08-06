@@ -1,5 +1,6 @@
 ---
 title: Dying Without Issue
+letter: D
 permalink: "/definitions/dying-without-issue.html"
 body: At common law this phrase imports an indefinite failure of issue, and not a
   dying without is-sue surviving at the time of the death of the first taker. But

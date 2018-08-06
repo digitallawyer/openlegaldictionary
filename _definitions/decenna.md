@@ -1,5 +1,6 @@
 ---
 title: Decenna
+letter: D
 permalink: "/definitions/decenna.html"
 body: In old English law. A tithing or decennary; the preclnct of a frank* pledge;
   consisting of ten freeholders with thejr families. Spelman

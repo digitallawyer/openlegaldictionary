@@ -1,5 +1,6 @@
 ---
 title: Et Alius
+letter: E
 permalink: "/definitions/et-alius.html"
 body: And another. The abbrh-viation et al. (sometimes in the plural writ-ten et als.)
   is affixed to the name of the per-sou first mentioned, where there are several plaintiffs,

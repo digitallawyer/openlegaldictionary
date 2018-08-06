@@ -1,5 +1,6 @@
 ---
 title: Bilateral Contract
+letter: B
 permalink: "/definitions/bilateral-contract.html"
 body: A term, used originally in the civil law, but now generally adopted, denoting
   a contract in which both the contracting parties are bound to fulfill obligations

@@ -1,5 +1,6 @@
 ---
 title: Arser In Le Main
+letter: A
 permalink: "/definitions/arser-in-le-main.html"
 body: Burning in the hand. The punishment by burning or branding the left thumb of
   lay offenders who claimed and were allowed the benefit of clergy, so as to distinguish

@@ -1,5 +1,6 @@
 ---
 title: Patrimonium
+letter: P
 permalink: "/definitions/patrimonium.html"
 body: In the civU law. The prlvate and exclusive ownership or dominion of an individual.
   Things capable of belng possessed by a single person to the exclusion of all others

@@ -1,5 +1,6 @@
 ---
 title: Abigere
+letter: A
 permalink: "/definitions/abigere.html"
 body: Lat. In the clvll law. To drive awny. Applied to those who drove nway animals
   with the intention of stealing them. Applied, also, to the simllar offense of enttle

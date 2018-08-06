@@ -1,5 +1,6 @@
 ---
 title: Set Out
+letter: S
 permalink: "/definitions/set-out.html"
 body: In pleadlng. To recite or narrate facts or drcumstauces; to allege or aver;
   to describe or to lncorporate; as, to set out a deed or contract First Nat. Bank

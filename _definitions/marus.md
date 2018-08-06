@@ -1,5 +1,6 @@
 ---
 title: Marus
+letter: M
 permalink: "/definitions/marus.html"
 body: In old Scotch law. A maire; an officer or executor of summons, otherwise called
   “praeco regis.” Skene

@@ -1,5 +1,6 @@
 ---
 title: Inquisitio
+letter: I
 permalink: "/definitions/inquisitio.html"
 body: IO. in old English law. An Inquisition or inquest. Inquisitio post mortem, an
   inquisition after death. An inquest of office held, during the continuance of the

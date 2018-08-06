@@ -1,5 +1,6 @@
 ---
 title: Border Warrant
+letter: B
 permalink: "/definitions/border-warrant.html"
 body: A process grant-ed by a Judge ordinary, on either side of the border between
   England and Scotland, for arresting the person or effects of a per-son living on

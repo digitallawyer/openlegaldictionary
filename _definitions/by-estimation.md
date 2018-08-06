@@ -1,5 +1,6 @@
 ---
 title: By Estimation
+letter: B
 permalink: "/definitions/by-estimation.html"
 body: In conveyancing. A term used to indicate that the quantity of land as stated
   is estimated only, not exactly measured; has the same meaning and effect as the

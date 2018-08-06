@@ -1,5 +1,6 @@
 ---
 title: Estate By The Curtesy
+letter: E
 permalink: "/definitions/estate-by-the-curtesy.html"
 body: Tenant by the curtesy of Eugland is where a man survives a wife who was seised
   in fee-simple or fee-tail of lands or tenements, and has had issue male or female

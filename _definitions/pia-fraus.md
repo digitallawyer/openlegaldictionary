@@ -1,5 +1,6 @@
 ---
 title: Pia Fraus
+letter: P
 permalink: "/definitions/pia-fraus.html"
 body: Lat A pious fraud; a subterfuge or evasion considered morally justifiable on
   account of the ends sought to be promoted. Partlcularly applied to an evasion or

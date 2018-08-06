@@ -1,5 +1,6 @@
 ---
 title: Usurpatio
+letter: U
 permalink: "/definitions/usurpatio.html"
 body: Lat. In the civil law. The interruption of a usucaption, by some att on the
   part of the real owner. Calvin

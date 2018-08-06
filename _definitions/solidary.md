@@ -1,5 +1,6 @@
 ---
 title: Solidary
+letter: S
 permalink: "/definitions/solidary.html"
 body: A term of civil-law origin, Blgnifylug that the right or interest spoken of
   is joint or common. A “solidary obliga-tion" corresponds to a “joint and several’’

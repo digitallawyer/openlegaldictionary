@@ -1,5 +1,6 @@
 ---
 title: Defenso
+letter: D
 permalink: "/definitions/defenso.html"
 body: That part of any open field or place that was allotted for corn or hay, and
   upon which there was no common or feeding, was anciently said to be in defenso;

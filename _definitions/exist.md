@@ -1,5 +1,6 @@
 ---
 title: Exist
+letter: E
 permalink: "/definitions/exist.html"
 body: 'To live; to have life or anima-tlon; to be in present force, activity, or effect
   at a given time: as in speaking of “ex-i8ting" contracts, creditors, debts, laws,

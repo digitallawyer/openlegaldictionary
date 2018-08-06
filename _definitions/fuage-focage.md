@@ -1,5 +1,6 @@
 ---
 title: Fuage, Focage
+letter: F
 permalink: "/definitions/fuage-focage.html"
 body: Hearth money. A tax laid upon each fire-place or hearth. An imposition of a
   shilling for every hearth, levied by Edward III. in the dukedom of Aquitaine. Spelman;

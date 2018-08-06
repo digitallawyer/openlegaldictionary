@@ -1,5 +1,6 @@
 ---
 title: In Bulk
+letter: I
 permalink: "/definitions/in-bulk.html"
 body: As a whole; as an entirety, without division into items or physical sep-aration
   in packages or parcels. Standard 011 Co. v. Com., 119 Ky. 75, 82 8. W. 1022; Fitz

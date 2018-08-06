@@ -1,5 +1,6 @@
 ---
 title: Ides
+letter: I
 permalink: "/definitions/ides.html"
 body: A division of time among the Romans. In March, May, July, and october, the Ides
   were on the 15th of the month; in the remaining months, on the 13th. This method

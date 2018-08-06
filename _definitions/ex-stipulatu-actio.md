@@ -1,5 +1,6 @@
 ---
 title: Ex Stipulatu Actio
+letter: E
 permalink: "/definitions/ex-stipulatu-actio.html"
 body: In the clvll law. An action of stipulation. An action given to recover marriage
   portions. Inst. 4, ft. 29

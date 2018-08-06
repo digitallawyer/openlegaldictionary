@@ -1,5 +1,6 @@
 ---
 title: Chamber Deacons
+letter: C
 permalink: "/definitions/chamber-deacons.html"
 body: or CHAMBER DEACONS. In old English law. Certain poor Irish scholars, clothed
   in mean habit, and living under no rule; also beggars ban-ished from England. (1

@@ -1,5 +1,6 @@
 ---
 title: Henceforth
+letter: H
 permalink: "/definitions/henceforth.html"
 body: A word of futurity, whlch, as employed in legal documents, stat-utes, and the
   llke, always imports a con-tinuity of action or condition from the pres-ent time

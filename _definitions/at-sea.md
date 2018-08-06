@@ -1,5 +1,6 @@
 ---
 title: At Sea
+letter: A
 permalink: "/definitions/at-sea.html"
 body: out of the limits of any port or harbor on the sea-coast The Harriet, 1 Story,
   251, Fed. Cas. No. 6,099. See wales v. Insurance Co., 8 Allen (Mass.) 380; Hub-bard

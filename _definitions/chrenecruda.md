@@ -1,5 +1,6 @@
 ---
 title: Chrenecruda
+letter: C
 permalink: "/definitions/chrenecruda.html"
 body: Under the Salic law. This was a ceremony performed by a person who was too poor
   to pay his debt or fine, whereby he applied to a rich relative to pay it for him.

@@ -1,5 +1,6 @@
 ---
 title: Iis N
+letter: I
 permalink: "/definitions/iis-n.html"
 body: 467; Huyck v. Andrews, 118 N. Y. 81, 20 N. E. 581, 3 L. R. A. 789, 10 Am. St.
   Rep. 432; Alling v. Burlock, 46 Conn. 510; Demars v. Koehler, 62 N. J. Law, 203,

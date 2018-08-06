@@ -1,5 +1,6 @@
 ---
 title: Meretricious
+letter: M
 permalink: "/definitions/meretricious.html"
 body: of tbe nature of un-Iawful sexual connection. The term is descriptive of the
   relation sustained oy persons wbo contract a marriage that is vold by reason of

@@ -1,5 +1,6 @@
 ---
 title: Select Council
+letter: S
 permalink: "/definitions/select-council.html"
 body: The name given, in some states, to the upper house or branch of the council
   of a dty

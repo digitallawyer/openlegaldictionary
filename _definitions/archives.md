@@ -1,5 +1,6 @@
 ---
 title: Archives
+letter: A
 permalink: "/definitions/archives.html"
 body: The Rolls; any place where ancient records, charters, and evidences are kept
   In libraries, the private depository. Cowell; Spelman

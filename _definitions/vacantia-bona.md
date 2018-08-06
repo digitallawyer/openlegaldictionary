@@ -1,5 +1,6 @@
 ---
 title: Vacantia Bona
+letter: V
 permalink: "/definitions/vacantia-bona.html"
 body: Lat in the civil law. Goods withont an owner, or in which no one claims a property;
   escheated goods. Inst. 2, 6, 4; 1 Bl. Comm. 298

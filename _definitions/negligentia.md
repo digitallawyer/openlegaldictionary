@@ -1,5 +1,6 @@
 ---
 title: Negligentia
+letter: N
 permalink: "/definitions/negligentia.html"
 body: Lat. In the civil law. Carelessness; inattention; the omission of proper care
   or forethought. The term is not exactly equivalent to our “negligence," ln-asmuch

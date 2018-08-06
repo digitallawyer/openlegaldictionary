@@ -1,5 +1,6 @@
 ---
 title: Catchings
+letter: C
 permalink: "/definitions/catchings.html"
 body: Things caught, and in the possession, custody, power, and dominion of the party,
   with a present capacity to use them for hls own purposes. The term includes blubher,

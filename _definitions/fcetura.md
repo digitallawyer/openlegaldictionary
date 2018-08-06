@@ -1,5 +1,6 @@
 ---
 title: Fcetura
+letter: F
 permalink: "/definitions/fcetura.html"
 body: In the civil law. The pro-duce of animals, and the fruit of other prop-erty,
   which are acquired to the owner of such animals and property by virtue of his right.

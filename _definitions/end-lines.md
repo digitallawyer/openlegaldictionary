@@ -1,5 +1,6 @@
 ---
 title: End Lines
+letter: E
 permalink: "/definitions/end-lines.html"
 body: In mining law, the end lines of a claim, as platted or laid down on the ground,
   are those which mark its bound-aries on the shorter dimension, where it crosses

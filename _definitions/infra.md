@@ -1,5 +1,6 @@
 ---
 title: Infra
+letter: I
 permalink: "/definitions/infra.html"
 body: Lat Below; underneath; wlth-in. This word occurring by itself in a book refers
   the reader to a subsequent part of the book, like “post." It is the opposite of

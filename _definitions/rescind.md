@@ -1,5 +1,6 @@
 ---
 title: Rescind
+letter: R
 permalink: "/definitions/rescind.html"
 body: To abrogate, annul, avold, or cancel a contract; particularly, nullifying a
   contract by the act of a party. See Powell v. Linde Co., 29 Misc. Rep. '419, 60

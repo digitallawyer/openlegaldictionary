@@ -1,5 +1,6 @@
 ---
 title: Jus Projigiendi
+letter: J
 permalink: "/definitions/jus-projigiendi.html"
 body: DI. In the civil law. The name of a servitude which cousists in the right to
   build a projection, such us a balcony or galiery, from one's bouse in the open space

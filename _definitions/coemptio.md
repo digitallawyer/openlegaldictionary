@@ -1,5 +1,6 @@
 ---
 title: Coemptio
+letter: C
 permalink: "/definitions/coemptio.html"
 body: Mutual purchase, one of the modes in which marriage was contracted among the
   Romans. The man and the woman delivered to each other a small piece of mon-ey. The

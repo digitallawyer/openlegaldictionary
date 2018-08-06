@@ -1,5 +1,6 @@
 ---
 title: Redhibitory Agtion
+letter: R
 permalink: "/definitions/redhibitory-agtion.html"
 body: In the civil law. An action for redhibition. An action to avoid a sale on account
   of some vice or defect in the thing Bold, which renders its use Impossible, or so

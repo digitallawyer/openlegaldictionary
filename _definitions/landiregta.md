@@ -1,5 +1,6 @@
 ---
 title: Landiregta
+letter: L
 permalink: "/definitions/landiregta.html"
 body: In Saxon law. Services and duties laid upon all that held land, including the
   three obligations culled “trino

@@ -1,5 +1,6 @@
 ---
 title: Disposable Portion
+letter: D
 permalink: "/definitions/disposable-portion.html"
 body: That portlon of a man’s property which he is free to dispose of by will to beneficiaries
   other than his wife and children. By the ancient common law, this amounted to one-third

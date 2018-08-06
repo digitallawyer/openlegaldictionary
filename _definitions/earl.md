@@ -1,5 +1,6 @@
 ---
 title: Earl
+letter: E
 permalink: "/definitions/earl.html"
 body: A title of nobility, formerly the highest in England, now the third, ranking
   between a marquis and a viscount, and cor-respouding with the French “comte” and

@@ -1,5 +1,6 @@
 ---
 title: Usual
+letter: U
 permalink: "/definitions/usual.html"
 body: Habitual; ordlnary; customary; accordlng to usage or custom; commonly established,
   observed, or practised. See Chi* cago & A. R. Co. v. Hause, 71 111. App. 147; Kellogg

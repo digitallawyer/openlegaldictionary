@@ -1,5 +1,6 @@
 ---
 title: Corporation Act
+letter: C
 permalink: "/definitions/corporation-act.html"
 body: In Engllsh law. The statute 13 Car. II. SL 2, c. 1; by whlch it was provided
   that no person should there-after be elected to office iu any corporate town that

@@ -1,5 +1,6 @@
 ---
 title: Return
+letter: R
 permalink: "/definitions/return.html"
 body: The act of a sheriff, con-stable, or other ministerial oflicer, in de-llvering
   back to the court a writ, notice, or other paper, which he was required to serve

@@ -1,5 +1,6 @@
 ---
 title: Discretion
+letter: D
 permalink: "/definitions/discretion.html"
 body: A liberty or privilege al-lowed to a judge, within the confines of right and
   Justice, but independent of narrow and unbending rules of positive law, to decide

@@ -1,5 +1,6 @@
 ---
 title: Estate In Severalty
+letter: E
 permalink: "/definitions/estate-in-severalty.html"
 body: An estate held by a person in his own right only, with* out any other person
   being joined or connected with him in point of interest, during his estate. This

@@ -1,5 +1,6 @@
 ---
 title: Habeas Corpora Juratorum
+letter: H
 permalink: "/definitions/habeas-corpora-juratorum.html"
 body: A writ commanding the sheriff to bring up the persons of jurors, and, if need
   were, to distrain them of their lands and goods, in order to Insure or compel thelr

@@ -1,5 +1,6 @@
 ---
 title: Disclamation
+letter: D
 permalink: "/definitions/disclamation.html"
 body: In Scotch law. Dis-avowal of tenure; denial that one holds lands of another.
   Bell

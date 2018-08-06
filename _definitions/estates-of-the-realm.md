@@ -1,5 +1,6 @@
 ---
 title: Estates Of The Realm
+letter: E
 permalink: "/definitions/estates-of-the-realm.html"
 body: The lords spiritual, the lords temporal, aud the commons of Gveat Britain. 1
   Bl. Comm. 153. Sometimes called the “three estates.”

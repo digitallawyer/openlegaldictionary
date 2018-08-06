@@ -1,5 +1,6 @@
 ---
 title: Rationes
+letter: R
 permalink: "/definitions/rationes.html"
 body: In old law. The pleadlngs in a suit. Rationes exereere, or ad rationes stare,
   to plead

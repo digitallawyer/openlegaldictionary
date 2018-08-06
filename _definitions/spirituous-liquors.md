@@ -1,5 +1,6 @@
 ---
 title: Spirituous Liquors
+letter: S
 permalink: "/definitions/spirituous-liquors.html"
 body: These are in-flammable liquids produced by distillation, and forming an article
   of commerce. See Blankenship v. State, 93 Ga. 814, 21 S. E. 130; State v. Munger,

@@ -1,5 +1,6 @@
 ---
 title: Enteroeur
+letter: E
 permalink: "/definitions/enteroeur.html"
 body: L. Fr. A party challeng-ing (claiming) goods; he who has placed them in the
   hands of a third person. Eel-ham

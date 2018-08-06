@@ -1,5 +1,6 @@
 ---
 title: Hypothesis
+letter: H
 permalink: "/definitions/hypothesis.html"
 body: A supposition, assumption, or theory; a theory set up by the pros-ecution, on
   a criminal trial, or by the de-fense, as on explanation of the facts in evi-dence,

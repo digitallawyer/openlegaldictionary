@@ -1,5 +1,6 @@
 ---
 title: Necessary
+letter: N
 permalink: "/definitions/necessary.html"
 body: As used in jurisprudence^ the word "necessary" does not always import an absolute
   physical necessity, so strong that one thing, to wbich another may be termed "necessary,"

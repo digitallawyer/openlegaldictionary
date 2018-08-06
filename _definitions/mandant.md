@@ -1,5 +1,6 @@
 ---
 title: Mandant
+letter: M
 permalink: "/definitions/mandant.html"
 body: In French and Scotch law. The employing party in the contract of man-datum,
   or mandate. Story, Bailm. $ 138

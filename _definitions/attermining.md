@@ -1,5 +1,6 @@
 ---
 title: Attermining
+letter: A
 permalink: "/definitions/attermining.html"
 body: In old English law. A putting off; the granting of a time or term, as for the
   payment of a debt. Cowell

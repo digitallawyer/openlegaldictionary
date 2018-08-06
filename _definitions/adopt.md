@@ -1,5 +1,6 @@
 ---
 title: Adopt
+letter: A
 permalink: "/definitions/adopt.html"
 body: To accept, appropriate, choose, or select; to make that one’s own (property
   or act) which was not so originally

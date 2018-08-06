@@ -1,5 +1,6 @@
 ---
 title: Rental
+letter: R
 permalink: "/definitions/rental.html"
 body: (Said to be corrupted from “rent-roll.") In English law. A roll on which the
   rents of a manor are registered or set down, and by which the lord's bailiff collects

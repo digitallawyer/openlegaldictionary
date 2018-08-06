@@ -1,5 +1,6 @@
 ---
 title: Household
+letter: H
 permalink: "/definitions/household.html"
 body: A family llvtng together. May v. Smith, 48 Ala. 488; woodward v. Murray, 18
   Johns. (N. Y.) 402; Arthur v. Morgan, 112 U. S. 495, 5 Sup. Ct 241, 28 L. Ed. 825.

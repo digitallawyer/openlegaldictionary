@@ -1,5 +1,6 @@
 ---
 title: Furnish
+letter: F
 permalink: "/definitions/furnish.html"
 body: To supply; provide; pro-vlde for use. Delp v. Brewing Co., 123 Pa. 42, 15 Atl.
   871; wyatt v. Larimer & W. Irr. Co., 1 Colo. App. 480, 29 Pac. 906. As used in the

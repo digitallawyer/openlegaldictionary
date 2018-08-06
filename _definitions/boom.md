@@ -1,5 +1,6 @@
 ---
 title: Boom
+letter: B
 permalink: "/definitions/boom.html"
 body: An inclosure formed upon the surface of a stream or other body of water, by
   means of piers and a chain of spars, for the purpose of collecting or storing logs

@@ -1,5 +1,6 @@
 ---
 title: Body Of A County
+letter: B
 permalink: "/definitions/body-of-a-county.html"
 body: A county at large, as distinguished from any particular place withiu it. A county
   considered as a territorial whole. State v. Arthur, 39 Iowa, 632; People v. Dunn,

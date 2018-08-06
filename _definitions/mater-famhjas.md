@@ -1,5 +1,6 @@
 ---
 title: Mater-Famhjas
+letter: M
 permalink: "/definitions/mater-famhjas.html"
 body: Lat. In tbe civil law. The mother or mistress of a family. A chaste woman, married
   or single. Calvin

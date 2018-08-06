@@ -1,5 +1,6 @@
 ---
 title: Writ
+letter: W
 permalink: "/definitions/writ.html"
 body: A precept in writing, couched In the form of a letter, running in the name of
   the king, president, or state, issuing from a court of justice, and sealed with

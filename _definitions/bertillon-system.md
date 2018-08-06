@@ -1,5 +1,6 @@
 ---
 title: Bertillon System
+letter: B
 permalink: "/definitions/bertillon-system.html"
 body: A method of anthropometry, used chiefly for the identifi-cation of criminals
   and other persons, con-sisting of the taking and recording of a sys-tem of numerous,

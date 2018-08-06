@@ -1,5 +1,6 @@
 ---
 title: Pondus
+letter: P
 permalink: "/definitions/pondus.html"
 body: In old English law. Poundage; i. e., a duty paid to the crown according to the
   weight of merchandise

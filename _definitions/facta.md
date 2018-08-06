@@ -1,5 +1,6 @@
 ---
 title: Facta
+letter: F
 permalink: "/definitions/facta.html"
 body: In old English law. Deeds. Facta armorum, deeds or feats of arms; that is, jousts
   or tournaments. Cowell

@@ -1,5 +1,6 @@
 ---
 title: Derogatory Clause
+letter: D
 permalink: "/definitions/derogatory-clause.html"
 body: In a will, thls is a sentence or secret character lnsert-ed by the testator,
   of whlch he reserves the knowledge to hlmself, with a condition that no will he

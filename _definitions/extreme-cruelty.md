@@ -1,5 +1,6 @@
 ---
 title: Extreme Cruelty
+letter: E
 permalink: "/definitions/extreme-cruelty.html"
 body: In the law of divorce. The infliction of grievous bodily harm or grievous mental
   suffering. Clv. Code Cal. 1903, S 94. Either personal vio-lence or the reasonable

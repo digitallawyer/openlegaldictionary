@@ -1,5 +1,6 @@
 ---
 title: Sewer
+letter: S
 permalink: "/definitions/sewer.html"
 body: A fresh-water trench or little, river, encompassed with banks on both sides,
   to drain off surplus water lnto the sea. Cow-ell. Properly, a trench artificially

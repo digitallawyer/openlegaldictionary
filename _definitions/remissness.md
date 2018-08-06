@@ -1,5 +1,6 @@
 ---
 title: Remissness
+letter: R
 permalink: "/definitions/remissness.html"
 body: This term imports the doing of the act in question in a tardy, neg-ligent, or
   careless manner; hut it does not apply to the entire omission or forbearance of

@@ -1,5 +1,6 @@
 ---
 title: Short Entry
+letter: S
 permalink: "/definitions/short-entry.html"
 body: A custom of bankers of entering on the customer’s pass-book the amount of notes
   deposited for collection, in such a manner that the amount is not car-ried to the

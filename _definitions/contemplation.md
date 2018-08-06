@@ -1,5 +1,6 @@
 ---
 title: Contemplation
+letter: C
 permalink: "/definitions/contemplation.html"
 body: The act of the mind in considering with attention. Continued attention of the
   mind to a particular sub-ject. Consideration of an act or series of acts with the

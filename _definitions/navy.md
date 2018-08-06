@@ -1,5 +1,6 @@
 ---
 title: Navy
+letter: N
 permalink: "/definitions/navy.html"
 body: A fleet of ships; the aggregate of vessels of war belonging to an independ-ent
   nation. In a broader sense, and as equlv-alent to “naval forces," the entire corps

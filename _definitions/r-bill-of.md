@@ -1,5 +1,6 @@
 ---
 title: R, Bill Of
+letter: R
 permalink: "/definitions/r-bill-of.html"
 body: ILL OF. tn equity, prnc-1 tice. A bill filed for the purpose of reviving qjc
   calling into operation the proceedings in .n shit, when, from some circumstance,

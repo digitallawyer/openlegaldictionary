@@ -1,5 +1,6 @@
 ---
 title: Hung Jury
+letter: H
 permalink: "/definitions/hung-jury.html"
 body: A jury so irreconcilably divided in opinion that they cannot agree npon any
   verdict

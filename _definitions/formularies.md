@@ -1,5 +1,6 @@
 ---
 title: Formularies
+letter: F
 permalink: "/definitions/formularies.html"
 body: Collections of formula, or forms of forensic proceedings and Instruments used
   among the Franks, and other early continental nations of Europe. Among these the

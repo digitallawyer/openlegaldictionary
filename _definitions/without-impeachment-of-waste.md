@@ -1,5 +1,6 @@
 ---
 title: Without Impeachment Of Waste
+letter: W
 permalink: "/definitions/without-impeachment-of-waste.html"
 body: The effect of the Insertion of this clause in a lease for life is to give the
   tenant the right to cut timber on the estate, without making himself thereby liable

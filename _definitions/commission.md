@@ -1,5 +1,6 @@
 ---
 title: Commission
+letter: C
 permalink: "/definitions/commission.html"
 body: A warrant or authority or letters patent, issuing from the govern-ment, or one
   of its departments, or a court, empowering a person or persons named to do certain

@@ -1,5 +1,6 @@
 ---
 title: Mejorado
+letter: M
 permalink: "/definitions/mejorado.html"
 body: In Spanish law. Prefer-red; advanced, white, New Recop. L 3, tit 10, c. 1, |
   4

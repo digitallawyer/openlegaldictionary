@@ -1,5 +1,6 @@
 ---
 title: Sheading
+letter: S
 permalink: "/definitions/sheading.html"
 body: A riding, tithing, or divi-sion in the Isle of Man, where the whole island is
   divided into six sheadings, in each of which there is a coroner or chief consta-ble

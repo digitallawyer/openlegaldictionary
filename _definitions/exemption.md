@@ -1,5 +1,6 @@
 ---
 title: Exemption
+letter: E
 permalink: "/definitions/exemption.html"
 body: Freedom from a general duty or service; immunity from a general burden, tax,
   or charge. Green v. State, 59 Md. 128, 43 Am. Rep. 542; Koenig v. Rail-road Co.,

@@ -1,5 +1,6 @@
 ---
 title: Tare
+letter: T
 permalink: "/definitions/tare.html"
 body: A deficiency in the weight or quantity of merchandise by reason of the weight
   of the box, cask, bag, or other recep-tacle which contains it and is weighed with

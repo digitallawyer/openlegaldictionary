@@ -1,5 +1,6 @@
 ---
 title: Court Of The Coroner
+letter: C
 permalink: "/definitions/court-of-the-coroner.html"
 body: In Eng-llsh law. A court of record, to inquire, when any one dies in prison,
   or comes to a violent or sudden death, hy what manner he came to his end. 4 -Steph.

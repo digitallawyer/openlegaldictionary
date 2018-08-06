@@ -1,5 +1,6 @@
 ---
 title: Breaking
+letter: B
 permalink: "/definitions/breaking.html"
 body: Forcibly separating, parting, disintegrating, or piercing any solid substance.
   In the law as to housebreaking and burglary, it means the tearing away or removal

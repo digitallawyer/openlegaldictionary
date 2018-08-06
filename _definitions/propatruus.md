@@ -1,5 +1,6 @@
 ---
 title: Propatruus
+letter: P
 permalink: "/definitions/propatruus.html"
 body: Lat. In the civil law. A great-grandfather’s brother. Inst. 3, 6, 3; Bract,
   fol. 68b

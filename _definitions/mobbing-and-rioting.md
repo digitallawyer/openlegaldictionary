@@ -1,5 +1,6 @@
 ---
 title: Mobbing And Rioting
+letter: M
 permalink: "/definitions/mobbing-and-rioting.html"
 body: In Scotch law. A general term including all those convocations of the lieges
   for violent and un-lawful purposes, which are attended with In-Jury to the persons

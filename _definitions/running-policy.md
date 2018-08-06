@@ -1,5 +1,6 @@
 ---
 title: Running Policy
+letter: R
 permalink: "/definitions/running-policy.html"
 body: A running policy is one which contemplates successive In-surances, aud which
   provides that the object of the policy mny be from time to time de-flned, especially

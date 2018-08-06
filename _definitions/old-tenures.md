@@ -1,5 +1,6 @@
 ---
 title: Old Tenures
+letter: O
 permalink: "/definitions/old-tenures.html"
 body: A treatise, so called to distinguish it from Littletbn’s book on the same subject,
   which gives an account of the various tenures by which land was holden, the nature

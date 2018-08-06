@@ -1,5 +1,6 @@
 ---
 title: Fundamental Law
+letter: F
 permalink: "/definitions/fundamental-law.html"
 body: The law which determines the constitution of government in a state, and prescribes
   and regulates the manner of its exercise; the organic law of a state; the constitution

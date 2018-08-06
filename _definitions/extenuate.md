@@ -1,5 +1,6 @@
 ---
 title: Extenuate
+letter: E
 permalink: "/definitions/extenuate.html"
 body: To lessen; to palliate; to mitigate. Connell v. State, 46 Tex. Cr. R. 259, 81
   S. W. 748

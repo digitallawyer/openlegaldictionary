@@ -1,5 +1,6 @@
 ---
 title: Quare
+letter: Q
 permalink: "/definitions/quare.html"
 body: Lat wherefore; for what rea-son; on what account. Used in the Latin - form of
   several common-law writs

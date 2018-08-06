@@ -1,5 +1,6 @@
 ---
 title: Ex Commodato
+letter: E
 permalink: "/definitions/ex-commodato.html"
 body: From or out of. loan. A term applied in the old law of Eng-land to a right of
   action arising out of a loan, (oommodatum.) Glanv. llb. 10, c. 13; 1 Reeve, Eng.

@@ -1,5 +1,6 @@
 ---
 title: Hest Corn
+letter: H
 permalink: "/definitions/hest-corn.html"
 body: In old records. Com or grain glven or devoted to rellglous persons or purposes.
   2 Mon. Angl. 367b; CoweU

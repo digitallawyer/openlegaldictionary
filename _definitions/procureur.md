@@ -1,5 +1,6 @@
 ---
 title: Procureur
+letter: P
 permalink: "/definitions/procureur.html"
 body: 'In French law. An at-torney-; one who has received a commission from another
   to act on his behalf. There were in France two classes of procureurs: Procureurs

@@ -1,5 +1,6 @@
 ---
 title: Marque And Reprisal, Letters Of
+letter: M
 permalink: "/definitions/marque-and-reprisal-letters-of.html"
 body: These words, “marque” and “reprisal," are frequently used as synony-mous, but,
   taken in thelr strict etymological sense, the latter signifies a “taking in re-turn;”

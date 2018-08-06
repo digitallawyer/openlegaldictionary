@@ -1,5 +1,6 @@
 ---
 title: Usus
+letter: U
 permalink: "/definitions/usus.html"
 body: Lat. In Roman law. A precarl-oug enjoymeut of land, corresponding wlth the rlght
   of habitatio of houses, and heing closely analogous to the tenancy at sufferance

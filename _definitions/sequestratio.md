@@ -1,5 +1,6 @@
 ---
 title: Sequestratio
+letter: S
 permalink: "/definitions/sequestratio.html"
 body: Lat in the civil law. The separating or setting aside of a thing in ■controversy,
   from the possession of both par-ties that contend for it It is twofold,— voluntary,

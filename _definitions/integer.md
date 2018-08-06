@@ -1,5 +1,6 @@
 ---
 title: Integer
+letter: I
 permalink: "/definitions/integer.html"
 body: LaL whole; untouched. Res integra meaus a questlon which is new and undecided.
   2 Kent, Comm. 177

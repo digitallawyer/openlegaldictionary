@@ -1,5 +1,6 @@
 ---
 title: Per Saltum
+letter: P
 permalink: "/definitions/per-saltum.html"
 body: Lat By a leap or bound; by a sudden movement; passing over certain proceedings.
   8 East, 511

@@ -1,5 +1,6 @@
 ---
 title: Sidesmen
+letter: S
 permalink: "/definitions/sidesmen.html"
 body: In ecclesiastical law. These were originally persons whom, in the ancient episcopal
   synods, the bishops were wont to summon out of each parish to give informa-tion

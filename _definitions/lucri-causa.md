@@ -1,5 +1,6 @@
 ---
 title: Lucri Causa
+letter: L
 permalink: "/definitions/lucri-causa.html"
 body: Lat in criminal law. A term descriptive of the intent with which property is
   taken in cases of larceny, the phrase meaning “for the sake of lucre" or gain. State

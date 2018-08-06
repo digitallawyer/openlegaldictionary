@@ -1,5 +1,6 @@
 ---
 title: Extensores
+letter: E
 permalink: "/definitions/extensores.html"
 body: In old English law. Extenders or appraisers. The name of cer-tain officers appointed
   to appraise and divide or apportion lands. It was thelr duty to make a survey, schedule,

@@ -1,5 +1,6 @@
 ---
 title: Interruption
+letter: I
 permalink: "/definitions/interruption.html"
 body: The occurrence of eome act or fact, during the period of prescription, which
   is sufliclent to arrest the running of the statute of limitations. It is said to

@@ -1,5 +1,6 @@
 ---
 title: Creek
+letter: C
 permalink: "/definitions/creek.html"
 body: In maritime law. Such little inlets of the sea, whether within the precinct
   or extent of a port or without, as are narrow passages, and have shore on either

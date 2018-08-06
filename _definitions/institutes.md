@@ -1,5 +1,6 @@
 ---
 title: Institutes
+letter: I
 permalink: "/definitions/institutes.html"
 body: A name sometimes given to text-books containing the elementary prin-ciples of
   jurisprudence, arranged in an or* derly and systematic manner. For example, tbe

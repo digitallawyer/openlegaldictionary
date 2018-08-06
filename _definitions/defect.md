@@ -1,5 +1,6 @@
 ---
 title: Defect
+letter: D
 permalink: "/definitions/defect.html"
 body: The want or absence of some legal requisite; deficiency; Imperfection; insufficiency.
   Haney-Campbell Co. v. Creamery

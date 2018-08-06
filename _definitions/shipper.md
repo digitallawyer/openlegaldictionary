@@ -1,5 +1,6 @@
 ---
 title: Shipper
+letter: S
 permalink: "/definitions/shipper.html"
 body: 1. The owner of goods who lntrusts them on board a vessel for delivery abroad,
   hy charter-party or otherwise

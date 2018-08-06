@@ -1,5 +1,6 @@
 ---
 title: Dempster
+letter: D
 permalink: "/definitions/dempster.html"
 body: In Scotch law. A dooms-man. one who pronounced the sentence of court. 1 How.
   State Tr. 937

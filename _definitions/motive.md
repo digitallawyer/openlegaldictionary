@@ -1,5 +1,6 @@
 ---
 title: Motive
+letter: M
 permalink: "/definitions/motive.html"
 body: The inducement, cause, or reason why a thing is done. An act legal in itself,
   and which violates no right, is not actionable on account of the motive which actuated

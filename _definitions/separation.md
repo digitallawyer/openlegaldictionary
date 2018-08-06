@@ -1,5 +1,6 @@
 ---
 title: Separation
+letter: S
 permalink: "/definitions/separation.html"
 body: In matrimonial law; A cessation of cohabitation of husband and wife by mutual
   agreement, or, in the case of “judicial separation,” under the decree of a court

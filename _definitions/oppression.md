@@ -1,5 +1,6 @@
 ---
 title: Oppression
+letter: O
 permalink: "/definitions/oppression.html"
 body: The misdemeanor committed by a public officer, who under color of his office,
   wrongfully inflicts upon .any person any bodily harm, imprisonment, or other injury.

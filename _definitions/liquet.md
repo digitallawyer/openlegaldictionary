@@ -1,5 +1,6 @@
 ---
 title: Liquet
+letter: L
 permalink: "/definitions/liquet.html"
 body: It is'clear or apparent; it appears. Satis liquet, it sufficiently appears.
   1 Strange, 412

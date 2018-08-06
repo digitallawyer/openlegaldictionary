@@ -1,5 +1,6 @@
 ---
 title: Arrival
+letter: A
 permalink: "/definitions/arrival.html"
 body: In marine insurance. The arrival of a vessel means an arrival for pur-poses
   of business, requiring an entry aud clearance and stay at the port so long as to

@@ -1,5 +1,6 @@
 ---
 title: Contentious
+letter: C
 permalink: "/definitions/contentious.html"
 body: Contested; adversary; litigated between adverse or contending parties; a judicial
   proceeding not merely ex parte in its character, hut comprising attack and defense

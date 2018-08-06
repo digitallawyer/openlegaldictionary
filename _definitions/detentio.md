@@ -1,5 +1,6 @@
 ---
 title: Detentio
+letter: D
 permalink: "/definitions/detentio.html"
 body: In the civil law. That condition of fact under wbicb one can exercise his power
   over a corporeal thing at hls pleasure, to the exclusion of all othera. It forms

@@ -1,5 +1,6 @@
 ---
 title: Improvements
+letter: I
 permalink: "/definitions/improvements.html"
 body: A term used in leas-es, of doubtful meaning. It would seem to apply principally
   to buildings, though generally it extends to the amelioration of every description

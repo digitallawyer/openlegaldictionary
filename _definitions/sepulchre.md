@@ -1,5 +1,6 @@
 ---
 title: Sepulchre
+letter: S
 permalink: "/definitions/sepulchre.html"
 body: A grave or tomb. The place of Interment of a dead human body. The violation
   of sepulchres is a misdemeanor at common law

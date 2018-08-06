@@ -1,5 +1,6 @@
 ---
 title: Apply
+letter: A
 permalink: "/definitions/apply.html"
 body: 1. To make a formal request or petitlon, usually in writing, to a court, officer,
   board, or company, for the granting of some favor, or of some rule or order, which

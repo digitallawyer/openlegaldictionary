@@ -1,5 +1,6 @@
 ---
 title: Composition
+letter: C
 permalink: "/definitions/composition.html"
 body: An agreement, made upon a sufficient consideration, between an insolvent or
   embarrassed debtor and hls creditors, whereby the latter, for the sake of immediate

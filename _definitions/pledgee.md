@@ -1,5 +1,6 @@
 ---
 title: Pledgee
+letter: P
 permalink: "/definitions/pledgee.html"
 body: The party to whom goods are pledged, or delivered in pledge. Story, Ballm. |
   287

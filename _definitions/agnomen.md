@@ -1,5 +1,6 @@
 ---
 title: Agnomen
+letter: A
 permalink: "/definitions/agnomen.html"
 body: Lat. An additional name or title; a nickname. A name or title which a man gets
   by some action or peculiarity; the last of tlie four names sometimes given a Roman.

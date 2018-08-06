@@ -1,5 +1,6 @@
 ---
 title: Excommunicato Recapiendo
+letter: E
 permalink: "/definitions/excommunicato-recapiendo.html"
 body: A writ commanding that persons excommu-nlcated, who for their obstinacy had
   been committed to prison, but were unlawfully set free before they had given caution

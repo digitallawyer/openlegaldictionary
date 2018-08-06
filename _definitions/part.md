@@ -1,5 +1,6 @@
 ---
 title: Part
+letter: P
 permalink: "/definitions/part.html"
 body: A portion, share, or purpart one of two duplicate originals of a convey-ance
   or covenant, the other being called “counterpart." Also, in composition, partial

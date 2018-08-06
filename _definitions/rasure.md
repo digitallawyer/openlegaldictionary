@@ -1,5 +1,6 @@
 ---
 title: Rasure
+letter: R
 permalink: "/definitions/rasure.html"
 body: The act of scraping, scratch-lng, or shaving the surface of a written in-strument,
   for the purpose of removlng cer-tain letters or words from it It is to be dlstlngulshed

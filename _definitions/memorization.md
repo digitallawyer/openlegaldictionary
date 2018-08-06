@@ -1,5 +1,6 @@
 ---
 title: Memorization
+letter: M
 permalink: "/definitions/memorization.html"
 body: Committing anything to memory. Used to describe the act of one who listens to
   a public representation of. a play or drama, and then, from his recollection of

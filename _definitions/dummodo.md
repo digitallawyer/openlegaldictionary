@@ -1,5 +1,6 @@
 ---
 title: Dummodo
+letter: D
 permalink: "/definitions/dummodo.html"
 body: Provided; provided that A word of limitation in the Latin forms of conveyances,
   of frequent use in introducing a reservation; as in reserving a rent

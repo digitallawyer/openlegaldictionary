@@ -1,5 +1,6 @@
 ---
 title: Pro Derelioto
+letter: P
 permalink: "/definitions/pro-derelioto.html"
 body: As derelict or aban-doned. A species of usucaptlon in the civil law. Dig. 41,
   7

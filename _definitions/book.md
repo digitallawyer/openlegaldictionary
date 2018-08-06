@@ -1,5 +1,6 @@
 ---
 title: Book
+letter: B
 permalink: "/definitions/book.html"
 body: 1. A general designation applied to any literary composition which is print-ed,
   but appropriately to a printed composi-tlon hound in a volume. Scoville v. Toland,

@@ -1,5 +1,6 @@
 ---
 title: Action Of Book Debt
+letter: A
 permalink: "/definitions/action-of-book-debt.html"
 body: A form of action for the recovery of claims, such as are usually evidenced by
   a book-account; this action is principally used in Vermont and Connecticut. Terrill

@@ -1,5 +1,6 @@
 ---
 title: Private Law
+letter: P
 permalink: "/definitions/private-law.html"
 body: As used in contradls-tinction to public law, the term means all that part of
   tbe law which is administered between citizen and citizen, or which is concerned

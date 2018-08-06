@@ -1,5 +1,6 @@
 ---
 title: Mutiny
+letter: M
 permalink: "/definitions/mutiny.html"
 body: In crlminal law. An insur-rection of soldiers or seamen against the au-thorlty
   of their commanders; a sedition or revolt in the army or navy. See The St^-cey Clarke

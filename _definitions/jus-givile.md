@@ -1,5 +1,6 @@
 ---
 title: Jus Givile
+letter: J
 permalink: "/definitions/jus-givile.html"
 body: Civll law. The system of law peculiar to one state or people. Inst. 1, 2, 1.
   Particularly, in Roman law, the civil law of the Roman people, as distinguished

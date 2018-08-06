@@ -1,5 +1,6 @@
 ---
 title: Regrant
+letter: R
 permalink: "/definitions/regrant.html"
 body: In the English law of real property, when, after a person has made a grant,
   the property granted comes back to him, (e. g., by escheat or forfeiture,) and he

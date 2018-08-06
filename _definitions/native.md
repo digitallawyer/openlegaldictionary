@@ -1,5 +1,6 @@
 ---
 title: Native
+letter: N
 permalink: "/definitions/native.html"
 body: A natural-born subject or citl-zen; a denizen by blrth; one who owes his domicile
   or citizenship to the fact of his birth within the country referred to. The term

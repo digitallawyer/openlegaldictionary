@@ -1,5 +1,6 @@
 ---
 title: Delirium
+letter: D
 permalink: "/definitions/delirium.html"
 body: In medical jurisprudence. Delirium is that state of the mind in which it acts
   withont being directed by the power of volition, which is wholly or partially sus-pended.

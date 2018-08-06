@@ -1,5 +1,6 @@
 ---
 title: Thoroughfare
+letter: T
 permalink: "/definitions/thoroughfare.html"
 body: The term means, a accordlng to Its derivation, a street or pas-sage through
   which one can fare, (travel;) that is, a street or highway affording an unobstructed

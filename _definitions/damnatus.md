@@ -1,5 +1,6 @@
 ---
 title: Damnatus
+letter: D
 permalink: "/definitions/damnatus.html"
 body: In old English law. Con-demned; prohibited by law; unlawful. Dam-natus coitus,
   an unlawful connection

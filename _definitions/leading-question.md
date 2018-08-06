@@ -1,5 +1,6 @@
 ---
 title: Leading Question
+letter: L
 permalink: "/definitions/leading-question.html"
 body: A qnestion pnt or framed in such a form as to suggest the answer sought to be
   obtained by the person interrogating. Coogler v. Rhodes, 38 Fla. 240, 21 South.

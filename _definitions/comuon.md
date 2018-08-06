@@ -1,5 +1,6 @@
 ---
 title: Comuon
+letter: C
 permalink: "/definitions/comuon.html"
 body: As an adjective, this word denotes usual, ordinary, accustomed; shared amongst
   several; owned by several Jolntly. State v.. o’Conner, 49 Me. 596; Eoen v. State,

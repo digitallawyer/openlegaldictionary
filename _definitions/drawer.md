@@ -1,5 +1,6 @@
 ---
 title: Drawer
+letter: D
 permalink: "/definitions/drawer.html"
 body: The person making a bill of exchange and addressing It to the drawee. Stevenson
   v. walton, 2 Smedes & M. (Miss.) 265; winnebago County State Bank v. Hustel, 119

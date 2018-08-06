@@ -1,5 +1,6 @@
 ---
 title: Vhs Et Modis
+letter: V
 permalink: "/definitions/vhs-et-modis.html"
 body: Lat. In the ecclesias-tical courts, service of a decree or citation viis ef
   modis, i. e., by ail “ways and means” likely to afTect the party wlth knowledge

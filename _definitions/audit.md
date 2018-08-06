@@ -1,5 +1,6 @@
 ---
 title: Audit
+letter: A
 permalink: "/definitions/audit.html"
 body: As a verb; to make an official investigation and examination of accounts and
   vouchers

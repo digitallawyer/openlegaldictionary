@@ -1,5 +1,6 @@
 ---
 title: Independence
+letter: I
 permalink: "/definitions/independence.html"
 body: The state or condl-tlon of being free from dependence, subjection, or control.
   Polltlcal Independence is the attribute of a natlon or state which is entirely autonomous,

@@ -1,5 +1,6 @@
 ---
 title: Menace
+letter: M
 permalink: "/definitions/menace.html"
 body: A threat; the declaration or show of a disposition or determination to inflict
   an evil or injury upon another. Cum-ming v. State, 99 Ga. 662, 27 S. E. 177; Mor-rill

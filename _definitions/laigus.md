@@ -1,5 +1,6 @@
 ---
 title: Laigus
+letter: L
 permalink: "/definitions/laigus.html"
 body: Lat. A layman, one who is not in holy orders, or not engaged in the ministry
   of religion

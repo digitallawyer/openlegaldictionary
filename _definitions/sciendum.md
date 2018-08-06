@@ -1,5 +1,6 @@
 ---
 title: Sciendum
+letter: S
 permalink: "/definitions/sciendum.html"
 body: Lat in English law. The name given to a clause Inserted in the record by which
   it is made “known that the justice here in court, iu this same term, delivered a

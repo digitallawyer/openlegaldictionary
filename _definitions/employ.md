@@ -1,5 +1,6 @@
 ---
 title: Employ
+letter: E
 permalink: "/definitions/employ.html"
 body: To engage in one’s service; to use as an agent or substitute in transact-lng
   business; to commission and intrust with the management of one’s affairs; and, when

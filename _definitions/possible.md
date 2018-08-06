@@ -1,5 +1,6 @@
 ---
 title: Possible
+letter: P
 permalink: "/definitions/possible.html"
 body: Capable of existing or hap-peniug; feasible. . in another sense, the word denotes
   extreme improbability, without excluding the idea of feasibility. It is also sometimes

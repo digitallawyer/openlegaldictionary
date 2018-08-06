@@ -1,5 +1,6 @@
 ---
 title: Fac Simile Probate
+letter: F
 permalink: "/definitions/fac-simile-probate.html"
 body: In England, where the construction of a wlll jnay be affected by the appearance
   of the original paper, the court wlll order the probate to pass in foe simile, as

@@ -1,5 +1,6 @@
 ---
 title: Footgeld
+letter: F
 permalink: "/definitions/footgeld.html"
 body: Iu the forest law. An amercement for not cutting out the ball or cutting off
   the claws of a dog’s feet, (exped-itating him.) To be quit of footgeld is to have

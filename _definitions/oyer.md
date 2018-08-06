@@ -1,5 +1,6 @@
 ---
 title: Oyer
+letter: O
 permalink: "/definitions/oyer.html"
 body: In old praotioo. Hearing; the hearing a deed read, which a party sued on a bond,
   etc., might pray or demand, and it was then read to him hy the other party; tbe

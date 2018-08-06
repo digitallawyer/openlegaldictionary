@@ -1,5 +1,6 @@
 ---
 title: Seguritatis Paois
+letter: S
 permalink: "/definitions/seguritatis-paois.html"
 body: In old English law. Seourity of the peace. A wrlt that lay for one who was threatened
   wlth death or bodlly harm hy another, agalnst hlm who so threatened. Reg. orlg.

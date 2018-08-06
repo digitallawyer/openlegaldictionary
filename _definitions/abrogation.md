@@ -1,5 +1,6 @@
 ---
 title: Abrogation
+letter: A
 permalink: "/definitions/abrogation.html"
 body: The annulment of a law by constitutional authority. It stands opposed to rogation;
   and is distinguished from derogation, which implies the taking away only some part

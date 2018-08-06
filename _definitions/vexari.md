@@ -1,5 +1,6 @@
 ---
 title: Vexari
+letter: V
 permalink: "/definitions/vexari.html"
 body: Lat To be harassed, vexed, or annoyed; to be prosecuted; as in the max-im,'Nemo
   debet bis vexari pro una et eadem causa, no one should be twice prosecuted for bne

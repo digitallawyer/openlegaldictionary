@@ -1,5 +1,6 @@
 ---
 title: Amenity
+letter: A
 permalink: "/definitions/amenity.html"
 body: In real property law. Such circumstances, in regard to situation, out-look,
   access to a water-course, or the like, as enhance the pleasantness or desirability

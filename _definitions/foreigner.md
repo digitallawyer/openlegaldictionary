@@ -1,5 +1,6 @@
 ---
 title: Foreigner
+letter: F
 permalink: "/definitions/foreigner.html"
 body: In old English law, this term, when used with reference to a particu-lar city,
   designated any person who was not an inhabitant of that city. According to lat-er

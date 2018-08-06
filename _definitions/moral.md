@@ -1,5 +1,6 @@
 ---
 title: Moral
+letter: M
 permalink: "/definitions/moral.html"
 body: 1. Pertaining or relating to the conscience or moral sense or to the general
   principles of right conduct

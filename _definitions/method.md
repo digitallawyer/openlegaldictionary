@@ -1,5 +1,6 @@
 ---
 title: Method
+letter: M
 permalink: "/definitions/method.html"
 body: In patent law. "Engine" and "method” mean the same thing, and may be the subject
   of a patent Method, properly speaking, is only placing several things, or performing

@@ -1,5 +1,6 @@
 ---
 title: C. A
+letter: C
 permalink: "/definitions/ca.html"
 body: V. An abbreviation for curia ad-visari vult, the court will be advised, will
   consider, will deliberate

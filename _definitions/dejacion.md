@@ -1,5 +1,6 @@
 ---
 title: Dejacion
+letter: D
 permalink: "/definitions/dejacion.html"
 body: In Spanish law. Surren-der; release; abandonment; e. g., the act of an Insolvent
   in surrendering hls property for the benefit of hls creditors, of an heir in re-noundng

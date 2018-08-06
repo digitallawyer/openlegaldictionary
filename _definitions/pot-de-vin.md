@@ -1,5 +1,6 @@
 ---
 title: Pot-De-Vin
+letter: P
 permalink: "/definitions/pot-de-vin.html"
 body: 'In French law. A sum of money frequently paid, at the moment of entering into
   a contract, beyond the price agreed upon. It differs from arrha, in this: that it

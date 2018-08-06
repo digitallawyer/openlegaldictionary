@@ -1,5 +1,6 @@
 ---
 title: Co-Optation
+letter: C
 permalink: "/definitions/co-optation.html"
 body: A concurring choice; the election, by the members of a close corporation, of
   a person to fill a vacancy

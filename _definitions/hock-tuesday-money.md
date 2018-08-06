@@ -1,5 +1,6 @@
 ---
 title: Hock-Tuesday Money
+letter: H
 permalink: "/definitions/hock-tuesday-money.html"
 body: This was a duty given to the landlord that his tenants and bondmen might solemnize
   the day on which the English conquered the Danes, being the second Tuesday after

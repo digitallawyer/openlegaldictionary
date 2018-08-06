@@ -1,5 +1,6 @@
 ---
 title: Running Days
+letter: R
 permalink: "/definitions/running-days.html"
 body: Days counted in their regular succession on the calendar, in duding Sundays
   and holidays. Brown v. Johnson, 10 Mees. A W. 334; Crowell v. Bar-reda, 16 Gray

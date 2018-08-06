@@ -1,5 +1,6 @@
 ---
 title: Proceeds
+letter: P
 permalink: "/definitions/proceeds.html"
 body: Issues; produce; money obtained by the sale of property; the sum, amount, or
   value of property sold or converted into money or into other property. See Hunt

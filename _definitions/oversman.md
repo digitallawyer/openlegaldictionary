@@ -1,5 +1,6 @@
 ---
 title: Oversman
+letter: O
 permalink: "/definitions/oversman.html"
 body: In Scotch law. An umpire appointed by a submission to decide where two arbiters
   have differed in opinion, or he ia named by the arbiters themselves, under powers

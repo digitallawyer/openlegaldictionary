@@ -1,5 +1,6 @@
 ---
 title: Patrolman
+letter: P
 permalink: "/definitions/patrolman.html"
 body: A policeman assigned to duty in patrolling a certain beat or district; also
   the designation of a grade or rank in the organized police force of large cities,

@@ -1,5 +1,6 @@
 ---
 title: Incumbent
+letter: I
 permalink: "/definitions/incumbent.html"
 body: A person who is in pres-ent possession of an office; one who is le-gally authorized
   to discharge the duties of an office. State v. McCoilister, 11 ohio, 50; gtate v.

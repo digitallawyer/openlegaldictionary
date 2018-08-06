@@ -1,5 +1,6 @@
 ---
 title: Instigation
+letter: I
 permalink: "/definitions/instigation.html"
 body: Incitation; urging; so licitatlon. The act by which one incites an-otber to
   do something, as to commit some crime or to commence a suit. State v. Frak-er, 148

@@ -1,5 +1,6 @@
 ---
 title: Claimant
+letter: C
 permalink: "/definitions/claimant.html"
 body: In admiralty practice. The name given to a person .who lays claim to property
   seized on a libel in rem, and who is authorized and admitted to defend the action.

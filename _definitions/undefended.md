@@ -1,5 +1,6 @@
 ---
 title: Undefended
+letter: U
 permalink: "/definitions/undefended.html"
 body: A term sometimes ap-plied to one who is obliged to make his own defense when
   on trial, or in a civil cause. A cause is said to be undefended when the defendant

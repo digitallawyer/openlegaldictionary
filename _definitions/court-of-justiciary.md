@@ -1,5 +1,6 @@
 ---
 title: Court Of Justiciary
+letter: C
 permalink: "/definitions/court-of-justiciary.html"
 body: A Scotch court of general criminal jurisdiction of all offenses committed in
   any part of Scotland, both to try causes and to review decisions of Inferior criminal

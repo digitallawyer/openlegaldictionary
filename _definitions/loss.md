@@ -1,5 +1,6 @@
 ---
 title: Loss
+letter: L
 permalink: "/definitions/loss.html"
 body: In inanranoe. The injury or damage sustained by the insured in consequence of
   the happening of one or more of the accidents or misfortunes against which tbe insurer,

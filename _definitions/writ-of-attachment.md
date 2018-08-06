@@ -1,5 +1,6 @@
 ---
 title: Writ Of Attachment
+letter: W
 permalink: "/definitions/writ-of-attachment.html"
 body: A wrlt employed to enforce obedience to an order or judgment of the conrt It
   commands the sherlff to attach the disobedient party and to have him before the

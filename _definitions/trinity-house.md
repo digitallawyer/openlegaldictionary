@@ -1,5 +1,6 @@
 ---
 title: Trinity House
+letter: T
 permalink: "/definitions/trinity-house.html"
 body: In English law. A society ait Deptford Strond, incorporated by Hen. VIII. in
   1515, for the promotion of commerce and navigation by licensing and regulating pilots,

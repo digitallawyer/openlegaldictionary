@@ -1,5 +1,6 @@
 ---
 title: Channel
+letter: C
 permalink: "/definitions/channel.html"
 body: Thfs term refers rather to tbe bed in which the main stream of a river flows
   than to tbe deep water of the stream as followed in navigation. Bridge Co. v. Du-buque

@@ -1,5 +1,6 @@
 ---
 title: Delay
+letter: D
 permalink: "/definitions/delay.html"
 body: To retard; obstruct; pnt off; hinder; interpose obstacles; as, when it is said
   that a conveyance was made to “hinder and delay creditors.” Mercantile Co. v. Ar-nold,

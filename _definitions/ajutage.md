@@ -1,5 +1,6 @@
 ---
 title: Ajutage
+letter: A
 permalink: "/definitions/ajutage.html"
 body: A tube, conical in form, intended to be applied to an aperture through which
   water passes, whereby the flow of the water is greatly increased. See Schuylkill

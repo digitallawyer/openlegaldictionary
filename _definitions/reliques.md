@@ -1,5 +1,6 @@
 ---
 title: Reliques
+letter: R
 permalink: "/definitions/reliques.html"
 body: Remains; such as the bones, etc., of saints, preserved with great veneration
   as sacred memorials. Th^y hnve been forbidden to be used or brought into England.

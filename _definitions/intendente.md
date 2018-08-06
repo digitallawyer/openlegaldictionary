@@ -1,5 +1,6 @@
 ---
 title: Intendente
+letter: I
 permalink: "/definitions/intendente.html"
 body: In Spanish law. The Immediate ageut of the minister of finance^ or the chief
   and principal director of the different branches of the revenue, appointed in the

@@ -1,5 +1,6 @@
 ---
 title: Kabani
+letter: K
 permalink: "/definitions/kabani.html"
 body: A person who, in oriental states, supplies the place of our notary public. AU
   obligations, to be valid, are drawn by him; and he is also the public weigh-master,

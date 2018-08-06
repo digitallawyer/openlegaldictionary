@@ -1,5 +1,6 @@
 ---
 title: Executory
+letter: E
 permalink: "/definitions/executory.html"
 body: That which is yet to be executed or performed; that which remains to be carried
   into operation or effect; incomplete ; depending upon a future performance or event

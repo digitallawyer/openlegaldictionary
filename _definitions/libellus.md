@@ -1,5 +1,6 @@
 ---
 title: Libellus
+letter: L
 permalink: "/definitions/libellus.html"
 body: Lat. In tbo civil law. A little book. Libcllus supplex, a petition, es-peeially
   to the emperor, all petitions to whom must be iu writing. Libcllum rescribere, to

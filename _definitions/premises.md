@@ -1,5 +1,6 @@
 ---
 title: Premises
+letter: P
 permalink: "/definitions/premises.html"
 body: That whlch is put before; that which precedes; the foregoing state-ments. Thus,
   in logic, the two introductory propositions of the syllogism are called the “premises,"

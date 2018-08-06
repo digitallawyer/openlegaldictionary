@@ -1,5 +1,6 @@
 ---
 title: Dertvative
+letter: D
 permalink: "/definitions/dertvative.html"
 body: Coming from another; taken from something preceding; secondary; that which has
   not its origin in itself, but owes its existence to something foregoing

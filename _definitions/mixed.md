@@ -1,5 +1,6 @@
 ---
 title: Mixed
+letter: M
 permalink: "/definitions/mixed.html"
 body: Formed by admixture or commingling; partaking of the nature, character, or legal
   attributes of two or more dlstlnct kinds or classes

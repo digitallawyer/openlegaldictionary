@@ -1,5 +1,6 @@
 ---
 title: Guti
+letter: G
 permalink: "/definitions/guti.html"
 body: Jutes; one of the three natlons who migrated from Germany to Britain at an early
   perlod. According to Spelman, they established themselves chlefly in Kent and the

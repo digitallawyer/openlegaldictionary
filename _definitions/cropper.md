@@ -1,5 +1,6 @@
 ---
 title: Cropper
+letter: C
 permalink: "/definitions/cropper.html"
 body: one wlio, having no interest in tlie laud, works it in consideration of receiving
   a portion of the crop for his labor. Fry v. Jones, 2 Rawle (Pa.) 11; wood v. Garrison

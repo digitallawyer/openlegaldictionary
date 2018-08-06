@@ -1,5 +1,6 @@
 ---
 title: Threat
+letter: T
 permalink: "/definitions/threat.html"
 body: In criminal law. A menace; a declaration of one’s purpose or intention to work
   injury to the person, property, or rights of another

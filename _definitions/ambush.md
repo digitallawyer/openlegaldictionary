@@ -1,5 +1,6 @@
 ---
 title: Ambush
+letter: A
 permalink: "/definitions/ambush.html"
 body: The noun "ambush” means (1) the act of attacking an eneipy unexpect-edly from
   a concealed station; (2) a conceal-ed station, where troops or enemies lie in wait

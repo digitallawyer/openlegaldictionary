@@ -1,5 +1,6 @@
 ---
 title: Cuneator
+letter: C
 permalink: "/definitions/cuneator.html"
 body: A coiner. Du Cange. Cu-ncare, to coiu. Cuneus, the die with which to coin. Cuneata,
   coined. Du Cange; Spel

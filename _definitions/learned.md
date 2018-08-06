@@ -1,5 +1,6 @@
 ---
 title: Learned
+letter: L
 permalink: "/definitions/learned.html"
 body: Possessing learuing; erudite; versed in the law. In statutes prescribing the
   qualifications of Judges, “learned in the law” designates one who has received a

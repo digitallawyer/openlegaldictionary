@@ -1,5 +1,6 @@
 ---
 title: Insurrection
+letter: I
 permalink: "/definitions/insurrection.html"
 body: A rebellion, or rising of citizens or subjects in resistance to their government.
   See Insurgent

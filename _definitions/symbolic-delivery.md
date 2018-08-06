@@ -1,5 +1,6 @@
 ---
 title: Symbolic Delivery
+letter: S
 permalink: "/definitions/symbolic-delivery.html"
 body: The constructive delivery of the subject-matter of a sale, where it is cumbersome
   or inaccessible, by the actual delivery of some article which ie conventionally

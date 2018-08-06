@@ -1,5 +1,6 @@
 ---
 title: Enajenagion
+letter: E
 permalink: "/definitions/enajenagion.html"
 body: In Spanish and Mex-ican law. Alienation; transfer of property. The act by which
   the property in a thing, by lucrative title, is transferred, as a donation; or by

@@ -1,5 +1,6 @@
 ---
 title: Teste Meipso
+letter: T
 permalink: "/definitions/teste-meipso.html"
 body: Lat. In old Englisb law and practice. A solemn formula of attestation hy the
   sovereign, used at the condu-sion of charters, and other public instru-ments, and

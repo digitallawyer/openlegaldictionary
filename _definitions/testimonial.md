@@ -1,5 +1,6 @@
 ---
 title: Testimonial
+letter: T
 permalink: "/definitions/testimonial.html"
 body: Besides its ordinary meaning of a written recommendation to character, ''testimonial”
   has a speclal mean* lng, under SL 39 Eliz. c. 17, { 3, passed in 1597, under which

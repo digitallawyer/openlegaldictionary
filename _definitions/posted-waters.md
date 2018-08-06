@@ -1,5 +1,6 @@
 ---
 title: Posted Waters
+letter: P
 permalink: "/definitions/posted-waters.html"
 body: In Vermont Waters flowing through or lying upon Inclosed or cultivated lands,
   which are preserved for the exclusive use of the owner or occupant by hls posting

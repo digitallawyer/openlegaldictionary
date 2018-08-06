@@ -1,5 +1,6 @@
 ---
 title: Polygarchy
+letter: P
 permalink: "/definitions/polygarchy.html"
 body: A term sometimes used to denote a government of many or several; a government
   where the sovereignty is shared by several persons; a collegiate or divided executive

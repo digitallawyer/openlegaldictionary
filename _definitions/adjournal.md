@@ -1,5 +1,6 @@
 ---
 title: Adjournal
+letter: A
 permalink: "/definitions/adjournal.html"
 body: A term applied in Scotch law and practlce to the records of the criminal courts.
   The original records of criminal trials were called “bukis of adiornale,” or "books

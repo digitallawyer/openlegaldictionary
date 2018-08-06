@@ -1,5 +1,6 @@
 ---
 title: Short Summons
+letter: S
 permalink: "/definitions/short-summons.html"
 body: A process, author-ized in some of the states, to be issued against an absconding,
   fraudulent, or non-resident debtor, which is returnable wlthln a less number of

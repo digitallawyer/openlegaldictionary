@@ -1,5 +1,6 @@
 ---
 title: Imports
+letter: I
 permalink: "/definitions/imports.html"
 body: Importations; goods or other property imported or brought into the country from
   a foreign country

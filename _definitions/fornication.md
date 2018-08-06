@@ -1,5 +1,6 @@
 ---
 title: Fornication
+letter: F
 permalink: "/definitions/fornication.html"
 body: Unlawful sexual ln-tercourse between two unmarried persons. Further, if one
   of the persons be married and the other not, it is fornication on the part of the

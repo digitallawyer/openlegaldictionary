@@ -1,5 +1,6 @@
 ---
 title: Forinsic
+letter: F
 permalink: "/definitions/forinsic.html"
 body: In old English law. Exterior ; foreign; extraordinary. In feudal law, the term
   “forinsic services” compre-hended the payment of extraordinary aids or the rendition

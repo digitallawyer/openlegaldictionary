@@ -1,5 +1,6 @@
 ---
 title: Wampum
+letter: W
 permalink: "/definitions/wampum.html"
 body: UM. Beads made of shells, used iis money by the North American Indians, and
   which continued current in New York as late as 1693

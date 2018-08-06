@@ -1,5 +1,6 @@
 ---
 title: Super-Jurare
+letter: S
 permalink: "/definitions/super-jurare.html"
 body: over-swearing. A term anciently used when a crlminal endeav-ored to excuse hlmself
   by his own oath or the oath of one or two witnesses, and the crime objected agalnst

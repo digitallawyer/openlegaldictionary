@@ -1,5 +1,6 @@
 ---
 title: Yobk, Statute Of
+letter: Y
 permalink: "/definitions/yobk-statute-of.html"
 body: An Important English statute passed at the city of York, in the twelfth year
   of Edward II., contaln-lng provisions on the subject of attorrieys, witnesses, the

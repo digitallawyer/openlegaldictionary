@@ -1,5 +1,6 @@
 ---
 title: Penetration
+letter: P
 permalink: "/definitions/penetration.html"
 body: A term used in crlm-inal law, and denotlng (ln cases of alleged rape) the insertion
   of the male part into the female parts to however sllght an extent; and by which

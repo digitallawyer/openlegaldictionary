@@ -1,5 +1,6 @@
 ---
 title: Inter Partes
+letter: I
 permalink: "/definitions/inter-partes.html"
 body: Between parties. Instruments In which two persons unite, each making conveyance
   to, or engagement with, the other, are called “papers infer partes” Smlth v. Emery,

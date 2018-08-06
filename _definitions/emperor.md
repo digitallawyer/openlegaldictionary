@@ -1,5 +1,6 @@
 ---
 title: Emperor
+letter: E
 permalink: "/definitions/emperor.html"
 body: The title of the sovereign ruler of an empire. This designation was adopted
   by the rulers of the Roman world after the decay of the republic, and was as-sumed

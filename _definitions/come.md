@@ -1,5 +1,6 @@
 ---
 title: Come
+letter: C
 permalink: "/definitions/come.html"
 body: To present oneself; to appear in court In modern practice, though such presence
   may be constructive only, the word is still used to indlcate participation in the

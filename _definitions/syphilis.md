@@ -1,5 +1,6 @@
 ---
 title: Syphilis
+letter: S
 permalink: "/definitions/syphilis.html"
 body: In medical jurisprudence. A loathsome venereal disease (vulgarly called “the
   pox”) of pecullar virulence, infectious by dlrect contact, capable of hereditary

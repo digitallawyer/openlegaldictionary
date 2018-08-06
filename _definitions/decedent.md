@@ -1,5 +1,6 @@
 ---
 title: Decedent
+letter: D
 permalink: "/definitions/decedent.html"
 body: A deceased person; one who has lately died. Etymologically tbe word denotes
   a person who is dying, but it has come to be used in law as signifying any defunct

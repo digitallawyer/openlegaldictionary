@@ -1,5 +1,6 @@
 ---
 title: Efficient Cause
+letter: E
 permalink: "/definitions/efficient-cause.html"
 body: The working cause; that cause which produces effects or results; an intervening
   cause, which produces results which would not have come to pass except for its interposition,

@@ -1,5 +1,6 @@
 ---
 title: Remedy
+letter: R
 permalink: "/definitions/remedy.html"
 body: 'Remedy is the means by which the violation of a right is prevented, redressed,
   or compensated. Remedies are of four kinds: (1) By act of tbe party injured, the

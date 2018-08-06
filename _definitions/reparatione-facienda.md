@@ -1,5 +1,6 @@
 ---
 title: Reparatione Facienda
+letter: R
 permalink: "/definitions/reparatione-facienda.html"
 body: Formak-lng repairs. The name of an old writ which lay in various cases; as if,
   for instance,-there were three tenants in common of a mill or house which had fallen

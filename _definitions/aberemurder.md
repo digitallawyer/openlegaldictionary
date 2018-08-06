@@ -1,5 +1,6 @@
 ---
 title: Aberemurder
+letter: A
 permalink: "/definitions/aberemurder.html"
 body: "(From Sax. abere, apparent, notorious; and mord, murder.) Plain or downright
   murder, as distinguished from the less heinous crime of manslaughter, or chance

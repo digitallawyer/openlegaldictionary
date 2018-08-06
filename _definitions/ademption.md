@@ -1,5 +1,6 @@
 ---
 title: Ademption
+letter: A
 permalink: "/definitions/ademption.html"
 body: The revocation, recalling, or cancellation of a legacy, according to the apparent
   intention of the testator, implied by the law from acts done by him in his life,

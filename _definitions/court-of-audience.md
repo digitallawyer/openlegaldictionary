@@ -1,5 +1,6 @@
 ---
 title: Court Of Audience
+letter: C
 permalink: "/definitions/court-of-audience.html"
 body: Ecclesiastical courts, in which the primates once exercised in person a considerable
   part of their juris-dlction. They seem to be now obsolete, or at least to be only

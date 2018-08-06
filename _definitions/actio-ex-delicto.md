@@ -1,5 +1,6 @@
 ---
 title: Actio Ex Delicto
+letter: A
 permalink: "/definitions/actio-ex-delicto.html"
 body: In the civil and cominon law. An action of tort; an action arising out of fault,
   misconduct, or malfeasance. Inst 4, 6, 15; 3 Bl. Comm. 117. Ex malcflcio is the

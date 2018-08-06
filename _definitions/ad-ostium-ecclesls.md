@@ -1,5 +1,6 @@
 ---
 title: Ad Ostium Ecclesls
+letter: A
 permalink: "/definitions/ad-ostium-ecclesls.html"
 body: At the door of the church, one of the five species of dower formerly recognized
   by the English law. 1 washb. Real Prop.‘149; 2 BL Comm. 132

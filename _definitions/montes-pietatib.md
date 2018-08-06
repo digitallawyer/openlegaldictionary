@@ -1,5 +1,6 @@
 ---
 title: Montes Pietatib
+letter: M
 permalink: "/definitions/montes-pietatib.html"
 body: Public pawnbrok-lng establishments; institutions established by government,
   in some European countries, for lending small sums of money on pledgee of personal

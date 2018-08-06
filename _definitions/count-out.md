@@ -1,5 +1,6 @@
 ---
 title: Count-Out
+letter: C
 permalink: "/definitions/count-out.html"
 body: In English parliamentary law. Forty members form a bouse of commons; and, though
   there be ever so many at the beginning of a debate, yet, lf during the course of

@@ -1,5 +1,6 @@
 ---
 title: Juzgado
+letter: J
 permalink: "/definitions/juzgado.html"
 body: In Spanish law. The judi-dary; the body of Judges; the Judges who concur in
   a decree

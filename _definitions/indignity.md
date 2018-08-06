@@ -1,5 +1,6 @@
 ---
 title: Indignity
+letter: I
 permalink: "/definitions/indignity.html"
 body: In the law of divorce, a specles of cruelty addressed to the mind, sen-slbllities,
   self-respect, or personal honor of the subject, rather than to tlie body, aud de-flned

@@ -1,5 +1,6 @@
 ---
 title: Gerefa
+letter: G
 permalink: "/definitions/gerefa.html"
 body: In Saxon law. Greve, reve, or reeve; a ministerial oflicer of high antiq-ulty
   in England; answering to the grave or graf (grafio) of the early continental nations.

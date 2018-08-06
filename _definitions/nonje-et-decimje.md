@@ -1,5 +1,6 @@
 ---
 title: Nonje Et Decimje
+letter: N
 permalink: "/definitions/nonje-et-decimje.html"
 body: Payments made to the church, by those who were tenants of church-farms. The
   first was a rent or duty for things belonging to husbandry; the sec-ond was claimed

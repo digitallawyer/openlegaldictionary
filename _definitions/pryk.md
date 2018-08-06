@@ -1,5 +1,6 @@
 ---
 title: Pryk
+letter: P
 permalink: "/definitions/pryk.html"
 body: A kind of service of tenure. Blount says it slgnifies an old-fashioned spur
   with one point only, whlch the tenant, hold-ing land by thls tenure, was to find

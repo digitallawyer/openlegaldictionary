@@ -1,5 +1,6 @@
 ---
 title: Cortes
+letter: C
 permalink: "/definitions/cortes.html"
 body: The name of the legislative assemblies, the parliament or congress, of Spain
   and Portugal

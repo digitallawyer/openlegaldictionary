@@ -1,5 +1,6 @@
 ---
 title: Serjeant
+letter: S
 permalink: "/definitions/serjeant.html"
 body: The same word etymologic-ally with “sergeant,” but the latter spelling is more
   commonly employed in the deslgna-tlon of military and police officers, (see Seb-geant,)

@@ -1,5 +1,6 @@
 ---
 title: Digests
+letter: D
 permalink: "/definitions/digests.html"
 body: TS. The ordinary name of- the Pandects of Justinian, which are now usual-ly
   cited by the abbreviation "Dig.” instead of “Ff.,” as formerly. Sometimes called

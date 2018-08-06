@@ -1,5 +1,6 @@
 ---
 title: Matrix
+letter: M
 permalink: "/definitions/matrix.html"
 body: In the civil law. The proto-col or first draft of a legal instrument, from which
   all copies must be taken. See Downing v. Diaz, 80 Tex. 436, 16 S. W. 53

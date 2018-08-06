@@ -1,5 +1,6 @@
 ---
 title: Senescallus
+letter: S
 permalink: "/definitions/senescallus.html"
 body: In old English law. A seneschal; a steward; the steward of a manor. Fleta, L
   2, c. 72

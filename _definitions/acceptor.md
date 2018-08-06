@@ -1,5 +1,6 @@
 ---
 title: Acceptor
+letter: A
 permalink: "/definitions/acceptor.html"
 body: The person who accepts a blll of exchange, (generally the drawee,) or who engages
   to be primarily responsible for its payment

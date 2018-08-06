@@ -1,5 +1,6 @@
 ---
 title: Impruiare
+letter: I
 permalink: "/definitions/impruiare.html"
 body: In old records. To im-prove land. Impruiamcntum, tbe improve-ment so made of
   it Cowell

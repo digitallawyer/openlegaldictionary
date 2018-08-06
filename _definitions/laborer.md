@@ -1,5 +1,6 @@
 ---
 title: Laborer
+letter: L
 permalink: "/definitions/laborer.html"
 body: one who, as a means of livelihood, performs work and labor for those who employ
   him. oliver v. Macon Hardware Co., 98 Ga. 249, 25 S. E. 403, 58 Am. St. Rep. 300;

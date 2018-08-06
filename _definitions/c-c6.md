@@ -1,5 +1,6 @@
 ---
 title: C. C
+letter: C
 permalink: "/definitions/c-c6.html"
 body: sification. Formal parties are those who have no interest in the controversy
   between tbe immediate litigants, but bave an interest in the subject-matter which

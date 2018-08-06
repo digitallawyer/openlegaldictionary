@@ -1,5 +1,6 @@
 ---
 title: In Genere
+letter: I
 permalink: "/definitions/in-genere.html"
 body: In kind; in the same genus or class; the same in quantity and quality, but not
   individually the same. In the Roman law, things which may be given or restored in

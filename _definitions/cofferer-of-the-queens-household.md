@@ -1,5 +1,6 @@
 ---
 title: Cofferer Of The Queen'S Household
+letter: C
 permalink: "/definitions/cofferer-of-the-queens-household.html"
 body: In English law. A principal officer of the royal establishment, next under the
   controller, who, in the counting-house nnd elsewhere, had a special charge and oversight

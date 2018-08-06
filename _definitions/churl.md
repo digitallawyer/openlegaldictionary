@@ -1,5 +1,6 @@
 ---
 title: Churl
+letter: C
 permalink: "/definitions/churl.html"
 body: In Saxon law. A freeman of inferior rank, chiefly employed in husbandry. 1 Reeve,
   Eng. Law, 5. A tenant at will of free condition, who held land from a thane, on

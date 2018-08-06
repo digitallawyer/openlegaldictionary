@@ -1,5 +1,6 @@
 ---
 title: Intermediate
+letter: I
 permalink: "/definitions/intermediate.html"
 body: Intervening; inter-posed during the progress of a suit, pro-ceeding, business,
   etc., or between its be-ginning and end

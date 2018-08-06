@@ -1,5 +1,6 @@
 ---
 title: Hostility
+letter: H
 permalink: "/definitions/hostility.html"
 body: In the law of nations. A state of open war. “At the breaking out of hostility.”
   1 Kent, Comm. 60

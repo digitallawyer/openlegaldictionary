@@ -1,5 +1,6 @@
 ---
 title: De Cartis Reddendis
+letter: D
 permalink: "/definitions/de-cartis-reddendis.html"
 body: "(For restor-Ing charters.) A writ to secure the delivery of charters or deeds;
   a writ of detinue. Reg. orig' 159b"

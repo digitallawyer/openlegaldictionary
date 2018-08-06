@@ -1,5 +1,6 @@
 ---
 title: Hambling
+letter: H
 permalink: "/definitions/hambling.html"
 body: In forest law. The hox-ing or hock-sinewing of dogs; an old mode of laming or
   disabling dogs. Termes de la Ley

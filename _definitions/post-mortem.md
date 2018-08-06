@@ -1,5 +1,6 @@
 ---
 title: Post-Mortem
+letter: P
 permalink: "/definitions/post-mortem.html"
 body: After death. A term generally applied to an autopsy or examina-tion of a dead
   body, to ascertain the cause of death, or to the Inquisition for that purpoee by

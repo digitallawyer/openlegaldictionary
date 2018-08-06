@@ -1,5 +1,6 @@
 ---
 title: Elisors
+letter: E
 permalink: "/definitions/elisors.html"
 body: In practice. Electors or choosers. Persons appointed by the court to execute
   writs of venire, in cases where both the sheriff and coroner are disqualified from

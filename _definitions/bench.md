@@ -1,5 +1,6 @@
 ---
 title: Bench
+letter: B
 permalink: "/definitions/bench.html"
 body: A seat of judgment or tribunal for tbe administration of justice; the seat occupied
   by judges in courts; also the court itself, as the “King’s Bench,” or the aggregate

@@ -1,5 +1,6 @@
 ---
 title: Fraternity
+letter: F
 permalink: "/definitions/fraternity.html"
 body: In old Eugllsh law. “A corporation is an investing of the people of a place
   with the local government thereof, and therefore their laws shall bind strangers;

@@ -1,5 +1,6 @@
 ---
 title: Priori Petenti
+letter: P
 permalink: "/definitions/priori-petenti.html"
 body: To the person first applying. In probate practice, where there are several persons
   equally entitled to a grant of administration, (e. g., next of kin of the same degree,)

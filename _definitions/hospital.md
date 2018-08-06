@@ -1,5 +1,6 @@
 ---
 title: Hospital
+letter: H
 permalink: "/definitions/hospital.html"
 body: An institution for the re-ception and care of sick, wounded, infirm, or aged
   persons; generally incorporated, and then of the class of corporations called “elee-mosynary”

@@ -1,5 +1,6 @@
 ---
 title: Machecollare
+letter: M
 permalink: "/definitions/machecollare.html"
 body: To make a warlike device over a gate or other passage like to a grate, through
   which scalding water or pon-derous or offensive things may be cast npon the assailants.

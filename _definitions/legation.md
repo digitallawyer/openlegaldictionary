@@ -1,5 +1,6 @@
 ---
 title: Legation
+letter: L
 permalink: "/definitions/legation.html"
 body: Au embassy; a diplomatic minister and bis suite; tbe persons commis-sioned by
   one government to exercise diplo-matlc functions at the court of another, including

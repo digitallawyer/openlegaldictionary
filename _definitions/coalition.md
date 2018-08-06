@@ -1,5 +1,6 @@
 ---
 title: Coalition
+letter: C
 permalink: "/definitions/coalition.html"
 body: In French law. An un-lawful agreement among several persons not to do a thing
   except on some conditions agreed upon; particularly, industrial com-binations, strikes,

@@ -1,5 +1,6 @@
 ---
 title: Unio Frolium
+letter: U
 permalink: "/definitions/unio-frolium.html"
 body: Lat. Uniting of off-spring. A method of adoptlon, chiefly nsed in Germany, by
   which step-children (on ei-ther or both sides of the house) are made equal, in respect

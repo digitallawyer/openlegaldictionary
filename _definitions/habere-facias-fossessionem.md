@@ -1,5 +1,6 @@
 ---
 title: Habere Facias Fossessionem
+letter: H
 permalink: "/definitions/habere-facias-fossessionem.html"
 body: Lat. That you cause to have possession. The name of the process commonly resorted
   to by the successful party in an action of ejectment, for the purpose of being placed

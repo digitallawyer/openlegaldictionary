@@ -1,5 +1,6 @@
 ---
 title: Pronounce
+letter: P
 permalink: "/definitions/pronounce.html"
 body: To utter formally, offl-cially, and solemnly; to declare aloud and in a fornlal
   manner. In this sense a court is said to “pronounce” judgment or a sentence. See

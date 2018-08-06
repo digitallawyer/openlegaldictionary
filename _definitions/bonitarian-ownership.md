@@ -1,5 +1,6 @@
 ---
 title: Bonitarian Ownership
+letter: B
 permalink: "/definitions/bonitarian-ownership.html"
 body: In Roman law. A species of equitable title to things, os distinguished from
   a title acqnir-ed according to the strict forms of the municipal law; the property

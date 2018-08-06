@@ -1,5 +1,6 @@
 ---
 title: Innocent
+letter: I
 permalink: "/definitions/innocent.html"
 body: Free from guilt; acting in good faith and without knowledge of iucrim-inatory
   circumstances, or of defects or ol>-Jectlons

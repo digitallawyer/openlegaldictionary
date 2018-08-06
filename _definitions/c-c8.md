@@ -1,5 +1,6 @@
 ---
 title: C. C
+letter: C
 permalink: "/definitions/c-c8.html"
 body: n. In its most general sense, this noun signifies something done voluntarily
   by a person; the exercise of an lndlvldual’s power; an effect produced in the external

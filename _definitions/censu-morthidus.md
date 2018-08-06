@@ -1,5 +1,6 @@
 ---
 title: Censu-Morthidus
+letter: C
 permalink: "/definitions/censu-morthidus.html"
 body: or CENSU-MORTHIDUS. A dead, rent, like that which is called “mortmain.” Blount;
   Cowell

@@ -1,5 +1,6 @@
 ---
 title: Electrocute
+letter: E
 permalink: "/definitions/electrocute.html"
 body: To put to death by passing through the body a current of elec; tricity of high
   power. This term, descriptive of the method of Inflicting the death pen-alty on

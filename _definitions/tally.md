@@ -1,5 +1,6 @@
 ---
 title: Tally
+letter: T
 permalink: "/definitions/tally.html"
 body: Y, or TALLY. A stick cut lnto two parts, on each whereof is marked, with notches
   or otherwise, what is due between debtor and creditor. It was the ancient mode of

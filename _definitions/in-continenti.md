@@ -1,5 +1,6 @@
 ---
 title: In Continenti
+letter: I
 permalink: "/definitions/in-continenti.html"
 body: Immediately; with-out any interval or Intermission. Calvin. Sometimes written
   as one word “incontinent

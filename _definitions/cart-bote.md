@@ -1,5 +1,6 @@
 ---
 title: Cart Bote
+letter: C
 permalink: "/definitions/cart-bote.html"
 body: wood or timber which a tenant is allowed by law to tuke from an es-tate, for
   the purpose of repairing instruments, (including necessary vehicles,) of husbandry.

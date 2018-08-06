@@ -1,5 +1,6 @@
 ---
 title: Ferdingus
+letter: F
 permalink: "/definitions/ferdingus.html"
 body: A term denoting, appar-ently, a freeman of the lowest class, being named after
   the cotseti

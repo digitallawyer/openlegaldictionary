@@ -1,5 +1,6 @@
 ---
 title: Bushel
+letter: B
 permalink: "/definitions/bushel.html"
 body: A dry measure, containing four pecks, eight gallons, or thirty-two quarts. But
   the dimensions of a bushel, and the weight of a bushel of grain, etc., vary in the

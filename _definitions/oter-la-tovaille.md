@@ -1,5 +1,6 @@
 ---
 title: Oter La Tovaille
+letter: O
 permalink: "/definitions/oter-la-tovaille.html"
 body: In the laws of oleron. To deny a seaman his mess. Liter-ally, to deny the table-cloth
   or victuals for three meals

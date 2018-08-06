@@ -1,5 +1,6 @@
 ---
 title: Heave To
+letter: H
 permalink: "/definitions/heave-to.html"
 body: In maritime parlance and admiralty law. To stop a sailing vessel’s headway by
   bringing her head “into the wind,” that is, in the direction from which the wind

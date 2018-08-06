@@ -1,5 +1,6 @@
 ---
 title: Feoh
+letter: F
 permalink: "/definitions/feoh.html"
 body: This Saxon word meant originally cattle, and thence property or money, and,
   by a second transition, wages, reward, or , fee. It was probably the original form

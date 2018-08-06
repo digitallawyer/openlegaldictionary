@@ -1,5 +1,6 @@
 ---
 title: Ayant Cause
+letter: A
 permalink: "/definitions/ayant-cause.html"
 body: In French law. This term signifies one to whom a rlght has been assigned, either
   by will, glft, sale, exchange, or the like; an asslgnee. An ayant cause differs

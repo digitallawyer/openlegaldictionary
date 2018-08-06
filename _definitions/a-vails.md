@@ -1,5 +1,6 @@
 ---
 title: A Vails
+letter: A
 permalink: "/definitions/a-vails.html"
 body: Profits, or proceeds. This word seems to have been construed only in reference
   to wills, aud in them it means the corpus or proceeds of the estate after the payment

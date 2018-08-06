@@ -1,5 +1,6 @@
 ---
 title: Sheep-Heaves
+letter: S
 permalink: "/definitions/sheep-heaves.html"
 body: Small plots of past-ure, in England, often in the middle of the waste of a manor,
   of which the soil may or may not be in the lord, but the pasture is private property,

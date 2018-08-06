@@ -1,5 +1,6 @@
 ---
 title: Invest
+letter: I
 permalink: "/definitions/invest.html"
 body: To loan money upon securities of a more or less permanent nature, or to place
   it in business ventures or real estate, or otherwise lay it out, so that it may

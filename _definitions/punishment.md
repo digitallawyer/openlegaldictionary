@@ -1,5 +1,6 @@
 ---
 title: Punishment
+letter: P
 permalink: "/definitions/punishment.html"
 body: In crlmlnal law. Any pain, penalty, suffering, or confinement lnfllcted upon
   a person by the authority of the law and the judgment and sentence of a court, for

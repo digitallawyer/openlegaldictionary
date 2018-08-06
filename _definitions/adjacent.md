@@ -1,5 +1,6 @@
 ---
 title: Adjacent
+letter: A
 permalink: "/definitions/adjacent.html"
 body: Lying near or close to; contiguous. The difference between adjacent and adjoining
   seems to be that the for-mer implies that the two objects are not widely separated,

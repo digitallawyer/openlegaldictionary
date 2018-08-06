@@ -1,5 +1,6 @@
 ---
 title: Provisor
+letter: P
 permalink: "/definitions/provisor.html"
 body: R. In old English law. A provider, or purveyor. Spelman. Also a person nominated
   to be the next incumbent of a benefice (not yet vacant) by the pope

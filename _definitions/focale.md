@@ -1,5 +1,6 @@
 ---
 title: Focale
+letter: F
 permalink: "/definitions/focale.html"
 body: In old Engllsh law. Firewood. The rlght of taking wood for the fire. Fire-bote.
   Cunningham

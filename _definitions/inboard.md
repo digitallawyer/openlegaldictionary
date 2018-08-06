@@ -1,5 +1,6 @@
 ---
 title: Inboard
+letter: I
 permalink: "/definitions/inboard.html"
 body: In maritime law, and particularly wlth reference to the stowage of cargo, thls
   term is contrasted with “out-board." It does not necessarily mean under deck, but

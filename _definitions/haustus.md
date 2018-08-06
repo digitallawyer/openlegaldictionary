@@ -1,5 +1,6 @@
 ---
 title: Haustus
+letter: H
 permalink: "/definitions/haustus.html"
 body: Lat. In the clvll law. A species of servitude, consisting In the rlght to draw
   water from another’s well or spring, in which the iter, (right of way to the well

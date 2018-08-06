@@ -1,5 +1,6 @@
 ---
 title: Pocket
+letter: P
 permalink: "/definitions/pocket.html"
 body: This word is used as au adjective in several compound legal phrases, carrying
   a meaning suggestive of, or aualogous to, its signification as a pouch, bag, or

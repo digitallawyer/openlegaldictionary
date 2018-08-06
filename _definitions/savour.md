@@ -1,5 +1,6 @@
 ---
 title: Savour
+letter: S
 permalink: "/definitions/savour.html"
 body: To partake the nature of ; tq bear affinity to
 published_at: '2018-07-07'

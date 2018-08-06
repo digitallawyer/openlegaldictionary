@@ -1,5 +1,6 @@
 ---
 title: Nuncupative Will
+letter: N
 permalink: "/definitions/nuncupative-will.html"
 body: A will which depends merely upon oral evldence, having been declared or dictated
   by the testator in his last sickness before a sufficient number of witnesses, and

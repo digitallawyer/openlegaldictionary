@@ -1,5 +1,6 @@
 ---
 title: Pater
+letter: P
 permalink: "/definitions/pater.html"
 body: Lat. A father; the father. In the civil law, this word sometimes Included avus,
   (grandfather.) Dig. 50, 16, 201

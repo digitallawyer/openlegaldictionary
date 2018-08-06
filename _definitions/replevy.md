@@ -1,5 +1,6 @@
 ---
 title: Replevy
+letter: R
 permalink: "/definitions/replevy.html"
 body: This word, as used in reference to the action of replevin, signifies to redeliver
   goods which have been distrained, to the original possessor of them, on his pledging

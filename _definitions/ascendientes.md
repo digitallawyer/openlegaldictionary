@@ -1,5 +1,6 @@
 ---
 title: Ascendientes
+letter: A
 permalink: "/definitions/ascendientes.html"
 body: In Spanish law. As-cendants; ascending heirs; heirs in the as-cending line.
   Schm. Civil Law, 259

@@ -1,5 +1,6 @@
 ---
 title: Hypothecate
+letter: H
 permalink: "/definitions/hypothecate.html"
 body: To pledge a thing without delivering the possession of it to the pledgee. “The
   master, when abroad, and in the absence of the owner, may hypothecate the ship,

@@ -1,5 +1,6 @@
 ---
 title: Hostler
+letter: H
 permalink: "/definitions/hostler.html"
 body: In Norman and old English law, this was the tltle of the officer in a monastery
   charged with the entertainment of guests. It was also applied (until about the time

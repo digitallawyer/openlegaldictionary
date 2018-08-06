@@ -1,5 +1,6 @@
 ---
 title: Illata Et Invecta
+letter: I
 permalink: "/definitions/illata-et-invecta.html"
 body: Lat Thlngs brought Into the honse for use by the ten-ant were so called, and
   were liable to the jus hypothec# of Roman law, just as they are to tbe landlord’s

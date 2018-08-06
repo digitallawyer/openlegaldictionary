@@ -1,5 +1,6 @@
 ---
 title: Entitle
+letter: E
 permalink: "/definitions/entitle.html"
 body: In its usual sense, to entitle is to glve a right or title. Therefore a per
   son is said to be entitled to property when he has a right to it. Com. v. Moorhead,

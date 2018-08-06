@@ -1,5 +1,6 @@
 ---
 title: Et Cjetera
+letter: E
 permalink: "/definitions/et-cjetera.html"
 body: And others; and other things; and so on. In its abbreviated form (etc.) this
   phrase is frequently affixed to one of a series of artlcles or names to show that

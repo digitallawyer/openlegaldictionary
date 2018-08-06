@@ -1,5 +1,6 @@
 ---
 title: Quadruplicatio
+letter: Q
 permalink: "/definitions/quadruplicatio.html"
 body: Lat in the civU law. A pleading on the part of a defendant, corresponding to
   the rebutter at common law. The third pleading on the part of the defendant. Inst.

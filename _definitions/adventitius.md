@@ -1,5 +1,6 @@
 ---
 title: Adventitius
+letter: A
 permalink: "/definitions/adventitius.html"
 body: Lat Fortuitous; incidental; that which comes from an unus-ual source. Adventitia
   bona are goods whlch fall to a man otherwise than by inheritance. Adventitia dot

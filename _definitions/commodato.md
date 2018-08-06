@@ -1,5 +1,6 @@
 ---
 title: Commodato
+letter: C
 permalink: "/definitions/commodato.html"
 body: In Spanish law. A con-tract by which one person lends gratuitous* ly to another
   some object not consumable, to be restored to him in kind at a given period; the

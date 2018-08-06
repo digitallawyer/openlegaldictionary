@@ -1,5 +1,6 @@
 ---
 title: Diplomatic Agent
+letter: D
 permalink: "/definitions/diplomatic-agent.html"
 body: In internation-al law. A general name for all classes of persons charged with
   the negotiation, trans-action, or superintendence of the diplomatic business of

@@ -1,5 +1,6 @@
 ---
 title: Adifocere
+letter: A
 permalink: "/definitions/adifocere.html"
 body: A waxy substance (chemically margarate of ammouium or ammonia-cal soap) formed
   by the decomposition of animal matter protected from the alr but subjected to moisture;

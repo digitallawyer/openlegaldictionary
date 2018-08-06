@@ -1,5 +1,6 @@
 ---
 title: Charter-House
+letter: C
 permalink: "/definitions/charter-house.html"
 body: Formerly a con-vent of Carthusian monks in London; now a college founded and
   endowed by Thomas Sutton. Tbe governors of the charter-house are a corporation aggregate

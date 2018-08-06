@@ -1,5 +1,6 @@
 ---
 title: Propound
+letter: P
 permalink: "/definitions/propound.html"
 body: An executor or other per-son is sald to propound a wlll or other testa-mentary
   paper when he takes proceedings for obtaining probate in solemn form. The term is

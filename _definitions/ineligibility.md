@@ -1,5 +1,6 @@
 ---
 title: Ineligibility
+letter: I
 permalink: "/definitions/ineligibility.html"
 body: Disqualification or legal incapacity to he elected to an office. Thus, an alien
   or naturalized citizen is ineligible to be elected president of the United States.

@@ -1,5 +1,6 @@
 ---
 title: Traitorously
+letter: T
 permalink: "/definitions/traitorously.html"
 body: In crlmlnal pleading. An essential word in Indictments for treason. The offense
   must be laid to have been com-mitted traitorously, whart Crim. Law, 100

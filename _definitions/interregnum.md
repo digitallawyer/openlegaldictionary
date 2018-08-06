@@ -1,5 +1,6 @@
 ---
 title: Interregnum
+letter: I
 permalink: "/definitions/interregnum.html"
 body: An interval between relgns. The period which elapses between the death of a
   soverelgn and the election of another. The vacancy whlch occurs when there is no

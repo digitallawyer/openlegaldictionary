@@ -1,5 +1,6 @@
 ---
 title: Permanent
+letter: P
 permalink: "/definitions/permanent.html"
 body: Fixed, enduring, abiding, not subject to change. Generally opposed in law to
   “temporary.”

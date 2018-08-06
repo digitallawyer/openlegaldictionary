@@ -1,5 +1,6 @@
 ---
 title: Gemot
+letter: G
 permalink: "/definitions/gemot.html"
 body: In Saxon law. A meeting or moot; a convention; a public assemblage. These were
   of several sorts, such, as the witena-gemot, or meeting of the wise men; the folc-gemot,

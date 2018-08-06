@@ -1,5 +1,6 @@
 ---
 title: Alloynour
+letter: A
 permalink: "/definitions/alloynour.html"
 body: L. Fr. 0ne who con-ceals, steals, or carries off a thlng privately. Britt, c.
   17

@@ -1,5 +1,6 @@
 ---
 title: Engleshire
+letter: E
 permalink: "/definitions/engleshire.html"
 body: A law was made by Canute, for the preservation of his Danes, that, when a man
   was killed, the hundred or town should be liable to be amerced, unless it conld

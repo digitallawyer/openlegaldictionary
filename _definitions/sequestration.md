@@ -1,5 +1,6 @@
 ---
 title: Sequestration
+letter: S
 permalink: "/definitions/sequestration.html"
 body: In equity prao-ticc. A writ authorizing the taking Into the ■custody of the
   law of the real and personal estate (or rents, issues, and profits) of a de-fendant

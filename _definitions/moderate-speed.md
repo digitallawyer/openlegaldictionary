@@ -1,5 +1,6 @@
 ---
 title: Moderate Speed
+letter: M
 permalink: "/definitions/moderate-speed.html"
 body: In admiralty law. As applied to a steam-vessel, “such speed only is moderate
   as will permit the steamer reasonably and effectually to avold a collision by slackening

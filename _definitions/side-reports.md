@@ -1,5 +1,6 @@
 ---
 title: Side Reports
+letter: S
 permalink: "/definitions/side-reports.html"
 body: A term sometimes ap-plied to unofficial volumes or series of re-ports, as contrasted
   witli those prepared hy tlie ofllcial reporter of the court, or to collec-tions

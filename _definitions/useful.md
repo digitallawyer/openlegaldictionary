@@ -1,5 +1,6 @@
 ---
 title: Useful
+letter: U
 permalink: "/definitions/useful.html"
 body: By “useful," in the patent law, is meant not an invention in all cases superior
   to the modes now in use for the same purposes, but “useful," in contradis-tlnction

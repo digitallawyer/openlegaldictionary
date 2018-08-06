@@ -1,5 +1,6 @@
 ---
 title: Fostering
+letter: F
 permalink: "/definitions/fostering.html"
 body: An ancient custom in Ire-land, in which persons put away their children to fosterers.
   Fostering was held to*be a stronger alliance than blood, and the foster children

@@ -1,5 +1,6 @@
 ---
 title: Edictum
+letter: E
 permalink: "/definitions/edictum.html"
 body: In the Roman law. An edict; a mandate, or ordinance. An ordinance, or law, enacted
   by the emperor without the senate; belonging to the class of const it ut tones principis.

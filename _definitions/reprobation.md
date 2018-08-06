@@ -1,5 +1,6 @@
 ---
 title: Reprobation
+letter: R
 permalink: "/definitions/reprobation.html"
 body: In ecclesiastical law. The interposition of objections or exceptions; as, to
   the competency of witnesses, to the due execution of Instruments offered in evidence

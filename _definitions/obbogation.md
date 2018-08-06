@@ -1,5 +1,6 @@
 ---
 title: Obbogation
+letter: O
 permalink: "/definitions/obbogation.html"
 body: In the civU law. The alteration of a law by the passage of one in-consistent
   with it Calvin

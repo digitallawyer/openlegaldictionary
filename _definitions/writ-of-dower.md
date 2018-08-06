@@ -1,5 +1,6 @@
 ---
 title: Writ Of Dower
+letter: W
 permalink: "/definitions/writ-of-dower.html"
 body: This is either a writ of dower unde nihil habet. which lies for a widow, commanding
   the tenant to as-sign her dower, no part of which has yet been set off to her; or

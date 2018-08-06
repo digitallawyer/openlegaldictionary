@@ -1,5 +1,6 @@
 ---
 title: Vades
+letter: V
 permalink: "/definitions/vades.html"
 body: Lat in the civU law. Pledges; sureties; bail; security for the appearance of
   a defendant or accused person in court Calvin

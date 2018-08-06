@@ -1,5 +1,6 @@
 ---
 title: Atha
+letter: A
 permalink: "/definitions/atha.html"
 body: In Saxon law. An oath; the pow-er or privllege of exacting aud admlnister-ing
   an oath. Spelman

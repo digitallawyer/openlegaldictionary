@@ -1,5 +1,6 @@
 ---
 title: Templars
+letter: T
 permalink: "/definitions/templars.html"
 body: A religious order of knight-hood, instituted about the year 1119, and so called
   because the members dwelt in a part of the temple of Jerusalem, and not far from

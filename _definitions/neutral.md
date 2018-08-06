@@ -1,5 +1,6 @@
 ---
 title: Neutral
+letter: N
 permalink: "/definitions/neutral.html"
 body: In International law. In-different; impartial; not engaged on either side; not
   taking an active part with either of the contending states. In an interna-tional

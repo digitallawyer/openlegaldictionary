@@ -1,5 +1,6 @@
 ---
 title: Mailed
+letter: M
 permalink: "/definitions/mailed.html"
 body: This word, as applled to a letter, means that the letter was properly prepared
   for transmisslon by the servants of the postal department, and that it was put in

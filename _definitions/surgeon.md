@@ -1,5 +1,6 @@
 ---
 title: Surgeon
+letter: S
 permalink: "/definitions/surgeon.html"
 body: one whose profession or occupation is to cure diseases or injuries of the body
   by manual operation; one whose occupation is to cure local Injuries or disorders,

@@ -1,5 +1,6 @@
 ---
 title: Cabal
+letter: C
 permalink: "/definitions/cabal.html"
 body: A small association for the pur-pose of Intrigue; an intrigue. This name was
   given to that ministry in the reign of Charles II. formed by Clifford, Ashley, Buck-ingham,

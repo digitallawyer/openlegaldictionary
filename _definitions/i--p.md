@@ -1,5 +1,6 @@
 ---
 title: I- P
+letter: I
 permalink: "/definitions/i--p.html"
 body: RM, weak, feeble. The testimony of an “infirm” witness may be taken de bene
   ease In some ciroumstances. See 1- P. wms. 117

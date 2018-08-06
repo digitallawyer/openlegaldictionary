@@ -1,5 +1,6 @@
 ---
 title: Divorce
+letter: D
 permalink: "/definitions/divorce.html"
 body: The legal separation of man and wlfe, effected, for cause, by the Judg-rnent
   of a court, and either totally dissolving the marriage relation, or suspending its

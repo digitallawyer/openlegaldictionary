@@ -1,5 +1,6 @@
 ---
 title: Fundamus
+letter: F
 permalink: "/definitions/fundamus.html"
 body: we found. ' one of the words by which a corporation may be created in England.
   1 Bl. Comm. 473; 3 Steph. Comm. 173

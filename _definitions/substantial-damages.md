@@ -1,5 +1,6 @@
 ---
 title: Substantial Damages
+letter: S
 permalink: "/definitions/substantial-damages.html"
 body: A sum. as-sessed by way of damages, wbich is worth having; opposed to nominal
   damuges, which

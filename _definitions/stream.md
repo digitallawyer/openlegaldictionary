@@ -1,5 +1,6 @@
 ---
 title: Stream
+letter: S
 permalink: "/definitions/stream.html"
 body: A current of water; a body of flowing water. The word, in its ordinary d&nse,
   includes rivers. But Callis defines a stream “a current of waters ruuuiug over the

@@ -1,5 +1,6 @@
 ---
 title: Bring Suit
+letter: B
 permalink: "/definitions/bring-suit.html"
 body: To “bring" an actlon or suit has a settled customary meaning at law, and refers
   to the inltation of legal proceed-Ings in a suit.- A sult is ‘“brought” at the time

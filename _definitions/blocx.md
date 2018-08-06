@@ -1,5 +1,6 @@
 ---
 title: Blocx
+letter: B
 permalink: "/definitions/blocx.html"
 body: A square or portion of a city or town inclosed by streets, whether partially
   or wholly occupied by buildings or containing only vacant lots, ottawa v. Bar-ney,

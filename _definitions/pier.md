@@ -1,5 +1,6 @@
 ---
 title: Pier
+letter: P
 permalink: "/definitions/pier.html"
 body: A structure extending from the solid land out into the water of a river, lake,
   harhor, etc., to afford convenient passage for persons and property to and from

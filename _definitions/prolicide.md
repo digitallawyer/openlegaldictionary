@@ -1,5 +1,6 @@
 ---
 title: Prolicide
+letter: P
 permalink: "/definitions/prolicide.html"
 body: In medical jurisprudence. A word used to designate the destruction of the human
   offspring. Jurists divide the sub-ject into foeticide, or the destruction of the

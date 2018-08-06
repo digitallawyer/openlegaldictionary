@@ -1,5 +1,6 @@
 ---
 title: Futuri
+letter: F
 permalink: "/definitions/futuri.html"
 body: Lat. Those who are to be. Part of the commencement of old deeds. "Sciant prcesentes
   et futuri, quod ego talis, dedi et concessi,” etc., (Let all men now living and

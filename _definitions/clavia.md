@@ -1,5 +1,6 @@
 ---
 title: Clavia
+letter: C
 permalink: "/definitions/clavia.html"
 body: In old English iaw. A dub or mace; tenure per serjeantiam cla-vi#, by the serjeanty
   of the dub or mace. CowelL

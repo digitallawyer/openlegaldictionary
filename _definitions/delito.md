@@ -1,5 +1,6 @@
 ---
 title: Delito
+letter: D
 permalink: "/definitions/delito.html"
 body: In Spanish law. Crime; a crime, offense, or delict, white, New. Recopu b. 2,
   tit 19, c. 1, I 4

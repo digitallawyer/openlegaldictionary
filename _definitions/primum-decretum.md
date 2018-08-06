@@ -1,5 +1,6 @@
 ---
 title: Primum Decretum
+letter: P
 permalink: "/definitions/primum-decretum.html"
 body: Lat in the canon law. The first decree; a preliminary decree granted on the
   non-appearance of a defendant, by which the plaintiff was pnt in possession of his

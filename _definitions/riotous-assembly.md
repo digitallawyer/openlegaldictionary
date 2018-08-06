@@ -1,5 +1,6 @@
 ---
 title: Riotous Assembly
+letter: R
 permalink: "/definitions/riotous-assembly.html"
 body: In English criminal law. The unlawful assembling of twelve persons or more,
   to the disturbance of the peace, and not dispersing upon procla-mation. 4 Bl. Comm.

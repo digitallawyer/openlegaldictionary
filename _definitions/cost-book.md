@@ -1,5 +1,6 @@
 ---
 title: Cost-Book
+letter: C
 permalink: "/definitions/cost-book.html"
 body: A book in which a number of adventurers who have obtained per-mission to work
   a lode, and have agreed to share the enterprise in certain proportions, enter the

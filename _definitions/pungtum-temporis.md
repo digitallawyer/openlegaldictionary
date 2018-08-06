@@ -1,5 +1,6 @@
 ---
 title: Pungtum Temporis
+letter: P
 permalink: "/definitions/pungtum-temporis.html"
 body: Lat. A point of time; an indivisible period of time; the shortest space of time;
   an instant. Calvin

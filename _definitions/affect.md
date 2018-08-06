@@ -1,5 +1,6 @@
 ---
 title: Affect
+letter: A
 permalink: "/definitions/affect.html"
 body: To act upon; Influence; change; enlarge or abridge. This word is ofteu used
   in the sense of acting injuriously upon per-sons and things. Ryan v. Carter, 93

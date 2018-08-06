@@ -1,5 +1,6 @@
 ---
 title: Court Of Piepoudre
+letter: C
 permalink: "/definitions/court-of-piepoudre.html"
 body: The low-est (and most expeditious) of the courts of justice known to the older
   law of England. It is supposed to have been so called from the dusty feet of the

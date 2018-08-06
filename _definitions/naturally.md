@@ -1,5 +1,6 @@
 ---
 title: Naturally
+letter: N
 permalink: "/definitions/naturally.html"
 body: Damages which “nat-urally” arise from a breach of. contract are such as arise
   in the usual course of things, from the breach itself, or such as may rea-sonably

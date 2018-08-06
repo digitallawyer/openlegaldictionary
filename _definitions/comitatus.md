@@ -1,5 +1,6 @@
 ---
 title: Comitatus
+letter: C
 permalink: "/definitions/comitatus.html"
 body: In oid English law. A county or shire; the body of a county. The territorial
   jurisdiction of a comes, i. e., count or earl. The county court, a court of great

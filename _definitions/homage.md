@@ -1,5 +1,6 @@
 ---
 title: Homage
+letter: H
 permalink: "/definitions/homage.html"
 body: 'In feudal law. A service (or the ceremony of rendering it) which a tenant was
   bound to perform to his lord on receiving investiture of a fee, or succeeding to

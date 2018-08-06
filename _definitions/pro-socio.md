@@ -1,5 +1,6 @@
 ---
 title: Pro Socio
+letter: P
 permalink: "/definitions/pro-socio.html"
 body: For a partner; the name of an action in behalf of a partner. A title of the
   civU law. Dig. 17, 2; Cod. 4, 37

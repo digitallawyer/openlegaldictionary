@@ -1,5 +1,6 @@
 ---
 title: Jus Patronatus
+letter: J
 permalink: "/definitions/jus-patronatus.html"
 body: In English ecclesiastical law. The rlght of patronage; the right of presenting
   a clerk to a benefice. Blount

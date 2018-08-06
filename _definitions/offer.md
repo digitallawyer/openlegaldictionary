@@ -1,5 +1,6 @@
 ---
 title: Offer
+letter: O
 permalink: "/definitions/offer.html"
 body: 1. To bring to or before; to present for acceptance or rejection; to hold out
   or proffer; to make a proposal to; to exhibit something that may be taken or re-ceived

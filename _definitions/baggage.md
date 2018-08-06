@@ -1,5 +1,6 @@
 ---
 title: Baggage
+letter: B
 permalink: "/definitions/baggage.html"
 body: In the law of carriers. This terra comprises such articles of per-sonal convenience
   or necessity as are usual-ly carried by passengers for their iiersonal use, and

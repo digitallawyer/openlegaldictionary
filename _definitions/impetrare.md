@@ -1,5 +1,6 @@
 ---
 title: Impetrare
+letter: I
 permalink: "/definitions/impetrare.html"
 body: In old English practice. To obtain by request, as a writ or privilege. Bract
   fols. 57, 172b. This appllcatlon of the word seems to be derlved from the clvll

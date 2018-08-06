@@ -1,5 +1,6 @@
 ---
 title: Arresto Facto Super Bonis Mercatorum Alienigenorum
+letter: A
 permalink: "/definitions/arresto-facto-super-bonis-mercatorum-alienigenorum.html"
 body: Id old English law. A writ against the goods of aliens found within this kingdom,
   iu rec-ompense of goods taken from a denizen in a foreign country, after denial

@@ -1,5 +1,6 @@
 ---
 title: Once In Jeopardy
+letter: O
 permalink: "/definitions/once-in-jeopardy.html"
 body: A phrase used to express the condition of a person charged with crime, who has
   once already, by legal proceedings, been pat in danger of conviction and punishment

@@ -1,5 +1,6 @@
 ---
 title: Ascendants
+letter: A
 permalink: "/definitions/ascendants.html"
 body: Persons with whom one is related in the ascending line; one's parents, grandparents,
   great-grandparents, etc

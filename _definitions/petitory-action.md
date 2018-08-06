@@ -1,5 +1,6 @@
 ---
 title: Petitory Action
+letter: P
 permalink: "/definitions/petitory-action.html"
 body: A droitural ac-tion ; that is,, one in which the plaintiff seeks to establlsh
   and enforce, by an approprl-ate legal proceedlng, his right of property, or his

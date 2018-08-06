@@ -1,5 +1,6 @@
 ---
 title: Habeas Cobpus
+letter: H
 permalink: "/definitions/habeas-cobpus.html"
 body: Lat. (You have the body.) The name given to a variety of writs, (of which these
   were anciently the em-phatlc words,) havlng for their object to bring a party before

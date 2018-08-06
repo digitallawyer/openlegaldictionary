@@ -1,5 +1,6 @@
 ---
 title: Door
+letter: D
 permalink: "/definitions/door.html"
 body: The place of usual entrance in a house, or into a room in the house. State V.
   McBeth, 49 Kan. 584, 31 Pac. 145

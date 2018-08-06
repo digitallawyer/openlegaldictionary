@@ -1,5 +1,6 @@
 ---
 title: Horn Tenure
+letter: H
 permalink: "/definitions/horn-tenure.html"
 body: In old English lnw. Tenure by cornage; that is, by the service of winding a
   horn when the Scots or other ene-mies entered the land, in order to warn the king’s

@@ -1,5 +1,6 @@
 ---
 title: Literary
+letter: L
 permalink: "/definitions/literary.html"
 body: Pertaining to polite learn-ing; connected with the study or use of books and
   writings

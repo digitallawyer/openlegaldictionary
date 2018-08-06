@@ -1,5 +1,6 @@
 ---
 title: Tortious
+letter: T
 permalink: "/definitions/tortious.html"
 body: wrongful; of the nature of a tort. Formerly certain modes of conveyance (e.
   g., feoffments, fines, etc.) had tbd effect of passlng not merely the estate of

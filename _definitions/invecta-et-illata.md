@@ -1,5 +1,6 @@
 ---
 title: Invecta Et Illata
+letter: I
 permalink: "/definitions/invecta-et-illata.html"
 body: Lat. In the civil law. Things carried in and brought in. Articles brought into
   a hired tenement by the hirer or tenant, and which became or were pledged to the

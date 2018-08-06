@@ -1,5 +1,6 @@
 ---
 title: Ambiguity
+letter: A
 permalink: "/definitions/ambiguity.html"
 body: Doubtfulness; doubleness of meaning; indistinctness or uncertainty of meaning
   of an expression used in a written instrument. Nlndle v. State Bank, 13 Neb. 245,

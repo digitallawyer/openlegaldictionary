@@ -1,5 +1,6 @@
 ---
 title: Create
+letter: C
 permalink: "/definitions/create.html"
 body: To bring into being ; to cause to exist; to produce; as, to create a trust in
   lands, to create a corporation. Edwards v. Bibb, 54 Ala. 481; McClellan v. McClellan,

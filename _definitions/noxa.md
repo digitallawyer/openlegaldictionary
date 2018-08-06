@@ -1,5 +1,6 @@
 ---
 title: Noxa
+letter: N
 permalink: "/definitions/noxa.html"
 body: Lat in the civil law. This term denoted any damage or injury done to persons
   or property hy an unlawful act com-mitted by a man’s slave or animal. An action

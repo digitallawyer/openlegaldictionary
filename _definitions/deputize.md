@@ -1,5 +1,6 @@
 ---
 title: Deputize
+letter: D
 permalink: "/definitions/deputize.html"
 body: To appoint a deputy; to ap-point or commission one to act as deputy to an officer.
   In a general sense, the term is descriptive of empowering one person to act for

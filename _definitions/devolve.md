@@ -1,5 +1,6 @@
 ---
 title: Devolve
+letter: D
 permalink: "/definitions/devolve.html"
 body: To pass or be transferred from one person to another; to fall on, or accrue
   to, one person as the successor of an-other; as, a title, rights office, liability.

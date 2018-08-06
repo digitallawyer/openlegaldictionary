@@ -1,5 +1,6 @@
 ---
 title: Action Of A Writ
+letter: A
 permalink: "/definitions/action-of-a-writ.html"
 body: A phrase used when a defendant pleads some matter by which he shows that the
   plaintiff had no cause to have the writ sued upon, although it may be that he is

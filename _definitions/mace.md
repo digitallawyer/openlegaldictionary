@@ -1,5 +1,6 @@
 ---
 title: Mace
+letter: M
 permalink: "/definitions/mace.html"
 body: A large staff, made of the precious metals, and highly ornamented. It is nsed
   as an emblem of authority, and carried before certain public functionaries hy a

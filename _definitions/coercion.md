@@ -1,5 +1,6 @@
 ---
 title: Coercion
+letter: C
 permalink: "/definitions/coercion.html"
 body: Compulsion; force; duress. It may be either actual, (direct or positive,) where
   physical force is put upon a man to compel him to do an nct against hls wlll, or

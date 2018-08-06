@@ -1,5 +1,6 @@
 ---
 title: Inference
+letter: I
 permalink: "/definitions/inference.html"
 body: In the law of evidence. A truth or proposition drawn from another which is supposed
   or admitted to be true. A process of reasoning by which a fact or proposition sought

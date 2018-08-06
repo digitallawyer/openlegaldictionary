@@ -1,5 +1,6 @@
 ---
 title: Article
+letter: A
 permalink: "/definitions/article.html"
 body: A separate and dlstlnct part of an instrument or writing comprising two oi more
   particulars; one of several things presented as connected or forming a whole. Carter

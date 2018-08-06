@@ -1,5 +1,6 @@
 ---
 title: Shipped
+letter: S
 permalink: "/definitions/shipped.html"
 body: Thls term, in common marl-time and commercial usnge, means “placed on board
   of a vessel for the purchaser or consignee, to be transported at his risk." Fisher

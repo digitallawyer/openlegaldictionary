@@ -1,5 +1,6 @@
 ---
 title: Implication
+letter: I
 permalink: "/definitions/implication.html"
 body: Intendment or infer-ence, as dlstlngulshed from the actual expression of a thlng
   In words. In a wlll, an estate may pass by mere implication, without any express

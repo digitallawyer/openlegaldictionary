@@ -1,5 +1,6 @@
 ---
 title: Impetration
+letter: I
 permalink: "/definitions/impetration.html"
 body: In old English law. The obtaining anything by petition or en-treaty. Particularly,
   the obtaining of a benefice from Rome by solicitation, which benefice belonged to

@@ -1,5 +1,6 @@
 ---
 title: Inventory
+letter: I
 permalink: "/definitions/inventory.html"
 body: A detailed list of articles of property; a llst or schedule of property, contalnlng
   a designation or description of each specific article; an itemized list of the various

@@ -1,5 +1,6 @@
 ---
 title: Pares
+letter: P
 permalink: "/definitions/pares.html"
 body: lat A person’s peers or equals; as the Jury for the trial of causes, who were
   originally the vassals or tenants of the lord, being the equals or peers of the

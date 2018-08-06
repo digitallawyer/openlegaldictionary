@@ -1,5 +1,6 @@
 ---
 title: Inventus
+letter: I
 permalink: "/definitions/inventus.html"
 body: LaL Found. Thesaurus inventus, treasure-trove. Non est inventus, [he] is not
   found

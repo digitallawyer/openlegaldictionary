@@ -1,5 +1,6 @@
 ---
 title: Cognovit Actionem
+letter: C
 permalink: "/definitions/cognovit-actionem.html"
 body: "(He has con-fessed the action.) A defendant’s written confession of an action
   brought agninst him, to which he has no available defense. It is usually upon condltion

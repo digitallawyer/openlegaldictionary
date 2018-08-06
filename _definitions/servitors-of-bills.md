@@ -1,5 +1,6 @@
 ---
 title: Servitors Of Bills
+letter: S
 permalink: "/definitions/servitors-of-bills.html"
 body: In old Eng-lish practice. Servants or messengers of the marshal of the king's
   bench, sent out with bills or writs to summon persons to that court Now more commonly

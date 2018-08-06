@@ -1,5 +1,6 @@
 ---
 title: Recession
+letter: R
 permalink: "/definitions/recession.html"
 body: The act of ceding back; the restoration of the title and dominion of a territory,
   by the government which now holds it, to the government from which it was obtained

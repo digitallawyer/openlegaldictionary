@@ -1,5 +1,6 @@
 ---
 title: Bulla
+letter: B
 permalink: "/definitions/bulla.html"
 body: A seal used by the Romnn emperors, during the lower empire; and which was of
   four kinds,—gold, silver, wax, and lead

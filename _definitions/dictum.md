@@ -1,5 +1,6 @@
 ---
 title: Dictum
+letter: D
 permalink: "/definitions/dictum.html"
 body: In general. A statement, re-mark, or observation. Gratis dictum; a gra-tuitous
   or voluntary representation; one which a party is not bound to make. 2 Kent, Comm.

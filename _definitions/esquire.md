@@ -1,5 +1,6 @@
 ---
 title: Esquire
+letter: E
 permalink: "/definitions/esquire.html"
 body: In English law. A tide of dignity next above gentleman, and below knight. Also
   a title of office given to sher-iffs, serjeants, and barristers at law, justices

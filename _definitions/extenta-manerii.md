@@ -1,5 +1,6 @@
 ---
 title: Extenta Manerii
+letter: E
 permalink: "/definitions/extenta-manerii.html"
 body: "(The extent or survey of a manor.) The title of a statute passed 4 Edw. I.
   St. 1; being a sort of dl-rectlon for making a survey or terrier of a manor, and

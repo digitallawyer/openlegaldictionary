@@ -1,5 +1,6 @@
 ---
 title: Saying The Statute Of Limitations
+letter: S
 permalink: "/definitions/saying-the-statute-of-limitations.html"
 body: A creditor is sald to “save the statute of Umltations” -when he saves or pre-serves
   hie debt from being barred by the operation of the statute. Thus, in the case of

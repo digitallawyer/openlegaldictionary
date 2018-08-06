@@ -1,5 +1,6 @@
 ---
 title: Vtvarium
+letter: V
 permalink: "/definitions/vtvarium.html"
 body: Lat. In the civil law. An inclosed place, where live wild anlmuls are kept Calvin;
   Spelman

@@ -1,5 +1,6 @@
 ---
 title: Say About
+letter: S
 permalink: "/definitions/say-about.html"
 body: This phrase, like “more or less,” is frequently introduced into con-veyances
   or contracts of sale, to indlcate that the quantity of the subject-matter is uncertain,

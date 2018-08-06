@@ -1,5 +1,6 @@
 ---
 title: Militia
+letter: M
 permalink: "/definitions/militia.html"
 body: The body of soldiers in a state enrolled for dlsclpllne, but not engaged in
   actual service except in emergencies, os dls-tingulshed from regular troops or a

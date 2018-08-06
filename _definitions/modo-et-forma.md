@@ -1,5 +1,6 @@
 ---
 title: Modo Et Forma
+letter: M
 permalink: "/definitions/modo-et-forma.html"
 body: Lat in manner and form, words used in the old Latln forms of pleadings by way
   of traverse, and literally translated in the modern precedents, importing that the

@@ -1,5 +1,6 @@
 ---
 title: Dominus Litis
+letter: D
 permalink: "/definitions/dominus-litis.html"
 body: Lat. Tbe master of the suit; i. e., the person who was really and directly lnterested
   in the suit as a party, as dlstlngulshed from hls attorney or advocate. Bnt the

@@ -1,5 +1,6 @@
 ---
 title: Patronage
+letter: P
 permalink: "/definitions/patronage.html"
 body: In English ecclesiastical law. The right of presentation to a church or ecclesiastical
   benefice; the same with ad-vowson, (q. v.) 2 Bl. Comm. 21

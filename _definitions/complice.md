@@ -1,5 +1,6 @@
 ---
 title: Complice
+letter: C
 permalink: "/definitions/complice.html"
 body: one who is united with others in an ill design; an associate; a con-federate;
   an accomplice

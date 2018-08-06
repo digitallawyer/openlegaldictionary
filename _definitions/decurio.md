@@ -1,5 +1,6 @@
 ---
 title: Decurio
+letter: D
 permalink: "/definitions/decurio.html"
 body: Lat. A decnrion. In the provincial admlnistration of the Roman em-pire, the
   decurions were tlie chief men or official personages of the large towns. Taken as

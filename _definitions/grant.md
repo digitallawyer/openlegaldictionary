@@ -1,5 +1,6 @@
 ---
 title: Grant
+letter: G
 permalink: "/definitions/grant.html"
 body: A generic term applicable to all transfers of real property. 3 washb. Real Prop.
   181, 353

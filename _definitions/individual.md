@@ -1,5 +1,6 @@
 ---
 title: Individual
+letter: I
 permalink: "/definitions/individual.html"
 body: As a noun, this term de-notes a single person as distinguished from a group
   or class, and also, very commonly, a private or natural person as distinguished

@@ -1,5 +1,6 @@
 ---
 title: Merchantman
+letter: M
 permalink: "/definitions/merchantman.html"
 body: A ship or vessel employed in foreign or domestic commerce or in the merchant
   service

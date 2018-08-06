@@ -1,5 +1,6 @@
 ---
 title: Compulsion
+letter: C
 permalink: "/definitions/compulsion.html"
 body: Constraint; objective necessity. Forcible inducement to the corn-mission of
   an act. Navigation Co. v. Brown, 100 Pa. 346; U. S. v. Kimball (C. C.) 11T Fed.

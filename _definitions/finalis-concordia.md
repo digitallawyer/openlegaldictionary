@@ -1,5 +1,6 @@
 ---
 title: Finalis Concordia
+letter: F
 permalink: "/definitions/finalis-concordia.html"
 body: A final or con-clusive agreement. In the process of “levying a fine,” this was
   a final agreement entered by the litigating parties upon the record, hy permission

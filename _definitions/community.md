@@ -1,5 +1,6 @@
 ---
 title: Community
+letter: C
 permalink: "/definitions/community.html"
 body: A society of people liv-Ing in the same place, under the same laws and regulations,
   and who have common rights and privileges. In re Huss, 126 N. Y. 537, 27 N. E. 784,

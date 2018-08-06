@@ -1,5 +1,6 @@
 ---
 title: Kirby'S Quest
+letter: K
 permalink: "/definitions/kirbys-quest.html"
 body: In English law. An ancient record remaining with the remem-b ran cer of the
   exchequer, being an inquisition or survey of all tlie lands in England, taken in

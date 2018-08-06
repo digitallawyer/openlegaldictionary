@@ -1,5 +1,6 @@
 ---
 title: In Invitum
+letter: I
 permalink: "/definitions/in-invitum.html"
 body: Against an unwilling party; against one not assenting. A term applied to proceedings
   against an adverse party, to which he does not consent

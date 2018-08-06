@@ -1,5 +1,6 @@
 ---
 title: Institutio Hsredis
+letter: I
 permalink: "/definitions/institutio-hsredis.html"
 body: Lat. In Ro-man law. The appointment of the hares in the will. It corresponds
   very nearly to the nomination of an executor in English law. without such an appointment

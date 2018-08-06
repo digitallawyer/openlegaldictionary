@@ -1,5 +1,6 @@
 ---
 title: Personality
+letter: P
 permalink: "/definitions/personality.html"
 body: In modern civil law. The incidence of a law or statute upon per-sous, or that
   quality which makes it a personal law rather than a real law. “By the personality

@@ -1,5 +1,6 @@
 ---
 title: Speaker
+letter: S
 permalink: "/definitions/speaker.html"
 body: This is the official deslgna-tion of the president or chairman of certain legislative
   bodies, particularly of the houst; of representatives in the congress of the Unlted

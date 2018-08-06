@@ -1,5 +1,6 @@
 ---
 title: Judgment In Rem
+letter: J
 permalink: "/definitions/judgment-in-rem.html"
 body: A judgment <n rem is an adjudication, pronounced upon the status of some particular
   subject-matter, by a tribunal having competent authority for that purpose. It differs

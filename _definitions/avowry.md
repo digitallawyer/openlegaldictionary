@@ -1,5 +1,6 @@
 ---
 title: Avowry
+letter: A
 permalink: "/definitions/avowry.html"
 body: 'A pleading in the action of replevin, by which the defendant avows, that is.
   acknowledges, the taking of the dis-tress or property complained of, where he took

@@ -1,5 +1,6 @@
 ---
 title: Steal
+letter: S
 permalink: "/definitions/steal.html"
 body: This term is commonly used in indictments for larceny, (“take, steal, and carry
   a way,") and denotes the commission of theft. But, in popular usage, “stealing"

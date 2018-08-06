@@ -1,5 +1,6 @@
 ---
 title: Mortuary
+letter: M
 permalink: "/definitions/mortuary.html"
 body: In ecclesiastical law. ▲ burial-place. A kind of ecclesiastical heriot, being
   a customary gift of the second best living animal belonging to the deceased, claimed

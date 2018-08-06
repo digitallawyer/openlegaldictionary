@@ -1,5 +1,6 @@
 ---
 title: Ejectment
+letter: E
 permalink: "/definitions/ejectment.html"
 body: At common law, this was the name of a mixed action (springing from the earlier
   personal action of ejectione

@@ -1,5 +1,6 @@
 ---
 title: Warrandice
+letter: W
 permalink: "/definitions/warrandice.html"
 body: In Scotch law. warranty; a clause in a charter or deed by which tbe grantor
   obliges himself that the right conveyed shall be effectual to the re-ceiver. Erek.

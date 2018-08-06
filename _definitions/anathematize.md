@@ -1,5 +1,6 @@
 ---
 title: Anathematize
+letter: A
 permalink: "/definitions/anathematize.html"
 body: To pronounce an-atheina upon; to pronounce accursed by ec-ciesiastical authority;
   to excommunicate

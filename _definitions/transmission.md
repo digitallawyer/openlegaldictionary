@@ -1,5 +1,6 @@
 ---
 title: Transmission
+letter: T
 permalink: "/definitions/transmission.html"
 body: In tbe civil law. The right which heirs or legatees may have- of passing to
   their successors the inheritance qr legacy to which they were entitled, if they

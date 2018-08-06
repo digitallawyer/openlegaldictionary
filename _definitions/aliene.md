@@ -1,5 +1,6 @@
 ---
 title: Aliene
+letter: A
 permalink: "/definitions/aliene.html"
 body: 'or ALIENE. r. To transfer or make over to another; to convey or transfer the
   property of a thing from one person to another; to alienate. Usually applied to

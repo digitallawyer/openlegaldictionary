@@ -1,5 +1,6 @@
 ---
 title: De Ventre Inspiciendo
+letter: D
 permalink: "/definitions/de-ventre-inspiciendo.html"
 body: A writ to inspect the body, where a woman feigns to be pregnant, to see whether
   she is with child. It lies for the heir presumptive to ex-amine a widow suspected

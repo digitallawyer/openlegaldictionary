@@ -1,5 +1,6 @@
 ---
 title: Replicatio
+letter: R
 permalink: "/definitions/replicatio.html"
 body: Lat in the civil law and old Englisb pleading. The plaintiffs answer to the
   defendant’s exception or plea; corresponding with and giving name to the replication

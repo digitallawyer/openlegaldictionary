@@ -1,5 +1,6 @@
 ---
 title: Faldstool
+letter: F
 permalink: "/definitions/faldstool.html"
 body: A place at the south side of the altar at which the sovereign kneels at his
   coronation, wharton

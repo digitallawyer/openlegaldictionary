@@ -1,5 +1,6 @@
 ---
 title: Truck Act
+letter: T
 permalink: "/definitions/truck-act.html"
 body: In English law. This name is given to the statute 1 A 2 wm. IV. c. 37, passed
   to abolish what is commonly called the “truck system," under which em-ployers were

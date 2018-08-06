@@ -1,5 +1,6 @@
 ---
 title: Prudence
+letter: P
 permalink: "/definitions/prudence.html"
 body: Carefulness, precaution, attentiveness, and good judgment, as applied to action
   or conduct That degree of care required by the exigencies or circumstances under

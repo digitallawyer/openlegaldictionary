@@ -1,5 +1,6 @@
 ---
 title: Negotiorum Gestor
+letter: N
 permalink: "/definitions/negotiorum-gestor.html"
 body: Lat. In the civil law. A transacter or manager of busi-ness; a person voluntarily
   constituting him-self ageut for another; one who, without any mandate or authority,

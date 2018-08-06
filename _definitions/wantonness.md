@@ -1,5 +1,6 @@
 ---
 title: Wantonness
+letter: W
 permalink: "/definitions/wantonness.html"
 body: A reckless or malicious and intentional disregard of the property, rights, or
   safety of others, Implying, active-iy, a licentious or contemptuous willingness

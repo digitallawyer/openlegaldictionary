@@ -1,5 +1,6 @@
 ---
 title: Regency
+letter: R
 permalink: "/definitions/regency.html"
 body: Rule; government; king-ship. The man or body of men intrusted with the vicarious
   government of a kingdom during the minority, absence, insanity, or other disability

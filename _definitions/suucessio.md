@@ -1,5 +1,6 @@
 ---
 title: Suucessio
+letter: S
 permalink: "/definitions/suucessio.html"
 body: Lat. In the civil lgw. A coming in place of another, on hls decease; a coming
   into the estate which a deceased person had at the time of his death. This was either

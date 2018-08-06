@@ -1,5 +1,6 @@
 ---
 title: Mother
+letter: M
 permalink: "/definitions/mother.html"
 body: A woman who has borne a child; a female parent; correlative to “son" or “daughter.”
   The term may also include a woman who is pregnant See Howard v. People, 185 111.

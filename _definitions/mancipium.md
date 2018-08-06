@@ -1,5 +1,6 @@
 ---
 title: Mancipium
+letter: M
 permalink: "/definitions/mancipium.html"
 body: Lat in Roman law. The momentary condition in which a fllius, etc., might be
   when in course of emancipatlon from the potestas, and before that emanclpa-tlon

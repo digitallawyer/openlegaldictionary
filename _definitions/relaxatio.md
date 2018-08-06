@@ -1,5 +1,6 @@
 ---
 title: Relaxatio
+letter: R
 permalink: "/definitions/relaxatio.html"
 body: In old conveyancing. A release; an Instrument by which a person relinquishes
   to another his right in anything

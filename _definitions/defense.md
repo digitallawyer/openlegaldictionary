@@ -1,5 +1,6 @@
 ---
 title: Defense
+letter: D
 permalink: "/definitions/defense.html"
 body: That which is offered and alleged by the party proceeded against in an action
   or suit, as a reasou in law or fact why the plaintiff should not recover or establish

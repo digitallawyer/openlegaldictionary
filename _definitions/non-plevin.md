@@ -1,5 +1,6 @@
 ---
 title: Non-Plevin
+letter: N
 permalink: "/definitions/non-plevin.html"
 body: In old English law. De-fault In not replevying land in due time, when the same
   was taken by the king upon a default The consequence thereof Goss of selsln) was

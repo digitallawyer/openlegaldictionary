@@ -1,5 +1,6 @@
 ---
 title: Affreightment
+letter: A
 permalink: "/definitions/affreightment.html"
 body: A contract of af-frelghtment is a contract with a ship-owner to hire his ship,
   or part of It, for the car-rlage of goods. Such a contract generally takes the form

@@ -1,5 +1,6 @@
 ---
 title: Party
+letter: P
 permalink: "/definitions/party.html"
 body: A person concerned or having or taking part in any affair, matter, tranaac-tlon,
   or proceeding, considered individually. See Pasties

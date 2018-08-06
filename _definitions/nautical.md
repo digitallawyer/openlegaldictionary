@@ -1,5 +1,6 @@
 ---
 title: Nautical
+letter: N
 permalink: "/definitions/nautical.html"
 body: Pertaining to ships or to the art of navigation or the business of car-riage
   by sea

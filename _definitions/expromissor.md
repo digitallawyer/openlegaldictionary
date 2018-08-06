@@ -1,5 +1,6 @@
 ---
 title: Expromissor
+letter: E
 permalink: "/definitions/expromissor.html"
 body: In the civil law. A person who assumes the debt of another, and becomes solely
   liable for lt, by a stipulation with the creditor. He differs from a surety, inasmuch

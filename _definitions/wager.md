@@ -1,5 +1,6 @@
 ---
 title: Wager
+letter: W
 permalink: "/definitions/wager.html"
 body: A wager is a contract by which two or more parties agree that a certain snm
   of money or other thing shall be paid or de-livered to one of them on the happening

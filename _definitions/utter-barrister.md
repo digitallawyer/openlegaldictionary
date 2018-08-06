@@ -1,5 +1,6 @@
 ---
 title: Utter Barrister
+letter: U
 permalink: "/definitions/utter-barrister.html"
 body: In English law. Those barristers who plead wlthout the bar, and are distinguished
   from benchers, or those who have been readers, and who are allowed to plead within

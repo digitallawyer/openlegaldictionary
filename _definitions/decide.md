@@ -1,5 +1,6 @@
 ---
 title: Decide
+letter: D
 permalink: "/definitions/decide.html"
 body: To decide includes the power and right to deliberate, to weigh the rea-sons
   for and against, to see which pre-ponderate. and to be governed by that pre-ponderance.

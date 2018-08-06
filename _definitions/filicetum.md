@@ -1,5 +1,6 @@
 ---
 title: Filicetum
+letter: F
 permalink: "/definitions/filicetum.html"
 body: 'In old English law. A ferny or bracky ground: a place where fern grows. Co.
   Litt. 4b; Shep. Touch. 95'

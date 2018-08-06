@@ -1,5 +1,6 @@
 ---
 title: Rachetum
+letter: R
 permalink: "/definitions/rachetum.html"
 body: In Scotch law. Ransom; correspondlng to Saxon “weregild,” a pecun-lary composition
   for an offense. Skene; Jacoh

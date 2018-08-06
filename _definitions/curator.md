@@ -1,5 +1,6 @@
 ---
 title: Curator
+letter: C
 permalink: "/definitions/curator.html"
 body: In tbe civU law. A person who is appointed to take care of any-thing for another.
   A guardian, one ap-pointed to take care of the estate of a minor above a certaiu

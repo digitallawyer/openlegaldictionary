@@ -1,5 +1,6 @@
 ---
 title: Drungarius
+letter: D
 permalink: "/definitions/drungarius.html"
 body: In old European law. The commander of a drungus, or band of soldiers. Applied
   also to a naval command-er. Spelman

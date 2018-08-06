@@ -1,5 +1,6 @@
 ---
 title: Surety
+letter: S
 permalink: "/definitions/surety.html"
 body: A surety is one who at the re-quest of another, nnd for the purpose of securing
   to him a benefit, becomes responsible for the performance by the latter of some

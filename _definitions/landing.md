@@ -1,5 +1,6 @@
 ---
 title: Landing
+letter: L
 permalink: "/definitions/landing.html"
 body: A piace on a river or other navigable water for lading and unlading goods, or
   for tlie reception and delivery of passengers; tbe terminos of a road on a river

@@ -1,5 +1,6 @@
 ---
 title: Folc-Gemote
+letter: F
 permalink: "/definitions/folc-gemote.html"
 body: In Saxon law. A general assembly of the people in a town or ahire. It appears
   to have had judiclal func-tions of a limited nature, and also to have discharged

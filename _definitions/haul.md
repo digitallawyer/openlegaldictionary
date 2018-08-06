@@ -1,5 +1,6 @@
 ---
 title: Haul
+letter: H
 permalink: "/definitions/haul.html"
 body: The use of thls word, instead of the statutory word “carry,” in an indictment
   charging that the defendant “did felo-niously steal, take, and haul away” certain

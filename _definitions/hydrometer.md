@@ -1,5 +1,6 @@
 ---
 title: Hydrometer
+letter: H
 permalink: "/definitions/hydrometer.html"
 body: An instrument for measuring the density of fluids. Being ira-mersed in fluids,
   as in water, brines beer, brandy, etc., it determines the proportion of thelr density,

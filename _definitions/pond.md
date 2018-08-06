@@ -1,5 +1,6 @@
 ---
 title: Pond
+letter: P
 permalink: "/definitions/pond.html"
 body: A body of stagnant water without an outlet, larger than a puddle and smaller
   than a lake; or a like body of water with a small outlet, webster. And see Rockland

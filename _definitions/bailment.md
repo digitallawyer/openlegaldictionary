@@ -1,5 +1,6 @@
 ---
 title: Bailment
+letter: B
 permalink: "/definitions/bailment.html"
 body: A delivery of goods or per-sonal property, by one person to another, in trust
   for the execution of a special object upon or in relation to such goods, beneficial

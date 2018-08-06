@@ -1,5 +1,6 @@
 ---
 title: Dano
+letter: D
 permalink: "/definitions/dano.html"
 body: In Spanish law. Damage; the deterioration, injury, or destruction which a man
   suffers with respect to bis person or his property by the fault (culpa) of another,

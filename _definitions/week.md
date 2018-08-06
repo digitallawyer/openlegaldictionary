@@ -1,5 +1,6 @@
 ---
 title: Week
+letter: W
 permalink: "/definitions/week.html"
 body: A period of seven consecutive days of time; and, in some uses, the period beginning
   with Sunday and ending with Snt-urday. See Leach v. Burr, 188 U. S. 510, 23 Sup.

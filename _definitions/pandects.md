@@ -1,5 +1,6 @@
 ---
 title: Pandects
+letter: P
 permalink: "/definitions/pandects.html"
 body: A compilation of Roman law, consisting of selected pussages from the writings
   of the most authoritative of the older jurists, methodically arranged, pre-pared

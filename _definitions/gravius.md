@@ -1,5 +1,6 @@
 ---
 title: Gravius
+letter: G
 permalink: "/definitions/gravius.html"
 body: A graf; a chief magistrate or officer. A term derived from the more ancient
   “grafio:' and used in combination with various other words, os an official title

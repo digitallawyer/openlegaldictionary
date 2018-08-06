@@ -1,5 +1,6 @@
 ---
 title: Boom Company
+letter: B
 permalink: "/definitions/boom-company.html"
 body: A company formed for the purpose of improving streams for the floating of logs,
   hy means of booms and other contrivances, and for the purpose of running, driving,

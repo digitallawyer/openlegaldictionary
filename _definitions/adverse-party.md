@@ -1,5 +1,6 @@
 ---
 title: Adverse Party
+letter: A
 permalink: "/definitions/adverse-party.html"
 body: An “adverse par-ty” entitled to notice of appeal is every par-ty whose interest
   in relation to the judg-ment or decree appealed from is in conflict with the modification

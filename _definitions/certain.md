@@ -1,5 +1,6 @@
 ---
 title: Certain
+letter: C
 permalink: "/definitions/certain.html"
 body: Ascertained; precise; iden-tified; definitive; clearly known; unamhlg* nous;
   or, in law, capable of being identified or made known, without liability to mis-take

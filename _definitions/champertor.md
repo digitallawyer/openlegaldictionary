@@ -1,5 +1,6 @@
 ---
 title: Champertor
+letter: C
 permalink: "/definitions/champertor.html"
 body: In criminal law. one who makes pleas or suits, or causes them to be moved, either
   directly or indirectly, and sues them at hls proper costs, upon condition of having

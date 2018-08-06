@@ -1,5 +1,6 @@
 ---
 title: N. F
+letter: N
 permalink: "/definitions/n-f.html"
 body: ne can grant or convey wbat he does not own. Seymour v. Canandaigua & N. F.
   R. Co., 25 Barb. (N. Y.) 284, 301. See Saltus v. Everett, 20 wend. (N. Y.) 267,

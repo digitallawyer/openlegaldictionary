@@ -1,5 +1,6 @@
 ---
 title: Rising Of Court
+letter: R
 permalink: "/definitions/rising-of-court.html"
 body: Properly the final adjournment of the court for the term, though the term is
   also sometimes used to express the cessation of judicial business for the day or

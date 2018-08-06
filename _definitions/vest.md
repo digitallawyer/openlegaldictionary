@@ -1,5 +1,6 @@
 ---
 title: Vest
+letter: V
 permalink: "/definitions/vest.html"
 body: To accrue to; to be fixed; to take effect; to give a fixed and indefeasible
   right An estate is vested in possession when there exists a right of present enjoyment;

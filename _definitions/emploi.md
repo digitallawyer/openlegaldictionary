@@ -1,5 +1,6 @@
 ---
 title: Emploi
+letter: E
 permalink: "/definitions/emploi.html"
 body: In French law. Equitable conversion, when property covered by the rigime dotal
   is sold, the proceeds of the sale must be reinvested for the benefit of the wife.

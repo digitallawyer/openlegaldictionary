@@ -1,5 +1,6 @@
 ---
 title: Apparura
+letter: A
 permalink: "/definitions/apparura.html"
 body: In old English law the apparura were furniture, implements, tackle, or apparel.
   Carucaruin upparura, plow-tackle. Cowell

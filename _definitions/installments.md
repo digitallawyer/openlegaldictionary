@@ -1,5 +1,6 @@
 ---
 title: Installments
+letter: I
 permalink: "/definitions/installments.html"
 body: Different portions of the same debt' payable at different sacces-slve periods
   as agreed. Brown

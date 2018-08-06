@@ -1,5 +1,6 @@
 ---
 title: By-Road
+letter: B
 permalink: "/definitions/by-road.html"
 body: 'The statute law of New Jer-sey recoguizes three different kinds of roads: A
   public road, a private road, aud a byroad. A by-road is a road used by the in-habitants,

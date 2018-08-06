@@ -1,5 +1,6 @@
 ---
 title: Memory
+letter: M
 permalink: "/definitions/memory.html"
 body: Mental capaclty; the mental power to review and recognize tbe successive states
   of consciousness in thelr consecutive order. Thls word, as used in Jurisprudence

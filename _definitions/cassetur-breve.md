@@ -1,5 +1,6 @@
 ---
 title: Cassetur Breve
+letter: C
 permalink: "/definitions/cassetur-breve.html"
 body: "(Lat That the writ be quashed.) In practice. The form of the judgment for the
   defendant on a plea in abatement, where the action was commenced hy original writ,

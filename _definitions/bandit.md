@@ -1,5 +1,6 @@
 ---
 title: Bandit
+letter: B
 permalink: "/definitions/bandit.html"
 body: An outlaw; a man banned, or put under a ban; a brigand or robber. Banditti,
   a band of robbers

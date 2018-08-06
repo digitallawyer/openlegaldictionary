@@ -1,5 +1,6 @@
 ---
 title: Navigable
+letter: N
 permalink: "/definitions/navigable.html"
 body: Capable of being navi-gated; that may be navigated or passed over in ships or
   vessels. But the term is gen-erally understood in a more restricted sense, viz.,

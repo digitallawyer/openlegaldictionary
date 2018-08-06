@@ -1,5 +1,6 @@
 ---
 title: Carte Blanche
+letter: C
 permalink: "/definitions/carte-blanche.html"
 body: A white sheet of paper; an Instrument signed, but otherwise left blank. A sheet
   given to an agent, with the principal’s signature appended, to be Ailed up with

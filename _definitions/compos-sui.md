@@ -1,5 +1,6 @@
 ---
 title: Compos Sui
+letter: C
 permalink: "/definitions/compos-sui.html"
 body: Having the use of one’s limbs, or the ■power of bodily motion. Si fvit ita compos
   sui quod itincrare potuit de loco in locum, if he had so far the use of his limbs

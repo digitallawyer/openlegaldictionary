@@ -1,5 +1,6 @@
 ---
 title: Forcible Entry
+letter: F
 permalink: "/definitions/forcible-entry.html"
 body: An offense against the public peace, or private wrong, com-mltted by violently
   taking possession of lands and tenements with menaces, force, and arms, against

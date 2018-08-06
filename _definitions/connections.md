@@ -1,5 +1,6 @@
 ---
 title: Connections
+letter: C
 permalink: "/definitions/connections.html"
 body: Relations by blood or marriage, but more commonly the relations of a person
   with whom one is connected by marriage. In this sense, the relations of a wife are

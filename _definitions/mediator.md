@@ -1,5 +1,6 @@
 ---
 title: Mediator
+letter: M
 permalink: "/definitions/mediator.html"
 body: OR. one who interposes be-tween parties at variance for the purpose of reconciling
   them

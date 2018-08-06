@@ -1,5 +1,6 @@
 ---
 title: Concession
+letter: C
 permalink: "/definitions/concession.html"
 body: A grant; ordinarily ap-plied to the grant of specific privileges by a government;
   French and Spanish grants in Louisiana. See western M. & M. Co. v. Pey-tona Coal

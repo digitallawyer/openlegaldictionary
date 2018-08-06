@@ -1,5 +1,6 @@
 ---
 title: Regulate
+letter: R
 permalink: "/definitions/regulate.html"
 body: The power to regulate commerce, vested in congress, is the power to preserlbe
   the rules by which it shall be governed, that is, the condltlons upon whlch it shall

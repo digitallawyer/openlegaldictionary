@@ -1,5 +1,6 @@
 ---
 title: Self-Regarding Evidence
+letter: S
 permalink: "/definitions/self-regarding-evidence.html"
 body: Evl-derice which either serves or disserves the partyis so called. Thls specles
   of evidence is either self-serving (which is not in general receivable) or self-dlsservlng,

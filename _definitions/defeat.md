@@ -1,5 +1,6 @@
 ---
 title: Defeat
+letter: D
 permalink: "/definitions/defeat.html"
 body: To prevent, frustrate, or circumvent ; as in the phrase “hlnder, delay, or defeat
   credltors.” Coleman v. walker, 3 Metc. (Ky.) 65, 77 Am. Dec. 163; walker v. Sayers,

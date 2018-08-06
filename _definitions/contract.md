@@ -1,5 +1,6 @@
 ---
 title: Contract
+letter: C
 permalink: "/definitions/contract.html"
 body: An agreement, upon suf-flcient consideration, to do or not to do a particular
   thing. 2 Bl. Comm. 442 ; 2 Kent, Oomm. 449. Justice v. Lang, 42 N. Y. 496, 1 Am.

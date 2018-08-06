@@ -1,5 +1,6 @@
 ---
 title: Demisi
+letter: D
 permalink: "/definitions/demisi.html"
 body: Lat. I have demised or leased. Demisi, concessi, et ad flrmam tradidi; have
   demised, granted, and to farm let. The usu-al operative words in ancient leases,

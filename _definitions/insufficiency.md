@@ -1,5 +1,6 @@
 ---
 title: Insufficiency
+letter: I
 permalink: "/definitions/insufficiency.html"
 body: In equity pleading. The legal inadequacy of an answer in equity which does not
   fully and specifically reply to some one or more of the material allegations, charges,

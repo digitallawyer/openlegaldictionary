@@ -1,5 +1,6 @@
 ---
 title: Mixtion
+letter: M
 permalink: "/definitions/mixtion.html"
 body: The mixture or confusion of goods or chattels belonging severally to dlfferent
   owners, in such a way that they can uo longer be separated or distinguished; as

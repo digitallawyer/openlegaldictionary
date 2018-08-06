@@ -1,5 +1,6 @@
 ---
 title: Wall
+letter: W
 permalink: "/definitions/wall.html"
 body: An erection of stone, brick, or other material, raised to some height, and in-tended
   for purposes of security or lnclosure. In law, this term occurs in such compounds

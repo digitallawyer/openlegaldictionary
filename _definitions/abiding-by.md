@@ -1,5 +1,6 @@
 ---
 title: Abiding By
+letter: A
 permalink: "/definitions/abiding-by.html"
 body: In Scotch law. A Ju-dicial declaration that the party abides by the deed on
   which he founds, in an action where the deed or writing is attacked. as forged.

@@ -1,5 +1,6 @@
 ---
 title: Arabant
+letter: A
 permalink: "/definitions/arabant.html"
 body: They plowed. A term of feudal law, applied to those who held by the tenure of
   plowing and tilling the lord’s lands within the manor. Cowell

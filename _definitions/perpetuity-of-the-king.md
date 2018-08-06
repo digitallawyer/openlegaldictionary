@@ -1,5 +1,6 @@
 ---
 title: Perpetuity Of The King
+letter: P
 permalink: "/definitions/perpetuity-of-the-king.html"
 body: That fiction of the English law which for certain political purposes ascribes
   to the king in hls political capacity the attribute of immortali-ty; for, though

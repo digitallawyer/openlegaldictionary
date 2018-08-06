@@ -1,5 +1,6 @@
 ---
 title: Works
+letter: W
 permalink: "/definitions/works.html"
 body: This term means sometimes a mill, factory, or other establishment for performing
   industrial labor of any sort, (South St. Joseph Land Co. v. Pitt, 114 Mo. 135, 21

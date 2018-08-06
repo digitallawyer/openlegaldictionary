@@ -1,5 +1,6 @@
 ---
 title: Step-Daughter
+letter: S
 permalink: "/definitions/step-daughter.html"
 body: The daughter . of one’s wife by a former husband, or of one’s husband by a former
   wife

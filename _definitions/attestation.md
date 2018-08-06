@@ -1,5 +1,6 @@
 ---
 title: Attestation
+letter: A
 permalink: "/definitions/attestation.html"
 body: The act of witnessing an instrument in writing, at the request ot the party
   making the same, aud subscribing it as a witness. See Attest

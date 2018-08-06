@@ -1,5 +1,6 @@
 ---
 title: Drug
+letter: D
 permalink: "/definitions/drug.html"
 body: The general name of substances used in medicine; any substance, vegetable, animal,
   or mineral, used in the composition or preparation of medicines. The term is also

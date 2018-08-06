@@ -1,5 +1,6 @@
 ---
 title: Pairing-Off
+letter: P
 permalink: "/definitions/pairing-off.html"
 body: In the practice of leg-lslative bodies, this is the name given to a Bpecies
   of negative proxies, by which two members, who belong to opposite parties or are

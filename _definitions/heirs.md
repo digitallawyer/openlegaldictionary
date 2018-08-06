@@ -1,5 +1,6 @@
 ---
 title: Heirs
+letter: H
 permalink: "/definitions/heirs.html"
 body: A word used in deeds of conveyance, (either solely, or in connection with others,)
   where it is intended to pass a fee

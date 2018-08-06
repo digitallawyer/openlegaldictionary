@@ -1,5 +1,6 @@
 ---
 title: Clearing-House
+letter: C
 permalink: "/definitions/clearing-house.html"
 body: An institution or-ganized by the banks of a dty, where their messengers may
   meet daily, adjust balances of accounts, and receive and pay differences. Crane

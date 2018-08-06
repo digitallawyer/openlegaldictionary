@@ -1,5 +1,6 @@
 ---
 title: Nonsuit
+letter: N
 permalink: "/definitions/nonsuit.html"
 body: Not following up the cause; failure on the part of a plaintiff to continue the
   prosecution of his suit. An ahandon-ment or renunciation of his suit, by a plain-tiff,

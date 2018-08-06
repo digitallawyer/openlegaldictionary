@@ -1,5 +1,6 @@
 ---
 title: Esione Fidel, Suits Pro
+letter: E
 permalink: "/definitions/esione-fidel-suits-pro.html"
 body: RO. Suits in the ecclesiastical courts for spiritual of-fenses against conscience,
   for non-payment of debts, or breaches of civil contracts. This attempt to turn the

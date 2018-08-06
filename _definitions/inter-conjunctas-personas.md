@@ -1,5 +1,6 @@
 ---
 title: Inter Conjunctas Personas
+letter: I
 permalink: "/definitions/inter-conjunctas-personas.html"
 body: Between conjunct persons. By the act 1621, c. 18, all conveyances or alienations
   between conjunct persons, unless granted for oner-ous causes, are declared, as in

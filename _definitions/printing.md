@@ -1,5 +1,6 @@
 ---
 title: Printing
+letter: P
 permalink: "/definitions/printing.html"
 body: The art of Impressing let-ters; the art of makiug books or papers by impressing
   legible characters. Arthur v. Moller, 97 U. S. 365, 24 L. Bd. 1046; Le Roy v. Jamison,

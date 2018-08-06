@@ -1,5 +1,6 @@
 ---
 title: Deslinde
+letter: D
 permalink: "/definitions/deslinde.html"
 body: A term used in the Span-lsh law, denoting the act by which the bound-arles of
   an estate or portion of a country are determined

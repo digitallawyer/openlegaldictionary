@@ -1,5 +1,6 @@
 ---
 title: Under-Tutor
+letter: U
 permalink: "/definitions/under-tutor.html"
 body: In Louisiana. In every tutorship there shall be an under-tutor, whom it shall
   be the duty of the judge to appoint at the time letters of tutor-ship are certified

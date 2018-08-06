@@ -1,5 +1,6 @@
 ---
 title: Recess
+letter: R
 permalink: "/definitions/recess.html"
 body: In the practice of the courts, a recess is a short interval or period of time
   during which the court suspends business, but without adjourning. See In re Gannon,

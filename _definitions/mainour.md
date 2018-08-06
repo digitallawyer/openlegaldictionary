@@ -1,5 +1,6 @@
 ---
 title: Mainour
+letter: M
 permalink: "/definitions/mainour.html"
 body: In crlmlnal law. An article stolen, when found in the bands of the thlef. A
   thlef caught with the stolen goods in hls possession is said to be taken “wlth the

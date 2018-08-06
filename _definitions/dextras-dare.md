@@ -1,5 +1,6 @@
 ---
 title: Dextras Dare
+letter: D
 permalink: "/definitions/dextras-dare.html"
 body: To shake hands in token of friendship; or to give up oneself to the power of
   another person

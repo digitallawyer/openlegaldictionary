@@ -1,5 +1,6 @@
 ---
 title: Sutler
+letter: S
 permalink: "/definitions/sutler.html"
 body: A person who, as a business, follows an army and sells provisions and liquor
   to the troops

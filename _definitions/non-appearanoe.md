@@ -1,5 +1,6 @@
 ---
 title: Non-Appearanoe
+letter: N
 permalink: "/definitions/non-appearanoe.html"
 body: A failure of ap-pearance; the omission of the defendant to-appear within the
   time limited

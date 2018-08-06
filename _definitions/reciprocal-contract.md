@@ -1,5 +1,6 @@
 ---
 title: Reciprocal Contract
+letter: R
 permalink: "/definitions/reciprocal-contract.html"
 body: A con-tract, the partles to whlch enter lnto mutual engagements. A mutual or
   bilateral con-tract

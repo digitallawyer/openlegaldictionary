@@ -1,5 +1,6 @@
 ---
 title: Folc-Land
+letter: F
 permalink: "/definitions/folc-land.html"
 body: In Saxon law.. Land of the folk or people. Land belonging to the people or the
   public

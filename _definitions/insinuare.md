@@ -1,5 +1,6 @@
 ---
 title: Insinuare
+letter: I
 permalink: "/definitions/insinuare.html"
 body: Lat in the civil law. To put Into; to deposit a writing in conrt, answering
   nearly to the modern expression “to file.” Si non mandatum actis insin-uatum.est,

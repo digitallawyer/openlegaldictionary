@@ -1,5 +1,6 @@
 ---
 title: Suffer
+letter: S
 permalink: "/definitions/suffer.html"
 body: To suffer an act to be done, by a iierson who cau prevent it, is to permit or
   consent to it; to approve of it, and not to hinder it. It impiles a willingness

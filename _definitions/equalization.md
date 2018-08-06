@@ -1,5 +1,6 @@
 ---
 title: Equalization
+letter: E
 permalink: "/definitions/equalization.html"
 body: The act or process of making equal or bringing about conformity to a common
   standard. The process of equal* izing assessments or taxes, as performed by “boards

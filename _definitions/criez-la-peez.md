@@ -1,5 +1,6 @@
 ---
 title: Criez La Peez
+letter: C
 permalink: "/definitions/criez-la-peez.html"
 body: Rehearse the concord, or peace. A phrase used in the ancient proceedings for
   levying fines. It was the form of words by which the Justice before whom the parties

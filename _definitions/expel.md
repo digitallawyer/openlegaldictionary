@@ -1,5 +1,6 @@
 ---
 title: Expel
+letter: E
 permalink: "/definitions/expel.html"
 body: In regard to trespass and other torts, this term means to eject, to put out,
   to drive out, and generally with an Implication of the use of force. Perry v. Fitzhowe,

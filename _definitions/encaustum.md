@@ -1,5 +1,6 @@
 ---
 title: Encaustum
+letter: E
 permalink: "/definitions/encaustum.html"
 body: In the civil law. A kind of Ink or writlng fluid appropriate to the use of the
   emperor. Cod. 1, 23, 6

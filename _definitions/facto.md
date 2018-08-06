@@ -1,5 +1,6 @@
 ---
 title: Facto
+letter: F
 permalink: "/definitions/facto.html"
 body: In fact; by an act; hy the act or fact Ipso facto, by the act itself; hy the
   mere effect of a fact, without anything su-peradded, or any proceeding upon it to

@@ -1,5 +1,6 @@
 ---
 title: Jus Disponendi
+letter: J
 permalink: "/definitions/jus-disponendi.html"
 body: The right of dis-posing. An expression used either general-ly to signify the
   right of alienation, as when we speak of depriving a married woman of the jus disponendi

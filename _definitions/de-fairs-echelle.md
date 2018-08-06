@@ -1,5 +1,6 @@
 ---
 title: De Fairs Echelle
+letter: D
 permalink: "/definitions/de-fairs-echelle.html"
 body: In French law. ▲ clause commonly inserted in policies of marine insurance, equivalent
   to a license to touch and trade at intermediate ports. American Ins. Co. v. Griswold,

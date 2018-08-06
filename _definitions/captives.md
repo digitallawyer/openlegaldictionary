@@ -1,5 +1,6 @@
 ---
 title: Captives
+letter: C
 permalink: "/definitions/captives.html"
 body: Prisoners of war. As in the goods of an enemy, so also in his person, a sort
   of qualified property may be acquired, by taking him a prisoner of war, at least

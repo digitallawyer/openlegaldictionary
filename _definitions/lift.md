@@ -1,5 +1,6 @@
 ---
 title: Lift
+letter: L
 permalink: "/definitions/lift.html"
 body: To ratse; to take up. To “lift” a promissory note is to discharge Its obilga-tlon
   by paying Its amount or substituting another evidence of debt. To “lift the bar”

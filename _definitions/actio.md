@@ -1,5 +1,6 @@
 ---
 title: Actio
+letter: A
 permalink: "/definitions/actio.html"
 body: Lat in the civil law. An action or suit; a right or cause of action. It should
   be noted that this term means both the pro* cecding to enforce a right in a court

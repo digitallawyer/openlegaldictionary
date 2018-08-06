@@ -1,5 +1,6 @@
 ---
 title: Cessavit Per Biennium
+letter: C
 permalink: "/definitions/cessavit-per-biennium.html"
 body: In prac-tice. An obsolete writ, which could formerly have been sued out when
   the defendant had for two years ceased or neglected to perform such service or to

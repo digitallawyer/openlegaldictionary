@@ -1,5 +1,6 @@
 ---
 title: Viva Voce
+letter: V
 permalink: "/definitions/viva-voce.html"
 body: Lat with the living voice; by word of mouth. As applied to the examination of
   witnesses, this phrase ts equivalent to “orally.” It is used in contra-distinction

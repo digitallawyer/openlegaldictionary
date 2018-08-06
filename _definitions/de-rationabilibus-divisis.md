@@ -1,5 +1,6 @@
 ---
 title: De Rationabilibus Divisis
+letter: D
 permalink: "/definitions/de-rationabilibus-divisis.html"
 body: writ for fixing reasonable boundaries. A writ which lay to settle the boundaries
   be-tween tbe lands of persons in different towns, where one complained of encroach-ment.

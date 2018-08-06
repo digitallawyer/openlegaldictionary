@@ -1,5 +1,6 @@
 ---
 title: A Datu
+letter: A
 permalink: "/definitions/a-datu.html"
 body: L. Lat From the date. Haths v. Ash, 2 Salk. 413. A die dat&s,- from the day
   of the date. Id.; 2 Crabb, Real Prop. p. 248, § 1301; Hatter v. Ash, 1 Ld. Raym.

@@ -1,5 +1,6 @@
 ---
 title: Capacity
+letter: C
 permalink: "/definitions/capacity.html"
 body: Legal capacity is the attri-bute of a person who can acquire new rights, or
   transfer rights, or assume duties, accord-ing to the mere dictates of his own will,

@@ -1,5 +1,6 @@
 ---
 title: Insula
+letter: I
 permalink: "/definitions/insula.html"
 body: Lat. An island; a house not connected with other houses, but separated by a
   surrounding space of ground. Calvin

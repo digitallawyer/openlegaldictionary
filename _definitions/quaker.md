@@ -1,5 +1,6 @@
 ---
 title: Quaker
+letter: Q
 permalink: "/definitions/quaker.html"
 body: This, in England, is the stat-ntory, as well as the popular, name of a member
   of a religious society, by themselves deupminated “Frleuds

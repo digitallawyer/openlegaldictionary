@@ -1,5 +1,6 @@
 ---
 title: Revise
+letter: R
 permalink: "/definitions/revise.html"
 body: "■ To review, re-examine for> correction; to go over a thing for the purpose)
   of. amending, correcting, rearranging, or otherwise improving it ; as, to revise

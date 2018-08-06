@@ -1,5 +1,6 @@
 ---
 title: Aggravation
+letter: A
 permalink: "/definitions/aggravation.html"
 body: Any circumstance at-tending the commission of a crime or tort which increases
   its guilt or enormity or adds to Its injurious consequences, but which is above

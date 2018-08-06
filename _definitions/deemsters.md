@@ -1,5 +1,6 @@
 ---
 title: Deemsters
+letter: D
 permalink: "/definitions/deemsters.html"
 body: Judges in the Isle of Man, tvho decide all controversies without process, writings,
   or any charges. These judges are chosen by the people, and are said by Spelman to

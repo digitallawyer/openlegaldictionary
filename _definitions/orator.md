@@ -1,5 +1,6 @@
 ---
 title: Orator
+letter: O
 permalink: "/definitions/orator.html"
 body: The plaintiff in a cause or matter in chancery, when addressing or pe-titioning
   the court, used to style himself “or-ator,” and. when a woman, “oratrix.” But these

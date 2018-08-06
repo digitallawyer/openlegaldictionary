@@ -1,5 +1,6 @@
 ---
 title: Devest
+letter: D
 permalink: "/definitions/devest.html"
 body: To deprive; to take away; to withdraw. Usually spoken of an authority, power,
   property, or title; as the estate is de-vested

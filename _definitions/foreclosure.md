@@ -1,5 +1,6 @@
 ---
 title: Foreclosure
+letter: F
 permalink: "/definitions/foreclosure.html"
 body: A process in chancery by which all further right existing In a mort-gagor to
   redeem the estate is defeated and lost to him, and the estate becomes the abso-lute

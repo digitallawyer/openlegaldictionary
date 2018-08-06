@@ -1,5 +1,6 @@
 ---
 title: Foundation
+letter: F
 permalink: "/definitions/foundation.html"
 body: The founding or build-ing of a college or hospital. The incorpora-tion or endowment
   of a college or hospital is the foundation; and he who endows it with land or other

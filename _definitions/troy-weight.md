@@ -1,5 +1,6 @@
 ---
 title: Troy Weight
+letter: T
 permalink: "/definitions/troy-weight.html"
 body: A weight of twelve ounces to the pound, having its name from Troyes, a city
   in Aube, France

@@ -1,5 +1,6 @@
 ---
 title: Pithatism
+letter: P
 permalink: "/definitions/pithatism.html"
 body: In medical jurisprudence. A term of recent introduction to medical 'science,
   signifying curability by means of persuasion, and used as synonymous with “hysteria,”

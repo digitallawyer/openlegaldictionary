@@ -1,5 +1,6 @@
 ---
 title: Felo De Se
+letter: F
 permalink: "/definitions/felo-de-se.html"
 body: A felon of himself; a suicide or murderer of himself, one who deliberately and
   intentionally puts an end to

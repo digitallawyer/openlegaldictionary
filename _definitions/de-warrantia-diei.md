@@ -1,5 +1,6 @@
 ---
 title: De Warrantia Diei
+letter: D
 permalink: "/definitions/de-warrantia-diei.html"
 body: A writ that lay where a man had a day in any action to appear in proper person,
   and the king at that day, or before, employed him in some service, so that he could

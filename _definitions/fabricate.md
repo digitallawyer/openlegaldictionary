@@ -1,5 +1,6 @@
 ---
 title: Fabricate
+letter: F
 permalink: "/definitions/fabricate.html"
 body: To fabricate evidence is to arrange or manufacture drcumstances or indicia,
   after the fact commuted, wlth the purpose of using them as evldence, and of dcceitfully

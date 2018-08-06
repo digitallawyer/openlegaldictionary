@@ -1,5 +1,6 @@
 ---
 title: Dedication-Day
+letter: D
 permalink: "/definitions/dedication-day.html"
 body: The feast of ded-ication of charches, or rather the feast day of the saint and
   patron of tt church, which was celebrated not only by the inhabitants of the place,

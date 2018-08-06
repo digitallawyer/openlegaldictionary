@@ -1,5 +1,6 @@
 ---
 title: Original
+letter: O
 permalink: "/definitions/original.html"
 body: Primitive; first in order; bearing its own authorlly, and not deriving authority
   from an outside source; as original jurisdiction, original writ, etc. As applied

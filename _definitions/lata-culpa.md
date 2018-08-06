@@ -1,5 +1,6 @@
 ---
 title: Lata Culpa
+letter: L
 permalink: "/definitions/lata-culpa.html"
 body: Lat. In the law of bail-ment Gross fault or neglect; extreme negll-gence or
   carelessness, (nimia neffUgentia.) Dlg. CO, 16, 213, 2

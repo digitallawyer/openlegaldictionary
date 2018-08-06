@@ -1,5 +1,6 @@
 ---
 title: Acquitted
+letter: A
 permalink: "/definitions/acquitted.html"
 body: Released; absolved; purged of an accusation; judicially discbarg-ed from accusation;
   released from debt, etc. Includes both clvll and criminal prosecutions. Dolloway

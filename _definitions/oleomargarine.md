@@ -1,5 +1,6 @@
 ---
 title: Oleomargarine
+letter: O
 permalink: "/definitions/oleomargarine.html"
 body: An artificial imitation of butter, made chiefly from animal fats. Its sale is
   prohibited or restricted by statute in several of the states. See Cook v. State,

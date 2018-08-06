@@ -1,5 +1,6 @@
 ---
 title: Indigent
+letter: I
 permalink: "/definitions/indigent.html"
 body: In a general sense an “in-digent” person is one who Is'needy and poor, or one
   who has not suflicient property to fur-nlsh him a living nor any one able to support

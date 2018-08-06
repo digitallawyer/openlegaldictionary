@@ -1,5 +1,6 @@
 ---
 title: Redeemable
+letter: R
 permalink: "/definitions/redeemable.html"
 body: 1. Subject to an obll-gation of redemption; embodying, or conditioned upon,
   a promise or obligation of redemption; convertible Into coin; as, a “re deemable

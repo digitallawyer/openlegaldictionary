@@ -1,5 +1,6 @@
 ---
 title: Oollegium
+letter: O
 permalink: "/definitions/oollegium.html"
 body: Lat in the civil law. A word having various meanings; e. g., an assembly, society,
   or company; a body of bishops; an army; a class of men. But the princlpal Idea of

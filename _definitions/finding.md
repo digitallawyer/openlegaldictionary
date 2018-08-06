@@ -1,5 +1,6 @@
 ---
 title: Finding
+letter: F
 permalink: "/definitions/finding.html"
 body: A decision npon a question of fact reached as the result of a judicial ex-amlnation
   or Investigation by a court, jury, referee, coroner, etc. williams v. Giblin, 86

@@ -1,5 +1,6 @@
 ---
 title: Lying In Wait
+letter: L
 permalink: "/definitions/lying-in-wait.html"
 body: Lying in ambush; lying hid or concealed for the purpose of making a sudden and
   unexpected attack upon a person when he shall arrive at the scene. In some jurisdictions,

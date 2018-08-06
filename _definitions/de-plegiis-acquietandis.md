@@ -1,5 +1,6 @@
 ---
 title: De Plegiis Acquietandis
+letter: D
 permalink: "/definitions/de-plegiis-acquietandis.html"
 body: writ for acquitting or releasing pledges. A writ that lay for a surety, against
   him for whom he had become surety for the payment of a certain sum of money at a

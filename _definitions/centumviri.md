@@ -1,5 +1,6 @@
 ---
 title: Centumviri
+letter: C
 permalink: "/definitions/centumviri.html"
 body: In Roman law. The name of an important court consisting of a body of one hundred
   and five judges, it was made up by choosing three representatives from each of the

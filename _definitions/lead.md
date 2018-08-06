@@ -1,5 +1,6 @@
 ---
 title: Lead
+letter: L
 permalink: "/definitions/lead.html"
 body: The counsel on either side of a litigated action who is charged with the prin-cipal
   management and direction of the par-ty’s case, as distinguished from his juniors

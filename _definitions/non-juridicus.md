@@ -1,5 +1,6 @@
 ---
 title: Non Juridicus
+letter: N
 permalink: "/definitions/non-juridicus.html"
 body: Not judicial; not legal. Dies non juridicus is a day on which legal proceedings
   cannot be had

@@ -1,5 +1,6 @@
 ---
 title: Existimatio
+letter: E
 permalink: "/definitions/existimatio.html"
 body: In the civil law. The civll reputation which belonged to the. Roman citizen,
   as such. Mackeld. Rom. Law, § 135. Called a state or condition of nnlmpeached dignity

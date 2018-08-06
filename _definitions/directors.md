@@ -1,5 +1,6 @@
 ---
 title: Directors
+letter: D
 permalink: "/definitions/directors.html"
 body: Persons appointed or elected according to law, authorized to man-age and direct
   the affairs of a corporatlon or company. The whole of the directors col-lectlvely

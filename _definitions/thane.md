@@ -1,5 +1,6 @@
 ---
 title: Thane
+letter: T
 permalink: "/definitions/thane.html"
 body: An Anglo-Saxon nohleman; an old title of honor, perhaps equivalent to “baron.”
   There were two orders ot thanes, —the king’s thanes and the ordinary thanes. Soon

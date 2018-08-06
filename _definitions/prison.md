@@ -1,5 +1,6 @@
 ---
 title: Prison
+letter: P
 permalink: "/definitions/prison.html"
 body: A public building for the con-fiuement or safe custody of persons, whether as
   a punishment imposed by the law or other-wise in the course of the administration

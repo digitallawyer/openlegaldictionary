@@ -1,5 +1,6 @@
 ---
 title: Curtesy
+letter: C
 permalink: "/definitions/curtesy.html"
 body: The estate to which by com-xuon law a man is entitled, on the death of his wife,
   in the lands or tenements of whicli she was seised in possession iu fee-simple or

@@ -1,5 +1,6 @@
 ---
 title: Fungible Things
+letter: F
 permalink: "/definitions/fungible-things.html"
 body: Movable goods which may be estimated and replaced accord-ing to welght, measure,
   and number. Things belonging to a class, which do not have to be dealt with in specie

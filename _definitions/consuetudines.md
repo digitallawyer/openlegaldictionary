@@ -1,5 +1,6 @@
 ---
 title: Consuetudines
+letter: C
 permalink: "/definitions/consuetudines.html"
 body: In old English law. Customs. Thus, consuetudines et assisa forest#, the customs
   and assise of the forest

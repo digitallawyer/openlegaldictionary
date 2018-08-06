@@ -1,5 +1,6 @@
 ---
 title: Operaru
+letter: O
 permalink: "/definitions/operaru.html"
 body: Such tenants, under feudal tenures, as held some little portions of land by
   the duty of performing bodily labor and servile works for their lord

@@ -1,5 +1,6 @@
 ---
 title: Leasing-Making
+letter: L
 permalink: "/definitions/leasing-making.html"
 body: In old Scotch criminal law. An offense consisting in sian-derous and untrue
   speeches, to the disdain, reproach, and contempt of the king, hls coun-cil and proceedings,

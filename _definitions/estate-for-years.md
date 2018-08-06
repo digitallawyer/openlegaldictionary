@@ -1,5 +1,6 @@
 ---
 title: Estate For Years
+letter: E
 permalink: "/definitions/estate-for-years.html"
 body: A species of es-tate less than freehold, where a man has an lnterest in lands
   and tenements, and a possesslon thereof, by virtue of such interest, for some fixed

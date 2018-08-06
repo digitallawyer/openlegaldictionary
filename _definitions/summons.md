@@ -1,5 +1,6 @@
 ---
 title: Summons
+letter: S
 permalink: "/definitions/summons.html"
 body: In praotioe. A writ, di-rected to the sheriff or other proper officer, requiring
   him to notify tbe pereon named that an action has been commenced against him in

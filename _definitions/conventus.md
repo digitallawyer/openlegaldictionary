@@ -1,5 +1,6 @@
 ---
 title: Conventus
+letter: C
 permalink: "/definitions/conventus.html"
 body: Lat A coming together; a convention or assembly. Conventus magna-turn vel procerum
   (the assembly of chief men or peers) was one of the names of the Engllsh parliament.

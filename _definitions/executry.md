@@ -1,5 +1,6 @@
 ---
 title: Executry
+letter: E
 permalink: "/definitions/executry.html"
 body: In Scotch law. The mov-able estate of a person dying, which goes to hls nearest
   of kin. So called as falling under the distribution of an executor. BelL

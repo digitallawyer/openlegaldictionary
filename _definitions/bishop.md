@@ -1,5 +1,6 @@
 ---
 title: Bishop
+letter: B
 permalink: "/definitions/bishop.html"
 body: In Engllsh law. An ecclesiastical dignitary, being the chief of the clergy within
   his diocese, subject to the archbishop of the province in which his diocese is situated.

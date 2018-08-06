@@ -1,5 +1,6 @@
 ---
 title: Brief
+letter: B
 permalink: "/definitions/brief.html"
 body: In general. A written docu-ment; a letter; a writing in the form of a letter.
   A summary, abstract, or epitome. A condensed statement of some larger document,

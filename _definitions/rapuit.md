@@ -1,5 +1,6 @@
 ---
 title: Rapuit
+letter: R
 permalink: "/definitions/rapuit.html"
 body: Lat in old English law. Ravished. A technical word in old indictments. 2 East,
   30

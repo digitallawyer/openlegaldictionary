@@ -1,5 +1,6 @@
 ---
 title: Exeter Domesday
+letter: E
 permalink: "/definitions/exeter-domesday.html"
 body: The name given to a record preserved among the muniments and charters belonging
   to the dean and chapter of Exeter Cathedral, which con-tains a description of the

@@ -1,5 +1,6 @@
 ---
 title: Depositary
+letter: D
 permalink: "/definitions/depositary.html"
 body: The party receiving a deposit; one with whom anything is lodged in trust, as
   “depository” is the place where it is put, The obllgation on the part of the depositary

@@ -1,5 +1,6 @@
 ---
 title: Assumpsit
+letter: A
 permalink: "/definitions/assumpsit.html"
 body: Lat He undertook; he promised. A promise or engagement by which one person assumes
   or undertakes to do some act or pay something to another. It may be either oral

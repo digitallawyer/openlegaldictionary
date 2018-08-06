@@ -1,5 +1,6 @@
 ---
 title: Surrender
+letter: S
 permalink: "/definitions/surrender.html"
 body: A yielding up of an es-tate tor life or years to hlm who has an immediate estate
   in reversion or remainder, by which the lesser estate is merged in the greater by

@@ -1,5 +1,6 @@
 ---
 title: Intermarriage
+letter: I
 permalink: "/definitions/intermarriage.html"
 body: In the popular sense, this terin denotes the contracting of a marriage relation
   between two persons considered as members of different nations, tribes, families,

@@ -1,5 +1,6 @@
 ---
 title: Rectifier
+letter: R
 permalink: "/definitions/rectifier.html"
 body: As used in the United States Internal revenue laws, this term is not confined
   to a person who runs spirits through charcoal, but is applied to any one who rectifies

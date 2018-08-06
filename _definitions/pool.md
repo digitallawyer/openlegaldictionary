@@ -1,5 +1,6 @@
 ---
 title: Pool
+letter: P
 permalink: "/definitions/pool.html"
 body: 1. A combination of persons or corporations engaged in tbe same business, or
   for the purpose of engaging in a particular buslness or commercial or speculatlve

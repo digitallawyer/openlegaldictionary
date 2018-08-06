@@ -1,5 +1,6 @@
 ---
 title: Passion
+letter: P
 permalink: "/definitions/passion.html"
 body: In the definition of man-slaughter as homicide committed without premeditation
   but under the Influence of sud-den “passion,” this term means any intense and vehement

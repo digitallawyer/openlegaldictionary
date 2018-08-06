@@ -1,5 +1,6 @@
 ---
 title: Strike
+letter: S
 permalink: "/definitions/strike.html"
 body: The act of a body of workmen employed by the same master, in stopping work all
   together at a prearranged time, and refusing to continue untii higher wages, or

@@ -1,5 +1,6 @@
 ---
 title: Lie To
+letter: L
 permalink: "/definitions/lie-to.html"
 body: To adjoin. A cottage must' have had four acres of land laid to it See 2 Show.
   279

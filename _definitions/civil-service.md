@@ -1,5 +1,6 @@
 ---
 title: Civil Service
+letter: C
 permalink: "/definitions/civil-service.html"
 body: This term properly lncludes all functions under the government, except military
   functions. In general it is confined to functions in the great adminla-trative departments

@@ -1,5 +1,6 @@
 ---
 title: Nattvus
+letter: N
 permalink: "/definitions/nattvus.html"
 body: 'Lat in old English law, a native; specifically, one born iuto a condi-tion
   of servitude; a born serf or villein. —Nativa. A niefe or female villein. So call-ed

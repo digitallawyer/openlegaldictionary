@@ -1,5 +1,6 @@
 ---
 title: Safe-Conduct
+letter: S
 permalink: "/definitions/safe-conduct.html"
 body: A guaranty or security granted by the king nnder the great seal to a stranger,
   for hls safe coming into and passing out of the kingdom. Cowell.

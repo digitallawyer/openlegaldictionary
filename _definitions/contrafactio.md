@@ -1,5 +1,6 @@
 ---
 title: Contrafactio
+letter: C
 permalink: "/definitions/contrafactio.html"
 body: Counterfeiting; as contrafactio sigilli regis, counterfeiting the king's seal.
   Cowell

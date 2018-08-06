@@ -1,5 +1,6 @@
 ---
 title: Prsoeptores
+letter: P
 permalink: "/definitions/prsoeptores.html"
 body: I>at. Masters. The chief clerks in chancery were formerly so called, because
   they had the direction of mak-lng out remedial writs. 2 Reeve, Eng. Law, 251

@@ -1,5 +1,6 @@
 ---
 title: Irregular
+letter: I
 permalink: "/definitions/irregular.html"
 body: Not according to rule; Improper or insufficient, by reason of depart-ure from
   the prescribed course

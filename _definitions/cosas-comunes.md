@@ -1,5 +1,6 @@
 ---
 title: Cosas Comunes
+letter: C
 permalink: "/definitions/cosas-comunes.html"
 body: In Spanish law. A term corresponding to the res communes of the Roman law, and
   descriptive of such things as are open to the equal and common enjoyment of all

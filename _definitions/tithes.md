@@ -1,5 +1,6 @@
 ---
 title: Tithes
+letter: T
 permalink: "/definitions/tithes.html"
 body: In English law. The tenth part of the increase, yearly arlslng and re-newing
   from the profits of lands, the stock npon lands, and the personal industry of the

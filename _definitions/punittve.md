@@ -1,5 +1,6 @@
 ---
 title: Punittve
+letter: P
 permalink: "/definitions/punittve.html"
 body: Relating to punishment; havlng the character of punishment or pen-alty; inflicting
   punishment or a penalty

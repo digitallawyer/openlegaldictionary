@@ -1,5 +1,6 @@
 ---
 title: Mitigation
+letter: M
 permalink: "/definitions/mitigation.html"
 body: Alleviation; abatement or diminution of a penalty or punishment Imposed by law.
   “Mitigating circumstances” are such as do not constitute a justification or excuse

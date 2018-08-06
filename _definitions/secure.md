@@ -1,5 +1,6 @@
 ---
 title: Secure
+letter: S
 permalink: "/definitions/secure.html"
 body: To give security; to assure of payment, performance, or Indemnity; to guaranty
   or make certain the payment of a debt or discharge of an obligation, one “se-curee”

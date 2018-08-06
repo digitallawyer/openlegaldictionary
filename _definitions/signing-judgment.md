@@ -1,5 +1,6 @@
 ---
 title: Signing Judgment
+letter: S
 permalink: "/definitions/signing-judgment.html"
 body: In Englisb praotioe. The signature or allowance of the proper officer of a court,
   obtained by the party entitled to judgment in an action, expressing generally that

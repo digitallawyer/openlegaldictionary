@@ -1,5 +1,6 @@
 ---
 title: De Non Decimando
+letter: D
 permalink: "/definitions/de-non-decimando.html"
 body: of not pay-ing tithes. A term applied in English ec* clesiastical law to a prescription
   or claim to be entirely discharged of tithes, and to pay no compensation in lieu

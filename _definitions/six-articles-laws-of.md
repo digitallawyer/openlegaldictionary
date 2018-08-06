@@ -1,5 +1,6 @@
 ---
 title: Six Articles, Laws Of
+letter: S
 permalink: "/definitions/six-articles-laws-of.html"
 body: A celebrated act entitled “An act for abolishing di-versity of opinion,” (31
   Hen. VIIL c. 14.) enforclng conformity to six of the strongest points in the Roman

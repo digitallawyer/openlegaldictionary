@@ -1,5 +1,6 @@
 ---
 title: Executive
+letter: E
 permalink: "/definitions/executive.html"
 body: 'As distinguished from the'' legislative and judicial departments of gov-ernment,
   the executive department is that, w''hich is charged with the detail of carrying

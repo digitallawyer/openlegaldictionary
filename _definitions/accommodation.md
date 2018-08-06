@@ -1,5 +1,6 @@
 ---
 title: Accommodation
+letter: A
 permalink: "/definitions/accommodation.html"
 body: An arrangement or engagement made as a favor to another, not upon a consideration
   received; sorne

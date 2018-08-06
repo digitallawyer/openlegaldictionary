@@ -1,5 +1,6 @@
 ---
 title: Arguendo
+letter: A
 permalink: "/definitions/arguendo.html"
 body: In arguing; in the course of the argument. A statement or observa-tlon made
   by a judge as a matter of argu-ment or Illustration, but not directly bearing upon

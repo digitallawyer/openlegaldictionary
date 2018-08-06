@@ -1,5 +1,6 @@
 ---
 title: Writing Obligatory
+letter: W
 permalink: "/definitions/writing-obligatory.html"
 body: The tech-nical name by which a bond is described in pleading. Denton v. Adams,
   6 Vt. 40

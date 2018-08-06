@@ -1,5 +1,6 @@
 ---
 title: Fin De Non Recevoir
+letter: F
 permalink: "/definitions/fin-de-non-recevoir.html"
 body: In French law. An exception or plea founded on law, which, without entering
   lnto the merits of the actlon, shows that the piaintiiE has no rigbt to bring it,

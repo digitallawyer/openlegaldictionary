@@ -1,5 +1,6 @@
 ---
 title: De Placito
+letter: D
 permalink: "/definitions/de-placito.html"
 body: of a plea; of or in an action. Formal words used iu declarations and other proceedings,
   as descriptive of the particular action brought

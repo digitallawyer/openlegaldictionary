@@ -1,5 +1,6 @@
 ---
 title: Cost
+letter: C
 permalink: "/definitions/cost.html"
 body: The cost of an article purchased for exportation is the prlce pald, with all
   in-cidental charges paid at the place of ezporta-tlon. Goodwin v. U. S., 2 wash.

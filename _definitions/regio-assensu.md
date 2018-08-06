@@ -1,5 +1,6 @@
 ---
 title: Regio Assensu
+letter: R
 permalink: "/definitions/regio-assensu.html"
 body: A writ whereby the sovereign gives his assent to the election of a bishop. Reg.
   orig. 294

@@ -1,5 +1,6 @@
 ---
 title: D. P
+letter: D
 permalink: "/definitions/d-p.html"
 body: Domns sna oniqne est tntissimnm ro-fngium. To every man his own house is hls
   safest refuge. 5 Coke, 91b; 11 Coke, 82; 3 Inst. 162. The house of every one is

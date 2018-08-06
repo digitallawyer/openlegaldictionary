@@ -1,5 +1,6 @@
 ---
 title: Compearance
+letter: C
 permalink: "/definitions/compearance.html"
 body: In Scotch practlce. Appearance; an appearance made for a defendant; an appearance
   by counsel. Belt

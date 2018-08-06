@@ -1,5 +1,6 @@
 ---
 title: Certified Copy
+letter: C
 permalink: "/definitions/certified-copy.html"
 body: A copy of a docu-meut. signed aud certified as a true copy by the oflicer to
   whose custody the original is intrusted. Doremus v. Smith, 4 N. J. Law, 143; People

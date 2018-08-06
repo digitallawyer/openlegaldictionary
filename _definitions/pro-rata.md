@@ -1,5 +1,6 @@
 ---
 title: Pro Rata
+letter: P
 permalink: "/definitions/pro-rata.html"
 body: Proportionately; according to a certain rate, percentage, or pro-portion. Thus,
   the creditors (of the same class) of an insolvent estate are to lie paid . pro rata;

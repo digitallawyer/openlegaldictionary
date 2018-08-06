@@ -1,5 +1,6 @@
 ---
 title: Undertook
+letter: U
 permalink: "/definitions/undertook.html"
 body: Agreed; assumed. This is tlie technical word to be used in alleging the promise
   whlch forms the basis of an action of assumpsit.

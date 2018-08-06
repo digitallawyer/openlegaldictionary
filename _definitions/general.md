@@ -1,5 +1,6 @@
 ---
 title: General
+letter: G
 permalink: "/definitions/general.html"
 body: Pertaining to, or designat-ing, the genus or class, as distinguished from that
   which characterizes the species or indi-vidual. Universal, not particularized; as

@@ -1,5 +1,6 @@
 ---
 title: Creditor
+letter: C
 permalink: "/definitions/creditor.html"
 body: A person to whom a debt is owing by another person, called the “debt-oi'.’’
   Mohr v. Elevator Co:, 40 Minn. 343, 41 N. W. 1074; Woolverton v. Taylor Co., 43

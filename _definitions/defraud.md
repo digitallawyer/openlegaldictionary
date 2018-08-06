@@ -1,5 +1,6 @@
 ---
 title: Defraud
+letter: D
 permalink: "/definitions/defraud.html"
 body: 'To practice fraud; to cheat or trick: to deprive a person of property or any
   lnterest, estate, or rlght by fraud, de-ceit, or artifice. People v. wiinan, 148

@@ -1,5 +1,6 @@
 ---
 title: Lease
+letter: L
 permalink: "/definitions/lease.html"
 body: A conveyance of lands or fene-ments to a person for life, for a term of years,
   or at will, in consideration of a return of rent or some other recompense. The person

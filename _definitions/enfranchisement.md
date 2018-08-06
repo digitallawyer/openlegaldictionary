@@ -1,5 +1,6 @@
 ---
 title: Enfranchisement
+letter: E
 permalink: "/definitions/enfranchisement.html"
 body: The act of mak-lng free; giving a franchise or freedom to; investiture with
   privileges or capacities of freedom, or, municipal or political liberty. Admission

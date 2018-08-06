@@ -1,5 +1,6 @@
 ---
 title: Bankable
+letter: B
 permalink: "/definitions/bankable.html"
 body: In mercantile law. Notes, checks, bank-bills, drafts, and other securl-tles
   for money, received as cash by the hanks. Such commercial paper as is consid-ered

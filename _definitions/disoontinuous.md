@@ -1,5 +1,6 @@
 ---
 title: Disoontinuous
+letter: D
 permalink: "/definitions/disoontinuous.html"
 body: occasional; intermittent; characterized by separate repeated acts; as, discontinuous
   easements and servi-tudes. See Easement

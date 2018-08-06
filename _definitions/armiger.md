@@ -1,5 +1,6 @@
 ---
 title: Armiger
+letter: A
 permalink: "/definitions/armiger.html"
 body: An armor-bearer; an esquire. A title of dignity belonging to gen-tlemen authorized
   to bear arms. CowelL

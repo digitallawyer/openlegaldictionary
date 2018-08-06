@@ -1,5 +1,6 @@
 ---
 title: At Large
+letter: A
 permalink: "/definitions/at-large.html"
 body: "(1) Not limited to any par-tlcular place, district, person, matter, or ques-tiou.
   (2) Free; unrestrained; not under corporal control; as a ferocious animal so free

@@ -1,5 +1,6 @@
 ---
 title: First
+letter: F
 permalink: "/definitions/first.html"
 body: Inltial; leading; chief; preceding all others of the same kind or class in sequence,
   (numerical or chronological;) en-tltled to priority or preference above others.

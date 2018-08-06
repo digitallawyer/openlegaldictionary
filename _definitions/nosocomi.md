@@ -1,5 +1,6 @@
 ---
 title: Nosocomi
+letter: N
 permalink: "/definitions/nosocomi.html"
 body: In the civil law. Persons who have the management and care of hospitals for
   paupers

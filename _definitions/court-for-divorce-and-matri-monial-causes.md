@@ -1,5 +1,6 @@
 ---
 title: Court For Divorce And Matri-Monial Causes
+letter: C
 permalink: "/definitions/court-for-divorce-and-matri-monial-causes.html"
 body: This court was estab-lished by St. 20 & 21 Vict. c. 85, which trans-ferred to
   it all jurisdiction then exerclsable by any ecclesiastical court in England, in

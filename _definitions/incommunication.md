@@ -1,5 +1,6 @@
 ---
 title: Incommunication
+letter: I
 permalink: "/definitions/incommunication.html"
 body: In Spanish law. The condition of a prisoner who is not per-mitted to see or
   to speak with any person visiting him during his confinement A person accused cannot

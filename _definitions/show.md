@@ -1,5 +1,6 @@
 ---
 title: Show
+letter: S
 permalink: "/definitions/show.html"
 body: Although the words "show" and “indicate" are sometimes interchangeable in popular
   use, they are not always so. To “show" is to make apparent or clear by evi-dence;

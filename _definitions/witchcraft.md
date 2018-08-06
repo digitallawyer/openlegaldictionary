@@ -1,5 +1,6 @@
 ---
 title: Witchcraft
+letter: W
 permalink: "/definitions/witchcraft.html"
 body: Under Sts. 33 Hen. VIII. c. 8, and 1 Jac. I. c. 12, the offense of witchcraft,
   or supposed Intercourse with evil spirits, was punishable with death. These acts

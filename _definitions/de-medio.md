@@ -1,5 +1,6 @@
 ---
 title: De Medio
+letter: D
 permalink: "/definitions/de-medio.html"
 body: A writ in the nature of a writ of right, which lay where upon a subin-feudation
   the mesne (or middle) lord suffered hls under-tenant or tenant paraveil to be distrained

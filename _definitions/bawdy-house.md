@@ -1,5 +1,6 @@
 ---
 title: Bawdy-House
+letter: B
 permalink: "/definitions/bawdy-house.html"
 body: A house of prostitu-tion; a brothel. A house or dwelling maln-tatned for the
   convenience and resort of per-sons desiring unlawful sexual connection. Davis v.

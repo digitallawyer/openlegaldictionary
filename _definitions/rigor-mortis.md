@@ -1,5 +1,6 @@
 ---
 title: Rigor Mortis
+letter: R
 permalink: "/definitions/rigor-mortis.html"
 body: In medical jurispru-dence. Cadaveric rigidity; a rigidity or stif-fenlng of
   the muscular tissue and joints of the body, which sets in at a greater or less lnterval

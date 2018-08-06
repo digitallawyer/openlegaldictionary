@@ -1,5 +1,6 @@
 ---
 title: Sworn Clerks In Chancery
+letter: S
 permalink: "/definitions/sworn-clerks-in-chancery.html"
 body: Certain officers in the English court of chan-cery, whose duties were to keep
   the records, make copies of pleadings, etc. Their oflices were abolished by St.

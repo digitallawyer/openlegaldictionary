@@ -1,5 +1,6 @@
 ---
 title: At Law
+letter: A
 permalink: "/definitions/at-law.html"
 body: According to law; by, for, or in law; particularly in distinction from that
   which is doue in or according to equity; or in titles such as sergeant at luw, barrister

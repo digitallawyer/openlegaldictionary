@@ -1,5 +1,6 @@
 ---
 title: Disposition
+letter: D
 permalink: "/definitions/disposition.html"
 body: In Scotch law. A deed of alienation by which a right to property is conveyed.
   Bell

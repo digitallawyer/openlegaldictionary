@@ -1,5 +1,6 @@
 ---
 title: Ripuarian Law
+letter: R
 permalink: "/definitions/ripuarian-law.html"
 body: An nncient code of laws by wbich the Ripuaril, a tribe of Franks who occupied
   the country upon the Rhine, the Meuse, and the Scheldt, were governed. They were

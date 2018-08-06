@@ -1,5 +1,6 @@
 ---
 title: Expiration
+letter: E
 permalink: "/definitions/expiration.html"
 body: Cessation; termination from mere lapse of time; as the expiration of a lease,
   or statute, and the like. Mar-shall v. Rugg, 6 wyo. 270, 45 Pac. 486. 33 L. R. A.

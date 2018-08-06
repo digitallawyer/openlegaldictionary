@@ -1,5 +1,6 @@
 ---
 title: Estate Of Inheritance
+letter: E
 permalink: "/definitions/estate-of-inheritance.html"
 body: A species of freehold estate in lands, otherwlse called a “fee,” where the tenant
   is not only entitled to enjoy the land for his own llfe, hut where, after his death,

@@ -1,5 +1,6 @@
 ---
 title: Circuit Courts
+letter: C
 permalink: "/definitions/circuit-courts.html"
 body: The name of a system of courts of the United States, in-vested with general
   original jurisdiction of such matters and causes as are of Federal cognizance, except

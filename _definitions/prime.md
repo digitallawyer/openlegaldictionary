@@ -1,5 +1,6 @@
 ---
 title: Prime
+letter: P
 permalink: "/definitions/prime.html"
 body: Fr. In French law. The price of the risk assumed by an insurer; premium of insurance.
   Emerig. Tralte des Assur. c. 3, | 1, nn, 1, 2

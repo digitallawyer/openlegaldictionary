@@ -1,5 +1,6 @@
 ---
 title: Duplicity
+letter: D
 permalink: "/definitions/duplicity.html"
 body: The technical fault, in pleading, of uniting two or more causes of action in
   one count in a writ, or two or more grounds of defense in one plea, or two or more

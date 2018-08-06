@@ -1,5 +1,6 @@
 ---
 title: Solinum
+letter: S
 permalink: "/definitions/solinum.html"
 body: In old English law. Two plow-lands, and somewhat less than a half. Go. Litt.
   5a

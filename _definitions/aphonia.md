@@ -1,5 +1,6 @@
 ---
 title: Aphonia
+letter: A
 permalink: "/definitions/aphonia.html"
 body: In medical jurisprudence. Loss of the power of articulate speech in consequence
   of morbld conditions of some of the vocal organs. It may be incomplete, in which

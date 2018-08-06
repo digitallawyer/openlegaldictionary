@@ -1,5 +1,6 @@
 ---
 title: State Of Facts And Proposal
+letter: S
 permalink: "/definitions/state-of-facts-and-proposal.html"
 body: In English lunacy practice, when a person has beeu found a lunatic, the next
   step is to submit to the master a scheme called a “state of facts and proposal,"

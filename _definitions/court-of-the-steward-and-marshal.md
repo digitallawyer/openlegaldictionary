@@ -1,5 +1,6 @@
 ---
 title: Court Of The Steward And Marshal
+letter: C
 permalink: "/definitions/court-of-the-steward-and-marshal.html"
 body: A high court, formerly held in England by the steward and marshal of the king's
   household, haviug jurisdiction of all actions against the king’s peace within the

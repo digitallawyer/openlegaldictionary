@@ -1,5 +1,6 @@
 ---
 title: Acquiesce
+letter: A
 permalink: "/definitions/acquiesce.html"
 body: To give an implied con-sent to a transaction, to the accrual of a right, or
   to any act, by one’s mere silence, or without express assent or acknowledgment Matthews

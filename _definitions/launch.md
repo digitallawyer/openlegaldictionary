@@ -1,5 +1,6 @@
 ---
 title: Launch
+letter: L
 permalink: "/definitions/launch.html"
 body: 1. The act of launching a vessel; the movement of a vessel from the land into,
   the water, especlally the sliding on ways from the stocks on which it is built.

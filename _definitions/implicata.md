@@ -1,5 +1,6 @@
 ---
 title: Implicata
+letter: I
 permalink: "/definitions/implicata.html"
 body: A term used in mercan-tile law, derived from.the Italian. In order to avoid
   the risk of making fruitless voyages, merchants have been in the habit of receiv-ing

@@ -1,5 +1,6 @@
 ---
 title: Doctor
+letter: D
 permalink: "/definitions/doctor.html"
 body: A learned man; one qualified to give instruction of the higher order in a science
   or art; particularly, one who has re-ceived the highest academical degree in his

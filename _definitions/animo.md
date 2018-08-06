@@ -1,5 +1,6 @@
 ---
 title: Animo
+letter: A
 permalink: "/definitions/animo.html"
 body: Lat. with intention, dlsposl-tion, design, will. Quo animo, with what intention.
   Animo cancellandi. with inten-tlon to cancel. 1 Pow. Dev. 603. Furandi, with Intention

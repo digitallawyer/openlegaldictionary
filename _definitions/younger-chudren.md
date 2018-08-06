@@ -1,5 +1,6 @@
 ---
 title: Younger Chudren
+letter: Y
 permalink: "/definitions/younger-chudren.html"
 body: This phrase, when used in English conveyancing with ref-erence to settlements
   of land, signifies all such children as are not entitled to the rights of an eldest

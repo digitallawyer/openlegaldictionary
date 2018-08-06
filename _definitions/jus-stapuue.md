@@ -1,5 +1,6 @@
 ---
 title: Jus Stapuue
+letter: J
 permalink: "/definitions/jus-stapuue.html"
 body: In old European law. The law of staple; the right of staple. A right or privilege
   of certain towns of stop-ping imported merchandise, and compelling it to be offered

@@ -1,5 +1,6 @@
 ---
 title: Non-Intervention Will
+letter: N
 permalink: "/definitions/non-intervention-will.html"
 body: A term sometimes applied to a will which authorizes the executor to settle and
   distribute the estate without the intervention of the court and without giving bond.

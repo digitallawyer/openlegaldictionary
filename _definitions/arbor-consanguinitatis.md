@@ -1,5 +1,6 @@
 ---
 title: Arbor Consanguinitatis
+letter: A
 permalink: "/definitions/arbor-consanguinitatis.html"
 body: A table, formed iu the shape of a tree, showing the genealogy of a family. See
   the arbor civilis of the civilians and canonists. Dale, Com. Law, 335

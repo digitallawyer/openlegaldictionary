@@ -1,5 +1,6 @@
 ---
 title: Obtain
+letter: O
 permalink: "/definitions/obtain.html"
 body: To acquire; to get hold of by effort; to get and retain possession of; as, in
   the offense of “obtaining" money or property by false pretenses. See Com. v. Schmunk,

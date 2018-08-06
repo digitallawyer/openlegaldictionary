@@ -1,5 +1,6 @@
 ---
 title: Restriotion
+letter: R
 permalink: "/definitions/restriotion.html"
 body: In tbe case of land registered under the English land transfer act, 1875, a
   restriction is an entry on the register made on the application of the registered

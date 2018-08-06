@@ -1,5 +1,6 @@
 ---
 title: Excise
+letter: E
 permalink: "/definitions/excise.html"
 body: An lnland imposition, paid sometimes upon the consumption of the com-modlty,
   and frequently upon the retail sale. 1 Bl. Comm. 318; Story, Const. § 950; Scholey

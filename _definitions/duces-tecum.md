@@ -1,5 +1,6 @@
 ---
 title: Duces Tecum
+letter: D
 permalink: "/definitions/duces-tecum.html"
 body: "(Lat. Bring with you.) The name of certain species of writs, of which the subpoena
   duces tecum is the most usual, requiring a party who is summoned to appear in court

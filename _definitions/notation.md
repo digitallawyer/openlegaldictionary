@@ -1,5 +1,6 @@
 ---
 title: Notation
+letter: N
 permalink: "/definitions/notation.html"
 body: In English probate prac-tice, notation is the act of making a merno-randum of
   some special circumstance on a probate or letters of administration. Thus, where

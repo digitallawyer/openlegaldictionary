@@ -1,5 +1,6 @@
 ---
 title: Recovery
+letter: R
 permalink: "/definitions/recovery.html"
 body: In its most extensive sense, a recovery is the restoration or vindication of
   a right existing in a person, by the formal judgment or decree of a competent court,

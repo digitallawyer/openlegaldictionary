@@ -1,5 +1,6 @@
 ---
 title: Zemindar
+letter: Z
 permalink: "/definitions/zemindar.html"
 body: In Hindu law. Landkeep-er. An officer who under the Mohammedan government was
   charged with the financial superintendence of the lands of a district, the protection

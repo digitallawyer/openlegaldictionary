@@ -1,5 +1,6 @@
 ---
 title: Kentlage
+letter: K
 permalink: "/definitions/kentlage.html"
 body: In marltime law. A per-manent ballast, consisting usually of pigs of iron, cast
   in a particular form, or other weighty material, which, on account of lts superior

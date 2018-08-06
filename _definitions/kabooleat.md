@@ -1,5 +1,6 @@
 ---
 title: Kabooleat
+letter: K
 permalink: "/definitions/kabooleat.html"
 body: In Hindu law. A writ-ten agreement, especially one signifying as-sent, as the
   counterpart of a revenue lease, or tlie document in which a payer of revenue, whether

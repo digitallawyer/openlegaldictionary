@@ -1,5 +1,6 @@
 ---
 title: Dome-Book
+letter: D
 permalink: "/definitions/dome-book.html"
 body: A book or code said to have been compiled nnder the direction of Alfred, for
   the general use of the whole kingdom of England; containing, as is sup-posed, the

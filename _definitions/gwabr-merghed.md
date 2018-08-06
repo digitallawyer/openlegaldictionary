@@ -1,5 +1,6 @@
 ---
 title: Gwabr Merghed
+letter: G
 permalink: "/definitions/gwabr-merghed.html"
 body: Maid's fee. A Brltlsh word signifying a customary fine payable to lords of some
   manors on marriage of the tenant’s daughters, or otherwlse on thelr committing incontinence.

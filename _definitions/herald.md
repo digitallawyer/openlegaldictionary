@@ -1,5 +1,6 @@
 ---
 title: Herald
+letter: H
 permalink: "/definitions/herald.html"
 body: In ancient law, a herald was a diplomatic messenger tvho carried messages between
   kings or states, and especially proc-lamatlons of war, peace, or truce. In English

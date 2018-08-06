@@ -1,5 +1,6 @@
 ---
 title: Union Of Churches
+letter: U
 permalink: "/definitions/union-of-churches.html"
 body: A combining and consolidating of two churches into one. Also it is when one
   church is made subject, to another, and one man is rector of both; and where a conventual

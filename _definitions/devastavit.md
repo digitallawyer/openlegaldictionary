@@ -1,5 +1,6 @@
 ---
 title: Devastavit
+letter: D
 permalink: "/definitions/devastavit.html"
 body: Lat He has wasted. The act of an executor or administrator in wasting the goods
   of the deceased; misman-agement of the estate by which a loss occurs ; a breach

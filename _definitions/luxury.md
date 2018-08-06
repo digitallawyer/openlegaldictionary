@@ -1,5 +1,6 @@
 ---
 title: Luxury
+letter: L
 permalink: "/definitions/luxury.html"
 body: Excess and extravagance which was formerly an offense against the public economy,
   but is not now punishable, wharton

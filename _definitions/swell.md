@@ -1,5 +1,6 @@
 ---
 title: Swell
+letter: S
 permalink: "/definitions/swell.html"
 body: To enlarge or increase. In an action of tort, circumstances of aggravation may
   “swell'* the damages

@@ -1,5 +1,6 @@
 ---
 title: Advancement
+letter: A
 permalink: "/definitions/advancement.html"
 body: Money or property given by a father to his child or presumptive heir, or expended
   by the former for the

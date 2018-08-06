@@ -1,5 +1,6 @@
 ---
 title: Infancy
+letter: I
 permalink: "/definitions/infancy.html"
 body: Minority; the state of a per-son who is under the age of legal majorlty, —at
   common law, twenty-one years. Ac-cording to the sense in which this term is used,

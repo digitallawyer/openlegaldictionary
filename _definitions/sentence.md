@@ -1,5 +1,6 @@
 ---
 title: Sentence
+letter: S
 permalink: "/definitions/sentence.html"
 body: 'The judgment formally pro-nounced by the court or judge upon the de-fendant
   after his conviction in a criminal prosecution, awarding tbe punishment to be inflicted.

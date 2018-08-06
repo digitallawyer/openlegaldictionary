@@ -1,5 +1,6 @@
 ---
 title: Face
+letter: F
 permalink: "/definitions/face.html"
 body: The face of an instrument is that whlch is shown by the mere language employed,
   wlthout any explanation, modiflca-tlon, or addltlon from extrinsic facts or evi-dence.

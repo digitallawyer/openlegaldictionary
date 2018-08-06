@@ -1,5 +1,6 @@
 ---
 title: Garathinx
+letter: G
 permalink: "/definitions/garathinx.html"
 body: In old Lombardic law. A gift; a free or absolute gift; a gift of the whole of
   a thing. Spelman

@@ -1,5 +1,6 @@
 ---
 title: Firmura
+letter: F
 permalink: "/definitions/firmura.html"
 body: In old English law. Liberty to scour and repair a mill-dam, aud carry away the
   soil, etc. Blount

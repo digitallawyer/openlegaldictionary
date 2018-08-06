@@ -1,5 +1,6 @@
 ---
 title: Holografo
+letter: H
 permalink: "/definitions/holografo.html"
 body: In Spanish law. A holograph. An Instrument (particularly a will) wholly in the
   handwriting of the person executing it; or which, to be valid, must be so wrltten

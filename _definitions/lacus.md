@@ -1,5 +1,6 @@
 ---
 title: Lacus
+letter: L
 permalink: "/definitions/lacus.html"
 body: In the civil law. A lake; a receptacle of water which is never dry. Dig. 43,
   14, 1, 3

@@ -1,5 +1,6 @@
 ---
 title: Taxatio Ecclesiastica
+letter: T
 permalink: "/definitions/taxatio-ecclesiastica.html"
 body: The val-uation of ecclesiastical benefices made through every diocese in Eugland,
   on occa-slon of Pope Innocent IV. granting to King Henry III. the tenth of all spirituals

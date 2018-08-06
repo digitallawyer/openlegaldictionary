@@ -1,5 +1,6 @@
 ---
 title: Litigious
+letter: L
 permalink: "/definitions/litigious.html"
 body: That which is the subject of a suit or action; that which is contested in a
   court of justice. In another sense, "11-tigious” signifies fond of litigation; prone

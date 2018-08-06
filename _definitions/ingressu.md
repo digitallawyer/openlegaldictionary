@@ -1,5 +1,6 @@
 ---
 title: Ingressu
+letter: I
 permalink: "/definitions/ingressu.html"
 body: In English law. An ancient writ of entry, by which the plaintiff or complainant
   sought an entry Into his lands. Abolished in 1833

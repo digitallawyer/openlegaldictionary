@@ -1,5 +1,6 @@
 ---
 title: Dove
+letter: D
 permalink: "/definitions/dove.html"
 body: Doves are animals ferae natures, and not the subject of larceny unless they
   are in the owner’s custody; as, for example, in a dove-house, or wheu in the nest

@@ -1,5 +1,6 @@
 ---
 title: Jettison
+letter: J
 permalink: "/definitions/jettison.html"
 body: The act of throwing over-board from a vessel part of the cargo, in case of extreme
   danger, to lighten the ship. The same name is also given to the thing or things

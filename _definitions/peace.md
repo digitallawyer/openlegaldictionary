@@ -1,5 +1,6 @@
 ---
 title: Peace
+letter: P
 permalink: "/definitions/peace.html"
 body: As applied to the affairs of a state or nation peace may be either external
   or internal. In the former case, the term denotes the prevalence of amicable relations

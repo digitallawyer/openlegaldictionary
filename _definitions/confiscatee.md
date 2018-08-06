@@ -1,5 +1,6 @@
 ---
 title: Confiscatee
+letter: C
 permalink: "/definitions/confiscatee.html"
 body: one whose property has been seized and sold under a confiscation act, e. g.,
   for unpaid taxes. See Brent v. New orleans, 41 La. Ann. 1098, 6 South. 793

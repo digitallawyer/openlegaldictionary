@@ -1,5 +1,6 @@
 ---
 title: Cassetur Billa
+letter: C
 permalink: "/definitions/cassetur-billa.html"
 body: "(Lat That the bill be quashed.) In practlce. The form of the judgment for the
   defendant on a plea in abatement, where the action was commenced by bill, (billa.)

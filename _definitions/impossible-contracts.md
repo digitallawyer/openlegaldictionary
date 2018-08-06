@@ -1,5 +1,6 @@
 ---
 title: Impossible Contracts
+letter: I
 permalink: "/definitions/impossible-contracts.html"
 body: An impossible contract is one which the law will not hold binding upon the parties,
   because of the natural or legal impossibility of the performance by one party of

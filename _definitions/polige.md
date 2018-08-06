@@ -1,5 +1,6 @@
 ---
 title: Polige
+letter: P
 permalink: "/definitions/polige.html"
 body: Police is the function of that branch of the administrative machinery of government
   which is charged wlth the pres-ervatton of public order and tranquillity, the promotion

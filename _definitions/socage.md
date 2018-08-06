@@ -1,5 +1,6 @@
 ---
 title: Socage
+letter: S
 permalink: "/definitions/socage.html"
 body: Socage tenure, in Eugland, is the holding of certaiu lands in consideration
   of certain inferior services of husbandry to be performed by the tenant to the lord

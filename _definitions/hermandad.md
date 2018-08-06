@@ -1,5 +1,6 @@
 ---
 title: Hermandad
+letter: H
 permalink: "/definitions/hermandad.html"
 body: In Spanish law. A fra* ternity formed among different towns and villages to
   prevent the commission of crimes, and to prevent the abuses and vexations to which

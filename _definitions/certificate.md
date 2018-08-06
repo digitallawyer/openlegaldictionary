@@ -1,5 +1,6 @@
 ---
 title: Certificate
+letter: C
 permalink: "/definitions/certificate.html"
 body: A written assurance, or official representation, that some act has or has not
   been done, or some event occurred, or some legal formality been complied with. Particularly,

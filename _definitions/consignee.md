@@ -1,5 +1,6 @@
 ---
 title: Consignee
+letter: C
 permalink: "/definitions/consignee.html"
 body: In mercantlle law. one to whom a consignment is made. The person to whom goods
   are shipped for sale. Lyon v. Alvord, 18 Conn. 80; Gillespie v. winberg, 4 Daly

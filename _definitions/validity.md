@@ -1,5 +1,6 @@
 ---
 title: Validity
+letter: V
 permalink: "/definitions/validity.html"
 body: This term is used to signify legal sufficiency, in contradistinction to mere
   regularity. “An official sale, an order, judg-ment, or decree may be regular,—the

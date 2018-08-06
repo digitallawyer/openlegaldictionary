@@ -1,5 +1,6 @@
 ---
 title: Coif
+letter: C
 permalink: "/definitions/coif.html"
 body: A title given to serjeants at law, who are called “serjeants of the coif,’’
   from the coif they wear on their heads. The use of this coif at first was to cover

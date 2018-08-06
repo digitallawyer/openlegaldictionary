@@ -1,5 +1,6 @@
 ---
 title: Writ Pro Retorno Habendo
+letter: W
 permalink: "/definitions/writ-pro-retorno-habendo.html"
 body: A writ commanding the return of the goods to the defendant, upon a judgment
   in his favor in replevin, upon the plalntlfTs de-fault

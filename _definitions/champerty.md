@@ -1,5 +1,6 @@
 ---
 title: Champerty
+letter: C
 permalink: "/definitions/champerty.html"
 body: 'A bargain made by a stranger with one of the parties to a suit, by which such
   third person undertakes to curry on the litigation at his own cost and risk, in

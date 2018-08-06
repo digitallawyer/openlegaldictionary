@@ -1,5 +1,6 @@
 ---
 title: Court Of Attachments
+letter: C
 permalink: "/definitions/court-of-attachments.html"
 body: The low-est of the three courts held in the forests. It has fallen into total
   disuse

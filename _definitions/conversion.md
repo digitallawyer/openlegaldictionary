@@ -1,5 +1,6 @@
 ---
 title: Conversion
+letter: C
 permalink: "/definitions/conversion.html"
 body: In equity. The trans-formation of one species of property into an-other, as
   money into land or land into money; or, more particularly, a fiction of law, by

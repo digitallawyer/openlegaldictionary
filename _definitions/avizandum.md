@@ -1,5 +1,6 @@
 ---
 title: Avizandum
+letter: A
 permalink: "/definitions/avizandum.html"
 body: In Scotch law. To make avizandum with a process is to tnke it from the public
   court to the private consideration of the judge. Bell

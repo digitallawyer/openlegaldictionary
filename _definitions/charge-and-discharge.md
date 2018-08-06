@@ -1,5 +1,6 @@
 ---
 title: Charge And Discharge
+letter: C
 permalink: "/definitions/charge-and-discharge.html"
 body: Under the former system of equity practice, this phrase was used to characterize
   the usual method of taking an account before a master. After the plaintiff had presented

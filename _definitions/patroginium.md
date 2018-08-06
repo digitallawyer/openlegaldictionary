@@ -1,5 +1,6 @@
 ---
 title: Patroginium
+letter: P
 permalink: "/definitions/patroginium.html"
 body: ln Roman law. Patronage; protection ; defense. The buslness or duty of a patron
   or advocate

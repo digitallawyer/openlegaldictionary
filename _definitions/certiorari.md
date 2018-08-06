@@ -1,5 +1,6 @@
 ---
 title: Certiorari
+letter: C
 permalink: "/definitions/certiorari.html"
 body: Lat. (To be Informed of, to be made certain in regard to.) The name of a writ
   issued by a superior court dl-rectlng au inferior court to send up to the former

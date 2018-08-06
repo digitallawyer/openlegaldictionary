@@ -1,5 +1,6 @@
 ---
 title: Fault
+letter: F
 permalink: "/definitions/fault.html"
 body: In tbe oivil law. Negligence; want of care. An lmproper act or omission, Injurious
   to another, and transpiring through negligence, rashness, or ignorance

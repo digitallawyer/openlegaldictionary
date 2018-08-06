@@ -1,5 +1,6 @@
 ---
 title: De Falso Moneta
+letter: D
 permalink: "/definitions/de-falso-moneta.html"
 body: of false money. The title of the statute 27 Edw. I. ordaining that persons importing
   certain coins, called “pollards,” and “crokards,” should forfeit their lives and

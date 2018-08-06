@@ -1,5 +1,6 @@
 ---
 title: Esnecy
+letter: E
 permalink: "/definitions/esnecy.html"
 body: Seniority; the condition or right of the eldest; the prlvilege of the eldest-born.
   Particularly used of the privilege of the eldest among coparceners to make a first

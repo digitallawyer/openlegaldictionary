@@ -1,5 +1,6 @@
 ---
 title: Right To Redeem
+letter: R
 permalink: "/definitions/right-to-redeem.html"
 body: The term “right of redemption,” or “right to redeem,” ia familiarly used to
   describe the estate of the debtor when under mortgage, to be sold at -auction, in

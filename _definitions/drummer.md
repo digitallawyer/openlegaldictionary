@@ -1,5 +1,6 @@
 ---
 title: Drummer
+letter: D
 permalink: "/definitions/drummer.html"
 body: A term applied to commercial agents who travel for wholesale mer-chants and
   supply the retail trade with goods, or take orders for goods to be ship-ped to the

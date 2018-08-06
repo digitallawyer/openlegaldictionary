@@ -1,5 +1,6 @@
 ---
 title: Swindling
+letter: S
 permalink: "/definitions/swindling.html"
 body: Cheating and defrauding grossly with deliberate artifice, wyatt v. Ayres, 2
   Port. (Ala.) 157; Forrest v. Hanson, 9 Fed. Cas. 456; Thorpe v. State, 40 Tex. Cr.

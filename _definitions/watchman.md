@@ -1,5 +1,6 @@
 ---
 title: Watchman
+letter: W
 permalink: "/definitions/watchman.html"
 body: An officer in many cities and towns, whose dnty it is to watch during the night
   and take care of the property of the inhabitants

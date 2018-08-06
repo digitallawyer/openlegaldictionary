@@ -1,5 +1,6 @@
 ---
 title: Debt
+letter: D
 permalink: "/definitions/debt.html"
 body: A sum of money due by certain and express agreement; as by bond for a determinate
   sum, a bill or note, a speclal bar-gain, or a rent reserved on a lease, where the

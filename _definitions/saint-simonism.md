@@ -1,5 +1,6 @@
 ---
 title: Saint Simonism
+letter: S
 permalink: "/definitions/saint-simonism.html"
 body: An elaborate form of non-communistic socialism. It is a scheme which does not
   contemplate an equal, but an unequal, division of tlie produce. It does not propose

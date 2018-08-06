@@ -1,5 +1,6 @@
 ---
 title: Pledge
+letter: P
 permalink: "/definitions/pledge.html"
 body: In the law of bailment. A ballment of goods to a creditor as security for some
   debt or engagement. A bailment br delivery of goods by a debtor to hls cred-itor,

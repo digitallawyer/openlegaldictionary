@@ -1,5 +1,6 @@
 ---
 title: Section Of Land
+letter: S
 permalink: "/definitions/section-of-land.html"
 body: In Amerlcan land law. A divislon or parcel of land, on the government survey,
   comprising one square mile or 640 acres. Each “township” (six miles square) is divided

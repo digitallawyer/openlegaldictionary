@@ -1,5 +1,6 @@
 ---
 title: Missives
+letter: M
 permalink: "/definitions/missives.html"
 body: In Scotch law. writings passed between parties as evidence of a transaction.
   Bell

@@ -1,5 +1,6 @@
 ---
 title: Instruction
+letter: I
 permalink: "/definitions/instruction.html"
 body: In Frenob oriminal law. The first process of a criminal prosecu-tiou. It Includes
   the examination of the ac-cused, the preliminary interrogation of wit-nesses, collateral

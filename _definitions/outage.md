@@ -1,5 +1,6 @@
 ---
 title: Outage
+letter: O
 permalink: "/definitions/outage.html"
 body: A tax or charge formerly imposed by the state of Maryland for the in-spection
   and niarklng of hogsheads bf tobacco intended for export See Turner v. Maryland,

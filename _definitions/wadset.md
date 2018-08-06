@@ -1,5 +1,6 @@
 ---
 title: Wadset
+letter: W
 permalink: "/definitions/wadset.html"
 body: In Scotch law. The old term for a mortgage. A right by which lands or other
   heritable subjects are impignorated by the proprietor to his creditor in security

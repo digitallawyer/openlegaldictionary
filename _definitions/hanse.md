@@ -1,5 +1,6 @@
 ---
 title: Hanse
+letter: H
 permalink: "/definitions/hanse.html"
 body: An alliance or confederation among merchants or cities, for the good ordering
   and protection of the commerce of its members. An Imposition upon merchandise. Du

@@ -1,5 +1,6 @@
 ---
 title: Multiple Poinding
+letter: M
 permalink: "/definitions/multiple-poinding.html"
 body: In Scotch law. Double distress; a name given to an action, corresponding to
   proceedings by way of in-terpleader, which may be bronght by a per-son in possession

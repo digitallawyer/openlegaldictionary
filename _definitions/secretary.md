@@ -1,5 +1,6 @@
 ---
 title: Secretary
+letter: S
 permalink: "/definitions/secretary.html"
 body: The secretary of a corporatlon or assoclatlon is an officer charged with the
   direction and management of that part of the business of the company which is concerned

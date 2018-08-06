@@ -1,5 +1,6 @@
 ---
 title: Pastus
+letter: P
 permalink: "/definitions/pastus.html"
 body: In feudal law. The procure-tlon or provlsion which tenants were bound to make
   for thelr lords at certain times, or as often as they made a progress to their lands;

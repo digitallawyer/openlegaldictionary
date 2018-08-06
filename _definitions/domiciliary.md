@@ -1,5 +1,6 @@
 ---
 title: Domiciliary
+letter: D
 permalink: "/definitions/domiciliary.html"
 body: Pertaining to domicile; relating to one’s domicile. Existing or creat-ed at,
   or connected with, the domicile of a suitor or of a decedent

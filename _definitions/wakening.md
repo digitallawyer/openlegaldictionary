@@ -1,5 +1,6 @@
 ---
 title: Wakening
+letter: W
 permalink: "/definitions/wakening.html"
 body: In Scotch law. The revival of an actiou. A process by which an action that has
   lain over and not been in-sisted in for a year and a day, and thus tech-nlcally

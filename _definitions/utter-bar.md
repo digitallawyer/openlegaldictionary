@@ -1,5 +1,6 @@
 ---
 title: Utter Bar
+letter: U
 permalink: "/definitions/utter-bar.html"
 body: In English law. The bar at which those barristers, usually junlor men, practice
   who have not yet been raised to the dignity of king’s counsel. These junior barristers

@@ -1,5 +1,6 @@
 ---
 title: Surrejoinder
+letter: S
 permalink: "/definitions/surrejoinder.html"
 body: In pleading. The plaintiff’s answer of fact to the defendant’s rejoinder. Steph.
   Pl. 59

@@ -1,5 +1,6 @@
 ---
 title: Hun-Dredes Man
+letter: H
 permalink: "/definitions/hun-dredes-man.html"
 body: DOR, or HUN-DREDES MAN. The presiding officer in the hundred court Anc. Inst
   Eng

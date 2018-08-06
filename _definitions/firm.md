@@ -1,5 +1,6 @@
 ---
 title: Firm
+letter: F
 permalink: "/definitions/firm.html"
 body: A partnership; the group of per-sons constituting a partnership. The name or
   title under which the members of a partnership transact business.—People v. Strauss,

@@ -1,5 +1,6 @@
 ---
 title: Secta
+letter: S
 permalink: "/definitions/secta.html"
 body: In old English law. Sult; at-lendance at court; the plaintiff's suit or fol-lowing,
   i. e., the witnesses whom he was re-quired, in tHe ancient practice, to bring with

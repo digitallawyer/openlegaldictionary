@@ -1,5 +1,6 @@
 ---
 title: Functional Disease
+letter: F
 permalink: "/definitions/functional-disease.html"
 body: In medical jurisprudence, one which prevents, ob-structs, or interferes with
   the due perforin-ance of its special functions by any organ of the body, without

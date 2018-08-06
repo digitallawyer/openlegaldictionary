@@ -1,5 +1,6 @@
 ---
 title: Quitrent
+letter: Q
 permalink: "/definitions/quitrent.html"
 body: Certain establlshed rents of the freeholders and ancient copyholders of manors
   are denominated “qultrents,” because thereby the tenant goes quit and free of all

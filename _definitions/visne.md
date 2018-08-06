@@ -1,5 +1,6 @@
 ---
 title: Visne
+letter: V
 permalink: "/definitions/visne.html"
 body: L. Fr. The neighborhood; vlc-lnage; venue. Ex parte McNeeley, 36 W. Va. 84,
   14 S. E 436, 15 L. It. A. 226, 32 Am. St Rep. 831; State v. Kemp, 34 Minn. 61, 24

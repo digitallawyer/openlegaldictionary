@@ -1,5 +1,6 @@
 ---
 title: Understanding
+letter: U
 permalink: "/definitions/understanding.html"
 body: In the law of con-tracts. This is a loose and ambiguous term, unless it be accompanied
   by some expression to show that it constituted a meeting of the minds of pnrties

@@ -1,5 +1,6 @@
 ---
 title: Socialism
+letter: S
 permalink: "/definitions/socialism.html"
 body: A scheme of government aiming at absolute equality in the distribu-tion of the
   physical means of life and en-Joyment It is on the continent employed in a larger

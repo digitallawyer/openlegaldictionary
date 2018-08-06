@@ -1,5 +1,6 @@
 ---
 title: Mad Point
+letter: M
 permalink: "/definitions/mad-point.html"
 body: A term used to designate the idea or subject to which is confined the derangement
   of the mental faculties of one suffering from monomania, owing’s Case, 1 Bland (Md.)

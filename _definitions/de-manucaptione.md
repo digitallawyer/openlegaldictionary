@@ -1,5 +1,6 @@
 ---
 title: De Manucaptione
+letter: D
 permalink: "/definitions/de-manucaptione.html"
 body: writ of man-ucaption, or mainprise. A writ which lay for one who, being taken
   and Imprisoned on a charge of felony, had offered bail, which had been refused *,

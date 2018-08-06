@@ -1,5 +1,6 @@
 ---
 title: Gore
+letter: G
 permalink: "/definitions/gore.html"
 body: In old English law, a small, nar-row slip of ground. Cowell. In modem laud law,
   a small triangular piece of land, such as may be left between surveys which do not

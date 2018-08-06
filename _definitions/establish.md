@@ -1,5 +1,6 @@
 ---
 title: Establish
+letter: E
 permalink: "/definitions/establish.html"
 body: 'This word occurs fre-quently in the constitution of the United States, and
   it is there used in different meanings: (1) To settle firmly, to fix unalterably

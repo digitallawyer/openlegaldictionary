@@ -1,5 +1,6 @@
 ---
 title: Rotten Clause
+letter: R
 permalink: "/definitions/rotten-clause.html"
 body: A clause sometimes inserted in policies of marine insurance, to the efTect that
   “if, on a regular survey, the ship shall be declared unseaworthy by reason of being

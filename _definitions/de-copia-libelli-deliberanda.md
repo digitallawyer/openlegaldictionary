@@ -1,5 +1,6 @@
 ---
 title: De Copia Libelli Deliberanda
+letter: D
 permalink: "/definitions/de-copia-libelli-deliberanda.html"
 body: writ for delivering the copy of a libel. An ancient writ directed to the judge
   of a spiritual court, commanding him to deliver to a defendant a copy ot the libel

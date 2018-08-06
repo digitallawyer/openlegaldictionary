@@ -1,5 +1,6 @@
 ---
 title: Societas
+letter: S
 permalink: "/definitions/societas.html"
 body: Lat in the clvll law. Part-nershlp; a partnership; the contract of partnership.
   Inst 3, 26. A contract by which the goods or labor of two or more are united In

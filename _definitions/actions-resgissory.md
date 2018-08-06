@@ -1,5 +1,6 @@
 ---
 title: Actions Resgissory
+letter: A
 permalink: "/definitions/actions-resgissory.html"
 body: In Scotch law. These are either (1) actions of proper improbatiou for declaring
   a writing false or forged; (2) actions of reductlon-improbation for the production

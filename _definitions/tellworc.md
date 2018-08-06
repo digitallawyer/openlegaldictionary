@@ -1,5 +1,6 @@
 ---
 title: Tellworc
+letter: T
 permalink: "/definitions/tellworc.html"
 body: That labor wbich a ten-ant was bound to do for his lord for a certain number
   of days

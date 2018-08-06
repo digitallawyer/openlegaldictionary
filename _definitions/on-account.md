@@ -1,5 +1,6 @@
 ---
 title: On Account
+letter: O
 permalink: "/definitions/on-account.html"
 body: In part payment; in par-'tlal satisfaction of an account The phrase is usually
   contrasted with “In full.”

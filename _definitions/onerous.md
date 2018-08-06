@@ -1,5 +1,6 @@
 ---
 title: Onerous
+letter: O
 permalink: "/definitions/onerous.html"
 body: A contract, lease, share, or other right is said to be “onerous” when the obligations
   attaching to it counter-balance or exceed the advantage to be derived from it, either

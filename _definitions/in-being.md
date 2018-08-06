@@ -1,5 +1,6 @@
 ---
 title: In Being
+letter: I
 permalink: "/definitions/in-being.html"
 body: In existence or life at a giv-en moment of time, as, in the phrase “life or
   lives in being” in the rule against per-petnities. An unborn child may, in some

@@ -1,5 +1,6 @@
 ---
 title: Hustings
+letter: H
 permalink: "/definitions/hustings.html"
 body: Councll; court; tribunal. Apparently so called from belng held within a building,
   at a time -when other courts were held in the open air. It was a local court The

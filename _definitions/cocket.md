@@ -1,5 +1,6 @@
 ---
 title: Cocket
+letter: C
 permalink: "/definitions/cocket.html"
 body: In English law. A seal be-longlng to the custom-house, or rather a scroll of
   parchment, sealed and dellvered by the officers of the cu6tom-house to merchants,

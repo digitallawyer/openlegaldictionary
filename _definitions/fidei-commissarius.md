@@ -1,5 +1,6 @@
 ---
 title: Fidei-Commissarius
+letter: F
 permalink: "/definitions/fidei-commissarius.html"
 body: In the civil law thls term corresponds nearly to our “cestui que trust." It
   designates a person who has the real or beneficlal Interest in an estate or fund,

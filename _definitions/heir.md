@@ -1,5 +1,6 @@
 ---
 title: Heir
+letter: H
 permalink: "/definitions/heir.html"
 body: At common law. A person who succeeds, by the rules of law, to an estate in lands,
   tenements, or hereditaments, upon the death of his ancestor, by descent and right

@@ -1,5 +1,6 @@
 ---
 title: Simulate
+letter: S
 permalink: "/definitions/simulate.html"
 body: To feign, pretend, or coun-terfelt. To engage, usually with the co-op-peration
   or connivance of another person, in an act or series of acts, which are apparently

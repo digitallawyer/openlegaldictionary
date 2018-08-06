@@ -1,5 +1,6 @@
 ---
 title: Prjelegatum
+letter: P
 permalink: "/definitions/prjelegatum.html"
 body: Lat in Roman law. A payment in advance of the whole or part of the share which
   a glven heir would he entitled to receive out of an inheritance; corresponding generally

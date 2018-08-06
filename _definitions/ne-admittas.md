@@ -1,5 +1,6 @@
 ---
 title: Ne Admittas
+letter: N
 permalink: "/definitions/ne-admittas.html"
 body: Lat. In ecclesiastical law. The name of a prohibitory writ, di-rected to the
   bishop, at the request of the plaintiff or defendant, where a quare impedit is pending,

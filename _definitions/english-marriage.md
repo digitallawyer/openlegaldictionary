@@ -1,5 +1,6 @@
 ---
 title: English Marriage
+letter: E
 permalink: "/definitions/english-marriage.html"
 body: This phrase^ may refer to the place where the marriage ' is solemnized, or it
   may refer to the nation-ality and domicile of the parties between whom it is solemnized,

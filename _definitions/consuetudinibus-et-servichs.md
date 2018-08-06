@@ -1,5 +1,6 @@
 ---
 title: Consuetudinibus Et Servichs
+letter: C
 permalink: "/definitions/consuetudinibus-et-servichs.html"
 body: In old English law. A writ of right close, which lay against a tenant who deforced
   his? lord of the rent or service due to him. Reg. Orig. 159; Fitzh. Nat. Brev. 151.

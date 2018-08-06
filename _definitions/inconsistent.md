@@ -1,5 +1,6 @@
 ---
 title: Inconsistent
+letter: I
 permalink: "/definitions/inconsistent.html"
 body: Mutually repugnant or contradictory; contrary, the one to the oth-er, so that
   both cannot stand, but the accept-ance or establishment of the one implies the abrogation

@@ -1,5 +1,6 @@
 ---
 title: Ally
+letter: A
 permalink: "/definitions/ally.html"
 body: A nation which has entered into an alliance with another nation. 1 Kent, Comm.
   69

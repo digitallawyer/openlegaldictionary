@@ -1,5 +1,6 @@
 ---
 title: Maltreatment
+letter: M
 permalink: "/definitions/maltreatment.html"
 body: In reference to the treatment of hls patient by a surgeon, this term signifies
   improper or unskillful treat-ment; it mny result either from Ignorance, neglect

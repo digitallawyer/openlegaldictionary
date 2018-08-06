@@ -1,5 +1,6 @@
 ---
 title: Hay-Bote
+letter: H
 permalink: "/definitions/hay-bote.html"
 body: Another name for “hedge-bote,” being one of the estovers allowed to a tenant
   for life or years, namely, material for repairing the necessary hedges or fences

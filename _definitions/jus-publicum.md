@@ -1,5 +1,6 @@
 ---
 title: Jus Publicum
+letter: J
 permalink: "/definitions/jus-publicum.html"
 body: Pnblic law, or the law relating to the constitution aud functions of government
   and its officers and the administration of criminal justice. Also public ownership,

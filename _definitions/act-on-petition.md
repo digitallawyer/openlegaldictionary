@@ -1,5 +1,6 @@
 ---
 title: Act On Petition
+letter: A
 permalink: "/definitions/act-on-petition.html"
 body: A form of sum-mary proceeding formerly in use in the high court of admiralty,
   in England, In whlch the parties stated their respective cases briefly, and supported

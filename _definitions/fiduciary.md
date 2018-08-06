@@ -1,5 +1,6 @@
 ---
 title: Fiduciary
+letter: F
 permalink: "/definitions/fiduciary.html"
 body: The term is derived from the Roman law, and means (as a noun) a person holding
   the character of a trustee, or a character analogous to that of a trustee, in respect

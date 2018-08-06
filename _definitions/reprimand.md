@@ -1,5 +1,6 @@
 ---
 title: Reprimand
+letter: R
 permalink: "/definitions/reprimand.html"
 body: A publlc and formal censure or severe reproof, administered to a person In fault
   by hls superior officer or by a body to which he belongs. Thus, a member of a legislative

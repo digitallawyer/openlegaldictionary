@@ -1,5 +1,6 @@
 ---
 title: Auctioneer
+letter: A
 permalink: "/definitions/auctioneer.html"
 body: A person authorized or licensed by law to sell lands or goods of other iiersons
   at public auction; one who

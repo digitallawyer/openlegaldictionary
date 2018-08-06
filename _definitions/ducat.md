@@ -1,5 +1,6 @@
 ---
 title: Ducat
+letter: D
 permalink: "/definitions/ducat.html"
 body: A foreign coin, varying in value in different countries, but usually worth about
   $2.26 of our money

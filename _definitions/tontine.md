@@ -1,5 +1,6 @@
 ---
 title: Tontine
+letter: T
 permalink: "/definitions/tontine.html"
 body: In French law. A species Of association or partnership formed among persons
   who are in receipt Of perpettfai or life annuities, with the agreelnfent that the

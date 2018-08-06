@@ -1,5 +1,6 @@
 ---
 title: Municeps
+letter: M
 permalink: "/definitions/municeps.html"
 body: Lat in Roman law. A provincial person; a countryman. This was the designation
   of one born in the provinces or in a city politically connected with Rome, and who,

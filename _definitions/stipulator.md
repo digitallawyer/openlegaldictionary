@@ -1,5 +1,6 @@
 ---
 title: Stipulator
+letter: S
 permalink: "/definitions/stipulator.html"
 body: In the civil law. The party who asked the questlon in the contract of stipulation;
   the other party, or he who an-swered, beiug called the “promissor." But, in a more

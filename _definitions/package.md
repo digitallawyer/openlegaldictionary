@@ -1,5 +1,6 @@
 ---
 title: Package
+letter: P
 permalink: "/definitions/package.html"
 body: A package means a bundle put up for transportation or commercial handling; a
   thing in form to become, as such, an article of merchandise or delivery from hand

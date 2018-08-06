@@ -1,5 +1,6 @@
 ---
 title: Actuary
+letter: A
 permalink: "/definitions/actuary.html"
 body: In English ecclesiastical law. A clerk that registers the acts and constitutions
   of the lower house of convoca-tion; or a registrar in a court chrlstlan

@@ -1,5 +1,6 @@
 ---
 title: Noting
+letter: N
 permalink: "/definitions/noting.html"
 body: As soon as a notary has made presentment and demand of a bill of ex-change,
   or at some seasonable hour of tbe same day, he makes a minute on the bill, or on

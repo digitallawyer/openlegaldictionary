@@ -1,5 +1,6 @@
 ---
 title: Edua
+letter: E
 permalink: "/definitions/edua.html"
 body: UA. In the clvil and old common law. Kept for cuttiug; lntended or used to be
   cut. A term applled to wood

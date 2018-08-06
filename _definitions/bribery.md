@@ -1,5 +1,6 @@
 ---
 title: Bribery
+letter: B
 permalink: "/definitions/bribery.html"
 body: In criminal law. The re-ceiving or offering any undue reward by or to any person
   whomsoever, whose ordinary profession or business relates to the admin* istration

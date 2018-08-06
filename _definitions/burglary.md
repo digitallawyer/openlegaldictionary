@@ -1,5 +1,6 @@
 ---
 title: Burglary
+letter: B
 permalink: "/definitions/burglary.html"
 body: In criminal law. The breaking and entering the house of another in the night-time,
   with intent to commit a felony therein, whether the felony be actual-ly committed

@@ -1,5 +1,6 @@
 ---
 title: Hinder And Delay
+letter: H
 permalink: "/definitions/hinder-and-delay.html"
 body: To hinder and delay is to do something whlch is an attempt to defraud, rather
   than a successful fraud; to put some obstacle in the path, or interpose some time,

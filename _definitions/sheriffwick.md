@@ -1,5 +1,6 @@
 ---
 title: Sheriffwick
+letter: S
 permalink: "/definitions/sheriffwick.html"
 body: The jurisdlction of a sherlff. Called, in modern law, “balllwlck." The office
   of a sherlff

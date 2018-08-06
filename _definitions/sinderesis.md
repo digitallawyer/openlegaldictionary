@@ -1,5 +1,6 @@
 ---
 title: Sinderesis
+letter: S
 permalink: "/definitions/sinderesis.html"
 body: “A natural power of the soul, set in the highest part thereof, moving and stirring
   It to good, and adhorring evlL And therefore sinderesis never sinneth nor erreth.

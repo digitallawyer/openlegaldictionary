@@ -1,5 +1,6 @@
 ---
 title: Curfew
+letter: C
 permalink: "/definitions/curfew.html"
 body: An institution supposed to have been introduced into England hy order of william
   the Conqueror, which consisted in the ringing of a bell or bells at eight o’clock

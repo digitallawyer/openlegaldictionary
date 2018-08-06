@@ -1,5 +1,6 @@
 ---
 title: Writ Of Inquiry
+letter: W
 permalink: "/definitions/writ-of-inquiry.html"
 body: In common-law practice. A writ which issues after the plaintiff in an action
   has obtained a judgment by default, on an unliquidated claim, directing the sherlff,

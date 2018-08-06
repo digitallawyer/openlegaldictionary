@@ -1,5 +1,6 @@
 ---
 title: N O N Intromittendo, Quando Breve Prsscipe In Capite Sub-Dole Impetratur
+letter: N
 permalink: "/definitions/n-o-n-intromittendo-quando-breve-prsscipe-in-capite-sub-dole-impetratur.html"
 body: A writ addressed to the justices of the bench, or in eyre, com-raanding them
   not to give one who, under color of entitling tbe king to land, etc., as holding

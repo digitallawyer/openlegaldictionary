@@ -1,5 +1,6 @@
 ---
 title: Contraction
+letter: C
 permalink: "/definitions/contraction.html"
 body: Abbreviation; abridg-ment or shortening of a word by omitting a letter or letters
   or a syllable, with a mark over the place where the ellsion occurs. This was customary

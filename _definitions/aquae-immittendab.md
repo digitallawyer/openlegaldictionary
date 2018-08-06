@@ -1,5 +1,6 @@
 ---
 title: Aquae Immittendab
+letter: A
 permalink: "/definitions/aquae-immittendab.html"
 body: A civil law easement or servitude, consisting in the right of one whose house
   is surrounded with other buildings to cast waste water upon the adja-cent roofs

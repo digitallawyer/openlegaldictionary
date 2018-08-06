@@ -1,5 +1,6 @@
 ---
 title: Lying By
+letter: L
 permalink: "/definitions/lying-by.html"
 body: A person who, hy hls pres-ence and silence at a transaction which affects hls
   interests, may be fairly supposed to acquiesce in it, if he afterwards propose to

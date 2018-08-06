@@ -1,5 +1,6 @@
 ---
 title: Ancillary
+letter: A
 permalink: "/definitions/ancillary.html"
 body: Aiding; auxiliary; attendant npon; subordinate; a proceeding at-tendant upon
   or which aids another proceeding considered as principal. Steele v. Insurance Oo.,

@@ -1,5 +1,6 @@
 ---
 title: Licentiousness
+letter: L
 permalink: "/definitions/licentiousness.html"
 body: The Indulgence of the arbitrary will of the individual, wlth-out regard to ethics
   or law, or respect for the rights of others. In this it differs from “liberty;’’

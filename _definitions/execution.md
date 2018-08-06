@@ -1,5 +1,6 @@
 ---
 title: Execution
+letter: E
 permalink: "/definitions/execution.html"
 body: The completion, fulfill-ment, or perfecting of anything, or carrying it lnto
   operation and effect. The signing, sealing, and delivery of a deed. The signing

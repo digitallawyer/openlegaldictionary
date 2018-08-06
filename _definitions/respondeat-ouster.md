@@ -1,5 +1,6 @@
 ---
 title: Respondeat Ouster
+letter: R
 permalink: "/definitions/respondeat-ouster.html"
 body: Upon an is-sue in law arising upon a dilatory plea, the form of judgment for
   the plaintiff is that the defendant answer over, which is thence called a judgment

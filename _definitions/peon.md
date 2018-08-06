@@ -1,5 +1,6 @@
 ---
 title: Peon
+letter: P
 permalink: "/definitions/peon.html"
 body: In Mexico. A debtor held by hls creditor in a qualified servitude to work out
   the debt; a serf, webster

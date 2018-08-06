@@ -1,5 +1,6 @@
 ---
 title: Eavesdropping
+letter: E
 permalink: "/definitions/eavesdropping.html"
 body: In English criminal law. The ofTense of listening under walls or windows, or
   the eaves of a house, to hearken after discourse, and thereupon to frame slanderous

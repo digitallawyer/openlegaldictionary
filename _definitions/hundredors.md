@@ -1,5 +1,6 @@
 ---
 title: Hundredors
+letter: H
 permalink: "/definitions/hundredors.html"
 body: In English law. The Inhabitants or freeholders of a hundred, an-ciently the
   suitors or judges of the hundred court Persons impaneled or fit to be lm-paneled

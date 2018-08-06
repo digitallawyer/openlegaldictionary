@@ -1,5 +1,6 @@
 ---
 title: Power Of Sale
+letter: P
 permalink: "/definitions/power-of-sale.html"
 body: A clause sometimes inserted in mortgages and deeds of trust, giv-lng the mortgagee
   (or trustee) the rlght and power, on default in the payment of the debt secured,

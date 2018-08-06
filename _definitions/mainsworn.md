@@ -1,5 +1,6 @@
 ---
 title: Mainsworn
+letter: M
 permalink: "/definitions/mainsworn.html"
 body: Forsworn, by making false oath with hand (main) on hook. Used in the north of
   England. BrownL 4; Hob. 125

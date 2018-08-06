@@ -1,5 +1,6 @@
 ---
 title: Crim. Con
+letter: C
 permalink: "/definitions/crim-con.html"
 body: An abbreviation for “crim-inal conversation," of very frequent use, de-noting
   adultery. Gibson v. Cincinnati En-qnirer, 10 Fed. Cas. 311

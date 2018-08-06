@@ -1,5 +1,6 @@
 ---
 title: Spendthrift
+letter: S
 permalink: "/definitions/spendthrift.html"
 body: A person who by excessive drinking, gaming, idleness, or de-hauchery of any
   kind shall so spend, waste, or lessen hls estate as to expose hlmself or hls famlly

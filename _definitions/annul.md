@@ -1,5 +1,6 @@
 ---
 title: Annul
+letter: A
 permalink: "/definitions/annul.html"
 body: To cancel; mnke void; destroy. To annul a judgment or judicial proceeding is
   to deprive it of all force aud operation, either ab initio or prospectively as to

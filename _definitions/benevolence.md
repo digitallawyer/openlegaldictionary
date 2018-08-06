@@ -1,5 +1,6 @@
 ---
 title: Benevolence
+letter: B
 permalink: "/definitions/benevolence.html"
 body: The doing a kind or helpful action towards another, under no obligation except
   an ethical one

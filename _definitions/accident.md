@@ -1,5 +1,6 @@
 ---
 title: Accident
+letter: A
 permalink: "/definitions/accident.html"
 body: An unforeseen event, oc-curriog without the will or design of the person whose
   mere act causes lt; an unex-pected, unusual, or undesigned occurrence; the effect

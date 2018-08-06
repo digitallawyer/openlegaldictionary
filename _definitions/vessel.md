@@ -1,5 +1,6 @@
 ---
 title: Vessel
+letter: V
 permalink: "/definitions/vessel.html"
 body: A shl0, brig, sloop, or other craft used in navigation. The word is more comprebenslve
   than “shlp.”

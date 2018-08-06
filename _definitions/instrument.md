@@ -1,5 +1,6 @@
 ---
 title: Instrument
+letter: I
 permalink: "/definitions/instrument.html"
 body: A written document; a formal or legal document in writing, such as a contract,
   deed, will, bond, or lease* State v. Phillips, 157 Ind. 481, 62 N. E. 12; Cardenas

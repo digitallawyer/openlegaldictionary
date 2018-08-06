@@ -1,5 +1,6 @@
 ---
 title: Similar
+letter: S
 permalink: "/definitions/similar.html"
 body: This word is often used to denote a partial resemblance only; but it is also
   often used to denote sameness in ail essential particulars. Thus, a statutory pro-vision

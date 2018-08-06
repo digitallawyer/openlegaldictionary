@@ -1,5 +1,6 @@
 ---
 title: Passage Coubt
+letter: P
 permalink: "/definitions/passage-coubt.html"
 body: An ancient court of record in Liverpool, once called the “may-or’s court of
   pays sage," but now usually called the “court of the passage of the bor-ough of

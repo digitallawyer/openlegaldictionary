@@ -1,5 +1,6 @@
 ---
 title: Controlment
+letter: C
 permalink: "/definitions/controlment.html"
 body: In old English law. The controlling or checking of another ofli-cer's account;
   the keeping of a counter-roll

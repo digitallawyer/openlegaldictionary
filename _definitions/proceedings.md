@@ -1,5 +1,6 @@
 ---
 title: Proceedings
+letter: P
 permalink: "/definitions/proceedings.html"
 body: In practice. The steps or measures taken in the course of an action, including
   all that are taken. The proceedings of a suit embrace all matters that occur in

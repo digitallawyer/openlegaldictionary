@@ -1,5 +1,6 @@
 ---
 title: Virge
+letter: V
 permalink: "/definitions/virge.html"
 body: or VIRGE. In English law*. The compass of the royai court, which bounds the
   jurisdiction of the lord steward of the household; it seems to have been twelve

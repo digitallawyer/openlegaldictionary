@@ -1,5 +1,6 @@
 ---
 title: Abandonee
+letter: A
 permalink: "/definitions/abandonee.html"
 body: A party to whom a right or property is abandoned or relinquished by another.
   Applied* to the insurers of vessels and cargoes. Lord Eilenborough, C. J., 5 Maule

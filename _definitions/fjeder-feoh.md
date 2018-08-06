@@ -1,5 +1,6 @@
 ---
 title: Fjeder-Feoh
+letter: F
 permalink: "/definitions/fjeder-feoh.html"
 body: In old English law. The portlon brought by a wife to her hus-band, and which
   reverted to a widow, in case the heir of her deceased husband refused his consent

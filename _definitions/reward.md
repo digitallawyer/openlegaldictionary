@@ -1,5 +1,6 @@
 ---
 title: Reward
+letter: R
 permalink: "/definitions/reward.html"
 body: A recompense or premium offered by government or an indlvldual In return for
   speclal or extraordinary services to be performed, or for special attainments or

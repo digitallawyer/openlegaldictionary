@@ -1,5 +1,6 @@
 ---
 title: Pourparty
+letter: P
 permalink: "/definitions/pourparty.html"
 body: To make pourparty is to divide and sever the lands that fall to par-ceners,
   which, before partition, ’ they held jointly and pro indiviso. Cowell

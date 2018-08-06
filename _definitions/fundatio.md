@@ -1,5 +1,6 @@
 ---
 title: Fundatio
+letter: F
 permalink: "/definitions/fundatio.html"
 body: Lat. A founding or foun-dation. Particularly applied to the creation and endowment
   of corporations. As applied to eleemosynary corporations such as colleges and hospitals,

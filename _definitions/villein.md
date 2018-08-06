@@ -1,5 +1,6 @@
 ---
 title: Villein
+letter: V
 permalink: "/definitions/villein.html"
 body: A person attached to a manor, who was substantially in the condition of a slave,
   who performed the base and ser-vile work upon the manor for the lord, and was. In

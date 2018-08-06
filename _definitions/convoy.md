@@ -1,5 +1,6 @@
 ---
 title: Convoy
+letter: C
 permalink: "/definitions/convoy.html"
 body: A naval force, under the com-mand of an officer appointed by government, for
   the protection of merchant-ships and oth-ers, during the whole voyage, or such part

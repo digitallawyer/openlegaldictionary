@@ -1,5 +1,6 @@
 ---
 title: Oenegild
+letter: O
 permalink: "/definitions/oenegild.html"
 body: In Saxon law. An expia-tory mulct or fine paid to the relations of a murdered
   person by the murderer or his re-lations. Spelmau

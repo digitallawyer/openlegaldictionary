@@ -1,5 +1,6 @@
 ---
 title: Witenagemote
+letter: W
 permalink: "/definitions/witenagemote.html"
 body: The assembly of wlse men.” Thls was the great national councll or parliament
   of the Saxons in Eng-Jand, comprising the noblemen, high ecclesi-astics, and other

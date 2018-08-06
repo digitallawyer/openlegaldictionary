@@ -1,5 +1,6 @@
 ---
 title: Priest
+letter: P
 permalink: "/definitions/priest.html"
 body: A minister of a church. A per-son in the second order of the ministry, as distinguished
   from bishops and deacons

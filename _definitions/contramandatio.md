@@ -1,5 +1,6 @@
 ---
 title: Contramandatio
+letter: C
 permalink: "/definitions/contramandatio.html"
 body: A countermand-ing. Oontramandatio placiti, in old English law, was the respiting
   of a defendant, or giving him further time to answer, by cottn-termanding the day

@@ -1,5 +1,6 @@
 ---
 title: Obscenity
+letter: O
 permalink: "/definitions/obscenity.html"
 body: The character or quality of beiug obscene; conduct tending to corrupt the public
   morals by its indecency or lewdness. State v. Pfeuninger, 76 Mo. App. 313; U. S.

@@ -1,5 +1,6 @@
 ---
 title: Remainder
+letter: R
 permalink: "/definitions/remainder.html"
 body: The remnant of an estate in land, depending upon a particular prior estate created
   at the same time and by the same instrument, and limited to arise im-mediately on

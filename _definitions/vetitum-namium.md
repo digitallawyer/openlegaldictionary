@@ -1,5 +1,6 @@
 ---
 title: Vetitum Namium
+letter: V
 permalink: "/definitions/vetitum-namium.html"
 body: L. Lnt. where the bailiff of a lord distrains beasts or goods of another, and
   the lord forblds the balllff to dellver them when the sherlff comes to make replevin,

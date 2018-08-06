@@ -1,5 +1,6 @@
 ---
 title: Knogk Down
+letter: K
 permalink: "/definitions/knogk-down.html"
 body: To assign to a bidder at an auction by a knock or blow of the hammer. Property
   is‘ said to he “knocked down” when the auctioneer, by the fall of his hammer, or

@@ -1,5 +1,6 @@
 ---
 title: Duplex Querela
+letter: D
 permalink: "/definitions/duplex-querela.html"
 body: A donble com-plalnt An ecclesiastical proceeding, which is in the nature of
   an appeal from an ordi-nary’s refusal to institute, to hls next im-mediate superior;

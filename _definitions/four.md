@@ -1,5 +1,6 @@
 ---
 title: Four
+letter: F
 permalink: "/definitions/four.html"
 body: Fr. In old French iaw. An oven or bake-house. Four banal, an oven, owned by
   the seignior of the estate, to which the tenants were obliged to bring their bread

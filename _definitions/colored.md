@@ -1,5 +1,6 @@
 ---
 title: Colored
+letter: C
 permalink: "/definitions/colored.html"
 body: By common usage in Amer* ica, thls term, in such phrases as “colored persons,"
   “the colored race,” “colored men,” and tbe llke, is used to designate negroes or

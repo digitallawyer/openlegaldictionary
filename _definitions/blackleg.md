@@ -1,5 +1,6 @@
 ---
 title: Blackleg
+letter: B
 permalink: "/definitions/blackleg.html"
 body: A person who gets his liv-ing by frequenting race-courses and places where games
   of chance are played, getting the best odds, and giving the least he can, but uot

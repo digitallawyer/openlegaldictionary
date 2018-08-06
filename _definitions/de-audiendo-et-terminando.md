@@ -1,5 +1,6 @@
 ---
 title: De Audiendo Et Terminando
+letter: D
 permalink: "/definitions/de-audiendo-et-terminando.html"
 body: For hearing and determining; to hear and determine. The name of a writ, or rather
   commission granted to certain justices to hear aud determine cases of heinous misde-meanor.

@@ -1,5 +1,6 @@
 ---
 title: Duchy Of Lancaster
+letter: D
 permalink: "/definitions/duchy-of-lancaster.html"
 body: Those lands which formerly belonged to the dukes of Lancaster, and now belong
   to the crown in right of the duchy. The duchy is distinct from the county palatine

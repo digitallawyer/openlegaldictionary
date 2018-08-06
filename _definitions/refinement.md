@@ -1,5 +1,6 @@
 ---
 title: Refinement
+letter: R
 permalink: "/definitions/refinement.html"
 body: A term sometimes em-ployed to describe verbiage inserted in a pleading or indictment,
   over and above what is necessary to he set forth; or an objection to a plea or indictment

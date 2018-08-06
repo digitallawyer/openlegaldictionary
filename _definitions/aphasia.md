@@ -1,5 +1,6 @@
 ---
 title: Aphasia
+letter: A
 permalink: "/definitions/aphasia.html"
 body: In medical jurisprudence. Loss of the faculty or power of articulate speech;
   a condition In which the patient, while retaining intelligence and understond-ing

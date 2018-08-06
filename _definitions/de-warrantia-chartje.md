@@ -1,5 +1,6 @@
 ---
 title: De Warrantia Chartje
+letter: D
 permalink: "/definitions/de-warrantia-chartje.html"
 body: writ of warranty of charter. A writ which lay for him who was enfeoffed, with
   clause of war-ranty, [in the charter of feoffment,] and was afterwards impleaded

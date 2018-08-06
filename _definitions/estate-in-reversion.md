@@ -1,5 +1,6 @@
 ---
 title: Estate In Reversion
+letter: E
 permalink: "/definitions/estate-in-reversion.html"
 body: A species of estate in expectancy, created by opera^ tlon of law, being the
   residue of an estate left in the grantor, to commence in possession after the determination

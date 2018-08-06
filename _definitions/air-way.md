@@ -1,5 +1,6 @@
 ---
 title: Air-Way
+letter: A
 permalink: "/definitions/air-way.html"
 body: In English law. A passage for the admission of air into a mine. To maliciously
   fill up, obstruct, or damage, with in-tent to destroy, obstruct, or render useless

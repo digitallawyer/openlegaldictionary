@@ -1,5 +1,6 @@
 ---
 title: Money
+letter: M
 permalink: "/definitions/money.html"
 body: A general, indefinite term for the measure and representative of value; currency;
   the circulating medium; cash

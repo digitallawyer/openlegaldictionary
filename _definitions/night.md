@@ -1,5 +1,6 @@
 ---
 title: Night
+letter: N
 permalink: "/definitions/night.html"
 body: 'As to what, by the common law, is reckoned night and what day, it seems to
   be the general oplnlon that, if there be daylight, or crepusculum, enough begun

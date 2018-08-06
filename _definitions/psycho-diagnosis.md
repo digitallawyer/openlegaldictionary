@@ -1,5 +1,6 @@
 ---
 title: Psycho-Diagnosis
+letter: P
 permalink: "/definitions/psycho-diagnosis.html"
 body: In medical Jurisprudence. A method of investigating the origin and cause of
   any given disease or morbid condition by examination of the mental condition of

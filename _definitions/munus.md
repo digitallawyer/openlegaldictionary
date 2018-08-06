@@ -1,5 +1,6 @@
 ---
 title: Munus
+letter: M
 permalink: "/definitions/munus.html"
 body: Lat A gift; an office; a beu-eflce or feud. A gladiatorial show or spec-tacie.
   Calvin.; Du Cange

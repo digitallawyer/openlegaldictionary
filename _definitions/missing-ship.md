@@ -1,5 +1,6 @@
 ---
 title: Missing Ship
+letter: M
 permalink: "/definitions/missing-ship.html"
 body: In maritime law. A vessel is so called when, computed from her known day of
   sailing, the time that has elapsed exceeds the average duration of simi-lar voyages

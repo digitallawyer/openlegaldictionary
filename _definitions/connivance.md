@@ -1,5 +1,6 @@
 ---
 title: Connivance
+letter: C
 permalink: "/definitions/connivance.html"
 body: The secret or Indirect consent or permission of one person to the commission
   of an unlawful or criminal act

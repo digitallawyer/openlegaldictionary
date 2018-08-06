@@ -1,5 +1,6 @@
 ---
 title: Buggery
+letter: B
 permalink: "/definitions/buggery.html"
 body: A carnal copulation against nature; and this is either by the confusion of species,—that
   is to say, a man or a woman with a brute beast,—or of sexes, as a man with a man,

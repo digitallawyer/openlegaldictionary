@@ -1,5 +1,6 @@
 ---
 title: Intersection
+letter: I
 permalink: "/definitions/intersection.html"
 body: The point of intersection of two roads is the point where their middle lines
   intersect. In re Sprlngfleld Road, 73 Pa. 127

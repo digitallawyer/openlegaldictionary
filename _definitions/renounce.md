@@ -1,5 +1,6 @@
 ---
 title: Renounce
+letter: R
 permalink: "/definitions/renounce.html"
 body: To reject; cast ofT; re-pudiate; disclaim; forsake j abandon ; divest one's
   self of a right, power, or privilege. Usually it Implies an affirmative act of dis-dalmer

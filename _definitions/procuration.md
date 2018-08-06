@@ -1,5 +1,6 @@
 ---
 title: Procuration
+letter: P
 permalink: "/definitions/procuration.html"
 body: Agency; proxy; the act of constituting another one’s attorney In fact; action
   under a power of attorney or other constitution of agency. Indorsing a bill or note

@@ -1,5 +1,6 @@
 ---
 title: Cone And Key
+letter: C
 permalink: "/definitions/cone-and-key.html"
 body: In old English law. A woman at fourteen or fifteen years of age may take charge
   of her house and receivo cone and key; that is, keep tbe accounts and keys. Cowell.

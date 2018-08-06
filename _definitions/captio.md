@@ -1,5 +1,6 @@
 ---
 title: Captio
+letter: C
 permalink: "/definitions/captio.html"
 body: In old English law and practice. A taking or seizure; arrest; receiving; holding
   of court

@@ -1,5 +1,6 @@
 ---
 title: Emit
+letter: E
 permalink: "/definitions/emit.html"
 body: In Amerioan law. To put forth or send out; to issue “No state shall emit bills
   of credit” Const U. S. art 1, $ 10

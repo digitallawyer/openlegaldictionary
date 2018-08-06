@@ -1,5 +1,6 @@
 ---
 title: Disinterested
+letter: D
 permalink: "/definitions/disinterested.html"
 body: Not concerned, in re-spect to possible gain or loss, in the result of the pending
   proceedings; impartial, not biased or prejudiced. Chase v. Rutland, 47 Vt. 393;

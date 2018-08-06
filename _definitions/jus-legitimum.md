@@ -1,5 +1,6 @@
 ---
 title: Jus Legitimum
+letter: J
 permalink: "/definitions/jus-legitimum.html"
 body: A legal right In the civil law. A right which was enforcea-ble in the ordinary
   course of law. 2 Bl. Comm. 328

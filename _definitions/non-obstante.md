@@ -1,5 +1,6 @@
 ---
 title: Non Obstante
+letter: N
 permalink: "/definitions/non-obstante.html"
 body: Lat Notwithstanding. words anciently used in pnblic and private instruments,
   intended to preclude, in advance, any interpretation contrary to certain declared

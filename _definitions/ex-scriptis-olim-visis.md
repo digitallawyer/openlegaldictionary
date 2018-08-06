@@ -1,5 +1,6 @@
 ---
 title: Ex Scriptis Olim Visis
+letter: E
 permalink: "/definitions/ex-scriptis-olim-visis.html"
 body: From writings formerly seen. A term used as descriptive of that kind of proof
   of handwriting where the knowledge has been acquired by the witness having seen

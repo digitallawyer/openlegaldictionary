@@ -1,5 +1,6 @@
 ---
 title: Tabes Dorsalis
+letter: T
 permalink: "/definitions/tabes-dorsalis.html"
 body: In medical jurisprudence. This is another name for locomotor ataxia. Tabetic
   dementia is a form of mental derangement or Insanity complicated with tabes dorsalis,

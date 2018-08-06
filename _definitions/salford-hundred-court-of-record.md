@@ -1,5 +1,6 @@
 ---
 title: Salford Hundred Court Of Record
+letter: S
 permalink: "/definitions/salford-hundred-court-of-record.html"
 body: An lnferior and local court of record having jurisdiction in personal ac-tions
   where the debt or damage sought to be recovered does not exceed £50, if the cause

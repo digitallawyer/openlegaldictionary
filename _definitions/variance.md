@@ -1,5 +1,6 @@
 ---
 title: Variance
+letter: V
 permalink: "/definitions/variance.html"
 body: In pleading and practice. A discrepancy or disagreement between two Instruments
   or two steps in the same cause, which ought by law to be eutlrely consonant. Thus,

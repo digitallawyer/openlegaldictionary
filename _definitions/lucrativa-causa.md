@@ -1,5 +1,6 @@
 ---
 title: Lucrativa Causa
+letter: L
 permalink: "/definitions/lucrativa-causa.html"
 body: Lat. In Roman law. A consideration which is voluntary; that is to say, a gratuitous
   gift, or such like. It was opposed to onerosa causa, which denoted a valuable consideration.

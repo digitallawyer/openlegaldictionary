@@ -1,5 +1,6 @@
 ---
 title: Quibble
+letter: Q
 permalink: "/definitions/quibble.html"
 body: A cavilling or verbal ohjec-tion. A sllght difllculty raised without ne-cesslty
   or propriety

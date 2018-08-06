@@ -1,5 +1,6 @@
 ---
 title: Lookout
+letter: L
 permalink: "/definitions/lookout.html"
 body: A proper lookout on a vessel is some one In a favorable position to see, stationed
   near enough to the helmsman to communicate with him, and to receive communications

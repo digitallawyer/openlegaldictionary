@@ -1,5 +1,6 @@
 ---
 title: Nungiq
+letter: N
 permalink: "/definitions/nungiq.html"
 body: The permanent official repre-sentative of . the pope at a foreign court or seat
   of government, webster. They are called “ordinary" or “extraordinary," accord-in^

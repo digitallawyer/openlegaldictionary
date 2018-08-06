@@ -1,5 +1,6 @@
 ---
 title: Cenduue
+letter: C
 permalink: "/definitions/cenduue.html"
 body: Small pieces of wood laid iu the form of tiles to cover the roof of a house;
   shingles. Cowell

@@ -1,5 +1,6 @@
 ---
 title: In Apicibus Juris
+letter: I
 permalink: "/definitions/in-apicibus-juris.html"
 body: Among the sub-tleties or extreme doctrines of the law. 1 Eames, Eq. 190. See
   Apex Juris

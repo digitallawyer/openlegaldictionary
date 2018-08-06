@@ -1,5 +1,6 @@
 ---
 title: Alienation
+letter: A
 permalink: "/definitions/alienation.html"
 body: In real property law. The transfer of tlie property and possession of lands,
   tenements, or other things, from one person to another. Termes de la Ley. It is

@@ -1,5 +1,6 @@
 ---
 title: Common Recovery
+letter: C
 permalink: "/definitions/common-recovery.html"
 body: In conveyanc-Ing. A species of common assurance, or mode of conveying lands
   by matter of record, formerly in frequent use in England. It was in the nature and

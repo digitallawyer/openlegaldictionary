@@ -1,5 +1,6 @@
 ---
 title: Executed
+letter: E
 permalink: "/definitions/executed.html"
 body: Completed; carried lnto full effect; already done or performed; tak-ing effect
   lmmediately; now in existence or in possesslon; conveying an immediate right or

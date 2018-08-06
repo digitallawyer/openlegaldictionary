@@ -1,5 +1,6 @@
 ---
 title: Quare Impedit
+letter: Q
 permalink: "/definitions/quare-impedit.html"
 body: wherefore he hin-ders. In English practice. A writ or action which lies for*
   the patron of an advowson, where he has been disturbed in his right of patronage;

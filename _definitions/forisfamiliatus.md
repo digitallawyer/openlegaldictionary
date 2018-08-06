@@ -1,5 +1,6 @@
 ---
 title: Forisfamiliatus
+letter: F
 permalink: "/definitions/forisfamiliatus.html"
 body: In old ' English law. Put Out of a family? portioned off; emancipated; forisfamiliated.
   Bract, fol.64

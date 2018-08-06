@@ -1,5 +1,6 @@
 ---
 title: Urban Servitude
+letter: U
 permalink: "/definitions/urban-servitude.html"
 body: City servitudes, or servitudes of houses, are called "urban.” They are the easements
   appertaining to the building and construction of houses; as, for instance, the right

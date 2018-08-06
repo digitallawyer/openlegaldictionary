@@ -1,5 +1,6 @@
 ---
 title: Derecho
+letter: D
 permalink: "/definitions/derecho.html"
 body: ln Spanish law. Law or right Der echo comun, common law. The civil law is so
   called. A right Derechos, rights. Also, specifically, an impost laid up-on goods

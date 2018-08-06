@@ -1,5 +1,6 @@
 ---
 title: Promoters
+letter: P
 permalink: "/definitions/promoters.html"
 body: In the law relating to corporations, those persons are called the “promoters”
   of a company who first asso-ciate themselves together for the purpose of organizing

@@ -1,5 +1,6 @@
 ---
 title: Entertainment
+letter: E
 permalink: "/definitions/entertainment.html"
 body: This word is synonymous with “board," and includes the ordinary necessaries
   of life. See Scatter-good v. waterman, 2 Miles (Pa.) 323; Lasar ▼. Johnson, 125

@@ -1,5 +1,6 @@
 ---
 title: Debenture
+letter: D
 permalink: "/definitions/debenture.html"
 body: A certificate given by the collector of a port, under the United States customs
   laws, to the effect that an Importer of merchandise therein named is entitled to

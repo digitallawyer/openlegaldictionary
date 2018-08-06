@@ -1,5 +1,6 @@
 ---
 title: Court Of Exchequer Chamber
+letter: C
 permalink: "/definitions/court-of-exchequer-chamber.html"
 body: The name of a former English court of ap-peal, intermediate between the superior
   courts of common law and the house of lords, when sitting as a court of appeal from

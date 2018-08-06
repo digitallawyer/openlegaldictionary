@@ -1,5 +1,6 @@
 ---
 title: Advowson
+letter: A
 permalink: "/definitions/advowson.html"
 body: In English ecclesiastical law. The right of presentation to a church or ecclesiastical
   benefice; the right of pre-seutlng a fit person to the bishop, to be by him admitted

@@ -1,5 +1,6 @@
 ---
 title: Trtverbial Days
+letter: T
 permalink: "/definitions/trtverbial-days.html"
 body: In the civil law. Juridical days; days allowed to the prsetor for deciding causes;
   days on which the prtetor might speak the three characteristic words ot hls office,

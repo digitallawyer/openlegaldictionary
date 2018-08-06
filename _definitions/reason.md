@@ -1,5 +1,6 @@
 ---
 title: Reason
+letter: R
 permalink: "/definitions/reason.html"
 body: A faculty of the mind by which it distinguishes truth from falsehood, good from
   evil, and which enables the pos-sessor to deduce inferences from facts or from propositions,

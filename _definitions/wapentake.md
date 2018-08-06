@@ -1,5 +1,6 @@
 ---
 title: Wapentake
+letter: W
 permalink: "/definitions/wapentake.html"
 body: In English law. A local division of the country; the name is ill use north of
   the Trent to denote a hundred. The derivation of the name is said to be from “weapon”

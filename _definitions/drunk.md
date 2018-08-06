@@ -1,5 +1,6 @@
 ---
 title: Drunk
+letter: D
 permalink: "/definitions/drunk.html"
 body: A person is “drunk” wben be is so far under the Influence of liquor that hls
   passions are visibly excited or his judg-inent impaired, or when his brain is so

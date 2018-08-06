@@ -1,5 +1,6 @@
 ---
 title: Fonds Perdus
+letter: F
 permalink: "/definitions/fonds-perdus.html"
 body: In French law. A capital is said to be invested d fond* perdus when it is stipulated
   that in consideration of the payment of an amount as interest, higher than the normal

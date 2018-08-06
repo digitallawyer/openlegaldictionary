@@ -1,5 +1,6 @@
 ---
 title: Simple
+letter: S
 permalink: "/definitions/simple.html"
 body: Pure; unmixed; not com-pounded; not aggravated; not evidenced by sealed writing
   or record

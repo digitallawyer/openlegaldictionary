@@ -1,5 +1,6 @@
 ---
 title: Ne Exeat Republioa
+letter: N
 permalink: "/definitions/ne-exeat-republioa.html"
 body: Lat. In American practice. A writ similar to that of ne exeat regno, (q. v..)
   avallable to the plaintiff in a civil suit, under some circum-stances, when the

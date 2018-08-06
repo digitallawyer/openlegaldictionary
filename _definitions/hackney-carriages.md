@@ -1,5 +1,6 @@
 ---
 title: Hackney Carriages
+letter: H
 permalink: "/definitions/hackney-carriages.html"
 body: Carriages plying for hire In the street. The driver is liable for negligently
   losing baggage. Mas-terson v. Short, 33 How. Prac. (N. Y.) 486

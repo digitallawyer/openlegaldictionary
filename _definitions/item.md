@@ -1,5 +1,6 @@
 ---
 title: Item
+letter: I
 permalink: "/definitions/item.html"
 body: Also; likewise; again. This word was formerly used to mark the beginning of
   a new paragraph or division after the first, whence is derived the common application

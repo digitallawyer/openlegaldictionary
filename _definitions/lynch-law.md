@@ -1,5 +1,6 @@
 ---
 title: Lynch Law
+letter: L
 permalink: "/definitions/lynch-law.html"
 body: A term descriptive of the action of unofficial persons, organized bands, or
   mobs, who seize persons charged with or suspected of crimes, or take them out of

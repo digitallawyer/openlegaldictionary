@@ -1,5 +1,6 @@
 ---
 title: Possessory Action
+letter: P
 permalink: "/definitions/possessory-action.html"
 body: An action which has for its immediate object to obtain -or recover the actual
   possession ot the sub-ject-matter; as distinguished from an action which merely

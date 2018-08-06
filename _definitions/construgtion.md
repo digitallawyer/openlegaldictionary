@@ -1,5 +1,6 @@
 ---
 title: Construgtion
+letter: C
 permalink: "/definitions/construgtion.html"
 body: The process, or the art, of determining the sense, real meaning, or proper explanation
   of obscure or ambiguous terms or provisions in a statute, written instrument, or

@@ -1,5 +1,6 @@
 ---
 title: Jus Representations
+letter: J
 permalink: "/definitions/jus-representations.html"
 body: The right of representing dr standing in the place of another, or of being represented
   by another

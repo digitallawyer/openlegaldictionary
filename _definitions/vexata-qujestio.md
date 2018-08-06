@@ -1,5 +1,6 @@
 ---
 title: Vexata Qujestio
+letter: V
 permalink: "/definitions/vexata-qujestio.html"
 body: 'Lat. A vexed question; a question often agitated or dis-cussed, but not determined
   or settled: a qnes-tion or point which has been differently de-termined, and so

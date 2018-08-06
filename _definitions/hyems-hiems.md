@@ -1,5 +1,6 @@
 ---
 title: Hyems, Hiems
+letter: H
 permalink: "/definitions/hyems-hiems.html"
 body: Lat in the civU law. winter. Dig. 43, 20, 4, 34. written, in some of the old
   books, “perns.” Fleta, lib. 2, c. 73, SS 16, 18

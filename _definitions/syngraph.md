@@ -1,5 +1,6 @@
 ---
 title: Syngraph
+letter: S
 permalink: "/definitions/syngraph.html"
 body: The name given by the canonists to deeds of which both partB were written on
   the 6ame piece of parchment, with some word or letters of the alphabet written between

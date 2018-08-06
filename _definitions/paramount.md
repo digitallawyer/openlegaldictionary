@@ -1,5 +1,6 @@
 ---
 title: Paramount
+letter: P
 permalink: "/definitions/paramount.html"
 body: Above; upwards. That which is superior; usually applied to the highest lord
   of the fee of lands, tenements, or hereditaments, as distinguished from the mesne

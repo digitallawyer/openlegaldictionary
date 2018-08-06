@@ -1,5 +1,6 @@
 ---
 title: Actio In Rem
+letter: A
 permalink: "/definitions/actio-in-rem.html"
 body: In the civil and com-mon law. An- action for a thing; an action for the recovery
   of a thing possessed by an-other, Inst. 4, 6, 1. An'action for the en-forcement

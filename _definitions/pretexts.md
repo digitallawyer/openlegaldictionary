@@ -1,5 +1,6 @@
 ---
 title: Pretexts
+letter: P
 permalink: "/definitions/pretexts.html"
 body: In International law. Reasons alleged as Justificatory, but which are so only
   in appearuuce. or which are even absolutely destifute of ail foundation. The name

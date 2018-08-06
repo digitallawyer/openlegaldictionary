@@ -1,5 +1,6 @@
 ---
 title: Ciudades
+letter: C
 permalink: "/definitions/ciudades.html"
 body: Sp. In Spanish law,cities; distinguished from towns (pueblos) and vll-lages
   (villas.) Hart v. Burnett, 15 CaL 537

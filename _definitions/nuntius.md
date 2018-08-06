@@ -1,5 +1,6 @@
 ---
 title: Nuntius
+letter: N
 permalink: "/definitions/nuntius.html"
 body: In old English practice. A messenger. One who was sent to make an excuse for
   a party summoned, or one who explained as for a friend the reason of a party’s absence.

@@ -1,5 +1,6 @@
 ---
 title: Ex Maleficio
+letter: E
 permalink: "/definitions/ex-maleficio.html"
 body: Growing out of, or founded upon, misdoing or tort. This term is frequently used
   in the clvll law as the synonym of "ex delicto" (q. v.',) and- is thus contrasted

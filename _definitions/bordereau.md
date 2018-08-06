@@ -1,5 +1,6 @@
 ---
 title: Bordereau
+letter: B
 permalink: "/definitions/bordereau.html"
 body: In French law. A note enumerating the purchases and sales wbicb may have been
   made by a broker or stock-broker. This name is also given to the state-ment glven

@@ -1,5 +1,6 @@
 ---
 title: Firma
+letter: F
 permalink: "/definitions/firma.html"
 body: In old Engllsh law. The con-tract of lease or letting; also the rent (or farm)
   reserved upon a lease of lands, which was frequently payable in provisions, but

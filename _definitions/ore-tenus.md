@@ -1,5 +1,6 @@
 ---
 title: Ore Tenus
+letter: O
 permalink: "/definitions/ore-tenus.html"
 body: Lat. By word of mouth; orally. Pleading was anciently carried on ore tenus,
   at the bar of the court. 3 Bl. Comm. 293

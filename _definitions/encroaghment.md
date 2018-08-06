@@ -1,5 +1,6 @@
 ---
 title: Encroaghment
+letter: E
 permalink: "/definitions/encroaghment.html"
 body: An encroachment upon a street or highway is a fixture, such as a wall or fence,
   which intrudes into or invades the highway or incloses a portion of lt, diminishing

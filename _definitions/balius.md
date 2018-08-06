@@ -1,5 +1,6 @@
 ---
 title: Balius
+letter: B
 permalink: "/definitions/balius.html"
 body: In the civil law. A teacher; one who has the care of youth; a tutor; a guardian*
   Du Cange; Spelman

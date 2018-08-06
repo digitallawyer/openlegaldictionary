@@ -1,5 +1,6 @@
 ---
 title: Vesting Order
+letter: V
 permalink: "/definitions/vesting-order.html"
 body: In English low. An order which may be granted by the chancery division of the
   high court of Justice, (and formerly by chancery,) passing the legal estate in lieu

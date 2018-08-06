@@ -1,5 +1,6 @@
 ---
 title: Erection
+letter: E
 permalink: "/definitions/erection.html"
 body: Raising up; building; a completed building. In a statute on the "erection” of
   wooden buildings, this term does not Include repairing, alteration, enlarg-ing,

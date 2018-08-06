@@ -1,5 +1,6 @@
 ---
 title: King
+letter: K
 permalink: "/definitions/king.html"
 body: The sovereigu, ruler, or chief ex-ecutive magistrate of a state or nation whose
   constitution is of the kind called “monarchi-cal” is thus named if a man; if it

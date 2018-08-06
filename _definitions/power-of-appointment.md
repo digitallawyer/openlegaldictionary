@@ -1,5 +1,6 @@
 ---
 title: Power Of Appointment
+letter: P
 permalink: "/definitions/power-of-appointment.html"
 body: A pow-er or authority conferred by one person by deed or will upon another (called
   the “do-nee”) to appoint, that is, to select and nominate, the person or persons

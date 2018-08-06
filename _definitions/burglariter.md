@@ -1,5 +1,6 @@
 ---
 title: Burglariter
+letter: B
 permalink: "/definitions/burglariter.html"
 body: L. Lat. (Burglarious-Iy.) In old criminal pleading. A necessary word in Indictments
   for burglary

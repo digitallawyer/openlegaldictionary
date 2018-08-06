@@ -1,5 +1,6 @@
 ---
 title: Vicious Intromission
+letter: V
 permalink: "/definitions/vicious-intromission.html"
 body: In 8cotch law. A meddling with the movables of a de-ceased, without confirmation
   or probate of his will or other title, wharton

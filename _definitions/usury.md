@@ -1,5 +1,6 @@
 ---
 title: Usury
+letter: U
 permalink: "/definitions/usury.html"
 body: In old English law. Interest of money; increase for the loan of mon-ey; a reward
   for the use of money. 2 Bl. Comm. 454

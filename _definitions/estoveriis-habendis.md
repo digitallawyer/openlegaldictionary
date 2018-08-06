@@ -1,5 +1,6 @@
 ---
 title: Estoveriis Habendis
+letter: E
 permalink: "/definitions/estoveriis-habendis.html"
 body: A wrlt for a wlfe judicially separated to recover her all-mony or estovers,
   obsolete

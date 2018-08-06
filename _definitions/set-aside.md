@@ -1,5 +1,6 @@
 ---
 title: Set Aside
+letter: S
 permalink: "/definitions/set-aside.html"
 body: To set aside a judgment, decree, award, or any proceedings is to can-cel, annul,
   or revoke them at the instance of a party unjustly or irregularly affected by them.

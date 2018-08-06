@@ -1,5 +1,6 @@
 ---
 title: Post Natus
+letter: P
 permalink: "/definitions/post-natus.html"
 body: Born afterwards. A term applied by old writers to a second or younger son. It
   is used in private interna-tlonal law to designate a person who was born after some

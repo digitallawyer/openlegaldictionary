@@ -1,5 +1,6 @@
 ---
 title: Adjecttve Law
+letter: A
 permalink: "/definitions/adjecttve-law.html"
 body: The aggregate of rules of procedure or practlce. As opposed to that body of
   law which the courts are es-tablished to administer, (called “substantive law,”)

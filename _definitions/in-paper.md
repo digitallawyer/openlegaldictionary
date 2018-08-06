@@ -1,5 +1,6 @@
 ---
 title: In Paper
+letter: I
 permalink: "/definitions/in-paper.html"
 body: A term formerly applied to the proceedings in a cause before the rec-ord was
   made up. 3 Bl. Comm. 406 ; 2 Bur-rows, 1098. Probably from the circumstance of the

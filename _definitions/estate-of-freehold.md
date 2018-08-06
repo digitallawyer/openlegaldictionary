@@ -1,5 +1,6 @@
 ---
 title: Estate Of Freehold
+letter: E
 permalink: "/definitions/estate-of-freehold.html"
 body: An estate in land or other real property, of uncertain duration; that is, either
   of inheritance or which may possibly last for the life of the tenant at the least,

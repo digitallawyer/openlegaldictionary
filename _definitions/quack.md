@@ -1,5 +1,6 @@
 ---
 title: Quack
+letter: Q
 permalink: "/definitions/quack.html"
 body: A pretender to medical skill which he does not possess; one who practices as
   a physician or surgeon without adequate preparation or due qualification. See El-mergreen

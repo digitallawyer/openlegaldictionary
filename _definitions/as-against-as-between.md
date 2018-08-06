@@ -1,5 +1,6 @@
 ---
 title: As Against; As Between
+letter: A
 permalink: "/definitions/as-against-as-between.html"
 body: These . words coutrast the relative position of two arsons. with a tacit reference
   to a different relationship between one of them and a third person. For instance,

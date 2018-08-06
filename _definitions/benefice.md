@@ -1,5 +1,6 @@
 ---
 title: Benefice
+letter: B
 permalink: "/definitions/benefice.html"
 body: In ecclesiastical law. In its technical sense, this term includes ec-clesiastical
   preferments to which rank or public office is attached, otherwise describ-ed as

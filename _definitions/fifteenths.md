@@ -1,5 +1,6 @@
 ---
 title: Fifteenths
+letter: F
 permalink: "/definitions/fifteenths.html"
 body: In English law. This was originally a tax or tribute, levied at ln-tervals by
   act of parliament, consisting of one-fifteenth of all the movable property of the

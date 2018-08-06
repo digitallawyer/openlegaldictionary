@@ -1,5 +1,6 @@
 ---
 title: Justice Of The Peace
+letter: J
 permalink: "/definitions/justice-of-the-peace.html"
 body: In Amer-iean law. A judicial officer of inferior rank holding a court not of
   record, and having (usually) civil jurisdiction of a limited na-ture, for the trial

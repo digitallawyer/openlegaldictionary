@@ -1,5 +1,6 @@
 ---
 title: Ghosen Freeholders
+letter: G
 permalink: "/definitions/ghosen-freeholders.html"
 body: Under the municipal organization of the state of New Jersey, each county has
   a board of officers, called by this name, composed of representatives from the cities

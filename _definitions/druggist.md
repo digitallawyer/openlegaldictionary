@@ -1,5 +1,6 @@
 ---
 title: Druggist
+letter: D
 permalink: "/definitions/druggist.html"
 body: A dealer in drugs; one whose business is to sell drugs and medl-cines. In strict
   usage, this term is to be distinguished from “apothecary.” A drug-gist deals in

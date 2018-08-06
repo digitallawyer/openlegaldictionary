@@ -1,5 +1,6 @@
 ---
 title: Retraxit
+letter: R
 permalink: "/definitions/retraxit.html"
 body: Lat in practice. An open and voluntary renunciation by a plain-tiff of his suit
   in court, made when the trial is called on, by which he forever loses hls action,

@@ -1,5 +1,6 @@
 ---
 title: Grammatophylacium
+letter: G
 permalink: "/definitions/grammatophylacium.html"
 body: "(Gneco-Lat.) In the civll law. A place for keeping writings or records. Dig.
   48, 19, 9, 6"

@@ -1,5 +1,6 @@
 ---
 title: Ex Industria
+letter: E
 permalink: "/definitions/ex-industria.html"
 body: with contrivance or deliberation; designedly; on purpose. Seel Kent, Comm. 318;
   Martin v. Hunter, 1 wheat. 334, 4 L. Ed. 97

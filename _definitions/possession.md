@@ -1,5 +1,6 @@
 ---
 title: Possession
+letter: P
 permalink: "/definitions/possession.html"
 body: The detention and con-trol, or the manual or ideal custody, of any-thlng which
   may be the subject of property, for one’s use and enjoyment, either as owner or

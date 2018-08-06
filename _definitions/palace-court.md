@@ -1,5 +1,6 @@
 ---
 title: Palace Court
+letter: P
 permalink: "/definitions/palace-court.html"
 body: A court formerly ex-isting in England. It was created by Charles I., and abolished
   in 1849. It was held in the borough of Southwark, and had jurisdic* tlon of all

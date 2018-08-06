@@ -1,5 +1,6 @@
 ---
 title: Curia
+letter: C
 permalink: "/definitions/curia.html"
 body: In old European law. A court. The palace, household, or retinue of a sovereign.
   A judicial tribunal or court held in the sovereign’s palace. A court of justice.

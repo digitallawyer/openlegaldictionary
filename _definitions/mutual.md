@@ -1,5 +1,6 @@
 ---
 title: Mutual
+letter: M
 permalink: "/definitions/mutual.html"
 body: Interchangeable; reciprocal; each acting in return or correspondence to the
   other; given and received; spoken of an engagement or relation in which like duties

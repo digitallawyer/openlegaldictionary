@@ -1,5 +1,6 @@
 ---
 title: Vtsit
+letter: V
 permalink: "/definitions/vtsit.html"
 body: In international law. The right of visit or visitation is the right of a cruiser
   or war-ship to stop a vessel sailing under another flag on the high seas, and send

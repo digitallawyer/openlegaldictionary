@@ -1,5 +1,6 @@
 ---
 title: Ripe
+letter: R
 permalink: "/definitions/ripe.html"
 body: A suit is said to be “ripe for Jndg-ment” when it is so far advanced, by verdict,
   default, confession, the determination of all pending motions, or other disposition

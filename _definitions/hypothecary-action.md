@@ -1,5 +1,6 @@
 ---
 title: Hypothecary Action
+letter: H
 permalink: "/definitions/hypothecary-action.html"
 body: The name of an action allowed under the civil law for the enforcement of the
   claims of a credit-or by the contract of hypotheca. Lovell v. Cragin, 136 U. S.

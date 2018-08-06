@@ -1,5 +1,6 @@
 ---
 title: Provost
+letter: P
 permalink: "/definitions/provost.html"
 body: The principal magistrate of a royal burgh in Scotland; also a governing oflicer
   of a university or college

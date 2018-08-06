@@ -1,5 +1,6 @@
 ---
 title: Forthwith
+letter: F
 permalink: "/definitions/forthwith.html"
 body: As soon as, by reason-able exertion, confined to the object, a thing may be
   done. Thus, when a defendant is ordered to plead forthwith, he must plead within

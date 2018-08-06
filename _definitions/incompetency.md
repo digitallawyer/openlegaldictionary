@@ -1,5 +1,6 @@
 ---
 title: Incompetency
+letter: I
 permalink: "/definitions/incompetency.html"
 body: Lack of ability, le-gai qualification, or fitness to discharge the required
   duty. In re Leonard's Estate, 95 Mich. 295, 54 N. W. 1082; In re Cohn, 78 N. Y.

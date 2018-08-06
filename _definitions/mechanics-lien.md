@@ -1,5 +1,6 @@
 ---
 title: Mechanic'S Lien
+letter: M
 permalink: "/definitions/mechanics-lien.html"
 body: A secies of lien created by statute in most of tbe states, which exists in favor
   of persons who have performed work or furnished material in and for the erection

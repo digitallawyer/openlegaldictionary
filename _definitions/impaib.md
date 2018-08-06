@@ -1,5 +1,6 @@
 ---
 title: Impaib
+letter: I
 permalink: "/definitions/impaib.html"
 body: To weaken, diminish, or relax, or otherwlse affect In an lnjurlous manner. Davey
   v. 2Etna L. Ins. Co. (C. C.) 20 Fed. 482; State v. Carew, 13 Rich. Law (S. C.) 541,

@@ -1,5 +1,6 @@
 ---
 title: Partage
+letter: P
 permalink: "/definitions/partage.html"
 body: In French law. A division made between co-proprietors of a particular estate
   held by them in common. It is the operation by means of which the goods of a succession

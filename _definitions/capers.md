@@ -1,5 +1,6 @@
 ---
 title: Capers
+letter: C
 permalink: "/definitions/capers.html"
 body: Vessels of war owned by pri-vate persons, and different from ordinary prlvateers
   only in size, belng smaller. Beawes, Lex Merc. 230

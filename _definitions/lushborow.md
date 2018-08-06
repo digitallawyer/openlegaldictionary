@@ -1,5 +1,6 @@
 ---
 title: Lushborow
+letter: L
 permalink: "/definitions/lushborow.html"
 body: In old English law. A base sort of money, coined beyond sea in the likeness
   of English coin, and introduced Into England in the reign of Edward III. Prohibited

@@ -1,5 +1,6 @@
 ---
 title: Queen'S Prison
+letter: Q
 permalink: "/definitions/queens-prison.html"
 body: A Jail which used to be appropriated to the debtors and crimi-nals confined
   under process or by authority of the superior courts at westminster, the high court

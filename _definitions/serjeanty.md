@@ -1,5 +1,6 @@
 ---
 title: Serjeanty
+letter: S
 permalink: "/definitions/serjeanty.html"
 body: A species of tenure by knight service, which was due to the king only, and was
   distinguished Into grand and petit serjeanty. The tenant holding hy grand serjeanty

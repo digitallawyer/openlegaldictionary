@@ -1,5 +1,6 @@
 ---
 title: Pledgery
+letter: P
 permalink: "/definitions/pledgery.html"
 body: Suretyship, or an under-taking or answering for another. Gloucester Bank v.
   worcester, 10 Pick. (Mass.) 53L

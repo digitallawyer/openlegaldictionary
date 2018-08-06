@@ -1,5 +1,6 @@
 ---
 title: Estate In Common
+letter: E
 permalink: "/definitions/estate-in-common.html"
 body: An estate in lands held by two or more persons, wlth interests accruing nnder
   dlfferent titles; or accruing under the same title, hut at different periods; or

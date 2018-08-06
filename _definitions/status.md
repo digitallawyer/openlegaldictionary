@@ -1,5 +1,6 @@
 ---
 title: Status
+letter: S
 permalink: "/definitions/status.html"
 body: The status of a person is hls legal position or condition. Thus, when we say
   that the status of a woman after a decree nisi for the dissolution of her marriage

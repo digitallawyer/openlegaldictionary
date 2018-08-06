@@ -1,5 +1,6 @@
 ---
 title: Allodarh
+letter: A
 permalink: "/definitions/allodarh.html"
 body: owners of allodial lands, owners of estates as large as a subject may have.
   Co. Litt. 1; Bac. Abr. "Tenure," A

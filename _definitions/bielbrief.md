@@ -1,5 +1,6 @@
 ---
 title: Bielbrief
+letter: B
 permalink: "/definitions/bielbrief.html"
 body: Germ. In European marl-time law. A document furnished by the builder of a vessel,
   containing a register of her admeasurement, particularizing the length, breadth,

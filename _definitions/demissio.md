@@ -1,5 +1,6 @@
 ---
 title: Demissio
+letter: D
 permalink: "/definitions/demissio.html"
 body: L. Lat A demise or letting. Chiefly used in the phrase ex demissione (on the
   demise), which formed part of the title of the cause in the old actions of ejectment,

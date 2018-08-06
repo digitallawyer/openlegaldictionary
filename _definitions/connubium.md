@@ -1,5 +1,6 @@
 ---
 title: Connubium
+letter: C
 permalink: "/definitions/connubium.html"
 body: In the civil law. Mar-riage. Among the Romans, a lawful mar-riage as distinguished
   from “concubinage," (q. «.,) which was an Inferior marriage

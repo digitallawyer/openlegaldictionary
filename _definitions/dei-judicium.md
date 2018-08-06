@@ -1,5 +1,6 @@
 ---
 title: Dei Judicium
+letter: D
 permalink: "/definitions/dei-judicium.html"
 body: The judgment of God. The old Saxon trial by ordeal, so called be-cause it was
   thought to be an appeal to God for the justlce of a cause, and It was bellev-ed

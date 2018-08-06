@@ -1,5 +1,6 @@
 ---
 title: Dedication
+letter: D
 permalink: "/definitions/dedication.html"
 body: In real property law. An appropriation of land to some public use, made by the
   owner, and accepted for such use by or on behalf of the public; a deliberate appropriation

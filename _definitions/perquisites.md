@@ -1,5 +1,6 @@
 ---
 title: Perquisites
+letter: P
 permalink: "/definitions/perquisites.html"
 body: In Its most extensive sense, “perquisites” signifies anything obtalh-ed by industry
   or purchased with money, dif

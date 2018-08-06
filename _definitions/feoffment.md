@@ -1,5 +1,6 @@
 ---
 title: Feoffment
+letter: F
 permalink: "/definitions/feoffment.html"
 body: The gift of any corpo-real hereditament to another, (2 Bl. Comm. 310), operating
   by transmutation of possession, and requiring, as essential to its com-pletlon,

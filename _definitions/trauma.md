@@ -1,5 +1,6 @@
 ---
 title: Trauma
+letter: T
 permalink: "/definitions/trauma.html"
 body: In medical jurisprudence. A wound; any injury to the body caused by external
   violence

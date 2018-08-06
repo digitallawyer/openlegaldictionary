@@ -1,5 +1,6 @@
 ---
 title: Plottage
+letter: P
 permalink: "/definitions/plottage.html"
 body: A term used in appraising land values and particularly in emlnent domain proceedings,
   to designate the addltlon* al value glven to city lots by the fact that they are

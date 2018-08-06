@@ -1,5 +1,6 @@
 ---
 title: Reliction
+letter: R
 permalink: "/definitions/reliction.html"
 body: An Increase of the land by the sudden withdrawal or retrocessiou of the sea
   or a river. Hammond v. Shepard, 186 111. 235, 57 N. E. 867, 78 Am. St Rep. 274;

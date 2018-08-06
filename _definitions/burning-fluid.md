@@ -1,5 +1,6 @@
 ---
 title: Burning Fluid
+letter: B
 permalink: "/definitions/burning-fluid.html"
 body: As used in policies of insurance, this term does not mean any fluid which will
   burn, but it means a recog-nized article of commerce, called by that name, and which

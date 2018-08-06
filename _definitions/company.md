@@ -1,5 +1,6 @@
 ---
 title: Company
+letter: C
 permalink: "/definitions/company.html"
 body: A society or association of persons, in considerable number, interested in a
   common object, and uniting themselves for the prosecution of some commercial or

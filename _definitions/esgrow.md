@@ -1,5 +1,6 @@
 ---
 title: Esgrow
+letter: E
 permalink: "/definitions/esgrow.html"
 body: A scroll; a writing; a deed. Particularly a deed delivered by the grantor into
   the hands of a third person, to be held by the latter until the happenlng of a con-tlngency

@@ -1,5 +1,6 @@
 ---
 title: Recognize
+letter: R
 permalink: "/definitions/recognize.html"
 body: To try; to examine in order to determlne the truth of a matter. Also to enter
   into a recognizance

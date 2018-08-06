@@ -1,5 +1,6 @@
 ---
 title: Relict
+letter: R
 permalink: "/definitions/relict.html"
 body: This term is applied to the survivor of a pair of married people, whether the
   survivor is the husband or the wife; it means the relict of the united pair, (or

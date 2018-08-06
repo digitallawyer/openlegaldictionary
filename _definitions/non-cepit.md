@@ -1,5 +1,6 @@
 ---
 title: Non Cepit
+letter: N
 permalink: "/definitions/non-cepit.html"
 body: He did not take. The gen-eral Jssue in replevin, where the action is for the
   wrongful taking of the property; put-ting in Issue not only the taking, but the

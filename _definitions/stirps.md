@@ -1,5 +1,6 @@
 ---
 title: Stirps
+letter: S
 permalink: "/definitions/stirps.html"
 body: Lat A root or stock of descent or title. Taklng property by rlght of representation
   is called “succession per stirpes" in opposition to taking in one’s own right, or

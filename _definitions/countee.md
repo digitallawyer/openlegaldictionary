@@ -1,5 +1,6 @@
 ---
 title: Countee
+letter: C
 permalink: "/definitions/countee.html"
 body: In old English law. The most eminent dignity of a subject before tbe Conquest.
   He was prtefectus or prapoaitus comitatua, and had the charge and custody of the

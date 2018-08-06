@@ -1,5 +1,6 @@
 ---
 title: Patria Potestas
+letter: P
 permalink: "/definitions/patria-potestas.html"
 body: Lat in Roman law. Paternal authority; the paternal pow-er. This term denotes
   the aggregate of those peculiar powers aud rights which, by the civil law of Rome,

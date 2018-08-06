@@ -1,5 +1,6 @@
 ---
 title: Scabini
+letter: S
 permalink: "/definitions/scabini.html"
 body: In old European law. Tiie, judges or assessors of the judges in the court, held
   by the count Assistants or associates! of the count; officers under the count The

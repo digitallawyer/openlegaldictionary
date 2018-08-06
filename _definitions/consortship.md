@@ -1,5 +1,6 @@
 ---
 title: Consortship
+letter: C
 permalink: "/definitions/consortship.html"
 body: In maritime law. An agreement or stipulation between the owners of different
   vessels that they shall keep in company, mutually aid, Instead of interfering with

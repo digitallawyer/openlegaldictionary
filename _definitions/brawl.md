@@ -1,5 +1,6 @@
 ---
 title: Brawl
+letter: B
 permalink: "/definitions/brawl.html"
 body: A clamorous or tumultuous quarrel in a public place, to the disturbance of the
   public peace

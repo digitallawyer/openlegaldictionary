@@ -1,5 +1,6 @@
 ---
 title: Embezzlement
+letter: E
 permalink: "/definitions/embezzlement.html"
 body: The fraudulent appropriation to his own use or benefit of property or money
   intrusted to him by another, by, a clerk, agent, trustee, public officer, or other

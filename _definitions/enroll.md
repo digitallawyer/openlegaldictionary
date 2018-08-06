@@ -1,5 +1,6 @@
 ---
 title: Enroll
+letter: E
 permalink: "/definitions/enroll.html"
 body: To register; to make a record ; to enter on the rolls of a court; to tran-scrlbe.
   Ream v. Com., 3 Serg. & R. (Pa.) 209

@@ -1,5 +1,6 @@
 ---
 title: Severance
+letter: S
 permalink: "/definitions/severance.html"
 body: In pleading;. Separa-tion; division. The separation by defend-ants in their
   pleas; the adoption, by several defendants, of separate pleas, instead of joining

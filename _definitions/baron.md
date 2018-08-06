@@ -1,5 +1,6 @@
 ---
 title: Baron
+letter: B
 permalink: "/definitions/baron.html"
 body: A lord or nobleman; the most general title of nobility in England. 1 Bl. Comm.
   398. 399

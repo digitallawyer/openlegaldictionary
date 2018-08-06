@@ -1,5 +1,6 @@
 ---
 title: Bastard
+letter: B
 permalink: "/definitions/bastard.html"
 body: An illegitimate child; a child born of an unlawful intercourse, and while its
   parents are not united in marriage. Tlm-mlns v. Lacy, 30 Tex. 135; Miller v. Anderson,

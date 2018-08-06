@@ -1,5 +1,6 @@
 ---
 title: Quietus
+letter: Q
 permalink: "/definitions/quietus.html"
 body: In old English law. Quit; acquitted; discharged. A word used by the clerk of
   the pipe, and auditors in the exchequer, in their acquittances or discharges given

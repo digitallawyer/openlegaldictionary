@@ -1,5 +1,6 @@
 ---
 title: Usurped Power
+letter: U
 permalink: "/definitions/usurped-power.html"
 body: In insurance. An invasion from abroad, or an internal rebel-lion, where armies
   are drawn up against each other, when the laws are silent, and when the firing of

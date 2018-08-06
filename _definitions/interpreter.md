@@ -1,5 +1,6 @@
 ---
 title: Interpreter
+letter: I
 permalink: "/definitions/interpreter.html"
 body: A person sworn at a trlal to lnterpret the evldence of a foreigner or a deaf
   and dumb person to the court Amory v. Fellowes, 5 Mass. 226; People v. Lem Deo,

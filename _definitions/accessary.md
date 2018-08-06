@@ -1,5 +1,6 @@
 ---
 title: Accessary
+letter: A
 permalink: "/definitions/accessary.html"
 body: In criminal law. Con*; tributing to or aiding in the commission of a crime,
   one who, without being present at; the commission of a felonious offense, becomes

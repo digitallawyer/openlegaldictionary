@@ -1,5 +1,6 @@
 ---
 title: Common Bench
+letter: C
 permalink: "/definitions/common-bench.html"
 body: The English conrt of common pleas was formerly so called. Its original title
   appears to have been simply “The Bench,” but it was designated “Common Bench” to

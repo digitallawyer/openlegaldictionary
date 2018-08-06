@@ -1,5 +1,6 @@
 ---
 title: Se Defendendo
+letter: S
 permalink: "/definitions/se-defendendo.html"
 body: Lat. In defending himself; in self-defense. Homlclde commlt-ted se defendendo
   is excusable

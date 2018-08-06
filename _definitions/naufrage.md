@@ -1,5 +1,6 @@
 ---
 title: Naufrage
+letter: N
 permalink: "/definitions/naufrage.html"
 body: In French maritime law. 8hlpwreck. “The violent agitation of the waves, the
   impetuous force of the winds, storm, or lightning, may swallow up the ves

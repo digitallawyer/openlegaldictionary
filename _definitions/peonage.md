@@ -1,5 +1,6 @@
 ---
 title: Peonage
+letter: P
 permalink: "/definitions/peonage.html"
 body: The state or condition of a peon as above defined; a condition of en* forced
   servitude, hy which the servitor is restrained of hls liberty and compelled to labor

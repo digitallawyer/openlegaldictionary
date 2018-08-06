@@ -1,5 +1,6 @@
 ---
 title: Coal Note
+letter: C
 permalink: "/definitions/coal-note.html"
 body: A species of promissory note, formerly in use in the port of London, containing
   the phrase “value received in coals.” By the statute 3 Geo. II. c. 26, SS 7, 8,

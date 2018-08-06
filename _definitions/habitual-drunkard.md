@@ -1,5 +1,6 @@
 ---
 title: Habitual Drunkard
+letter: H
 permalink: "/definitions/habitual-drunkard.html"
 body: A person given to ebriety or the excessive use of in-toxicating drink, who has
   lost the power or the will, by frequent indulgence, to control his appetite for

@@ -1,5 +1,6 @@
 ---
 title: Scaccarium
+letter: S
 permalink: "/definitions/scaccarium.html"
 body: A chequered cloth resembling a chess-board which covered the table , in the
   exchequer, and on which, when, certain of the king's accounts were mnde up, the

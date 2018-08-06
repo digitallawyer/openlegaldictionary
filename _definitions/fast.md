@@ -1,5 +1,6 @@
 ---
 title: Fast
+letter: F
 permalink: "/definitions/fast.html"
 body: In Georgia, a “fast” bill of excep-tions is one which may be taken in injunc-tion
   suits and similar cases, at such time and in such manner, as to bring the case up

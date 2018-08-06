@@ -1,5 +1,6 @@
 ---
 title: Indicavit
+letter: I
 permalink: "/definitions/indicavit.html"
 body: In English practice. A writ of prohibition that lies for a patron of a church,
   whose clerk is sued in the spiritual court by the clerk of another patron, for tithes

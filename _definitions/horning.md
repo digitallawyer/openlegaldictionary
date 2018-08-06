@@ -1,5 +1,6 @@
 ---
 title: Horning
+letter: H
 permalink: "/definitions/horning.html"
 body: In Scotch law. “Letters of horning" is the name given to a judicial pro-cess
   issuing on the decree of a court, by which the debtor is summoned to perform his

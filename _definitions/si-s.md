@@ -1,5 +1,6 @@
 ---
 title: Si S
+letter: S
 permalink: "/definitions/si-s.html"
 body: xed periodical compensation to be paid for services rendered; a stated compensation,
   amounting to so much by the year, month, or other fixed period, to be paid to public

@@ -1,5 +1,6 @@
 ---
 title: Bull
+letter: B
 permalink: "/definitions/bull.html"
 body: In eccleslastlcal law. An lnstru-ment granted by the pope of Rome, and sealed
   with a seal of lead, containing some decree, commandment, or other public act, emanating

@@ -1,5 +1,6 @@
 ---
 title: Bo Rough
+letter: B
 permalink: "/definitions/bo-rough.html"
 body: In En«lisb law. A town, a walled town. Co. Litt. 108b. A town of note or importance;
   a fortified town. Cow-ell. An ancient town. Litt. 164. A cor-porate town that is

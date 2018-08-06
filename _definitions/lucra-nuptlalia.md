@@ -1,5 +1,6 @@
 ---
 title: Lucra Nuptlalia
+letter: L
 permalink: "/definitions/lucra-nuptlalia.html"
 body: Lat in Roman law. A term Including everything which a husband or wife, as such,
   acquires from the estate of the other, either before the marriage, or on agreeing

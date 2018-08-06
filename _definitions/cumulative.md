@@ -1,5 +1,6 @@
 ---
 title: Cumulative
+letter: C
 permalink: "/definitions/cumulative.html"
 body: Additional; heaping up; Increasing; forming an aggregate. The word signifies
   that two things are to be added together, instead of oue being a repetition or in

@@ -1,5 +1,6 @@
 ---
 title: Re-Entry
+letter: R
 permalink: "/definitions/re-entry.html"
 body: The entering again Into or resuming possession of premises. Thus in leases there
   is a proviso for re-entry of the lessor on the tenant’s failure to pay tiie rent

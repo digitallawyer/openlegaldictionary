@@ -1,5 +1,6 @@
 ---
 title: De Plano
+letter: D
 permalink: "/definitions/de-plano.html"
 body: Lat On the ground; on a level. A term of the Roman law descrip-tive of the method
   of bearding causes, when the prsetor stood on the ground with the suit-ors, instead

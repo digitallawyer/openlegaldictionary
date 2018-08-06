@@ -1,5 +1,6 @@
 ---
 title: Writ Of Assistance
+letter: W
 permalink: "/definitions/writ-of-assistance.html"
 body: The name of a writ which Issues from the court of chan-eery, in aid of the executlon
   of a judgment at law, to put the complainant Into possesslon of lands adjudged to

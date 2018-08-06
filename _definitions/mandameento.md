@@ -1,5 +1,6 @@
 ---
 title: Mandameento
+letter: M
 permalink: "/definitions/mandameento.html"
 body: In Spanish law. Commission; authority or power of attorney. A contract of good
   faith, hy which oue per-son commits to the gratuitous charge of an-other his affairs,

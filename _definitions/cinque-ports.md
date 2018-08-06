@@ -1,5 +1,6 @@
 ---
 title: Cinque Ports
+letter: C
 permalink: "/definitions/cinque-ports.html"
 body: Five (now seven) ports or havens on the south-east coast of Eng-laud, towards
   France, formerly esteemed the most important in the kingdom. They are Dover, Sandwich,

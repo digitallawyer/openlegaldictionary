@@ -1,5 +1,6 @@
 ---
 title: Novje Narrationes
+letter: N
 permalink: "/definitions/novje-narrationes.html"
 body: New counts. The collection called “Nov# Narrationcs" contains pleadings in actions
   during the reign

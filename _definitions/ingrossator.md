@@ -1,5 +1,6 @@
 ---
 title: Ingrossator
+letter: I
 permalink: "/definitions/ingrossator.html"
 body: An engrosser. In-grossator magni rotuli, engrosser of the great roll; afterwards
   called “clerk of the pipe.” Spelman; Cowell

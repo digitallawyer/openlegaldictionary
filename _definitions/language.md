@@ -1,5 +1,6 @@
 ---
 title: Language
+letter: L
 permalink: "/definitions/language.html"
 body: Any means of conveying or communicating ideas; specifically, human speech, or
   the expression of ideas by written characters. The letter, or grammatical import,

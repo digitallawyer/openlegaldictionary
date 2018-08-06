@@ -1,5 +1,6 @@
 ---
 title: Horse
+letter: H
 permalink: "/definitions/horse.html"
 body: An animal of the genus equus and species caballus. In a narrow and strict sense,
   the term Ib applied only to the male, and only to males of four years old or there-abouts,

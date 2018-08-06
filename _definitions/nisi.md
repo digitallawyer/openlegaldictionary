@@ -1,5 +1,6 @@
 ---
 title: Nisi
+letter: N
 permalink: "/definitions/nisi.html"
 body: Lat Unless. The word is often affixed, as a kind of elllptlcal expression, to
   the words “rule,” “order,” “decree,” “Judg-ment,” or “confirmation,” to Indlcate

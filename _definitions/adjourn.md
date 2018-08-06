@@ -1,5 +1,6 @@
 ---
 title: Adjourn
+letter: A
 permalink: "/definitions/adjourn.html"
 body: To put off; defer; postpone. To postpone action of a convened court or body
   until another time specified, or indefl-nitely, the lutter being usually called

@@ -1,5 +1,6 @@
 ---
 title: Conductio
+letter: C
 permalink: "/definitions/conductio.html"
 body: In the civU law. A hir-ing. Used generally in connection with the term locatio,
   a letting. Locatio ct conductio, (sometimes united as a .compound word, “lo-cat

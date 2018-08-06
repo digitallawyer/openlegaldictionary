@@ -1,5 +1,6 @@
 ---
 title: Directory
+letter: D
 permalink: "/definitions/directory.html"
 body: A provision in a statute, rule of procedure, or the like, is sald to be dlrectory
   when it is to be consldered as a mere dlrection or lnstructlon of no obliga-tory

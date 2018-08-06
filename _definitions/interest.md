@@ -1,5 +1,6 @@
 ---
 title: Interest
+letter: I
 permalink: "/definitions/interest.html"
 body: In property. The most general term that can be employed to denote a property
   in lands or chattels. In lts appli-catlon to lands or thlngs real, it is frequently

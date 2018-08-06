@@ -1,5 +1,6 @@
 ---
 title: Appurtenance
+letter: A
 permalink: "/definitions/appurtenance.html"
 body: That which belongs to something else; an adjunct; an append-age; something annexed
   to another thing more worthy as principal, and which posses as Incident to it, as

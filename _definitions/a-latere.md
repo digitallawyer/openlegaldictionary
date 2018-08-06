@@ -1,5 +1,6 @@
 ---
 title: A Latere
+letter: A
 permalink: "/definitions/a-latere.html"
 body: Lat From the slde. In connection with the succession to property, the term means
   “collateral.” Bract fol. 20b. Also, sometlmes, “without right” Id. fol. 42b. In

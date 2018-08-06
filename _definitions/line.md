@@ -1,5 +1,6 @@
 ---
 title: Line
+letter: L
 permalink: "/definitions/line.html"
 body: In descents. The order or series of persons who have descended one front the
   other or ell from a common ancestor, considered as placed in a line of succession

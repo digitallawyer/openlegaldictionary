@@ -1,5 +1,6 @@
 ---
 title: Rehearing
+letter: R
 permalink: "/definitions/rehearing.html"
 body: In equity practice. A second hearing of a cause, for which a party who is dissatisfied
   with the decree entered on the former hearing may apply by petition. 3 Bl. Comm.

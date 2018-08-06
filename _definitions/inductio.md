@@ -1,5 +1,6 @@
 ---
 title: Inductio
+letter: I
 permalink: "/definitions/inductio.html"
 body: Lat in the civU law. obliteration, by drawing the pen or stylus over the writing.
   Dig. 28, 4; Calvin

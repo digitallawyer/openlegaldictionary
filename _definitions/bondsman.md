@@ -1,5 +1,6 @@
 ---
 title: Bondsman
+letter: B
 permalink: "/definitions/bondsman.html"
 body: A surety; one who has entered Into a bond as surety. The word seems to apply
   especially to the sureties upon the bonds of officers, trustees, etc., while bail

@@ -1,5 +1,6 @@
 ---
 title: Quje Plura
+letter: Q
 permalink: "/definitions/quje-plura.html"
 body: Lat in old Engllsh practice. A writ which lay where an inqnl-sltlon had been
   made by an escheator in any county of such lands or tenements as any man died seised

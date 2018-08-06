@@ -1,5 +1,6 @@
 ---
 title: Amortization
+letter: A
 permalink: "/definitions/amortization.html"
 body: An alienation of lands or tenements in mortmain. The reduction of the property
   of lands or tenements to mortmain

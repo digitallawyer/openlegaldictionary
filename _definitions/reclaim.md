@@ -1,5 +1,6 @@
 ---
 title: Reclaim
+letter: R
 permalink: "/definitions/reclaim.html"
 body: To claim or demand back; to ask for tbe return or restoration of a thing; to
   Insist upon one’s right to recover that which was one’s own, but was parted with

@@ -1,5 +1,6 @@
 ---
 title: Jus Pascendi
+letter: J
 permalink: "/definitions/jus-pascendi.html"
 body: In the clvil and old English iaw. The right of pasturing cattle. Inst. 2, 3,
   2; Bract, fols. 53b, 222

@@ -1,5 +1,6 @@
 ---
 title: Invent
+letter: I
 permalink: "/definitions/invent.html"
 body: To find out something new; to devise, contrive, and produce something not previously
   known or existing, by the ex-ercise of independent investigation and ex-periment;

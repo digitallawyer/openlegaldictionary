@@ -1,5 +1,6 @@
 ---
 title: Ecclesia
+letter: E
 permalink: "/definitions/ecclesia.html"
 body: Lat. An assembly. A Chris-tian assembly; a church. A place of relig-ious worship.
   Spelman

@@ -1,5 +1,6 @@
 ---
 title: Inherit
+letter: I
 permalink: "/definitions/inherit.html"
 body: To take by inheritance; to take as heir on the death of the ancestor. Warren
   v. Prescott, 84 Me. 483, 24 Atl. 948, 17 L. R. A. 435, 30 Am. St Rep. 370; Mc-Arthur

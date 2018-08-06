@@ -1,5 +1,6 @@
 ---
 title: Jus Ad Rem
+letter: J
 permalink: "/definitions/jus-ad-rem.html"
 body: A term of the clvll law, meaning “a right to a thing;” that is, a right exercisable
   by one person over a particular article of property in virtue of a coutract or obligatlon

@@ -1,5 +1,6 @@
 ---
 title: Proprios
+letter: P
 permalink: "/definitions/proprios.html"
 body: In Spanish and Mexican law. Productive lands, the usufruct of which had been
   set apart to the several municipalities for the purpose of defraying the charges

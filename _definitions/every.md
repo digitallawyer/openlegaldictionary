@@ -1,5 +1,6 @@
 ---
 title: Every
+letter: E
 permalink: "/definitions/every.html"
 body: Each one of all; the term in-cludes all the separate individuals who constitute
   the whole, regarded one by one. Geary v. Parker, 65 Ark. 521, 47 S. W. 238; Purdy

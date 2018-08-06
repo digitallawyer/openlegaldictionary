@@ -1,5 +1,6 @@
 ---
 title: Mutuum
+letter: M
 permalink: "/definitions/mutuum.html"
 body: Lat. In the law of bailments. A loan for consumption; a loan of chattels, upon
   an agreement that the bor-rower may consume them, returning to the lender an equivalent

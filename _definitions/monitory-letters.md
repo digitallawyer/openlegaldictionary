@@ -1,5 +1,6 @@
 ---
 title: Monitory Letters
+letter: M
 permalink: "/definitions/monitory-letters.html"
 body: Communications of warning and admonition sent from an ecclesiastical judge,
   upon information of scandal and abuses within the cognizance of his court

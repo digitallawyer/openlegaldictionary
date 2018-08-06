@@ -1,5 +1,6 @@
 ---
 title: Defile
+letter: D
 permalink: "/definitions/defile.html"
 body: To debauch, deflower, or cor-rupt the chastity of a woman. The term does not
   necessarily imply force or ravishment, nor‘does it connote previous immaculateness.

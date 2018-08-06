@@ -1,5 +1,6 @@
 ---
 title: Prebendary
+letter: P
 permalink: "/definitions/prebendary.html"
 body: An ecclesiastical per-son serving on the staff of a cathedral, and receiving
   a stated allowance or stipend from the income or endowment of the cathedral, in

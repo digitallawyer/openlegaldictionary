@@ -1,5 +1,6 @@
 ---
 title: Giving In Payment
+letter: G
 permalink: "/definitions/giving-in-payment.html"
 body: In Louisiana law. A phrase (translating the Fr. “Ration en payement”) which
   signifies the delivery and acceptance of real or personal property in satisfaction

@@ -1,5 +1,6 @@
 ---
 title: Vagrant
+letter: V
 permalink: "/definitions/vagrant.html"
 body: A wandering, idle person; a strolling or sturdy beggar. A general term, including,
   in English law, the seyeral classes of idle and disorderly persons, rogues, and

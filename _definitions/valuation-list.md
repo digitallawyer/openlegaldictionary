@@ -1,5 +1,6 @@
 ---
 title: Valuation List
+letter: V
 permalink: "/definitions/valuation-list.html"
 body: In Engllsh law. A list of all the ratable hereditaments in a parish, showing
   the names of the occupier, the owner, the property, the extent of the prop-. erty,

@@ -1,5 +1,6 @@
 ---
 title: Decem Tales
+letter: D
 permalink: "/definitions/decem-tales.html"
 body: "(Ten such; or tea tales, jurors.) In practice. The name of a wrlt whlch Issues
   in England, where, on a trlal at bar, ten jurors are necessary to make up a full

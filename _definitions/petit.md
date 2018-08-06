@@ -1,5 +1,6 @@
 ---
 title: Petit
+letter: P
 permalink: "/definitions/petit.html"
 body: Fr. Small; minor? inconsider-able. Used in several compounds, and sometimes
   written “petty.”

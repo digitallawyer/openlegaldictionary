@@ -1,5 +1,6 @@
 ---
 title: Token
+letter: T
 permalink: "/definitions/token.html"
 body: A sign or mark; a material evl-dtnce of the existence of a fact Thus, cheating
   by “false tokens” implies the use of fabricated or deceitfully contrived material

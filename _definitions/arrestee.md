@@ -1,5 +1,6 @@
 ---
 title: Arrestee
+letter: A
 permalink: "/definitions/arrestee.html"
 body: In Scotch law. The person in whose hands the movables of another, or a debt
   due to another, are arrested by the

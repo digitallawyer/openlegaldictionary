@@ -1,5 +1,6 @@
 ---
 title: Confiscare
+letter: C
 permalink: "/definitions/confiscare.html"
 body: In civll and old English law.. To confiscate; to claim for or bring into the
   fisc, or treasury. Bract fol. 150

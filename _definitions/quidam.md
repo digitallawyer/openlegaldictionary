@@ -1,5 +1,6 @@
 ---
 title: Quidam
+letter: Q
 permalink: "/definitions/quidam.html"
 body: Lat. Somebody. This term is used in the French law to designate a person whose
   name is not known

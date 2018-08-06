@@ -1,5 +1,6 @@
 ---
 title: Case
+letter: C
 permalink: "/definitions/case.html"
 body: 1. A general term for an action, danse, suit, or controversy, at law or in equity;
   a question contested before a court of Justice; an aggregate of facts which fur-nlshes

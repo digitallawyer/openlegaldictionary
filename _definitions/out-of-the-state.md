@@ -1,5 +1,6 @@
 ---
 title: Out Of The State
+letter: O
 permalink: "/definitions/out-of-the-state.html"
 body: In reference to rights, linblllties, or jurlsdlctlons arising out of the common
   law, thls phrase is equivalent to “beyond sea," which see. In other con-nections,

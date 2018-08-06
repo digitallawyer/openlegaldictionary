@@ -1,5 +1,6 @@
 ---
 title: Fortia
+letter: F
 permalink: "/definitions/fortia.html"
 body: Force. In old English law. Force used by an accessary, to enable the principal
   to commit a crime, as by binding or holding a person while another killed him, or

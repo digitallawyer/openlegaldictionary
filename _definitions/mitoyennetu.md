@@ -1,5 +1,6 @@
 ---
 title: Mitoyennetu
+letter: M
 permalink: "/definitions/mitoyennetu.html"
 body: In French law. The joint ownership of two neighbors in a wall, ditch, or hedge
   which separates their estates

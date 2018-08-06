@@ -1,5 +1,6 @@
 ---
 title: Corse-Present
+letter: C
 permalink: "/definitions/corse-present.html"
 body: A mortuary, thus termed because, when a mortuary became due on the death of
   a man, the best or sec-ond-best beast was, according to custom, offered or presented

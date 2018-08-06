@@ -1,5 +1,6 @@
 ---
 title: Calpes
+letter: C
 permalink: "/definitions/calpes.html"
 body: ln Scotch law. A gift to the bead of a clan, as an acknowledgment for protection
   and maintenance

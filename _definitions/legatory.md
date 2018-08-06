@@ -1,5 +1,6 @@
 ---
 title: Legatory
+letter: L
 permalink: "/definitions/legatory.html"
 body: The third part of a freeman's personal estate, which by the custom of London,
   in case he had a wife and chil-dren, the freeman might always have dispos-ed of

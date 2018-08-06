@@ -1,5 +1,6 @@
 ---
 title: Sealing
+letter: S
 permalink: "/definitions/sealing.html"
 body: By seals, in matters of succession, is understood the placing, by the proper
   oflicer, of seals on the effects of a succession for the purpose of preserving them,

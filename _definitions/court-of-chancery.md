@@ -1,5 +1,6 @@
 ---
 title: Court Of Chancery
+letter: C
 permalink: "/definitions/court-of-chancery.html"
 body: A court having the jurisdiction of a chancellor; a court administering equity
   and proceeding accord-tag to the forms and principles of equity. In England^ prior

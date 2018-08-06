@@ -1,5 +1,6 @@
 ---
 title: Vif-Gage
+letter: V
 permalink: "/definitions/vif-gage.html"
 body: L. Fr. In old English law. A vivum vadium or living pledge, as distin-gnlshed
   from a mortgage or dead pledge. Properly, an estate given as security for a debt,

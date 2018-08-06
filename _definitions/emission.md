@@ -1,5 +1,6 @@
 ---
 title: Emission
+letter: E
 permalink: "/definitions/emission.html"
 body: In medical jurisprudence. The ejection or throwing out of any secretion or other
   matter from the body; the expulsion of urine, semen, etc

@@ -1,5 +1,6 @@
 ---
 title: Grenville Act
+letter: G
 permalink: "/definitions/grenville-act.html"
 body: The statute 10 Geo. III. c. 16, by which the jurisdiction over par-11a men tary
   election petitions was transferred from the whole house of commons to select committees

@@ -1,5 +1,6 @@
 ---
 title: Canterbury, Archbishop Of
+letter: C
 permalink: "/definitions/canterbury-archbishop-of.html"
 body: In English eccleslastlcal law. The primate of all England; the chief ecclesiastical
   digni-tary in the church. Hls customary privilege is to crown tlie kings and queens

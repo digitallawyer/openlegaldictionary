@@ -1,5 +1,6 @@
 ---
 title: Deface
+letter: D
 permalink: "/definitions/deface.html"
 body: To mar or destroy the face (that is, the physical appearance of written or Inscribed
   characters os expressive of a definite meaning) of a written instrument, signature,

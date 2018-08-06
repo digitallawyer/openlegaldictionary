@@ -1,5 +1,6 @@
 ---
 title: Depose
+letter: D
 permalink: "/definitions/depose.html"
 body: In praotioe. In ancient usage, to testify as a witness; to give evidence under
   oath

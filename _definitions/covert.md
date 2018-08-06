@@ -1,5 +1,6 @@
 ---
 title: Covert
+letter: C
 permalink: "/definitions/covert.html"
 body: Covered, protected, sheltered-A pound covert is one that is close or covered
   over, as distinguished from pound overt, which is open overhead. Co. Litt 47b; 3

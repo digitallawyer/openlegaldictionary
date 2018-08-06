@@ -1,5 +1,6 @@
 ---
 title: Revocation
+letter: R
 permalink: "/definitions/revocation.html"
 body: The recall of some pow-er, authority, or thing granted, or a de-atroying or
   making void of some deed that had existence until the act of revocation tnade it

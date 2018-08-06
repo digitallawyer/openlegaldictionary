@@ -1,5 +1,6 @@
 ---
 title: Manner
+letter: M
 permalink: "/definitions/manner.html"
 body: This is a word of large sig-niflcatlon, but cannot exceed the subject to which
   it belongs. The incident cannot be extended beyond Its principal, wells v.- Bain,

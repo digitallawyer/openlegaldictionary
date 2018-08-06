@@ -1,5 +1,6 @@
 ---
 title: Nauticum Fcenus
+letter: N
 permalink: "/definitions/nauticum-fcenus.html"
 body: Lat. In the civil law. Nautical or maritime interest; an ex-traordinary rate
   of Interest agreed to be paid for the loan of money on the hazard of a voy-age;

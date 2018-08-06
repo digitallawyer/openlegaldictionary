@@ -1,5 +1,6 @@
 ---
 title: Debauch
+letter: D
 permalink: "/definitions/debauch.html"
 body: To entice, to corrupt, and, when used of a woman, to seduce, origl-nally, the
   term had a limited signification, meaning to entice or draw one away from his work,

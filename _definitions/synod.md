@@ -1,5 +1,6 @@
 ---
 title: Synod
+letter: S
 permalink: "/definitions/synod.html"
 body: 'A meeting or assembly of ecclesiastical persons concerning religion; belng
   the same thing, in Greek, as convocation in Latln. There are four klnds: (1) A general

@@ -1,5 +1,6 @@
 ---
 title: Comitas
+letter: C
 permalink: "/definitions/comitas.html"
 body: Lat Comity, courtesy, civil-ity. Comitas inter communitates; or comi-tas inter
   gentes; comity between commuui-ties or nations; comity of nations. 2 Kent, Comm.

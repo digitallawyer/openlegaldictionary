@@ -1,5 +1,6 @@
 ---
 title: Court Of Arbitration Of The Chamber Of Commerce
+letter: C
 permalink: "/definitions/court-of-arbitration-of-the-chamber-of-commerce.html"
 body: A court of arbitrators, created for the convenience of merchants in the city
   of New York, by act of the legislature of New York. It decides disputes between

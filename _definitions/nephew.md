@@ -1,5 +1,6 @@
 ---
 title: Nephew
+letter: N
 permalink: "/definitions/nephew.html"
 body: The son of a brother or sister. But the term, as used in wills and other documents,
   may include the children of half brothers and sisters and also grand-nephews, lf

@@ -1,5 +1,6 @@
 ---
 title: Metayer System
+letter: M
 permalink: "/definitions/metayer-system.html"
 body: A system of agricultural holdings, under which the land is divided, in small
   farms, among single families, the landlord generally supplying the stock which the

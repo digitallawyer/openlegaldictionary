@@ -1,5 +1,6 @@
 ---
 title: Septuagesima
+letter: S
 permalink: "/definitions/septuagesima.html"
 body: In ecclesiastical law. The third Sunday before Quadragesima Sun-day, being about
   the seventieth day before Easter

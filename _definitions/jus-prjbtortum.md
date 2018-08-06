@@ -1,5 +1,6 @@
 ---
 title: Jus Prjbtortum
+letter: J
 permalink: "/definitions/jus-prjbtortum.html"
 body: UM. In the civil law. The discretion of the prsetor, as distinct from the leges,
   or standing laws. 3 Bl. Comm. 49. That kind of law which the prtetors introduced

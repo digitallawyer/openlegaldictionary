@@ -1,5 +1,6 @@
 ---
 title: Infamy
+letter: I
 permalink: "/definitions/infamy.html"
 body: A qualification of a man’s legal status produced by his conviction of an infamous
   crime and the consequent loss of honor and credit, which, at common law, rendered

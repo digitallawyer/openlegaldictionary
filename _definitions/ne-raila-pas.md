@@ -1,5 +1,6 @@
 ---
 title: Ne Raila Pas
+letter: N
 permalink: "/definitions/ne-raila-pas.html"
 body: L. Fr. He did not deliver. A plea in detinue, denying the de-livery to the defendant
   of the thing sued for

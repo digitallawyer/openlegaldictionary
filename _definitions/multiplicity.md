@@ -1,5 +1,6 @@
 ---
 title: Multiplicity
+letter: M
 permalink: "/definitions/multiplicity.html"
 body: A state of being many. That quality of a pleading which lnvolves a variety of
   matters or particulars; undue variety. 2 Saund. 410. A multiply-ing or increasing.

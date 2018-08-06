@@ -1,5 +1,6 @@
 ---
 title: Fines Le Roy
+letter: F
 permalink: "/definitions/fines-le-roy.html"
 body: In old English lnw. The king’s fines. Fines formerly payable to the king for
   any contempt or offense, as where one committed any trespass, or false-ly denied

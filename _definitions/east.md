@@ -1,5 +1,6 @@
 ---
 title: East
+letter: E
 permalink: "/definitions/east.html"
 body: In the customs laws of the United States, the term “countries east of the Cape
   of Good Hope” means countries with which, formerly, the United States ordinarily

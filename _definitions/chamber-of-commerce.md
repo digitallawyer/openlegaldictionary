@@ -1,5 +1,6 @@
 ---
 title: Chamber Of Commerce
+letter: C
 permalink: "/definitions/chamber-of-commerce.html"
 body: An association (which may or may uot be incor-porated) comprising the principal
   merchants, manufacturers, aud traders of a city, design-ed for convenience in buying,

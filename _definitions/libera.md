@@ -1,5 +1,6 @@
 ---
 title: Libera
+letter: L
 permalink: "/definitions/libera.html"
 body: A livery or delivery of so much corn or grass to a customary tenant, who cut
   down or prepared the said grass or corn, and received some part or small portion

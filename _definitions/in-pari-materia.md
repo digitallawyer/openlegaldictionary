@@ -1,5 +1,6 @@
 ---
 title: In Pari Materia
+letter: I
 permalink: "/definitions/in-pari-materia.html"
 body: Upon the same matter or subject. Statutes in pari materia are to construed together.
   United Society v. Eagle Bank, 7 Conn. 457; State v. Ger-hardt, 145 Ind. 439, 44

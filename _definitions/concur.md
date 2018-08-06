@@ -1,5 +1,6 @@
 ---
 title: Concur
+letter: C
 permalink: "/definitions/concur.html"
 body: To agree; accord; consent In the practice of appellate courts, a “con-curring
   opinion" is one filed by one of the judges or justices, in which he agrees with

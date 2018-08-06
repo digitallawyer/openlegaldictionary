@@ -1,5 +1,6 @@
 ---
 title: Esflees
+letter: E
 permalink: "/definitions/esflees.html"
 body: An old term for the products which the ground or land yields; as the hay of
   the meadows, the herbage of the pasture, corn of arable fields, rent and services,

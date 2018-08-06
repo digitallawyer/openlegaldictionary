@@ -1,5 +1,6 @@
 ---
 title: Natus
+letter: N
 permalink: "/definitions/natus.html"
 body: Lat. Born, as distinguished from nasciturus, about to be born. Ante natus, one
   born before a particular person or event, e. g.. before tbe death of his father,

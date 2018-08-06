@@ -1,5 +1,6 @@
 ---
 title: Merchant
+letter: M
 permalink: "/definitions/merchant.html"
 body: A man who traffics or car-rles on trade with foreign countries, or who exports
   and Imports goods and sells them by wholesale, webster. Merchants of thls de-scriptlon

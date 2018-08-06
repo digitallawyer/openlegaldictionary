@@ -1,5 +1,6 @@
 ---
 title: Memorial
+letter: M
 permalink: "/definitions/memorial.html"
 body: A document presented to a legislative body, or to the executive, by one or more
   individuals, containing a petition or a representation of facts

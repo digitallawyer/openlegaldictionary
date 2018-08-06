@@ -1,5 +1,6 @@
 ---
 title: Coat Armor
+letter: C
 permalink: "/definitions/coat-armor.html"
 body: Heraldic ensigns, introduced by Richard I. from the Holy Land, where they were
   first invented, originally they were painted on the shields of the Chris-tian knights

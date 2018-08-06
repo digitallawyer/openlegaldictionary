@@ -1,5 +1,6 @@
 ---
 title: Curative
+letter: C
 permalink: "/definitions/curative.html"
 body: Intended to cure (that is. to obviate the ordinary legal effects or con-sequences
   of) defects, errors, omissions, or irregularities. Applied particularly to stat-utes,

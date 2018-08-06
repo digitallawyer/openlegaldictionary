@@ -1,5 +1,6 @@
 ---
 title: Tallage
+letter: T
 permalink: "/definitions/tallage.html"
 body: A word used metaphorically for a share of a man's substance paid by way of tribute,
   toll, or tax, being derived from the French “failler," which signifies to cut a

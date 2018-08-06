@@ -1,5 +1,6 @@
 ---
 title: Pledable
+letter: P
 permalink: "/definitions/pledable.html"
 body: L. Fr. That may be brought or conducted; as an action o^ “plen," as it was formerly
   called. Britt c. 32

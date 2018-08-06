@@ -1,5 +1,6 @@
 ---
 title: Serpent-Venom Reaction
+letter: S
 permalink: "/definitions/serpent-venom-reaction.html"
 body: A test for Insanity by means of the breaking up of the red corpuscles of the
   blood of the sus-pected person on the lnjectlon of the venom ot cobras or other

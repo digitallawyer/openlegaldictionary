@@ -1,5 +1,6 @@
 ---
 title: A Forfait Et Sans Garantie
+letter: A
 permalink: "/definitions/a-forfait-et-sans-garantie.html"
 body: In French law. A formula used in indorsing commercial paper, and equivalent
   to “without recourse.”

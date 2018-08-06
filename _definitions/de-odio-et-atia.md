@@ -1,5 +1,6 @@
 ---
 title: De Odio Et Atia
+letter: D
 permalink: "/definitions/de-odio-et-atia.html"
 body: A writ directed to the sheriff, commanding him to inquire whether a prisoner
   charged with murder was committed upon just cause of suspicion, or merely propter

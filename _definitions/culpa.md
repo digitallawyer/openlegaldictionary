@@ -1,5 +1,6 @@
 ---
 title: Culpa
+letter: C
 permalink: "/definitions/culpa.html"
 body: Lat. A term of the civil law, meaning fault, neglect, or negligence. There are
   three degrees of culpa,-‘-lata culpa, gross fault or neglect; lcvis culpa, ordinary

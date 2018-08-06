@@ -1,5 +1,6 @@
 ---
 title: Class
+letter: C
 permalink: "/definitions/class.html"
 body: The order or rank according to which persons or things are arranged or as-sorted.
   Also a group of persons or things, taken collectively, having certain qualities

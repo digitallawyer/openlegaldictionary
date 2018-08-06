@@ -1,5 +1,6 @@
 ---
 title: Registry
+letter: R
 permalink: "/definitions/registry.html"
 body: A register, or book author-lzed or recognized by law, kept for the recording
   or registration of facts or documents

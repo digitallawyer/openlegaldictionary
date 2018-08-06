@@ -1,5 +1,6 @@
 ---
 title: Irritancy
+letter: I
 permalink: "/definitions/irritancy.html"
 body: In Scotch law. The hap-pening of a condition or event by which a charter, contract,
   or other deed, to which a clause irritant is annexed, becomes void

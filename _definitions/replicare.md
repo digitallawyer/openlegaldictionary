@@ -1,5 +1,6 @@
 ---
 title: Replicare
+letter: R
 permalink: "/definitions/replicare.html"
 body: Lat. In the civil law and old English pleading. To reply; to an-swer a defendant’s
   plea

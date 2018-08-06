@@ -1,5 +1,6 @@
 ---
 title: Cession Des Biens
+letter: C
 permalink: "/definitions/cession-des-biens.html"
 body: In French law. The surrender which a debtor makes of all his goods to his creditors,
   when he finds himself in insolvent circumstances. It is of two kinds, either voluntary

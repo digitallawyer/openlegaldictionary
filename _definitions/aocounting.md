@@ -1,5 +1,6 @@
 ---
 title: Aocounting
+letter: A
 permalink: "/definitions/aocounting.html"
 body: The making up and rendition of an account, either voluntarily or by order of
   a court Buxton v. Edwards, 134 Mass. 567, 578. May Include payment of the amount

@@ -1,5 +1,6 @@
 ---
 title: Amplius
+letter: A
 permalink: "/definitions/amplius.html"
 body: In the Roman law. More; farther; more time. A word which the prse-tor pronounced
   in cases where there was any obscurity in a cause, and the judices were uncertain

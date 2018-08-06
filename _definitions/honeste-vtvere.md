@@ -1,5 +1,6 @@
 ---
 title: Honeste Vtvere
+letter: H
 permalink: "/definitions/honeste-vtvere.html"
 body: Lat To live hon-orably, creditably, or vlrtuously. one of the three general
   precepts to whlch Justinian reduced the whole doctrine of the law, (InsL 1, 1, 3;

@@ -1,5 +1,6 @@
 ---
 title: Bullion
+letter: B
 permalink: "/definitions/bullion.html"
 body: Gold and silver Intended to be coined. The term la usually applied to a quantity
   of these metals ready for tlie mint, but as yet lying in bars, plates, lumps, or

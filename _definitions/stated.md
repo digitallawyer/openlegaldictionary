@@ -1,5 +1,6 @@
 ---
 title: Stated
+letter: S
 permalink: "/definitions/stated.html"
 body: Settled; closed. An account stated means an account settled, and at an end.
   Pull. Acc’ts, 33. “In order to consti-tute an account stated, there must be a statement

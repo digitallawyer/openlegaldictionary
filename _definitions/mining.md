@@ -1,5 +1,6 @@
 ---
 title: Mining
+letter: M
 permalink: "/definitions/mining.html"
 body: The process or business of ex-tracting from the earth tbe precious or valuable
   metals, elther in thelr native state or in their ores. In re Rollins Gold Min. Co.

@@ -1,5 +1,6 @@
 ---
 title: Puberty
+letter: P
 permalink: "/definitions/puberty.html"
 body: The age of fourteen In males and twelve in females, when they are held fit for,
   and capable of contracting, marriage, otherwise called the “age of consent to marriage.”

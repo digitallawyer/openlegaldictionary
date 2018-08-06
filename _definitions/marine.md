@@ -1,5 +1,6 @@
 ---
 title: Marine
+letter: M
 permalink: "/definitions/marine.html"
 body: Naval; relating or pertaining to the sea; transacted at sea; doing duty or service
   ou the sea

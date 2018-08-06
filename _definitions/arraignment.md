@@ -1,5 +1,6 @@
 ---
 title: Arraignment
+letter: A
 permalink: "/definitions/arraignment.html"
 body: In criminal practice. Calling tbe defendant to the bar of the court, to answer
   the accusation contained in the indictment

@@ -1,5 +1,6 @@
 ---
 title: Subdivide
+letter: S
 permalink: "/definitions/subdivide.html"
 body: To divide a part into smaller parts; to separate into smaller divi-slons. As,
   where an estate is to be taken by some of the heirs per stirpes, it is divided and

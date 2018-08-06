@@ -1,5 +1,6 @@
 ---
 title: Injury
+letter: I
 permalink: "/definitions/injury.html"
 body: Any wrong or damage done to another, either in his person, rights, repu-tation,
   or property. Parker v. Griswold, 17 Conn. 298, 42 Am. Dec. 739; woodruff v. Mining

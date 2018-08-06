@@ -1,5 +1,6 @@
 ---
 title: Falsification
+letter: F
 permalink: "/definitions/falsification.html"
 body: In equity practice. The showing an item in the debit of an account to be either
   wholly false or in some part erroneous. 1 Story, Eq. Jur. § 525. And see Phillips

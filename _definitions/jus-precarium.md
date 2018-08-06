@@ -1,5 +1,6 @@
 ---
 title: Jus Precarium
+letter: J
 permalink: "/definitions/jus-precarium.html"
 body: UM. In the civil law. A right to a thing held for another, for which there was
   no remedy hy legal action,, but only hy entreaty or request. 2 Bl. Coinm. 328

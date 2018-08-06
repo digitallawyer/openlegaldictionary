@@ -1,5 +1,6 @@
 ---
 title: Extra-Dotal Property
+letter: E
 permalink: "/definitions/extra-dotal-property.html"
 body: In Lou-isiaua this term is used to designate that property which forms no part
   of the dowry of a woman, and which is also called “para-phernal property.” Clv.

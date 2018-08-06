@@ -1,5 +1,6 @@
 ---
 title: Detention
+letter: D
 permalink: "/definitions/detention.html"
 body: The act of keeping back or withholding,' either accidentally or by de-sign,
   a person or thing. See Detainer. —Detention in a reformatory, as a punishment or

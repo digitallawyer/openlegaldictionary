@@ -1,5 +1,6 @@
 ---
 title: Adjuncts
+letter: A
 permalink: "/definitions/adjuncts.html"
 body: Additional Judges sometimes appointed in the English high court of delegates.
   See Shelf. Lun. 310

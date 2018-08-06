@@ -1,5 +1,6 @@
 ---
 title: Adrogation
+letter: A
 permalink: "/definitions/adrogation.html"
 body: In the civil law. The adoption of one who was impubes; that is, lf a male, under
   fourteen years of age; if a female, under twelve. Dig. 1, 7, 17, 1

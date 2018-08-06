@@ -1,5 +1,6 @@
 ---
 title: White
+letter: W
 permalink: "/definitions/white.html"
 body: A Mongolian is not a “whlte person," within the meaning of the term aa used
   in the naturalization laws of the Unlted States; the term applies only to persons

@@ -1,5 +1,6 @@
 ---
 title: Colloquium
+letter: C
 permalink: "/definitions/colloquium.html"
 body: one of the usual parts of the declaration in an action for slander. It is a
   general averment that the words complained of were spoken “of and concern-lng the

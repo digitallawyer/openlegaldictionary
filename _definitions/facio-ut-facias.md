@@ -1,5 +1,6 @@
 ---
 title: Facio Ut Facias
+letter: F
 permalink: "/definitions/facio-ut-facias.html"
 body: "(Lat I do that you may do.) A specles of contract in the civil law (being one
   of the innominate con-tracts) whlch. occurs when I agree wlth a man to do hls work

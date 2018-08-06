@@ -1,5 +1,6 @@
 ---
 title: Regrating
+letter: R
 permalink: "/definitions/regrating.html"
 body: In old English law. The offense of buying or getting into one’s hands at a fair
   or market any provisions, corn, or other dead victual, with the inten-tlon of selling

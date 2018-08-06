@@ -1,5 +1,6 @@
 ---
 title: Old Natura Brevium
+letter: O
 permalink: "/definitions/old-natura-brevium.html"
 body: The title of a treatise written in the reign of Edward III. containing the writs
   which were then most in use, annexing to each a short com-ment concerning their

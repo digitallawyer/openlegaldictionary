@@ -1,5 +1,6 @@
 ---
 title: Frectum
+letter: F
 permalink: "/definitions/frectum.html"
 body: In old English law. Freight. Quoad frcctum nurium sua rum, as to the freight
   of hls vessels. Blount

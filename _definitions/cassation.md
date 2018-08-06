@@ -1,5 +1,6 @@
 ---
 title: Cassation
+letter: C
 permalink: "/definitions/cassation.html"
 body: In French law. Annul-ling; reversal; breaking the force nnd va-lldlty of a judgment.
   A decision emanating

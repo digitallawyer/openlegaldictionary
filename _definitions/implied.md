@@ -1,5 +1,6 @@
 ---
 title: Implied
+letter: I
 permalink: "/definitions/implied.html"
 body: This word is nsed in law as contrasted with “express;” i. where the Intention
   in regard to the subject-matter is not manifested by explicit and direct words,

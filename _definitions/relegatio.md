@@ -1,5 +1,6 @@
 ---
 title: Relegatio
+letter: R
 permalink: "/definitions/relegatio.html"
 body: Lat. A kind of banish-ment known to the civil law, which differed from “deportatio"
   in leaving to the person his rights of citizenship

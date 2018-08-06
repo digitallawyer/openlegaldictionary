@@ -1,5 +1,6 @@
 ---
 title: En Ventre Sa Mere
+letter: E
 permalink: "/definitions/en-ventre-sa-mere.html"
 body: L. Fr. In Its mother's womb. A term descriptive of an unborn child. For some
   purposee the law regards an infant en ventre as in being. It may take a legacy;

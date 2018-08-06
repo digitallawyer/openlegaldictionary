@@ -1,5 +1,6 @@
 ---
 title: Pax Ecclesls
+letter: P
 permalink: "/definitions/pax-ecclesls.html"
 body: Lat. in old English law. The peace of the chnrch. A particular privilege attached
   to a church; sanctuary, (q. v.) Crabb, Eng. Law, 41; Cowell

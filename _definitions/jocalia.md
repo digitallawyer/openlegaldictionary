@@ -1,5 +1,6 @@
 ---
 title: Jocalia
+letter: J
 permalink: "/definitions/jocalia.html"
 body: In old English law. Jewels. This term was formerly more properly applied to
   those ornaments which women, al

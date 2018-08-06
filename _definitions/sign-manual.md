@@ -1,5 +1,6 @@
 ---
 title: Sign-Manual
+letter: S
 permalink: "/definitions/sign-manual.html"
 body: In English law. The signature or subscription of the king is term* ed hls “sign-manual.”
   There is this differ-ence between what the sovereign does under the sign manual

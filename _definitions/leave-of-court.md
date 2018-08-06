@@ -1,5 +1,6 @@
 ---
 title: Leave Of Court
+letter: L
 permalink: "/definitions/leave-of-court.html"
 body: Permission obtain* ed from a court to take some action which, without such permission,
   would not be allow-able; as, to sue a receiver, to file an amended pleading, to

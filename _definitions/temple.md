@@ -1,5 +1,6 @@
 ---
 title: Temple
+letter: T
 permalink: "/definitions/temple.html"
 body: Two English inns of court, thus called because anciently the dwelling place
   of the Kuights Templar, on the sup* presslon of the order, they were purchased by

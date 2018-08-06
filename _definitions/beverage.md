@@ -1,5 +1,6 @@
 ---
 title: Beverage
+letter: B
 permalink: "/definitions/beverage.html"
 body: This term is properly used to distinguish a sale of liquors to be drunk for
   the pleasure of drinking, from liquors to be drunk in obedience to a physician’s

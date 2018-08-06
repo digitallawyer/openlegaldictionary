@@ -1,5 +1,6 @@
 ---
 title: Cy-Pres
+letter: C
 permalink: "/definitions/cy-pres.html"
 body: As near as [possible.] The rule of cy-prcs is a rule for the construction of
   instruments in equity, by which the inteu-tion of the party is carried out os near

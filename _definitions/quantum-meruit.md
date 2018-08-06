@@ -1,5 +1,6 @@
 ---
 title: Quantum Meruit
+letter: Q
 permalink: "/definitions/quantum-meruit.html"
 body: As much as he deserved. In pleading.- The common count in an action of assumpsit
   for work and labor, founded on an implied assumpsit or promise on the part of the

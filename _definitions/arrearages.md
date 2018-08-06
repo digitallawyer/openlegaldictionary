@@ -1,5 +1,6 @@
 ---
 title: Arrearages
+letter: A
 permalink: "/definitions/arrearages.html"
 body: r ARREARAGES. Money unpaid at the due time, as rent behind; the remainder due
   after payment of a part of an account; money in the hands of an account-ing party.

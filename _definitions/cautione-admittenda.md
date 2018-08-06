@@ -1,5 +1,6 @@
 ---
 title: Cautione Admittenda
+letter: C
 permalink: "/definitions/cautione-admittenda.html"
 body: In Eng-lish ecclesiastical law. A writ that lies against a bishop who holds
   an excommunl-cated person in prison for contempt, not-withstandlng he offers sufficient

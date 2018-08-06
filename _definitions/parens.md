@@ -1,5 +1,6 @@
 ---
 title: Parens
+letter: P
 permalink: "/definitions/parens.html"
 body: Lat. In Roman law. A par-ent; originally and properly only the father or mother
   of the person spoken of; but also, by an extension of its meaning, any relative,

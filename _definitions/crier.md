@@ -1,5 +1,6 @@
 ---
 title: Crier
+letter: C
 permalink: "/definitions/crier.html"
 body: An officer of a court, who makes proclamations. Hls principal duties are to
   announce the opening of the court and Its adjournment and the fact that certain

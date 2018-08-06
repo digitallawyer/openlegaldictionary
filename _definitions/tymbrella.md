@@ -1,5 +1,6 @@
 ---
 title: Tymbrella
+letter: T
 permalink: "/definitions/tymbrella.html"
 body: In old English law, a tumbrel, castigatory, or ducking stool, anciently used
   as an instrument of punishment for eommon scolds

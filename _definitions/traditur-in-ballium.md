@@ -1,5 +1,6 @@
 ---
 title: Traditur In Ballium
+letter: T
 permalink: "/definitions/traditur-in-ballium.html"
 body: In old practlce. is delivered to ball. Emphatic words of the old Latin ball-piece.
   1 Salk. 105

@@ -1,5 +1,6 @@
 ---
 title: Mancipatio
+letter: M
 permalink: "/definitions/mancipatio.html"
 body: Lat. In Roman law. A certain ceremony or formal process anciently required to
   be performed, to perfect tbe sale or conveyance of res mancipi, (land, houses, slaves,

@@ -1,5 +1,6 @@
 ---
 title: Purview
+letter: P
 permalink: "/definitions/purview.html"
 body: That part of a statute commencing with the words “Be it enacted,” and continuing
   as far as the repealing clause; and hence, the design, contempts* tion, purpose,

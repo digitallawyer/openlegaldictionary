@@ -1,5 +1,6 @@
 ---
 title: Admit
+letter: A
 permalink: "/definitions/admit.html"
 body: To allow, receive, or take; to suffer one to enter; to give possession; to license.
   Gregory v. United States, 17 Blatchf. 325, 10 Fed. Cas. 1195. See Ad-mission

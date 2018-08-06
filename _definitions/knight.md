@@ -1,5 +1,6 @@
 ---
 title: Knight
+letter: K
 permalink: "/definitions/knight.html"
 body: Iu English law. The next personal dignity after the noblllty. of knights there
   are several orders and degrees. The first in rank are knights of the Garter, lustituted

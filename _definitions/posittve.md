@@ -1,5 +1,6 @@
 ---
 title: Posittve
+letter: P
 permalink: "/definitions/posittve.html"
 body: Laid down, enacted, or prescribed. Express- or affirmative. Direct, absolute,
   explicit

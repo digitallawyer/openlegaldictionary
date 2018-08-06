@@ -1,5 +1,6 @@
 ---
 title: Supplicavit
+letter: S
 permalink: "/definitions/supplicavit.html"
 body: In English law. The name of a writ issuing out of the kiug’s bench or chancery
   for taking sureties of the peace. It is commonly directed to the justices of the

@@ -1,5 +1,6 @@
 ---
 title: Amoveas Manus
+letter: A
 permalink: "/definitions/amoveas-manus.html"
 body: Lat. That you remove your hands. After office found, the king was entitled to
   the things forfeited, either lands or personal property; the rem-edy for a person

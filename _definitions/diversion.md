@@ -1,5 +1,6 @@
 ---
 title: Diversion
+letter: D
 permalink: "/definitions/diversion.html"
 body: A turning aside or alter-ing the natural course of a thing. The term is chiefly
   applled to the unauthorized chang-ing the course of a water-course to the prej-udice

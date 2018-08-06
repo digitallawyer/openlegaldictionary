@@ -1,5 +1,6 @@
 ---
 title: Encourage
+letter: E
 permalink: "/definitions/encourage.html"
 body: In criminal law. To instigate; to incite to action; to give cour-age to; to
   inspirit; to embolden; to raise confidence; to make confident Comitez v. Parkerson

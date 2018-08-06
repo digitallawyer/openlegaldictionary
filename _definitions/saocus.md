@@ -1,5 +1,6 @@
 ---
 title: Saocus
+letter: S
 permalink: "/definitions/saocus.html"
 body: L. Lat in old English law. A sack. A quantity of wool weighing thirty or twenty-eight
   stone. Fleta, t 2, c. 79, S 10

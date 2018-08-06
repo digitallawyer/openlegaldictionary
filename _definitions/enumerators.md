@@ -1,5 +1,6 @@
 ---
 title: Enumerators
+letter: E
 permalink: "/definitions/enumerators.html"
 body: Persons appointed to collect census papers or schedules. 33 & 34 Vict C. 108,
   $ 4

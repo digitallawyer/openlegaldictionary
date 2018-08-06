@@ -1,5 +1,6 @@
 ---
 title: Carmen
+letter: C
 permalink: "/definitions/carmen.html"
 body: In the Roman law. Literally, a verse or song. A formula or form of words used
   on various occasions, as of divorce. Tayl. Clvll Law, 349

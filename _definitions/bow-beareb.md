@@ -1,5 +1,6 @@
 ---
 title: Bow-Beareb
+letter: B
 permalink: "/definitions/bow-beareb.html"
 body: An under-officer of the forest, whose duty it was to oversee and true inquisition
   make, as well of sworn men as unsworn, in every bailiwick of the forest; and of

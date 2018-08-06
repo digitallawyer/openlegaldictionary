@@ -1,5 +1,6 @@
 ---
 title: Oraculum
+letter: O
 permalink: "/definitions/oraculum.html"
 body: In the civil law. The name of a kind of response or sentence given by tbe Roman
   emperors

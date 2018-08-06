@@ -1,5 +1,6 @@
 ---
 title: Prisage
+letter: P
 permalink: "/definitions/prisage.html"
 body: An ancient hereditary reve-. nue of the crown, consisting in the right to take
   a certain quantity from cargoes of wine imported into England. In Edward I.’s reign

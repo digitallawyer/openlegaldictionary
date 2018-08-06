@@ -1,5 +1,6 @@
 ---
 title: Give
+letter: G
 permalink: "/definitions/give.html"
 body: 1. To transfer or yleld to, or be-stow upon, another, one of the operatlve words
   in deeds of conveyance of real property, importing at common law, a warranty or

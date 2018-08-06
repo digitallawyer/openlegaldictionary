@@ -1,5 +1,6 @@
 ---
 title: Easter
+letter: E
 permalink: "/definitions/easter.html"
 body: A feast of the Chrlstlan church held in memory of our Saviour’s resurrection.
   The Greeks and Latins call it “pascha,” (passover,) to which Jewish feast our Easter

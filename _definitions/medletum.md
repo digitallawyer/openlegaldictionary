@@ -1,5 +1,6 @@
 ---
 title: Medletum
+letter: M
 permalink: "/definitions/medletum.html"
 body: In old English law. A mixing together; a medley or mdle'e; an af-fray or sudden
   encounter. An offense sud-denly committed in an affray. The English word "medley”

@@ -1,5 +1,6 @@
 ---
 title: Court-Martial
+letter: C
 permalink: "/definitions/court-martial.html"
 body: A military court, couvened under authority of government apd the articles of
   war, for trying and punishing military offenses committed by soldiers or sailors

@@ -1,5 +1,6 @@
 ---
 title: Prsmunire
+letter: P
 permalink: "/definitions/prsmunire.html"
 body: 'In English law. The name of an offense against the king and hls government,
   though not subject to capital punishment. So called from the words of the writ which

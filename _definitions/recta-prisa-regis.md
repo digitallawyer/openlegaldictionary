@@ -1,5 +1,6 @@
 ---
 title: Recta Prisa Regis
+letter: R
 permalink: "/definitions/recta-prisa-regis.html"
 body: In old English law. The kiug’s right to prisage, or taking of one butt or pipe
   of wine before and an-other behind the mast, as a custom for every ship laden with

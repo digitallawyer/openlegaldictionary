@@ -1,5 +1,6 @@
 ---
 title: Facio Ut Des
+letter: F
 permalink: "/definitions/facio-ut-des.html"
 body: "(Lat. I do that you may give.) A species of contract in the civil law (belng
   one of the innominate contracts) whlch occurs when a man agrees to perform anythlng

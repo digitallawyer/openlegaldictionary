@@ -1,5 +1,6 @@
 ---
 title: Statutory
+letter: S
 permalink: "/definitions/statutory.html"
 body: 'Relating to a statute; created or defined by a statute: required by a statute;
   conforming to a statute'

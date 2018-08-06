@@ -1,5 +1,6 @@
 ---
 title: Wick
+letter: W
 permalink: "/definitions/wick.html"
 body: Sax. A village, town, or district Hence, in composition, the territory over
   which a glven jurlsdiction extends. Thus, “baillwick” is the territorial jurisdiction

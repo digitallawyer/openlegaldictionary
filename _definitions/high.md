@@ -1,5 +1,6 @@
 ---
 title: High
+letter: H
 permalink: "/definitions/high.html"
 body: This term, as used In various -compound legal phrases, is sometimes merely an
   addltlon of dignity, not Importing a com-parlson; hut more generally it means exalt-ed,

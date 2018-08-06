@@ -1,5 +1,6 @@
 ---
 title: Unfair Competition
+letter: U
 permalink: "/definitions/unfair-competition.html"
 body: A term which may be applied generally to all dls-honest or fraudulent rivalry
   in trade and commerce, but is particularly applied in the courts of equity (where

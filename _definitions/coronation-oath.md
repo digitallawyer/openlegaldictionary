@@ -1,5 +1,6 @@
 ---
 title: Coronation Oath
+letter: C
 permalink: "/definitions/coronation-oath.html"
 body: The oath ad-ministered to a sovereign at the ceremony of crowning or investing
   him with the in-slgnia of royalty, in acknowledgment of his right to govern the

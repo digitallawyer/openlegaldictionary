@@ -1,5 +1,6 @@
 ---
 title: Riotose
+letter: R
 permalink: "/definitions/riotose.html"
 body: L. Lat. Riotously. A form-al and essential word In old indictments for riots.
   2 Strange, 834

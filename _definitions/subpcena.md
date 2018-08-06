@@ -1,5 +1,6 @@
 ---
 title: Subpcena
+letter: S
 permalink: "/definitions/subpcena.html"
 body: The process by which the attendance of a witness is required is called a “subpoena.”
   It is a writ or OFder directed to a person, and requiring his attendance at a particular

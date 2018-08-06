@@ -1,5 +1,6 @@
 ---
 title: Offioe
+letter: O
 permalink: "/definitions/offioe.html"
 body: "“office” is defined to be a right to exercise a public or private employment,
   and to take the fees and emoluments there* unto belonging, whether public, as those

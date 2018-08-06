@@ -1,5 +1,6 @@
 ---
 title: Statu Liber
+letter: S
 permalink: "/definitions/statu-liber.html"
 body: Lat. In Roman law. one who is made free by will under a condition ; one who
   has hls liberty fixed and ap-polnted at a certain time or on a certain con-dition.

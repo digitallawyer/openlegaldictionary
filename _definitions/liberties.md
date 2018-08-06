@@ -1,5 +1,6 @@
 ---
 title: Liberties
+letter: L
 permalink: "/definitions/liberties.html"
 body: Privileged districts exempt from the sheriff’s jurisdiction; as, “gaol liberties”
   or “jail liberties." See Gaol

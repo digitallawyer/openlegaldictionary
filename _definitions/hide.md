@@ -1,5 +1,6 @@
 ---
 title: Hide
+letter: H
 permalink: "/definitions/hide.html"
 body: In old Engllsh law. A measure of land, being as much as could be worked wlth
   one plow. It is variously estimated at from 60 to 100 acres, but was probably de-termlned

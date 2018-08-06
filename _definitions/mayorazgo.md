@@ -1,5 +1,6 @@
 ---
 title: Mayorazgo
+letter: M
 permalink: "/definitions/mayorazgo.html"
 body: In Spanish law. The right to the enjoyment of certain aggregate property, left
   with the condition thereon imposed that they are to pass in thelr in-tegrity, perpetually,

@@ -1,5 +1,6 @@
 ---
 title: Hobblers
+letter: H
 permalink: "/definitions/hobblers.html"
 body: In old Engllsh law. Light horsemen or bowmen; also certain tenants, bound by
   their tenure to maintain a little light horse for giving notice of any invasion,

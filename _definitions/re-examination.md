@@ -1,5 +1,6 @@
 ---
 title: Re-Examination
+letter: R
 permalink: "/definitions/re-examination.html"
 body: An examlnatlon of a witness after a cross-examination, upon matters arising
   out of such cross-examination. See Examination

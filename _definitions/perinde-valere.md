@@ -1,5 +1,6 @@
 ---
 title: Perinde Valere
+letter: P
 permalink: "/definitions/perinde-valere.html"
 body: A dispensation granted to a clerk, who, being defective in capacity for a benefice
   or other ecclesiastical function, is de facto admitted to it. CoweU

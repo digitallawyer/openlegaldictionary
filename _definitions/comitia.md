@@ -1,5 +1,6 @@
 ---
 title: Comitia
+letter: C
 permalink: "/definitions/comitia.html"
 body: In Roman law. An assembly, either (1) of the Roman curlse, in which case it
   was called the "eomitia curiata vel calata;” or (2) of the Roman centuries, In which

@@ -1,5 +1,6 @@
 ---
 title: Censarh
+letter: C
 permalink: "/definitions/censarh.html"
 body: In old Engllsh law. Farmers, or such persons as were liable to pay a census,
   (tax.) Blount; Cowell

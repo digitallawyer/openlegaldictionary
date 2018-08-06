@@ -1,5 +1,6 @@
 ---
 title: Trust
+letter: T
 permalink: "/definitions/trust.html"
 body: 1. An equltable or beneficial right or title to land or other property, held
   for the beneficiary by another person, in whom resides the legal title or ownership,

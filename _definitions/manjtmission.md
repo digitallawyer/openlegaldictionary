@@ -1,5 +1,6 @@
 ---
 title: Manjtmission
+letter: M
 permalink: "/definitions/manjtmission.html"
 body: The act of liberating a slave from bondage and givlng him free-dom. in a wider
   sense, releasing or deliv-ering one person from the power or control of another.

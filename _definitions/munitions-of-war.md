@@ -1,5 +1,6 @@
 ---
 title: Munitions Of War
+letter: M
 permalink: "/definitions/munitions-of-war.html"
 body: In interua-tlonal law and United States statutes, this tenn Includes not only
   ordnance, ammunl-tion, and other material directly useful lo the conduct of a war,

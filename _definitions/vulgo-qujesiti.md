@@ -1,5 +1,6 @@
 ---
 title: Vulgo Qujesiti
+letter: V
 permalink: "/definitions/vulgo-qujesiti.html"
 body: Lat in the civil law. Spurious children; literally, gotten from the people;
   the offspring.of promiscuous cohabitation, wbo are considered as having no father.

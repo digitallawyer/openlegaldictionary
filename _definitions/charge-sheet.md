@@ -1,5 +1,6 @@
 ---
 title: Charge-Sheet
+letter: C
 permalink: "/definitions/charge-sheet.html"
 body: A paper kept at a police-station to receive each night the names of tbe persons
   brought and given into cus-tody, the nature of the accusation, and the name of the

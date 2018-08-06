@@ -1,5 +1,6 @@
 ---
 title: Alcoholism
+letter: A
 permalink: "/definitions/alcoholism.html"
 body: In medical jurispru-dence. The pathological efTect (as distin-guished from physiological
   effect) of excessive indulgence in intoxicating liquors. It is acute when induced

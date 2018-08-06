@@ -1,5 +1,6 @@
 ---
 title: Abjudicatio
+letter: A
 permalink: "/definitions/abjudicatio.html"
 body: IO. In old English law. The depriving of a thing by the judgment of a court;
   a putting out of court; the same as forisjudicatio, forjudgment, forjudger. Co.

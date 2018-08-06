@@ -1,5 +1,6 @@
 ---
 title: Confinement
+letter: C
 permalink: "/definitions/confinement.html"
 body: Confinement may be by either a moral or a physical restraint, by threats of
   violence with a present force, or by physical restraint of the person. U. S. v.

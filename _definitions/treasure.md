@@ -1,5 +1,6 @@
 ---
 title: Treasure
+letter: T
 permalink: "/definitions/treasure.html"
 body: A treasure is a tblug hid-deu or buried in the earth, on which no one can prove’
   his property, and which is disco v-ered by chance. Civil Code La. art 3423, par.

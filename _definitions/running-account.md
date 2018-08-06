@@ -1,5 +1,6 @@
 ---
 title: Running Account
+letter: R
 permalink: "/definitions/running-account.html"
 body: An open unset* tied account, as distinguished from a stated and liquidated account
   “Running accounts mean mutual accounts and reciprocal de-mands between the parties,

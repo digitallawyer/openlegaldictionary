@@ -1,5 +1,6 @@
 ---
 title: Chapter
+letter: C
 permalink: "/definitions/chapter.html"
 body: In ecclesiastical law. A congregation' of ecclesiastical persons in a cathedral
   church, consisting of canons, or* prebendaries, whereof the dean is the head, all

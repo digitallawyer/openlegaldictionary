@@ -1,5 +1,6 @@
 ---
 title: Apanage
+letter: A
 permalink: "/definitions/apanage.html"
 body: In old French law. A provision of lands or feudal superlorlties as-signed by
   the kings of France for the maln-tenance of their younger sons. An allow-ance assigned

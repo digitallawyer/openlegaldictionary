@@ -1,5 +1,6 @@
 ---
 title: Obedience
+letter: O
 permalink: "/definitions/obedience.html"
 body: Compliance with a command, prohibition, or known law and rule of duty prescribed;
   tbe performance of what is required or enjoined by authority, or the abstaining

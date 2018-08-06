@@ -1,5 +1,6 @@
 ---
 title: Gisle
+letter: G
 permalink: "/definitions/gisle.html"
 body: In Saxon law. A pledge. Fred-gisle, a pledge of peace. Qislebert, an lllus-trious
   pledge

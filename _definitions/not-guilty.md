@@ -1,5 +1,6 @@
 ---
 title: Not Guilty
+letter: N
 permalink: "/definitions/not-guilty.html"
 body: A plea of the general Issue in the actions of trespass and case and in criminal
   prosecutions

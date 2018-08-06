@@ -1,5 +1,6 @@
 ---
 title: Gutter
+letter: G
 permalink: "/definitions/gutter.html"
 body: The dlmlnudve of a sewer. Callis, Sew. (80,) 100. In modern law, an open ditch
   or conduit designed to allow the passage of water from one point to another in a

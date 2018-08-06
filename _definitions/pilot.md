@@ -1,5 +1,6 @@
 ---
 title: Pilot
+letter: P
 permalink: "/definitions/pilot.html"
 body: A particular oflicer serving on board a ship during the course of a voyage,
   and having the charge of the helm and the ship’s route; or a person taken on board

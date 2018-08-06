@@ -1,5 +1,6 @@
 ---
 title: Dulocracy
+letter: D
 permalink: "/definitions/dulocracy.html"
 body: A government where servants and slaves have so much license and privilege that
   they domineer, wharton

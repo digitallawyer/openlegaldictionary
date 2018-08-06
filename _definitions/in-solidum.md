@@ -1,5 +1,6 @@
 ---
 title: In Solidum
+letter: I
 permalink: "/definitions/in-solidum.html"
 body: For the whole. Si plures sint fldejussores, quotquot crunt nu-mero, singuli
   in solidum tcnentur, If there

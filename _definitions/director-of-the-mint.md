@@ -1,5 +1,6 @@
 ---
 title: Director Of The Mint
+letter: D
 permalink: "/definitions/director-of-the-mint.html"
 body: An officer havlng the control, management, and superintendence of the Unlted
   States mlnt and lts branches. He is appointed by the president, by and with the

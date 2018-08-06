@@ -1,5 +1,6 @@
 ---
 title: Emendals
+letter: E
 permalink: "/definitions/emendals.html"
 body: An old word still made use of in the accounts of the society of the Inner Temple,
   where so much in emendals at the foot of an account on the balance thereof signifies

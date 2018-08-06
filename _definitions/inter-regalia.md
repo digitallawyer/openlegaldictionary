@@ -1,5 +1,6 @@
 ---
 title: Inter Regalia
+letter: I
 permalink: "/definitions/inter-regalia.html"
 body: In English law. Among the things belonging to the sovereign. Among these are
   rights of salmon fishing, mines of gold and silver, forests, forfeitures, casualties

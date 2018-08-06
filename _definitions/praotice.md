@@ -1,5 +1,6 @@
 ---
 title: Praotice
+letter: P
 permalink: "/definitions/praotice.html"
 body: The form or mode of pro-ceeding in courts of justice for the enforce-ment of
   rights or the redress of wrongs, as distinguished from the substantive law which

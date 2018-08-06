@@ -1,5 +1,6 @@
 ---
 title: Laudare
+letter: L
 permalink: "/definitions/laudare.html"
 body: Lat. In the civil law. To name; to clte or quote; to show one’s title or authority.
   Calvin

@@ -1,5 +1,6 @@
 ---
 title: Quire Op Dover
+letter: Q
 permalink: "/definitions/quire-op-dover.html"
 body: In English law. A record in the exchequer, showing the ten-ures for guarding
   and repairing Dover Cas-tle, and determining the services of the Ctnque Ports. 3

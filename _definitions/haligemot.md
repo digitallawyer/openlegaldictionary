@@ -1,5 +1,6 @@
 ---
 title: Haligemot
+letter: H
 permalink: "/definitions/haligemot.html"
 body: In Saxon law. The meeting of a ball, (conventus aulce,) that is, a lord’s court;
   a court of a manor, or court-baron. Spelman. So called from the hall, where the

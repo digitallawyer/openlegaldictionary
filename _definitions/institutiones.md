@@ -1,5 +1,6 @@
 ---
 title: Institutiones
+letter: I
 permalink: "/definitions/institutiones.html"
 body: Lat Works contaln-lng the elements of any science; institutions or institutes,
   one of Justinian's principal law collections, and a similar work of the Roman jurist

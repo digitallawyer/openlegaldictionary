@@ -1,5 +1,6 @@
 ---
 title: Inauguration
+letter: I
 permalink: "/definitions/inauguration.html"
 body: The act of install-lng or inducting into office with formal cere-monlee, as
   the coronation of a soverelgn, the inauguration of a presldent or governor, or the

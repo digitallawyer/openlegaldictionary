@@ -1,5 +1,6 @@
 ---
 title: Aumone, Service In
+letter: A
 permalink: "/definitions/aumone-service-in.html"
 body: where lands are given in alms to some church or reli-glous house, upon condition
   that a service or prayers shall be offered at certaiu times for the repose of the

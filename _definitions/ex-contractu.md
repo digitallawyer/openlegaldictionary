@@ -1,5 +1,6 @@
 ---
 title: Ex Contractu
+letter: E
 permalink: "/definitions/ex-contractu.html"
 body: From or out of a contract In both the civil and the common law, rlghts and causes
   of actlon are divided Into tvfro classes,—those arising ex contractu, (from a contract,)

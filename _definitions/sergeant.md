@@ -1,5 +1,6 @@
 ---
 title: Sergeant
+letter: S
 permalink: "/definitions/sergeant.html"
 body: In military law. A non-commissioned officer, of whom there are several In each
   company of lnfantry, troop of cavalry, etc. The term is also used in the organization

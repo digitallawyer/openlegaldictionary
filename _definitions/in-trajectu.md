@@ -1,5 +1,6 @@
 ---
 title: In Trajectu
+letter: I
 permalink: "/definitions/in-trajectu.html"
 body: In the passage over; on the voyage over. See Sir william Scott, 3 C. Rob. Adm.
   141

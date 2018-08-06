@@ -1,5 +1,6 @@
 ---
 title: Meander
+letter: M
 permalink: "/definitions/meander.html"
 body: To meander means to follow a wlndlng or fiexuous course; and when it is said,
   in a description of land, “thence with the meander of the river,” it must mean a

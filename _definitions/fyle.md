@@ -1,5 +1,6 @@
 ---
 title: Fyle
+letter: F
 permalink: "/definitions/fyle.html"
 body: In old Scotch law. To defile; to declare foul or defiled. Hence, to find a prisoner
   guilty

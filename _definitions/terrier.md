@@ -1,5 +1,6 @@
 ---
 title: Terrier
+letter: T
 permalink: "/definitions/terrier.html"
 body: In English law. A land-roll or survey of lands, containing the quan-tity of
   acres, tenants’ names, and such like; and in the exchequer there is a terrier of

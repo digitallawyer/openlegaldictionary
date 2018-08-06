@@ -1,5 +1,6 @@
 ---
 title: Laudemium
+letter: L
 permalink: "/definitions/laudemium.html"
 body: Lat in the clvll law. a sum paid by a new emphytcuta (q. v.) who acquires the
   emphyteusis, not as helr, but as a singular successor, whether by glft, devise,

@@ -1,5 +1,6 @@
 ---
 title: Year
+letter: Y
 permalink: "/definitions/year.html"
 body: The period in which the revolu-tion of the earth round the sun, and the ac-companying
   changes in the order of nature, are completed. Generally, when a statute si>eaks

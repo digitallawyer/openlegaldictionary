@@ -1,5 +1,6 @@
 ---
 title: Jus Papirianum
+letter: J
 permalink: "/definitions/jus-papirianum.html"
 body: The civU law of Paplrius. The title of the earliest collec-tion of Roman leges
   curiata, said to have been made in the tlme of Tarquln, the last of the kings, by

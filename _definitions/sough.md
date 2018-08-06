@@ -1,5 +1,6 @@
 ---
 title: Sough
+letter: S
 permalink: "/definitions/sough.html"
 body: In Engllsh law. A drain or water-course. The channels or water-courses used
   for draining mines are so termed; and those mines which are near to any given sough,

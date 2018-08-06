@@ -1,5 +1,6 @@
 ---
 title: De Quota Litis
+letter: D
 permalink: "/definitions/de-quota-litis.html"
 body: In the civU law. A contract by whlch one who has a claim difficult to recover
   agrees wlth another to give a part, for the purpose of obtaining hls services to

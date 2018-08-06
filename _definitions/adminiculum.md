@@ -1,5 +1,6 @@
 ---
 title: Adminiculum
+letter: A
 permalink: "/definitions/adminiculum.html"
 body: Lat. An adminicle; a prop or support; an accessory thing. An aid or support
   to something else, whether a right or the evidence of one. It is principally used

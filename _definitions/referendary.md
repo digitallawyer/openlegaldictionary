@@ -1,5 +1,6 @@
 ---
 title: Referendary
+letter: R
 permalink: "/definitions/referendary.html"
 body: In Saxon law. A master of requests; an officer to whom petitions to the king
   were referred. Spelman

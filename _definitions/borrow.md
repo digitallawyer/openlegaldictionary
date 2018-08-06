@@ -1,5 +1,6 @@
 ---
 title: Borrow
+letter: B
 permalink: "/definitions/borrow.html"
 body: To solicit and receive from another any article of property or thing of value
   with the intention and promise to re-pay or return it or its equivalent. Strictly

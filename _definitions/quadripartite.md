@@ -1,5 +1,6 @@
 ---
 title: Quadripartite
+letter: Q
 permalink: "/definitions/quadripartite.html"
 body: Divided into four parts. A term applied.in conveyancing to an indenture executed
   in four parts

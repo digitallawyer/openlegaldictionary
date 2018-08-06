@@ -1,5 +1,6 @@
 ---
 title: Concurrent
+letter: C
 permalink: "/definitions/concurrent.html"
 body: Having the same au-thority; acting in conjunction; agreeing in the same act;
   contributing to the same event; contemporaneous

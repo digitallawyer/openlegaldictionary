@@ -1,5 +1,6 @@
 ---
 title: Khalsa
+letter: K
 permalink: "/definitions/khalsa.html"
 body: In Hindu law. Au office of goverumeut in which the business of the reveuue department
   was transacted under the Mohammedan government, and during the early period of British

@@ -1,5 +1,6 @@
 ---
 title: Licenciado
+letter: L
 permalink: "/definitions/licenciado.html"
 body: In Spanish law. An at-torney or advocate; particularly, a person admitted to
   the degree of “Licentiate in Ju-rlsprndence” by any of the literary universi-tles

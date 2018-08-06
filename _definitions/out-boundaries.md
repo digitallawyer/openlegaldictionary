@@ -1,5 +1,6 @@
 ---
 title: Out-Boundaries
+letter: O
 permalink: "/definitions/out-boundaries.html"
 body: A term used in early Mexican land laws to designate certain boundaries within
   which grants of a smaller tract, which designated such ont-boundaries, might be

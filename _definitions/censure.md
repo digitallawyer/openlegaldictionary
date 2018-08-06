@@ -1,5 +1,6 @@
 ---
 title: Censure
+letter: C
 permalink: "/definitions/censure.html"
 body: In ecclesiastical law. A spiritual punishment, consisting in withdraw-ing from
   a baptized person (whether be-longing to the clergy or the laity) a privilege which

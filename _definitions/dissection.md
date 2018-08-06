@@ -1,5 +1,6 @@
 ---
 title: Dissection
+letter: D
 permalink: "/definitions/dissection.html"
 body: The anatomical examination of a dead body by cutting into pieces or exscinding
   one or more parts or organs, wehle v. Accident Ass’n, 11 Misc. Rep. 36, 61 N. Y.

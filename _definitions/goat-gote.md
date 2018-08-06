@@ -1,5 +1,6 @@
 ---
 title: Goat, Gote
+letter: G
 permalink: "/definitions/goat-gote.html"
 body: In old English law. A contrivance or structure for draining waters out of the
   land into the sea. Callis describee goats as “usual engines erected and built with

@@ -1,5 +1,6 @@
 ---
 title: Loquela
+letter: L
 permalink: "/definitions/loquela.html"
 body: Lat. A colloquy; talk. In old Engllsh law, this term denoted the oral altercations
   of the parties to a suit, which led to the issue, now called the “pleadings.” It

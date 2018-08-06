@@ -1,5 +1,6 @@
 ---
 title: Garden
+letter: G
 permalink: "/definitions/garden.html"
 body: A small piece of land, appropriated to the cultivation of herbs, fruits, flowers,
   or vegetables. People v. Greeuburgh. 57 N. Y. 550; Ferry v. Livingston, 115 U. S.

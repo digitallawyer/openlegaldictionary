@@ -1,5 +1,6 @@
 ---
 title: Plaza
+letter: P
 permalink: "/definitions/plaza.html"
 body: A Spanish word, meaning a ' public square in a city or town. Sachs v. Towanda,
   79 IU. App. 441

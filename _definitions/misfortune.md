@@ -1,5 +1,6 @@
 ---
 title: Misfortune
+letter: M
 permalink: "/definitions/misfortune.html"
 body: An adverse event, ca-lam ity, or evil fortune, arising by accident, (or without
   the will or concurrence of him who suffers from it,) and not to be foreseen or guarded

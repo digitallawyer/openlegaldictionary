@@ -1,5 +1,6 @@
 ---
 title: Customs
+letter: C
 permalink: "/definitions/customs.html"
 body: This term is usually applied to those taxes which are payable upon goods and
   merchandise imported or exported. Story, Const. | 949; Pollock v. Trust Co., 158

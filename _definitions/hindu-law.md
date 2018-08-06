@@ -1,5 +1,6 @@
 ---
 title: Hindu Law
+letter: H
 permalink: "/definitions/hindu-law.html"
 body: The system of native law prevailing among the Gentoos, nnd admlnis-tered by
   the government of British Indla

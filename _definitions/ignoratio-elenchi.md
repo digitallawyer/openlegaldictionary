@@ -1,5 +1,6 @@
 ---
 title: Ignoratio Elenchi
+letter: I
 permalink: "/definitions/ignoratio-elenchi.html"
 body: Lat. A term of logic, sometimes applied to pleadings and to arguments on appeal,
   which signifies a mistake of the question, that is, the mistake of one who, failing

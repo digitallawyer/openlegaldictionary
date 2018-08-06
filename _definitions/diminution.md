@@ -1,5 +1,6 @@
 ---
 title: Diminution
+letter: D
 permalink: "/definitions/diminution.html"
 body: Incompleteness. A word signifying that the record sent up from an inferior to
   a superior court for review is in-complete, or not fully certified. In such case

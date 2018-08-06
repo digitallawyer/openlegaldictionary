@@ -1,5 +1,6 @@
 ---
 title: In Solido
+letter: I
 permalink: "/definitions/in-solido.html"
 body: In the civil law. For the whole; as a whole. An obligatlon in solido is one
   where each of the several obligors is liable for the whole; that is, it is joint

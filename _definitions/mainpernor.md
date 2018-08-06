@@ -1,5 +1,6 @@
 ---
 title: Mainpernor
+letter: M
 permalink: "/definitions/mainpernor.html"
 body: In old practlce. A surety for the appearance of a person under arrest, who is
   delivered out of custody Into the hands of his ball. “Mainpernors” dif-fer from

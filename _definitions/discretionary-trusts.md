@@ -1,5 +1,6 @@
 ---
 title: Discretionary Trusts
+letter: D
 permalink: "/definitions/discretionary-trusts.html"
 body: Snch as are not marked out on fixed lines, but allow a certain amount of discretion
   in their exercise. Those which cannot be duly admin-lstered without the application

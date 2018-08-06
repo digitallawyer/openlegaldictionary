@@ -1,5 +1,6 @@
 ---
 title: Merum
+letter: M
 permalink: "/definitions/merum.html"
 body: In old English law. Mere; naked or abstract. Mcrum jus, mere right. Bract fol.
   31

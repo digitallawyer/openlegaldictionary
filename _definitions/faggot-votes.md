@@ -1,5 +1,6 @@
 ---
 title: Faggot Votes
+letter: F
 permalink: "/definitions/faggot-votes.html"
 body: A faggot vote is where a man is formally possessed of a right to vote for members
   of parliament, without possessing the substauce which the vote should represent;

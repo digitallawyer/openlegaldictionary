@@ -1,5 +1,6 @@
 ---
 title: Antrustio
+letter: A
 permalink: "/definitions/antrustio.html"
 body: In early feudal law. A confidential vassal. A term applied to the followers
   or dependents of the ancient Ger-man chiefs, and of the kings and counts of the

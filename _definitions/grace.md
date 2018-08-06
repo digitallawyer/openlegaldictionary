@@ -1,5 +1,6 @@
 ---
 title: Grace
+letter: G
 permalink: "/definitions/grace.html"
 body: This word is commonly used in contradistinction to “right” Thus, in SL 22 Edw.
   III., the lord chancellor was instructed to take cognizance of matters of grace,

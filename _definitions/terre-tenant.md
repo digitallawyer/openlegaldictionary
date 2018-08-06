@@ -1,5 +1,6 @@
 ---
 title: Terre-Tenant
+letter: T
 permalink: "/definitions/terre-tenant.html"
 body: He who is Uterally in the occupation or possession of the land, as distinguished
   from the owner out of pos-sessiou. But, in a more technical sense, the person who

@@ -1,5 +1,6 @@
 ---
 title: Dangeria
+letter: D
 permalink: "/definitions/dangeria.html"
 body: In old English law. 4 money payment made by forest-tenants, that they might
   have liberty to plow nud sow in time of pannage, or mast feeding

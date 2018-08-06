@@ -1,5 +1,6 @@
 ---
 title: Abpatruus
+letter: A
 permalink: "/definitions/abpatruus.html"
 body: Lat. In the civil law. A great-great-grandfather's brother, (abavi frater.)
   Inst 3; 6, 6; Dig. 38, 10, 3. Called patruus maximus. Id. 38, 10, 10, 17. Called,

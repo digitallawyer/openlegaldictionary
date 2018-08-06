@@ -1,5 +1,6 @@
 ---
 title: Capture
+letter: C
 permalink: "/definitions/capture.html"
 body: In international law. Tbe taking or wresting of property from one of two belligerents
   by the other. It occurs either on land or at sea. In the former case, the property

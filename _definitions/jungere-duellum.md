@@ -1,5 +1,6 @@
 ---
 title: Jungere Duellum
+letter: J
 permalink: "/definitions/jungere-duellum.html"
 body: In old English law. To join the duellum; to engage in the combat Fleta, lib.
   1, c. 21, |10

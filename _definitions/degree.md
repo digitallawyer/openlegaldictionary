@@ -1,5 +1,6 @@
 ---
 title: Degree
+letter: D
 permalink: "/definitions/degree.html"
 body: In practice. The judgment of a court of equity or admiralty, answering to the
   judgment of a court of common law. A decree in equity is a sentence or order of

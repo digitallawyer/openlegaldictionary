@@ -1,5 +1,6 @@
 ---
 title: Inchoate
+letter: I
 permalink: "/definitions/inchoate.html"
 body: Imperfect; unfinished; be-gun, but not completed; as a contract not executed
   by all the parties

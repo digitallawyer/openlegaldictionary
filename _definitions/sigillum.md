@@ -1,5 +1,6 @@
 ---
 title: Sigillum
+letter: S
 permalink: "/definitions/sigillum.html"
 body: Lat in old English law. A seal; originally and properly a seal Impressed upon
   wax

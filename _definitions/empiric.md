@@ -1,5 +1,6 @@
 ---
 title: Empiric
+letter: E
 permalink: "/definitions/empiric.html"
 body: A practitioner in mediciue or surgery, who proceeds on experience' only, without
   science or legal qualification; a quack. Nelson v. State Board of Health, 108 Ky.

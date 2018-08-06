@@ -1,5 +1,6 @@
 ---
 title: Solemn
+letter: S
 permalink: "/definitions/solemn.html"
 body: Formal; in regular form; wlth all the forms of a proceedlng. As to solemn “Form,"
   see Pbobate. As to solemn “oath” and “war,” see the nouns

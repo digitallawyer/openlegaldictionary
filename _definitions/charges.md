@@ -1,5 +1,6 @@
 ---
 title: Charges
+letter: C
 permalink: "/definitions/charges.html"
 body: The expenses which have been incurred, or disbursements made, in connection
   with a contract, suit, or business transaction. Spoken of an action, it is said

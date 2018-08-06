@@ -1,5 +1,6 @@
 ---
 title: Leguleius
+letter: L
 permalink: "/definitions/leguleius.html"
 body: A person skilled in law, (in legibus versatus;) one versed in the forms of iaw.
   Calvin

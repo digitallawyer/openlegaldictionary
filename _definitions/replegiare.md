@@ -1,5 +1,6 @@
 ---
 title: Replegiare
+letter: R
 permalink: "/definitions/replegiare.html"
 body: To replevy; to redeem a thing detained or taken hy another by pat-ting in legal
   sureties

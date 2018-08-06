@@ -1,5 +1,6 @@
 ---
 title: Guarantee
+letter: G
 permalink: "/definitions/guarantee.html"
 body: He to whom a guaran-ty is made. This word is also used, as a noun, to denote
   the contract of guaranty or the obligation of a guarantor, and, as a verb, to denote

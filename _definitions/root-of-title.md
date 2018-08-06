@@ -1,5 +1,6 @@
 ---
 title: Root Of Title
+letter: R
 permalink: "/definitions/root-of-title.html"
 body: The document with which an abstract of title properly commen-ces is called the
   “root” of the title. Sweet

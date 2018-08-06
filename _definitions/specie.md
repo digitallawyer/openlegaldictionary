@@ -1,5 +1,6 @@
 ---
 title: Specie
+letter: S
 permalink: "/definitions/specie.html"
 body: 1. Coin of the precious met-als, of a certain weight and fineness, and bearing
   the stamp of the government, de-noting its value as currency. Trebilcock ▼. wilson,

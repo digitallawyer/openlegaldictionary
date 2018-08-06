@@ -1,5 +1,6 @@
 ---
 title: Judgment
+letter: J
 permalink: "/definitions/judgment.html"
 body: The official and authentic decision of a court of justice upon the respective
   rights nnd claims of the parties to an action or suit therein litigated and sub-mltted

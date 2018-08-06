@@ -1,5 +1,6 @@
 ---
 title: Viable
+letter: V
 permalink: "/definitions/viable.html"
 body: Capable of llfe. This term is . applied to a newly-born lnfant, and especlally
   to one prematurely born, whlch is not only born alive, but in such a state of organic

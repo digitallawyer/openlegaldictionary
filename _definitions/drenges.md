@@ -1,5 +1,6 @@
 ---
 title: Drenges
+letter: D
 permalink: "/definitions/drenges.html"
 body: S, or DRENGES. In Saxon, law. Tenants in capite. They are said to; be such as,
   at the coming of william the Conqueror, being put out of their estates, were afterwards

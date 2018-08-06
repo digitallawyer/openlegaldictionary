@@ -1,5 +1,6 @@
 ---
 title: Apocha
+letter: A
 permalink: "/definitions/apocha.html"
 body: 'Lat. In the civil law. A writing acknowledging payments; acquit-tance. It differs
   front acceptilation in this: that acceptilation Imports a complete dis-charge of

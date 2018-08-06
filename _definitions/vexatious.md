@@ -1,5 +1,6 @@
 ---
 title: Vexatious
+letter: V
 permalink: "/definitions/vexatious.html"
 body: A proceeding is said to be vexatious when the party bringing it is not acting
   bona fide, and merely wishes to annoy or embarrass bis opponent, or when it is not

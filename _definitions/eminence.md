@@ -1,5 +1,6 @@
 ---
 title: Eminence
+letter: E
 permalink: "/definitions/eminence.html"
 body: An honorary title given to cardinals. They were called “illustrissimi” and "reverendissimi”
   until the pontificate of Urban VIIL

@@ -1,5 +1,6 @@
 ---
 title: Homonymie
+letter: H
 permalink: "/definitions/homonymie.html"
 body: A term applied in the civU law to cases where a law was repeated, or laid down
   in the same terms or to the Bame effect, more than once. Cases of Iter* ation and

@@ -1,5 +1,6 @@
 ---
 title: Sylva Cadua
+letter: S
 permalink: "/definitions/sylva-cadua.html"
 body: Lat. In ecclesiastical law. wood of any klnd whlch was kept on purpose to be
   cut, and which, being cut, grew again from the stump or root Lynd. Prov. 190; 4

@@ -1,5 +1,6 @@
 ---
 title: Casualty
+letter: C
 permalink: "/definitions/casualty.html"
 body: Inevitable accldent; an event not to be foreseen or guarded against A loss from
   such an event or cause; as by fire, shipwreck, lightning, etc. Story, Bailm. $ 240;

@@ -1,5 +1,6 @@
 ---
 title: Burying-Ground
+letter: B
 permalink: "/definitions/burying-ground.html"
 body: A place set apart for the Interment of the dead; a cemetery. Appeal Tax Court
   v. Academy, 50 Md. 353

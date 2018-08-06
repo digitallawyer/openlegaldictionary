@@ -1,5 +1,6 @@
 ---
 title: Prefer
+letter: P
 permalink: "/definitions/prefer.html"
 body: To bring before; to prosecute; to try; to proceed with. Thus, pre-ferring an
   indictment signifies prosecuting or trying an indictment

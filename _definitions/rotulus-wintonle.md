@@ -1,5 +1,6 @@
 ---
 title: Rotulus Wintonle
+letter: R
 permalink: "/definitions/rotulus-wintonle.html"
 body: The roll of Winton. An exact survey of all England, made by Alfred,’ not unlike
   that of Domes-day; and it was so called because it was kept at winchester, among

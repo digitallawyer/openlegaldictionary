@@ -1,5 +1,6 @@
 ---
 title: Compensation
+letter: C
 permalink: "/definitions/compensation.html"
 body: Indemnification; pay-ment of damages; making amends; that which is necessary
   to restore an injured par-ty to his former position. An act which a court orders

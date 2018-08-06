@@ -1,5 +1,6 @@
 ---
 title: Alleviare
+letter: A
 permalink: "/definitions/alleviare.html"
 body: L. Lat. In old records. To levy or pay an accustomed fine or compo-sition; to
   redeem by such payment. Cowell

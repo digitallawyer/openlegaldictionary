@@ -1,5 +1,6 @@
 ---
 title: Courts Of Request
+letter: C
 permalink: "/definitions/courts-of-request.html"
 body: Inferior courts, in England, having local jurisdic-tion in claims for small
   debts, established in various parts of the kingdom by special acts of parliament.

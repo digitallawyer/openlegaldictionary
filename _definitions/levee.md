@@ -1,5 +1,6 @@
 ---
 title: Levee
+letter: L
 permalink: "/definitions/levee.html"
 body: An embankment or artificial mound of earth constructed along the mar-gin of
   a river, to confine tbe stream to its natural channel or prevent Inundation or overflow.

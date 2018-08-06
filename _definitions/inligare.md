@@ -1,5 +1,6 @@
 ---
 title: Inligare
+letter: I
 permalink: "/definitions/inligare.html"
 body: In old European law. To confederate; to joln in a league, (in ligam coire.)
   Spelman

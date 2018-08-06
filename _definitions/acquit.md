@@ -1,5 +1,6 @@
 ---
 title: Acquit
+letter: A
 permalink: "/definitions/acquit.html"
 body: To release, absolve, or dis-charge one from an obligation or a liability; or
   to legally certify the lnnocence of one charged with crime. Dolloway v. Turrill,

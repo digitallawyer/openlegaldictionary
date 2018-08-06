@@ -1,5 +1,6 @@
 ---
 title: Regality
+letter: R
 permalink: "/definitions/regality.html"
 body: A territorial Jurisdiction in Scotland conferred by the crown. The lands were
   sald to be given in liberam regali-tatem, and the persons receiving the right were

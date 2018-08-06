@@ -1,5 +1,6 @@
 ---
 title: Que Estate
+letter: Q
 permalink: "/definitions/que-estate.html"
 body: L. Fr. whose estate. A term used in pleading, particularly in claiming prescrlptlon,
   by whlch it is alleged that the plalntlff and those former owners whose estate he

@@ -1,5 +1,6 @@
 ---
 title: Indorsement
+letter: I
 permalink: "/definitions/indorsement.html"
 body: The act of a payee, drawee, accommodation Indorser, or holder . of a bill, note,
   check, or other negotiable to-strnment, in writing his name upon the back of the

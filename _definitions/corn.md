@@ -1,5 +1,6 @@
 ---
 title: Corn
+letter: C
 permalink: "/definitions/corn.html"
 body: In English law, a general term for any sort of grain; but in America it is properly
   applied only to maize. Sullins v. State, 53 Ala. 476; Kerrick v. Van Dusen, 32 Minn.

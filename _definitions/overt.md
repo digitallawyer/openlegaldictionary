@@ -1,5 +1,6 @@
 ---
 title: Overt
+letter: O
 permalink: "/definitions/overt.html"
 body: open; manifest; public; issu-ing in action, as distinguished from that which
   rests merely in intention or design

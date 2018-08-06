@@ -1,5 +1,6 @@
 ---
 title: Laity
+letter: L
 permalink: "/definitions/laity.html"
 body: 'In English law. Those persons who do not inuke a part of the clergy. They are
   divided into three states: (1) Civil, in-cluding all the nation, except the clergy,

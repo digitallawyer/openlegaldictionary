@@ -1,5 +1,6 @@
 ---
 title: Attorney
+letter: A
 permalink: "/definitions/attorney.html"
 body: In the most general sense this term denotes an agent or substitute, or one who
   is appointed and authorized to act In the place or stead of another. In re Ricker,

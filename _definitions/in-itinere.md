@@ -1,5 +1,6 @@
 ---
 title: In Itinere
+letter: I
 permalink: "/definitions/in-itinere.html"
 body: In eyre; on a journey or circuit. In old English law, the justices in itinere
   (or in eyre) were those who made a circuit through the kingdom once in seven years

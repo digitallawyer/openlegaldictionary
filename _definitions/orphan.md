@@ -1,5 +1,6 @@
 ---
 title: Orphan
+letter: O
 permalink: "/definitions/orphan.html"
 body: Any person (but particularly a minor or infant) who has lost both (or one) of
   his or her parents. More particular-ly, a fatherless child. Soohan v. Philadelphia,

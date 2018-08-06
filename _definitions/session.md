@@ -1,5 +1,6 @@
 ---
 title: Session
+letter: S
 permalink: "/definitions/session.html"
 body: The sitting of a court, legis-lature, council, commission, etc., for the transaction
   of its proper business. Hence, the period of time, within any one day, during which

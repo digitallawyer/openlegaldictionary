@@ -1,5 +1,6 @@
 ---
 title: Inclosure
+letter: I
 permalink: "/definitions/inclosure.html"
 body: In English law. Inclos-ure is the act of freeing land from rights of common,
   commonable rights, and generally all rights which obstruct cultivation and the productive

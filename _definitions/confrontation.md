@@ -1,5 +1,6 @@
 ---
 title: Confrontation
+letter: C
 permalink: "/definitions/confrontation.html"
 body: In criminal law. the act of setting a witness face to face with the prisoner,
   In order that the latter may make any objection he has to the witness, or that the

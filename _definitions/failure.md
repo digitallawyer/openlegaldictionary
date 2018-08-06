@@ -1,5 +1,6 @@
 ---
 title: Failure
+letter: F
 permalink: "/definitions/failure.html"
 body: In a general sense, deficiency, want, or lack; ineffectualness; inefficiency
   as measured by some legal standard; an un-successful attempt, white v. Pettijohn,

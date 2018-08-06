@@ -1,5 +1,6 @@
 ---
 title: Regale
+letter: R
 permalink: "/definitions/regale.html"
 body: In old French law. A payment made to the seigneur of a fief, on the election
   of every bishop or other ecclesiastical feudatory, corresponding with the relief

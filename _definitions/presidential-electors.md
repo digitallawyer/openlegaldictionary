@@ -1,5 +1,6 @@
 ---
 title: Presidential Electors
+letter: P
 permalink: "/definitions/presidential-electors.html"
 body: A body of electors chosen in the different states, whose sole duty It is to
   elect a presldent and vice-president of the United States. Each state appoints,

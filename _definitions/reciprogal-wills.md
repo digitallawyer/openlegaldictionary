@@ -1,5 +1,6 @@
 ---
 title: Reciprogal Wills
+letter: R
 permalink: "/definitions/reciprogal-wills.html"
 body: wills made by two or more persons in which they make reciprocal testamentary
   provlslons in favor of each other, whether they unite in one will or each executes

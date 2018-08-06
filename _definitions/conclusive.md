@@ -1,5 +1,6 @@
 ---
 title: Conclusive
+letter: C
 permalink: "/definitions/conclusive.html"
 body: Shutting np a matter; shutting out all further evidence; not admitting of explanation
   or contradiction; putting an end to inquiry; final; decisive. Hoadley v. Hammond,

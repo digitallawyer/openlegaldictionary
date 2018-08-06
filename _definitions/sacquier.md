@@ -1,5 +1,6 @@
 ---
 title: Sacquier
+letter: S
 permalink: "/definitions/sacquier.html"
 body: In maritime law. The name of an anclent officer, whose business was to load
   and unload vessels laden with salt, corn, or fish, to prevent the ship's crew defrauding

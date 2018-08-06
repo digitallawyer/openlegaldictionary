@@ -1,5 +1,6 @@
 ---
 title: Detinet
+letter: D
 permalink: "/definitions/detinet.html"
 body: Lat. He detains. In old English law. A species of action of debt, which lay
   for the specific recovery of goods, under a contract to deliver them. 1 Reeves,

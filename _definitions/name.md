@@ -1,5 +1,6 @@
 ---
 title: Name
+letter: N
 permalink: "/definitions/name.html"
 body: The designation of an individual person, or of a firm or corporation. In law
   a man cannot have more than one Christian name. Rex v. Newman, 1 Ld. Raym. 562.

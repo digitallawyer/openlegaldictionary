@@ -1,5 +1,6 @@
 ---
 title: Nihil
+letter: N
 permalink: "/definitions/nihil.html"
 body: LaL Nothing, often contracted to “nil” The word staudiug alone is the name of
   an abbreviated form of return to a writ made by a sheriff or constable, the fuller

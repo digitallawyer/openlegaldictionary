@@ -1,5 +1,6 @@
 ---
 title: Locative Calls
+letter: L
 permalink: "/definitions/locative-calls.html"
 body: In a deed, patent, or other instrument containing a description of land, locative
   calls are specific calls, de-scriptlons, or marks of location, referring to landmarks,

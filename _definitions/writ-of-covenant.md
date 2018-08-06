@@ -1,5 +1,6 @@
 ---
 title: Writ Of Covenant
+letter: W
 permalink: "/definitions/writ-of-covenant.html"
 body: A wrlt whlch lles where a party claims damages for breach of covenant; i. e„
   of a promlse under seal

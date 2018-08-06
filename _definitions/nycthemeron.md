@@ -1,5 +1,6 @@
 ---
 title: Nycthemeron
+letter: N
 permalink: "/definitions/nycthemeron.html"
 body: The whole natural day, or day and night, consisting, of twenty-four hours. Enc.
   Lond

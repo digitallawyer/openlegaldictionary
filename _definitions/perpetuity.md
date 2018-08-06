@@ -1,5 +1,6 @@
 ---
 title: Perpetuity
+letter: P
 permalink: "/definitions/perpetuity.html"
 body: A future limitation, whether executory or by way of remainder, and of either
   real or personal property, which is not to vest until after the expiration of or

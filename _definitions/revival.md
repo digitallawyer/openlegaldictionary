@@ -1,5 +1,6 @@
 ---
 title: Revival
+letter: R
 permalink: "/definitions/revival.html"
 body: AL.. The process of renewing the. operatlve force of a judgment which has re-'
   mained dormant or unexecuted for so long', a time that executlon cannot be issued

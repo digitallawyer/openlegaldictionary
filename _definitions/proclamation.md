@@ -1,5 +1,6 @@
 ---
 title: Proclamation
+letter: P
 permalink: "/definitions/proclamation.html"
 body: The act of causing some state matters to be published or made generally known.
   A written or printed doc-ument in which are contained such matters, issued by proper

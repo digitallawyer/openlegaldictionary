@@ -1,5 +1,6 @@
 ---
 title: Do, Dico, Addico
+letter: D
 permalink: "/definitions/do-dico-addico.html"
 body: Lat. I give, 1 say, I adjudge. Three words used in the Roman law, to express
   the ^extent of the civil Juris-diction of the praetor. Do denoted that he gave or

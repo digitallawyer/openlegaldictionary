@@ -1,5 +1,6 @@
 ---
 title: Ex Locato
+letter: E
 permalink: "/definitions/ex-locato.html"
 body: From or out of lease or letting. A term of the civil law, applied to actions
   or rights of action arising out of the contract of locatum, (q. v.) Inst. 4, 6,

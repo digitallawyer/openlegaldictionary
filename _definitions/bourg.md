@@ -1,5 +1,6 @@
 ---
 title: Bourg
+letter: B
 permalink: "/definitions/bourg.html"
 body: In old Frenob law. An assemblage of houses surrounded with walls; a fortified
   town or village

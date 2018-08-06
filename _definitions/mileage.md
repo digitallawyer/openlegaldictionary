@@ -1,5 +1,6 @@
 ---
 title: Mileage
+letter: M
 permalink: "/definitions/mileage.html"
 body: A payment or charge, at a fixed rate per mile, allowed as a compeusa-tlon for
   traveling expenses to members of legislative bodies, witnesses, sheriffs, and bail-iffs.

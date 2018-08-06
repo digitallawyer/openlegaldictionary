@@ -1,5 +1,6 @@
 ---
 title: Curiality
+letter: C
 permalink: "/definitions/curiality.html"
 body: In Scotch law. Curtesy. Also the privileges, prerogatives, or, perhaps, retinue,
   of a court

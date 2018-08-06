@@ -1,5 +1,6 @@
 ---
 title: Battel, Wager Of
+letter: B
 permalink: "/definitions/battel-wager-of.html"
 body: In old English law. A form of trlal anciently used In mlli-tary cases, arising
   in the court of chlvalry and honor, in appeals of felony, in criminal cases, and

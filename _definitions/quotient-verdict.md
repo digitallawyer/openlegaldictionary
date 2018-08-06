@@ -1,5 +1,6 @@
 ---
 title: Quotient Verdict
+letter: Q
 permalink: "/definitions/quotient-verdict.html"
 body: 'A money ver dict the amount of which is fixed hy the following process: Each
   Juror writes down the sum he wishes to award by the verdict; these amounts are all

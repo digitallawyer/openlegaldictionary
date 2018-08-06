@@ -1,5 +1,6 @@
 ---
 title: Non-Sane
+letter: N
 permalink: "/definitions/non-sane.html"
 body: As “sane,” when applied to the mind, means whole, sound, in a bealth-ful state,
   “non-sane" must mean not whole, not sound, not in a healthful state; that is, broken,

@@ -1,5 +1,6 @@
 ---
 title: Dote Assignanda
+letter: D
 permalink: "/definitions/dote-assignanda.html"
 body: A writ which lay for a widow, when it was judicially as-certained that a tenant
   to the king was seised of tenements in fee or fee-tall at the day of his death,

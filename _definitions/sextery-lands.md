@@ -1,5 +1,6 @@
 ---
 title: Sextery Lands
+letter: S
 permalink: "/definitions/sextery-lands.html"
 body: Lands given to a church or religious house for maintenance of a sexton or sacristan,
   Cowell

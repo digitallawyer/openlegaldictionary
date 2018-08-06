@@ -1,5 +1,6 @@
 ---
 title: Pretend
+letter: P
 permalink: "/definitions/pretend.html"
 body: To feign or simulate; to hold that out as real whlch is false or baseless. Brown
   v. Perez (Tex. Civ. App.) 25 S. W. 983; Powell v. Yeazel, 46 Neb. 225, 64 N. W.

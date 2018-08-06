@@ -1,5 +1,6 @@
 ---
 title: Mechanic
+letter: M
 permalink: "/definitions/mechanic.html"
 body: A workman employed in shaping and uniting materials, such as wood, metal, etc.,
   into some kind of structure, machine, or other object, requiring the use of tools.

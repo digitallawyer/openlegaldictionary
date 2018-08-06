@@ -1,5 +1,6 @@
 ---
 title: Cera Impressa
+letter: C
 permalink: "/definitions/cera-impressa.html"
 body: Lat. An Impressed seat It does not necessarily refer to an impression on wax,
   but may Include an impression made on wafers or other adhesive substances capable

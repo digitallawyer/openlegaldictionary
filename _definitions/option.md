@@ -1,5 +1,6 @@
 ---
 title: Option
+letter: O
 permalink: "/definitions/option.html"
 body: In Enclisb ecolcsiastieal law. A customary prerogative of an archi bishop, when
   a bishop is consecrated by him, to name a clerk or chaplain of his own to be provided

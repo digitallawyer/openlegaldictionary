@@ -1,5 +1,6 @@
 ---
 title: De Recto De Rationabili Parte
+letter: D
 permalink: "/definitions/de-recto-de-rationabili-parte.html"
 body: writ of right, of reasonable part A writ which lay between privies in blood,
   as between brothers in gavelkind, or between sisters or other coparceners for lands

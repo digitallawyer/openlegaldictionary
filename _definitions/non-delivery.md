@@ -1,5 +1,6 @@
 ---
 title: Non-Delivery
+letter: N
 permalink: "/definitions/non-delivery.html"
 body: Neglect, failure, or refusal to deliver goods, on the part of a carrier, vendor,
   bailee, etc

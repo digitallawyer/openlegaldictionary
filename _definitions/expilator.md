@@ -1,5 +1,6 @@
 ---
 title: Expilator
+letter: E
 permalink: "/definitions/expilator.html"
 body: In the civil lnw. A robber ; a spoiler or plunderer. Expilutorcs sunt atrociores
   fures. Dig. 47, 18, 1, 1

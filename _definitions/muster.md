@@ -1,5 +1,6 @@
 ---
 title: Muster
+letter: M
 permalink: "/definitions/muster.html"
 body: To assemble together troops and their arms, whether for inspection, drill, or
   service in the field. To take recruits into the service in the army and inscribe

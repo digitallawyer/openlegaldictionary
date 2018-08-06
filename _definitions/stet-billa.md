@@ -1,5 +1,6 @@
 ---
 title: Stet Billa
+letter: S
 permalink: "/definitions/stet-billa.html"
 body: If the plalntlff in a plaint in the mayor’s court of London has attached property
   belonging to the defendant and ob-tained execution against the garnishee, the defendant,

@@ -1,5 +1,6 @@
 ---
 title: Pit And Gallows
+letter: P
 permalink: "/definitions/pit-and-gallows.html"
 body: In Scotch law. A privilege of Inflicting capital punishment for theft, given
   by King Malcolm, by which a woman could be drowned in a pit, (fossoj or a man hanged

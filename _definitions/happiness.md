@@ -1,5 +1,6 @@
 ---
 title: Happiness
+letter: H
 permalink: "/definitions/happiness.html"
 body: 'SS. The constitutional right of men to pursue their “happiness” means the right
   to pursue any lawful business or vocation, in any manner not inconsistent wlth the

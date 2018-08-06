@@ -1,5 +1,6 @@
 ---
 title: Flotsam, Flotsan
+letter: F
 permalink: "/definitions/flotsam-flotsan.html"
 body: A name for the goods which float upon the sea when cast overboard for the safety
   of the ship, or when a ship is sunk. Distinguished from “jet-sam” and “ligan.” Bract,

@@ -1,5 +1,6 @@
 ---
 title: Nulla Bona
+letter: N
 permalink: "/definitions/nulla-bona.html"
 body: NA. Lat No goods. The name of the return made by the sheriff to a writ of execution,
   when he has not found any goods of the defendant within his jurisdiction on wbich

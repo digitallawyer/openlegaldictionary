@@ -1,5 +1,6 @@
 ---
 title: Teep
+letter: T
 permalink: "/definitions/teep.html"
 body: In Hlndu law. A note of hand; a promissory note given by a native banker or
   money-lender to zemindars and others, to enable them to furnish government with

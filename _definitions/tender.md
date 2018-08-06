@@ -1,5 +1,6 @@
 ---
 title: Tender
+letter: T
 permalink: "/definitions/tender.html"
 body: An offer of money; the act b.v which one produces and offers to a person holding
   a claim or demand against him the amount of money which he considers and ad-mits

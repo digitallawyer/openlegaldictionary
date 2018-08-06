@@ -1,5 +1,6 @@
 ---
 title: Perambulatione Facienda, Writ De
+letter: P
 permalink: "/definitions/perambulatione-facienda-writ-de.html"
 body: In English law. The name of a writ which is sued by consent of both par-ties
   when they are in doubt as to the bounds of thelr respective estates. It is directed

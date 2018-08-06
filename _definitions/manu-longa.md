@@ -1,5 +1,6 @@
 ---
 title: Manu Longa
+letter: M
 permalink: "/definitions/manu-longa.html"
 body: Lat. with a long hand. A term used in the civil law, signifying iu-dlrectly
   or circuitously. Calvin

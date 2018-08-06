@@ -1,5 +1,6 @@
 ---
 title: Eirenarcha
+letter: E
 permalink: "/definitions/eirenarcha.html"
 body: A name formerly given to a justlce of the peace. In the Digests, the word is
   written “ircnarcha.”

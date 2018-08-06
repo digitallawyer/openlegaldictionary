@@ -1,5 +1,6 @@
 ---
 title: Tidal
+letter: T
 permalink: "/definitions/tidal.html"
 body: In order that a river may be “tidal" at a given spot, it may not be necessary
   that the water should be salt, but the spot must he one where the tide, in the ordl-nary

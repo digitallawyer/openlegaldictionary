@@ -1,5 +1,6 @@
 ---
 title: Exigi Facias
+letter: E
 permalink: "/definitions/exigi-facias.html"
 body: EXIGI FACIAS. L. Lat. In English practice. A judicial writ made nse of in the
   process of outlawry, comraand-ing the sheriff to demand the defeudant, (or cause

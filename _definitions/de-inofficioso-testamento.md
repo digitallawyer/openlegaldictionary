@@ -1,5 +1,6 @@
 ---
 title: De Inofficioso Testamento
+letter: D
 permalink: "/definitions/de-inofficioso-testamento.html"
 body: Concerning an inofficious or undutifui will. A title of the civil law. Inst.
   2, 18.

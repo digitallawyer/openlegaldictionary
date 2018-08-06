@@ -1,5 +1,6 @@
 ---
 title: Rigor Juris
+letter: R
 permalink: "/definitions/rigor-juris.html"
 body: Lat. Strictness of law. Latch, 150. Distinguished from gratia curia, favor of
   the court

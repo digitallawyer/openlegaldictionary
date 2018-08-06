@@ -1,5 +1,6 @@
 ---
 title: Dei Gratia
+letter: D
 permalink: "/definitions/dei-gratia.html"
 body: Lat By the grace of God. A phrase used in the formal title of a "king or queen,
   importing a claim of sover-eignty by the favor or commission of God. In ancient

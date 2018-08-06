@@ -1,5 +1,6 @@
 ---
 title: Compatibility
+letter: C
 permalink: "/definitions/compatibility.html"
 body: Such relatlon and conslstency between the duties of two offices that they may
   be held and filled by one person

@@ -1,5 +1,6 @@
 ---
 title: Psychotherapy
+letter: P
 permalink: "/definitions/psychotherapy.html"
 body: A method or sys-tem of alleviating or curing certaiu forms of disease, particularly
   diseases of the uervous system or such as are traceaijle to nervous disorders, by

@@ -1,5 +1,6 @@
 ---
 title: Effects
+letter: E
 permalink: "/definitions/effects.html"
 body: Personal estate or property. This word has been held to be more comprehensive
   than the word “goods,” as Including fixtures, which “goods” will not include. Bank

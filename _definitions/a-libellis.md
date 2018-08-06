@@ -1,5 +1,6 @@
 ---
 title: A Libellis
+letter: A
 permalink: "/definitions/a-libellis.html"
 body: L. Lat An officer who had charge of the libelli or petitions address-ed to the
   sovereign. Calvin. A name some-times given to a chancellor, (eoneellariug,) in the

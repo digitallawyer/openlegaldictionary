@@ -1,5 +1,6 @@
 ---
 title: Desamortizacion
+letter: D
 permalink: "/definitions/desamortizacion.html"
 body: In Mexican law. The dcsamortizacion of property is to take it oat of mortmain,
   (dead hands;) that is, to unloose it from the grasp, as it were, of ecclesiastical

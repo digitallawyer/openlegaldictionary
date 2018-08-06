@@ -1,5 +1,6 @@
 ---
 title: Hythe
+letter: H
 permalink: "/definitions/hythe.html"
 body: In English law. A port, wharf, or small haven to embark or land merchandise
   at Cowell; Blount

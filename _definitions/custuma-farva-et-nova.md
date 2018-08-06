@@ -1,5 +1,6 @@
 ---
 title: Custuma Farva Et Nova
+letter: C
 permalink: "/definitions/custuma-farva-et-nova.html"
 body: "(Small and new customs.) Imposts of 3d. in the pound, due formerly in England
   from mer-chant strangers only, for all commodities, as well imported as exported.

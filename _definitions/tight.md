@@ -1,5 +1,6 @@
 ---
 title: Tight
+letter: T
 permalink: "/definitions/tight.html"
 body: As colloquially applied to a note, bond, mortgage, lease, etc., thls term signl-fies
   that the clauses providing the credit-or’s remedy in case of default (as, by fore-closure,

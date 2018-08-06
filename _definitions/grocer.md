@@ -1,5 +1,6 @@
 ---
 title: Grocer
+letter: G
 permalink: "/definitions/grocer.html"
 body: In old English law. A mer-chant or trader who engrossed all vendible merchandise;
   an engrosser. St. 37 Edw. III. c. 5. See Exgbosseb

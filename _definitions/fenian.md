@@ -1,5 +1,6 @@
 ---
 title: Fenian
+letter: F
 permalink: "/definitions/fenian.html"
 body: A champion, hero, giant This word, in the plural, is generally used to signify
   invaders or foreign spoilers. The modern meaning of “fenian” is a member of an organization

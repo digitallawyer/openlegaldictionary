@@ -1,5 +1,6 @@
 ---
 title: Cottier Tenancy
+letter: C
 permalink: "/definitions/cottier-tenancy.html"
 body: 'A species of ten-ancy in Ireland, constituted by an agreement in writing, nnd
   subject to the following terms: That the tenement consist of a dwell-ing-house with

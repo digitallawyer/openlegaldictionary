@@ -1,5 +1,6 @@
 ---
 title: Perempt
+letter: P
 permalink: "/definitions/perempt.html"
 body: In ecclesiastical procedure au appeal is said to be perempted when the appellant
   has by hls own nct waived or barred his right of appeal; as where he partially complies

@@ -1,5 +1,6 @@
 ---
 title: Petite Assize
+letter: P
 permalink: "/definitions/petite-assize.html"
 body: Used in contradistino-tion from the grand assize, which was a jury to decide
   on questions of property. Petits assize, a jury to decide on questions of possession.

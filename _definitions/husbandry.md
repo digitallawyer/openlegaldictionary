@@ -1,5 +1,6 @@
 ---
 title: Husbandry
+letter: H
 permalink: "/definitions/husbandry.html"
 body: Agriculture; cultivation of the Soil for1 food; farming, in the sense of operating
   land to raise provisions. Simons v. Lovell, 7 Heisk. (Tenn.) 516 ; McCue v. Tunstead,

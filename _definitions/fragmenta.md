@@ -1,5 +1,6 @@
 ---
 title: Fragmenta
+letter: F
 permalink: "/definitions/fragmenta.html"
 body: Lat. Fragments. A name sometimes applied (especially in cita-tions) to the Digest
   or Pandects in the Corpus Juris Civilis of Justinian, as being made up of numerous

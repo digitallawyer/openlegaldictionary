@@ -1,5 +1,6 @@
 ---
 title: Backwardation
+letter: B
 permalink: "/definitions/backwardation.html"
 body: In the language of the stock exchange, this term signifies a consideration paid
   for delay in the delivery of stock contracted for, when the price is lower for time

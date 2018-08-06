@@ -1,5 +1,6 @@
 ---
 title: Innavigability
+letter: I
 permalink: "/definitions/innavigability.html"
 body: ln Insurance law. The condition of being innavigable, (q. v.) The foreign writers
   distinguish “innaviga-bility” from “shipwreck.” 3 Kent, Comm. 323, and note. The

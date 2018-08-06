@@ -1,5 +1,6 @@
 ---
 title: Temporary
+letter: T
 permalink: "/definitions/temporary.html"
 body: That which is to last for a limited time only, as distinguished from that which
   is perpetual, or indefinite, in Its duration. Thus, temporary alimony is granted

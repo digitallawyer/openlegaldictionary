@@ -1,5 +1,6 @@
 ---
 title: Writ Of Waste
+letter: W
 permalink: "/definitions/writ-of-waste.html"
 body: The name of a writ to be issued against a tenant who has committed waste of
   the premises. There are several forms of thls writ Fltzh. Nat Brev. 125

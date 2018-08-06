@@ -1,5 +1,6 @@
 ---
 title: Inner Barrister
+letter: I
 permalink: "/definitions/inner-barrister.html"
 body: A serjeant or king's counsel, iu England, who is admitted to plead within the
   bar. ’

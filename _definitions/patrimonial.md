@@ -1,5 +1,6 @@
 ---
 title: Patrimonial
+letter: P
 permalink: "/definitions/patrimonial.html"
 body: Pertaining to a patri-mony; inherited from ancestors, but strict-ly from the
   direct male ancestors

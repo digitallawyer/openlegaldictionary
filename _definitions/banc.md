@@ -1,5 +1,6 @@
 ---
 title: Banc
+letter: B
 permalink: "/definitions/banc.html"
 body: Beuch; the seat of judgment; tlie place where a court permanently or reg-ularly
   sits

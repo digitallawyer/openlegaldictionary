@@ -1,5 +1,6 @@
 ---
 title: Circada
+letter: C
 permalink: "/definitions/circada.html"
 body: A tribute anciently paid to the bishop or archbishop for visiting churches.
   Du Fresne

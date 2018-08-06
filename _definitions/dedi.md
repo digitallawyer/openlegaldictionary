@@ -1,5 +1,6 @@
 ---
 title: Dedi
+letter: D
 permalink: "/definitions/dedi.html"
 body: "(Lat. x have given.) A word used in deeds and other instruments of con-veyance
   when such instruments were made iu Latin, and anciently held to imply a wur-ranty

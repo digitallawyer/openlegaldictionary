@@ -1,5 +1,6 @@
 ---
 title: Perturbation
+letter: P
 permalink: "/definitions/perturbation.html"
 body: In the English eccleslastlcal courts, a “suit for perturbation of seat” is the
   technical name for an actlon growlng out of a disturbance or Infringement of one’s

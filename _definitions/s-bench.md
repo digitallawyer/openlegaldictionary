@@ -1,5 +1,6 @@
 ---
 title: S Bench
+letter: S
 permalink: "/definitions/s-bench.html"
 body: BENCH. The supreme court of common law in England, being so called be-cause
   the king used formerly to sit there in person, the style of the court being “coram

@@ -1,5 +1,6 @@
 ---
 title: Taciturnity
+letter: T
 permalink: "/definitions/taciturnity.html"
 body: In Scotch law, thls signifies laches in not prosecuting a legal clalm, or in
   acquiescing in an adverse one. Mozley A whitley

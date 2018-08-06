@@ -1,5 +1,6 @@
 ---
 title: Dividend
+letter: D
 permalink: "/definitions/dividend.html"
 body: A fund to be divided. The share allotted to each of several iarsons en-titled
   to share in a division of profits or property. Thus, dividend may denote a fund

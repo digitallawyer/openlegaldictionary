@@ -1,5 +1,6 @@
 ---
 title: Eyre
+letter: E
 permalink: "/definitions/eyre-2.html"
 body: Justices in eyre were judges corn-missioned in Anglo-Norman times in Eng-land
   to travel systematically through the

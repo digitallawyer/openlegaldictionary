@@ -1,5 +1,6 @@
 ---
 title: Questus Est Nobis
+letter: Q
 permalink: "/definitions/questus-est-nobis.html"
 body: Lat A writ of nuisance, whicb, by 15 Fdw. I., lay against him to whom a house
   or other thing that caused a nuisance descended or was alienated ; whereas, before

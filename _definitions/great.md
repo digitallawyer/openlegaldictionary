@@ -1,5 +1,6 @@
 ---
 title: Great
+letter: G
 permalink: "/definitions/great.html"
 body: As used in various compound le-gal terms, this word generally means ex-traordlnary,
   that is, exceeding the common or ordinary measure or standard, in respect to physical

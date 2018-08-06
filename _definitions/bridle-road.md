@@ -1,5 +1,6 @@
 ---
 title: Bridle Road
+letter: B
 permalink: "/definitions/bridle-road.html"
 body: ln the location of a private way laid out by the selectmen, and accepted by
   tlie town, a description of it as a “bridle road’*”does not confine the right of

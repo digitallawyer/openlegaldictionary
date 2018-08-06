@@ -1,5 +1,6 @@
 ---
 title: Immeubles
+letter: I
 permalink: "/definitions/immeubles.html"
 body: 'Fr. These are, in French law, the immovables of English law. Thlngs are immeubles
   from any one of three causes: (3) From their own nature, e. g., lands and houses;

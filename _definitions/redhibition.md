@@ -1,5 +1,6 @@
 ---
 title: Redhibition
+letter: R
 permalink: "/definitions/redhibition.html"
 body: In tbe civil law. The avoidance of a sale on acconnt of some vice or defect
   in the thing sold, whlch renders it either absolutely' useless or its use so in-convenient

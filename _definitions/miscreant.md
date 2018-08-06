@@ -1,5 +1,6 @@
 ---
 title: Miscreant
+letter: M
 permalink: "/definitions/miscreant.html"
 body: In old English law. An apostate; an unbeliever; one who totally re-nonnced Christianity.
   4 Bl. Comm. 44

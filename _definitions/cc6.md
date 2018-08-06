@@ -1,5 +1,6 @@
 ---
 title: C. C
+letter: C
 permalink: "/definitions/cc6.html"
 body: second class when the performance of one condition is not obligatory until the
   actual performance of the other; and to the third class when neither party need

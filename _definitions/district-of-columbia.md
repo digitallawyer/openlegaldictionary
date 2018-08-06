@@ -1,5 +1,6 @@
 ---
 title: District Of Columbia
+letter: D
 permalink: "/definitions/district-of-columbia.html"
 body: A terri-tory situated on the Potomac river, and being the seat of government
   of the United States. It was originally ten miles square, and was composed of portions

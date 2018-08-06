@@ -1,5 +1,6 @@
 ---
 title: Ordinis Beneficium
+letter: O
 permalink: "/definitions/ordinis-beneficium.html"
 body: Lat. In the clvll law. The benefit or privilege of order; the prlvilege whlch
   a surety for a debtor had of requlrlng that his princlpal should be dlscussed, or

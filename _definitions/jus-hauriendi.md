@@ -1,5 +1,6 @@
 ---
 title: Jus Hauriendi
+letter: J
 permalink: "/definitions/jus-hauriendi.html"
 body: In the civil and old Engllsh law. The right of drawing water. Fleta, lib. 4,
   c. 27, { 1

@@ -1,5 +1,6 @@
 ---
 title: Imfosts
+letter: I
 permalink: "/definitions/imfosts.html"
 body: Taxes, duties, or impositions. A duty on imported goods or merchandise. Story,
   Const § 949. And see Norris v. Bos-ton, 4 Metc. (Mass.) 296; Pacific Ins. Co. v.

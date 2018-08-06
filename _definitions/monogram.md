@@ -1,5 +1,6 @@
 ---
 title: Monogram
+letter: M
 permalink: "/definitions/monogram.html"
 body: A character or cipher composed of one or more letters interwoven, beiug an abbreviation
   of a name

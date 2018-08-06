@@ -1,5 +1,6 @@
 ---
 title: Vtvary
+letter: V
 permalink: "/definitions/vtvary.html"
 body: In English law. A place for keeping wild animals alive, including fishes; a
   fish pond, park, or warren

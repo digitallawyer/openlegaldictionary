@@ -1,5 +1,6 @@
 ---
 title: Las Partidas
+letter: L
 permalink: "/definitions/las-partidas.html"
 body: In Spanish law. The name of a code of laws, more fully described as “Las Siete
   Partidas," (“the seven parts," from the number of its divisions,) which was compiled

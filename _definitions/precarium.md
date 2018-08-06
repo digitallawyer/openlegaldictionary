@@ -1,5 +1,6 @@
 ---
 title: Precarium
+letter: P
 permalink: "/definitions/precarium.html"
 body: 'Lat. in the civil law. A convention whereby one allows another the use of a
   thing or the exercise of a right gra-tuitously tlll revocation. The bailee acquires

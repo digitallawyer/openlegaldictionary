@@ -1,5 +1,6 @@
 ---
 title: Founder
+letter: F
 permalink: "/definitions/founder.html"
 body: The person who endows an eleemosynary corporation or institution, or supplies
   the funds for Its establishment. See Foundation

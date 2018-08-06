@@ -1,5 +1,6 @@
 ---
 title: User
+letter: U
 permalink: "/definitions/user.html"
 body: The actual exercise or enjoyment of any right or property. It is particularly
   used of franchises

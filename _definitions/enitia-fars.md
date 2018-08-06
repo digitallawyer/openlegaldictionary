@@ -1,5 +1,6 @@
 ---
 title: Enitia Fars
+letter: E
 permalink: "/definitions/enitia-fars.html"
 body: The share of the eldest ▲ term of the Engllsh law descriptlve of the lot or
   share chosen by the eldest of coparceners when they make a voluntary par-titlon.

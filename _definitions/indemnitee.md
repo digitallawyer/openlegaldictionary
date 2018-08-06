@@ -1,5 +1,6 @@
 ---
 title: Indemnitee
+letter: I
 permalink: "/definitions/indemnitee.html"
 body: The person who, in a contract of indemnity, is to be indemnified or protected
   by the other

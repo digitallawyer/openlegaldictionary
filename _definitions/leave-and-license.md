@@ -1,5 +1,6 @@
 ---
 title: Leave And License
+letter: L
 permalink: "/definitions/leave-and-license.html"
 body: A defense to an action in trespass setting up the consent of the plaintiff to
   the trespass complained of

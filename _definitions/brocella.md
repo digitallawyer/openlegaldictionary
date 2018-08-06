@@ -1,5 +1,6 @@
 ---
 title: Brocella
+letter: B
 permalink: "/definitions/brocella.html"
 body: In old English law. A wood, a thicket or covert of bushes and brushwood. Cowell;
   Blount

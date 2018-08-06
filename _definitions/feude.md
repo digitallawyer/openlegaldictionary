@@ -1,5 +1,6 @@
 ---
 title: Feude
+letter: F
 permalink: "/definitions/feude.html"
 body: An occasional early form of “feud” in the sense of private war or ven-geance.
   Termes de la Ley. See Feud

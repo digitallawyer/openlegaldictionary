@@ -1,5 +1,6 @@
 ---
 title: Mark
+letter: M
 permalink: "/definitions/mark.html"
 body: '1. A character, usually in the form of a cross, made as a substitute for his
   signature by a person who cannot write, in executing a conveyance or other legal

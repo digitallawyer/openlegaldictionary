@@ -1,5 +1,6 @@
 ---
 title: Offerings
+letter: O
 permalink: "/definitions/offerings.html"
 body: In English ecclesiastical law. Personal tlthes, payable by custom to the parson
   or vicar of a parish, either occa-sionally, as at sacranieuts, marriages, churching

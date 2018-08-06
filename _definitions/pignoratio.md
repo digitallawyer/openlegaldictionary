@@ -1,5 +1,6 @@
 ---
 title: Pignoratio
+letter: P
 permalink: "/definitions/pignoratio.html"
 body: Lat. In the civil law. The contract of pledge; and also the obliga-tlon of such
   contract

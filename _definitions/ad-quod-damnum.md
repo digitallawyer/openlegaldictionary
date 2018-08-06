@@ -1,5 +1,6 @@
 ---
 title: Ad Quod Damnum
+letter: A
 permalink: "/definitions/ad-quod-damnum.html"
 body: The name of a writ formerly issuing from the English chan-cery, commanding the
   sheriff to make ln-quiry “to what damage” a specified act. If done, will tend. Ad

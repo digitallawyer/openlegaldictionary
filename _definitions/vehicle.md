@@ -1,5 +1,6 @@
 ---
 title: Vehicle
+letter: V
 permalink: "/definitions/vehicle.html"
 body: The word “vehicle" Includes every description of carriage or other artifl-cial
   contrivance used, or capable of being used, as a means of transportation on land.

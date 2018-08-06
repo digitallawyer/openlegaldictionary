@@ -1,5 +1,6 @@
 ---
 title: Freehold
+letter: F
 permalink: "/definitions/freehold.html"
 body: An estate in land or other real property, of uncertain duration; that is, either
   of inheritance or which may possibly last for tbe life of the tenant at the least,

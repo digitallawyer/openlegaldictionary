@@ -1,5 +1,6 @@
 ---
 title: Burning In The Hand
+letter: B
 permalink: "/definitions/burning-in-the-hand.html"
 body: In old Eng-lish criminal law, laymen, upon being ac-corded the benefit of clergy,
   were burned with a hot iron in the brawn of the left thumb, in order that, being

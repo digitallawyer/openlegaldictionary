@@ -1,5 +1,6 @@
 ---
 title: Ameraltus
+letter: A
 permalink: "/definitions/ameraltus.html"
 body: L. Lat A naval commander, under the eastern Roman empire, but not of the highest
   rank; the origin, ac-cording to Spelman, of the modern title aud office of admirnl.

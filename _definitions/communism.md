@@ -1,5 +1,6 @@
 ---
 title: Communism
+letter: C
 permalink: "/definitions/communism.html"
 body: A name given to pro-posed systems of life or social organization based upon
   the fundamental principle of the non-existence of private property and of a community

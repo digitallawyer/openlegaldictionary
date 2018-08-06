@@ -1,5 +1,6 @@
 ---
 title: Feasts
+letter: F
 permalink: "/definitions/feasts.html"
 body: Certain established festivals or holidays In the ecclesiastical calendar. These
   days were anciently uded as the dates of legal Instruments, and in England the quar-ter-days,

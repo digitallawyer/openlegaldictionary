@@ -1,5 +1,6 @@
 ---
 title: Wash Sale
+letter: W
 permalink: "/definitions/wash-sale.html"
 body: In the language of the stock exchange, this is the operation per-formed by a
   broker who fills an order from one customer to buy a certain stock or commodity

@@ -1,5 +1,6 @@
 ---
 title: League
+letter: L
 permalink: "/definitions/league.html"
 body: 1. A treaty of alliance be-tweeu different states or parties. It may be offensive
   or defensive, or both. It is offensive when the contracting parties agree to unite

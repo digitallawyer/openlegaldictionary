@@ -1,5 +1,6 @@
 ---
 title: Bris
+letter: B
 permalink: "/definitions/bris.html"
 body: In French maritime law. Liter-ally, breaking; wreck. Distinguished from naufraye,
   (q. v

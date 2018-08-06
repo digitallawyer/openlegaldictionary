@@ -1,5 +1,6 @@
 ---
 title: Eghantillon
+letter: E
 permalink: "/definitions/eghantillon.html"
 body: In French law. one of the two parts or pieces of a wooden tally. That in possession
   of tbe debtor is properly called the “tally,” the other “echantillon.” Poth. obl.

@@ -1,5 +1,6 @@
 ---
 title: Village
+letter: V
 permalink: "/definitions/village.html"
 body: E. Any small assemblage of houses for dwellings or business, or both, in the
   country, whether they are situated upon regularly laid out streets and alleys or

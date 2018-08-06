@@ -1,5 +1,6 @@
 ---
 title: Decies Tantum
+letter: D
 permalink: "/definitions/decies-tantum.html"
 body: "(Ten. times as tnueh.) The name of an anclent writ that was used against a
   juror who had taken a bribe in money for his verdict. The injured party could thus

@@ -1,5 +1,6 @@
 ---
 title: Restaurant
+letter: R
 permalink: "/definitions/restaurant.html"
 body: This term, as current-ly understood, means only, or chiefly, an eat-ing-house;
   but it has no such fixed and defi-nlte legal meaning as necessarily to exclude its

@@ -1,5 +1,6 @@
 ---
 title: Echolalia
+letter: E
 permalink: "/definitions/echolalia.html"
 body: In medical Jurisprudence. The constant and senseless repetition of par-ticular
   words or phrases, recognized as a sign or symptom of insanity or of aphasia

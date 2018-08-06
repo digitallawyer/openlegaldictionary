@@ -1,5 +1,6 @@
 ---
 title: Journeys Accounts
+letter: J
 permalink: "/definitions/journeys-accounts.html"
 body: In English practice. The name of a writ (now obsolete) whlch might be sued out
   where a former writ had abated without the plaintiff's fault. The length of time

@@ -1,5 +1,6 @@
 ---
 title: Duplicatio
+letter: D
 permalink: "/definitions/duplicatio.html"
 body: In the civU law. The defendant’s answer to the plaintiff’s replica-tion; corresponding
   to the rejoinder of the common law

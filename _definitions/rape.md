@@ -1,5 +1,6 @@
 ---
 title: Rape
+letter: R
 permalink: "/definitions/rape.html"
 body: In oriminal law. The unlawful carnal knowledge of a woman by a man forcibly
   and against her will. Code Ga. I 4349; Gore v. State, 119 Ga. 418, 46 S. E. 671,

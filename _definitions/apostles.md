@@ -1,5 +1,6 @@
 ---
 title: Apostles
+letter: A
 permalink: "/definitions/apostles.html"
 body: In English admiralty practice. A term borrowed from the civil law, denoting
   brief dismissory letters granted to a party who appeals from an Inferior to a su-perior

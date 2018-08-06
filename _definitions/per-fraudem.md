@@ -1,5 +1,6 @@
 ---
 title: Per Fraudem
+letter: P
 permalink: "/definitions/per-fraudem.html"
 body: Lat By fraud, where a plea alleges matter of discharge, and the replication
   avers that the discharge was fraudulently obtained and is therefore invalld, it

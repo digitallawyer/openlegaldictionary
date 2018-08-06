@@ -1,5 +1,6 @@
 ---
 title: Hereditaments
+letter: H
 permalink: "/definitions/hereditaments.html"
 body: Things capable of being inherited, he it corporeal or incorpo-real. real, personal,
   or mixed, and inclnding not only lands and everything thereon, but also heir-looms,

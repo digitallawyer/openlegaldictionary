@@ -1,5 +1,6 @@
 ---
 title: Defalcation
+letter: D
 permalink: "/definitions/defalcation.html"
 body: The act of'a defaulter; misappropriation of trpst funds or money held in any
   fiduciary capacity; failure to properly account for such funds. Usually spoken of

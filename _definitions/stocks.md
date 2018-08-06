@@ -1,5 +1,6 @@
 ---
 title: Stocks
+letter: S
 permalink: "/definitions/stocks.html"
 body: A machine consisting of two pieces of timber, arranged to be fastened to-gether,
   and holding fast the legs of a pereon placed in it This was an ancient method of

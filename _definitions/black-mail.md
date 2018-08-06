@@ -1,5 +1,6 @@
 ---
 title: Black-Mail
+letter: B
 permalink: "/definitions/black-mail.html"
 body: 1. In one of its ortgi-nal meanings, this term denoted a tribute paid by English
   dwellers, along the Scottlsh border to influential chieftains of Scotland, as a

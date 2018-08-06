@@ -1,5 +1,6 @@
 ---
 title: Indenture
+letter: I
 permalink: "/definitions/indenture.html"
 body: A deed to which two or more persons are parties, and in whlch these enter lnto
   reclprocal and corresponding grants or obligations towards each other; whereas a

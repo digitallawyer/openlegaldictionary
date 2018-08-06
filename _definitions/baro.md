@@ -1,5 +1,6 @@
 ---
 title: Baro
+letter: B
 permalink: "/definitions/baro.html"
 body: An old law term signlfying, orig-inally, a “man,” whether slave or free. In
   later usage, a “freeman,” a “strong man,” a “good soldier,” a "baron ;*’ also a

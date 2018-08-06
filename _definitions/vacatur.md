@@ -1,5 +1,6 @@
 ---
 title: Vacatur
+letter: V
 permalink: "/definitions/vacatur.html"
 body: Lat. Let it be vacated. In practlce, a rule or order by which a proceeding is
   vacated; a vacating

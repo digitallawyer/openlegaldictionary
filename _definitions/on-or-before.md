@@ -1,5 +1,6 @@
 ---
 title: On Or Before
+letter: O
 permalink: "/definitions/on-or-before.html"
 body: These words, inserted in a stipulation to do an act or pay money, entitle the
   party stipulating to perform at any time before the day; and upon per-formance,

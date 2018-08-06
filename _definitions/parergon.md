@@ -1,5 +1,6 @@
 ---
 title: Parergon
+letter: P
 permalink: "/definitions/parergon.html"
 body: one work executed lu the intervals of another; a subordinate task. Particularly,
   the name of a work on the Canons, in great repute, by Ayliffe

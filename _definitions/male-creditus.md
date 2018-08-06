@@ -1,5 +1,6 @@
 ---
 title: Male Creditus
+letter: M
 permalink: "/definitions/male-creditus.html"
 body: In old English law. Unfavorably thought of; in bad repute or credit. Bract fols.
   116, 154

@@ -1,5 +1,6 @@
 ---
 title: Octo Tales
+letter: O
 permalink: "/definitions/octo-tales.html"
 body: Eight such; eight such men; eight snch jurors. The name of a writ, at common
   law, which issues when up* on a trial at bar, eight more Jurors are nec-essary to

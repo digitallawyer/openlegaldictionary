@@ -1,5 +1,6 @@
 ---
 title: Fixture
+letter: F
 permalink: "/definitions/fixture.html"
 body: 1. A fixture is a personal chattel substantially affixed to the land, hut which
   may afterwards be lawfully removed therefrom by the party affixing it, or his representative,

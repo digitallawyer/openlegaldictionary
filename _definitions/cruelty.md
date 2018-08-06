@@ -1,5 +1,6 @@
 ---
 title: Cruelty
+letter: C
 permalink: "/definitions/cruelty.html"
 body: The intentional and mall-clous infliction of physical suffering upon living
   creatures, particularly human beings; or, as applied to the latter, the wanton,

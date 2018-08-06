@@ -1,5 +1,6 @@
 ---
 title: Gildable
+letter: G
 permalink: "/definitions/gildable.html"
 body: In old English law. Tax-able, tributary, or contributory; liable to pay tax
   or tribute. Cowell; Blount

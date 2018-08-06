@@ -1,5 +1,6 @@
 ---
 title: Alcabala
+letter: A
 permalink: "/definitions/alcabala.html"
 body: In Spanish law. A duty of a certain per cent, paid to the treasury on the sale
   or exchange of property

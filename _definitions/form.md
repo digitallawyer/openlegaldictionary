@@ -1,5 +1,6 @@
 ---
 title: Form
+letter: F
 permalink: "/definitions/form.html"
 body: 1. A model or skeleton of an Instrument to’be used in a judicial proceeding,
   containing the principal necessary matters, the proper technical terms or phrases,

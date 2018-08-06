@@ -1,5 +1,6 @@
 ---
 title: Operattve Part
+letter: O
 permalink: "/definitions/operattve-part.html"
 body: That part of a conveyance, or of any instrument Intended for the creation of
   transference of rights, by which the main object of the instrument is carried into

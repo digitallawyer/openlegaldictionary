@@ -1,5 +1,6 @@
 ---
 title: Quod Permittat Prosternere
+letter: Q
 permalink: "/definitions/quod-permittat-prosternere.html"
 body: That he permit to abate. In old practice. A writ, in the, nature of a w’rlt
   of right, which lay to abate a nuisance. 3 Bl. Comm. 221. And see Conhocton Stone

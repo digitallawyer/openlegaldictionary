@@ -1,5 +1,6 @@
 ---
 title: Intimidation
+letter: I
 permalink: "/definitions/intimidation.html"
 body: In English law. Ev-ery person commits a misdemeanor, punish-able with a flne
   or Imprisonment, who wrong-fully uses vlolence to or intimidates any other person,

@@ -1,5 +1,6 @@
 ---
 title: Consanguinity
+letter: C
 permalink: "/definitions/consanguinity.html"
 body: Kinship; blood re-Iationshlp; the connection or relatlon of per-sons descended
   from the same stock or common ancestor. 2 Bl. Comm. 202; Blodget v. Brinsrasld,

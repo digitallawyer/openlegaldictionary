@@ -1,5 +1,6 @@
 ---
 title: Bombay Regulations
+letter: B
 permalink: "/definitions/bombay-regulations.html"
 body: Regula-tlons passed for the presidency of Bombay, and the territories subordinate
   thereto. They were passed by the governors in council of Bombay until the year 1834,

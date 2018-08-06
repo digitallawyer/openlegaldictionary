@@ -1,5 +1,6 @@
 ---
 title: Vacancy
+letter: V
 permalink: "/definitions/vacancy.html"
 body: A place which is empty. The term is principally applied to an inter-ruption
   in the Incumbency of an office

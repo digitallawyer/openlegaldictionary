@@ -1,5 +1,6 @@
 ---
 title: Rack
+letter: R
 permalink: "/definitions/rack.html"
 body: An engine of tortnre anciently nsed in tbe inquisitorial method of examin-ing
   persons charged with crime, the office of whlch was to break the limbs or dislocate

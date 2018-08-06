@@ -1,5 +1,6 @@
 ---
 title: Portion
+letter: P
 permalink: "/definitions/portion.html"
 body: The share faillng to a child from a parent's estate or the estate of any one
   bearing a similar relation. State v. Crossley, 69 Ind. 209; Lewis's Appeal, 108

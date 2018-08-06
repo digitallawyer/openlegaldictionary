@@ -1,5 +1,6 @@
 ---
 title: Questores Parricidii
+letter: Q
 permalink: "/definitions/questores-parricidii.html"
 body: Lat. In Roman law. Certain officers, two in number, who were deputed by the
   eomitia, as a kind of commission, to search out and try all cases of parricide and

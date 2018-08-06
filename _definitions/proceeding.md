@@ -1,5 +1,6 @@
 ---
 title: Proceeding
+letter: P
 permalink: "/definitions/proceeding.html"
 body: In a general sense, the form and manner of conducting juridical business before
   a court or judlclal ofiicer; regular and orderly progress in form of law; lnclndlng

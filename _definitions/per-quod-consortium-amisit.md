@@ -1,5 +1,6 @@
 ---
 title: Per Quod Consortium Amisit
+letter: P
 permalink: "/definitions/per-quod-consortium-amisit.html"
 body: Lat in old pleading, whereby he lost the company [of his wife.] A phrase used
   in the old declarations in actions of trespass by a husband, for beating or ill

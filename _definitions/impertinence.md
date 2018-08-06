@@ -1,5 +1,6 @@
 ---
 title: Impertinence
+letter: I
 permalink: "/definitions/impertinence.html"
 body: Irrelevancy; the fault of not properly pertaining to the issue or proceeding.
   The introduction of any mat-ters into a bill, answer, or other pleading or proceeding

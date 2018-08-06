@@ -1,5 +1,6 @@
 ---
 title: Removal Of Causes
+letter: R
 permalink: "/definitions/removal-of-causes.html"
 body: The transfer of a cause from one court to another; com-monly used of the transfer
   of the Jurisdlc-tion and cognizance of an action commenced but not finally determined,

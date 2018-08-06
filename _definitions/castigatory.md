@@ -1,5 +1,6 @@
 ---
 title: Castigatory
+letter: C
 permalink: "/definitions/castigatory.html"
 body: An engine used to punish women who have been convicted of being common scolds.
   It is sometimes called the “trebucket," “tumbrel,” “ducking-stool," or “cucking-stool.”

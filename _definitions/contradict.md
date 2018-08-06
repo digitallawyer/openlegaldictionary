@@ -1,5 +1,6 @@
 ---
 title: Contradict
+letter: C
 permalink: "/definitions/contradict.html"
 body: In practice. To dis-prove. To prove a fact contrary to what has been asserted
   by a witness

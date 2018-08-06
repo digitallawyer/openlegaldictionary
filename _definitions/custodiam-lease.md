@@ -1,5 +1,6 @@
 ---
 title: Custodiam Lease
+letter: C
 permalink: "/definitions/custodiam-lease.html"
 body: In Engllsh law. A grant from the crowu under the exchequer seal, by which the
   custody of lands, etc., seis-ed in the king's bauds, is demised or couimlt-ted to

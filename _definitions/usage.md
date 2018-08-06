@@ -1,5 +1,6 @@
 ---
 title: Usage
+letter: U
 permalink: "/definitions/usage.html"
 body: 'Usage is a reasonable and law-ful public custom concerning transactions of
   the same nature as those which are to be effected thereby, existing nt the place

@@ -1,5 +1,6 @@
 ---
 title: Distinguish
+letter: D
 permalink: "/definitions/distinguish.html"
 body: To poiut out an essen-tial difference; to prove a case cited as ap-pllcable,
   inapplicable

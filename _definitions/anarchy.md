@@ -1,5 +1,6 @@
 ---
 title: Anarchy
+letter: A
 permalink: "/definitions/anarchy.html"
 body: The destruction of govern-ment; lawlessness; the absence of all pollt-Ical government;
   b.v extension, confusion in government. See Spies v. People, 122 III. 1, 253, 12

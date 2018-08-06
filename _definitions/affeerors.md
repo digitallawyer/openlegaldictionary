@@ -1,5 +1,6 @@
 ---
 title: Affeerors
+letter: A
 permalink: "/definitions/affeerors.html"
 body: Persons who, in court-leets, upon oath, settle and moderate tbe fines and amercements
   imposed on those who have committed offenses arbitrarily punishable, or that have

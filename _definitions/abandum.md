@@ -1,5 +1,6 @@
 ---
 title: Abandum
+letter: A
 permalink: "/definitions/abandum.html"
 body: or ABANDUM. Anything sequestered, proscribed, or abandoned. Abandon, i. e.,
   in bannum res missa, a thing han-ned or denounced as forfeited or lost, whence io

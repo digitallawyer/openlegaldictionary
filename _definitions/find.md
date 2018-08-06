@@ -1,5 +1,6 @@
 ---
 title: Find
+letter: F
 permalink: "/definitions/find.html"
 body: To discover; to determine; to as-certaln and declare. To announce a conclu-sion,
   as the result of judlcial investigation, u]>on a dlsputed fact or state of facts;

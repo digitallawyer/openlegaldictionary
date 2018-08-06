@@ -1,5 +1,6 @@
 ---
 title: Chimin
+letter: C
 permalink: "/definitions/chimin.html"
 body: In old English law. A road, way, highway. It is either the king's highway (chiminus
   regis) or a private way. The first is that over which the subjects of the realm,

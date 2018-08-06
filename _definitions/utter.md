@@ -1,5 +1,6 @@
 ---
 title: Utter
+letter: U
 permalink: "/definitions/utter.html"
 body: To put or send Into circula-tion; to publish or put forth. To utter and publish
   an instrument is to declare or assert, dlrectly or indirectly, by words or actions,

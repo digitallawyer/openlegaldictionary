@@ -1,5 +1,6 @@
 ---
 title: Ignoramus
+letter: I
 permalink: "/definitions/ignoramus.html"
 body: Lat. “we are igno-rant;” “We Ignore it.” Formerly the grand jury used to write
   thls word on bills of ln-dictment wben, after having heard the evi-dence, they thought

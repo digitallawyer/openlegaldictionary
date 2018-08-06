@@ -1,5 +1,6 @@
 ---
 title: White Friars
+letter: W
 permalink: "/definitions/white-friars.html"
 body: A place in London be-tween the Temple nnd Blackfrlars, which was formerly a
   sanctuary, and therefore privileged from arrest wharton

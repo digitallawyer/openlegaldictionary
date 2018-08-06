@@ -1,5 +1,6 @@
 ---
 title: Near
+letter: N
 permalink: "/definitions/near.html"
 body: This word, as applied to space, can have no positive or precise meaning. It
   is a relative term, depending for its signifi-catiou on the subject-matter in relation

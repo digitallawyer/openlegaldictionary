@@ -1,5 +1,6 @@
 ---
 title: Cretinism
+letter: C
 permalink: "/definitions/cretinism.html"
 body: In medical jurisprudence. A form of imperfect or arrested mental development,
   which may amount to idiocy, with physical degeneracy or deformity or lack of development;

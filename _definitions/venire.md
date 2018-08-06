@@ -1,5 +1,6 @@
 ---
 title: Venire
+letter: V
 permalink: "/definitions/venire.html"
 body: Lat. To come; to appear in court This word is sometimes used as the name of
   the writ for summoning a jury, more commonly called a “venire facias

@@ -1,5 +1,6 @@
 ---
 title: In Agtion
+letter: I
 permalink: "/definitions/in-agtion.html"
 body: Attainable or recoverable by actlon; not in possesslon. A term ap-plied to property
   of which a party has not the possession, but only a rlght to recover it by action.

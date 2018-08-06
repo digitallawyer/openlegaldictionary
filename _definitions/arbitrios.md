@@ -1,5 +1,6 @@
 ---
 title: Arbitrios
+letter: A
 permalink: "/definitions/arbitrios.html"
 body: In Spanish and Mexican law. Taxes imposed by municipalities on certain articles
   of merchandise, to defray the general expenses of government, in default of revenues

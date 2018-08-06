@@ -1,5 +1,6 @@
 ---
 title: Tenmentale
+letter: T
 permalink: "/definitions/tenmentale.html"
 body: The number of ten men, whlch number, in the time of the Saxons, was called a
   “decennary;” and ten decennaries made what was called a “hundred.” Also a duty or

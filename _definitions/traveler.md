@@ -1,5 +1,6 @@
 ---
 title: Traveler
+letter: T
 permalink: "/definitions/traveler.html"
 body: The term is used in a broad sense to designate those who patronize inns. Traveler
   is one who travels in any way. Distance is not material. A towns-man or neighbor

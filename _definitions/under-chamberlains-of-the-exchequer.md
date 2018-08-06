@@ -1,5 +1,6 @@
 ---
 title: Under-Chamberlains Of The Exchequer
+letter: U
 permalink: "/definitions/under-chamberlains-of-the-exchequer.html"
 body: Two officers who cleaved the tallies written by the clerk of the tallies, and
   rend the same, that the clerk of tlie i>el! and comptrollers thereof might see their

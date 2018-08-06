@@ -1,5 +1,6 @@
 ---
 title: Detinue
+letter: D
 permalink: "/definitions/detinue.html"
 body: In practice. A form of ac-tion which lies for the recovery, in specie, of personal
   chattels from one who acquired possession of them lawfully, but retains it without

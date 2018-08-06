@@ -1,5 +1,6 @@
 ---
 title: Proposal
+letter: P
 permalink: "/definitions/proposal.html"
 body: An offer; something prof-fered. An offer, by one person to another, of terms
   and conditions with reference to some work or undertaking, or for the trans-fer

@@ -1,5 +1,6 @@
 ---
 title: Slip
+letter: S
 permalink: "/definitions/slip.html"
 body: 1. In negotiations for a policy of insurance. In England, the agreement is in
   practice concluded between the parties by a memorandum called the “slip,” containing

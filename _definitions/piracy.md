@@ -1,5 +1,6 @@
 ---
 title: Piracy
+letter: P
 permalink: "/definitions/piracy.html"
 body: In criminal law. A robbery or forcible depredation on the high seas, without
   lawful authority, done animo furandi, in the spirit and Inteutloh of universal hostility.

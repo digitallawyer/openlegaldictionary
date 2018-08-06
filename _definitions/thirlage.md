@@ -1,5 +1,6 @@
 ---
 title: Thirlage
+letter: T
 permalink: "/definitions/thirlage.html"
 body: In Scoteh law. A servitude by which lands are astricted or “thirled1’ to a particular
   mill, to which the possessors must carry the grain of the growth of the astricted

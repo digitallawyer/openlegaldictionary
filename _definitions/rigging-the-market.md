@@ -1,5 +1,6 @@
 ---
 title: Rigging The Market
+letter: R
 permalink: "/definitions/rigging-the-market.html"
 body: A term of the stock-exchange, denoting the practice of inflating the price of
   given stocks, or en-hanclng their quoted value, by a system of pretended purchases,

@@ -1,5 +1,6 @@
 ---
 title: De Una Parte
+letter: D
 permalink: "/definitions/de-una-parte.html"
 body: A deed de nna parte is one where only one party grants, gives, or binds hlmself
   to do a thing to another. It differs from a deed infer partes, (q. v.) 2

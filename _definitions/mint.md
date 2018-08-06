@@ -1,5 +1,6 @@
 ---
 title: Mint
+letter: M
 permalink: "/definitions/mint.html"
 body: The place designated by law where bullion is coined Into money under authority
   of the government

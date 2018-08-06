@@ -1,5 +1,6 @@
 ---
 title: Beast
+letter: B
 permalink: "/definitions/beast.html"
 body: An animal; a domestic animal; a quadruped, such as may be used for food or in
   labor or for sport

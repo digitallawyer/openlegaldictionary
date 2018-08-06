@@ -1,5 +1,6 @@
 ---
 title: Barretor
+letter: B
 permalink: "/definitions/barretor.html"
 body: In criminal law. A common mover, exciter, or maintainer of suits and quarrels
   either in courts or elsewhere in the country; a disturber of the peace who spreads

@@ -1,5 +1,6 @@
 ---
 title: Disparagement
+letter: D
 permalink: "/definitions/disparagement.html"
 body: In old English law; An injury by union or comparison with some person or thing
   of inferior rank or excellence

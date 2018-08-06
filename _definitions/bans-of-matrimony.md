@@ -1,5 +1,6 @@
 ---
 title: Bans Of Matrimony
+letter: B
 permalink: "/definitions/bans-of-matrimony.html"
 body: A public an-nouncement of an intended marriage, requir-ed by the English law
   to be made in a church or chapel, during service, on three consecutive Sundays before

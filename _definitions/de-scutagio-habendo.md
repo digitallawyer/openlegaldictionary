@@ -1,5 +1,6 @@
 ---
 title: De Scutagio Habendo
+letter: D
 permalink: "/definitions/de-scutagio-habendo.html"
 body: writ for having (or to have) escuage or scutage. A writ which anciently lay
   against tenants by knlght-service, to compel them to serve in the king’s wars or

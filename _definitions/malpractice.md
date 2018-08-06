@@ -1,5 +1,6 @@
 ---
 title: Malpractice
+letter: M
 permalink: "/definitions/malpractice.html"
 body: As applied to physi-cians and surgeons, this term means, general-ly, professional
   misconduct towards a pa-tlent which is considered reprehensible either because immoral

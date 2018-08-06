@@ -1,5 +1,6 @@
 ---
 title: Absque Consideratione Curls
+letter: A
 permalink: "/definitions/absque-consideratione-curls.html"
 body: In old practlce. without the consideration of the court; wlthout judgment Fleta,
   lib. 2, c. 47, { 13.

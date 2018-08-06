@@ -1,5 +1,6 @@
 ---
 title: Crank
+letter: C
 permalink: "/definitions/crank.html"
 body: A term vulgarly applled to a person of eccentric, ill-regulated, and un-practical
   mental habits; a person half-craz-ed; a monomaniac; not necessarily equiva-lent

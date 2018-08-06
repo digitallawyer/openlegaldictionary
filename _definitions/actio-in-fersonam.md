@@ -1,5 +1,6 @@
 ---
 title: Actio In Fersonam
+letter: A
 permalink: "/definitions/actio-in-fersonam.html"
 body: In tbe civil taw. An action against the person, founded on a personal liability;
   an action seeking re-dress, for the vlolatlon of a jus in personam or right avallable

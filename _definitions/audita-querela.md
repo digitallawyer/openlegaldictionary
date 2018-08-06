@@ -1,5 +1,6 @@
 ---
 title: Audita Querela
+letter: A
 permalink: "/definitions/audita-querela.html"
 body: The name of a writ constituting the initial process in an ac-tion brought hy
   a judgment defendant to obtain relief against the consequences of the judgment,

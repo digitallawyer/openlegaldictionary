@@ -1,5 +1,6 @@
 ---
 title: Separatim
+letter: S
 permalink: "/definitions/separatim.html"
 body: Lat. In old conveyan-ting. Severally. A word which made a sev-eral covenant
   5 Coke, 23a

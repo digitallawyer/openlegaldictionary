@@ -1,5 +1,6 @@
 ---
 title: Manifest
+letter: M
 permalink: "/definitions/manifest.html"
 body: In maritime law. A sea-letter; a written document required to be carried by
   merchant vessels, containing an account of the cargo, with other particulars, for

@@ -1,5 +1,6 @@
 ---
 title: Assedation
+letter: A
 permalink: "/definitions/assedation.html"
 body: In Scotch law. An old term, used indiscriminately to signify a lease or feu-right.
   Bell; Ersk. Inst. 2, 6, 20

@@ -1,5 +1,6 @@
 ---
 title: Enjoin
+letter: E
 permalink: "/definitions/enjoin.html"
 body: To require; command; posi-tively direct To require a person, by writ of injunction
   from a court of equlty, to per-form, or to abstain or desist from, Bome act Clifford

@@ -1,5 +1,6 @@
 ---
 title: Mahlbrief
+letter: M
 permalink: "/definitions/mahlbrief.html"
 body: In maritime law. The German name for the contract for the building of a vessel.
   This contract contains a specification of the kind of vessel Intended, her dimensions,

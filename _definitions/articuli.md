@@ -1,5 +1,6 @@
 ---
 title: Articuli
+letter: A
 permalink: "/definitions/articuli.html"
 body: Lat Articles; items or heads. A term applied to some old English statutes, and
   occasionally to treatises

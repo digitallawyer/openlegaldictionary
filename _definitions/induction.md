@@ -1,5 +1,6 @@
 ---
 title: Induction
+letter: I
 permalink: "/definitions/induction.html"
 body: In ecclesiastical law. In-duction is the ceremony by which an incum-bent who
   has been instituted to a benefice is vested with full possession of all the profits

@@ -1,5 +1,6 @@
 ---
 title: Attorn
+letter: A
 permalink: "/definitions/attorn.html"
 body: In fendal law. To transfer or turn over to another, where a lord alien-ed his
   seigniory, he might, with the consent of the tenant, and in some cases without,

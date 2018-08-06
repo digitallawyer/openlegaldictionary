@@ -1,5 +1,6 @@
 ---
 title: Cash
+letter: C
 permalink: "/definitions/cash.html"
 body: Ready money; whatever can be used as money without heing converted into another
   form; that which circulates as money, including bank-bills. Hooper v. Flood, 54

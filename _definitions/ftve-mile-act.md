@@ -1,5 +1,6 @@
 ---
 title: Ftve-Mile Act
+letter: F
 permalink: "/definitions/ftve-mile-act.html"
 body: An act of parliament, passed in 1065, against non-conform-ists, whereby ministers
   of that body were prohibited from coming withln five miles of any corporate town,

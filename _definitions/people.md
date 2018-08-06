@@ -1,5 +1,6 @@
 ---
 title: People
+letter: P
 permalink: "/definitions/people.html"
 body: A state; as the people of the state of New York. A nation in its collect-ive
   and political capacity. Nesbitt v. Lusli-ington, 4 Term R. 783; U. S. v. Quincy,

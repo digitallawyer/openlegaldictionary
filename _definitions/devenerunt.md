@@ -1,5 +1,6 @@
 ---
 title: Devenerunt
+letter: D
 permalink: "/definitions/devenerunt.html"
 body: A writ, now obsolete, dlrected to the king’s escheators when any of the king's
   tenants in capite dies, and when his son and heir dies within age and in the king’s

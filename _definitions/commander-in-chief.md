@@ -1,5 +1,6 @@
 ---
 title: Commander In Chief
+letter: C
 permalink: "/definitions/commander-in-chief.html"
 body: By article 2, $ 2, of the constitution it is declared that the president shall
   be commander in chief of the army and navy of the United States. The term Implies

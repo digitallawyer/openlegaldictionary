@@ -1,5 +1,6 @@
 ---
 title: Usurious
+letter: U
 permalink: "/definitions/usurious.html"
 body: Pertaining to usury; par-taking of the nature of usury; involving usury; tainted
   with usury; as, a usurious contract

@@ -1,5 +1,6 @@
 ---
 title: Skill
+letter: S
 permalink: "/definitions/skill.html"
 body: Practical and familiar knowledge of the principles and processes of an art,
   sclence, or trade, combined with the ability to apply them in practice in a proper

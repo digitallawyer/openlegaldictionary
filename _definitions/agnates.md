@@ -1,5 +1,6 @@
 ---
 title: Agnates
+letter: A
 permalink: "/definitions/agnates.html"
 body: In the law of descents. Re-lations by the father. This word is used in the Scotch
   law, and by some writers as an English word, corresponding with the Latin agnati,

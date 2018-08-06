@@ -1,5 +1,6 @@
 ---
 title: Advocation
+letter: A
 permalink: "/definitions/advocation.html"
 body: In Scotch law. A pro-cess hy which an action may be carried from an inferior
   to a superior court before final judgment lu the former

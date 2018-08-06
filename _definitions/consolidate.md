@@ -1,5 +1,6 @@
 ---
 title: Consolidate
+letter: C
 permalink: "/definitions/consolidate.html"
 body: To consolidate means something more than rearrange or redivide. In a general
   sense, it means to unite Into one mass or body, as to consolidate the forces of

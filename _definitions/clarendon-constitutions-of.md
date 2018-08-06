@@ -1,5 +1,6 @@
 ---
 title: Clarendon, Constitutions Of
+letter: C
 permalink: "/definitions/clarendon-constitutions-of.html"
 body: The constitutions of Clarendon were certain statutes made in the reign of Henry
   II. of England, at a parliament held at Clarendon, (A. D. 1164,) by which the king

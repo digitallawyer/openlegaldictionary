@@ -1,5 +1,6 @@
 ---
 title: Bordservtce
+letter: B
 permalink: "/definitions/bordservtce.html"
 body: A tenure of bord-lands
 published_at: '2018-07-07'

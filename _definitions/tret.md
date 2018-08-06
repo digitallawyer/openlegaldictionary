@@ -1,5 +1,6 @@
 ---
 title: Tret
+letter: T
 permalink: "/definitions/tret.html"
 body: An allowance made for the water or dust that may be mixed with any com-modity.
   It differs from tare, (q. v

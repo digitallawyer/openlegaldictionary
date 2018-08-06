@@ -1,5 +1,6 @@
 ---
 title: Compensacion
+letter: C
 permalink: "/definitions/compensacion.html"
 body: In Spanish law. Compensation; set-off. The extinction of a debt by another debt
   of equal dignity

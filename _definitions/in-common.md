@@ -1,5 +1,6 @@
 ---
 title: In Common
+letter: I
 permalink: "/definitions/in-common.html"
 body: Shared in respect to title, nse, or enjoyment, without apportionment or division
   into individual parts; held by sever-al for the equal advantage, use, or enjoy-ment

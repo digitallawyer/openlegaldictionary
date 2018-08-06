@@ -1,5 +1,6 @@
 ---
 title: Six Acts, The
+letter: S
 permalink: "/definitions/six-acts-the.html"
 body: The acts passed in 1819, for the pacification of England, are so called. They,
   in effect, prohibited the training of persons to arms; authorized general searches

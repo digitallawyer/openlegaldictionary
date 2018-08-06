@@ -1,5 +1,6 @@
 ---
 title: Middle Thread
+letter: M
 permalink: "/definitions/middle-thread.html"
 body: The middle thread of a stream is an imaginary line drawn lengthwise through
   the middle of its current

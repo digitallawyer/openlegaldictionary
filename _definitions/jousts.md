@@ -1,5 +1,6 @@
 ---
 title: Jousts
+letter: J
 permalink: "/definitions/jousts.html"
 body: or JOUSTS. Exercises between martial men and persons of honor, with spears,
   on horseback; different from tournaments, which were military exercises between

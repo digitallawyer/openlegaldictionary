@@ -1,5 +1,6 @@
 ---
 title: Confarreatio
+letter: C
 permalink: "/definitions/confarreatio.html"
 body: In Roman law. A sacrificial rite resorted to by marrying persons of high patrician
   or priestly degree, for the purpose of clothing the husband with the manus over

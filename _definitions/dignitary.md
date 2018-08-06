@@ -1,5 +1,6 @@
 ---
 title: Dignitary
+letter: D
 permalink: "/definitions/dignitary.html"
 body: RY. In canon law.- A person bolding an ecclesiastical benefice or dignity, which
   gave him some pre-eminence above mere priests and canons. To this class exclusively

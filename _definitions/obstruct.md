@@ -1,5 +1,6 @@
 ---
 title: Obstruct
+letter: O
 permalink: "/definitions/obstruct.html"
 body: 1. To block up; to inter-pose obstacles; to render impassable; to fill with
   harriers or impediments; as to obstruct a road or way. U. S. v. williams, 28 Fed.

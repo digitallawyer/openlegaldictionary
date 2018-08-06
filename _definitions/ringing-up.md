@@ -1,5 +1,6 @@
 ---
 title: Ringing Up
+letter: R
 permalink: "/definitions/ringing-up.html"
 body: A custom among commission merchants and brokers, (not unlike the clearing-house
   system) by wbich they ex-change contracts for sale against contracts for purchase,

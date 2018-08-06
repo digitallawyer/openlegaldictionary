@@ -1,5 +1,6 @@
 ---
 title: Gerrymander
+letter: G
 permalink: "/definitions/gerrymander.html"
 body: A name given to the process of dividing a stnte or other territory into the
   authorized civil or political divl-sions, but with such a geographical arrange-ment

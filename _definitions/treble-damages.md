@@ -1,5 +1,6 @@
 ---
 title: Treble Damages
+letter: T
 permalink: "/definitions/treble-damages.html"
 body: In practice. Dam-ages given by statute in certain cases, con-sisting of the
   single damages found by Ute

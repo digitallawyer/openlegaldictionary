@@ -1,5 +1,6 @@
 ---
 title: De Bonis Testatoris Ac Si
+letter: D
 permalink: "/definitions/de-bonis-testatoris-ac-si.html"
 body: "(Lat From the goods of the testator, if he has any, and, lf not, from those
   of the executor.) A judgment rendered where an execu-tor falsely pleads any matter

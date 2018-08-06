@@ -1,5 +1,6 @@
 ---
 title: Pretenses
+letter: P
 permalink: "/definitions/pretenses.html"
 body: Allegations sometimes made in a bill in chancery for the purpose of negativing
   an anticipated defense. Hunt, Eq. pt I. c. 1

@@ -1,5 +1,6 @@
 ---
 title: Loadsman
+letter: L
 permalink: "/definitions/loadsman.html"
 body: or LOADSMAN. The pilot conducts the ship up the river-or Into port; but the
   loadsman is he that undertakes to bring a ship through the haven, after being brought

@@ -1,5 +1,6 @@
 ---
 title: Four Corners
+letter: F
 permalink: "/definitions/four-corners.html"
 body: The face of a writ-ten Instrument. That which is contained on the face of a
   deed (without auy aid from the knowledge of the circumstances under which it is

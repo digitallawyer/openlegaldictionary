@@ -1,5 +1,6 @@
 ---
 title: Automatism
+letter: A
 permalink: "/definitions/automatism.html"
 body: In medical jurispru-dence, this term is applied to actions or conduct of an
   individual apparently occur-ring without will, purpose, or reasoned intention on

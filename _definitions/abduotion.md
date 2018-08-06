@@ -1,5 +1,6 @@
 ---
 title: Abduotion
+letter: A
 permalink: "/definitions/abduotion.html"
 body: In criminal law. The offense of taking away a man’s wife, child, or ward, by
   fraud and persuasion, or open violence. 3 BI. Comm. 139-141; Humphrey v. Pope, 122

@@ -1,5 +1,6 @@
 ---
 title: Trinepos
+letter: T
 permalink: "/definitions/trinepos.html"
 body: Lat. In the civil law. A great-grandson’s or great-granddaughter’s great-grandson.
   A male descendant in the sixth degree. Inst. 3, 6, 4

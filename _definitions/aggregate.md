@@ -1,5 +1,6 @@
 ---
 title: Aggregate
+letter: A
 permalink: "/definitions/aggregate.html"
 body: Composed of several; consisting of many persons united together. 1 Bl. Comm.
   469

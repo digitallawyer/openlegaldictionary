@@ -1,5 +1,6 @@
 ---
 title: Block Of Surveys
+letter: B
 permalink: "/definitions/block-of-surveys.html"
 body: In Pennsylva-nta land law. Any considerable body of contiguous tracts surveyed
   in the name of the same warrantee, without regard to the manner in which they were

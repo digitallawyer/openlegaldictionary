@@ -1,5 +1,6 @@
 ---
 title: Persuade, Persuading
+letter: P
 permalink: "/definitions/persuade-persuading.html"
 body: To persuade is to induce to act. Persuading is ln-dueing others to act. Crosby
   v. Hawthorn, 25 Ala. 221; wilson v. State, 38 Ala. 411; Nash v. Douglass, 12 Abb.

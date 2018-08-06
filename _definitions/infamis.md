@@ -1,5 +1,6 @@
 ---
 title: Infamis
+letter: I
 permalink: "/definitions/infamis.html"
 body: Lat. In Roman law. A person whose right of reputation was dlmlnlsh-ed (involving
   the loss of some of the rights of citizenship) either on account of his in-famous

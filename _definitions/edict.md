@@ -1,5 +1,6 @@
 ---
 title: Edict
+letter: E
 permalink: "/definitions/edict.html"
 body: A positive law promulgated by the sovereign of a country, and having reference
   either to the whole land or some of its divisions, but usually relating to affairs

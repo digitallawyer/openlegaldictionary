@@ -1,5 +1,6 @@
 ---
 title: Abeyance
+letter: A
 permalink: "/definitions/abeyance.html"
 body: In the law of estates. Expectation; waiting; suspense; remembrance and contemplation
   in law. where there is no person in existence in whom an inherit* ance can vest,

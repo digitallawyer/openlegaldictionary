@@ -1,5 +1,6 @@
 ---
 title: Trade-Mark
+letter: T
 permalink: "/definitions/trade-mark.html"
 body: A distinctive mark, mot-to, device, or emblem, which a manufacturer stamps,
   prints, or otherwise affixes to the goods he produces, so that they may be identified

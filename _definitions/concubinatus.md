@@ -1,5 +1,6 @@
 ---
 title: Concubinatus
+letter: C
 permalink: "/definitions/concubinatus.html"
 body: In Roman law. An informal, unsanctioned, or “natural" marriage, as contradistinguished
   from the justae nuptia:, or juatum matrimonium, the civil marriage

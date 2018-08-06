@@ -1,5 +1,6 @@
 ---
 title: Suicide
+letter: S
 permalink: "/definitions/suicide.html"
 body: Suicide is the willful and vol-untary act of a person who understands the physical
   nature of the act, and intends by it to accomplish the result of self-destruction.

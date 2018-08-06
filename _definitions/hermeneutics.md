@@ -1,5 +1,6 @@
 ---
 title: Hermeneutics
+letter: H
 permalink: "/definitions/hermeneutics.html"
 body: The science or art of construction and Interpretation. By the phrase “legal
   hermeneutics” is understood the systematic body of rules which are recognlzed as

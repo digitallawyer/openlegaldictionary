@@ -1,5 +1,6 @@
 ---
 title: Breast Of The Court
+letter: B
 permalink: "/definitions/breast-of-the-court.html"
 body: A metaphorical expression, signifying the con-science, discretion, or recollection
   of the judge. During the term of a court, the rec-ord is said to remain “in the

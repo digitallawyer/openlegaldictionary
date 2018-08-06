@@ -1,5 +1,6 @@
 ---
 title: Wharfage
+letter: W
 permalink: "/definitions/wharfage.html"
 body: Money pald for landing wnree at a wharf, or for shlpping or taking goods into
   a boat or barge from thence. Cowell

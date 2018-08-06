@@ -1,5 +1,6 @@
 ---
 title: Appellor
+letter: A
 permalink: "/definitions/appellor.html"
 body: in old Engllsh law. A criminal who accuses his accomplices, or who challenges
   a jury

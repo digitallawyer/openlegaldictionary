@@ -1,5 +1,6 @@
 ---
 title: Extinguishment
+letter: E
 permalink: "/definitions/extinguishment.html"
 body: The destruction or cancellation of a right, power, contract, or estate. Tbe
   annihilation of a collateral thing or subject in the subject itself out of which

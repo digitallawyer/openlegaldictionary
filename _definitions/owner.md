@@ -1,5 +1,6 @@
 ---
 title: Owner
+letter: O
 permalink: "/definitions/owner.html"
 body: The person in whom is vested the ownership, dominion, or title of property;
   proprietor. Garver v. Hawkeye Ins. Co., 69 Iowa, 202, 28 N. W. 555; Turner v. Cross,

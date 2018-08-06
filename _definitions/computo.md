@@ -1,5 +1,6 @@
 ---
 title: Computo
+letter: C
 permalink: "/definitions/computo.html"
 body: Lat. To compute, reckon, or account. Used in the phrases insimul computassent,
   “they reckoned together," (see Inbimto, ;) plene computavit, “he has fully accounted,”

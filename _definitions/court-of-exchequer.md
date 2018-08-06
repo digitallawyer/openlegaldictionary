@@ -1,5 +1,6 @@
 ---
 title: Court Of Exchequer
+letter: C
 permalink: "/definitions/court-of-exchequer.html"
 body: In English law. A very ancient court of record, set up by william the Conqueror
   as a part of the aula regis, aud afterwards oue of the four superior courts at westmiuster.

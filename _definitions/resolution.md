@@ -1,5 +1,6 @@
 ---
 title: Resolution
+letter: R
 permalink: "/definitions/resolution.html"
 body: The determination or de-cision, in regard to its opinion or intention, of a
   deliberative or legislative body, public assembly, town council, hoard of directors

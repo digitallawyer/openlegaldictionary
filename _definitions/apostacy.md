@@ -1,5 +1,6 @@
 ---
 title: Apostacy
+letter: A
 permalink: "/definitions/apostacy.html"
 body: In English law. The total renunciatlon of Christianity, by embracing either
   a false religion or no religion at all. This offense can only take place in such

@@ -1,5 +1,6 @@
 ---
 title: Voucher
+letter: V
 permalink: "/definitions/voucher.html"
 body: A receipt, acquittance, or release, which may serve as evidence of payment or
   discharge of a debt, or to certify the correctness of accounts. An account-book

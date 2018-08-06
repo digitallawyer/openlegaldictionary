@@ -1,5 +1,6 @@
 ---
 title: Predicate
+letter: P
 permalink: "/definitions/predicate.html"
 body: In logic. That which is said concerning the subject in a logical prop-osition;
   as, “The law is the perfection of common sense." “Perfection of common sense," being

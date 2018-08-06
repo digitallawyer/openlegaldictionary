@@ -1,5 +1,6 @@
 ---
 title: Lewdness
+letter: L
 permalink: "/definitions/lewdness.html"
 body: Licentiousness; an offense against the public economy, when of an an open and
   notorious character; as by frequenting houses of 111 fame, which is an indictable

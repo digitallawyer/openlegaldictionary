@@ -1,5 +1,6 @@
 ---
 title: Jocus Partitus
+letter: J
 permalink: "/definitions/jocus-partitus.html"
 body: In old English practice. A divided game, risk, or hazard. An arrangement which
   the parties to a suit were anciently sometimes allowed to make by mutual agreement

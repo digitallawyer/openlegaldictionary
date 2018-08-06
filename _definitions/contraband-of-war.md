@@ -1,5 +1,6 @@
 ---
 title: Contraband Of War
+letter: C
 permalink: "/definitions/contraband-of-war.html"
 body: Certaln classes of merchandise, such as arms and ammunition, whlch, by the rules
   of lntema-tlonal law, cannot lawfully be furnlshed or carried hy a neutral natlon

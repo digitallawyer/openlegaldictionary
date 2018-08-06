@@ -1,5 +1,6 @@
 ---
 title: Equivalent
+letter: E
 permalink: "/definitions/equivalent.html"
 body: 'In patent law. Any act or substance which is known in the arts as a proper
   substitute for some other act or substance employed as an element in the invention,

@@ -1,5 +1,6 @@
 ---
 title: Court Of Star Chamber
+letter: C
 permalink: "/definitions/court-of-star-chamber.html"
 body: This was an English court of very ancient origin, but new-modeled by St. 3 Hen.
   VII. c. 1, aud 21 Hen. VIII. c. 20, consisting of divers lords, spiritual and temporal,

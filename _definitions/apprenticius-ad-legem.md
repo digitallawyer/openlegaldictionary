@@ -1,5 +1,6 @@
 ---
 title: Apprenticius Ad Legem
+letter: A
 permalink: "/definitions/apprenticius-ad-legem.html"
 body: 'An apprentice to tlie law; a law student: a couu-sellor below the degree of
   serjeant; a barrister. See Apprentice en la Let'

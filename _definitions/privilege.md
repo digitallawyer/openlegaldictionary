@@ -1,5 +1,6 @@
 ---
 title: Privilege
+letter: P
 permalink: "/definitions/privilege.html"
 body: A particular and pecullar benefit or advantage enjoyed by a person, company,
   or class, beyond the common ad-vantages of other citizens. An exceptional or extraordinary

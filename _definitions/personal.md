@@ -1,5 +1,6 @@
 ---
 title: Personal
+letter: P
 permalink: "/definitions/personal.html"
 body: Appertaining to the per-8on; belonging to an individual; limited to the person;
   having the nature or partaking of the qualities of human beings, or of mova-ble

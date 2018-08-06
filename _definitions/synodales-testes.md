@@ -1,5 +1,6 @@
 ---
 title: Synodales Testes
+letter: S
 permalink: "/definitions/synodales-testes.html"
 body: L. Lat. Syn-ods-men (corrupted into sidesmen) were the urban and rural deans,
   now the church-wardens

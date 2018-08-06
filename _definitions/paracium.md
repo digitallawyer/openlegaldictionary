@@ -1,5 +1,6 @@
 ---
 title: Paracium
+letter: P
 permalink: "/definitions/paracium.html"
 body: The teuure between par-teeners, viz., that which the youngest owes to the eldest
   without homage or service. Domesday

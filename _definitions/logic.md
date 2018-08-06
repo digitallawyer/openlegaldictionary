@@ -1,5 +1,6 @@
 ---
 title: Logic
+letter: L
 permalink: "/definitions/logic.html"
 body: The science of reasoning, or of the operations of the understanding wbich are
   subservient to the estimation of evidence. The term includes both tlie process Itself

@@ -1,5 +1,6 @@
 ---
 title: Cadaver
+letter: C
 permalink: "/definitions/cadaver.html"
 body: A dead human body; a corpse. Cadaver nullius in bonis, no one can have a right
   of property in a corpse. 3 Co. Inst. 110, 2 Bl. Comm. 429; Griffith v. Rail-road

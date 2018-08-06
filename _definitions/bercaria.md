@@ -1,5 +1,6 @@
 ---
 title: Bercaria
+letter: B
 permalink: "/definitions/bercaria.html"
 body: ln old English law, a sheepfold; also a place where the bark of trees was laid
   to tan

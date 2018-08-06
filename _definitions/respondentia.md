@@ -1,5 +1,6 @@
 ---
 title: Respondentia
+letter: R
 permalink: "/definitions/respondentia.html"
 body: The hypothecation of the cargo or goods on board a ship as se-curity for the
   repayment of a loan, the term “■bottomry” being confined to hypothecations of the

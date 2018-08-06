@@ -1,5 +1,6 @@
 ---
 title: Estate
+letter: E
 permalink: "/definitions/estate-2.html"
 body: 1. Tbe interest which any one has in lands, or in any other subject of property.
   1 Prest. Est. 20. And see Van Rensselaer v. Poacher, 5 Denio (N. Y.) 40; Beall v.

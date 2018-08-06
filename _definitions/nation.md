@@ -1,5 +1,6 @@
 ---
 title: Nation
+letter: N
 permalink: "/definitions/nation.html"
 body: A people, or aggregation of men, existing in the form of an organized jural
   society, inhabiting a distinct portion of the earth, speaking the same language,

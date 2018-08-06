@@ -1,5 +1,6 @@
 ---
 title: Non Submissit
+letter: N
 permalink: "/definitions/non-submissit.html"
 body: Lat Ile did not submit A plea to an action of debt, on a bond to perform an
   award, to the effect that the defendant did not submit to the arbitra-tion

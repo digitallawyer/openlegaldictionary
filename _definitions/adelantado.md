@@ -1,5 +1,6 @@
 ---
 title: Adelantado
+letter: A
 permalink: "/definitions/adelantado.html"
 body: In Spanish law. A governor of a province; a president or presi-dent judge; a
   judge having jurisdiction over a kingdom, or over certain provinces only. So called

@@ -1,5 +1,6 @@
 ---
 title: Centralization
+letter: C
 permalink: "/definitions/centralization.html"
 body: This word is used to express the system of government pre-vailing in a country
   where the management of local matters is in the hands of function-aries appointed

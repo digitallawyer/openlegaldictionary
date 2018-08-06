@@ -1,5 +1,6 @@
 ---
 title: Prosecuting Witness
+letter: P
 permalink: "/definitions/prosecuting-witness.html"
 body: This name is given to the private person upon whose complaint or information
   a criminal accusa-tion is founded and whose testimony is maln-ly relied on to secure

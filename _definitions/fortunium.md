@@ -1,5 +1,6 @@
 ---
 title: Fortunium
+letter: F
 permalink: "/definitions/fortunium.html"
 body: In old English law. A tournament or fighting with spears, and an appeal to fortune
   therein

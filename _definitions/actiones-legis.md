@@ -1,5 +1,6 @@
 ---
 title: Actiones Legis
+letter: A
 permalink: "/definitions/actiones-legis.html"
 body: In the Roman law. Legal or lawful action; actions of or at law, (legitim# actiones.)
   Dig. 1, 2, 2, 6

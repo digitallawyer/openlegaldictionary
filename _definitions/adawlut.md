@@ -1,5 +1,6 @@
 ---
 title: Adawlut
+letter: A
 permalink: "/definitions/adawlut.html"
 body: Corrupted from Adalat, justice, equity; a court of justice. The terms "Dewanny
   Adawlut" and “Foujdarry Adaw-lut” denote the civil and criminal courts of justice

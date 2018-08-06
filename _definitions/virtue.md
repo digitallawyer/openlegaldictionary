@@ -1,5 +1,6 @@
 ---
 title: Virtue
+letter: V
 permalink: "/definitions/virtue.html"
 body: The phrase “by virtue” differs in meaning from "under color.” For instance,
   the proper fees are received bg virtue of the office; extortion is under color of

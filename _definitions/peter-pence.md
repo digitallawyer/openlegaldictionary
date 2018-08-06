@@ -1,5 +1,6 @@
 ---
 title: Peter-Pence
+letter: P
 permalink: "/definitions/peter-pence.html"
 body: An ancient levy or tax of a penny on each house throughout Eng-Iand, paid to
   the pope. It was called “Peter-pence,” because collected on the day of St. Peter,

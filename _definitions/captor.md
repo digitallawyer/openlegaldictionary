@@ -1,5 +1,6 @@
 ---
 title: Captor
+letter: C
 permalink: "/definitions/captor.html"
 body: In international law. one who takes or seizes property in time of war; one who
   takes the property of an enemy. In a stricter sense, one who takes a prize at sea.

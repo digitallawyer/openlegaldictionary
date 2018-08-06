@@ -1,5 +1,6 @@
 ---
 title: Valor Maritagii
+letter: V
 permalink: "/definitions/valor-maritagii.html"
 body: Lat. Value of the marriage. In feudal law, the guardian in chivalry had the
   right of tendering to his infant ward a suitable match, without “dis-pa rage ment,”

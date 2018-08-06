@@ -1,5 +1,6 @@
 ---
 title: Capital Stock
+letter: C
 permalink: "/definitions/capital-stock.html"
 body: The common stock or fund of a corporation. The sum of money raised by the subscriptions
   of the stockhold-ers, and dlvlded into shares. It is sald to he the sum upon which

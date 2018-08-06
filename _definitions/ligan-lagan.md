@@ -1,5 +1,6 @@
 ---
 title: Ligan, Lagan
+letter: L
 permalink: "/definitions/ligan-lagan.html"
 body: Goods cast Into the sea tied to a buoy, so that they may be found again by the
   owners, are so denominated. when goods are cast into the sea in storms or shipwrecks,

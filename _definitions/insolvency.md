@@ -1,5 +1,6 @@
 ---
 title: Insolvency
+letter: I
 permalink: "/definitions/insolvency.html"
 body: The condition of a person who is Insolvent; inability to pay one’s debts; lack
   of means to pay one’s debts. Such a relative condition of a man’s assets and liabilities

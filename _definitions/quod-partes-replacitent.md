@@ -1,5 +1,6 @@
 ---
 title: Quod Partes Replacitent
+letter: Q
 permalink: "/definitions/quod-partes-replacitent.html"
 body: That the parties do replead. The form of the judgment on award of a repleader.
   2 Salk. 579

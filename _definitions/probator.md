@@ -1,5 +1,6 @@
 ---
 title: Probator
+letter: P
 permalink: "/definitions/probator.html"
 body: In old English law. Strictly, an accomplice in felony who to save himself confessed
   the fact, and charged or accused any other as principal or accessory, against whom

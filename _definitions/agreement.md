@@ -1,5 +1,6 @@
 ---
 title: Agreement
+letter: A
 permalink: "/definitions/agreement.html"
 body: A concord of understand-ing and Intention, between two or more par-ties, with
   respect to the effect upon their relative rights and duties, of certain past or

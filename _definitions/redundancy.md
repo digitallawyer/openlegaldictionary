@@ -1,5 +1,6 @@
 ---
 title: Redundancy
+letter: R
 permalink: "/definitions/redundancy.html"
 body: This is the fault of introducing superfluous matter into a legal instrument;
   particularly the insertion in a pleading of matters foreign, extraneous, and Irrelevant

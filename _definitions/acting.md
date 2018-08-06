@@ -1,5 +1,6 @@
 ---
 title: Acting
+letter: A
 permalink: "/definitions/acting.html"
 body: A term employed to designate a locum tenens who is performing the duties of
   an office to which he does not himself claim title; e. g., “Acting Supervising Archl-tect.”

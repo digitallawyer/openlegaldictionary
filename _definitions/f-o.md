@@ -1,5 +1,6 @@
 ---
 title: F. O
+letter: F
 permalink: "/definitions/f-o.html"
 body: B. In mercantlle contracts, thls abbrevlation means “free on board,” and lm-ports
   that the seller or consignor of goods will deliver them on the car, vessel, or oth-er

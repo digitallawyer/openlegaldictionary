@@ -1,5 +1,6 @@
 ---
 title: I Iii
+letter: I
 permalink: "/definitions/i-iii.html"
 body: rporations. Instalments of the money subscribed for shares of stock, called
   for from the subscribers by the directors, from time to time as the company requires

@@ -1,5 +1,6 @@
 ---
 title: Per Quod
+letter: P
 permalink: "/definitions/per-quod.html"
 body: Lat Whereby, when the declaration in an action of tort, after stating the acts
   complained of, goes on to allege the consequences of tbose acts as a ground of special

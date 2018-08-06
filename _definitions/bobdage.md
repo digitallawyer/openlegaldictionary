@@ -1,5 +1,6 @@
 ---
 title: Bobdage
+letter: B
 permalink: "/definitions/bobdage.html"
 body: In old English law. A species of base tenure, by which certaln lands (termed
   “bord lands,”) were anciently held in England, the tenants being termed “bordarii;"

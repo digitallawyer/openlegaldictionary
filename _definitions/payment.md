@@ -1,5 +1,6 @@
 ---
 title: Payment
+letter: P
 permalink: "/definitions/payment.html"
 body: The performance of a duty, promlse, or obligation, or discharge of a debt or
   liability, by the delivery of money or oth-er value. Also the money or other thing

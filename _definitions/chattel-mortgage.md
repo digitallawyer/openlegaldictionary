@@ -1,5 +1,6 @@
 ---
 title: Chattel Mortgage
+letter: C
 permalink: "/definitions/chattel-mortgage.html"
 body: An lnstru-ment of sale of personalty conveying the title of the property to
   the mortgagee with terms of defeasance; and, if the terms of redemption are not

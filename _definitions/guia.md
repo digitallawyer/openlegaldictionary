@@ -1,5 +1,6 @@
 ---
 title: Guia
+letter: G
 permalink: "/definitions/guia.html"
 body: In Spanish law. A right of way for narrow carts, white, New Recop. L 2, c. 6,
   | 1

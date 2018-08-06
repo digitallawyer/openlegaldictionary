@@ -1,5 +1,6 @@
 ---
 title: Dustuck
+letter: D
 permalink: "/definitions/dustuck.html"
 body: A term used in Hlndostan for a passport, permit, or order from the English East
   Indian Company. It generr ally meant a permit under their seal exempting goods from

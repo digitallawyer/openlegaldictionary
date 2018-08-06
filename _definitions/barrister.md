@@ -1,5 +1,6 @@
 ---
 title: Barrister
+letter: B
 permalink: "/definitions/barrister.html"
 body: In English law. An ad-vocate; one who has been called to the bar. A counsellor
   learned in the law who pleads at the bar of the courts, and who is engaged in conducting

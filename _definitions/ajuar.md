@@ -1,5 +1,6 @@
 ---
 title: Ajuar
+letter: A
 permalink: "/definitions/ajuar.html"
 body: In Spanish law. Parapherna-11a. The jewels and furniture which a wlfe brings
   in marriage

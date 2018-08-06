@@ -1,5 +1,6 @@
 ---
 title: Ascriptitius
+letter: A
 permalink: "/definitions/ascriptitius.html"
 body: In Roman law. A foreigner who had been registered and nat-uralized in the colony
   in which he resided. Cod. 11, 47

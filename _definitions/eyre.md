@@ -1,5 +1,6 @@
 ---
 title: Eyre
+letter: E
 permalink: "/definitions/eyre.html"
 body: or EYRE. In old Ehigiish law. A Journey, route, or circuit. Justices in eire
   were judges who were sent by commission, every seven years, into various counties

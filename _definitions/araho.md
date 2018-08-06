@@ -1,5 +1,6 @@
 ---
 title: Araho
+letter: A
 permalink: "/definitions/araho.html"
 body: In feudal law. To make oath in the church or some other holy place. All oaths
   were made in the church upon the rel-ics of saints, according to the Ripuarian laws.

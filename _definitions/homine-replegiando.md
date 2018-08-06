@@ -1,5 +1,6 @@
 ---
 title: Homine Replegiando
+letter: H
 permalink: "/definitions/homine-replegiando.html"
 body: In English law. A writ which lay to replevy a man out of prison, or out of the
   custody of any private person, in the same manner that chat-tels taken in distress

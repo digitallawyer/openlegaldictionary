@@ -1,5 +1,6 @@
 ---
 title: Assignee
+letter: A
 permalink: "/definitions/assignee.html"
 body: A person to whom an assignment is made. Allen v. Pancoast, 20 N. J. Law, 74;
   Ely v. Cora'rs, 49 Mich. 17. 12 N. W. 893, 13 N. W. 784. The term is commonly used

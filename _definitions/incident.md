@@ -1,5 +1,6 @@
 ---
 title: Incident
+letter: I
 permalink: "/definitions/incident.html"
 body: This word, used as a noun, denotes anything which inseparably belongs to, or
   is connected with, or Inherent in, an-other thing, called the "principal.” In this

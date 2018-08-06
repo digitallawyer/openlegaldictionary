@@ -1,5 +1,6 @@
 ---
 title: Corruption Of Blood
+letter: C
 permalink: "/definitions/corruption-of-blood.html"
 body: In English law. This was the consequence of attainder. It meant that the attainted
   person could neither inherit lands or other hereditaments from his ancestor, nor

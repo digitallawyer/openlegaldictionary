@@ -1,5 +1,6 @@
 ---
 title: Continens
+letter: C
 permalink: "/definitions/continens.html"
 body: In the Roman law. Continuing; holding together. Adjoining buildings were said
   to be continentia.

@@ -1,5 +1,6 @@
 ---
 title: Suggestio Falsi
+letter: S
 permalink: "/definitions/suggestio-falsi.html"
 body: Lat. Suggestion or representation of that which is false; false representation.
   To recite in a deed that a will was duly executed, when it was not, ia suggestio

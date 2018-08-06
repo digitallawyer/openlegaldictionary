@@ -1,5 +1,6 @@
 ---
 title: Hengwyte
+letter: H
 permalink: "/definitions/hengwyte.html"
 body: Sax. In old Engllsh law. An acquittance from a flne for hanglng a thief. Fleta,
   llb. 1, c. 47, | 17

@@ -1,5 +1,6 @@
 ---
 title: Replevin
+letter: R
 permalink: "/definitions/replevin.html"
 body: A personal action ex delicto brought to recover possession of goods unlawfully
   taken, (generally, hut not only, applicable to the taking of goods distrained for

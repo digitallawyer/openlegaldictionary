@@ -1,5 +1,6 @@
 ---
 title: Baby Aot
+letter: B
 permalink: "/definitions/baby-aot.html"
 body: T.” A plea of Infancy, Interposed for the purpose of defeating an action upon
   a contract made while the person was a minor, is vulgarly called “pleading the baby

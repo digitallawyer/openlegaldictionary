@@ -1,5 +1,6 @@
 ---
 title: Per Cent
+letter: P
 permalink: "/definitions/per-cent.html"
 body: An abbreviation of the Latin “per centum" meaning by the hundred, or so many
   parts in the hundred, or so many hundredths. See Blakeslee v. Mans-field, 66 Iii.

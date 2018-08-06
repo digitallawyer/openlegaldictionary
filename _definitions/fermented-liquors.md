@@ -1,5 +1,6 @@
 ---
 title: Fermented Liquors
+letter: F
 permalink: "/definitions/fermented-liquors.html"
 body: Beverages produced by, or whlch have undergone, a process of alcohollc fermentation,
   to which they owe their intoxicating properties, including beer, wine, hard cider,

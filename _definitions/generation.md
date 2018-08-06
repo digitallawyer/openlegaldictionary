@@ -1,5 +1,6 @@
 ---
 title: Generation
+letter: G
 permalink: "/definitions/generation.html"
 body: May mean either a de-gree of removal in computing descents, or a single succession
   of living beings in natural descent McMillan v. School Committee, 107 N. C. 609,

@@ -1,5 +1,6 @@
 ---
 title: Estate In Dower
+letter: E
 permalink: "/definitions/estate-in-dower.html"
 body: A species of life-estate which a woman is, by law, entitled to clalm on the
   death of her husband, in the lands and tenements of whlch he was seised in fee during

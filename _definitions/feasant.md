@@ -1,5 +1,6 @@
 ---
 title: Feasant
+letter: F
 permalink: "/definitions/feasant.html"
 body: Doing, or making, as, in the term “damage feasant,” (doing damage or Injury,)
   spoken of cattle straying upon another's land

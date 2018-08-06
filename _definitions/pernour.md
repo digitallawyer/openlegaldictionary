@@ -1,5 +1,6 @@
 ---
 title: Pernour
+letter: P
 permalink: "/definitions/pernour.html"
 body: L. Fr. A taker. Le per-nour ou le detenour, the taker or the detain-er. Britt,
   c. 27

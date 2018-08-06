@@ -1,5 +1,6 @@
 ---
 title: Tourn
+letter: T
 permalink: "/definitions/tourn.html"
 body: or TOURN. The great court-leet of the county, as the old county court was the
   court-baron. Of this the sheriff is judge, ahd the court is Incident to his office;

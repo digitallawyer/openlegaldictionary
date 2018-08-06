@@ -1,5 +1,6 @@
 ---
 title: Coupons
+letter: C
 permalink: "/definitions/coupons.html"
 body: Interest and dividend cer-tlflcates; also those parts of a commercial instrument
   whlch are to be cut, and which are evidence of something connected with the contract

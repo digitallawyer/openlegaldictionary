@@ -1,5 +1,6 @@
 ---
 title: Guardian
+letter: G
 permalink: "/definitions/guardian.html"
 body: A guardian is a person lawfully invested with the power, and char-ged with the
   duty, of taking care of the person and managing the property and rights of another

@@ -1,5 +1,6 @@
 ---
 title: Senators Of The Oollege Op Justice
+letter: S
 permalink: "/definitions/senators-of-the-oollege-op-justice.html"
 body: The judges of the court of session in Scotland are called “Senators of the College
   of Justice

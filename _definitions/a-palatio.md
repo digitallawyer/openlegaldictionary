@@ -1,5 +1,6 @@
 ---
 title: A Palatio
+letter: A
 permalink: "/definitions/a-palatio.html"
 body: L. Lat From palatium, (a palace.) Counties palatine are hence so culled. 1 Bl.
   Comm. 117. See PaLatiuu

@@ -1,5 +1,6 @@
 ---
 title: Navagidm
+letter: N
 permalink: "/definitions/navagidm.html"
 body: In old English law. A duty on certain tenants to carry thelr lord’s goods in
   a ship

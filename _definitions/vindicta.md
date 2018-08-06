@@ -1,5 +1,6 @@
 ---
 title: Vindicta
+letter: V
 permalink: "/definitions/vindicta.html"
 body: In Roman law. A rod or wand; and, from the use of that instruhient in their
   course, various legal acts came to be distinguished by the term; e. g., one of the

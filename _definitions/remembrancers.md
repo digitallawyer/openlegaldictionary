@@ -1,5 +1,6 @@
 ---
 title: Remembrancers
+letter: R
 permalink: "/definitions/remembrancers.html"
 body: In English law. officers of the exchequer, whose duty It le to put in remembrance
   the lord treasurer and the justlces of that court of such things as are to be called

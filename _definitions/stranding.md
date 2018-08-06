@@ -1,5 +1,6 @@
 ---
 title: Stranding
+letter: S
 permalink: "/definitions/stranding.html"
 body: In maritime law. The drifting, driving, or running aground of a ship on a shore
   or strand. Accidental strand-ing takes place where the ship is driven on shore by

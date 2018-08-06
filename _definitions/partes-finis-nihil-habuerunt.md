@@ -1,5 +1,6 @@
 ---
 title: Partes Finis Nihil Habuerunt
+letter: P
 permalink: "/definitions/partes-finis-nihil-habuerunt.html"
 body: In old pleading. The parties to the fine had nothing; that is, had no estate
   which could be conveyed by lt. A plea to a fine which' had been levied by a stranger.

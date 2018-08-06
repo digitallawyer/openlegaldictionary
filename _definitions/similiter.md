@@ -1,5 +1,6 @@
 ---
 title: Similiter
+letter: S
 permalink: "/definitions/similiter.html"
 body: Lat in pleading. Like-wise; the like. The name of the short for-mula used either
   at the end of pleadings or by itself, expressive of the acceptance of an issue of

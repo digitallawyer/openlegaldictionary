@@ -1,5 +1,6 @@
 ---
 title: Maritagium
+letter: M
 permalink: "/definitions/maritagium.html"
 body: The portion which is given with a daughter in marriage. Also the power which
   the lord or guardian in chivalry had of disposing of ids infant ward in matrimony

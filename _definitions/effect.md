@@ -1,5 +1,6 @@
 ---
 title: Effect
+letter: E
 permalink: "/definitions/effect.html"
 body: The result which an instrument between partles will produce in their relative
   rights, or which a statute will pro-duce .upon the exlsting law, as discovered from

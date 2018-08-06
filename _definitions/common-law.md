@@ -1,5 +1,6 @@
 ---
 title: Common Law
+letter: C
 permalink: "/definitions/common-law.html"
 body: 1. As distinguished from the Roman law, the modern civil law. the canon law,
   and other systems, the com-mon law is that body of law and Jurlstic theory which

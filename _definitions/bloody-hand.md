@@ -1,5 +1,6 @@
 ---
 title: Bloody Hand
+letter: B
 permalink: "/definitions/bloody-hand.html"
 body: In forest law. The having the hands or other parts bloody, whlch, in a person
   caught trespassing in the forest against venison, was ohe of the four kinds of circumstantial

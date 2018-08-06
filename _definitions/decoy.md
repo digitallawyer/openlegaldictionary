@@ -1,5 +1,6 @@
 ---
 title: Decoy
+letter: D
 permalink: "/definitions/decoy.html"
 body: To inveigle, entice, tempt, or lure; as, to decoy a person within the ju-risdiction
   of a court so that he may be serv-ed with process, or to decoy a fugitive criminal

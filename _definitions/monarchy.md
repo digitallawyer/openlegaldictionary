@@ -1,5 +1,6 @@
 ---
 title: Monarchy
+letter: M
 permalink: "/definitions/monarchy.html"
 body: A government in which the supreme power is vested in a single per-son. where
   a monarch is Invested with absolute power, the monarchy is termed “des-potlcwhere

@@ -1,5 +1,6 @@
 ---
 title: Genuine
+letter: G
 permalink: "/definitions/genuine.html"
 body: As applied to notes, bonds, and other .written Instruments, this term means
   that they are truly what they pur-port to be, and that they are not false, forged,

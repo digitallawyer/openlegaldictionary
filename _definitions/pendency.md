@@ -1,5 +1,6 @@
 ---
 title: Pendency
+letter: P
 permalink: "/definitions/pendency.html"
 body: Suspense; the state of being pendent or undecided; the state of an action, etc.,
   after it hns been begun, and be-fore the final disposltion of it

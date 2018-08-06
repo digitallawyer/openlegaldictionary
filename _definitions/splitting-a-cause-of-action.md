@@ -1,5 +1,6 @@
 ---
 title: Splitting A Cause Of Action
+letter: S
 permalink: "/definitions/splitting-a-cause-of-action.html"
 body: Dividing a single cause of action, claim, or demand into two or more parts,
   and brlng-lng suit for one of such parts only, intending to reserve the rest for

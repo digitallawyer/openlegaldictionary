@@ -1,5 +1,6 @@
 ---
 title: Policy Of Insurance
+letter: P
 permalink: "/definitions/policy-of-insurance.html"
 body: A mercantile instrument in writing, by which one party, in consideration of
   a premium, engages to lndemnify another against a contingent loss, by making bim

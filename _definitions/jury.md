@@ -1,5 +1,6 @@
 ---
 title: Jury
+letter: J
 permalink: "/definitions/jury.html"
 body: In practice. A certain number of men, selected according to law, and sworn (jurati)
   to inquire of certain matters of fact, and declare the truth upon evidence to be

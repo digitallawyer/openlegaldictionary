@@ -1,5 +1,6 @@
 ---
 title: Habendum
+letter: H
 permalink: "/definitions/habendum.html"
 body: Lat. In conveyancing. Tiie clanse usually following the granting part of the
   premises of a deed, which defines the extent of the ownership in the thing granted

@@ -1,5 +1,6 @@
 ---
 title: Forisfamiliated
+letter: F
 permalink: "/definitions/forisfamiliated.html"
 body: In old English law. Portioned off. A son was sald to be forisfamiliated (fortefamiliari)
   if hie father assigned him part of his land, and gave him seisin thereof, and did

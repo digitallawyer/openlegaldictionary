@@ -1,5 +1,6 @@
 ---
 title: Author
+letter: A
 permalink: "/definitions/author.html"
 body: one who produces, by his own intellectual labor applied to the materl-als of
   his composition, an arrangement or compilation new in Itself. Atwill v. Ferrett,

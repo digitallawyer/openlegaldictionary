@@ -1,5 +1,6 @@
 ---
 title: Pave
+letter: P
 permalink: "/definitions/pave.html"
 body: To pave is to cover with stones or brick, or other suitable material, so as
   to make a level or convenient surface for horses, carriages, or foot-passengers,

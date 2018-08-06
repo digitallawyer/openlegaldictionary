@@ -1,5 +1,6 @@
 ---
 title: Per Quod Seryitium Amisit
+letter: P
 permalink: "/definitions/per-quod-seryitium-amisit.html"
 body: Lat. In old pleading, whereby he lost the service [of his servant.] A phrase
   used in the old declarations in actions of trespass by a master, for beating or

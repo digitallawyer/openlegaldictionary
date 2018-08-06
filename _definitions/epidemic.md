@@ -1,5 +1,6 @@
 ---
 title: Epidemic
+letter: E
 permalink: "/definitions/epidemic.html"
 body: This term, in its ordinary and popular meaning, applies to ang disease which
   is widely spread or generally prevail* ing at a given place and tlme. Pohalski v.

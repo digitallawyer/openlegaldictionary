@@ -1,5 +1,6 @@
 ---
 title: Chamber Of Accounts
+letter: C
 permalink: "/definitions/chamber-of-accounts.html"
 body: In French law. A sovereign court, of great antiquity, in France, which took
   cognizance of and registered the accounts of the king’s revenue; nearly the same

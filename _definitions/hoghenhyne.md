@@ -1,5 +1,6 @@
 ---
 title: Hoghenhyne
+letter: H
 permalink: "/definitions/hoghenhyne.html"
 body: In Saxon law. A house-servant. Any stranger who lodged three nlghts or more
   at a man’s house in a decennary was called “hoghenhyne,” and hls host became responsible

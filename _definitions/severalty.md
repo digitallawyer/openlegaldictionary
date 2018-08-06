@@ -1,5 +1,6 @@
 ---
 title: Severalty
+letter: S
 permalink: "/definitions/severalty.html"
 body: A state of separation. An estate in severalty is one that is held, by a person
   in hls own right only, without any other person being joined or connected with him,

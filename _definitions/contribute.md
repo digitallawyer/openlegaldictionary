@@ -1,5 +1,6 @@
 ---
 title: Contribute
+letter: C
 permalink: "/definitions/contribute.html"
 body: To supply a share or proportional part of money or projierty to-wards the prosecution
   of a common enter-prise or the discharge of a joint obligation. Park v. Missionary

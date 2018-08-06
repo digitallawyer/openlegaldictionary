@@ -1,5 +1,6 @@
 ---
 title: Droitural
+letter: D
 permalink: "/definitions/droitural.html"
 body: wbat belongs of right; relating to right; as real actions are either droitural
   or possessory,—droitural when the plaintifT seeks to recover tbe property. Finch,

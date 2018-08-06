@@ -1,5 +1,6 @@
 ---
 title: Adcordabilis Denarii
+letter: A
 permalink: "/definitions/adcordabilis-denarii.html"
 body: Money paid by a vassal to his lord upon the selling or exchanging of a feud.
   Enc. Lond

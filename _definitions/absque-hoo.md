@@ -1,5 +1,6 @@
 ---
 title: Absque Hoo
+letter: A
 permalink: "/definitions/absque-hoo.html"
 body: without this. These are technical words of denial, used in plead-ing at common
   law by way of special traverse, to lntroduce the negative part of the plea, following

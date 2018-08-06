@@ -1,5 +1,6 @@
 ---
 title: In Xnitio
+letter: I
 permalink: "/definitions/in-xnitio.html"
 body: In or at the beginning. In initio litis, at the beginning, or in the first stage
   of the snit Bract fol. 400

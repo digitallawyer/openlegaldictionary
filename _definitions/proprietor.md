@@ -1,5 +1,6 @@
 ---
 title: Proprietor
+letter: P
 permalink: "/definitions/proprietor.html"
 body: This term is almost synonymous with “owner,” (q. v.,) as in the phrase “riparian
   proprietor.” A person en-titled to a trade-mark or a design under the acts for the

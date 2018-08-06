@@ -1,5 +1,6 @@
 ---
 title: Imprisonment
+letter: I
 permalink: "/definitions/imprisonment.html"
 body: The act of putting or confining a man in prison; the restraint of a man’s personal
   liberty; coercion exer-cised upon a person to prevent the free exer-clse of his

@@ -1,5 +1,6 @@
 ---
 title: Articulo Mortis
+letter: A
 permalink: "/definitions/articulo-mortis.html"
 body: "(or more com-monly in articulo mortis.) In the article of death; at the point
   of death"

@@ -1,5 +1,6 @@
 ---
 title: Amercement
+letter: A
 permalink: "/definitions/amercement.html"
 body: A pecuniary penalty, in the nature of a fine, imposed upon a person for some
   fault or misconduct, he being “in mercy” for hls offense. It was assessed by the

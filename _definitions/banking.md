@@ -1,5 +1,6 @@
 ---
 title: Banking
+letter: B
 permalink: "/definitions/banking.html"
 body: The business of receiving money on deposit, loaning money, dlscount-ing notes,
   issuing notes for circulation, col-iectlng money on notes deposited, negotiating

@@ -1,5 +1,6 @@
 ---
 title: Presence
+letter: P
 permalink: "/definitions/presence.html"
 body: The existence of a person in a particular place at a given time, partic-ularly
   with reference to some act done there and then. Besides actual presence, the law

@@ -1,5 +1,6 @@
 ---
 title: Aleu
+letter: A
 permalink: "/definitions/aleu.html"
 body: Fr. In French feudal law. An allodial estate, as distinguished from a feudal
   estate or benefice

@@ -1,5 +1,6 @@
 ---
 title: Quando Aociderint
+letter: Q
 permalink: "/definitions/quando-aociderint.html"
 body: ".Lat when they shall come In. The name of a judgment sometimes given against
   an executor, especially on a plea of plene administrarif, wbich empowers the plaintiff

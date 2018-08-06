@@ -1,5 +1,6 @@
 ---
 title: Idiota
+letter: I
 permalink: "/definitions/idiota.html"
 body: In' tbo civil law. An unlearned, illiterate, or simple person. Calvin. A private
   man; one not in office

@@ -1,5 +1,6 @@
 ---
 title: Aggravated Assault
+letter: A
 permalink: "/definitions/aggravated-assault.html"
 body: An as-sanlt wlth circumstances of aggravation, or of a heinous character, or
   with intent to commit another crime. In re Burns (C. C.) 113 Fed. 902; Norton v.

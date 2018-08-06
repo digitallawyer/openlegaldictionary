@@ -1,5 +1,6 @@
 ---
 title: Corpore Et Animo
+letter: C
 permalink: "/definitions/corpore-et-animo.html"
 body: Lat. By the body and by the mind; by the physical act and by the mental Intent.
   Dig. 41, 2, 3

@@ -1,5 +1,6 @@
 ---
 title: Independent
+letter: I
 permalink: "/definitions/independent.html"
 body: Not dependent; not subject to control, restriction, modification, or limitation
   from a glven outside source

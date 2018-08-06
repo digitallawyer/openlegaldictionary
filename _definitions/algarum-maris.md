@@ -1,5 +1,6 @@
 ---
 title: Algarum Maris
+letter: A
 permalink: "/definitions/algarum-maris.html"
 body: Probably a corruption of Laganuin maris, lagan being a right, in the middle
   ages, like jetsam and flotsam, by "which goods thrown from a vessel ffi distress

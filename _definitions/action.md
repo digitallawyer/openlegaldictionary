@@ -1,5 +1,6 @@
 ---
 title: Action
+letter: A
 permalink: "/definitions/action.html"
 body: Conduct; behavior; something done; the condition of acting; an act or series
   of acts

@@ -1,5 +1,6 @@
 ---
 title: Tenement
+letter: T
 permalink: "/definitions/tenement.html"
 body: Thls term, in Its vulgar acceptation, is only applled to houses and other buildlugs,
   but in lts origiual, proper, and legal sense it signifies everything that may be

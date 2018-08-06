@@ -1,5 +1,6 @@
 ---
 title: Gift
+letter: G
 permalink: "/definitions/gift.html"
 body: A voluntary conveyance of land, or transfer of goods, from one person to an-other.
   made gratuitously, and not upon auy consideration of blood or money. 2 Bl. Comm.

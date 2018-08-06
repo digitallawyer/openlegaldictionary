@@ -1,5 +1,6 @@
 ---
 title: Kenilworth Edict
+letter: K
 permalink: "/definitions/kenilworth-edict.html"
 body: An edict or award between Henry III. and those who had been in arms against
   him; so called he-cause made at Kenilworth Castle, in war-wiekshire, anno 51 Hen.

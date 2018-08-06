@@ -1,5 +1,6 @@
 ---
 title: Retail
+letter: R
 permalink: "/definitions/retail.html"
 body: To sell by small parcels, and not in the gross. To sell in small quantities.
   State v. Lowenhaught, 11 Lea (Tenn.) 13; Bridges v. State, 37 Ark. 224; McArthur

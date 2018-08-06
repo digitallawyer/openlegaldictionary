@@ -1,5 +1,6 @@
 ---
 title: Gylput
+letter: G
 permalink: "/definitions/gylput.html"
 body: The name of a court which was held every three weeks in the llberty or hundred
   of Pathbew in warwlck. Jacob

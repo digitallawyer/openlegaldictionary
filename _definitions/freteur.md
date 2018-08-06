@@ -1,5 +1,6 @@
 ---
 title: Freteur
+letter: F
 permalink: "/definitions/freteur.html"
 body: Fr. In French marine law. Freighter. The owner of a ship, who lets it to the
   merchant Emerig. Tr. des Ass. c. 11, 13

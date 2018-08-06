@@ -1,5 +1,6 @@
 ---
 title: Mandate
+letter: M
 permalink: "/definitions/mandate.html"
 body: In praotioe. A judlclal command or precept proceeding from a conrt or judicial
   officer, directing the proper officer to enforce a judgment, sentence, or decree.

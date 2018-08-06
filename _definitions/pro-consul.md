@@ -1,5 +1,6 @@
 ---
 title: Pro-Consul
+letter: P
 permalink: "/definitions/pro-consul.html"
 body: Lat in the Roman law. originally a consul whose command was pro-longed after
   his office had expired. An officer with consular authority, but without the title

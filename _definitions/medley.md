@@ -1,5 +1,6 @@
 ---
 title: Medley
+letter: M
 permalink: "/definitions/medley.html"
 body: An affray; a sudden or cas-ual fighting; a hand to hand battle; a mdtee. See
   Chance-Medley; Ch aud-Medley

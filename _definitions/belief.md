@@ -1,5 +1,6 @@
 ---
 title: Belief
+letter: B
 permalink: "/definitions/belief.html"
 body: A conviction of the truth of a proposition, existing subjectively in the mind,
   and induced hy argument, persuasion, or proof addressed to the judgment. Keller

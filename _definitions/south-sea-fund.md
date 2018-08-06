@@ -1,5 +1,6 @@
 ---
 title: South Sea Fund
+letter: S
 permalink: "/definitions/south-sea-fund.html"
 body: The produce of the taxes appropriated to pay the interest of such part of the
   Euglish national debt as was advanced by the South Sea Company and Ita annuitants.

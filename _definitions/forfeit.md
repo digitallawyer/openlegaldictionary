@@ -1,5 +1,6 @@
 ---
 title: Forfeit
+letter: F
 permalink: "/definitions/forfeit.html"
 body: To lose au estate, a franchise, or other property belonging to oue, by tlie
   act of the law, and ns a consequence of some misfeasance, negligence, or omission.

@@ -1,5 +1,6 @@
 ---
 title: Regidor
+letter: R
 permalink: "/definitions/regidor.html"
 body: In Spanish law. one of a body, never exceeding twelve, who formed a part of
   the ayuntamtento. The office of re-gidor was held for llfe; that is to say, during

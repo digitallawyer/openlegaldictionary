@@ -1,5 +1,6 @@
 ---
 title: Certainty
+letter: C
 permalink: "/definitions/certainty.html"
 body: In pleading. Distinct-ness; dearness of statement; particularity. Such precision
   and explicitness in the state-ment of alleged facts that the pleader’s averments

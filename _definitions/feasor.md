@@ -1,5 +1,6 @@
 ---
 title: Feasor
+letter: F
 permalink: "/definitions/feasor.html"
 body: Doer; maker. Feasors del estaiute, makers of the statute. Dyer, 3b. Also used
   in the compound term, "tort-feasor," one who commits or is guilty of a tort

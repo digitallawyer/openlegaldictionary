@@ -1,5 +1,6 @@
 ---
 title: Occupavit
+letter: O
 permalink: "/definitions/occupavit.html"
 body: Lat in old English la*. A writ that lay for one who was ejected out of his land
   or tenement in time of war. Cowell

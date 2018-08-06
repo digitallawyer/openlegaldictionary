@@ -1,5 +1,6 @@
 ---
 title: Property
+letter: P
 permalink: "/definitions/property.html"
 body: Rightful dominion over external objects; ownership; the unrestrict-ed and exclusive
   right to a thing; the right to dispose of the substance of a thing in every legal

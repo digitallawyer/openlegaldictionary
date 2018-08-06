@@ -1,5 +1,6 @@
 ---
 title: Evict
+letter: E
 permalink: "/definitions/evict.html"
 body: In tbo civil law. To recover anything from a person by virtue of the judgment
   of a court or judicial sentence

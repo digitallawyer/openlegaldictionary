@@ -1,5 +1,6 @@
 ---
 title: Comes And Defends
+letter: C
 permalink: "/definitions/comes-and-defends.html"
 body: This phrase, anciently nsed in the language of pleading, and still surviving
   in some Jurisdictions, occurs at the commencement of a defendant’s plea or demurrer;

@@ -1,5 +1,6 @@
 ---
 title: Nuper Obiit
+letter: N
 permalink: "/definitions/nuper-obiit.html"
 body: Lat. In practice. The name of a writ (now abolished) which, in the English law,
   lay for a sister co-heiress dispossessed by her coparcener of lands and tenements

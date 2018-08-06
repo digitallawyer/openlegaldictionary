@@ -1,5 +1,6 @@
 ---
 title: Tariff
+letter: T
 permalink: "/definitions/tariff.html"
 body: A cartel of commerce, a book of rates, a table or catalogue, drawn usually in
   alphabetical order, containing the names of several klnds of merchandise, wlth the

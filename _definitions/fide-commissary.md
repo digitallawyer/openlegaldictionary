@@ -1,5 +1,6 @@
 ---
 title: Fide-Commissary
+letter: F
 permalink: "/definitions/fide-commissary.html"
 body: A term derived from the Latin “fldci-commissartus," and oc-casionally used by
   writers on equity juris-prudence as a substitute for the law French term "cestui

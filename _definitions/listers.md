@@ -1,5 +1,6 @@
 ---
 title: Listers
+letter: L
 permalink: "/definitions/listers.html"
 body: This word is used In some of the states to designate the persons appointed to
   make lists of taxables. See Rev. SL VL 638

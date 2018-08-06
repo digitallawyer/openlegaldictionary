@@ -1,5 +1,6 @@
 ---
 title: Municipal
+letter: M
 permalink: "/definitions/municipal.html"
 body: "“Municipal” signifies that whlch belongs to a corporation or a city. The term
   Includes the rules or laws by which a particular district, communlty, or nation

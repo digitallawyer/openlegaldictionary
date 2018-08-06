@@ -1,5 +1,6 @@
 ---
 title: Puts And Calls
+letter: P
 permalink: "/definitions/puts-and-calls.html"
 body: A “put" in the language of the grain or stock market is a privilege of delivering
   or not delivering the subject-matter of the sale; and a “call” is a privilege of

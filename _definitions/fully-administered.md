@@ -1,5 +1,6 @@
 ---
 title: Fully Administered
+letter: F
 permalink: "/definitions/fully-administered.html"
 body: The English equivalent of the Latin phrase “plene admin-istravit;" being a plea
   by nn executor or ad-minlstrator that he has completely and legally disposed of

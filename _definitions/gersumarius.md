@@ -1,5 +1,6 @@
 ---
 title: Gersumarius
+letter: G
 permalink: "/definitions/gersumarius.html"
 body: In old English law. Finable; liable to be amerced at the discre-tion of the
   lord of a manor. Cowell

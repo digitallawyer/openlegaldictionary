@@ -1,5 +1,6 @@
 ---
 title: Common Fleas
+letter: C
 permalink: "/definitions/common-fleas.html"
 body: Tbe name of a conrt of record having general original jurisdic-tlon in civil
   suits

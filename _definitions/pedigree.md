@@ -1,5 +1,6 @@
 ---
 title: Pedigree
+letter: P
 permalink: "/definitions/pedigree.html"
 body: Lineage; line of ancestors from which a person descends; genealogy. An account
   or register of a line of ancestors. Family relationship. Swink v. French, 11 Lea

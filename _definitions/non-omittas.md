@@ -1,5 +1,6 @@
 ---
 title: Non Omittas
+letter: N
 permalink: "/definitions/non-omittas.html"
 body: A clause usually ln-serfed in writs of execution, in England, di-recting the
   sheriff “not to omit” to execute

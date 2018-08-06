@@ -1,5 +1,6 @@
 ---
 title: Immediate
+letter: I
 permalink: "/definitions/immediate.html"
 body: 1. Present; at once; without delay; not deferred by any Interval of time. In
   this sense, the word, without any very precise signification, denotes that action

@@ -1,5 +1,6 @@
 ---
 title: Injustice
+letter: I
 permalink: "/definitions/injustice.html"
 body: The withholding or denial of justice. In law, almost invariably applied to the
   act, fault, or omission of a court, as distinguished from that of an individual.

@@ -1,5 +1,6 @@
 ---
 title: Forler-Land
+letter: F
 permalink: "/definitions/forler-land.html"
 body: Land in the diocese of Hereford, which had a peculiar custom attached to it,
   but which has been long since disused, although the name is retained. But Snrv.

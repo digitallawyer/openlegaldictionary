@@ -1,5 +1,6 @@
 ---
 title: Publicum Jus
+letter: P
 permalink: "/definitions/publicum-jus.html"
 body: Lat. In tbe civil law. Public law; that law which regards the state of the commonwealth.
   Inst 1, 1, 4

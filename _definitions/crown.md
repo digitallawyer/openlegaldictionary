@@ -1,5 +1,6 @@
 ---
 title: Crown
+letter: C
 permalink: "/definitions/crown.html"
 body: The sovereign power in a monarchy, especially in relatlon to the pun-ishment
   of crimes. “Felony is an offense of the crown.” Finch, Law, b. 1, c. 16

@@ -1,5 +1,6 @@
 ---
 title: Injures Graves
+letter: I
 permalink: "/definitions/injures-graves.html"
 body: Fr. In French law. Grievous insults or injuries, including personal lnsults
   and reproachful language, constituting a Just cause of divorce. Butler v. Butler,

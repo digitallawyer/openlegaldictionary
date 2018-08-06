@@ -1,5 +1,6 @@
 ---
 title: Valued Folicy
+letter: V
 permalink: "/definitions/valued-folicy.html"
 body: CY. A policy is called “valued,” when the parties, having agreed upon the value
   of tbe interest Insured, in or-der to save the necessity of further proof have Inserted

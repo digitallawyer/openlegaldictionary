@@ -1,5 +1,6 @@
 ---
 title: Faro
+letter: F
 permalink: "/definitions/faro.html"
 body: An unlawful game of cards, in which all the other players play against the banker
   or dealer, staking thelr money upon the order in which the cards will lie and be

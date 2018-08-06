@@ -1,5 +1,6 @@
 ---
 title: Clear
+letter: C
 permalink: "/definitions/clear.html"
 body: Plain; evident; free from doubt or conjecture; also, unincumbered; free from
   deductions or draw-backs

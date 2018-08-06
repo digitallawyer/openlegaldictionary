@@ -1,5 +1,6 @@
 ---
 title: Extirpation
+letter: E
 permalink: "/definitions/extirpation.html"
 body: In English law. A species of destruction or waste, analogous to estrepement
   See Estoepkment

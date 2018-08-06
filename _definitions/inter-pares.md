@@ -1,5 +1,6 @@
 ---
 title: Inter Pares
+letter: I
 permalink: "/definitions/inter-pares.html"
 body: Between peers; between those who stand on a level or equality, as respects diligence,
   opportunity, responsibility, etc

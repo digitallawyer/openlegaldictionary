@@ -1,5 +1,6 @@
 ---
 title: Perambulation
+letter: P
 permalink: "/definitions/perambulation.html"
 body: The act of walk-ing over the boundaries of a district or piece of land, either
   for the purpose of determining them or of preserving evidence of them. Thus, in

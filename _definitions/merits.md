@@ -1,5 +1,6 @@
 ---
 title: Merits
+letter: M
 permalink: "/definitions/merits.html"
 body: In practice. Matter of sub-stance in law, as distinguished from matter of mere
   form; a substantial ground of de-fense in law. A defendant is said "to swear to

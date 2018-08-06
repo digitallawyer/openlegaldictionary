@@ -1,5 +1,6 @@
 ---
 title: Log-Rolling
+letter: L
 permalink: "/definitions/log-rolling.html"
 body: A mischievous legisla-tive practice, of embracing in one bill several distinct
   matters, none of which, perhaps, could singly obtain the assent of the legis-lature,

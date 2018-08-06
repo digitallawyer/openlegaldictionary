@@ -1,5 +1,6 @@
 ---
 title: Accuse
+letter: A
 permalink: "/definitions/accuse.html"
 body: To bring a formal charge against a person, to the effect that he is guilty of
   a crime or punishable offense, be-fore a court or magistrate having jurisdlc-tlon

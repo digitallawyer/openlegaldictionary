@@ -1,5 +1,6 @@
 ---
 title: Captation
+letter: C
 permalink: "/definitions/captation.html"
 body: In French law. The act of one who succeeds in controlling the will of another,
   so as to become master of it; used In an Invidious sense. Zerega v. Percl-val, 46

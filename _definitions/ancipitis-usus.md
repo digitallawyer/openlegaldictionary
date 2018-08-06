@@ -1,5 +1,6 @@
 ---
 title: Ancipitis Usus
+letter: A
 permalink: "/definitions/ancipitis-usus.html"
 body: Lat. In internatlon-al law. of doubtful use; the use of whlch is doubtful; that
   may be used for a clvil or peaceful, as well as military or warlike, pur-pose. Gro.

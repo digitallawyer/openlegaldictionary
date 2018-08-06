@@ -1,5 +1,6 @@
 ---
 title: Disease
+letter: D
 permalink: "/definitions/disease.html"
 body: In construing a policy of life insurance, it is generally true that, before
   any temporary ailment can be called a “disease,” it must be such as to indicate

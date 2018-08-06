@@ -1,5 +1,6 @@
 ---
 title: Jobber
+letter: J
 permalink: "/definitions/jobber.html"
 body: one who buys and sells goods for others; one who buys or sells on the stock
   exchange; a dealer in stocks, shares, or securities

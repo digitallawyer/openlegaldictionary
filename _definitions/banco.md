@@ -1,5 +1,6 @@
 ---
 title: Banco
+letter: B
 permalink: "/definitions/banco.html"
 body: I tab See Banc. A seat or bench of Justice; also, in commerce, a word of Italian
   origin signifying a hank

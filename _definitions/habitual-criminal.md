@@ -1,5 +1,6 @@
 ---
 title: Habitual Criminal
+letter: H
 permalink: "/definitions/habitual-criminal.html"
 body: By statute in several states, one who is convicted of a felony, having been
   previously convicted of any crime (or twice so convicted), or who is convicted of

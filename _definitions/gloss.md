@@ -1,5 +1,6 @@
 ---
 title: Gloss
+letter: G
 permalink: "/definitions/gloss.html"
 body: An lnterpretation, consisting of one or more words, interlinear or marginal;
   an annotation, explanation, or comment on any passage in the text of a work, for

@@ -1,5 +1,6 @@
 ---
 title: Probate
+letter: P
 permalink: "/definitions/probate.html"
 body: The act or process of prov-lng a will. The proof before an ordinary, surrogate,
   register, or other duly authorized person that a document produced before him for

@@ -1,5 +1,6 @@
 ---
 title: Ne Rector Prosternet Ar-Bores
+letter: N
 permalink: "/definitions/ne-rector-prosternet-ar-bores.html"
 body: L. Lat. The statute 35 Edw. I. { 2, prohibiting rectors, i. e., parsons, from
   cutting down the trees in church-yards. In Rutland v. Green, 1 Keb. 557, it was

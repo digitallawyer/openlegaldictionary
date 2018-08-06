@@ -1,5 +1,6 @@
 ---
 title: Particulars
+letter: P
 permalink: "/definitions/particulars.html"
 body: The details of a claim, or the separate Items of an account, when these are
   stated in an orderly form, for the information of a defendant, the statement is

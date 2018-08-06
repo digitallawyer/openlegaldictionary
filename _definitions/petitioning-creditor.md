@@ -1,5 +1,6 @@
 ---
 title: Petitioning Creditor
+letter: P
 permalink: "/definitions/petitioning-creditor.html"
 body: The cred-ltor at whose Instance an adjudication of bankruptcy is made agalnst
   a bankrupt

@@ -1,5 +1,6 @@
 ---
 title: Alluvio Maris
+letter: A
 permalink: "/definitions/alluvio-maris.html"
 body: Lat. In the clvll and old English law. The washing up of the sea; formation
   of soil or land from the sea; maritlme lncrease. Hale, Anal. $ 8. "Alluvia maris

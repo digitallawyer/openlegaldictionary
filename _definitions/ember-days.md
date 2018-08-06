@@ -1,5 +1,6 @@
 ---
 title: Ember Days
+letter: E
 permalink: "/definitions/ember-days.html"
 body: In ecclesiastical law. Those days which the ancient fathers called "quatuor
   tempora jejunii" are of great an-tiquity in the church. They are observed on wednesday,

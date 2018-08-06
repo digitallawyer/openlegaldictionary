@@ -1,5 +1,6 @@
 ---
 title: Squatter
+letter: S
 permalink: "/definitions/squatter.html"
 body: In American law. one who settles on another’s land, particularly on public lands,
   without a title. See o’Donnell v. McIntyre, 16 Abb. N. C. (N. Y.) 84; Park-ersburg

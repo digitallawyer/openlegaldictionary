@@ -1,5 +1,6 @@
 ---
 title: Apartment
+letter: A
 permalink: "/definitions/apartment.html"
 body: A part of a house oc-cupied by a person, whlle the rest is occupied by auother,
   or others. As to the meaning of thls term, see 7 Man. & G. 95; 6 Mod. 214; McMillan

@@ -1,5 +1,6 @@
 ---
 title: Marauder
+letter: M
 permalink: "/definitions/marauder.html"
 body: "“A marauder is defined in the law to be ‘one wbo, while employed in the army
   as a soldier, commits larceny or robbery in the neighborhood of tbe camp, or while

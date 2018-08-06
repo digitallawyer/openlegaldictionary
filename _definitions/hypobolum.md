@@ -1,5 +1,6 @@
 ---
 title: Hypobolum
+letter: H
 permalink: "/definitions/hypobolum.html"
 body: In tbe civil law. The name of the bequest or legacy given by the husband to
   hls wife, at his death, above her dowry

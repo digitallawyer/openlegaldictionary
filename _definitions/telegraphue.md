@@ -1,5 +1,6 @@
 ---
 title: Telegraphue
+letter: T
 permalink: "/definitions/telegraphue.html"
 body: A word occasionally used in old English law to describe ancient documents or
   written evidence of things past Blount

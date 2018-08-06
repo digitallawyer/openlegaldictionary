@@ -1,5 +1,6 @@
 ---
 title: Confusion
+letter: C
 permalink: "/definitions/confusion.html"
 body: This term, as used in the civil law and in compound terms derived from that
   source, means a blending or intermingling, and is equivalent to the term “merger”

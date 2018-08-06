@@ -1,5 +1,6 @@
 ---
 title: Warrantia Diei
+letter: W
 permalink: "/definitions/warrantia-diei.html"
 body: A wrlt which lay for a man who, having had a day asslgn-ed him personally to
   appear in court in any action In which he was sued, was in the mean time, by commandment,

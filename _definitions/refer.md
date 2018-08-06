@@ -1,5 +1,6 @@
 ---
 title: Refer
+letter: R
 permalink: "/definitions/refer.html"
 body: 1. when a case or action involves matters of account or other intricate details
   which require minute examination, and for that reason are not fit to be brought

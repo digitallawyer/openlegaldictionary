@@ -1,5 +1,6 @@
 ---
 title: Datio
+letter: D
 permalink: "/definitions/datio.html"
 body: In the civil law. A giving, or act of giving. Datio in solutum; a giving in
   payment; a species of accord and satisfac-tion. Called, in modern law, “dation.”

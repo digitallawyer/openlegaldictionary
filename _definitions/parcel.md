@@ -1,5 +1,6 @@
 ---
 title: Parcel
+letter: P
 permalink: "/definitions/parcel.html"
 body: In the law of real property parcel slgnifies a part or portion of land. As used
   of chattels, it signifies a small package or bundle. See State v. Jordan, 3G Fla.

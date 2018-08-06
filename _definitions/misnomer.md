@@ -1,5 +1,6 @@
 ---
 title: Misnomer
+letter: M
 permalink: "/definitions/misnomer.html"
 body: Mistake in name; the giv-ing an incorrect name to a person in a plead-lng, deed,
   or other Instrument

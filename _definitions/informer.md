@@ -1,5 +1,6 @@
 ---
 title: Informer
+letter: I
 permalink: "/definitions/informer.html"
 body: A person who informs or prefers au accusation against another, whom he suspects
   of the violation of some penal statute

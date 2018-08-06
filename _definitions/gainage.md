@@ -1,5 +1,6 @@
 ---
 title: Gainage
+letter: G
 permalink: "/definitions/gainage.html"
 body: The gain or profit of tilled or planted land, raised by cultivating it; and
   the draught, plow, and furniture for carrying on the work of tillage by the baser

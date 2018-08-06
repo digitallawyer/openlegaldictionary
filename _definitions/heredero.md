@@ -1,5 +1,6 @@
 ---
 title: Heredero
+letter: H
 permalink: "/definitions/heredero.html"
 body: In Spanish law. Heir; he who, by legal or testamentary disposition, succeeds
   to the property of a deceased person. “Deeres censeatur cum defuncto uno eademque

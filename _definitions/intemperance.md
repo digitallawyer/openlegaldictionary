@@ -1,5 +1,6 @@
 ---
 title: Intemperance
+letter: I
 permalink: "/definitions/intemperance.html"
 body: Habitual intemperance is that degree of intemperance from the use of intoxicating
   drinks which dis-quaiifies the person a great portion of the time from properly

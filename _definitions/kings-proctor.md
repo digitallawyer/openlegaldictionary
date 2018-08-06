@@ -1,5 +1,6 @@
 ---
 title: King'S Proctor
+letter: K
 permalink: "/definitions/kings-proctor.html"
 body: A proctor or solici-tor representing the crown in the former practice of the
   courts of probate and divorce. In petitions for dissolution of marriage, or for

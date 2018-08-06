@@ -1,5 +1,6 @@
 ---
 title: Inadmissible
+letter: I
 permalink: "/definitions/inadmissible.html"
 body: That which, under the established rules of law, cannot be ad-mitted or received;
   e. g., parol evidence to contradict a written contract

@@ -1,5 +1,6 @@
 ---
 title: Union-Jack
+letter: U
 permalink: "/definitions/union-jack.html"
 body: The national flag of Great Britain and Ireland, which combines the banner of
   St. Patrick with the crosses of St. George and St. Andrew. The word “jack” is most

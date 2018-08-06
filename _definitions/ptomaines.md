@@ -1,5 +1,6 @@
 ---
 title: Ptomaines
+letter: P
 permalink: "/definitions/ptomaines.html"
 body: In medical jurisprudence. Alkaloldal products of the decomposition or putrefaction
   of albumlnous substances, as, in anlmal and vegetable tissues. These are sometimes

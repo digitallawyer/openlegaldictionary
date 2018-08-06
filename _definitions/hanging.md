@@ -1,5 +1,6 @@
 ---
 title: Hanging
+letter: H
 permalink: "/definitions/hanging.html"
 body: In criminal law. Suspen-sion by the neck; the mode of capital pun-ishment nsed
   in England from time immemorial, and generally adopted in the United States. 4 Bl.

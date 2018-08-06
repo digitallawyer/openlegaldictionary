@@ -1,5 +1,6 @@
 ---
 title: Danelage
+letter: D
 permalink: "/definitions/danelage.html"
 body: 'A system of laws intro-duced by the Danes on thelr invasion nnd conquest of
   England, and which was principally maintained in some of the midland counties, and

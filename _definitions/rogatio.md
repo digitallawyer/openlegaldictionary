@@ -1,5 +1,6 @@
 ---
 title: Rogatio
+letter: R
 permalink: "/definitions/rogatio.html"
 body: Lat in Roman law. An asking for a law; a proposal of a law for adoption or passage.
   Derivatively, a law passed by such a form

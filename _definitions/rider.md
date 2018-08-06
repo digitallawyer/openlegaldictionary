@@ -1,5 +1,6 @@
 ---
 title: Rider
+letter: R
 permalink: "/definitions/rider.html"
 body: A rider, or rider-roll, signifies a schedule or small piece of parchment annexed
   to some part of a roll or record. It is frequently familiarly used for any kind

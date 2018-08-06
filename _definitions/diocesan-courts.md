@@ -1,5 +1,6 @@
 ---
 title: Diocesan Courts
+letter: D
 permalink: "/definitions/diocesan-courts.html"
 body: In English law. The conslstorial courts of each diocese, exer-clslng geueral
   jurisdiction of all matters aris-lng locally within thelr respective limits, with

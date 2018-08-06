@@ -1,5 +1,6 @@
 ---
 title: Do Ut Facias
+letter: D
 permalink: "/definitions/do-ut-facias.html"
 body: Lat I give that you may do; I give [you] that you may do or make [for me.] A
   formula In the civil law, under which those contracts were classed in which one

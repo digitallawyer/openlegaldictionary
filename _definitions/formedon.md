@@ -1,5 +1,6 @@
 ---
 title: Formedon
+letter: F
 permalink: "/definitions/formedon.html"
 body: 'An ancient writ in Eng-lish law which was available for one who had a right
   to lands or tenements by virtue of a gift in tall. It was in the nature of a writ

@@ -1,5 +1,6 @@
 ---
 title: Writ Of Formedon
+letter: W
 permalink: "/definitions/writ-of-formedon.html"
 body: A writ which lies for the recovery of an estate by a person claiming as issue
   in tail, or by the remain-der-man or reversioner after the termination of the entail.

@@ -1,5 +1,6 @@
 ---
 title: Tutela
+letter: T
 permalink: "/definitions/tutela.html"
 body: Lat in the civil law. Tu-telage; that species of guardlanshlp whlch contlnued
   to the age of puberty; the guard-lsn belng called “tutor," and the ward, “pu-pillus.”

@@ -1,5 +1,6 @@
 ---
 title: Gramme
+letter: G
 permalink: "/definitions/gramme.html"
 body: The unit of weight In the metric system. The gramme is the weight of a cubic
   centimeter of distilled water at the temperature of 4° C. It is equal to 15.4341

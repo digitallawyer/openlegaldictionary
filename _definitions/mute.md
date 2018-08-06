@@ -1,5 +1,6 @@
 ---
 title: Mute
+letter: M
 permalink: "/definitions/mute.html"
 body: Speechless; dumb; that cannot or will not speak. In English crlminal law, a
   prisoner is sald to stand, mute when, heing arraigned for treason or felony, he

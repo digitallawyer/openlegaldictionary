@@ -1,5 +1,6 @@
 ---
 title: Fraud
+letter: F
 permalink: "/definitions/fraud.html"
 body: Fraud consists of some deceit-ful practice or willful device, resorted to with
   inteut to deprive auother of hls right, or in some manner to do him an injury. As

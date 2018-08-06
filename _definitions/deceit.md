@@ -1,5 +1,6 @@
 ---
 title: Deceit
+letter: D
 permalink: "/definitions/deceit.html"
 body: A fraudulent and cheating mis-r epresen tat ion, artifice, or device, used by
   one or more persons to deceive and trick another, who is ignorant of the true facts,

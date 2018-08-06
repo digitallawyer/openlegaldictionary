@@ -1,5 +1,6 @@
 ---
 title: Judigatio
+letter: J
 permalink: "/definitions/judigatio.html"
 body: Lat. In the civil law. judging; the pronouncing of sentence, after hearing a
   cause. Hallifax, Clvll Law, b. 3, c. 8, no. 7

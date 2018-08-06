@@ -1,5 +1,6 @@
 ---
 title: Novation
+letter: N
 permalink: "/definitions/novation.html"
 body: Novation is the substitu-tion of a new debt or obligation for an exist-ing one.
   Civ. Code Cal. § 1530; Civ. Code Dak. ft 863; Hard v. Burton, 62 Vt. 314, 20 Atl.

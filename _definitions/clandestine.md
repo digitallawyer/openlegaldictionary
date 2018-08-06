@@ -1,5 +1,6 @@
 ---
 title: Clandestine
+letter: C
 permalink: "/definitions/clandestine.html"
 body: Secret; hidden; concealed. The “clandestine importation” of goods is a term
   used in English statutes as equivalent to “smuggling.” Keck v. U. S., 172 U. S.

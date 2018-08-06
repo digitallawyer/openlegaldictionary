@@ -1,5 +1,6 @@
 ---
 title: Canum
+letter: C
 permalink: "/definitions/canum.html"
 body: In feudal law. A species of duty or tribute payable from tenant to lord, usually
   consisting of produce of the land

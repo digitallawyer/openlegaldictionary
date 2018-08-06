@@ -1,5 +1,6 @@
 ---
 title: Enlistment
+letter: E
 permalink: "/definitions/enlistment.html"
 body: The act of one who voluntarily enters the military or naval service of the government,
   contracting to serve In a subordinate capacity. Morrissey v. Perry, 137 U. S. 157,

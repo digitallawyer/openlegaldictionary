@@ -1,5 +1,6 @@
 ---
 title: Distracted Person
+letter: D
 permalink: "/definitions/distracted-person.html"
 body: A term used in the statutes of Illinois (Rev. Laws, Iii. 1833, p. 332) and New
   Hampshire (Dig. N. H. Laws, 1830, p. 339) to express a state of insanity. Snyder

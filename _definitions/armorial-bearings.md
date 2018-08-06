@@ -1,5 +1,6 @@
 ---
 title: Armorial Bearings
+letter: A
 permalink: "/definitions/armorial-bearings.html"
 body: In English law. A device depicted on the (now imagi-nary) shield of one of the
   nobility, of which gentry is the lowest degree. The criterion of nobility is the

@@ -1,5 +1,6 @@
 ---
 title: Salute
+letter: S
 permalink: "/definitions/salute.html"
 body: A gold coin stamped by Henry V. in France, after his conquests there, whereon
   the arms of England and France were stamped quarterly. CowelL

@@ -1,5 +1,6 @@
 ---
 title: En Declaration De Simula-Tion
+letter: E
 permalink: "/definitions/en-declaration-de-simula-tion.html"
 body: A form of action used in Louisiana. Its object is to have a contract declared
   Judicially a simulation and a nullity, to re-move a cloud from the title, and to

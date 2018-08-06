@@ -1,5 +1,6 @@
 ---
 title: Voyage
+letter: V
 permalink: "/definitions/voyage.html"
 body: In maritime law. The pass-ing of a vessel by sea from one place, port, or country
   to another. The term is held to Include the enterprise entered upon, and not merely

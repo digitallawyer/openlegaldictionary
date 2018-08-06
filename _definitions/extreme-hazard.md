@@ -1,5 +1,6 @@
 ---
 title: Extreme Hazard
+letter: E
 permalink: "/definitions/extreme-hazard.html"
 body: To constitute extreme hazard, the situation of a vessel must be such that there
   is imminent danger of her being lost, notwlthstanding all the means that can be

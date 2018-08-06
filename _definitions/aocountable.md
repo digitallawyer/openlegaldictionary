@@ -1,5 +1,6 @@
 ---
 title: Aocountable
+letter: A
 permalink: "/definitions/aocountable.html"
 body: Subject to pay; re-sponsIble; Hable, where' one Indorsed a note “A. C. accountable,”
   it was held that, under thfs form of Indorsement, he had waived demand and notice.

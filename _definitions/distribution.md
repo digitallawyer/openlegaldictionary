@@ -1,5 +1,6 @@
 ---
 title: Distribution
+letter: D
 permalink: "/definitions/distribution.html"
 body: In practice. The ap-portionment and division, under authority of a court, of
   the remainder of the estate of an Intestate, after payment of the debts and charges,

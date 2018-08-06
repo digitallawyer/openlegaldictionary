@@ -1,5 +1,6 @@
 ---
 title: Obtulit Se
+letter: O
 permalink: "/definitions/obtulit-se.html"
 body: "(offered hlmself.) In old practice. The emphatic words of entry on the record
   where one party offered Mm-self in court against the other, and the iat-ter did

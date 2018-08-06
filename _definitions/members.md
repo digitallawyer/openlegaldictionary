@@ -1,5 +1,6 @@
 ---
 title: Members
+letter: M
 permalink: "/definitions/members.html"
 body: In English law. Places where a custom-house has been kept of old time, with
   officers or deputies in attendance; and they are lawful places of exportation or

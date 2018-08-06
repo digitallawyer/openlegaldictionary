@@ -1,5 +1,6 @@
 ---
 title: Controversy
+letter: C
 permalink: "/definitions/controversy.html"
 body: A litigated questlon; adversary proceeding in a court of law; a civil action
   or suit, either at law or in equity. Barber v. Kennedy, 18 Mlnn. 216 (Gil. 196);

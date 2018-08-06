@@ -1,5 +1,6 @@
 ---
 title: Vein
+letter: V
 permalink: "/definitions/vein.html"
 body: 'In mining law. A body of min-eral or mineralized rock, filling a seam or fissure
   in the earth’s crust, within defined boundaries in the general mass of the moan-tain,

@@ -1,5 +1,6 @@
 ---
 title: Lespegend
+letter: L
 permalink: "/definitions/lespegend.html"
 body: An inferior officer in forests to take care of the vert and venison therein,
   etc. wharton

@@ -1,5 +1,6 @@
 ---
 title: Civil Damage Acts
+letter: C
 permalink: "/definitions/civil-damage-acts.html"
 body: Acts passed in many of the Unlted States which provide an action for damages
   agalnst a vendor of ln-toxicating liquors, (and, in some cases, against his lessor,)

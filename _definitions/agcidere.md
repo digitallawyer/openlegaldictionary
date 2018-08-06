@@ -1,5 +1,6 @@
 ---
 title: Agcidere
+letter: A
 permalink: "/definitions/agcidere.html"
 body: Lat. To fall; fall ln; come to hand; happen. Judgment is sometimes given against
   an executor or administrator to be satisfied out of assets quando acci-derint; i.

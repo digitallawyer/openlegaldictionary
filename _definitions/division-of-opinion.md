@@ -1,5 +1,6 @@
 ---
 title: Division Of Opinion
+letter: D
 permalink: "/definitions/division-of-opinion.html"
 body: In the prac-tice of appellate courts, this term denotes such a disagreement
   amoug the judges that there is not a majority in favor of uuy one view, and hence

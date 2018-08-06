@@ -1,5 +1,6 @@
 ---
 title: Usus Bellici
+letter: U
 permalink: "/definitions/usus-bellici.html"
 body: Lat. In international law. warlike uses or objects. It is the usus bellici whlch
   determlne an artlcle to be con-traband. 1 Kent, Comm. 141

@@ -1,5 +1,6 @@
 ---
 title: Dismes
+letter: D
 permalink: "/definitions/dismes.html"
 body: Tenths; tithes, (q. v.) The original form of “dime," the name of the American
   coin

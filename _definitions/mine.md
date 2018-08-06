@@ -1,5 +1,6 @@
 ---
 title: Mine
+letter: M
 permalink: "/definitions/mine.html"
 body: A pit or excavation in the earth, from which metallic ores or other mineral
   substances are taken by digging, webster; Marvel v. Merritt, 116 U. S. 11, 6 Sup.

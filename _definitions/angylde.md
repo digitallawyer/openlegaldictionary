@@ -1,5 +1,6 @@
 ---
 title: Angylde
+letter: A
 permalink: "/definitions/angylde.html"
 body: In Saxon law. The rate flx-ed by law at which certain injuries to.per-son or
   property were to be paid for; in in-jurles to the person, It seems to be equivalent

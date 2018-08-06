@@ -1,5 +1,6 @@
 ---
 title: Confirmatio
+letter: C
 permalink: "/definitions/confirmatio.html"
 body: The conveyance of an estate, or the communication of a right that one bath in
   or unto lands or tenements, to another that hath the possession thereof, or some

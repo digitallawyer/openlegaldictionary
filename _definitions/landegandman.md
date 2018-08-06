@@ -1,5 +1,6 @@
 ---
 title: Landegandman
+letter: L
 permalink: "/definitions/landegandman.html"
 body: Sax. In old English laW. A kind of customary tenant or inferior tenant of a
   manor. Spelman

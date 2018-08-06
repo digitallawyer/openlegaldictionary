@@ -1,5 +1,6 @@
 ---
 title: Exoine
+letter: E
 permalink: "/definitions/exoine.html"
 body: In French law. An act or lnstrument In writing which contains the reasons why
   a party in a civil suit, or a per-8ou accused, who haR been summoned, agree-ably

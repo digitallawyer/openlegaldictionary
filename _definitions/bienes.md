@@ -1,5 +1,6 @@
 ---
 title: Bienes
+letter: B
 permalink: "/definitions/bienes.html"
 body: Sp. In Spanish law. Goods; property of every description, including real as
   well as personal property; all things (not being persons) which may serve for the

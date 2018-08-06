@@ -1,5 +1,6 @@
 ---
 title: Council Of Judges
+letter: C
 permalink: "/definitions/council-of-judges.html"
 body: Under the Eng-lish judicature act, 1873, § 75, an annual council of the judges
   of the supreme court is to be held, for the purpose of considering the operation

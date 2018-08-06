@@ -1,5 +1,6 @@
 ---
 title: Feciales
+letter: F
 permalink: "/definitions/feciales.html"
 body: Among the ancient Romans, that order of priests who discharged tiie duties of
   ambassadors. Subsequently their du-tles appear to have related more particular-ly

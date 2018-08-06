@@ -1,5 +1,6 @@
 ---
 title: Body Politic
+letter: B
 permalink: "/definitions/body-politic.html"
 body: A term applied to a corporation, which is usually designated as a “body corporate
   and politic.”

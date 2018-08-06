@@ -1,5 +1,6 @@
 ---
 title: Disavow
+letter: D
 permalink: "/definitions/disavow.html"
 body: To repudiate the unanthor-. lzed acts of an agent; to deny the authority by
   which he assumed to act

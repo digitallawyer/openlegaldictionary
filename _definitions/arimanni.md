@@ -1,5 +1,6 @@
 ---
 title: Arimanni
+letter: A
 permalink: "/definitions/arimanni.html"
 body: A mediaeval term for a class of agricultural owners of small allodial farms,
   which they cultivated in connection with larger farms belonging to their lords,

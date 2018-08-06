@@ -1,5 +1,6 @@
 ---
 title: Acre
+letter: A
 permalink: "/definitions/acre-2.html"
 body: ZTGHT, or ACRE. A camp or field fight; a sort of duel, or judicial combat, anciently
   fought by slngie combatants, En-glisb and Scotch, between the frontlers of the two

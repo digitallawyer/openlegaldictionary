@@ -1,5 +1,6 @@
 ---
 title: Ad Terminum Qui Preterit
+letter: A
 permalink: "/definitions/ad-terminum-qui-preterit.html"
 body: For a term which has passed, words In the Latin form of the writ of entry employed
   at common law to recover, on behalf of a land-lord, possession of premises, from

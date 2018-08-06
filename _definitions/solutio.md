@@ -1,5 +1,6 @@
 ---
 title: Solutio
+letter: S
 permalink: "/definitions/solutio.html"
 body: Lat in civil law. Payment, satisfaction, or release; any species of discharge
   of an obligation accepted as satia-factory by the creditor. The term refers not

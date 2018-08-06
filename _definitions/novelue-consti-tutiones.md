@@ -1,5 +1,6 @@
 ---
 title: Novelue Consti-Tutiones
+letter: N
 permalink: "/definitions/novelue-consti-tutiones.html"
 body: NSTI-TUTIONES.) New constitutions; generally translated in English, “Novels.”
   The Latin name of those constitutions which were is-sued by Justiuian after the

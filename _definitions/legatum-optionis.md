@@ -1,5 +1,6 @@
 ---
 title: Legatum Optionis
+letter: L
 permalink: "/definitions/legatum-optionis.html"
 body: In Roman law. A legacy to A. B. of any article or articles that A. B. liked
   to choose or select out of the testator’s estate. If A. B. died after the testator,

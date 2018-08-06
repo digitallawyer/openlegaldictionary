@@ -1,5 +1,6 @@
 ---
 title: Missio
+letter: M
 permalink: "/definitions/missio.html"
 body: Lat. In the civil law. A sending or putting. Missio in bona, a putting the creditor
   in possession of the debtor’s property. Mackeld. Rom. Law, $ 521. Missio judicum

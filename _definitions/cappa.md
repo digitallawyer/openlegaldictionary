@@ -1,5 +1,6 @@
 ---
 title: Cappa
+letter: C
 permalink: "/definitions/cappa.html"
 body: In old records. A cap. Cappa honoris, the cap of honor, one of the solemnities
   or ceremonies of creating an earl or marqals

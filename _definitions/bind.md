@@ -1,5 +1,6 @@
 ---
 title: Bind
+letter: B
 permalink: "/definitions/bind.html"
 body: To obligate; to bring or place under definite duties or legal obligations, particularly
   by a bond or covenant; to affect one in a constraining or compulsory manner with

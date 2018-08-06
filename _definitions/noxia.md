@@ -1,5 +1,6 @@
 ---
 title: Noxia
+letter: N
 permalink: "/definitions/noxia.html"
 body: LaL In the civll law. An offense committed or damage done by a slave. Iust.
   4, 8, 1

@@ -1,5 +1,6 @@
 ---
 title: For-Warder
+letter: F
 permalink: "/definitions/for-warder.html"
 body: MERCHANT, or FOR-WARDER. one who receives and forwards goods, taking upon himself
   the expenses of transportation, for which he receives a coin-pensation from the

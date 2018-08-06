@@ -1,5 +1,6 @@
 ---
 title: Sigil
+letter: S
 permalink: "/definitions/sigil.html"
 body: In old English law, a seal, or a contracted or abbreviated signature used as
   a seal

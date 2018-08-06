@@ -1,5 +1,6 @@
 ---
 title: Gaming
+letter: G
 permalink: "/definitions/gaming.html"
 body: The act or practice of play* ing games for stakes or wagers; gambling; the playing
   at any game of hazard. An agreement between two 6r more persons to play together

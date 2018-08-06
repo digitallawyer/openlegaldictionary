@@ -1,5 +1,6 @@
 ---
 title: Mutation
+letter: M
 permalink: "/definitions/mutation.html"
 body: In French law. This term is synonymous with “change,” and is es-pecially applied
   to designate the change which takes place in the property of a thing in its transmission

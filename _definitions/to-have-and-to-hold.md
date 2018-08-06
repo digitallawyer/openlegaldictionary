@@ -1,5 +1,6 @@
 ---
 title: To Have And To Hold
+letter: T
 permalink: "/definitions/to-have-and-to-hold.html"
 body: The words in a conveyance which show the estate in-tended to be conveyed. Thus,
   in a conveyance of land in fee-simple, the grant is to “A. and his heirs, to have

@@ -1,5 +1,6 @@
 ---
 title: Nationality
+letter: N
 permalink: "/definitions/nationality.html"
 body: That quality or charac-ter which arises from the fact of a person’s belonging
   to a nation or state. Nationality determines the political status ot the indi-vldual,

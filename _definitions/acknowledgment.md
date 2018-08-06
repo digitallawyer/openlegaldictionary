@@ -1,5 +1,6 @@
 ---
 title: Acknowledgment
+letter: A
 permalink: "/definitions/acknowledgment.html"
 body: In conveyane-lng. The act by whlch a party who has exe-cuted an instrument of
   conveyance as grantor goes before a competent officer or court, and declares or

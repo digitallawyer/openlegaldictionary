@@ -1,5 +1,6 @@
 ---
 title: Prejudice
+letter: P
 permalink: "/definitions/prejudice.html"
 body: A forejudgment; bias; preconceived opinion. A leaning towards one side of a
   cause for some reason other than a conviction of its justice, willis v. State, 12

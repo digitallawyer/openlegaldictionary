@@ -1,5 +1,6 @@
 ---
 title: Liberty
+letter: L
 permalink: "/definitions/liberty.html"
 body: 1. Freedom; exemptlon from extraneous control. The power of the will, in its
   moral freedom, to follow the dictates of its unrestricted choice, and to direct

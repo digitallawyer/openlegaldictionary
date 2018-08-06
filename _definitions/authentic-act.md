@@ -1,5 +1,6 @@
 ---
 title: Authentic Act
+letter: A
 permalink: "/definitions/authentic-act.html"
 body: 'In the civil law. An act which has been executed before a notary or other public
   officer authorized to execute such functions, or which is testified by a public

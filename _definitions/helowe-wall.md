@@ -1,5 +1,6 @@
 ---
 title: Helowe-Wall
+letter: H
 permalink: "/definitions/helowe-wall.html"
 body: The end-wall covering and defendlng the rest of the building. Paroch. Antiq.
   573

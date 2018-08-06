@@ -1,5 +1,6 @@
 ---
 title: Do, Lego
+letter: D
 permalink: "/definitions/do-lego.html"
 body: Lat I give, I bequeath; or I give and bequeath. The formal words of making a
   bequest or legacy, in the Roman law. Titio ct Seio hontinem, Stichum do, lego, I

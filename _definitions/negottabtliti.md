@@ -1,5 +1,6 @@
 ---
 title: Negottabtliti
+letter: N
 permalink: "/definitions/negottabtliti.html"
 body: In mercantile law. Transferable quallty. That quality of bills of exchange and
   promissory notes wbicb renders them transferable from one person to another, and

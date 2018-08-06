@@ -1,5 +1,6 @@
 ---
 title: Resolutive
+letter: R
 permalink: "/definitions/resolutive.html"
 body: In Scotch conveyancing. Having the quallty or effect of resolving or extinguishing
   a right. BeU

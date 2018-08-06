@@ -1,5 +1,6 @@
 ---
 title: Instar
+letter: I
 permalink: "/definitions/instar.html"
 body: Lat. Likeness; the likeness, size, or equivalent of a thing. Inatar den-tium,
   like teeth. 2 Bl. Comm. 295. Inatar omnium, equivalent or tantamount to all. Id.

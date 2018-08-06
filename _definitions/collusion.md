@@ -1,5 +1,6 @@
 ---
 title: Collusion
+letter: C
 permalink: "/definitions/collusion.html"
 body: A deceitful agreement br compact between two or more persons, for the one party
   to bring an action against the other for some evil purpose, as to defraud a third

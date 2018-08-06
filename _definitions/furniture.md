@@ -1,5 +1,6 @@
 ---
 title: Furniture
+letter: F
 permalink: "/definitions/furniture.html"
 body: This term includes that whlch furnishes, or with which anything is furnished
   or supplied; whatever must be supplied to a house, a room, or the like, to make

@@ -1,5 +1,6 @@
 ---
 title: Ex Visceribus
+letter: E
 permalink: "/definitions/ex-visceribus.html"
 body: From the bowels. From the vital part, the very essence of the thlng. 10 Coke,
   24b; Homer v. Shelton, 2 Metc. (Mass.) 213. Ex viscerlbus verborum, from the mere

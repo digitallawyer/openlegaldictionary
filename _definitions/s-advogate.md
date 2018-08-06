@@ -1,5 +1,6 @@
 ---
 title: S Advogate
+letter: S
 permalink: "/definitions/s-advogate.html"
 body: OGATE. An Engllsh advo-cate who holds, in the courts in which the rules of the
   canon and civil law prevail, a similar position to that which the attorney geueral

@@ -1,5 +1,6 @@
 ---
 title: Bilan
+letter: B
 permalink: "/definitions/bilan.html"
 body: A term used in Louisiana, de-rived from the French. A book in which bankers,
   merchants, and traders write a statement of ali they owe and all that is due them;

@@ -1,5 +1,6 @@
 ---
 title: Recourse
+letter: R
 permalink: "/definitions/recourse.html"
 body: The phrase "without recourse” is used in the form of muking a qual-ified or
   restrictive indorsement of n bill or note. By these words the indorser signifies

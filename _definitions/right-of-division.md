@@ -1,5 +1,6 @@
 ---
 title: Right Of Division
+letter: R
 permalink: "/definitions/right-of-division.html"
 body: In Scotch law. The right which each of several cautioners (sureties) has to
   refuse to answer for more than his own share of the debt To entitle the cautioner

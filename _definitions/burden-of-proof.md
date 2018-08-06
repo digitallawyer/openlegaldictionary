@@ -1,5 +1,6 @@
 ---
 title: Burden Of Proof
+letter: B
 permalink: "/definitions/burden-of-proof.html"
 body: "(Lat. onus probandi.) In the law of evldence. The neces-slty or duty of affirmatively
   provlng a fact or facts in dispute on an issue raised between the parties In a cause,

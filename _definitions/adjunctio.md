@@ -1,5 +1,6 @@
 ---
 title: Adjunctio
+letter: A
 permalink: "/definitions/adjunctio.html"
 body: In the civil law. Adjunc-tion; a species of accessio, whereby two things belonging
   to different proprietors are brought into firm connection with each other; such

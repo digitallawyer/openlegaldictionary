@@ -1,5 +1,6 @@
 ---
 title: Felagus
+letter: F
 permalink: "/definitions/felagus.html"
 body: In Saxon law. one bound for another by oath; a sworn brother. A friend bound
   in the decennary for the good behavior of another, one who took the place of the

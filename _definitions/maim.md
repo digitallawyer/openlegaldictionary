@@ -1,5 +1,6 @@
 ---
 title: Maim
+letter: M
 permalink: "/definitions/maim.html"
 body: To deprive a person of a member or part of the body, the loss of which renders
   him less capable of fighting; to commit mayhem, (q. v.). State v. Johnson, 58 ohio

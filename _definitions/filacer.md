@@ -1,5 +1,6 @@
 ---
 title: Filacer
+letter: F
 permalink: "/definitions/filacer.html"
 body: An officer of the superior courts at westminster, whose duty it was to file
   the writs on Which he made process. There were fourteen filacers, and it was their

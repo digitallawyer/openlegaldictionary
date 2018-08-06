@@ -1,5 +1,6 @@
 ---
 title: Butler'S Ordinance
+letter: B
 permalink: "/definitions/butlers-ordinance.html"
 body: In English law. A law for the heir to punish waste in the life of the ancestor.
   “Though it be on record in the parliament book of Edward I., yet it never was a

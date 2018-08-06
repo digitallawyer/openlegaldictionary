@@ -1,5 +1,6 @@
 ---
 title: Apex
+letter: A
 permalink: "/definitions/apex.html"
 body: The summit or highest point of anything; the top; e. g., in mining law, “apex
   of a vein." See Larkin v. Upton, 144 U. S. 19, 12 Sup. Ct. 614, 36 L. Ed. 330; Stevens

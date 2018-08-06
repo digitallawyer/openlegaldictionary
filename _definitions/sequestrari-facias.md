@@ -1,5 +1,6 @@
 ---
 title: Sequestrari Facias
+letter: S
 permalink: "/definitions/sequestrari-facias.html"
 body: In Euglish ecclesiastical practlce. A process in the na-ture of a levari facias,
   commanding the blsh-op to enter Into the rectory and parish church, and to take

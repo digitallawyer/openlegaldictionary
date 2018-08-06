@@ -1,5 +1,6 @@
 ---
 title: Administration Of Estates
+letter: A
 permalink: "/definitions/administration-of-estates.html"
 body: The management nnd settlement of the es-tate of an intestate, or of a testator
   who has

@@ -1,5 +1,6 @@
 ---
 title: Secrete
+letter: S
 permalink: "/definitions/secrete.html"
 body: To conceal or hide away. Particularly, to put property out of the reach of credltors,
   either by corporally hiding lt, or putting the title in another’s name, or otherwise

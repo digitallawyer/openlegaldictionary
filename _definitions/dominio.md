@@ -1,5 +1,6 @@
 ---
 title: Dominio
+letter: D
 permalink: "/definitions/dominio.html"
 body: Sp. In Spanlsh law. A term corresponding to and derlved from the Latin dominium,
   (q. v.) Dominio alto, eminent domain; dominio directo, immediate ownership; dominio

@@ -1,5 +1,6 @@
 ---
 title: In Judicio
+letter: I
 permalink: "/definitions/in-judicio.html"
 body: In Roman law. In the course of an actual trial; before a judge, (judex.) A cause,
   during its preparatory stages, conducted before the prtetor, was said to be in jure;

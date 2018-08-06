@@ -1,5 +1,6 @@
 ---
 title: Ex Post Facto Law
+letter: E
 permalink: "/definitions/ex-post-facto-law.html"
 body: A law passed after the occurrence of a fact or commission of an nct, which retrospectively
   changes the legal consequences or relations of such fact or deed. By Const. U. S.

@@ -1,5 +1,6 @@
 ---
 title: Shall
+letter: S
 permalink: "/definitions/shall.html"
 body: As used in statutes and similar Instruments, this word is generally im-perative
   or mandatory; but it may be con-strued as merely permissive or directory, (as equivalent

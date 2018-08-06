@@ -1,5 +1,6 @@
 ---
 title: Abstract Of Title
+letter: A
 permalink: "/definitions/abstract-of-title.html"
 body: A condensed' history of tbe title to land, consisting of a synopsis or summary
   of the material or op-erative portion of all the conveyances, of whatever kind or

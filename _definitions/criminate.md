@@ -1,5 +1,6 @@
 ---
 title: Criminate
+letter: C
 permalink: "/definitions/criminate.html"
 body: To charge oue with crime; to furnish ground for a criminal prosecution; to expose
   a person to a criminal charge. A witness cannot be compelled to answer any question

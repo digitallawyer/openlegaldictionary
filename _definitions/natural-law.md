@@ -1,5 +1,6 @@
 ---
 title: Natural Law
+letter: N
 permalink: "/definitions/natural-law.html"
 body: A rule of couduct arising out of the natural relations of human beings, established
   by the Creator, tfnd exist-ing prior to any posltlve precept webster. The foundation

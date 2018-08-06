@@ -1,5 +1,6 @@
 ---
 title: In Jure
+letter: I
 permalink: "/definitions/in-jure.html"
 body: In law; according to law. In the Roman practice, the procedure in an action
   was divided into two stages. The first was said to be in jure; it took place before

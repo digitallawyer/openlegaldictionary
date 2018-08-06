@@ -1,5 +1,6 @@
 ---
 title: Falsify
+letter: F
 permalink: "/definitions/falsify.html"
 body: To disprove; to prove to be false or erroneous; to avoid or defeat; spok-en
   of verdicts, appeals, etc

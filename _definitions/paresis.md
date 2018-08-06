@@ -1,5 +1,6 @@
 ---
 title: Paresis
+letter: P
 permalink: "/definitions/paresis.html"
 body: In medical jurisprudence. Progressive general paralysis, involving or leading
   to the form of insanity known as “dementia paralytica" Popularly, but not very correctly,

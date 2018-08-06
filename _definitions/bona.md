@@ -1,5 +1,6 @@
 ---
 title: Bona
+letter: B
 permalink: "/definitions/bona.html"
 body: Lat. n. Goods; property; possessions. In the Roman law. this term was used to
   designate all species of property, real, personal, and mixed, but was more strictly

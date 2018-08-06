@@ -1,5 +1,6 @@
 ---
 title: Ferri
+letter: F
 permalink: "/definitions/ferri.html"
 body: In the eivll law. To be borne; that is on or about the per> This was dis-tinguished
   from portari, (to . , carried,) which signified to be carried on an animal. Dig.

@@ -1,5 +1,6 @@
 ---
 title: Imfortunity
+letter: I
 permalink: "/definitions/imfortunity.html"
 body: Pressing solicitation; urgent request; application for a claim or favor which
   is urged with troublesome frequency or pertinacity, webster

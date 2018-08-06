@@ -1,5 +1,6 @@
 ---
 title: Dedi Et Concessi
+letter: D
 permalink: "/definitions/dedi-et-concessi.html"
 body: I have given and granted. The operative words of conveyance in ancient charters
   of feoffment, and deeds of gift and grant; the English “given and granted" being

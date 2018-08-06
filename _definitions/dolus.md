@@ -1,5 +1,6 @@
 ---
 title: Dolus
+letter: D
 permalink: "/definitions/dolus.html"
 body: In the clvll law. Guile; de-celtfulness; malicious fraud. A fraudulent address
   or trick used to deceive some one; a fraud. Dlg. 4, 3, 1. Any subtle contriv-ance

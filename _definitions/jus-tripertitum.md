@@ -1,5 +1,6 @@
 ---
 title: Jus Tripertitum
+letter: J
 permalink: "/definitions/jus-tripertitum.html"
 body: in Roman law. A name applied to the Roman law of wills, i in the time of Justinian,
   on account of its' threefold derivation, viz., from the prae-; torlan edict, from

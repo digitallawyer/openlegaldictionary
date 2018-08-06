@@ -1,5 +1,6 @@
 ---
 title: Default
+letter: D
 permalink: "/definitions/default.html"
 body: The omission or failure to fulfill a duty, observe a promise, discharge an obligation,
   or perform an agreement-State v. Moores, 52 Neb. 770, 73 N. W. 299; osborn v. Rogers,

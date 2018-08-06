@@ -1,5 +1,6 @@
 ---
 title: Burgage-Tenure
+letter: B
 permalink: "/definitions/burgage-tenure.html"
 body: In English law. one of the three species of free socage hold-lngs; a tenure
   whereby houses and lands which were formerly the site of houses, in an ancient borough,

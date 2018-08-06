@@ -1,5 +1,6 @@
 ---
 title: Vestry
+letter: V
 permalink: "/definitions/vestry.html"
 body: In eccleslastlcal law. The place in a church where the priest's vestures are
   deposited. Also an assembly of the mln-ister, church-wardens, nnd parishioners,

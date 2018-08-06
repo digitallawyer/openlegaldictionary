@@ -1,5 +1,6 @@
 ---
 title: Moravians
+letter: M
 permalink: "/definitions/moravians.html"
 body: otherwise called “Herra-hutters” or “United Brethren.” A sect of Christians
   whose social polity is particular and conspicuous. It sprung up in Moravia and Bohemia,

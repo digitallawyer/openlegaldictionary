@@ -1,5 +1,6 @@
 ---
 title: Difference
+letter: D
 permalink: "/definitions/difference.html"
 body: In an agreement for submission to arbitration, “difference” menns disagreement
   or dispute. Fravert v. Fesler, 11 Colo. App. 387, 53 Pac. 288; Pioneer Mfg. Co.

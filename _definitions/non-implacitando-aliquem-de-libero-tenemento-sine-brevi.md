@@ -1,5 +1,6 @@
 ---
 title: Non Implacitando Aliquem De Libero Tenemento Sine Brevi
+letter: N
 permalink: "/definitions/non-implacitando-aliquem-de-libero-tenemento-sine-brevi.html"
 body: A wrlt to prohiblt bailiffs, etc., from dis-training or Impleading any maii
   touching his freehold without the king's writ Reg. orig. 171.

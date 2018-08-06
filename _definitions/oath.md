@@ -1,5 +1,6 @@
 ---
 title: Oath
+letter: O
 permalink: "/definitions/oath.html"
 body: An external pledge or assevera-tlon, made in verification of statements made
   or to be made, coupled with an appeal to a sacred or venerated object, in evidence

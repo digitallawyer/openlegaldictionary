@@ -1,5 +1,6 @@
 ---
 title: Jus Privatum
+letter: J
 permalink: "/definitions/jus-privatum.html"
 body: Private law; the law regulating the rights, couduct, and affairs of Individuals,
   as distinguished from “public” law, which relates to the constltu-tion and functions

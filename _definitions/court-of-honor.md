@@ -1,5 +1,6 @@
 ---
 title: Court Of Honor
+letter: C
 permalink: "/definitions/court-of-honor.html"
 body: A court having Ju-risdiction to hear and redress injuries or affronts to a man’s
   honor or personal dignity, of a nature not cognisable by the ordinary courts of

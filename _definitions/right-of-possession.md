@@ -1,5 +1,6 @@
 ---
 title: Right Of Possession
+letter: R
 permalink: "/definitions/right-of-possession.html"
 body: The right to possession which may reside in one man/ while another has the actual
   possession, be-ing the right to enter and turn out such ac-tual occupant; e. g.,

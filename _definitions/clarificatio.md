@@ -1,5 +1,6 @@
 ---
 title: Clarificatio
+letter: C
 permalink: "/definitions/clarificatio.html"
 body: Lat in old Scotch law. A making dear; the purging or clear-ing (clenglng) of
   an assise. Skene

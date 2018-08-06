@@ -1,5 +1,6 @@
 ---
 title: Sub-Ballivtjs
+letter: S
 permalink: "/definitions/sub-ballivtjs.html"
 body: In old English lnw. An under-hniliff; n sheriff’s deputy. Fleta, llb. 2, c.
   68, | 2

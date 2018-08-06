@@ -1,5 +1,6 @@
 ---
 title: Non Liquet
+letter: N
 permalink: "/definitions/non-liquet.html"
 body: Lat It is not clear. In the Roman courts, when any of the judges, after the
   hearing of a cause, were not satis-fled that tiie case was made clear enough for

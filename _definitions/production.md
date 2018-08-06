@@ -1,5 +1,6 @@
 ---
 title: Production
+letter: P
 permalink: "/definitions/production.html"
 body: In political economy. The creation of objects which constitute wealth. The requisites
   of production are

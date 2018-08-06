@@ -1,5 +1,6 @@
 ---
 title: Factory
+letter: F
 permalink: "/definitions/factory.html"
 body: In English law. The term Includes all buildings and premises wherein, or within
   the close or curtilage of which, steam, water, or any mechanical power is used to

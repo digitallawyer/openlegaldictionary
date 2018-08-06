@@ -1,5 +1,6 @@
 ---
 title: Commence
+letter: C
 permalink: "/definitions/commence.html"
 body: To commence a suit is to demand something by the institution of pro-cess in
   a court of justice. Cohens v. Vir-ginia, 6 wheat 408, 5 L. Ed. 257. To “bring” a

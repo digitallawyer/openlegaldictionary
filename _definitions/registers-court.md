@@ -1,5 +1,6 @@
 ---
 title: Register'S Court
+letter: R
 permalink: "/definitions/registers-court.html"
 body: In American law. A court in the state of Pennsylvania which has jurisdiction
   in matters of probate

@@ -1,5 +1,6 @@
 ---
 title: Revive
+letter: R
 permalink: "/definitions/revive.html"
 body: To renew, revivify; to, mate one’s seif liable for a debt barred _ by tbe statute
   of limitations by acknowledging it? or for a matrimonial offense, once condoned,

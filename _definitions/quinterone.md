@@ -1,5 +1,6 @@
 ---
 title: Quinterone
+letter: Q
 permalink: "/definitions/quinterone.html"
 body: A term used in the West Indles to designate a person one of whose parents was
   a-whlte person and the other, a quadroon. Also spelled “quintroon.” See Daniel v.

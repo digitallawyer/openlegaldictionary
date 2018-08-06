@@ -1,5 +1,6 @@
 ---
 title: Reconciliation
+letter: R
 permalink: "/definitions/reconciliation.html"
 body: The renewal of amicable relations between two persons who had been at enmity
   or variance; usually implying forgiveness of injuries on one or both sides. It is

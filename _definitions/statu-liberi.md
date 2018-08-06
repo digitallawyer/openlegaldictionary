@@ -1,5 +1,6 @@
 ---
 title: Statu Liberi
+letter: S
 permalink: "/definitions/statu-liberi.html"
 body: Lat in Louisiana. Slaves for a time, who had acquired the right of being free
   at a time to come, or on a condition which was not fulfilled, or in a certain event

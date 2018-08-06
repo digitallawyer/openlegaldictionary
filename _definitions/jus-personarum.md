@@ -1,5 +1,6 @@
 ---
 title: Jus Personarum
+letter: J
 permalink: "/definitions/jus-personarum.html"
 body: Rights of persons. - Those rights which, in the civll law, belong to persons
   as such, or in thelr differ-ent characters and relations; as parents and children,

@@ -1,5 +1,6 @@
 ---
 title: Trithing
+letter: T
 permalink: "/definitions/trithing.html"
 body: In Saxon law. one of the territorial divisions of England, being the third part
   of so county, and comprising three or more hundreds, wlthin the trithlng there was

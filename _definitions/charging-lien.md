@@ -1,5 +1,6 @@
 ---
 title: Charging Lien
+letter: C
 permalink: "/definitions/charging-lien.html"
 body: An attorney's lien, for hls proper compensation, on the fund or judgment which’
   his client has recovered by means of his professional aid aud services. Goodrich

@@ -1,5 +1,6 @@
 ---
 title: Material
+letter: M
 permalink: "/definitions/material.html"
 body: Important; more or less necessary; having influence or effect; going to the
   merits; having to do with matter, as distinguished from form. An allegation is sald

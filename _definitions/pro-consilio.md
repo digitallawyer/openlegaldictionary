@@ -1,5 +1,6 @@
 ---
 title: Pro Consilio
+letter: P
 permalink: "/definitions/pro-consilio.html"
 body: For counsel given. An annuity pro consilio amounts to a condi-tion, but in a
   feoffment or lease for life, etc., it is the consideration, and does not amount

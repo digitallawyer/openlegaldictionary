@@ -1,5 +1,6 @@
 ---
 title: Provost-Marshal
+letter: P
 permalink: "/definitions/provost-marshal.html"
 body: AL. In English law. An officer of the royal navy who had the charge of prisoners
   taken at sea, and some-times also on land. In military law, the officer acting as

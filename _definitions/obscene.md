@@ -1,5 +1,6 @@
 ---
 title: Obscene
+letter: O
 permalink: "/definitions/obscene.html"
 body: Lewd; ftnpure; indecent; calculated to shock the moral sense of man by a disregard
   of chastity or modesty. Tim-mous v. u. S., 85 Fed. 205, 30. C. C. A. 74; U. S. v.

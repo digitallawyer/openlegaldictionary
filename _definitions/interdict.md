@@ -1,5 +1,6 @@
 ---
 title: Interdict
+letter: I
 permalink: "/definitions/interdict.html"
 body: 'In Roman law. A de-< cree of the praetor by means of which, in certain cases
   determined by the edict, he him-'' self directly commanded wi^at should be done

@@ -1,5 +1,6 @@
 ---
 title: Chambers
+letter: C
 permalink: "/definitions/chambers.html"
 body: In practice. The pri-vate room or office of a judge; any place in which a judge
   hears motions, signs papers, or does other business pertaining to his of-flce, when

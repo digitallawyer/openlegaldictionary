@@ -1,5 +1,6 @@
 ---
 title: Reversio
+letter: R
 permalink: "/definitions/reversio.html"
 body: L. Lat. in old English law. The returning of land to the donor Fleta, llb. 3,
   cc. 10, 12

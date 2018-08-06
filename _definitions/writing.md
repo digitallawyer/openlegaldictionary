@@ -1,5 +1,6 @@
 ---
 title: Writing
+letter: W
 permalink: "/definitions/writing.html"
 body: The expression of ideas by letters visible to the eye. Clason v. Bailey, 14
   Johns. (N. Y.) 491. The glvlng an out-ward and objective form to a contract, wlll,

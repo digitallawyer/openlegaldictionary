@@ -1,5 +1,6 @@
 ---
 title: Per Aversionem
+letter: P
 permalink: "/definitions/per-aversionem.html"
 body: Lat. In the civil law. By turning away. A term applied to that klnd of sale
   where the goods are tak-en in bulk, and not by weight or measure, and for a single

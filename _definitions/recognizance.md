@@ -1,5 +1,6 @@
 ---
 title: Recognizance
+letter: R
 permalink: "/definitions/recognizance.html"
 body: An obllgation of record, entered into before some court of record, or magistrate
   duly authorized, with condition to do some particular act; as to appear at the assizes,

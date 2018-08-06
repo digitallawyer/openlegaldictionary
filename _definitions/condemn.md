@@ -1,5 +1,6 @@
 ---
 title: Condemn
+letter: C
 permalink: "/definitions/condemn.html"
 body: To find or adjudge guilty. 3 Leon. 68. To adjudge or sentence. 8 Bl. Comm. 291.
   To adjudge (as an admiralty court) that a vessel is a prize, or that she is unfit

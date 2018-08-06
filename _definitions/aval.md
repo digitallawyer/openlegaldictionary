@@ -1,5 +1,6 @@
 ---
 title: Aval
+letter: A
 permalink: "/definitions/aval.html"
 body: In French law. The guaranty of a hill of exchauge; so called because usually
   placed at the foot or bottom (aval) of the blll. Story, Bills, $$ 394, 454

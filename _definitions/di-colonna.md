@@ -1,5 +1,6 @@
 ---
 title: Di Colonna
+letter: D
 permalink: "/definitions/di-colonna.html"
 body: In maritime law. The contract which takes place between the own-er of a ship,
   the captain, and the mariners, who agree that the voyage shall be for the benefit

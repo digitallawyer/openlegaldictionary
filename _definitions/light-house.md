@@ -1,5 +1,6 @@
 ---
 title: Light-House
+letter: L
 permalink: "/definitions/light-house.html"
 body: A structure, usually in the form of a tower, containing signal-lights for the
   guidance of vessels at night, at dangerous points of a coast, shoals, etc. They

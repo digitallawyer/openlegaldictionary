@@ -1,5 +1,6 @@
 ---
 title: Conjurator
+letter: C
 permalink: "/definitions/conjurator.html"
 body: In old English law. One who swears or is sworn with others r one bound by oath
   with others; a compur-gator; a conspirator

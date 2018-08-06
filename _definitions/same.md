@@ -1,5 +1,6 @@
 ---
 title: Same
+letter: S
 permalink: "/definitions/same.html"
 body: The word “same" does not always mean “identical,” not different or other. It
   frequently means of the bind or species, not the specific thing. Crapo v. Brown,

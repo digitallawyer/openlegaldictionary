@@ -1,5 +1,6 @@
 ---
 title: Reclaiming Bill
+letter: R
 permalink: "/definitions/reclaiming-bill.html"
 body: In Scotch law. A petitlon of appeal or review of a judgment of the lord ordlnary
   or other Inferior court. Bell

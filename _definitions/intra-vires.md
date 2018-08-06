@@ -1,5 +1,6 @@
 ---
 title: Intra Vires
+letter: I
 permalink: "/definitions/intra-vires.html"
 body: An act is said to be intra vires (“within the power”) of a person or corporation
   when it is within the scope of his or its powers or authority. It is the op-posite

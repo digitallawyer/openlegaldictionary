@@ -1,5 +1,6 @@
 ---
 title: Rogation Week
+letter: R
 permalink: "/definitions/rogation-week.html"
 body: In English ecclesl-astical law. The second week before whit-sunday, thus called
   from three fasts observed therein, the Monday, Tuesday, and wednesday, called “Rogation

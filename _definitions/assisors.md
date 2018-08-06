@@ -1,5 +1,6 @@
 ---
 title: Assisors
+letter: A
 permalink: "/definitions/assisors.html"
 body: In Scotch law. Jurors; the persons who formed that kind of court which in Scotland
   was called an “assise,” for the purpose of inquiring into and judging divers civil

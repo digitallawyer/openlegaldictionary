@@ -1,5 +1,6 @@
 ---
 title: Phlebitis
+letter: P
 permalink: "/definitions/phlebitis.html"
 body: In medical jurisprudence. An inflammation of the velns, which may originate
   in septicaemia (bacterial blood-poisoning) or pyaemia (poisoning from pus), and

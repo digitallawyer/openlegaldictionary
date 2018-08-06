@@ -1,5 +1,6 @@
 ---
 title: Accumulations
+letter: A
 permalink: "/definitions/accumulations.html"
 body: when an executor or other trustee masses the rents, dividends, and other income
   which he receives, treats it as a capital, invests lt, makes a new capital of the

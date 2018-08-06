@@ -1,5 +1,6 @@
 ---
 title: Overrvle
+letter: O
 permalink: "/definitions/overrvle.html"
 body: To supersede; annul; re-Ject by subsequent action or decision. A ju-dicial decision
   is said to be overruled when a later decision, rendered by the same court or by

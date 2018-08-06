@@ -1,5 +1,6 @@
 ---
 title: Compurgator
+letter: C
 permalink: "/definitions/compurgator.html"
 body: one of several neigh-bors of a person accused of a crime, or charged as a defendant
   in a eivll action, who appeared and swore that they believed him on his oath. 3

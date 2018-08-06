@@ -1,5 +1,6 @@
 ---
 title: Practice Court
+letter: P
 permalink: "/definitions/practice-court.html"
 body: In English law. A court attached to the court of king's bench, which heard and
   determined common matters of business and ordinary motions for writs of mandamus,

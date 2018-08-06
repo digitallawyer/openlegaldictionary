@@ -1,5 +1,6 @@
 ---
 title: Taxatio
+letter: T
 permalink: "/definitions/taxatio.html"
 body: LaL In Roman law. Taxa-tion or assessment of damages; the assess-ment, hy the
   judge, of the amount of dam-ages to be awarded to a plaintiff, and particu-lariy

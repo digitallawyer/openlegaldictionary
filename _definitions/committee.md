@@ -1,5 +1,6 @@
 ---
 title: Committee
+letter: C
 permalink: "/definitions/committee.html"
 body: In practice. An assembly or board of persons to whom the consideration or management
   of any matter is com-mitted or referred by some court. Lloyd v. Hart, 2 Pa. 473,

@@ -1,5 +1,6 @@
 ---
 title: Commerce
+letter: C
 permalink: "/definitions/commerce.html"
 body: Intercourse by way of trade and traffic between different peoples or states
   and the citizens or inhabitants there-of, including not only the purchase, sale,

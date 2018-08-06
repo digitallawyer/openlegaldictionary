@@ -1,5 +1,6 @@
 ---
 title: Metropolitan
+letter: M
 permalink: "/definitions/metropolitan.html"
 body: ln Engllsh law. one of the titles of an archbishop. Derived from the circumstance
   tiiat archbishops were consecrated at first in the metropolis ef a province. 4 Inst

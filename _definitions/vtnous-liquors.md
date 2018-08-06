@@ -1,5 +1,6 @@
 ---
 title: Vtnous Liquors
+letter: V
 permalink: "/definitions/vtnous-liquors.html"
 body: Thfs term includes all alcoholic beverages made from the Juice of the grape
   by the process of fermentation, and perhaps similar liquors made from ap-ples and

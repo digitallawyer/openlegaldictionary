@@ -1,5 +1,6 @@
 ---
 title: Litis Denunciatio
+letter: L
 permalink: "/definitions/litis-denunciatio.html"
 body: Lat. In the civil law. The process by which a purchaser of property, who is
   sued for its possession or recovery by a third person, falls back upon his vendor’s

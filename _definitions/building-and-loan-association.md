@@ -1,5 +1,6 @@
 ---
 title: Building And Loan Association
+letter: B
 permalink: "/definitions/building-and-loan-association.html"
 body: An organization created for the pur-pose of accumulating a fund by the monthly
   subscriptions and savings of its members to assist them in bailding or purchasing

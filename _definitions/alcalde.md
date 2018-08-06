@@ -1,5 +1,6 @@
 ---
 title: Alcalde
+letter: A
 permalink: "/definitions/alcalde.html"
 body: The name of a Judicial of-ficer in Spain, and in those countries which have
   received their laws and institutions from Spain. His functions somewhat re-sembled

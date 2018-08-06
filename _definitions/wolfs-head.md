@@ -1,5 +1,6 @@
 ---
 title: Wolf'S Head
+letter: W
 permalink: "/definitions/wolfs-head.html"
 body: In old English law. This term was used as descriptive of the con-dltion of an
   outlaw. Such persons were said to carry a wolf’s head, (caput lupinum;) for if caught

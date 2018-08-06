@@ -1,5 +1,6 @@
 ---
 title: Venire Facias
+letter: V
 permalink: "/definitions/venire-facias.html"
 body: Lat. In practice. A judlclal writ, directed to the sheriff of the county in
   which a cause is to be tried, com-mauding him that he “cause to come” before the

@@ -1,5 +1,6 @@
 ---
 title: Plan
+letter: P
 permalink: "/definitions/plan.html"
 body: A map, chart, or design; being a delineation or projection on a plane sur-face
   of the ground lines of a house, farm, street, city, etc., reduced in absolute length,

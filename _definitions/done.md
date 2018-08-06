@@ -1,5 +1,6 @@
 ---
 title: Done
+letter: D
 permalink: "/definitions/done.html"
 body: Distinguished from “made." “A 'deed made’ may no doubt mean an ‘Instru-ment
   made;’ but a ‘deed done’ is not an ‘instrument done,’—it is an ‘act done;* and therefore

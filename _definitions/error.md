@@ -1,5 +1,6 @@
 ---
 title: Error
+letter: E
 permalink: "/definitions/error.html"
 body: A mistaken judgment or incorrect belief as to the existence or effect of matters
   of fact, or a false or mistaken concep-tion or application of the law

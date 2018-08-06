@@ -1,5 +1,6 @@
 ---
 title: Devtation
+letter: D
 permalink: "/definitions/devtation.html"
 body: 'In insnranoo. Varying frtnn the: risks insured against, as described in the
   pollcy, without necessity or juat cause, after the risk has begun. 1 Phil. Ins.

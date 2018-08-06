@@ -1,5 +1,6 @@
 ---
 title: Irrepleviable
+letter: I
 permalink: "/definitions/irrepleviable.html"
 body: That cannot be replevied or delivered on sureties. Spelled, also, “irreplevisable.”
   Co. Litt. 145

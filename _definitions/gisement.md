@@ -1,5 +1,6 @@
 ---
 title: Gisement
+letter: G
 permalink: "/definitions/gisement.html"
 body: L. Fr. Agistment; cattle taken in to graze at a certain price; also the money
   received for grazing cattle

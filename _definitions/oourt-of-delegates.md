@@ -1,5 +1,6 @@
 ---
 title: Oourt Of Delegates
+letter: O
 permalink: "/definitions/oourt-of-delegates.html"
 body: An English tribunal composed of delegates appointed by royal commission, and
   formerly the great court of appeal in all ecclesiastical causes# The powers of the

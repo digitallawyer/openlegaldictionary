@@ -1,5 +1,6 @@
 ---
 title: Quia Emftores
+letter: Q
 permalink: "/definitions/quia-emftores.html"
 body: "“Because the pur-chasere.” The title of the statute of westm. S. (18 Edw. L
   c. 1.) This statute took from the tenants of common lords the feudal lib-erty they

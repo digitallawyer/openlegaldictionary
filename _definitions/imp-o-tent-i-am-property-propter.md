@@ -1,5 +1,6 @@
 ---
 title: Imp O Tent I Am, Property Propter
+letter: I
 permalink: "/definitions/imp-o-tent-i-am-property-propter.html"
 body: A qualified property, which may subsist In animals ferae natura on account of
   thelr inability, as where hawks, herons, or other birds build In a person's trees,

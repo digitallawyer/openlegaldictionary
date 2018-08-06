@@ -1,5 +1,6 @@
 ---
 title: C. C
+letter: C
 permalink: "/definitions/cc.html"
 body: P. An abbreviation for Code of Civil Procedure; also for court of common pleas.*
   ■ •

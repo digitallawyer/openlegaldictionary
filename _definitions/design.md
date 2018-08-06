@@ -1,5 +1,6 @@
 ---
 title: Design
+letter: D
 permalink: "/definitions/design.html"
 body: In the law of evidence. Pur-pose or intention, combined with plan, or implying
   a plan in the mind. Burrill. Circ. Ev. 331; State v. Grant, 86 Iowa, 216, 53 N.

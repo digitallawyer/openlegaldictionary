@@ -1,5 +1,6 @@
 ---
 title: Rem Ons Trance
+letter: R
 permalink: "/definitions/rem-ons-trance.html"
 body: Expostulation; showing of reasons against something pro-posed; a representation
   made to a court or legislative body wherein certain persons unite in urging that

@@ -1,5 +1,6 @@
 ---
 title: Deitnitoon
+letter: D
 permalink: "/definitions/deitnitoon.html"
 body: A description of a thing by its properties; an explanation of the meaning of
   a word or term, webster. The process of stating the exact meaning of a word by means

@@ -1,5 +1,6 @@
 ---
 title: Relief
+letter: R
 permalink: "/definitions/relief.html"
 body: 1. In feudal law. A sum pay-able hy the new tenant, the duty heing inci-dent
   to every feudal tenure, by way of fine or composition with the lord for taking np

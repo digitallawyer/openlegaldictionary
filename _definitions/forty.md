@@ -1,5 +1,6 @@
 ---
 title: Forty
+letter: F
 permalink: "/definitions/forty.html"
 body: In land law’s and conveyancing, In those regions where grants, transfers, and
   deeds are made with reference to tlie subdl-vislons of the government survey, this

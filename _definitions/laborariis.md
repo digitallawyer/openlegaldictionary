@@ -1,5 +1,6 @@
 ---
 title: Laborariis
+letter: L
 permalink: "/definitions/laborariis.html"
 body: Au nncient writ against persons who refused to serve and do labor, and who had
   no means of living; or against such as, having served in the winter, refus-ed to

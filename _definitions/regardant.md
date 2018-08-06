@@ -1,5 +1,6 @@
 ---
 title: Regardant
+letter: R
 permalink: "/definitions/regardant.html"
 body: A term which was applied, in feudal law, to a villein annexed to a manor, and
   having charge to do all base services within the same, and to see the same freed

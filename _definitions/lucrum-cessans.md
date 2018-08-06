@@ -1,5 +1,6 @@
 ---
 title: Lucrum Cessans
+letter: L
 permalink: "/definitions/lucrum-cessans.html"
 body: Lat. In Scotch law. A ceasing gain, as distinguished from damnum datum, an actual
   loss

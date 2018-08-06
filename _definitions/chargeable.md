@@ -1,5 +1,6 @@
 ---
 title: Chargeable
+letter: C
 permalink: "/definitions/chargeable.html"
 body: This word, in its ordinary acceptation, as applicable to the im-position of
   a duty or burden, signifies capable of being charged, subject to be charged, liable

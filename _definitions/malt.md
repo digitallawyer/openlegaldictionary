@@ -1,5 +1,6 @@
 ---
 title: Malt
+letter: M
 permalink: "/definitions/malt.html"
 body: A substance produced from bar-ley or other grain by a process of steeping in
   water until germination begins and then drying in a kiln, thus converting the starch

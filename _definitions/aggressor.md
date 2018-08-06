@@ -1,5 +1,6 @@
 ---
 title: Aggressor
+letter: A
 permalink: "/definitions/aggressor.html"
 body: The party who first offers violence or offense. He who begins a quarrel or dispute,
   either by threatening or striking another

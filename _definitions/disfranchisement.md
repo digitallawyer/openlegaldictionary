@@ -1,5 +1,6 @@
 ---
 title: Disfranchisement
+letter: D
 permalink: "/definitions/disfranchisement.html"
 body: T. The act of dis-franchising. The act of depriving a member of a corporation
   of his right as such, by expulsion. 1 Bouv. Inst no. 192. Richards v. Clarksburg,

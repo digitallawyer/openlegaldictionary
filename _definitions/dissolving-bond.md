@@ -1,5 +1,6 @@
 ---
 title: Dissolving Bond
+letter: D
 permalink: "/definitions/dissolving-bond.html"
 body: A bond given to obtain the dissolution of a legal writ or process, particularly
   an attachment or an injunction, and conditioned to indemnify the opposite party

@@ -1,5 +1,6 @@
 ---
 title: Transferable
+letter: T
 permalink: "/definitions/transferable.html"
 body: A term used in a quasi legal sense, to lndlcate that the char-acter of assignability
   or negotiablllty attaches to the particular instrument, or that it may pass from

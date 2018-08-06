@@ -1,5 +1,6 @@
 ---
 title: Stellionatus
+letter: S
 permalink: "/definitions/stellionatus.html"
 body: Lat in the civil law. A general name for any kind of fraud not falling under
   any specific class. But the term is chiefly applied to fraud practiced in the sale

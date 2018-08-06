@@ -1,5 +1,6 @@
 ---
 title: De Admensuratione
+letter: D
 permalink: "/definitions/de-admensuratione.html"
 body: of admeas-urement Thus, de admensuratione dotis was a writ for the admeasurement
   of dower, and de admensuratione pastura was a writ for the admeasurement of pasture

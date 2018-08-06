@@ -1,5 +1,6 @@
 ---
 title: Defeasible
+letter: D
 permalink: "/definitions/defeasible.html"
 body: Subject to be defeated, annulled, revoked, or undone upon the hap-pening of
   a future event or the performance of a condition subsequent, or hy a condi-tional

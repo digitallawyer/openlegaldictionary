@@ -1,5 +1,6 @@
 ---
 title: Per Gonsiderationem Curls
+letter: P
 permalink: "/definitions/per-gonsiderationem-curls.html"
 body: Lat. In old practice. By the consideration (judgment) of the court. Yearb. M.
   1 Edw. JI. 2.

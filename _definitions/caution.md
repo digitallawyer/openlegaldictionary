@@ -1,5 +1,6 @@
 ---
 title: Caution
+letter: C
 permalink: "/definitions/caution.html"
 body: In Scotch law, and in admi-ralty law. Surety; security; bail; an un-dertaklng
   by way of surety. 6. Mod. 162. See Cautio

@@ -1,5 +1,6 @@
 ---
 title: Burying Alive
+letter: B
 permalink: "/definitions/burying-alive.html"
 body: In English law. The ancient punishment of sodomites, and those who contracted
   with Jews. Fleta, lib. 1, c. 27, $ 3

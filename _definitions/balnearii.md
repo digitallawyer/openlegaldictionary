@@ -1,5 +1,6 @@
 ---
 title: Balnearii
+letter: B
 permalink: "/definitions/balnearii.html"
 body: In the Roman law. Those who stole the clothes of bathers in the public baths.
   4 Bl. Comm. 239

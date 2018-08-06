@@ -1,5 +1,6 @@
 ---
 title: Vindicatory Parts Of Laws
+letter: V
 permalink: "/definitions/vindicatory-parts-of-laws.html"
 body: The sanction of the laws, whereby it is sig-nified what evil or penalty shall
   be incurred by such as commit any public wrongs, and transgress or neglect their

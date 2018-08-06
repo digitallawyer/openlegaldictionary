@@ -1,5 +1,6 @@
 ---
 title: Prevailing Party
+letter: P
 permalink: "/definitions/prevailing-party.html"
 body: That one of the parties to a suit who successfully prosecutes the action or
   successfully defends against it, prevailing on the main issue, though not to the

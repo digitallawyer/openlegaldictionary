@@ -1,5 +1,6 @@
 ---
 title: In Specie
+letter: I
 permalink: "/definitions/in-specie.html"
 body: Specific; specifically. Thus, to decree performance in specie is to decree specific
   performance

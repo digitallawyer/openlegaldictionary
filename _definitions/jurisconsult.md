@@ -1,5 +1,6 @@
 ---
 title: Jurisconsult
+letter: J
 permalink: "/definitions/jurisconsult.html"
 body: A jurist; a person skilled in the science of law, particularly of international
   or public law

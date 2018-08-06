@@ -1,5 +1,6 @@
 ---
 title: Averia
+letter: A
 permalink: "/definitions/averia.html"
 body: In old English law. This term was applied to working cattle, such as horses,
   oxen. etc

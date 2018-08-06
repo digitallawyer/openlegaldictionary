@@ -1,5 +1,6 @@
 ---
 title: Liberi
+letter: L
 permalink: "/definitions/liberi.html"
 body: In Saxon law. Freemen; the possessors of allodial lands. 1 Reeve, Eng. Law,
   5

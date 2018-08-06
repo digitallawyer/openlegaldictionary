@@ -1,5 +1,6 @@
 ---
 title: Currency
+letter: C
 permalink: "/definitions/currency.html"
 body: Colued money aud such bank-notes or other paper money as are au-thorissed by
   lnw aud do in fact circulate from imiid to hand as the medium of exchange. Griswold

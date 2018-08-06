@@ -1,5 +1,6 @@
 ---
 title: Recital
+letter: R
 permalink: "/definitions/recital.html"
 body: The formal statement or set-ting forth of some matter of fact, in any deed or
   wrltlng, in order to explain the reasons upon which the transaction is founded.

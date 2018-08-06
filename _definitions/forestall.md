@@ -1,5 +1,6 @@
 ---
 title: Forestall
+letter: F
 permalink: "/definitions/forestall.html"
 body: To Intercept or obstruct a passenger on the king’s highway. CowelL To beset
   the way of a tenant so as to prevent his coming on the premises. 3 Bl. Comm. 170.

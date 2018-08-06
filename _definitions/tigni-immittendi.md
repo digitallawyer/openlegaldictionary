@@ -1,5 +1,6 @@
 ---
 title: Tigni Immittendi
+letter: T
 permalink: "/definitions/tigni-immittendi.html"
 body: Lat in the dv-il law. The name of a servitude which is the right of inserting
   a beam or timber from the wall of one house Into that of a neigh-boring house, in

@@ -1,5 +1,6 @@
 ---
 title: Digamy
+letter: D
 permalink: "/definitions/digamy.html"
 body: or DIGAMY. Second mar-riage; marriage to a second wife after the death of the
   first, as “bigamy,” in law, , is having two wives at once, originally, a man who

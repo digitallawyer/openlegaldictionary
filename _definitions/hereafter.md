@@ -1,5 +1,6 @@
 ---
 title: Hereafter
+letter: H
 permalink: "/definitions/hereafter.html"
 body: A word of futurity, always used in statutes aud legal documents ss indicative
   of future time, excluding both the present and the past Chapman v. Holmes, 10 N.

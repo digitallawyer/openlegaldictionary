@@ -1,5 +1,6 @@
 ---
 title: Hurricane
+letter: H
 permalink: "/definitions/hurricane.html"
 body: A storm of great violence or intensity, of which the particular characteristic
   is the high velocity of the wind. There is naturally no exact measure to distinguish

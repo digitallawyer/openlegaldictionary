@@ -1,5 +1,6 @@
 ---
 title: Flight
+letter: F
 permalink: "/definitions/flight.html"
 body: In criminal law. The act of one under accusation, who evades the law by voluntarily
   withdrawing hlmself. It is presumptive evidence of guilt U. S. v. Candler (D. C.)

@@ -1,5 +1,6 @@
 ---
 title: Monition
+letter: M
 permalink: "/definitions/monition.html"
 body: In praotice. A monition is a formal order of the court commanding something
   to be done by tbe person to whom it is directed, and who is called the “person monished.”

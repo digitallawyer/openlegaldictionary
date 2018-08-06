@@ -1,5 +1,6 @@
 ---
 title: Drift
+letter: D
 permalink: "/definitions/drift.html"
 body: In mining law. An under-ground passage driven horizontally along the course
   of a mineralized vein or approxl-mately so. Distinguished from “shaft," which is

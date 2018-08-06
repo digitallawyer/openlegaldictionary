@@ -1,5 +1,6 @@
 ---
 title: Fonds Et Biens
+letter: F
 permalink: "/definitions/fonds-et-biens.html"
 body: Fr. In French law. Goods and effects. Adams v. Akerlund, 168 111. 632, 48 N.
   E. 454

@@ -1,5 +1,6 @@
 ---
 title: Charity
+letter: C
 permalink: "/definitions/charity.html"
 body: Subjectively, the sentiment or motive of beuevolence and philanthropy; the disposition
   to relieve the distressed, ob-jectively, alms-giving; acts of benevolence; relief,

@@ -1,5 +1,6 @@
 ---
 title: Permissions
+letter: P
 permalink: "/definitions/permissions.html"
 body: Negations of law, arising either from the law’s silence or lts ex-press declaration.
   Ruth. Inst. b. 1, c. 1

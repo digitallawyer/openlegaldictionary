@@ -1,5 +1,6 @@
 ---
 title: Rules
+letter: R
 permalink: "/definitions/rules.html"
 body: In American practice. This term is sometimes used, by metonymy, to denote a
   time or season in the judicial year when motions may be made and rules taken, as

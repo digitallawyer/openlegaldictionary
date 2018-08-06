@@ -1,5 +1,6 @@
 ---
 title: Transportation
+letter: T
 permalink: "/definitions/transportation.html"
 body: The removal of goods or persons from one; place to another, by a carrier. See
   Railrpad Co. v. Pratt, 23 wall. 133, 22 L. Ed. 827; Interstate Com-meroe Com’n v.

@@ -1,5 +1,6 @@
 ---
 title: Rebellious Assembly
+letter: R
 permalink: "/definitions/rebellious-assembly.html"
 body: In Eng-lish law. A gathering of twelve persons or more, intending, going about,
   or practicing unlawfully and of their own authority to change any laws of the realm;

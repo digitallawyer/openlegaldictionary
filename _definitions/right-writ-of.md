@@ -1,5 +1,6 @@
 ---
 title: Right, Writ Of
+letter: R
 permalink: "/definitions/right-writ-of.html"
 body: A procedure for the recovery of real property after not more than sixty years’
   adverse possession; the highest writ in the law, sometimes called, to distinguish

@@ -1,5 +1,6 @@
 ---
 title: Usance
+letter: U
 permalink: "/definitions/usance.html"
 body: In mercantile law. The com-mon perlod fixed by the usage or custom or habit
   of deallng between the country where a blll is drawn, and that where it is payable,

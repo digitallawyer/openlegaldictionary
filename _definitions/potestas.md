@@ -1,5 +1,6 @@
 ---
 title: Potestas
+letter: P
 permalink: "/definitions/potestas.html"
 body: Lat in the civil law. Power; authority; domination; empire. Impcrium, or the
   jurisdiction of magistrates. The power of the father over his children, patria potestas.

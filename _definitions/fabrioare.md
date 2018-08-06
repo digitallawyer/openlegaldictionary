@@ -1,5 +1,6 @@
 ---
 title: Fabrioare
+letter: F
 permalink: "/definitions/fabrioare.html"
 body: Lat To make. Used in old English law of a lawful coining, and also of an uniawful
   making or counterfeiting of coin. See 1 Salk. 342

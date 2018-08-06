@@ -1,5 +1,6 @@
 ---
 title: Ungonbtitutional
+letter: U
 permalink: "/definitions/ungonbtitutional.html"
 body: That whlch is contrary to the constitution. The opposite of “constitutional.”
   See State v. McCann, 4 Lea (Tenn.) 10; in re Rahrer (C. C.) 43 Fed. 558, 10 L. R.

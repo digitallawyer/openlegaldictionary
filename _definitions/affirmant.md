@@ -1,5 +1,6 @@
 ---
 title: Affirmant
+letter: A
 permalink: "/definitions/affirmant.html"
 body: A person who testifies on affirmation, or who affirms instead of taking an oath.
   See Affikmation. Used in affl-davits aud depositions which are affirmed, in-stead

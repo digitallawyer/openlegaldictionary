@@ -1,5 +1,6 @@
 ---
 title: Oxfild
+letter: O
 permalink: "/definitions/oxfild.html"
 body: A restitution anciently made by a hundred br county for any wrong done hy one
   that was wlthln the same. Lamb. Arch. 125

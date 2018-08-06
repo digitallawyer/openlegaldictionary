@@ -1,5 +1,6 @@
 ---
 title: Additional
+letter: A
 permalink: "/definitions/additional.html"
 body: This term embraces the idea of joining or uniting one thing to on-other, so
   as thereby to form one aggregate. Thus, “additional security” imports a secu-rity,

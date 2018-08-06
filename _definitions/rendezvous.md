@@ -1,5 +1,6 @@
 ---
 title: Rendezvous
+letter: R
 permalink: "/definitions/rendezvous.html"
 body: Fr. A place appolnt-ed for meeting. Especially used of places appointed for
   the assembling of troops, the coining together of the ships of a fleet, or tbe meeting

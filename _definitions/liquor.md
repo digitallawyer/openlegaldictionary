@@ -1,5 +1,6 @@
 ---
 title: Liquor
+letter: L
 permalink: "/definitions/liquor.html"
 body: This term, when used in stat-utes forbidding the sale of liquors, refers only
   to spirituous or Intoxicating Uquom. Brass v. State, 45 Fla. 1, 34 South. 307; State

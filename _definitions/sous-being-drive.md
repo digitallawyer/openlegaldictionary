@@ -1,5 +1,6 @@
 ---
 title: Sous Being Drive
+letter: S
 permalink: "/definitions/sous-being-drive.html"
 body: Fr. In French law. Under prlvate signature; under the prlvate signature of the
   partles. A contract or instrument thus signed is 'distinguished from an “authentic

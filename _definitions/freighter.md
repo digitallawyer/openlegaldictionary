@@ -1,5 +1,6 @@
 ---
 title: Freighter
+letter: F
 permalink: "/definitions/freighter.html"
 body: In maritime law. The party by whom a vessel is engaged or charter-ed; otherwise
   called the “charterer.” 2 Steph. Comm. 148. In French law, tlie owner of a vessel

@@ -1,5 +1,6 @@
 ---
 title: Protectorate
+letter: P
 permalink: "/definitions/protectorate.html"
 body: "(1) The period during which oliver Cromwell ruled in Eng-land. (2) Also the
   office of protector. (3) The relation of the English sovereign, till the year 1864,

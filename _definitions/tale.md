@@ -1,5 +1,6 @@
 ---
 title: Tale
+letter: T
 permalink: "/definitions/tale.html"
 body: In old pleading. The plalntlfTs count, declaration, or narrative of his case.
   8 Bl. Comm. 293

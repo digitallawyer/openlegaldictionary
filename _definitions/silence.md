@@ -1,5 +1,6 @@
 ---
 title: Silence
+letter: S
 permalink: "/definitions/silence.html"
 body: CE. The state of a person who does not speak, or of one who refrains from speaking.
   In the law of estoppel, “silence” impiles knowledge and an opportunity to act upon

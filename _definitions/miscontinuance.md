@@ -1,5 +1,6 @@
 ---
 title: Miscontinuance
+letter: M
 permalink: "/definitions/miscontinuance.html"
 body: In practice. An improper continuance; want of proper form in a continuance;
   the same with “discontln-uance.” Cowell

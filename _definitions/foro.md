@@ -1,5 +1,6 @@
 ---
 title: Foro
+letter: F
 permalink: "/definitions/foro.html"
 body: In Spanish law. The place where tribunals hear and determine causes,—exer-cendarum
   litium locus

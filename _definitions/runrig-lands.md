@@ -1,5 +1,6 @@
 ---
 title: Runrig Lands
+letter: R
 permalink: "/definitions/runrig-lands.html"
 body: Lands in Scotland where the ridges of a field belong alterna-tlvely to dlfferent
   proprietors. Anciently thls kind of possession was advantageous in giving a united

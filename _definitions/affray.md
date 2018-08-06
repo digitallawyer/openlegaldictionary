@@ -1,5 +1,6 @@
 ---
 title: Affray
+letter: A
 permalink: "/definitions/affray.html"
 body: 'In criminal law. The fight-lng of two or more persons in some public place
   to the terror of the people. Burton v. Com., 60 S. W. 526, 22 Ky. Law Rep. 1315:

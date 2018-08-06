@@ -1,5 +1,6 @@
 ---
 title: In Mitiori Sensu
+letter: I
 permalink: "/definitions/in-mitiori-sensu.html"
 body: In the milder sense; in the less aggravated acceptation. In actions of slander,
   it was formerly the rale that if the words alleged would admit of two constructions,

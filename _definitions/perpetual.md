@@ -1,5 +1,6 @@
 ---
 title: Perpetual
+letter: P
 permalink: "/definitions/perpetual.html"
 body: Never ceasing; continu-ous; enduring; lasting; unlimited in respect of time;
   continuing without intermission or interval. See Scanlan v. Crawshaw, 5 Mo. App.

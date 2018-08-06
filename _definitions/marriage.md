@@ -1,5 +1,6 @@
 ---
 title: Marriage
+letter: M
 permalink: "/definitions/marriage.html"
 body: Marriage, as distingnished from the agreement to marry and from the act of becoming
   married, is the civil status ct one man and one woman united In law for life, for

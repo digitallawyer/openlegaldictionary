@@ -1,5 +1,6 @@
 ---
 title: Avunculus
+letter: A
 permalink: "/definitions/avunculus.html"
 body: In the civil law. A moth-er’s brother. 2 Bl. Comm. 230. Avunculus magnus, a
   great-uncle. Avunculus major, a great-graudmother’s brother. Avunculus maximus,

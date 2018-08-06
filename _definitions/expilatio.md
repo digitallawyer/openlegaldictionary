@@ -1,5 +1,6 @@
 ---
 title: Expilatio
+letter: E
 permalink: "/definitions/expilatio.html"
 body: In the civil law. The offense of unlawfully appropriating goods belonging to
   a succession. It is not technic-ally theft (furtum) because such property no longer

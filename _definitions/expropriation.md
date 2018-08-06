@@ -1,5 +1,6 @@
 ---
 title: Expropriation
+letter: E
 permalink: "/definitions/expropriation.html"
 body: This word properly denotes a voluntary surrender of rights or claims; the act
   of divesting oneself of that which was previously claimed as one's own, or renouncing

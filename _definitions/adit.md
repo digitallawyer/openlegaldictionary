@@ -1,5 +1,6 @@
 ---
 title: Adit
+letter: A
 permalink: "/definitions/adit.html"
 body: In mining law. A lateral entrance or passage lnto a mine; tbe opening by which
   a mine is entered, or by which water and ores are carried away; a horizontal excavation

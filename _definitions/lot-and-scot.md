@@ -1,5 +1,6 @@
 ---
 title: Lot And Scot
+letter: L
 permalink: "/definitions/lot-and-scot.html"
 body: In English law. Cer-taln duties which must be paid by thosu who clalm to exercise
   the elective franchlse within certain cltles and boroughs, before they are entltled

@@ -1,5 +1,6 @@
 ---
 title: Boomage
+letter: B
 permalink: "/definitions/boomage.html"
 body: A charge on logs for the use of a boom in collecting, storing, or raft-ing them.
   Lumber Co. v. Thompson, 83 Miss. 499, 35 South. 82a A rlght of entry on riparian

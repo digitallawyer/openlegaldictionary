@@ -1,5 +1,6 @@
 ---
 title: Reclamation District
+letter: R
 permalink: "/definitions/reclamation-district.html"
 body: A subdivision of a state created by legislative authority, for the purpose of
   reclaiming swamp, marshy, or desert lands within Its boundaries and rendering them

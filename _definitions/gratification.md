@@ -1,5 +1,6 @@
 ---
 title: Gratification
+letter: G
 permalink: "/definitions/gratification.html"
 body: A gratuity; a recompense or reward for services or benefits, given voluntarily,
   without solicitation or promise

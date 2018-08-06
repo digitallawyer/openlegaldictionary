@@ -1,5 +1,6 @@
 ---
 title: Exhibitio Bilue
+letter: E
 permalink: "/definitions/exhibitio-bilue.html"
 body: Lat Exhibition of a bill. In old English practice, actions were instituted by
   presenting or exhibiting a bill to the court, in cases where the pro-ceedings were

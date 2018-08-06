@@ -1,5 +1,6 @@
 ---
 title: Rapine
+letter: R
 permalink: "/definitions/rapine.html"
 body: In criminal law. Plunder; pillage; robbery. In the civll law, raplna is defined
   as the forcible and violent taklng of another man's movable property wlth the criminal

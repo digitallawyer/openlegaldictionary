@@ -1,5 +1,6 @@
 ---
 title: Budget
+letter: B
 permalink: "/definitions/budget.html"
 body: A name given in England to the statement annually presented to parliament by
   the chancellor of the exchequer, con-talning the estimates of the national revenue

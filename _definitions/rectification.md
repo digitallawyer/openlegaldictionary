@@ -1,5 +1,6 @@
 ---
 title: Rectification
+letter: R
 permalink: "/definitions/rectification.html"
 body: Reotifloation of instrument. In English law. To rectify is to correct or define
   something which is erroneous or doubtful. Thus, where the par-ties to an agreement

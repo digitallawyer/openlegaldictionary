@@ -1,5 +1,6 @@
 ---
 title: Available Means
+letter: A
 permalink: "/definitions/available-means.html"
 body: This phrase, among mercantile men, is a term well un-derstood to be1 anything
   which can readily be converted into money; but it is not nec-essarily or primarily

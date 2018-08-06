@@ -1,5 +1,6 @@
 ---
 title: Ex Mero Motu
+letter: E
 permalink: "/definitions/ex-mero-motu.html"
 body: TU. of his own mere motion; of his own accord; voluntarily and without prompting
   or request. Royal let-ters patent which are granted at the crown's own instance,

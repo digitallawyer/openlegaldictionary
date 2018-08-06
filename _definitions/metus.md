@@ -1,5 +1,6 @@
 ---
 title: Metus
+letter: M
 permalink: "/definitions/metus.html"
 body: Lat Fear; terror. In a tech-nical sense, a reasonable and well-grounded apprehension
   of some great evil, such as death or mayhem, and not arising out of mere timidity,

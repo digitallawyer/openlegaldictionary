@@ -1,5 +1,6 @@
 ---
 title: Interplea
+letter: I
 permalink: "/definitions/interplea.html"
 body: 1. A plea by which a pe^ son sued in respect to property disclaims any interest
   in it and demands that rival claimants shall litigate their titles between themselves

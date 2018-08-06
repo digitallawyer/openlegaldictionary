@@ -1,5 +1,6 @@
 ---
 title: Imperfect
+letter: I
 permalink: "/definitions/imperfect.html"
 body: As used in various legal compound terms, this word means defective or incomplete;
   wanting in some legal or formal requisite; wanting in legal sanction or effectiveness;

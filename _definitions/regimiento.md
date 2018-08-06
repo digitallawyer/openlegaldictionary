@@ -1,5 +1,6 @@
 ---
 title: Regimiento
+letter: R
 permalink: "/definitions/regimiento.html"
 body: In Spanish law. The body of regldores, who never exceeded twelve, forming a
   part of the municipal coun-cil, or ayuntamicnto, in every capital of a jurisdiction.

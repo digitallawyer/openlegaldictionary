@@ -1,5 +1,6 @@
 ---
 title: Dative
+letter: D
 permalink: "/definitions/dative.html"
 body: VE. A word derived from the Ito-man law, signifying “appointed by public authority.”
   Thus, in Scotland, nn executor-dative is an executor appointed by a court of Justice,

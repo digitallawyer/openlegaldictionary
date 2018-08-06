@@ -1,5 +1,6 @@
 ---
 title: Suffering A Recovery
+letter: S
 permalink: "/definitions/suffering-a-recovery.html"
 body: A recovery was effected by the party wishing te couvey the land suffering a
   fictitious actlon to be brought agaiust hlm by the party to whom the laud was to

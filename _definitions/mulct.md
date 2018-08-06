@@ -1,5 +1,6 @@
 ---
 title: Mulct
+letter: M
 permalink: "/definitions/mulct.html"
 body: A penalty or punishment 1m-posed on a person guilty of some ofTense. tort, or
   mlsdemeanor, usually a pecuniary fine or condemnation in damages. See Cook v. Mar-shall

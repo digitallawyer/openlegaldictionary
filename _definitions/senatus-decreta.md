@@ -1,5 +1,6 @@
 ---
 title: Senatus Decreta
+letter: S
 permalink: "/definitions/senatus-decreta.html"
 body: Lat in the civil law. Decisions of the senate. Private acts concerning particular
   persons merely

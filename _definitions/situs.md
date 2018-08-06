@@ -1,5 +1,6 @@
 ---
 title: Situs
+letter: S
 permalink: "/definitions/situs.html"
 body: Lat Site; position; location; the place where a thing is, considered, for example,
   with reference to jurisdiction over it, or the right or power to tax it See Boyd

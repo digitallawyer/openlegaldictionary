@@ -1,5 +1,6 @@
 ---
 title: Kidnapping
+letter: K
 permalink: "/definitions/kidnapping.html"
 body: The forcible abduction or stealing away of a man, woman, or child from their
   own country, and sending them lnto another. It is an offeuse punishable at the common

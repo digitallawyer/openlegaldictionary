@@ -1,5 +1,6 @@
 ---
 title: Comitatu Commisso
+letter: C
 permalink: "/definitions/comitatu-commisso.html"
 body: A writ or commission, whereby a sheriff is authorized to enter upon the charges
   of a county. Reg. Orig. 295

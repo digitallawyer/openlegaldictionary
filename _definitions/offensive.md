@@ -1,5 +1,6 @@
 ---
 title: Offensive
+letter: O
 permalink: "/definitions/offensive.html"
 body: In the law relating to nuisances and similar matters, this term means noxious,
   causing annoyance, discomfort, or painful or disagreeable sensations. See Rowland

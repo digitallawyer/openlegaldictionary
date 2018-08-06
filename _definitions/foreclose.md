@@ -1,5 +1,6 @@
 ---
 title: Foreclose
+letter: F
 permalink: "/definitions/foreclose.html"
 body: To shut out; to bar. Used of the process of destroying an equity of redemption
   existing in a mortgagor

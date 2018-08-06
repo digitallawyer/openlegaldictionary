@@ -1,5 +1,6 @@
 ---
 title: Forinsecus
+letter: F
 permalink: "/definitions/forinsecus.html"
 body: Lat Foreign; exterior; outside; extraordinary. Servitium fo-rinsecvm, the payment
   of aid, scutage, and other extraordinary military services. Fo-rinsecum mancrium,

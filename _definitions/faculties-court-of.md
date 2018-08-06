@@ -1,5 +1,6 @@
 ---
 title: Faculties, Court Of
+letter: F
 permalink: "/definitions/faculties-court-of.html"
 body: In English ecclesiastical law. A jurisdiction or tribunal belonging to the archblshop.
   It does not hold pleas in any suits, but creates rights to pews, monuments, and

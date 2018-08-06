@@ -1,5 +1,6 @@
 ---
 title: Spring
+letter: S
 permalink: "/definitions/spring.html"
 body: A fountain of water; an Issue of water from the earth, or the basin of wa-ter
   at the place of Its issue, webster. A natural chasm in which water has collected,

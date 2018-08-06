@@ -1,5 +1,6 @@
 ---
 title: Disagreement
+letter: D
 permalink: "/definitions/disagreement.html"
 body: Difference of opinion or want of uniformity or concurrence of views; as, a disagreement
   among the members of a jury, among the judges of a court, or between arbitrators.

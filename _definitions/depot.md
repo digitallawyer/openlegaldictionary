@@ -1,5 +1,6 @@
 ---
 title: Depot
+letter: D
 permalink: "/definitions/depot.html"
 body: In French law. The depositum of the Roman and the deposit of the English law.
   It.is of two kinds, being either (1) dtpot simply so called, and which may be either

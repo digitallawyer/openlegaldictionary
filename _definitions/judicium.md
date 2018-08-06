@@ -1,5 +1,6 @@
 ---
 title: Judicium
+letter: J
 permalink: "/definitions/judicium.html"
 body: Lat Judicial authority or jurisdiction; a court or tribunal; a judicial heariug
   or other proceeding; a verdict or judgment; a proceeding before a judex or judge.

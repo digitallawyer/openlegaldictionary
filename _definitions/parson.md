@@ -1,5 +1,6 @@
 ---
 title: Parson
+letter: P
 permalink: "/definitions/parson.html"
 body: The rector of a chnrch; one that has full possession of all the rights of a
   parochial church. The appellation of “parson,” however it may be depreciated by

@@ -1,5 +1,6 @@
 ---
 title: Prefect
+letter: P
 permalink: "/definitions/prefect.html"
 body: In French law. The name given to the public functionary who is churg-ed in chief
   with the administration of the laws, in each department of the country. Merl. Repert.

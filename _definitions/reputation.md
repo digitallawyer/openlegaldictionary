@@ -1,5 +1,6 @@
 ---
 title: Reputation
+letter: R
 permalink: "/definitions/reputation.html"
 body: A person’s credit, honor, character, good name. Injuries to one’s rep-utation,
   which is a personal right, are de-famatory and malicious words, libels, and malicious

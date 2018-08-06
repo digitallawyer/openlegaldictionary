@@ -1,5 +1,6 @@
 ---
 title: Syndicate
+letter: S
 permalink: "/definitions/syndicate.html"
 body: A university committee. A combination of persons or firms nnited for the puriwse
   of enterprises too large for iridi-vlduals to undertake; or a group of financiers

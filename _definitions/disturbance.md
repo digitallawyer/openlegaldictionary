@@ -1,5 +1,6 @@
 ---
 title: Disturbance
+letter: D
 permalink: "/definitions/disturbance.html"
 body: 1. Any act causing annoyance, disquiet, agitation, or derangement to another,
   or interrupting hls pence, or interfering with him in the pursuit of a lawful and

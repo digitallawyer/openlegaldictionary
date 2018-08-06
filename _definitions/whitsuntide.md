@@ -1,5 +1,6 @@
 ---
 title: Whitsuntide
+letter: W
 permalink: "/definitions/whitsuntide.html"
 body: The feast of Pentecost, being the fiftieth day after Easter, and the first of
   the four cross-quarter days of the year, wharton

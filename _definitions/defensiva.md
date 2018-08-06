@@ -1,5 +1,6 @@
 ---
 title: Defensiva
+letter: D
 permalink: "/definitions/defensiva.html"
 body: In old English law. A lord or earl of the marches, who was the warden and defender
   of hls country. Cowell

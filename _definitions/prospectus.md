@@ -1,5 +1,6 @@
 ---
 title: Prospectus
+letter: P
 permalink: "/definitions/prospectus.html"
 body: A document published by a company or corporation, or by persons acting as its
   agents or assignees, setting forth the nature and objects of an issue of shares,

@@ -1,5 +1,6 @@
 ---
 title: De Eve Et De Treve
+letter: D
 permalink: "/definitions/de-eve-et-de-treve.html"
 body: A law French phrase, equlvalent to the Latin de avo et de tritavo, descriptive
   of the ancestral rights of lords in their villeins. Literally, “from grandfather

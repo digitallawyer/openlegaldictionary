@@ -1,5 +1,6 @@
 ---
 title: Dispositive Facts
+letter: D
 permalink: "/definitions/dispositive-facts.html"
 body: Such as pro-duce or bring about the origination, transfer, or extinction of
   rights. They are either investitive, those by means of which a right comes into

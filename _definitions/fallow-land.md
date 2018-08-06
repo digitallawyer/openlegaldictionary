@@ -1,5 +1,6 @@
 ---
 title: Fallow-Land
+letter: F
 permalink: "/definitions/fallow-land.html"
 body: Land plow’ed, but not sown, and left uncultivated for a time after successive
   crops

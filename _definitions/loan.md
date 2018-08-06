@@ -1,5 +1,6 @@
 ---
 title: Loan
+letter: L
 permalink: "/definitions/loan.html"
 body: A bailment without reward; con-slsting of the delivery of an article hy the
   owner to another person, to be used by the latter gratuitously, and returned either

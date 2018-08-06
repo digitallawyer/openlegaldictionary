@@ -1,5 +1,6 @@
 ---
 title: Patricius
+letter: P
 permalink: "/definitions/patricius.html"
 body: In the clvll law. A title of the highest honor, conferred on those who enjoyed
   the chief place in the emperor's esteem

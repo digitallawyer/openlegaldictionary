@@ -1,5 +1,6 @@
 ---
 title: Cui In Vita
+letter: C
 permalink: "/definitions/cui-in-vita.html"
 body: "(To whom in llfe.) A writ of entry for a widow against him to whom her husband
   aliened her lauds or tenements in his life-time; which must con-tain in it that

@@ -1,5 +1,6 @@
 ---
 title: Take
+letter: T
 permalink: "/definitions/take.html"
 body: 1. To lay hold of; to gain or receive into possession; to seize; to deprive
   one of the possession of; to assume ownership. Thus, it is a constitutional provision

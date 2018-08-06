@@ -1,5 +1,6 @@
 ---
 title: Adherence
+letter: A
 permalink: "/definitions/adherence.html"
 body: In Scotch law. The name of a form of action by which the mutual obligation of
   marriage may be enforced by either party. Bell. It corresponds to the English action

@@ -1,5 +1,6 @@
 ---
 title: National
+letter: N
 permalink: "/definitions/national.html"
 body: Pertaiuing or relating to a nation as a whole; commonly applied in American
   law to institutions, laws, or af-fairs of the United States or its government, as

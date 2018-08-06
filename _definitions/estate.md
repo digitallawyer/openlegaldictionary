@@ -1,5 +1,6 @@
 ---
 title: Estate
+letter: E
 permalink: "/definitions/estate.html"
 body: ER L’ESTATE. A species of release which inures by way of enlarging an estate,
   and conslsts of a conveyance of the ulterior Interest to the particular tenant;

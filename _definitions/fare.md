@@ -1,5 +1,6 @@
 ---
 title: Fare
+letter: F
 permalink: "/definitions/fare.html"
 body: RE. A voyage or passage by water; also the money paid for a passage either by
   land or by water. Cowell

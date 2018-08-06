@@ -1,5 +1,6 @@
 ---
 title: Taliter Processum Est
+letter: T
 permalink: "/definitions/taliter-processum-est.html"
 body: Upon pleading the judgment of an inferior court, the proceedings preliminary
   to such judg-ment, and on which the same was founded, must, to some extent, appear

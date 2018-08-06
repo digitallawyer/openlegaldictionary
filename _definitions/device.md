@@ -1,5 +1,6 @@
 ---
 title: Device
+letter: D
 permalink: "/definitions/device.html"
 body: CE. An Invention or contrivance; any result of; design; as in the phruse “gambling
   device," which means a machine or contrivance of any kind for the playing of an

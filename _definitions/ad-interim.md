@@ -1,5 +1,6 @@
 ---
 title: Ad Interim
+letter: A
 permalink: "/definitions/ad-interim.html"
 body: In the mean time. An oflicer ad interim is one appointed to fill a temporary
   vacancy, or to discharge the du-tles of the office during the absence or temporary

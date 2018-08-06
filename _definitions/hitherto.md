@@ -1,5 +1,6 @@
 ---
 title: Hitherto
+letter: H
 permalink: "/definitions/hitherto.html"
 body: In legal use, this term always restricts the matter in connection with which
   it is employed to a period of time already passed. Mason v. Jones, 13 Barb. (N.

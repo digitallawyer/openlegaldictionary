@@ -1,5 +1,6 @@
 ---
 title: Penal
+letter: P
 permalink: "/definitions/penal.html"
 body: Punishable; inflicting a punlshment; contalnlng a penalty, or relatlng to a
   penalty

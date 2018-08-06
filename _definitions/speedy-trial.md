@@ -1,5 +1,6 @@
 ---
 title: Speedy Trial
+letter: S
 permalink: "/definitions/speedy-trial.html"
 body: In criminal law. As secured by constitutional guaranties, a speedy trial means
   a trial conducted according to fixed rules, regulations, and proceedings of law,

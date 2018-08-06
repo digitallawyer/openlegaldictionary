@@ -1,5 +1,6 @@
 ---
 title: Middleman
+letter: M
 permalink: "/definitions/middleman.html"
 body: 'An agent between two: parties, an Intermediary who performs the ofiice of a
   broker or factor between seller and buyer, producer and consumer, land-owner and

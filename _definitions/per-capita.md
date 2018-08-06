@@ -1,5 +1,6 @@
 ---
 title: Per Capita
+letter: P
 permalink: "/definitions/per-capita.html"
 body: 'T^it. By the hends or polls; according to the number of individuals: share
   and share alike. This term, de-rived from the civil law, is much used in the latv

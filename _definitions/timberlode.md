@@ -1,5 +1,6 @@
 ---
 title: Timberlode
+letter: T
 permalink: "/definitions/timberlode.html"
 body: A servlce by which ten* ants were bound to carry timber felled from the woods
   to the lord’s house. CowelL

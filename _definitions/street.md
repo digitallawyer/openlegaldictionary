@@ -1,5 +1,6 @@
 ---
 title: Street
+letter: S
 permalink: "/definitions/street.html"
 body: An urban way or thorough? fare; a road or public way in a city, town, or village,
   generally paved, and lined or in-tended to be lined by houses on each side. Bee

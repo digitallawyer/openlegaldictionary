@@ -1,5 +1,6 @@
 ---
 title: Extradition
+letter: E
 permalink: "/definitions/extradition.html"
 body: The surrender of a criminal by a foreign state to which he has fled for refuge
   from prosecution to the state within whose jurisdiction tbe crime was committed,

@@ -1,5 +1,6 @@
 ---
 title: Court-Leet
+letter: C
 permalink: "/definitions/court-leet.html"
 body: The name of an English court of record held once in the year, and’ not oftener,
   within a particular hundred, lordship, or manor, before the steward of the leet;

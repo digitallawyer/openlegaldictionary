@@ -1,5 +1,6 @@
 ---
 title: Digging
+letter: D
 permalink: "/definitions/digging.html"
 body: Has been held as synonymous with “excavating,” and not confined to the removal
   of earth. Sherman v. New York, 1 N. Y. 316

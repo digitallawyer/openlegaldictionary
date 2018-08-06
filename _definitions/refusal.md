@@ -1,5 +1,6 @@
 ---
 title: Refusal
+letter: R
 permalink: "/definitions/refusal.html"
 body: The act of one who has, by law, a right and power of having or doing something
   of advantage, and declines it Also, the declination of a request or demand, or the

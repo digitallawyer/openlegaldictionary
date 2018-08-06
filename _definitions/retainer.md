@@ -1,5 +1,6 @@
 ---
 title: Retainer
+letter: R
 permalink: "/definitions/retainer.html"
 body: 1. The rigbt of retainer- is the right which the executor or administrator of
   a deceased person has to retain outof the assets sufficient to pay any debt due

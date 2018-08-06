@@ -1,5 +1,6 @@
 ---
 title: Obugate
+letter: O
 permalink: "/definitions/obugate.html"
 body: To bind or constrain; to bind to the observance or performance of a duty ;,
   to place under an obligation. To bind one's self by an obligation or promise; to

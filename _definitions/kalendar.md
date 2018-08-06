@@ -1,5 +1,6 @@
 ---
 title: Kalendar
+letter: K
 permalink: "/definitions/kalendar.html"
 body: Au account of time, exhibiting the days of the week and month, the seasons,
   etc. More commonly spelled “cal-endar.”

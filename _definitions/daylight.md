@@ -1,5 +1,6 @@
 ---
 title: Daylight
+letter: D
 permalink: "/definitions/daylight.html"
 body: That portion of time be-fore sunrise, and after sunBet, which is ac-counted
   part of the day, (as distinguished from night,) in defining the offense of bur-glary.

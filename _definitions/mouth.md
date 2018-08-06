@@ -1,5 +1,6 @@
 ---
 title: Mouth
+letter: M
 permalink: "/definitions/mouth.html"
 body: By statute In some states, the mouth of a river or creek, which empties in-to
   another river or creek, is defined as the point where the middle of the channel

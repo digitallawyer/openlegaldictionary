@@ -1,5 +1,6 @@
 ---
 title: Shewer
+letter: S
 permalink: "/definitions/shewer.html"
 body: In the practice of the Engllsh hlgh court, when a vlew by a Jury is ordered,
   persons are named by the court to show the property to be vlewed, and are hence

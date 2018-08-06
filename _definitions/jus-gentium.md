@@ -1,5 +1,6 @@
 ---
 title: Jus Gentium
+letter: J
 permalink: "/definitions/jus-gentium.html"
 body: The law of nations. That law which natural reason has estab-llshed among all
   men is equally observed among all nations, and is called the “law of nations,” as

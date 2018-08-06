@@ -1,5 +1,6 @@
 ---
 title: Expense Litis
+letter: E
 permalink: "/definitions/expense-litis.html"
 body: Costs or expenses of the suit, which are generally allowed to the successful
   party

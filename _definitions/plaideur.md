@@ -1,5 +1,6 @@
 ---
 title: Plaideur
+letter: P
 permalink: "/definitions/plaideur.html"
 body: Fr. An obsolete term for an attorney who pleaded the cause of hls client; an
   advocate

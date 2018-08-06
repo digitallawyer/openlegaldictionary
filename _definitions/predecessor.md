@@ -1,5 +1,6 @@
 ---
 title: Predecessor
+letter: P
 permalink: "/definitions/predecessor.html"
 body: one who goes or bas gone before; the correlative of “successor.” Applied to
   a body politlc or corporate, in the same sense as “ancestor” is applied to a nat-ural

@@ -1,5 +1,6 @@
 ---
 title: Vtewers
+letter: V
 permalink: "/definitions/vtewers.html"
 body: Persons who are appointed by & court to make an lnvestigatlon of cer-taln matters,
   or to examlne a partlcular locality, (as, the proposed site of a new road,) and

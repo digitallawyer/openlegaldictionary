@@ -1,5 +1,6 @@
 ---
 title: Outfit
+letter: O
 permalink: "/definitions/outfit.html"
 body: 1. An allowance made hy the United States government to one of its dip* lomatic
   representatives going abroad, for the expense of his equipment

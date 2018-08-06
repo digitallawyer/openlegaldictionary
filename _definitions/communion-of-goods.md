@@ -1,5 +1,6 @@
 ---
 title: Communion Of Goods
+letter: C
 permalink: "/definitions/communion-of-goods.html"
 body: In Scotch law. The right enjoyed by married persons in the movable goods belonging
   to them. Bell

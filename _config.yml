@@ -37,7 +37,7 @@ plugins:
 collections:
   definitions:
     output: true
-    source: definitions.yml
+    source: definitions.json
     id_key: permalink
     layout: post
 

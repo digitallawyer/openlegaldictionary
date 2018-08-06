@@ -1,5 +1,6 @@
 ---
 title: Cotland
+letter: C
 permalink: "/definitions/cotland.html"
 body: In old English law. Land held by a cottager, whether in socage or vil-lenage.
   CowelL

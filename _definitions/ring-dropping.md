@@ -1,5 +1,6 @@
 ---
 title: Ring-Dropping
+letter: R
 permalink: "/definitions/ring-dropping.html"
 body: 'A trick variously practiced, one mode is as follows, the circumstances being
   taken from 2 East, P. 0. 678: The prisoner, with accomplices, being with thelr victim,

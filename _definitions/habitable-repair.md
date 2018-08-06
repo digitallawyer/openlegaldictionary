@@ -1,5 +1,6 @@
 ---
 title: Habitable Repair
+letter: H
 permalink: "/definitions/habitable-repair.html"
 body: A covenant by a lessee to “pat the premlses into habitable repair” binds bim
   to pat them into such a state that they may he occupied, not only wlth safety, but

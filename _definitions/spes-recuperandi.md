@@ -1,5 +1,6 @@
 ---
 title: Spes Recuperandi
+letter: S
 permalink: "/definitions/spes-recuperandi.html"
 body: Lat. The hope of recovery or recapture; the chance of re-taking property captured
   at sea, which pre-vents the captors from acquiring complete ownership of the property

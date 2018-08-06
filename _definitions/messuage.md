@@ -1,5 +1,6 @@
 ---
 title: Messuage
+letter: M
 permalink: "/definitions/messuage.html"
 body: This term is. now synon-ymous with “dwelling-house,” but had once a more extended
   signification. It is fre-quently used in deeds, in describing tbe premises. Marmet

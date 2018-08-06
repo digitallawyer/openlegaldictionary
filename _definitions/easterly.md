@@ -1,5 +1,6 @@
 ---
 title: Easterly
+letter: E
 permalink: "/definitions/easterly.html"
 body: This wofd, when used alone, will be construed to mean “due east.” But that is
   a rule of necessity growing out of the indeflniteness of the term, and has no application

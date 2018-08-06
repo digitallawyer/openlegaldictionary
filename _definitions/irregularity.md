@@ -1,5 +1,6 @@
 ---
 title: Irregularity
+letter: I
 permalink: "/definitions/irregularity.html"
 body: Violation or nonobservance of established rules and practices. The want of adherence
   to some prescribed rule or mode of proceeding; consisting either in omitting to

@@ -1,5 +1,6 @@
 ---
 title: Calends
+letter: C
 permalink: "/definitions/calends.html"
 body: Among the Romans the first day of every month, being spoken of by it-self, or
   the very day of the new moon, which usually happen together. And if pridie, the

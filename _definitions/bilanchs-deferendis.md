@@ -1,5 +1,6 @@
 ---
 title: Bilanchs Deferendis
+letter: B
 permalink: "/definitions/bilanchs-deferendis.html"
 body: In Eng-lish law. An obsolete writ addressed to a corporation for the carrying
   of weights to such a haven, there to weigh the wool an-ciently licensed for transportation.

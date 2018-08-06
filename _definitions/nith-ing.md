@@ -1,5 +1,6 @@
 ---
 title: Nith-Ing
+letter: N
 permalink: "/definitions/nith-ing.html"
 body: G, NIDERING, or NITH-ING. A vile, base person, or sluggard; chicken-hearted.
   Spelman

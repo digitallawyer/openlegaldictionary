@@ -1,5 +1,6 @@
 ---
 title: Emtio
+letter: E
 permalink: "/definitions/emtio.html"
 body: In the civil law. Purchase. This form of the word is used In the Digests aud
   Code. Dig. 18, 1; Cod. 4, 49. See Emptio

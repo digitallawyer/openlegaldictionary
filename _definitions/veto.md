@@ -1,5 +1,6 @@
 ---
 title: Veto
+letter: V
 permalink: "/definitions/veto.html"
 body: Lat. I forbid. The veto-power is a power vested in the executive officer of
   some governments to declare hls refusal td assent to any bill or measure which has

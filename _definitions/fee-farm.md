@@ -1,5 +1,6 @@
 ---
 title: Fee-Farm
+letter: F
 permalink: "/definitions/fee-farm.html"
 body: This is a species of tenure, where land is held of another in perpetuity at
   a yearly rent, without fealty, homage, or other services than such as are specially

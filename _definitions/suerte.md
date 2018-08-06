@@ -1,5 +1,6 @@
 ---
 title: Suerte
+letter: S
 permalink: "/definitions/suerte.html"
 body: In Spanish law. A small lot of grouud. Particularly, such a lot within the limits
   of a city or .town used for cultivation or planting as a garden, vineyard or orchard.

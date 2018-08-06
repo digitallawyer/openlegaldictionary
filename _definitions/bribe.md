@@ -1,5 +1,6 @@
 ---
 title: Bribe
+letter: B
 permalink: "/definitions/bribe.html"
 body: Any valuable thing given or promised, or any preferment, advantage, privilege,
   or emolument, given or promised corruptly and against the law, as an induce-ment

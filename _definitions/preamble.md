@@ -1,5 +1,6 @@
 ---
 title: Preamble
+letter: P
 permalink: "/definitions/preamble.html"
 body: A clause at the beginning of a constitution or statute explanatory of the reasons
   for its enactment and the ob-jects sought to be accomplished. See Town-send v. State.

@@ -1,5 +1,6 @@
 ---
 title: Proavunculus
+letter: P
 permalink: "/definitions/proavunculus.html"
 body: Lat. In the civil law. A great-grandfather’s brother. Inst 3, 6, 3; Bract fol.
   68b

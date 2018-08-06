@@ -1,5 +1,6 @@
 ---
 title: Carriage
+letter: C
 permalink: "/definitions/carriage.html"
 body: A vehicle used for the transportation of persons either for pleasure or business,
   and drawn by horses hr other draught animals over the ordinary streets and highways

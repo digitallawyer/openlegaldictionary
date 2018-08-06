@@ -1,5 +1,6 @@
 ---
 title: Contempt
+letter: C
 permalink: "/definitions/contempt.html"
 body: Contumacy; a willful dis-regard of the authority of a court of'justice or legislative
   body or disobedience to its law-ful orders

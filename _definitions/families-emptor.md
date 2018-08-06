@@ -1,5 +1,6 @@
 ---
 title: Families Emptor
+letter: F
 permalink: "/definitions/families-emptor.html"
 body: In Roman law. An Intermediate person who purchased the aggregate lnheritance
   when sold per ms ei libram, in the process of making a will un-der the Twelve Tables.

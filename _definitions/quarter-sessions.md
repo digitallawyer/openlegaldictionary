@@ -1,5 +1,6 @@
 ---
 title: Quarter Sessions
+letter: Q
 permalink: "/definitions/quarter-sessions.html"
 body: In Enclisb law. A criminal court held before two or more justlces of the peace,
   (one of whom must be of the quorum,) in every county, once in every quarter of a

@@ -1,5 +1,6 @@
 ---
 title: Metropolis
+letter: M
 permalink: "/definitions/metropolis.html"
 body: A mother clty; one from whlch a colony was sent out. The capital of a province.
   Calvin

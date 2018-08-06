@@ -1,5 +1,6 @@
 ---
 title: Ultimate Faots
+letter: U
 permalink: "/definitions/ultimate-faots.html"
 body: In pleadlng and practice. Facts in issue; opposed to proba-ffve or evidential
   facts, the latter belng such as serve to establish or disprove the issues. Kahn

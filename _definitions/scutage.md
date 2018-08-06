@@ -1,5 +1,6 @@
 ---
 title: Scutage
+letter: S
 permalink: "/definitions/scutage.html"
 body: In feudal law. A tax or contribution raised by tbose that held lands hy knight’s
   service, towards furnishing the king’s army, at the rate of one, two or three marks

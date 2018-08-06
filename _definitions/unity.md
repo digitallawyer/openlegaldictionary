@@ -1,5 +1,6 @@
 ---
 title: Unity
+letter: U
 permalink: "/definitions/unity.html"
 body: In the law of estates. The pe-culiar characteristic of an estate held by several
   in Joint tenancy, and which , is fourfold, viz., unity of Interest, unity of title,

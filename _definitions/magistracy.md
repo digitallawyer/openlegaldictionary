@@ -1,5 +1,6 @@
 ---
 title: Magistracy
+letter: M
 permalink: "/definitions/magistracy.html"
 body: This term may have a more or less extensive signification according to the use
   and connection in which it occurs. In its widest sense it includes the whole body

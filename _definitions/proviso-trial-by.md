@@ -1,5 +1,6 @@
 ---
 title: Proviso, Trial By
+letter: P
 permalink: "/definitions/proviso-trial-by.html"
 body: In English practice. A trial brought on by the def end-ant, in caseB where the
   plaintiff, after issue joined, neglects to proceed to trial; so call-ed from a clause

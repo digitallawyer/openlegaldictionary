@@ -1,5 +1,6 @@
 ---
 title: Have
+letter: H
 permalink: "/definitions/have-2.html"
 body: To possess corporally. “No one, at common law, was sald to have or to be in
   possession of land, unless it were con-veyed to him by the livery of seisin, which

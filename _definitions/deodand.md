@@ -1,5 +1,6 @@
 ---
 title: Deodand
+letter: D
 permalink: "/definitions/deodand.html"
 body: "(L. Lat. Deo dandum, a thing to be given to God.) In English law. Any personal
   chattel which was the Immediate occasion of the death of any reasonable creature,

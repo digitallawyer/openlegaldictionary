@@ -1,5 +1,6 @@
 ---
 title: Departure In Despite Of Court
+letter: D
 permalink: "/definitions/departure-in-despite-of-court.html"
 body: In old English practice. The ten-ant in a real action, having once appeared,
   was considered as constructively present in court until again called upon. Hence

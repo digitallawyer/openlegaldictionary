@@ -1,5 +1,6 @@
 ---
 title: Arrogation
+letter: A
 permalink: "/definitions/arrogation.html"
 body: In the civil law. The adoption of a person who was of full age or sui juris.
   1 Browne, Civil & Adm. Law, 119; Dig. 1, 7, 5; Inst. 1, 11, 3. Relnders v. Kop-pelmann,

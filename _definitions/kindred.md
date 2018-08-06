@@ -1,5 +1,6 @@
 ---
 title: Kindred
+letter: K
 permalink: "/definitions/kindred.html"
 body: Relatives by blood. “Kin-dred of the whole blood, preferred to kindred of the
   half blood.” 4 Kent, Comm. 404, notes. See Butler v. Elytou Land Co., 84 Ala. 384,

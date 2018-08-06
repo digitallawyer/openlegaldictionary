@@ -1,5 +1,6 @@
 ---
 title: Premeditate
+letter: P
 permalink: "/definitions/premeditate.html"
 body: To think of an act beforehand; to contrive and design; to plot or lay plans
   for the executlon of a purpose. See Deliberate

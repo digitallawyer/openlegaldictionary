@@ -1,5 +1,6 @@
 ---
 title: Right Of Representation And Performance
+letter: R
 permalink: "/definitions/right-of-representation-and-performance.html"
 body: By the acts 3 & 4 Wm. IV. c. 15, and 5 & 6 VicL c. 45, the author of a play,
   opera, or musical composition, or his assignee, has the sole right of repre-senting

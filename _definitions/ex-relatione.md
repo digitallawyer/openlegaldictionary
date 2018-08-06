@@ -1,5 +1,6 @@
 ---
 title: Ex Relatione
+letter: E
 permalink: "/definitions/ex-relatione.html"
 body: 'Upon relation or In-formation. Legal proceedings which are ln-stituted by the
   attorney general (or other proper person) in the name and behalf of the state, but

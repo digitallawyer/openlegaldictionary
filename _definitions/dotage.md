@@ -1,5 +1,6 @@
 ---
 title: Dotage
+letter: D
 permalink: "/definitions/dotage.html"
 body: Dotage is that feebleness of the mental faculties -which proceeds from old age.
   It is a diminution or decay of that in-tellectual power which was once possessed.

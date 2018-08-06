@@ -1,5 +1,6 @@
 ---
 title: Handborow
+letter: H
 permalink: "/definitions/handborow.html"
 body: In Saxon law. A hand pledge; a name given to the nlne pledges in a decennary
   or frlborg; the tenth or chief, being called “headborow” (q. v.) So called as being

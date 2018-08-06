@@ -1,5 +1,6 @@
 ---
 title: Packed Parcels
+letter: P
 permalink: "/definitions/packed-parcels.html"
 body: The name for a consignment of goods, consisting of one large parcel made up
   of several small ones, (each bearing a different address,) collected from different

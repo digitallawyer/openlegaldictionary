@@ -1,5 +1,6 @@
 ---
 title: Resisting An Officer
+letter: R
 permalink: "/definitions/resisting-an-officer.html"
 body: In criminal law, the offense of obstructing, opposing, and endeavoring to prevent
   (with or without ao tual force) a peace officer,in the execution of a writ or in

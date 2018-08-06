@@ -1,5 +1,6 @@
 ---
 title: Sect
+letter: S
 permalink: "/definitions/sect.html"
 body: "“A religious sect is a body or number of persons united in tenets, hut con-stituting
   a distinct organization or party, by holding sentiments or doctrines different from

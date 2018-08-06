@@ -1,5 +1,6 @@
 ---
 title: Supersedeas
+letter: S
 permalink: "/definitions/supersedeas.html"
 body: Lat in practice. A writ ordering the suspension or superseding of another writ
   prevlously issued. It directs the officer to whom it is Issued to refrain from executing

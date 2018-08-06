@@ -1,5 +1,6 @@
 ---
 title: Responsa Prudentum
+letter: R
 permalink: "/definitions/responsa-prudentum.html"
 body: Lat Answers of jurists; responses given upon cases or questions of law referred
   to them, by cer-tain learned Roman jurists, who, though not magistrates, were authorized

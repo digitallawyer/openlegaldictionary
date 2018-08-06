@@ -1,5 +1,6 @@
 ---
 title: Cooling Time
+letter: C
 permalink: "/definitions/cooling-time.html"
 body: Time to recover “cool blood'* after severe excitement or provocation; time for
   the mind to become so calm and sedate as that it is supposed to contemplate, comprehend,

@@ -1,5 +1,6 @@
 ---
 title: Consent-Rule
+letter: C
 permalink: "/definitions/consent-rule.html"
 body: In English practice. A superseded Instrument, in which a defendant in an action
   of ejectment specified for what purpose he intended to defend, and un-dertook to

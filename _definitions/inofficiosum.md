@@ -1,5 +1,6 @@
 ---
 title: Inofficiosum
+letter: I
 permalink: "/definitions/inofficiosum.html"
 body: In the civil lnw. In-officious; coutrary to natural duty or affec-tion. Used
   of a will of a parent which dis-inherited a child without just cause, or that of

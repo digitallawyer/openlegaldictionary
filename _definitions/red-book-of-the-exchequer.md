@@ -1,5 +1,6 @@
 ---
 title: Red Book Of The Exchequer
+letter: R
 permalink: "/definitions/red-book-of-the-exchequer.html"
 body: An ancient record, wherein are registered the holders of lands per baroniatn
   in the time of Henry II., the number of hldes of land In certain counties before

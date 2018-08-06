@@ -1,5 +1,6 @@
 ---
 title: Obligatio
+letter: O
 permalink: "/definitions/obligatio.html"
 body: Lat in Roman law. Tbe legal relatlon existing between two Certain persons whereby
   one (the creditor) is au-thorlzed to demand of the otber (the debtor) a certain

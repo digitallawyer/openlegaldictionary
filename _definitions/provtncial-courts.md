@@ -1,5 +1,6 @@
 ---
 title: Provtncial Courts
+letter: P
 permalink: "/definitions/provtncial-courts.html"
 body: In English law. The several archi-epfscopal courts in the two ecclesiastical
   provinces of England

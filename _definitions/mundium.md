@@ -1,5 +1,6 @@
 ---
 title: Mundium
+letter: M
 permalink: "/definitions/mundium.html"
 body: In old French law. A tril> ute paid by a church or monastery to their seignorlal
   avouds and vidames, as the price of protecting them. Steph. Lect 236

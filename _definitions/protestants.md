@@ -1,5 +1,6 @@
 ---
 title: Protestants
+letter: P
 permalink: "/definitions/protestants.html"
 body: Those who adhered to the doctrine of Luther; so called because, in 1529, they
   protested against a decree of the emperor Charles V. and of the diet of Spires,

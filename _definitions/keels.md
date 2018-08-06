@@ -1,5 +1,6 @@
 ---
 title: Keels
+letter: K
 permalink: "/definitions/keels.html"
 body: This word is applied, in Eng-land, to vessels employed in the carriage of coals.
   Jacob

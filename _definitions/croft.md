@@ -1,5 +1,6 @@
 ---
 title: Croft
+letter: C
 permalink: "/definitions/croft.html"
 body: A little close adjoining a dwelling-house, and Inclosed for pasture and till-age
   or any particular use. Jacob. A small place fenced off in which to keep farm-cat-tie.

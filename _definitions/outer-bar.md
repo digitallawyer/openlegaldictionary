@@ -1,5 +1,6 @@
 ---
 title: Outer Bar
+letter: O
 permalink: "/definitions/outer-bar.html"
 body: In the English courts, barristers at law have been divided lnto two classes,
   viz., king’s counsel, who are admit-ted within the bar of the courts, in seats specially

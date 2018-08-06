@@ -1,5 +1,6 @@
 ---
 title: Curtis
+letter: C
 permalink: "/definitions/curtis.html"
 body: A garden; a space about a house; a house, or manor; a conrt, or pal-ace; a court
   of justice; a nobleman’s resi-dence. Spelman

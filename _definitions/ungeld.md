@@ -1,5 +1,6 @@
 ---
 title: Ungeld
+letter: U
 permalink: "/definitions/ungeld.html"
 body: In Saxon law. An outlaw; a person whose murder required no compo-sition to be
   made, or weregeld to be paid, by his slayer

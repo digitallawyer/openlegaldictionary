@@ -1,5 +1,6 @@
 ---
 title: En Regouvrement
+letter: E
 permalink: "/definitions/en-regouvrement.html"
 body: Fr. In French law. An expression employed to denote that an indorsement made
   in favor of a person does not transfer to him the property in the bill of exchange,

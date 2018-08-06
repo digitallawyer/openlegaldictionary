@@ -1,5 +1,6 @@
 ---
 title: Junior
+letter: J
 permalink: "/definitions/junior.html"
 body: Younger. This has been held to be no part of a man's name, but an addition by
   use, and a convenient distinction be-tween a father and son of the same name. Cobh

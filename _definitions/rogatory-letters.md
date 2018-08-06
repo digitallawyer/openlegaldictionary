@@ -1,5 +1,6 @@
 ---
 title: Rogatory Letters
+letter: R
 permalink: "/definitions/rogatory-letters.html"
 body: A commission from one judge to another requesting him to examine a wltness.
   See Letter

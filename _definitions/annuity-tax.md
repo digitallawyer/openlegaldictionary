@@ -1,5 +1,6 @@
 ---
 title: Annuity-Tax
+letter: A
 permalink: "/definitions/annuity-tax.html"
 body: Au impost levied an-nually in Scotland for the maintenance of the ministers
   of religion

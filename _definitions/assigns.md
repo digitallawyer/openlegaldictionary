@@ -1,5 +1,6 @@
 ---
 title: Assigns
+letter: A
 permalink: "/definitions/assigns.html"
 body: Assignees; those to whom property shall have been transferred. Now seldom used
   except in the phrase, in deeds, “helrs, administrators, and assigns.” Grant v. Carpenter,

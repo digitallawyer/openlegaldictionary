@@ -1,5 +1,6 @@
 ---
 title: Repertory
+letter: R
 permalink: "/definitions/repertory.html"
 body: In French law. The in-ventory or minutes which notaries make of all contracts
   which take place before them. Merl. Repert

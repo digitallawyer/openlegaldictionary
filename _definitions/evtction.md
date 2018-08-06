@@ -1,5 +1,6 @@
 ---
 title: Evtction
+letter: E
 permalink: "/definitions/evtction.html"
 body: Dispossession by process of law; the act of depriving a person of the possession
   of lands which he has held, in pursuance of the Judgment of a court. Rea-soner v.

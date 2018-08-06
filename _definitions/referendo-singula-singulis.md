@@ -1,5 +1,6 @@
 ---
 title: Referendo Singula Singulis
+letter: R
 permalink: "/definitions/referendo-singula-singulis.html"
 body: Lat Referring Individual or separate words to separate subjects; making a distributive
   reference of words in an lnstrument; a rule of construction.

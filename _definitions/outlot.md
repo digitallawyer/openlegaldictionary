@@ -1,5 +1,6 @@
 ---
 title: Outlot
+letter: O
 permalink: "/definitions/outlot.html"
 body: In early American land law, (particularly in Missouri,) a lot or parcel of land
   lying outside the corporate limits of a town or village but subject to Its munici-pal

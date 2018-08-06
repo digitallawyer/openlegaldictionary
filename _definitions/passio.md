@@ -1,5 +1,6 @@
 ---
 title: Passio
+letter: P
 permalink: "/definitions/passio.html"
 body: Pannage; a liberty for hogs to run in forests or woods to feed upon mast Mon.
   Angl. 1, 682

@@ -1,5 +1,6 @@
 ---
 title: S C. C
+letter: S
 permalink: "/definitions/s-c-c7.html"
 body: rm has also been applied in the United States to warrants or other like orders
   drawn on a municipal treasury (Alma v. Guaranty Sav. Bank, 60 Fed. 207, 8 C. C.

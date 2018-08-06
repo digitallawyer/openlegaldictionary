@@ -1,5 +1,6 @@
 ---
 title: Quxre
+letter: Q
 permalink: "/definitions/quxre.html"
 body: A query; question; doubt This word, occurring in the syllabus of a re-ported
   case or elsewhere, shows that a ques-tion ia propounded as to what follows, or that

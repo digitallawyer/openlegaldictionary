@@ -1,5 +1,6 @@
 ---
 title: Enormous
+letter: E
 permalink: "/definitions/enormous.html"
 body: Aggravated. “So enormous a trespass." Vaughan, 115. written “enormlous,*’ in
   some of the old books. Enor-mioue is where a thlng is made wlthout a rule or agalnst

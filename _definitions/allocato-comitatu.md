@@ -1,5 +1,6 @@
 ---
 title: Allocato Comitatu
+letter: A
 permalink: "/definitions/allocato-comitatu.html"
 body: TU. In old Eng-lish practice. In proceedings in outlawry, wheu there were but
   two county courts holden between the delivery of the writ of exigi facias to the

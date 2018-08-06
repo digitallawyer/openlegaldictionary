@@ -1,5 +1,6 @@
 ---
 title: Profits
+letter: P
 permalink: "/definitions/profits.html"
 body: 1. The advance in the price of goods sold beyond the cost of purchase. The gain
   made by the sale of produce or manufactures, after deducting the value of the labor,

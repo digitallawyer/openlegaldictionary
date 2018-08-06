@@ -1,5 +1,6 @@
 ---
 title: Procedendo
+letter: P
 permalink: "/definitions/procedendo.html"
 body: In practice. A writ by which a cause which has been removed from an inferior
   to a superior court by certiorari or otherwise is sent down again to the same court,

@@ -1,5 +1,6 @@
 ---
 title: Lucrattve
+letter: L
 permalink: "/definitions/lucrattve.html"
 body: Yielding gain or profit; profitable; bearing or yielding a revenue or salary.
   •

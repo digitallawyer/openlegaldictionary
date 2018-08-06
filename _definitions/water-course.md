@@ -1,5 +1,6 @@
 ---
 title: Water-Course
+letter: W
 permalink: "/definitions/water-course.html"
 body: A natural stream of water fed from permanent or periodical nat-ural sources
   and usually flowlng in a particular direction in a defined channel, hav-ing a bed

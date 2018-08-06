@@ -1,5 +1,6 @@
 ---
 title: Safeguard
+letter: S
 permalink: "/definitions/safeguard.html"
 body: 'In old English law. A special privilege or license, in the form of a writ,
   under the great seal, granted to stran-gers seeking their right by course of law

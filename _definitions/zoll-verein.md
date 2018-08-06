@@ -1,5 +1,6 @@
 ---
 title: Zoll-Verein
+letter: Z
 permalink: "/definitions/zoll-verein.html"
 body: A union of German states for uniformity of customs, established in 1819. It
   continued until the unification of the German empire, including Prussia, Saxony,

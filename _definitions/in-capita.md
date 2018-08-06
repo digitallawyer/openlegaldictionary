@@ -1,5 +1,6 @@
 ---
 title: In Capita
+letter: I
 permalink: "/definitions/in-capita.html"
 body: To the heads; by heads or polls. Persons succeed to nn inheritance in capita
   when they individually take equal shares. So challenges to individual jurors are

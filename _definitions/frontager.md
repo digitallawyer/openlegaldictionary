@@ -1,5 +1,6 @@
 ---
 title: Frontager
+letter: F
 permalink: "/definitions/frontager.html"
 body: FRONTAGER. in Eng-lish law a frontager is a person owning or occupying land
   which abuts on a highway, river, sea-shore, or the like. The term is generally used

@@ -1,5 +1,6 @@
 ---
 title: Valesheria
+letter: V
 permalink: "/definitions/valesheria.html"
 body: In old English law. The proving by the kindred of the slain, one on the father’s
   side, and another on that of

@@ -1,5 +1,6 @@
 ---
 title: Murder
+letter: M
 permalink: "/definitions/murder.html"
 body: The crime committed where a person of sound mind and discretion (that is, of
   sufficient age to form and execute a oriminal design and not legally “Insane") kllls

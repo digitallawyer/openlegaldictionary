@@ -1,5 +1,6 @@
 ---
 title: Torture
+letter: T
 permalink: "/definitions/torture.html"
 body: In old criminal law. The question; the inflictlon of vlolent bodlly palii upon
   a person, by means of the rack, wheels or other englne, under judicial sanction

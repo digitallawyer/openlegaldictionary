@@ -1,5 +1,6 @@
 ---
 title: Mediation
+letter: M
 permalink: "/definitions/mediation.html"
 body: Intervention; lnterposi-tlon; the act of a third person who inter-feres between
   two contending parties with a view to reconcile them or persuade them to adjust

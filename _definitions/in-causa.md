@@ -1,5 +1,6 @@
 ---
 title: In Causa
+letter: I
 permalink: "/definitions/in-causa.html"
 body: In the cause, as distlnguisb-ed from in initialibus, (q. v.) A term in Scotch
   practice. 1 Brown, Ch. 252

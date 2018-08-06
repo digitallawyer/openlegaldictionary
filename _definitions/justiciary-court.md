@@ -1,5 +1,6 @@
 ---
 title: Justiciary Court
+letter: J
 permalink: "/definitions/justiciary-court.html"
 body: The chief crirn-inal court of Scotland, consisting of five lords of session,
   added to the justice general and justice clerk; of whom the Justice general, and,

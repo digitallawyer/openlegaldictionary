@@ -1,5 +1,6 @@
 ---
 title: Baldio
+letter: B
 permalink: "/definitions/baldio.html"
 body: In Spanish law. waste land; land that is neither arable nor pasture. White New
   Recop. b. 2, tit. 1, c. 6, 8 4, and note. Unappropriated public domain, not set

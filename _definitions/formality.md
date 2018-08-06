@@ -1,5 +1,6 @@
 ---
 title: Formality
+letter: F
 permalink: "/definitions/formality.html"
 body: The conditions, in regard to method, order, arrangement, nse ot technical expressions,
   performance of specific acts, etc., which are required by the law In the maklng

@@ -1,5 +1,6 @@
 ---
 title: Inventor
+letter: I
 permalink: "/definitions/inventor.html"
 body: one who finds oat or contrives some new thing; one who devises some new art,
   manufacture, mechanical appliance, or process; one who invents a patentable con-trivance.

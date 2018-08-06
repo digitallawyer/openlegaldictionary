@@ -1,5 +1,6 @@
 ---
 title: Blockade
+letter: B
 permalink: "/definitions/blockade.html"
 body: ln international law. A marine investment or beleaguering of a town or harbor.
   A sort of olrcumvallatlon round a place by whlch all foreign connection and correspondence

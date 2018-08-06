@@ -1,5 +1,6 @@
 ---
 title: Jus Jblianum
+letter: J
 permalink: "/definitions/jus-jblianum.html"
 body: 'A body of laws drawn up by Sextus AEllus, and consisting of three parts, whereln
   were explained, respectively: (1) The laws of the Twelve Tables; (2) the interpretation

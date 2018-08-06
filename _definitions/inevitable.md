@@ -1,5 +1,6 @@
 ---
 title: Inevitable
+letter: I
 permalink: "/definitions/inevitable.html"
 body: Incapable of beiug avoided; fortuitous; transcending the power of hu-man care,
   foresight, or exertion to avoid or prevent, and therefore suspending legal rela-tions

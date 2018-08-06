@@ -1,5 +1,6 @@
 ---
 title: Margin
+letter: M
 permalink: "/definitions/margin.html"
 body: 1. The edge or border; the edge of a body of water where it meets the land.
   As applied to a boundary line of land, the “margin” of a river, creek, or other

@@ -1,5 +1,6 @@
 ---
 title: Agens
+letter: A
 permalink: "/definitions/agens.html"
 body: Lat. An agent, a conductor, or manager of affairs. Distinguished from factor,
   a workman. A plaintiff. Fleta, lib. 4, c. 15, | 8

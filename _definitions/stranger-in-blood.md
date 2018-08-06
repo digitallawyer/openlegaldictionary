@@ -1,5 +1,6 @@
 ---
 title: Stranger In Blood
+letter: S
 permalink: "/definitions/stranger-in-blood.html"
 body: Any person not within the consideration of natural love and affection arising
   from relationship

@@ -1,5 +1,6 @@
 ---
 title: Family
+letter: F
 permalink: "/definitions/family.html"
 body: A collective body of .persons who live in one house and under one head or management.
   Jarboe v. Jarboe, 106 Mo. App. 459, 79 S. W. 1162; Dodge v. Boston A P. It Corp.,
