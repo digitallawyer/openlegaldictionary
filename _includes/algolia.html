@@ -21,7 +21,7 @@ const hitTemplate = function(hit) {
 
   let title = hit._highlightResult.title.value;
 
-  let body = hit.body;
+  let body = hit._highlightResult.body.value;
 
   return `
     <div class="post-item">
@@ -31,11 +31,18 @@ const hitTemplate = function(hit) {
   `;
 }
 
+search.addWidget(
+  instantsearch.widgets.menuSelect({
+    container: '#letters-menuSelect',
+    attributeName: 'letter',
+    limit: 26
+  })
+);
 
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
-    placeholder: 'Search open legal dictionary...',
+    placeholder: 'Search dictionary...',
     poweredBy: false
   })
 );
@@ -46,6 +53,20 @@ search.addWidget(
     templates: {
       item: hitTemplate
     }
+  })
+);
+
+
+search.addWidget(
+  instantsearch.widgets.hitsPerPageSelector({
+    container: '#hits-per-page-selector',
+    items: [
+      {value: 5, label: 'show 5', default: true},
+      {value: 10, label: 'show 10'},
+      {value: 25, label: 'show 25'},
+      {value: 50, label: 'show 50'},
+      {value: 100, label: 'show 100'},
+    ]
   })
 );
 
@@ -67,6 +88,18 @@ search.start();
   max-width: 100%;
   margin-bottom: 15px;
 }
+
+.ais-menu-select--select {
+  padding: 15px 32px 15px 16px !important;
+  margin-right: 10px;
+  width: 104px;
+}
+
+.ais-hits-per-page-selector select {
+  padding: 15px 32px 15px 16px !important;
+  margin-left: 10px;
+}
+
 .ais-pagination {
   margin-left: 0px;
 }

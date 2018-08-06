@@ -1,30 +1,37 @@
 [
    {
+      "title": "A",
+      "letter": "A",
+      "permalink": "a",
+      "body": "The first letter of the English alphabet, used to distinguish the first page of a folio from the second, marked b, or the first page of a book, the first foot-note on a printed page, the first of a series of subdivisions, etc., from the following ones, which are marked b, c, d, e, etc.",
+      "published_at": "2018-08-05"
+   },
+   {
       "title": "A.D.",
       "letter": "A",
       "permalink": "ad",
-      "body": "Lat. Contraction for Anno Domini (In the year or our Lord.)",
+      "body": "Lat. Contraction for Anno Domini, (in the year of our Lord.)",
       "published_at": "2018-07-08"
    },
    {
       "title": "A.R.",
       "letter": "A",
       "permalink": "ar",
-      "body": "Anno Regni, the year of the reign; as, A. R. V. R. 22, (Anno Regni Victoria, Regina vicesmo secundo) in the twenty-second year of the reign or Queen Victoria.",
+      "body": "Anno regni, the year of the reign; as, A. R. v. R. 22, (Anno Regni Victoriæ Reginæ vicesimo secundo,) in the twenty-second year of the reign of Queen Victoria.",
       "published_at": "2018-07-08"
    },
    {
       "title": "A1",
       "letter": "A",
       "permalink": "a1",
-      "body": "Of the highest qualities. An ex­pression which originated in a practice of un­derwriters of rating vessels in three classes, - A, B, and C; and these again in ranks numbered. Abbott. A description of a ship as \"A 1\" amounts to a warranty. Olllve v. Booker, 1 Exch. 423.",
+      "body": "Of the highest qualities. An expression which originated in a practice of underwriters of rating vessels in three classes,—A, B, and C; and these again in ranks numbered. Abbott. A description of a ship as \"A 1\" amounts to a warranty. Ollive v. Booker, 1 Exch. 423.",
       "published_at": "2018-07-08"
    },
    {
       "title": "A Aver Et Tener",
       "letter": "A",
       "permalink": "a-aver-et-tener",
-      "body": "L. Fr. (L. Latin: habendum et tenendum.) To have and to hold. C.O. Litt. $523, 524. A aver et tener a luy et ses heires a touts jours, - to have and to hold to him and his heirs forever. Id. $ 625. See Aver et Tener",
+      "body": "L. Fr. (L. Lat. habendum et tenendum.) To have and to hold. Co. Litt. §§ 523, 524. A aver et tener a luy et a ses heires, a touts jours.—to have and to hold to him and his heirs forever. Id. § 625. See Aver et Tener.",
       "published_at": "2018-07-07",
       "ngram": false
    },
@@ -32,7 +39,7 @@
       "title": "A Cielo Usque Ad Centrum",
       "letter": "A",
       "permalink": "a-cielo-usque-ad-centrum",
-      "body": "From the heavens to the center of the earth",
+      "body": "From the heavens to the center of the earth.",
       "published_at": "2018-07-07",
       "ngram": false
    },
@@ -40,7 +47,7 @@
       "title": "A communi observantia non est recedendum",
       "letter": "A",
       "permalink": "a-communi-observantia-non-est-recedendum",
-      "body": "From common observance there should be no departure; There must be no departure from common usage. 2 Coke, 74; Co. Litt. 186a, 2299b, 365a; Wing. Max. 752, max. 203. A maxim applied to the practice of the courts, to the auclent and established forms ot pleading and conveyan­cing, and to professional usage generally. Id. 752-755. Lord Coke applies it to common professional opinion. Co. Litt. 186a, 364b.",
+      "body": "From common observance there should be no departure; there must be no departure from common usage. 2 Coke, 74; Co. Litt. 186a, 229b, 365a; Wing. Max. 752, max. 203. A maxim applied to the practice of the courts, to the ancient and established forms of pleading and conveyancing, and to professional usage generally. Id. 752-755. Lord Coke applies it to common professional opinion. Co. Litt. 186a, 346b.",
       "published_at": "2018-07-07",
       "ngram": false
    },
@@ -48,7 +55,7 @@
       "title": "A Consiliis",
       "letter": "A",
       "permalink": "a-consiliis",
-      "body": "(Lat. consilium, advice.) of counsel; a counsellor. The term is used in the civil law by some writers Instead of a responsis. Spelman, \"Apocrisarius.”",
+      "body": "(Lat. consilium, advice.) Of counsel; a counsellor. The term is used in the civil law by some writers instead of a responsis. Spelman, \"Apocrisarius.\"",
       "published_at": "2018-07-07",
       "ngram": false
    },
@@ -56,7 +63,7 @@
       "title": "A Cueillette",
       "letter": "A",
       "permalink": "a-cueillette",
-      "body": "In French law. In relation to the contract of affreightment, signifies when the cargo is taken on condition that the master succeeds in completing his cargo from other sources. Arg. Fr. Merc. Law’, 543",
+      "body": "IIn French law. In relation to the contract of affreightment, signifies when the cargo is taken on condition that the master succeeds in completing his cargo from other sources. Arg. Fr. Merc. Law, 543.",
       "published_at": "2018-07-07",
       "ngram": false
    },
@@ -64,7 +71,7 @@
       "title": "A Datu",
       "letter": "A",
       "permalink": "a-datu",
-      "body": "L. Lat From the date. Haths v. Ash, 2 Salk. 413. A die dat&s,- from the day of the date. Id.; 2 Crabb, Real Prop. p. 248, § 1301; Hatter v. Ash, 1 Ld. Raym. 84. A dato, from the date. Cro. Jac. 135",
+      "body": "L. Lat. From the date. Haths v. Ash, 2 Salk. 413. A die datûs, from the day of the date. Id.; 2 Crabb, Real Prop. p. 248, § 1301; Hatter v. Ash, 1 Ld. Raym. 84. A dato, from the date. Cro. Jac. 135.",
       "published_at": "2018-07-07",
       "ngram": false
    },
@@ -80,7 +87,7 @@
       "title": "A Fortiori",
       "letter": "A",
       "permalink": "a-fortiori",
-      "body": "By a stronger reason. A term used in logic to denote an argument to the effect that because one ascertained fact exists, therefore another, which is included in it, or analogous to it. and which is less Improbable, unusual, or surprising, must also exist",
+      "body": "By a stronger reason. A term used in logic to denote an argument to the effect that because one ascertained fact exists, therefore another, which is included in it, or analogous to it, and which is less improbable, unusual, or surprising, must also exist.",
       "published_at": "2018-07-07"
    },
    {
