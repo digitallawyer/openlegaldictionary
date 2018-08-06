@@ -18,5 +18,6 @@ body: The taking a personal chat-tel out of the possession of a wrong-doer Into 
   and returnable to them at the close of the fair or market if they had been guilty
   of no wrong
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Every power of. disposition is deemed absolute, by means of which the done
   is given to a tenant for life or years, it is absolute, within the meaning of the
   statutes of some of the states. Code Ala. 1886, $ 1853. See Power of Appointment
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

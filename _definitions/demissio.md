@@ -7,5 +7,6 @@ body: L. Lat A demise or letting. Chiefly used in the phrase ex demissione (on t
   where it signified that the nom-inal plaintiff (a fictitious person) held the estate
   “on the demise” of, that is, by a lease from, the real plaintiff
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

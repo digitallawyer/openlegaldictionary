@@ -29,5 +29,6 @@ body: official. Partly official or authorized. Having color of officiaf right.â€
   court by the judicature acta, but no altera-tion in its name appears to have been
   made
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

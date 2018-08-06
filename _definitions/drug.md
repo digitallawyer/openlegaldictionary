@@ -9,5 +9,6 @@ body: The general name of substances used in medicine; any substance, vegetable,
   v. U. S. (C. C.) 124 Fed. 475; Insurance Co. v. Flem-ming, 65 Ark. 54, 44 S. W.
   464, 39 L. R. A. 789, 67 Am. St. Rep. 900; Gault v. State, 34 Ga 533
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

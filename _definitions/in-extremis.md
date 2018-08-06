@@ -7,5 +7,6 @@ body: In extremity; in the last' extremity; in the last illness. 2 Bl. Comm. 375
   being in extremity. Bract, fol. 373b. Declarations in extremis, dying declarations.
   1 Greenl. Ev. | 156; wilson v. Boerem, 15 Johns. (N. Y.) 286
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

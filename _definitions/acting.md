@@ -10,5 +10,6 @@ body: A term employed to designate a locum tenens who is performing the duties o
   one who takes upon himself to perform some or all of the trusts mentloned in a wlll.
   Sharp v. Sharp, 2 Barn. A Aid. 415
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

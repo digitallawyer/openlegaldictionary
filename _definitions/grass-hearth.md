@@ -6,5 +6,6 @@ body: In old records. The grazing or turning up the earth with a plow. The name 
   a customary service for inferior tenants to bring their plows, and do one day’s
   work for their lords. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

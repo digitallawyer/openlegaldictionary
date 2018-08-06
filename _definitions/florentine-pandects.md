@@ -14,5 +14,6 @@ body: A copy of the Pandects discovered .accidentally about the year 1137, at Am
   the ornaments of the press. Brenchman, who collated the manuscript about 1710, refers
   it to the sixth century. Butl. Hor. Jur. 90, 91
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

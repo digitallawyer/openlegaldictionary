@@ -11,5 +11,6 @@ body: In maritime law. Anchor-ing or making fast to the shore or dock; the secur
   9 Misc. Rep. 340, 29 N. Y. Supp. 694; Bramhall v. Sun Mut Ins. Co., 104 Mass. 516*
   6 Am. Rep. 261
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

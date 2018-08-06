@@ -6,5 +6,6 @@ body: From or out of loan. In the old law of England, a debt was said to arise e
   mutuo when one lent another any-thlng whlch consisted In number, weight, or measure.
   1 Reeve, Eng. Law, 159; Bract fol. 99
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

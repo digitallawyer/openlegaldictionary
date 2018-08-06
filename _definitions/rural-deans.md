@@ -10,5 +10,6 @@ body: In English ecclesias-tical la... Very ancient officers of the church, almo
   report dilapidations, and to examine candidates for confirmation, armed in minuter
   matters with an inferior degree of judicial and coercive authority, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

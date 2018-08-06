@@ -7,5 +7,6 @@ body: 1. To bring to or before; to present for acceptance or rejection; to hold 
   or not. Morrison v. Springer, 15 Iowa, 346; Vincent v. woodland oil Co., 165 Pa.
   402, 30 AU. 991; People v. Ah Fook, 62 Cal. 494
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

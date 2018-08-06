@@ -9,5 +9,6 @@ body: An executor or other per-son is sald to propound a wlll or other testa-men
   executed the wlll with proper formalities, and that he was of sound mind at the
   time. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

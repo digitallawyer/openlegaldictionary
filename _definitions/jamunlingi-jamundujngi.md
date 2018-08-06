@@ -6,5 +6,6 @@ body: Freemen who delivered themselves and property to the protectlon of a more 
   person, in order to avoid military service and other burdens. Spelman. Also a spe*
   cie» of serfs among the Germans. Du Cuuge. The same as conunendati.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

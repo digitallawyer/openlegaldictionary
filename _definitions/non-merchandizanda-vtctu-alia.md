@@ -7,5 +7,6 @@ body: An ancient writ addressed to jus-tlces of assize, to inquire whether the m
   ofiice, which was contrary to an obsolete statute; and to punish them lf they did.
   Reg. orig. 184
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

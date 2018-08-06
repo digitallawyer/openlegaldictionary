@@ -11,5 +11,6 @@ body: Evidence directed to the attending circumstan-ces; evidence which inferent
   Preston, 2 Day (Conn.) 205. 2 Am. Dec. 91; State v. Miller, 9 Houst. (Del.) 564,
   32 Atl. 137
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

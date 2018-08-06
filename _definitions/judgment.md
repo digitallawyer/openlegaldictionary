@@ -8,5 +8,6 @@ body: The official and authentic decision of a court of justice upon the respect
   v. Bullock, 52 N. J. Eq. 561, 30 AU. 676, 27 L. It. A. 213, 46 Am. St. Rep. 528;
   Eppright v. Kauffman, 90 Mo. 25, 1 S. W. 736; State
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

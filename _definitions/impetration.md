@@ -6,5 +6,6 @@ body: In old English law. The obtaining anything by petition or en-treaty. Parti
   the obtaining of a benefice from Rome by solicitation, which benefice belonged to
   the disposal of the king er other lay patron, webster; CowelL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

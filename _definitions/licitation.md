@@ -10,5 +10,6 @@ body: In the civil law. An offering for sale to the highest bidder, or to him wh
   of the said co-proprietors had in the estate licited, before the adjudication. Poth.
   Cont. Sale, nn. 516, 638
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

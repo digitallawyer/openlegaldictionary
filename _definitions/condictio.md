@@ -7,5 +7,6 @@ body: In Roman law. A general term for actions of a personal nature, found* ed n
   from vindicatio rei, which is an action to vindicate one’s right of property in
   a thing by regaining (or retaining) pos
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

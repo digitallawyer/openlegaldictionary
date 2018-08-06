@@ -7,5 +7,6 @@ body: To feign or simulate; to hold that out as real whlch is false or baseless.
   695. As to the rule against tiie buying and selling of “any pretended right or title,’*
   see Pbetbnsed Right ob Title
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

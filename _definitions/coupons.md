@@ -8,5 +8,6 @@ body: Interest and dividend cer-tlflcates; also those parts of a commercial inst
   where the interest is payable at par-ticular periods, and, when the interest is
   paid, they are cut off and delivered to the payer, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: The right to dislncumber property or to free it from a claim or lien; spec
   sale. See Mayer v. Farmers’ Bank, 44 Iowa, 216; Millett v. Mullen, 95 Me. 400, 49
   Atl. 871; Case v. Spelter Co., 62 Kan. 69, 61 Pac. 406
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

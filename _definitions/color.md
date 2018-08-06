@@ -8,5 +8,6 @@ body: An appearance, semblance, or simulacrum, as distinguished from that which 
   Ch. v. Allfree, 64 Iowa, 500, 20 N. W. 779 ; Berks County v. Railroad Co., 167 Pa.
   102, 31 Atl. 474; Broughton v. Haywood, 61 N. C. 383
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

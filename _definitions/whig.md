@@ -9,5 +9,6 @@ body: Thls name was applied in Scot-land, A. D. 1648, to those violent Covenant-
   they became In-stantly as familiar in use as they have since continued. 2 Halk Const
   Hist. c. 12; Whar-ton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

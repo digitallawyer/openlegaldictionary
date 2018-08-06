@@ -11,5 +11,6 @@ body: VER. A receiver is an indifler-ent person between the parties appointed by
   to be obtained in the court of ordinary jurisdiction. Bisp. Eq. | 576. See Hay ▼.
   McDaniel, 26 Ind. App. 683, 60 N. B. 729; Hale v. Hardon, 95 Fed. 773, 37 O. O
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

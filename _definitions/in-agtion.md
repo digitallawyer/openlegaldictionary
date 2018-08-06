@@ -7,5 +7,6 @@ body: Attainable or recoverable by actlon; not in possesslon. A term ap-plied to
   Things in action are rights of personal things, whicb nevertheless are not in possession.
   See Chose in Action
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

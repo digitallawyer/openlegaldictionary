@@ -11,5 +11,6 @@ body: In Roman law. The term in-cluded “all the cognates who trace thelr conne
   been excluded are agnates, and their connection together is agnatic relationship.”
   Maine, Anc. Law, 142
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

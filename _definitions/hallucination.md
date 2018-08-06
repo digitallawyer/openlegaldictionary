@@ -11,5 +11,6 @@ body: In medical juris-prudence. A trick or deceit of the senses; a morbld error
   Me. 459; Foster v. Dickerson, 64 VL 233, 24 Atl. 257; McNett v. Cooper (C. C.) 13
   Fed. 590; People v. Krist, 168 N. Y. 19, 60 N. E. 1057
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

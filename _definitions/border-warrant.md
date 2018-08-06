@@ -6,5 +6,6 @@ body: A process grant-ed by a Judge ordinary, on either side of the border betwe
   England and Scotland, for arresting the person or effects of a per-son living on
   the opposlte side, until he find security, judicio sisti. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

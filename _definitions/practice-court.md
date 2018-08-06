@@ -7,5 +7,6 @@ body: In English law. A court attached to the court of king's bench, which heard
   prohibition, etc. It was usually called the “ball court” It was held by one of the
   puisne justices of the king’s bench
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

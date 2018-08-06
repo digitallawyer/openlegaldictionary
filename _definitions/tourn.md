@@ -8,5 +8,6 @@ body: or TOURN. The great court-leet of the county, as the old county court was 
   the sheriff making a turn of circuit about hls shire, and holding this court in
   each respective hun-dred. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

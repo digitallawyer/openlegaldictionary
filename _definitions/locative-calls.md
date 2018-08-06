@@ -6,5 +6,6 @@ body: In a deed, patent, or other instrument containing a description of land, l
   calls are specific calls, de-scriptlons, or marks of location, referring to landmarks,
   physical oOjects, or other points by which tbe laud can be exactly located and Identified
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

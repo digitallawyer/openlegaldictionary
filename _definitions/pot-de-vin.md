@@ -8,5 +8,6 @@ body: 'In French law. A sum of money frequently paid, at the moment of entering 
   it cannot, by returning double the amount, or the other party by losing what he
   has paid, rescind the contract. 18 Toullier, uo. 52'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

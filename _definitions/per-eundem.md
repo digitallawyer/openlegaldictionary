@@ -6,5 +6,6 @@ body: Lat. By the same. This phrase is commonly* used to express “by, or from 
   mouth of, the same judge.” So "per eundem in eadem" means “by the same judge in
   the same case.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

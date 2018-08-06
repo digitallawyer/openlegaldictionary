@@ -8,5 +8,6 @@ body: If, pendlng an action of replevin for a distress, the defendant distrains 
   and damages for the defendant's contempt of the process of the law in making a second
   distress while the matter is sub jndice. woodf. Landl. & Ten. 484
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

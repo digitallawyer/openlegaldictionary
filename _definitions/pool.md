@@ -10,5 +10,6 @@ body: 1. A combination of persons or corporations engaged in tbe same business, 
   pool, or of es-tabllshing a monopoly or controlling prices or rates by the welght
   and power of thelr combined capital, or of raislng or depressing
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

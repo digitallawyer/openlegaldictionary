@@ -7,5 +7,6 @@ body: The usual meaning of the word “tool” is “an instrument of manual ope
   nnd controlled * by machinery. Lovewell v. VVestchester F. Ins. Co., 124 Mass. 420,
   26 Am. Rep. 671. , A
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A rod, stafT, or wand, used In old English practice in making livery of se
   of which on the land involved in a real ac-tion the defendant was summoned to put
   in his appearance; this was called "baeulus nuntiatoi'ius." 3 Bl. Comm. 279
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In the civll law. A peculiar or individual rule, differing from the jus co
   or common rule of right, and established for some special reason. Mackeld. Rom.
   Law, { 196
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

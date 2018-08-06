@@ -6,5 +6,6 @@ body: In maritime law. A Spanish term signifying athwart, at right angles, or ab
   sometimes used as descriptive of the position of a vessel which is "lying to.” The
   Hugo (D. C.) 57 Fed. 403, 410
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

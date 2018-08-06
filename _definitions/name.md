@@ -7,5 +7,6 @@ body: The designation of an individual person, or of a firm or corporation. In l
   As to the history of Christian names and surnames and their use and relative importance
   in law, see In re Snook, 2 Hilt (N. Y.) 666
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

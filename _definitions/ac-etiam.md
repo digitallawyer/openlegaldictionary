@@ -7,5 +7,6 @@ body: "(Lat And also.) words used to introduce the statement of the real cause o
   to give the court Jurisdiction, nnd also the real cause, in compliance with the
   statutes"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

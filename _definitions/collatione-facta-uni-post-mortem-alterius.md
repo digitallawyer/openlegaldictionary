@@ -7,5 +7,6 @@ body: A writ directed to justices of the common pleas, commanding them to issue 
   by the crown, where there had been a demise of the crown during a salt; for judgment
   once passed for the king’s clerk, and he dying before admittance, the
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

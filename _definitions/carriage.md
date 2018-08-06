@@ -7,5 +7,6 @@ body: A vehicle used for the transportation of persons either for pleasure or bu
   of the country; not including cars used exclusively upou railroads or street railroads
   expressly constructed for the use of such cars. Snyder v. North Lawrence, 8
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

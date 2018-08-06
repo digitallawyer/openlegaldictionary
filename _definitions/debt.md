@@ -9,5 +9,6 @@ body: A sum of money due by certain and express agreement; as by bond for a dete
   of Erie, 91 Pa. 398; Dickey v. Leonard, 77 Ga. 151; Hagar v. Reclamation Dist, 111
   U. S. 701, 4 Sup. Ct. 663, 28 L. Ed. 569; Appeal Tax Court v. Rice, 50 Md. 302
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: This phrase, anciently nsed in the language of pleading, and still survivi
   and of Its two verbs the former signifies that he appears in court, the latter that
   he defends the action
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

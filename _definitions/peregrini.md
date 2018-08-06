@@ -7,5 +7,6 @@ body: Lat in Roman law. The class of peregrini embraced at the same time both th
   slaves, and the members of those natlons which had not established amicable re*
   lations with the Roman people. Sav. Dr. Rom. { 66
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

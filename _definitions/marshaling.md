@@ -8,5 +8,6 @@ body: Arranging, ranklng, or disposing in order; particularly, in the case of a 
   to all persons concerned and the largest possible measure of satisfaction to each.
   See sub-titles infra
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

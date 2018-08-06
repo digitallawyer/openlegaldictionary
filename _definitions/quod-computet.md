@@ -7,5 +7,6 @@ body: That he account Judgment quod computet is a preliminary or interlocutory j
   au executor or administrator,) directing that accouhts be taken be-fore a master
   or auditor
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

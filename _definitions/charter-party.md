@@ -8,5 +8,6 @@ body: A contract by which an entire ship, or some principal part thereof, is let
   497; Vandewater v. The Yankee Blade. 28 Fed. Cas. 980; Spring v. Gray, 6 Pet. 151,
   8 L. Ed. 352; Fish v. Sullivan, 40
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

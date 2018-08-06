@@ -7,5 +7,6 @@ body: 'Lat. In the civil law. A writing acknowledging payments; acquit-tance. It
   the former obligation whether pay-ment be made or not; apocha, discharge only upon
   payment being made. Calvin'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

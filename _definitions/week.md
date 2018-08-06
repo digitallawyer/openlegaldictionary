@@ -9,5 +9,6 @@ body: A period of seven consecutive days of time; and, in some uses, the period 
   12 Abb. Prac. N. S. (N. Y.) 175; Russell v. Croy, 164 Mo. 69, 63 S. W. 849; Medland
   v. Linton, 60 Neb. 249, 82 N. W. 866
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

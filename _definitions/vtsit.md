@@ -8,5 +8,6 @@ body: In international law. The right of visit or visitation is the right of a c
   to be. It is exercisable only wben suspicious circumstances attend the vessel to
   be visited; as when she is suspected of a piratical char-acter
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

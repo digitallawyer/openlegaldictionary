@@ -8,5 +8,6 @@ body: In fendal law. Escheat is an obstruction of the course of descent, and con
   of the fee. 2 Bl. Comm. 15; wallace v. Harin-stad, 44 Pa. 501; Marshall v. Lovelass,
   1 N. O. 445
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A single paragraph or subdivision of a legal document, such as a con-tract
   Appeal of Miles, 68 Conn. 237, 36 Atl. 39, 36 L. R. A. 176; Eschbach v. Collins,
   61 Md. 499, 48 Am. Rep. 123
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

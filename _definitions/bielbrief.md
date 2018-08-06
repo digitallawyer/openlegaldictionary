@@ -12,5 +12,6 @@ body: Germ. In European marl-time law. A document furnished by the builder of a 
   the lawful ownership of vessels. Jac. Sea Laws, 12, 13, and note. In the Danish
   law, it is used to denote the contract of bottomry
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

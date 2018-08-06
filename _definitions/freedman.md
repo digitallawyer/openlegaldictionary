@@ -7,5 +7,6 @@ body: In Roman law. one who was set free from a state of bondage; an emancipated
   were formerly slaves. Falrfield v. Lawson, 50 Conn. 513, 47 Am. Rep. 669; Davenport
   v. Caldwell, 10 S. C. 333
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

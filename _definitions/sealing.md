@@ -7,5 +7,6 @@ body: By seals, in matters of succession, is understood the placing, by the prop
   and for the interest of third persons The seals are affixed by order of the judge
   having jurisdiction. Civ. Code La. art 1075
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In marine iu-surance. An allowance or drawback credlt-ed to the Insurers o
   parts restored with new materials are better, in that proportion than they were
   before the damage
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

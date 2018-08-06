@@ -13,5 +13,6 @@ body: The radicnl mending of this word appears to be that of a mark, style, or d
   copied in the letters pat-ent from the Inventor's petition; e. g., “a new and improved
   method of drying and. preparing malt" Johns. Pat. Man. 90
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

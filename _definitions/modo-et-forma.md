@@ -7,5 +7,6 @@ body: Lat in manner and form, words used in the old Latln forms of pleadings by 
   party traversing denies the allegation of the other party, not only in its general
   effect, but in the exact manner and form in which it is made. Steph. PL 189, 190
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

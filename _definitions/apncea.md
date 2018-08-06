@@ -9,5 +9,6 @@ body: In medical jurisprudence, want of breath; difficulty in breathing; partial
   or any serious interference with normal respiration. The two terms were formerly
   (but improperly) used synonymous-iy
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

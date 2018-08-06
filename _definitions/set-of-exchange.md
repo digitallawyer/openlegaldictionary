@@ -7,5 +7,6 @@ body: In mercantile law. Foreign bllls are usually drawn in duplicate or tripllc
   etc., and these parts together constitute a “set of exchange.” Any one of them being
   pald, the others become void
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

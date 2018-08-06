@@ -7,5 +7,6 @@ body: The substance or matter of which anything is made; matter furnished for th
   in the construction of any mechanical product See Moyer v. Pennsylvania Slate Co.,
   71 Pa. 293
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

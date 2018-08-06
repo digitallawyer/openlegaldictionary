@@ -9,5 +9,6 @@ body: Lat. In Roman law. Thls was the name of one of the legis actiones. It was 
   be treated as a pledge or security.. The proceeding bears a marked analogy to dis-tress
   at common law. Mackeld. Rom. Law, § 208; Gaius, bk. 4, 88 26-29
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

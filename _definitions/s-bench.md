@@ -7,5 +7,6 @@ body: BENCH. The supreme court of common law in England, being so called be-caus
   ipso rege” It was called the “queen’s bench” in the reign of a queen, and during
   the pro-tectorate of Cromwell it was styled the “up
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

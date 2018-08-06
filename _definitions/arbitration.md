@@ -8,5 +8,6 @@ body: In practice. The investigation and determination of a matter or matters of
   v. Beaton', 52 Tex. 43; Boy-den v. Lamb, 152 Mass. 416, 25 N. E. 609; In re Curtis-Castle
   Arbitration, 64 Conn. 501. 30 Atl. 769, 42 Am. St. Rep. 200
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

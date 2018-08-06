@@ -9,5 +9,6 @@ body: By boundary is under-stood, in general, every separatlon, natural or artif
   of wood inserted in the earth on the confines of the two estates. Civ. Code La.
   art 826
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

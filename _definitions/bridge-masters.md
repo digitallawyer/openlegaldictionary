@@ -6,5 +6,6 @@ body: Persons chosen by the citizens, to have the care and suiter-vision of brid
   and haviug certain fees aud profits belonging to their ofiice, as in the case of
   London Bridge
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

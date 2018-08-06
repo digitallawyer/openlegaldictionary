@@ -8,5 +8,6 @@ body: 1. In legislative practice, a hill including in one act various separate a
   which he does not approve or else defeat the whole enactment See Com. ▼. Barnett,
   199 Pa. 161, 48 Atl. 977, 55 L. R. A. 882; Yea-ger v. weaver, 64 Pa. 425
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

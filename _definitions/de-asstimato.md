@@ -6,5 +6,6 @@ body: In Roman law. one of the lnnomlnate contracts, and, in effect, a sale of l
   or goods at a price fixed, (aesti-mato,) and guarantied by some third party, who
   undertook to find a purchaser
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

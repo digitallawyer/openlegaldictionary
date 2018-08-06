@@ -8,5 +8,6 @@ body: To buy back. To liberate an qstate or article from mortgage or pledge by p
   E. 927; Mlller v. Ratterman, 47 Ohlo St 141, 24 N. E. 496; Swearingen ▼. Roberts,
   12 Neb. 833, 11 N. W. 825; Pace ▼. Bartles, 47 N. J. Eq. 170, 20 Ati. 352
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

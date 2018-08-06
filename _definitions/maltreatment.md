@@ -8,5 +8,6 @@ body: In reference to the treatment of hls patient by a surgeon, this term signi
   surgeon, in hls treatment of the patient, is either willfully or grossly careless.
   Com. v. Hackett, 2 Allen (Mass.) 142
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

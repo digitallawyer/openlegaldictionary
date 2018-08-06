@@ -6,5 +6,6 @@ body: Lat By fraud, where a plea alleges matter of discharge, and the replicatio
   avers that the discharge was fraudulently obtained and is therefore invalld, it
   is called a “replication per fraud-em
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

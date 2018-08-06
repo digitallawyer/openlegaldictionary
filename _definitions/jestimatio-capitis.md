@@ -7,5 +7,6 @@ body: In Saxon law. The estimation or valuation of the head; the price or value 
   king himself, was estimated at a certaln price, which was called the were, or cestimatio
   capitis. Crabb, Eng. Law, c. 4
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Ascertained; precise; iden-tified; definitive; clearly known; unamhlg* nou
   Gregory, 108 La. 648, 32 South. 986; Smith ▼. Fyler, 2 Hill (N. Y.) 649; Civ. Code
   La. 1900, art 3556
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

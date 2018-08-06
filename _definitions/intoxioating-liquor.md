@@ -9,5 +9,6 @@ body: Any liquor used as a beverage, and which, when so used in sufficient quant
   proportion that it will produce intoxication when imbibed in such quan-tlties as
   may practlcally be drunk. Intox
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

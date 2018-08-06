@@ -8,5 +8,6 @@ body: In the civU law. The prlvate and exclusive ownership or dominion of an ind
   of being so possessed, (or not act* nally so possessed,) they are said to be extra
   patrimonium. See Gaius, bk. 2, $ 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

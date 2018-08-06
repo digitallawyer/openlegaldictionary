@@ -8,5 +8,6 @@ body: The act, with intent to de-fraud, of bringing into the United States, or w
   or submit-ting them to the officers of the revenue for examination. 18 U. S. St.
   at Large, 186 (U. S. Comp. St 1901, p. 2018
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

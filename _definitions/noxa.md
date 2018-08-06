@@ -9,5 +9,6 @@ body: Lat in the civil law. This term denoted any damage or injury done to perso
   vrsa al-so used as the designation of the oflense committed, and of its punishment,
   and some-times of the slave or animal doing the dam-age
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

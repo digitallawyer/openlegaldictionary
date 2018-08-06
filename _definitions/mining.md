@@ -11,5 +11,6 @@ body: The process or business of ex-tracting from the earth tbe precious or valu
   case in Indiana. See State v. Indiana, etc., Mln. Co., 120 Ind. 675, 22 N. E. 778,
   6 L. R. A. 579; williams v. Citizens' Enterprise Co., 153 Ind. 496, 55 N. E. 425
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

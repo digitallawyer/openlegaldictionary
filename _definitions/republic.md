@@ -10,5 +10,6 @@ body: A commonwealth; a form of government which derives all Its powers dlrectly
   to a representative assembly. See Federalist, No. 39; Re-public of Mexico v. De
   Arangoiz, 5 Duer (N. Y.) 636; State v. Harris, 2 Bailey (S. C.) 599
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

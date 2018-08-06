@@ -9,5 +9,6 @@ body: Inevitable accldent; an event not to be foreseen or guarded against A loss
   Ass'n, 102 Iowa, 520, 71 N. W. 426; Anthony v. Karbach, 64 Neb. 509, 90 N. W. 243,
   97 Am. St. Rep. 662
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

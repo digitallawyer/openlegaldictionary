@@ -11,5 +11,6 @@ body: In marine insurance. The arrival of a vessel means an arrival for pur-pose
   I. 529, 23 Atl. 61; Meigs v. In-surance Co., 2 Cush. (Mass.) 439; Toler v. white,
   1 ware, 280, 24 Fed. Cas. 3; Harrison v. Vose, 9 How. 384, 13 L. Ed. 179
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

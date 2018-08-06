@@ -14,5 +14,6 @@ body: In English ecclesiastical law. A court of appeal belonging to the Archbish
   of such added office, it receives and determiues appeals from the sentences of all
   inferior ecclesiastical courts within the province. 3 Bl. Coium. 64
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

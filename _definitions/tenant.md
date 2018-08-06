@@ -6,5 +6,6 @@ body: In the broadest sense, one who holds or possesses lands or tenements by an
   kind of rlght or title, whether in fee, for life, for years, at will, or otherwise.
   Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A collection of sea-laws, compiled about the end of the eleventh century, 
   or had been in force in countries bordering on the Mediterranean; nnd wns for a
   long time received as authority in those countries. Azuni; wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

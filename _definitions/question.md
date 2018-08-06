@@ -8,5 +8,6 @@ body: A method of criminal ex-amination heretofore in use in some of the countri
   the condition of his release from the torture, a confession of his own guilt or
   the names of his accomplices
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

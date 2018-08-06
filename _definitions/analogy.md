@@ -7,5 +7,6 @@ body: In logic. Identity or similarity of proportion, where there is no preceden
   subject-matter, but governed by the same general principle. This is reasoning by
   analogy, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

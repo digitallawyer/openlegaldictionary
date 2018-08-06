@@ -7,5 +7,6 @@ body: In English law. In cases ot treason the law makes it a crime to lmag-ine t
   be demonstrated by some overt act. The terms “imagining” and “compassing’* are in
   this connection synonymous. 4 BL Comm. 78
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

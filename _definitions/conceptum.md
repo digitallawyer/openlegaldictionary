@@ -6,5 +6,6 @@ body: In the civil law. A theft (furtum) was called “oonceptum," when the thin
   was searched for, and found upon some person In the presence of witness-es. Inst
   4, 1, 4
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

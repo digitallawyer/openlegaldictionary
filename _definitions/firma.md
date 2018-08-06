@@ -8,5 +8,6 @@ body: In old Engllsh law. The con-tract of lease or letting; also the rent (or f
   A mes-saage, with the house and garden belonging thereto. Also provision for the
   table; a banquet; a tribute towards the entertainment of the king for one night
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

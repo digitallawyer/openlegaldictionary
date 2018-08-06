@@ -9,5 +9,6 @@ body: The occurrence of eome act or fact, during the period of prescription, whi
   ▼. Mims, 1 Ala. 674; Carr v. Foster, 3 Q. B. 588; Flight v. Thomas, 2 Adol. & El.
   701
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

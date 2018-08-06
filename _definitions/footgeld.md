@@ -7,5 +7,6 @@ body: Iu the forest law. An amercement for not cutting out the ball or cutting o
   the privllege of keeping dogs in the for-est unlaiced without punishment or control.
   Manwood
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -5,5 +5,6 @@ permalink: "/definitions/fine-anullando-levato-de-tenemento-quod-fuit-de-antiq-u
 body: Ad abolished writ for dis-annulling a fine levied of lands in ancient demesne
   to the prejudice of the lord. Reg. orig. 15
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

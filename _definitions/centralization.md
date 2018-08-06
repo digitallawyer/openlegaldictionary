@@ -8,5 +8,6 @@ body: This word is used to express the system of government pre-vailing in a cou
   under the constant control and inspira-tlon of the ministers of state, and where
   the funds of the state are largely applied to local purposes, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

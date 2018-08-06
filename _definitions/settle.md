@@ -9,5 +9,6 @@ body: To adjust, ascertain, or liqui-date; to pay. Partles are sald to settle an
   St. 450, 49 N. E. 792; People v. Green, 5 Daly (N. Y.) 201; Lynch ▼. Nugent, 80
   Iowa, 422, 46 N. W. 61
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

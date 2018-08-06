@@ -7,5 +7,6 @@ body: A body of law framed by the Salian Franks, after their settlement in Gaul 
   of the barbarian codes, and is considered one of the most important com-pi la tions
   of law in use amoug the feudal nations of Europe. See Lex Salica
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

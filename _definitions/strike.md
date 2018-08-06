@@ -10,5 +10,6 @@ body: The act of a body of workmen employed by the same master, in stopping work
   Printing Co. v. Howell, 26 or. 527, 38 Pac. 547, 28 L. R. A. 464, 46 Am. SL Rep.
   640
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

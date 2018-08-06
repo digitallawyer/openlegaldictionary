@@ -7,5 +7,6 @@ body: An estate in realty held nnder a lease; an estate for a fixed term of year
   Rep. 300; washington F. Ins. Co. v. Kelly, 32 Md. 421, 3 Am. Rep. 149; Harley v.
   o’Donnell, 9 Pa. Co. CL R. 56
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

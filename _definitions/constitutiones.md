@@ -10,5 +10,6 @@ body: 'Laws promulgated, i. e., enacted, by the Roman Emperor. They were of vari
   enactment by virtue of a certain lex regia, whereby he was made the fountain of
   Justice and of mercy. Brown.'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

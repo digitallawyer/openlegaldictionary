@@ -8,5 +8,6 @@ body: Au embassy; a diplomatic minister and bis suite; tbe persons commis-sioned
   the “legation” of their government. The word also denotes the official residence
   of a foreign minister
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

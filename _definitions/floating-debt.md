@@ -8,5 +8,6 @@ body: 'By this term is meant that mass of lawful and valid claims against the co
   provided. People v. wood. 71 N. Y. 374: City of Huron v. Second ward Sav. Bank.
   86 Fed. 276, 30 C. C. A. 38, 49 L. R. A. 534'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

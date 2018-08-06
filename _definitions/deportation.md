@@ -6,5 +6,6 @@ body: Banlshment to a for-eign country, attended wlth confiscation of property a
   deprlvatlon of civil rlghts. A punishment derlved from the deportatio (q. v.) ot
   the Roman law, and still in use in France
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

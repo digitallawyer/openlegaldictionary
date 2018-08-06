@@ -7,5 +7,6 @@ body: In medical jurisprudence. A term of recent introduction to medical 'scienc
   in efTect limiting the scope of the latter term to the description of psychic or
   nervous disorders which may be cured, uniquely by psychotherapy or persuasion. Babinski
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -25,5 +25,6 @@ body: 'term is often defined in statutes and judicial decisions as meaning “tb
   as above de-fincd. See Ausman v. Veal, 10 Ind. 355. Tl Am. Dec. 331; Com. v. J.,
   21 Pa. Co. Ct. R. 025'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

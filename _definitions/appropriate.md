@@ -10,5 +10,6 @@ body: 1. To make a thing one's own; to make a thing the subject of property; to 
   (D. C.) 12 Fed. 522; wulzen v. San Francisco, 101 Cal. 15, 35 Pac. 353. 40 Am. St.
   Rep. 17; People v. Lammerts, 164 N. Y. 137, 58 N. E. 22
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

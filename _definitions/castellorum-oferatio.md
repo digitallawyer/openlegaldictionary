@@ -7,5 +7,6 @@ body: In Sax-on and old English law. Castle work. Serv-ice and labor done by Inf
   of the three *nec-essary charges, (trinoda ncccssitas.) to which all lands among
   the Saxons were expressly subject Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

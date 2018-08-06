@@ -8,5 +8,6 @@ body: That which is to last for a limited time only, as distinguished from that 
   Iowa, 714. 21 N. W. 158. A temporary injunction restrains actiou or any change in
   the situation of affairs until a hearlng oo
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: In English law. Cer-taln duties which must be paid by thosu who clalm to e
   right of election, meant only the payment by a parishioner of the sum to which he
   was assessed on the poor-rate. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

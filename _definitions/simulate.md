@@ -9,5 +9,6 @@ body: To feign, pretend, or coun-terfelt. To engage, usually with the co-op-pera
   some advantage to which he is not entitled, or to Injure, delay, or defraud others.
   See Cartwright v. Bamberger, 90 Ala. 405, 8 South. 264
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

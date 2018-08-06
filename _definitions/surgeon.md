@@ -8,5 +8,6 @@ body: one whose profession or occupation is to cure diseases or injuries of the 
   See Smith v. Laue, 24 Hun (N. Y.) 632; Stewart v. Raab, 55 Minn. 20, 56 N. W. 256-;
   Nelson v. State Board of Health, 108 Ky. 769, 57 S. W. 501, 50 L. R. A. 383.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

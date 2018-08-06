@@ -9,5 +9,6 @@ body: with a felonious In-tent; with the Intention of committing a crime. An ind
   6 N. E. 301; State v. watson, 41 La. Ann. 598, 7 South. 125; State v. Bryan, 112
   N. C. 848, 16 S. E. 909
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

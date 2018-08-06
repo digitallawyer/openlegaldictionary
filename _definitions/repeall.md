@@ -10,5 +10,6 @@ body: The abrogation or annulling of a previously existing law by the enact-ment
   Cal. 479, 11 Pac. 3; Mernaugh ▼. Orlando,* 41 Fla. 433, 27 South. 34; Hunter ▼.
   Memphis, 93 Tenn. 571, 26 S. W. 828
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

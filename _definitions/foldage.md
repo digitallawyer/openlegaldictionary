@@ -8,5 +8,6 @@ body: A privilege possessed in some placee by the lord of a manor, which con-sis
   fee paid to the lord for exemption at certain times from this duty. Elton, Com.
   45, 46
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A university committee. A combination of persons or firms nnited for the p
   who buy up the shares of a company in order to sell them at a profit by creating
   a scarcity*. Mozley A whitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

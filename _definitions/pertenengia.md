@@ -9,5 +9,6 @@ body: In Spanish law. The claim or right which one has to the property in anythi
   (pertenencias.) Escriche. See Castillero v. United States, 2 Black. 17, 17 L. Ed.
   360
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

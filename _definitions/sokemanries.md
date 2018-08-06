@@ -7,5 +7,6 @@ body: Lands and tenements which were not heid by knight-service, nor by grand se
   the king or his predecessors from thelr anclent demesne. Their tenants were sokemans.
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

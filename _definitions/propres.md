@@ -8,5 +8,6 @@ body: In French law. The term “propres" or “biens propres" (as distin-guishe
   de-scending line; that is, in terms of the com-mon law, property acquired by “descent”
   as
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

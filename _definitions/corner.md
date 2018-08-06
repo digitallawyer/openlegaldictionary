@@ -9,5 +9,6 @@ body: A combination among the dealers in a specific commodity, or outside capita
   Kirkpatrick v. Bonsall, 72 Pa. 158; wright v. Cudahy, 168 III. 86, 48 N. E. 39;
   Kent v. Mlltenberger, 13 Mo. App. 506
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

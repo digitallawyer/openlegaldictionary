@@ -6,5 +6,6 @@ body: In Norman law. Moneyage. A tax or tribute of one shilling on every hearth,
   to the duke every three years, in consideration that he should not alter the coln.
   Hale, Com. Law, 148, and note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

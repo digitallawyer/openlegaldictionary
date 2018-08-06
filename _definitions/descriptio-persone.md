@@ -8,5 +8,6 @@ body: Lat. De-ecriptlon of the person. By this is meant a word or phrase used me
   only in the official or technical character which might appear to be ln-dlcated
   by the word
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

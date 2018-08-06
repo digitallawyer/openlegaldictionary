@@ -10,5 +10,6 @@ body: B. In mercantlle contracts, thls abbrevlation means “free on board,” a
   106 Am. St. Rep. 989; SUberman v. Clark, 96 N. Y. 523; Sheffield Furnace Co. v.
   Hull Coal & Coke Co., 101 Ala. 446, 14 South. 672
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

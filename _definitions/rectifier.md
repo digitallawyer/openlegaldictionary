@@ -8,5 +8,6 @@ body: As used in the United States Internal revenue laws, this term is not confi
   anything else, and sells it under any name. Quantity of Distilled Spirits, 3 Ben.
   73, Fed. Cos. No. 11,494
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

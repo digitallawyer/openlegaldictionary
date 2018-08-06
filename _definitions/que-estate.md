@@ -7,5 +7,6 @@ body: L. Fr. whose estate. A term used in pleading, particularly in claiming pre
   has have lmmemorlally exer--clsed the right claimed. Thls was called “prescribing
   in a que estate.’’
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

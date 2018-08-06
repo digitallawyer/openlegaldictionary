@@ -9,5 +9,6 @@ body: R, or RESTOR. The remedy or recourse which marine underwriters have agains
   his guarantor or other person who is to indemnify him from any damage sustained.
   Enc. Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

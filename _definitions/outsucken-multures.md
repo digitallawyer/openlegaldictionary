@@ -6,5 +6,6 @@ body: In Scotch law. out-town multures; multures, duties, or tolls paid by perso
   voluutarlly grinding corn at any mill to which they are not thirled, or hound by
   tenure. 1 Forb. lust. pt. 2, p. 140.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

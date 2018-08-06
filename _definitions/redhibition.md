@@ -7,5 +7,6 @@ body: In tbe civil law. The avoidance of a sale on acconnt of some vice or defec
   and imperfect that it must be supposed that the buyer would not have pur-chased
   it had he known of the vice. Civ; Code La. art 2520
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

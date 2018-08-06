@@ -7,5 +7,6 @@ body: Lat. Born, as distinguished from nasciturus, about to be born. Ante natus,
   before a political revolution, etc. Post natus, one born after a particular person
   or event
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

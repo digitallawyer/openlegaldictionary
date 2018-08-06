@@ -6,5 +6,6 @@ body: Courts held in certain mining districts belongiug to the Duchy of Lancaste
   for regulation of the mines, and for deciding questions of title and other matters
   relating thereto. 3 Steph. Comm. 347, note b
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

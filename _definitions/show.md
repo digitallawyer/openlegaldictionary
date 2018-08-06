@@ -7,5 +7,6 @@ body: Although the words "show" and “indicate" are sometimes interchangeable i
   to prove; while an “lndlcation" may be merely a symptom; that which points to or
   gives dlrectlon to the mind. Coyle ▼. Com., 104 Pa. 133
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

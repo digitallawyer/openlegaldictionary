@@ -9,5 +9,6 @@ body: 'T^it. By the hends or polls; according to the number of individuals: shar
   in equal degree to the decedent, with-out reference to thelr stocks or the right
   of representatlon. It is the antithesis of per stirpes, (q. v'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

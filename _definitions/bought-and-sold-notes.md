@@ -6,5 +6,6 @@ body: when a broker is employed to buy and sell goods, he is accustomed to give 
   the buyer a note of the sale, commonly called a “sold note,” and to the seller a
   like note, commonly call-ed a "bought note,” in his own name, as
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

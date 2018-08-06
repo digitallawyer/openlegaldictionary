@@ -7,5 +7,6 @@ body: In old European law. A species of service and tribute rendered to their lo
   portion of land, called, in England, a “rig" or “ridge,” an elevated piece of ground,
   formed out of several furrows. Burrill
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

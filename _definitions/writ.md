@@ -9,5 +9,6 @@ body: A precept in writing, couched In the form of a letter, running in the name
   a suit or other proceeding or as incidental to its progress, and requiring the performance
   of a speclfled act, or giving authority and commission to have it done
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

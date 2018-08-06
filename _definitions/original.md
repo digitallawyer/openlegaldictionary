@@ -7,5 +7,6 @@ body: Primitive; first in order; bearing its own authorlly, and not deriving aut
   to documents, the original is the first copy or archetype; that from which another
   ln-strument is transcribed, copied, or imitated
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

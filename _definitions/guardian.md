@@ -9,5 +9,6 @@ body: A guardian is a person lawfully invested with the power, and char-ged with
   v. Cook, 4 Port. (Ala.) 392; Sparhawk v. Allen, 21 N. H. 27; Burger v. Frakes, 67
   Iowa, 460, 23 N. W, 746
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

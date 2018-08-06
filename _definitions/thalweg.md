@@ -8,5 +8,6 @@ body: Germ.. A term used in topography to designate a line representing the deep
   v. Illinois, 147 U. S. 1, 13 Sup. Ct 239, 37 L. Ed. 55; Keokuk & H. Bridge Co. v.
   People, 145 111. 596, 34 N. E. 482
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

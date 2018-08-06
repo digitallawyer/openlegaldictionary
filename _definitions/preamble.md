@@ -8,5 +8,6 @@ body: A clause at the beginning of a constitution or statute explanatory of the 
   County, 167 Pa. 632, 31 Atl. 862; Lloyd v. Urison, 2 N. J. Law, 224; Cover-dale
   v. Edwards, 155 Ind. 374, 58 N. E. 495
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

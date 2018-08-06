@@ -7,5 +7,6 @@ body: Definitive; terminating; completed ; last. In its use in jurisprudence, th
   620, 1 N. Y. Supp. 254; Garrison v. Dpugherty, 18 S. C. 488; Rondeau v. Beaumette,
   '4 Minn. 224 (Gil. 163); Blanding v. Sayles, 23 R. I. 226, 49 AU 992
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

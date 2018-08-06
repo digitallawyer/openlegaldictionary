@@ -8,5 +8,6 @@ body: Carefulness, precaution, attentiveness, and good judgment, as applied to a
   term, in the language of the law, is commonly associated with “care” and “diligence"
   and contrasted with “negligence.” See those ti-ties
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Summary jus-tice inflicted upon a marauder or felon witli-out a regular tr
   where raiders and cat-tle lifters were often summarily hung. Also written “Jeddart”
   or “Jedwood” justice
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

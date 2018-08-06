@@ -7,5 +7,6 @@ body: The act of one who voluntarily enters the military or naval service of the
   11 Sup. Ct. 57, 34 L. Ed. 644; Babbitt v. U. S., 16 Ct. Cl. 213; Erichsou v. Beach,
   40 Conn. 28G
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

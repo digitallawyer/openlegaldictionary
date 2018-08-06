@@ -7,5 +7,6 @@ body: Lat. (You have the body.) The name given to a variety of writs, (of which 
   a court or Judge. In common usage, aud whenever these words are used alone, they
   are understood to mean the habeas corpus ad subjiciendum, (see infra
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

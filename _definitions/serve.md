@@ -7,5 +7,6 @@ body: In Scotch practice. To render a verdict or decision in favor of a person c
   serve a claimant heir, when they find him to be heir, upon the evidence submitted
   to them. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

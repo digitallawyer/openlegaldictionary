@@ -13,5 +13,6 @@ body: In English law. A court for the trial of cases of treason and felony. The 
   empowers them to try every prisoner then in gaol for what-ever offense; so that,
   altogether, they pos-sess full criminal jurisdiction
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

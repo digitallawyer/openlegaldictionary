@@ -9,5 +9,6 @@ body: By common usage in Amer* ica, thls term, in such phrases as “colored per
   26 Fed. Cas. 829; Jones v. Com., 80 Va. 542; Heirn v. Bridault, 37 Miss. 222; State
   v. Cha vers, 50 N. C. 15; Johnson v. Norwich, 29 Conn. 407
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

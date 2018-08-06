@@ -9,5 +9,6 @@ body: A method or sys-tem of alleviating or curing certaiu forms of disease, par
   means addressed to the mental state of the patient, without (or sometimes in eon-junction
   with) the administration of drugs or other physlcal remedies
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Distinguished from “made." “A 'deed made’ may no doubt mean an ‘In
   these words, ‘made and done,’ apply to acts, as weil -as deeds.” Lord Brougham,
   4 Bell, App. Cas. 38
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

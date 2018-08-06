@@ -8,5 +8,6 @@ body: In the law of elections. The excess of the votes cast for one candl-date o
   than two competitors for the same office, the person who receives the greatest number
   of votes has a plurality, but he has not a majorlty unless he receives a greater
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: An urban way or thorough? fare; a road or public way in a city, town, or v
   re woolsey, 95 N. Y. 138; Debolt v. Carter, 31 Ind. 367; Theabold v. Railway Co.,
   66 Miss. 279, 6 South. 230, 4 L. R. A. 735, 14 Am. SL Rep. 564
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

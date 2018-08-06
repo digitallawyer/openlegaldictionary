@@ -9,5 +9,6 @@ body: In reference to judicial and quasi judicial proceedings, the “event" mea
   Benjamin v. Ver Nooy, 168 N. ¥. 578, 61 N. E. 971; Corn-mercial Union Assur. Co.
   v. Scammon, 35 111. App. 660
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

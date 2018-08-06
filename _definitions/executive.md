@@ -20,5 +20,6 @@ body: 'As distinguished from the'' legislative and judicial departments of gov-e
   Thorne v. San Francisco. 4 Cal. 146: People v. Salsbury, 134 Mich. 537, 96 N. W.
   939; Petterson v. State (Tex. Cr. App.) 58 S. W. 100'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

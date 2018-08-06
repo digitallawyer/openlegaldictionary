@@ -10,5 +10,6 @@ body: In the strict sense of the term, a “shareholder” is a person who has a
   were an or-dlnary shareholder. Lindl. Partn. 130. See Beal v. Essex Sav. Bank, 67
   Fed. 816, 15 C
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

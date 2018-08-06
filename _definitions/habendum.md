@@ -8,5 +8,6 @@ body: Lat. In conveyancing. Tiie clanse usually following the granting part of t
   v. U. S., 170 U. S. 1, 18 Sup. Ct. 531, 42 L. Ed. 927; Clapp v. Byrnes, 3 App. Dlv.
   284, 38 N. V. Supp. 1063; Milier v. Graham
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

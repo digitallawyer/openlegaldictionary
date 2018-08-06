@@ -7,5 +7,6 @@ body: Growing out of, or founded upon, misdoing or tort. This term is frequently
   with "ex contractu." In this sense it is of more rare occurrence in the common law,
   though found in Bracton, (fols. 99, 101, 102
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

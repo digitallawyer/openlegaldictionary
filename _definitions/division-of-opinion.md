@@ -8,5 +8,6 @@ body: In the prac-tice of appellate courts, this term denotes such a disagreemen
   into two classes, one of which may comprise a majority of the Judges ; as •when
   we speak of a decision having proceed-ed from a “divided court.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

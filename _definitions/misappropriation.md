@@ -10,5 +10,6 @@ body: This is not a technical term of law, hut it is sometimes applied to the mi
   64 Pac. 692, 89 Am. SL Rep. 153; Frey v. Torrey, 70 App, Div. 166> 75 N. ¥. Supp.
   40
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

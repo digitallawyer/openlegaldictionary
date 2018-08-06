@@ -8,5 +8,6 @@ body: A society of men. The Saxons ranked men Into three classes, and valued the
   and called “ttexhindmen the lowest at 200s., called “ttryhindmen” Thelr wlves were
   termed “hindus.” Brompt Leg. Alfred, c. 12
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

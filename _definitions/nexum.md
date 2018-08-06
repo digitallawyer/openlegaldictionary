@@ -10,5 +10,6 @@ body: Lat. In Roman law. In an-cient tlmes the neaeum seems to have been a speci
   means the obligation or bond between contracting parties. See Maine, Anc. Law, 305,
   et seq.; Hadl. Rom. Law, 247
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

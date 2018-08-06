@@ -8,5 +8,6 @@ body: In criminal pleading. A plea by the prisoner in bar of execution, al-legin
   whether he is guilty or innocent, for that has been already decided. 4 Bl. Comm.
   396
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

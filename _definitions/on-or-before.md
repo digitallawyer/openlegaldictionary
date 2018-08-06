@@ -8,5 +8,6 @@ body: These words, inserted in a stipulation to do an act or pay money, entitle 
   have attached if performance were made on the day. wall v. Simpson, 6 J. J. Marsh.
   (Ky.) 150. 22 Am. Dec. 72
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

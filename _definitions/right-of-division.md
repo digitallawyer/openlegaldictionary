@@ -7,5 +7,6 @@ body: In Scotch law. The right which each of several cautioners (sureties) has t
   to this right the other caution-ers must be solvent, and there mnst be no words
   in the bond to exclude it. 1 Bell. Comm. 347
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

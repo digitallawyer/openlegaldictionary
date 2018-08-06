@@ -8,5 +8,6 @@ body: The whole, in contradls-tinctlon to, a moiety or part only, when land is c
   entirety ot interest, but each is properly entitled to the whole of a distinct molety.
   2 Bl. Comm. 188
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: In practice. The pri-vate room or office of a judge; any place in which a 
   99 Cal. 511, 34 Pac. 109; Hoskins v. Baxter, 64 Minn. 226, 66 N. W. 969. The term
   is also applied, in England, to the prl-vate office of a barrister
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

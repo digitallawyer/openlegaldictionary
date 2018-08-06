@@ -8,5 +8,6 @@ body: A high court, formerly held in England by the steward and marshal of the k
   Crabb, Eng. Law, 185. It had also jurisdiction of actions of debt and covenant,
   where both the parties were of the household. 2 Reeve, Eng. Law, 235. 247
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

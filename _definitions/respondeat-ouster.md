@@ -8,5 +8,6 @@ body: Upon an is-sue in law arising upon a dilatory plea, the form of judgment f
   and the actlon proceeds. Steph. Pl. 115; 3 Bl. Comm. 303; Bauer v. Roth, 4 Rawle
   (Pa.) 9L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

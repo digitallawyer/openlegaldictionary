@@ -8,5 +8,6 @@ body: In the English courts, barristers at law have been divided lnto two classe
   are thence frequently termed barristera of the “outer bar,” or “utter bar.” in contradistinction
   to the former class. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

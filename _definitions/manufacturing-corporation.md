@@ -8,5 +8,6 @@ body: A corporation engaged In the production of some article, thing, or object,
   condition. Peo-ple v. Knlckerbocker Ice Co., 99 N. Y. 181, 1 N. E. 669. The term
   does not lnclude a mining corporation. Byers v. Franklin Coal Co., 106 Mass. 135.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

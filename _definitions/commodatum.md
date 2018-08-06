@@ -11,5 +11,6 @@ body: 'In the civil law. He who lends to another a thing for a definite time, to
   South. 482, 17 L. R. A. (N. S.) 138, 100 Am. St Rep. 633; world’s Columbian Exposition
   Co. v. Repub-lic of France, 96 Fed. 693, 38 0. C. A. 483'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

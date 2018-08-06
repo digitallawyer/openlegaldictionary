@@ -7,5 +7,6 @@ body: In mercantile law. A phrase borrowed from the Italians, equivalent to our 
   a factor, when he sells goods on credit, for an additional commission, (called a
   “del credere commission,") guaran-tles the solvency of the purchaser and his
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

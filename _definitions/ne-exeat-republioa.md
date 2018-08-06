@@ -7,5 +7,6 @@ body: Lat. In American practice. A writ similar to that of ne exeat regno, (q. v
   defendant is about to leave the state. See Dean v. Smith, 23 wis. 483, 99 Am. Dec.
   198; Adams v. whltcomb, 46 Vt. 712; Cable v. Alvord, 27 ohio St. 604
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

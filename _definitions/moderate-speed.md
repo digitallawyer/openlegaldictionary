@@ -8,5 +8,6 @@ body: In admiralty law. As applied to a steam-vessel, “such speed only is mode
   vessel can be seen.” The City of New York (C. C.) 35 Fed. 609; The Alliance (D.
   C.) 39 Fed. 480; The State of Alabama (D. C.) 17 Fed. 952
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

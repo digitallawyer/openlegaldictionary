@@ -6,5 +6,6 @@ body: The details of a claim, or the separate Items of an account, when these ar
   stated in an orderly form, for the information of a defendant, the statement is
   called a “bl|l of particulars,” (q. v
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

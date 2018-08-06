@@ -8,5 +8,6 @@ body: The difference between “knowledge” and “belief’ is nothing more th
   firm belief. The difference is ordl-narily merely in the degree, to be judged of
   by the court, when addressed to the court; by the Jury, wheu addressed to the
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

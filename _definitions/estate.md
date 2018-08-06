@@ -8,5 +8,6 @@ body: ER L’ESTATE. A species of release which inures by way of enlarging an es
   remainder releases all his right to the particular tenant and hls heirs, this gives
   him the estate in fee. 1 Steph. Comm. 518
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

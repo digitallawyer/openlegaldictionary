@@ -8,5 +8,6 @@ body: A deficiency in the weight or quantity of merchandise by reason of the wei
   makes to the buyer, on account of the weight df such box, cask, etc. Napier v. Barney,
   5 Blatchf. 191, 17 Fed. Cas. 1149. See Tbet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

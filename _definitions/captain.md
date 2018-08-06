@@ -12,5 +12,6 @@ body: A head-man; commander; commanding officer. The captain of a war-vessel is 
   of soldiers, one of the divisions of a regiment. The term is also used to designate
   the com-mander of a squad of municipal poljce
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

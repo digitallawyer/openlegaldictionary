@@ -10,5 +10,6 @@ body: A contract whereby, for a stipulated consideration, one party undertakes t
   and the subject, right, or interest to be protected, the “insurable interest" 1
   Phil. Ins. §§ 1-5
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

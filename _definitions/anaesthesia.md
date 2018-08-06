@@ -8,5 +8,6 @@ body: In medical jurisprudence. (1) Loss of sensatlon, or insensibility to paln,
   insensibility to pain, existing In various parts of the hotly as a result of certain
   diseases of the nervous system
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

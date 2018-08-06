@@ -7,5 +7,6 @@ body: In old Engllsh law. No-blemen who lived on the marshes of wales or Scotlan
   kings; which were abollshed by the statute 27 Hen. VIIL c. 26. Called also “lords
   marchers.” Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

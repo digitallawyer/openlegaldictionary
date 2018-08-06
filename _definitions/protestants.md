@@ -9,5 +9,6 @@ body: Those who adhered to the doctrine of Luther; so called because, in 1529, t
   Rome. Enc. Lond. See Hale v. Everett, 53 N. H. 9, 16 Am. Rep. 82; Appeal of Tappan,
   52 Conn. 413
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

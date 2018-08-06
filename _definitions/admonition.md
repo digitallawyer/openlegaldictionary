@@ -7,5 +7,6 @@ body: In ecclesiastical law, this is the lightest form of punishment, con-slstln
   latter does not obey the admonition, he may be more severely punished, as by suspension,
   etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In old English law. A mixing together; a medley or mdle'e; an af-fray or s
   is preserved in the term “chance-medley.” An intermeddling, without violence, in
   any matter of business. Spelman
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

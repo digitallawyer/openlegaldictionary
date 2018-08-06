@@ -6,5 +6,6 @@ body: Lat in the civil law. A separation or division Into parts; also an alienat
   or sale. Sometimes applled to the act of a guardian In appropriating the prop-erty
   of his ward
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

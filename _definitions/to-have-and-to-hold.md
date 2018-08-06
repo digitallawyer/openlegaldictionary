@@ -7,5 +7,6 @@ body: The words in a conveyance which show the estate in-tended to be conveyed. 
   and to hold the sald [land) unto and to the use of the said A., his heirs and assigns
   forever.” Wll-Hams. Real Prop. 198
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Iu iuternational lnw. A term used to designate either of two na-tions wbic
   TT. S. v. The Ambrose Light (D. C.) 25 Fed. 412; Johnson v. Jones, 44 111. 151,
   92 Am. Dec. 159
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

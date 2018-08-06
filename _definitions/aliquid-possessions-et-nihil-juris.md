@@ -8,5 +8,6 @@ body: Somewhat of possession, and noth-lng of right, (hut no right) A phrase use
   granted for a term of years, where nothing could be demanded but the usufruct. Bract
   fols. 39a. 160a
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: The state or condition of a peon as above defined; a condition of en* forc
   Peouage Cases (D. C.) 123 Fed. 671; In re Lewis (C. C.) 114 Fed. 963; U. S. v. McClellan
   (D. C.) 127 Fed. 971; Rev. St. U. S. S 5526 (U. S. Comp. St. 1901, p. 3715
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

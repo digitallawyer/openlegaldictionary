@@ -10,5 +10,6 @@ body: Free from the character of force, violence, or trespass; as, a “peace-ab
   v. Ketcham, 55 N. J. Eq. 168, 35 Atl. 900; Bowers v. Cherokee Bob, 45 Cal. 504;
   Gltten v. Lowry, 15 Ga. 336
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

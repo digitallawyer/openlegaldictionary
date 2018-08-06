@@ -10,5 +10,6 @@ body: An agreement, made upon a sufficient consideration, between an insolvent o
   v. Krueger, 201 Pa. 348, 50 Atl. 931; In re Merriman’s Estate, 17 Fed. Cas. 131;
   Chapman v. Mfg. Co., 77 Me. 210; In re Ad-ler (D. Q) 103 Fed. 444
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

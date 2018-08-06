@@ -6,5 +6,6 @@ body: The permanent official repre-sentative of . the pope at a foreign court or
   of government, webster. They are called “ordinary" or “extraordinary," accord-in^
   as they are sent for general purposes or on a special mission
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

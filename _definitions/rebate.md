@@ -9,5 +9,6 @@ body: Discount; reducing the Interest of money in consideration of prompt paymen
   taken ont in advance of payment, but hand-ed back to the payer after he has paid
   tbe fnll stipulated sum
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: In Spanish law. The condition of a prisoner who is not per-mitted to see o
   thcrefore, as the danger of hls doing so has ceased, the interdiction ceases likewise.
   Escrlche
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

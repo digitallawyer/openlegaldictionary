@@ -7,5 +7,6 @@ body: The return in money from one’s business, labor, or capital invested; gai
   Hun (N. Y.) 177; in re Slocum, 169 N. I. 153, 62 N. fl. 130; waring v. Savannah,
   60 Ga. 99
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: In French law. An exception or plea founded on law, which, without enterin
   satisfaction, or any other cause which has destroyed the right of action which once
   subsisted. Poth. Proc. Civile, pt 1, c. 2, $ 2, art. 2
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

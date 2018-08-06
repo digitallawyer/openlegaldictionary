@@ -6,5 +6,6 @@ body: "“For good and 111.” The Latin form of the law French phrase “De bie
   mal.” In ancient criminal pleading, this was the expression with which the prisoner
   put himself upon a jury, indicating his absolute submission to their verdict"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

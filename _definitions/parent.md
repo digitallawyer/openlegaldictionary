@@ -7,5 +7,6 @@ body: The lawful father or the mother of a person. Appeal of Gibson, 154 Mass. 3
   immediate progenitors of the per-son, while the latter embraces his more remote
   relatives in the ascending line
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

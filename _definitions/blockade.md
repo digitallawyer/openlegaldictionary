@@ -10,5 +10,6 @@ body: ln international law. A marine investment or beleaguering of a town or har
   only, it is no violation of belligerent rights for tbe neutral to carry on commerce
   wlth it by inland communications. 1 Kent, Comm. 147
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

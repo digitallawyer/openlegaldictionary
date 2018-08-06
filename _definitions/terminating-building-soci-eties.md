@@ -7,5 +7,6 @@ body: Socleties, in England, where the members commence thelr monthly contrlbu-t
   a glven amount for each member, by the advance of the capltal of the society to
   such members as requlred it, and the payment of
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

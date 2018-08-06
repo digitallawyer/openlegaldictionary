@@ -7,5 +7,6 @@ body: In medical jurisprudence. A form of imperfect or arrested mental developme
   endemic in Switzerland and some other parts of Europe, but the term is applied to
   simllar states occurring else-where
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

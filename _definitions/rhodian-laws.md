@@ -12,5 +12,6 @@ body: This, the earliest code or collection of maritime laws, was formulated by 
   spurious. See Schomberg, Mar. Laws Rhodes, 37, 38; 3 Kent, Comm. 3, 4; Azuni, Mar.
   Law, 265-296
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

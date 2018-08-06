@@ -9,5 +9,6 @@ body: The title of the sovereign ruler of an empire. This designation was adopte
   as lately in Brazil, and some composite states, as Germany and Austria-Hungary,
   and by the king of England as “Emperor of India
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

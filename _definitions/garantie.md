@@ -7,5 +7,6 @@ body: 'In French law. This word corresponds to warranty or covenants for title i
   possesslon of the thing sold; and (2) absence of undiscloscd defects, (difauts caches.)
   Brown'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

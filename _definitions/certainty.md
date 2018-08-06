@@ -8,5 +8,6 @@ body: In pleading. Distinct-ness; dearness of statement; particularity. Such pre
   well as by the court and jury. State v. Hayward, 83 Mo. 300; State v. Burke, 151
   Mo. 143, 52 S. W. 226; David v. David, 66 Ala. 148
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

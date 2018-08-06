@@ -8,5 +8,6 @@ body: 1. The difference between “fall” and “refuse” is that the latter i
   W. 184; Tele-graph Co. v. Irvin, 27 Ind. App. 62, 59 N. E. 327; Persons v. Hight,
   4 Ga. 497
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

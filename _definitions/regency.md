@@ -6,5 +6,6 @@ body: Rule; government; king-ship. The man or body of men intrusted with the vic
   government of a kingdom during the minority, absence, insanity, or other disability
   of the king
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

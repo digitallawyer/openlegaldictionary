@@ -9,5 +9,6 @@ body: 'RE. As applied to bills of exchange,-this word is ambiguous.. It is commo
   at. maturity, it is iii» effect paid, and all the. remedies on fit extion guished.
   Byles, .Bills, 215, See Elsam w*. Denny, 15 C. B. 94. ,i: . ...... y:U'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

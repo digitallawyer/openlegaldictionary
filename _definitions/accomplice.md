@@ -8,5 +8,6 @@ body: In criminal law. A person who knowingly, voluntarily, and with common inte
   Urnble, 115 Mo. 452. 22 S. AV. 378 ; Car-roll v. State, 45 Ark. 539; State v. Light,
   IT 6r. 358, 21 Pac. 132
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

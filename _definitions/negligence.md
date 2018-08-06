@@ -9,5 +9,6 @@ body: The omission to do something which a reasonable man, guided by those consi
   drcumstauces. Nitro-Glycerin Case, 15 wall. 536, 21 L. Ed. 206; Blythe v. Birmingham
   waterworks Co., 11 Exch. 784
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: The maklng of one thlng In the similitude or likeness of another; as, coun
   1903, t 308; wagner v. Daly, 67 Hun, 477, 22 N. Y. Supp. 493; State v. Harris, 27
   N. C. 294
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

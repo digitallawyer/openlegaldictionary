@@ -9,5 +9,6 @@ body: The act of renewlng or reviving. The substitution of a new grant, engageme
   Pa. 392; Kedey v. Petty. 153 Ind. 179, 54 N. E. 798; Pltts v. Hall, 19 Fed. Cas.
   758
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

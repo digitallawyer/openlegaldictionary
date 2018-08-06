@@ -6,5 +6,6 @@ body: D’S LAW. The law by whlch was effected the ejection of married priests, 
   the introduction of monks into churches, by oswald, bishop of worcester, about A.
   D. 964. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A mercantile instrument in writing, by which one party, in consideration o
   a payment in compensation, whenever the event shall happen by which the loss is
   to accrue. 2 Steph. Comm. 172
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

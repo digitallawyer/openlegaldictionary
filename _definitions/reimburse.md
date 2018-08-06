@@ -6,5 +6,6 @@ body: The primary, meaning of this word is “to pay back." Philadelphia Trust, 
   Co. v. Audenreid, 83 Pa. 264. It means to make return or restoration of an equivalent
   for something paid, expended, or lost; to indemnify, or make whole
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

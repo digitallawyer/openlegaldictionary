@@ -7,5 +7,6 @@ body: In logic. That which is said concerning the subject in a logical prop-osit
   affirmed concerning the law, (the subject,) is the predicate or thing predicated,
   wharton; Bourland v. Hildreth, 26 Cal. 232
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

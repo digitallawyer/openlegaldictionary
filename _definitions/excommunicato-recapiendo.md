@@ -7,5 +7,6 @@ body: A writ commanding that persons excommu-nlcated, who for their obstinacy ha
   to obey the authority of the church, should be sought after, retaken, and Imprisoned
   again. Reg., orig. 67.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

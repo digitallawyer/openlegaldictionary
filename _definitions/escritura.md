@@ -7,5 +7,6 @@ body: In Spanish law. A writ-ten instrument Every deed that is made by the hand 
   the seal of the king or other authorized persons, white, New Recop. b. 3, tit. 7,
   c. 5
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: L. Lat An officer who had charge of the libelli or petitions address-ed to
   sovereign. Calvin. A name some-times given to a chancellor, (eoneellariug,) in the
   early history of that office. Spelman, “Caneellariug
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

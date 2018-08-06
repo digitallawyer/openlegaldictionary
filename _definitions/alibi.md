@@ -10,5 +10,6 @@ body: Lat. in criminal law. Elsewhere; in another place. A term used to ex-press
   482, 20 Pac. 275; State v. Powers, 72 Vt. 168, 47 Atl. 830; Peyton v. State, 54
   Neb. 188, 74 N. W. 597
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

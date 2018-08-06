@@ -11,5 +11,6 @@ body: To inveigle, entice, tempt, or lure; as, to decoy a person within the ju-r
   136 Ind. 117, 35 N. E. 1023; John v. State, 6 wyo. 203, 44 Pac. 51; Campbell v.
   Hudson, 106 Mich. 523, 64 N. W. 483
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

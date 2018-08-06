@@ -8,5 +8,6 @@ body: In practice. A certain number of men, selected according to law, and sworn
   grand jury, petit jury, common jury, special jury, coroner’s jury, sheriff’s jury,
   (q. v
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

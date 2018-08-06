@@ -9,5 +9,6 @@ body: A religious order of knight-hood, instituted about the year 1119, and so c
   The order was suppressed A. D. 1307, and their substance given partly to the knights
   of SL John of Jerusalem, and partly to other religious orders. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

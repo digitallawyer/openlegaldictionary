@@ -7,5 +7,6 @@ body: In Scotch law. The revival of an actiou. A process by which an action that
   said to have “fallen asleep," is wak-ened, or put in motion again. 1 Forb. Inst,
   pt. 4, p. 170; Ersk. Prin. 4, 1, 33
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

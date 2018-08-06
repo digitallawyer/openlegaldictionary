@@ -6,5 +6,6 @@ body: L. Fr. Always ready. The emphatic words of the old plea of tender; the def
   alleging that he has always been ready, and still is ready, to dis-charge the debt
   3 Bl. Comm. 303; 2 Salk. 622
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A sovereign act of pardon and oblivion for past acts, granted by a gov-ern
   generally political offenses,—treason, sedition, rebellion,;—and often conditioned
   upon their return to obedience and duty within a prescribed time
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

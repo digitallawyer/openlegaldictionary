@@ -10,5 +10,6 @@ body: Pertaining to Jesus Christ or the religion founded by him; professing Chri
   religion. Hale v. Everett, 53 N. H. 53, 16 Am. Rep. 82; State v. Buswell, 40 Neb.
   158, 58 N. W. 728, 24 L. R. A. 68
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

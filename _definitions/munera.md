@@ -8,5 +8,6 @@ body: In the early ages of the feud-al law, this was the name given to the grant
   and then hereditary, and were called first “benefices.” and then “feuds.” See wright,
   Ten. 19
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: A term sometimes applied to a will which authorizes the executor to settle
   distribute the estate without the intervention of the court and without giving bond.
   In re Macdonald’s Estate, 29 wash. 422, 69 Pac. 111L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

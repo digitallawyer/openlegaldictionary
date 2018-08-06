@@ -8,5 +8,6 @@ body: Iu conveyancing, the word “over" is used to deuote a contingent limitati
   that if the devisee fails to comply with the con-ditlon the estate is to go to some
   one else. This is a limitation or gift over. wats. Comp. Eq. 1110; Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

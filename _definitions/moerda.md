@@ -4,5 +4,6 @@ letter: M
 permalink: "/definitions/moerda.html"
 body: The secret killing of another; murder. 4 BL Comm. 194
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

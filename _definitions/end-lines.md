@@ -11,5 +11,6 @@ body: In mining law, the end lines of a claim, as platted or laid down on the gr
   v. Champion Min. Co. (C. C.) 63 Fed. 549; Del Monte Min. & Mill. Co. v. Last Chance
   Min. Co., 171 U. S. 55, 18 Sup. Ct. 895, 43 L. Ed. 72
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

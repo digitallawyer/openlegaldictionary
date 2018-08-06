@@ -7,5 +7,6 @@ body: The cost of an article purchased for exportation is the prlce pald, with a
   C. C. 493, Fed. Cas. No. 5,554. Cost prlce is that ac-tually paid for goods. Buck
   v. Burk, 18 N. Y. 337
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

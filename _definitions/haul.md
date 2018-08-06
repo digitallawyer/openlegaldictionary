@@ -7,5 +7,6 @@ body: The use of thls word, instead of the statutory word “carry,” in an ind
   personalty, will not render* the indlctment bad, the words being in one sense equiva-lent.
   Spittorff v. Stnte, 108 Ind. 171, 8 N. E. 911
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

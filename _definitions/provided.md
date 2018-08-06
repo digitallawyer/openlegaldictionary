@@ -11,5 +11,6 @@ body: The word used in introducing a proviso (which see.) ordinarily it sig nifl
   Colt v. Hubbard, 83 Conn. 281; woodruff v. woodruff, 44 N. J. Eq. 349, 16 Atl. 4,
   1 L. R. A. 380
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

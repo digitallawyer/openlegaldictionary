@@ -7,5 +7,6 @@ body: Tbe followers of Erastus. The sect obtained much influence in England, par
   and morality should be pun-lshed by the civil power, and not by the cen-sures of
   the church or by excommunication, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

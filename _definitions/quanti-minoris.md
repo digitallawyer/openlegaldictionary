@@ -6,5 +6,6 @@ body: Lat. The name of an action in the civil law, (and in Louisiana,) brought b
   the purchaser of an article, for a reduction of the agreed price on account of defects
   in the thing which diminish its value
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A term used in appraising land values and particularly in emlnent domain p
   contiguous, whlch enables the owner to utilize them as large blocks of land. See
   In re Armory Board, 73 App. Dlv. 152, 76
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

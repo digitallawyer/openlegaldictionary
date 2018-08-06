@@ -8,5 +8,6 @@ body: These . words coutrast the relative position of two arsons. with a tacit r
   or as against a stranger; reference being made by this form of words to the rights
   of the bailor, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Fr. The country; the neighborhood. A trial per pat's signifies a trial by 
   of fact are triable by the country; i. c., by Jury; estoppels in pais are estoppels
   by conduct, as distinguished frpm estoppels by deed or by record
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

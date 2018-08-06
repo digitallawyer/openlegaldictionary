@@ -8,5 +8,6 @@ body: An officer elected, in England, by the owners of a regulated pas-‘ ture 
   the pasture subject to the instructions of the owners. (General Iudosure Act, 1845,
   | 118.) Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

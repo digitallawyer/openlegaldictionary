@@ -9,5 +9,6 @@ body: ON. Commencement; opening; initiation. The beginning .of. the operation of
   Marvin v. McCul-lum, 20 Johns. (N. Y.) 288; State v- Bollero, 112 La. 850, 36 South.
   754
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

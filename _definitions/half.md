@@ -8,5 +8,6 @@ body: A moiety; one of two equal parts of anything susceptible of division. Pren
   Mlch. 272. Used in law in various compound terms, in substantially the same sense,
   as follows
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

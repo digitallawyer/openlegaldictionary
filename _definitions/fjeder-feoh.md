@@ -7,5 +7,6 @@ body: In old English law. The portlon brought by a wife to her hus-band, and whi
   to her second marriage; i. e., it re-verted to her family in case she returned to
   them, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: levancy, in an answer, consists in state-ments which are not material to t
   398; Carpenter v. BeU 1 Rob. (N. Y.) 715; Smith v. Smith, 50 8. C. 54, 27 S. B.
   545
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

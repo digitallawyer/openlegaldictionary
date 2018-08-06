@@ -7,5 +7,6 @@ body: A criminal complaint charged that the defendant did “revel, quarrel, com
   has a definlte meaning; i. e., “to he-have in a noisy, boisterous manner, like a
   bacchanal.” In re Began, 12 R. I. 309
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

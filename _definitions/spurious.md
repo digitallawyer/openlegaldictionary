@@ -11,5 +11,6 @@ body: Not proceeding from the •true source; not genuine; counterfeited. “A s
   therefore, may be both counterfeit and forged, or both counterfeit end spurious,
   but it cannot be both forged and spurious." Kirby v. State, 1 ohlo St 187
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

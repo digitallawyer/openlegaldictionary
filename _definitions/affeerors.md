@@ -7,5 +7,6 @@ body: Persons who, in court-leets, upon oath, settle and moderate tbe fines and 
   no express penalty appointed by statute. They are also appointed to moder-ate fines,
   etc., in coarts-baron. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

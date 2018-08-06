@@ -7,5 +7,6 @@ body: Probably a corruption of Laganuin maris, lagan being a right, in the middl
   became the proi>erty of the king, or tlie lord on whose shores they were strand-ed.
   Spelmau; Jacob; Du Cange
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

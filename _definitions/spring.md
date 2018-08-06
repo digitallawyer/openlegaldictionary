@@ -9,5 +9,6 @@ body: A fountain of water; an Issue of water from the earth, or the basin of wa-
   15 N. E. 433, 2 Am. SL Rep. 443; Proprietors of Mills v. Braintree water Supply
   Co., 149 Mass. 478, 21 N. E. 761, 4 L. R. A. 272
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

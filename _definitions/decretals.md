@@ -7,5 +7,6 @@ body: In ecclesiastical law. Letters of the pope, written at the suit or Instanc
   and possessing the force of law. The decretals form the second part of the body
   of can-on law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

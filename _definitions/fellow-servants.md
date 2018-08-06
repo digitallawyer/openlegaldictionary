@@ -14,5 +14,6 @@ body: "“The decided weight of authority is to the effect that all who serve th
   Miss. 264, 4 South. 59, 7 Am; St. Rep. 653: Daniels v. Union Pac. Ry. Co.. 6 Utah,
   357, 23 Pac. 762; Weeks v. Scharer, 129 Fed. 335, 64 C. C. A, 11"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

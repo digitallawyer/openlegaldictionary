@@ -7,5 +7,6 @@ body: An nncient code of laws by wbich the Ripuaril, a tribe of Franks who occup
   first reduced to writing by The-odorlc, king of Austrasia, and completed by Dagobert
   Spelman
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

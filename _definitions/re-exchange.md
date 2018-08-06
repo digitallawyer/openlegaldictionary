@@ -7,5 +7,6 @@ body: The damages or expenses caused by the dishonor and protest of a bill of ex
   it was drawn or Indorsed, and its being there taken up. Bangor Bank V. Hook, 5 Me.
   175
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

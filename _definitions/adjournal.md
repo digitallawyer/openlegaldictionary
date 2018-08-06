@@ -7,5 +7,6 @@ body: A term applied in Scotch law and practlce to the records of the criminal c
   of adjournal," few of which are now extant. An “act of adjournal” is an order of
   the court of justiciary entered on its min-utes
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

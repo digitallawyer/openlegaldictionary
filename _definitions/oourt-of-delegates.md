@@ -9,5 +9,6 @@ body: An English tribunal composed of delegates appointed by royal commission, a
   the court of delegates, when that court had apparently been led into material error.
   Brown; 3 Bl. Comm. 66
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

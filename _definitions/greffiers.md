@@ -7,5 +7,6 @@ body: In French law. Regis-trars, or cierks of the courts. They are officials at
   out the judgments, orders, and other decisions given by the tribunals, and deliver
   copies thereof to applicants
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

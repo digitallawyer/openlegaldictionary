@@ -11,5 +11,6 @@ body: A process in chancery by which all further right existing In a mort-gagor 
   Nat. Bank, 58 Conn. 257. 18 Atl. 1030; willlams v. wilson, 42 or. 299, 70 Pac. 1031,
   95 Am. St. Rep 745
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

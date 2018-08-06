@@ -8,5 +8,6 @@ body: The civU law of Paplrius. The title of the earliest collec-tion of Roman l
   of this collection now re-maln, and the authenticity of these has been doubted.
   Mackeld. Rom. Law, § 21
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

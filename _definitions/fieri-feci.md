@@ -7,5 +7,6 @@ body: "(I have caused to he made.) In practice. The name given to the return mad
   the whole, or a part, of the sum directed to be levied. 2 Tidd, Pr. 1018. The return,
   os actually made, is expressed by the word “Satisfied” indorsed on the writ"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

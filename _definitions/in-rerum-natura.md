@@ -7,5 +7,6 @@ body: In the nature of things; in the realm of actuality; in exlst-ence. In a di
   averring that the person named is fictitious. 3 Bl. Comm. 301. In the clvll law
   the phrase is applied to things. Inst 2, 20, 7
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

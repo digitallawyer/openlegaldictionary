@@ -6,5 +6,6 @@ body: A laundry or place to wash in; a place in the porch or entrance of cathedr
   churches, where the priest nnd other officiating ministers were obliged to wash
   their hands before they proceeded to divine service
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

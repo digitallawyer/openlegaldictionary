@@ -9,5 +9,6 @@ body: second class when the performance of one condition is not obligatory until
   sides and each is precedent to the oth-er. Huggins v. Daley, 99 Fed. 609, 40 C.
   C. A. 12, 48 L. R. A. 320
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

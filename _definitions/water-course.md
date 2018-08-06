@@ -12,5 +12,6 @@ body: A natural stream of water fed from permanent or periodical nat-ural source
   393; Barkley v. wilcox, 86 N. Y. 140, 40 Am. Rep. 519; Simmons v. wtnters, 21 or.
   35, 27 Pac. 7, 28 Am. St Rep. 727
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

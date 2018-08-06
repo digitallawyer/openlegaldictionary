@@ -9,5 +9,6 @@ body: The main or open sea; the high sea; that portion of the sea which does not
   Bed-ford Bridge, 27 Fed. Cas. 120; De Lovio v. Boit, 7 Fed. Cas. 428; U. S. v. Morel,
   26 Fed. Gas. 1312
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

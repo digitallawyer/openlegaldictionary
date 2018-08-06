@@ -7,5 +7,6 @@ body: The peculiar science ot system of rules and principles, established in the
   are framed, with a view to preserve technical propriety and to produce a proper
   issue
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

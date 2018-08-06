@@ -8,5 +8,6 @@ body: A contract by which one person, usually a minor, called the “apprentice,
   the master in such art or trade, and (commonly) of receiving his support nnd maintenance
   from the master duriug such tenn
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In old English law. The offense of buying or getting into one’s hands at
   thereof, at a higher price. The offend-er was termed a “regrator3 Inst. 195. See
   Forsyth Mfg. Co. v. Castlen, 112 Ga. 190
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

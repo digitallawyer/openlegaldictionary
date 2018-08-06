@@ -8,5 +8,6 @@ body: The title of a work written-by St. Germain in the reign of Henry VIIL in w
   been considered a book of merit and authority. 1 Kent, Comm. 504; Crabb, Eng. Law,
   482
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

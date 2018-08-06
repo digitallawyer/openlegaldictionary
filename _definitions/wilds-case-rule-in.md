@@ -7,5 +7,6 @@ body: A devise to B. and his children or issue, B. having no Issue at the time o
   hls children take joint estates for life. 6 Coke, 16b; Tudor, Lead. Cas. Real Prop.
   542, 58L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

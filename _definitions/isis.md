@@ -7,5 +7,6 @@ body: est jns enndl, ambnlandi bominis | non etiam Jnmentum agendi vol vobien-ln
   a beast of burden or a carriage. Co. Litt 66a; Inst. 2, 3, pr.; Mackeld. Rom. Law,
   1818
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In Enclisb law. A criminal court held before two or more justlces of the p
   (one of whom must be of the quorum,) in every county, once in every quarter of a
   year. 4 BL Comm. 271; 4 Steph. Comm. 335
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

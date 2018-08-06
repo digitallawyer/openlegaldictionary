@@ -7,5 +7,6 @@ body: "(Lat He has closed his last day,—died.) A writ which formerly lay on th
   them into the king’s hands. It was directed to the king’s ee-cheators. Fitzh. Nat.
   Brev. 251, K; 2 Reeve, Eng. Law, 327"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

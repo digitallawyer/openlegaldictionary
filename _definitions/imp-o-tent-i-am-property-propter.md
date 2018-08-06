@@ -8,5 +8,6 @@ body: A qualified property, which may subsist In animals ferae natura on account
   there, such person has a qualified property in them till they can fly or run away,
   and then snch property expires. 2 Steph. Comm. (7th Ed.)
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

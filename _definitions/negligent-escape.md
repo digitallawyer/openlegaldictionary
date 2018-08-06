@@ -7,5 +7,6 @@ body: An escape from confinement effected by the prisoner without the knowledge 
   by the latter’s negligence, or by hls omission of such care and vigilance as he
   was legally bound to exercise in the safe-keeping of the prisoner
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: 1. A beuch or seat; the bench or tribunal occupied by the judges; the seat
   of a court. A “sitting in bank” is a meeting of ail the judges of a court, usually
   for the
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: 1. The rigbt of retainer- is the right which the executor or administrator
   degree^ 3 Steph. Comm. 263. Miller v. Irby, 63 Ala, 483; Taylor v. Deblois, 23 Fed.
   Cas. 765
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

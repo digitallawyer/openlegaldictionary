@@ -8,5 +8,6 @@ body: A surveying officer under the customs, excise, and internal revenue laws, 
   are also private gaugers In large sea-port towns, who are licensed by government
   to perform the same duties. Rapal. & L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

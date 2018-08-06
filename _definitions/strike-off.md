@@ -8,5 +8,6 @@ body: In common parlance, and in the language of the auction-room, prop-erty is 
   is entitled to the property on paying the amount of his hid, according to the terms
   of the sale. Sherwood v. Reade, 7 Hill (N. Y.) 439
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

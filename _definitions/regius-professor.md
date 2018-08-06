@@ -6,5 +6,6 @@ body: A royal professor or reader of lectures founded in the English universitie
   by the king. Henry VIII. founded in each of the universities five professorships,
   viz., of divinity, Greek, Hebrew, law, and physic. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: FRONTAGER. in Eng-lish law a frontager is a person owning or occupying lan
   local authority, in proportion to the front-age of tlieir respective tenements.
   Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

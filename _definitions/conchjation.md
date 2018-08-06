@@ -7,5 +7,6 @@ body: In French law. The formality to which intending litigants are subjected in
   reconcile them. Should he not succeed, the case proceeds. In criminal and commercial
   cases, the preliminary of condli-ation does not take place Arg. Fr. Merc. Law, 552
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A series of resolutions drawn up by Jefferson, and adopted by the legislat
   their illegality, announc-ing the strict constructionist theory of the federal government,
   and declaring “nulllfi-cation" to be “the rightful remedy
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

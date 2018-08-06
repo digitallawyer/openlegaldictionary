@@ -7,5 +7,6 @@ body: In Scotch law. A deed executed by the credltors of a bankrupt or insolvent
   bind themselves to concur In the plans proposed for extricating his afTalrs. Bell,
   Diet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

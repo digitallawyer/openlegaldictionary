@@ -8,5 +8,6 @@ body: Precipltins are formations in the blood of an animal induced by repeated i
   is mixed with that of any animal of the second species (or a closely related species)
   and the mixture kept
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

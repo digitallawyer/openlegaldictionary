@@ -9,5 +9,6 @@ body: Such goods and chat-tels as, contrary to the nature of chattels, shall go 
   thlngs as cannot be taken away wlthout damaging or dismembering the freehold; such
   as deer in a park, doves in a cote, deeds and charters, etc. 2 Bl. Comm. 427
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

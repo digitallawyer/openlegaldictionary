@@ -6,5 +6,6 @@ body: He did not take. The gen-eral Jssue in replevin, where the action is for t
   wrongful taking of the property; put-ting in Issue not only the taking, but the
   place in which the taking is stated to have been made. Steph. Pl. 157, 167
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

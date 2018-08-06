@@ -9,5 +9,6 @@ body: Two English inns of court, thus called because anciently the dwelling plac
   was also a part of the house of the Templars* and called the “outer Temple,” because
   situated without Temple Bar. Euc. Loud
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

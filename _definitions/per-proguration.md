@@ -8,5 +8,6 @@ body: By proxy; by one acting as an agent with special powers; as under a letter
   to “per proc.,” or “p. p.,” and is more used in the civil law and in England than
   in American law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

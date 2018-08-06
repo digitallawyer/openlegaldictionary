@@ -6,5 +6,6 @@ body: In old Eng-lish law. Ejectment of ward. Thls phrase, which is the Latin eq
   for the French "ejectment de garde” was the title of a writ which lay for a guardian
   when turned out of any land of his ward during the minority of the latter. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

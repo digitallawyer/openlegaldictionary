@@ -7,5 +7,6 @@ body: In Roman law. Contestation of sult; the framing an Issue; joinder in issue
   when they led to a judicial investigation, and by which the neigh-bors whom the
   parties brought with them were called to testify. Mackeld. Rom. Law, I 219
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

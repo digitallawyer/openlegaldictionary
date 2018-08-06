@@ -8,5 +8,6 @@ body: As designating a commodity or a subject of ownership, this term has the sa
   or an aggregate of such bodies of water, as in the phrases “foreign waters,” “waters
   of the United States," and the like
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

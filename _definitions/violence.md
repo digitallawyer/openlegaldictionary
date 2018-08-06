@@ -6,5 +6,6 @@ body: The term “violence" is synonymous with “physical force,” and the two
   lnterchangeably, in relation to assaults, by elementary writers on criminal law.
   State v. wells, 31 Conn. 212
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

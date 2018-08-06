@@ -8,5 +8,6 @@ body: An advocate of barrls-ter. A member of the legal profession whose special 
   or the argument of causes, or presentation of motions, or any other legal business
   that takes him Into the presence of the court
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

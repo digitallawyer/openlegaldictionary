@@ -9,5 +9,6 @@ body: In criminal law. A criminal action; a proceeding instituted and carried on
   25 L. Ed. 648; Schulte v. Keokuk County, 74 Iowa, 292, 37 N. W. 376; Sigsbee v.
   State, 43 Fla. 524, 30 South. 816
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

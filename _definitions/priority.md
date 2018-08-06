@@ -6,5 +6,6 @@ body: A legal preference or precedence. when two persons have similar rights in 
   of the same subject-matter, but one is entitled to exercise his right to the exclusion
   of the other, he is said to have pri-ority
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

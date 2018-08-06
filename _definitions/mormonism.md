@@ -7,5 +7,6 @@ body: A social and rellglous system prevailing in the territory of Utah, a disti
   by law, hut are indictable offenses under the statutes of the Unlted States and
   of Utah
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

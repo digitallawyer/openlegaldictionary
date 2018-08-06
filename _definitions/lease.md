@@ -8,5 +8,6 @@ body: A conveyance of lands or fene-ments to a person for life, for a term of ye
   whom they are conveyed, the “lessee;” and when the lessor so conveys lands or tenements
   to a lessee, he is said to lease, demise, or let them. 4 Cruise, Dig. 58
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

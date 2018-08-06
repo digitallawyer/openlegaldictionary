@@ -7,5 +7,6 @@ body: A bond given to obtain the dissolution of a legal writ or process, particu
   or to abide the Judgment to be given. See Sanger v. Hibbard, 2 Ind. T. 547, 53 S.
   W. 330
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

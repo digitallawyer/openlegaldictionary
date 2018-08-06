@@ -6,5 +6,6 @@ body: A kind of duty formerly paid at the English custom-house to those who atte
   the water-side, and belonged to the package-office; but it is now abolished. Also
   the charge made for sending parcels
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

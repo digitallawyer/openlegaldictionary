@@ -8,5 +8,6 @@ body: The name of a former English court of ap-peal, intermediate between the su
   the other two courts. 3 Bl. Comm. 56, 57 ; 3 Steph. Comm. 333, 356. By the judicature
   act (1873) the jurisdiction of this court is transferred to the court of appeal.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

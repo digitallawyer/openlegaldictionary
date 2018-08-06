@@ -11,5 +11,6 @@ body: An artificial imitation of butter, made chiefly from animal fats. Its sale
   Rep. 483; Powell v. Com., 114 Pa. 265, 7 Atl. 913, 60 Am. Rep. 350; Powell v. Pennsylvanla,
   127 U. S. 678, 8 Sup. Ct. 992, 32 L. Ed. 253
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

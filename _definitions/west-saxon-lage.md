@@ -8,5 +8,6 @@ body: The laws of the west Saxons, whlch obtained in the counties to the south a
   part of hls domln-ions, and particularly Including Berkshire, the seat of his peculiar
   residence. 1 BL Comm. 65
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

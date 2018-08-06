@@ -6,5 +6,6 @@ body: A stipulation not to proceed against a party is an agreement not to sue. T
   sue a man is to proceed against him. Planters’ Bank v. Houser, 57 Ga. 140; Iliff
   ▼. weymouth, 40 ohlo St 101
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

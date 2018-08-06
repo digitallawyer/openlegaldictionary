@@ -8,5 +8,6 @@ body: In Engllsh law. A prison belonging to the king’s bench. It has now been 
   of wbich arose within the verge of the royal court. It was abolished by St. 12 &
   13 Vict. c. 101. 4 Steph. Comm. 317, note d
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

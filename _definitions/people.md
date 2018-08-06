@@ -8,5 +8,6 @@ body: A state; as the people of the state of New York. A nation in its collect-i
   seuse, and as generally used in constitution-al law, the entire body of those citizens
   of
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

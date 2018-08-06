@@ -7,5 +7,6 @@ body: In old English Law. Chattels. The word among the Normans prlma-rlly signif
   sense, the term was applied to all movables in general, and not only to these, but
   to whatever was not a fief or fend, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

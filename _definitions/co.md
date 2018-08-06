@@ -7,5 +7,6 @@ body: D. "Collect ou delivery.” These letters are not cabalistic, but have a d
   goods or the charges. U. S. Exp. Co. v. Keef-er. 59 Iud. 267; Fleming v. Com., 130
   Pa. 138. 18 Atl. 622; Express Co. v. wolf, 79 111. 434
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

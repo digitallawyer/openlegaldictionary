@@ -7,5 +7,6 @@ body: In feudal law. A method of converting allodial land into feudal property. 
   it back as a benefice or feud, to hold to hlmself aud such of hls heirs as he had
   previously nominated to the superior
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

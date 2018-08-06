@@ -19,5 +19,6 @@ body: The crime committed where a person of sound mind and discretion (that is, 
   People, 35 Mlch. 16. For the distinction between murder and manslaugh-ter and other
   forms of homicide, see Homi-cidb; Manslaughter
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

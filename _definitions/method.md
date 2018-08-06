@@ -7,5 +7,6 @@ body: In patent law. "Engine" and "method” mean the same thing, and may be the
   several operations, in the most convenient order, but it may signify a con-trivance
   or device. Fessen. Pat. 127; Horn-blower v. Boulton, 8 Term R. 106
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

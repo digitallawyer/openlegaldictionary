@@ -7,5 +7,6 @@ body: In old European law. A title of office and dignity, derived from the middl
   the lieutenants of the dukes and other great feudatories of the kingdom, and sometimes
   had the dispensing of justice and high military commands
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

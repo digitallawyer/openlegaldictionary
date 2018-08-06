@@ -10,5 +10,6 @@ body: In medical jurispru-dence, this term is applied to actions or conduct of a
   im-pulse to purposeless aud irresponsible wanderings from place to place often chnracter-istic
   of patients suffering from loss of memory with dissociation of personality
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

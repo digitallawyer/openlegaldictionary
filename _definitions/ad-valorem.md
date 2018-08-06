@@ -10,5 +10,6 @@ body: According to value. Duties are either ad valorem or speei/fc; the former w
   of the article or thing subject to taxation. Bailey v. Fuqua, 24 Miss. 501; Pingree
   v. Auditor General, 120 Mich. 95, 78 N. W. 1025, 44 L. R. A. 679
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

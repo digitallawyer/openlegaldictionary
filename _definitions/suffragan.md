@@ -10,5 +10,6 @@ body: Bishops who In former times were appointcd to supply the place of others d
   recently revived ; aud such bishops are now permanent-ly “assistant” to the bishops.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

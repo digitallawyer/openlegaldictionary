@@ -6,5 +6,6 @@ body: Lat. A word used iu grants and donations, which binds the donor and his he
   to defend the donee, if any one go about to lay any incumbrance on the thing glven
   other than what is contained in the deed of donation. Bract. 1. 2, c. 16
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

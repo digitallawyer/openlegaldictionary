@@ -8,5 +8,6 @@ body: That he permit to abate. In old practice. A writ, in the, nature of a w’
   34 W. Va. 804, 12 S. E. 1085, 12 L. R. A. 53; Miller v. True-hart, 4 Leigh (Va.)
   577.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

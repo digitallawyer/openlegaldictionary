@@ -8,5 +8,6 @@ body: A cartel of commerce, a book of rates, a table or catalogue, drawn usually
   between the several princes and states that hold commerce together. Enc. Lond.;
   Railway Co. v. Cushman, 92 Tex. 623, 50 S. W. 1009
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

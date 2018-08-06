@@ -6,5 +6,6 @@ body: In English law. A klnd of permit, being a note or check which the toll-cle
   on some canals give to the boatmen, specifying the lading for which they have paid
   toll, wharton.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

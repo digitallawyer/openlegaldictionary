@@ -7,5 +7,6 @@ body: "(1) Not limited to any par-tlcular place, district, person, matter, or qu
   from restraint as to be liable to do mls-chief. (3) Fully; in detail; in an extended
   form"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

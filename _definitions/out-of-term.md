@@ -6,5 +6,6 @@ body: At a time when no term of the court is beiug held; in the vacatlon or inte
   which elapses between terms of the‘court See McNeill v. Hodges, 99 N. C. 248, 6
   S. E. 127
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

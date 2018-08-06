@@ -11,5 +11,6 @@ body: sification. Formal parties are those who have no interest in the controver
   so involved in the contro-versy, that no complete and effective decree can be made,
   dispoptyg of the matters in issue and
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

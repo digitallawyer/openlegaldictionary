@@ -7,5 +7,6 @@ body: This word is used to ex-press the mind or judgment of the speaker or write
   as to estimate the gain or loss of au enterprise. People v. Clark, 87 Hun (N. Y.>
   203
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

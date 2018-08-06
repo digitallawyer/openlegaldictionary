@@ -9,5 +9,6 @@ body: He who is Uterally in the occupation or possession of the land, as disting
   judgment against a former owner. See Dengler v. Kieliner, 13 Pa. 38, 53 Am. Dec.
   441; Hulett v. lnsurance Co., 114 Pa. 142, 6 Atl. 554
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

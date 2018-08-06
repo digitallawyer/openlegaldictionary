@@ -7,5 +7,6 @@ body: The produce of the taxes appropriated to pay the interest of such part of 
   The holders of South Sea an-nultles have been paid off, or have received other stock
   in lieu thereof. 2 Steph. Comm. 578
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A negotiable instrument or other evidence of debt is overdue when the day 
   has not reached her destination at the time when she might ordinarily have been
   expected to arrive
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

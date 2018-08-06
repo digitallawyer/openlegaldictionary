@@ -7,5 +7,6 @@ body: He of whom lands or ten-ementa are holdeu. He who, being tbe owner of an e
   person, called the “teuaut.” Jackson v. Harsen, 7 Cow. (N. Y.) 326, 17 Am. Dec.
   517; Becker v. Becker, 13 App. Div. 342, 43 N. Y. Supp. 17
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

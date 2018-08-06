@@ -6,5 +6,6 @@ body: An obsolete writ that lay where a house was within a borough, for rent iss
   out of the same, and which war-ranted the taking of doors, windows, etc., by way
   of distress
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

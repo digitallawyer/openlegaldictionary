@@ -6,5 +6,6 @@ body: In medical jurisprudence. The mechanical obstruction of an artery or capil
   by some body traveling in the blood current, as, a blood-clot (embolus), a globule
   of fat, or an air-bubble
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

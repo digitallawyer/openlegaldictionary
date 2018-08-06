@@ -9,5 +9,6 @@ body: This term is almost synonymous with “owner,” (q. v.,) as in the phrase
   Schile (C. C.) 12 Fed. 105; Hunt v. Curry, 37 Ark. 105; werckmelster v. Springer
   Lithographing Co. (C. C.) 63 Fed. 811
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

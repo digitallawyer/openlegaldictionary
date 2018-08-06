@@ -11,5 +11,6 @@ body: A retaking, or taking back. A species of remedy by the mere act of the par
   3 Inst 134; 3 Rl. Comm. 4; 3 Stepb. Comm. 358; Prigg v. Pennsylvania, 16 Pet. 612,
   10 L. Ed. 1060
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

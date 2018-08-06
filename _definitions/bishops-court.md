@@ -7,5 +7,6 @@ body: In English law. An ecclesiastical court, held in the cathedral of each dio
   and, if the diocese he large, he has his commissaries in remote parts, who hold
   consistory courts, for matters limited to them by their commission
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

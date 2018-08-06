@@ -6,5 +6,6 @@ body: In practice. (Fr. tloigncr, to remove to a distance; to remove afar ofT.) 
   return to a writ of replevin, when the chattels have been removed out of the way
   of the sheriff
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

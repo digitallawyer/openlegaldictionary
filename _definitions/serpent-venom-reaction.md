@@ -7,5 +7,6 @@ body: A test for Insanity by means of the breaking up of the red corpuscles of t
   serpents; recently employed in judicial proceedlngs in some European countries and
   in Japan
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

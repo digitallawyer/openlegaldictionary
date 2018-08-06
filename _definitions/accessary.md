@@ -8,5 +8,6 @@ body: In criminal law. Con*; tributing to or aiding in the commission of a crime
   advice, instigation, or concealment ; either before or after the fact or commission;
   a particcps criminis. 4 Bl. Comm. 35; Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

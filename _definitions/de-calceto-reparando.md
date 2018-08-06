@@ -6,5 +6,6 @@ body: writ for repairing a causeway. An old writ by which the sheriff was comman
   to distrain the Inhabitants of a place to repair and maintain a causeway, etc. Reg.
   orig. 154
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

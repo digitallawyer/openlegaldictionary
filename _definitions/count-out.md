@@ -9,5 +9,6 @@ body: In English parliamentary law. Forty members form a bouse of commons; and, 
   may be contlnued wheu only one member is left in the house, provided no oue choose
   to move an adjournment, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

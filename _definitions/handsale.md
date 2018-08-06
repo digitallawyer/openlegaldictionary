@@ -8,5 +8,6 @@ body: Anciently, among all tbe northern nations, shaking of hands was held neces
   tlme the same word was used to slg-nlfy the prlce or earnest which was given immediately
   after the shaking of hands, or lnstead thereof. 2 Bl. Comm. 448
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

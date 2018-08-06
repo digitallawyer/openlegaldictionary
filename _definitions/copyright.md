@@ -9,5 +9,6 @@ body: The right of literary property as recognized and sanctioned by positive la
   re Rider, 16 R. I. 271, 15 Atl. 72; Mott Iron works v. Clow, 83 Fed. 316, 27 C.
   C. A. 250; Palmer v. De.wltt, 47
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

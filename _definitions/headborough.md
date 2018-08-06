@@ -6,5 +6,6 @@ body: In Saxon law. Tbe head or chlef officer of a borough; chief of the frankpl
   tithing or decennary. This office was afterwards, when the petty con-stableship
   was created, united with that of-flce
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

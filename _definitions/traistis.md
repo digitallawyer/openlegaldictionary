@@ -8,5 +8,6 @@ body: In old Scotch law. A roll containing the particular dittay taken up upon m
   conform to the dittay contained in the traistls. So called, 'because committed te
   the traM, [trust,] faith, and credit of the clerks and coroner. Skene; Burrill
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

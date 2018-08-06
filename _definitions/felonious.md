@@ -7,5 +7,6 @@ body: Malignant; maliciouB; done with lntent to commit a crime; having the grade
   938, 13 Ky. Law Rep. 894; State v. Bush, 47 Kan. 201, 27 Pac. 834, 13 L. R. A. 607;
   Com. v. Barlow, 4 Mass. 440
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

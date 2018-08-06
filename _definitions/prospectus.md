@@ -9,5 +9,6 @@ body: A document published by a company or corporation, or by persons acting as 
   the issue, in England, of bonds or other securities by a foreign state or corporation.
   Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

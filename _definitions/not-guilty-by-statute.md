@@ -9,5 +9,6 @@ body: In English practice. A plea of the general issue by a defendant in a civil
   he will not be allowed to plead any other defense, without the leave of the court
   or a judge. Mozley & whltley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

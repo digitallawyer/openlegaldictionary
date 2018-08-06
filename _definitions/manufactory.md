@@ -8,5 +8,6 @@ body: A building, the main or principal design or use of which is to be a place 
   IIalpin v. lnsurance Co., 129 N. Y. 73, 23 N. E. 989. 8 L. R. A. 79; Schott v. Harvey,
   105 Pa. 227, 51 Am. Rep. 201; Franklin F. Ins. Co. v. Brock, 57 Pa. 82
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

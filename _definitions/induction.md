@@ -10,5 +10,6 @@ body: In ecclesiastical law. In-duction is the ceremony by which an incum-bent w
   person, or directs his precept to one or more other clergymen to do it Phillim.
   Ecc. Law, 477
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

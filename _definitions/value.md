@@ -7,5 +7,6 @@ body: The utility of an object in sat-jsfylng, directly or indirectly, the needs
   in the power of purchasing other objects, called “value in exchange.” Also the estimated
   or appraised worth of any object of property, Calculated in money
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

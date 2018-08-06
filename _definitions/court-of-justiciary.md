@@ -8,5 +8,6 @@ body: A Scotch court of general criminal jurisdiction of all offenses committed 
   as president. It also lias ap-pellate jurisdiction in civil causes Involving small
   amounts. An appeal lies to the house of lords
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

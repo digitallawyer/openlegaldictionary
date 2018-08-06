@@ -4,5 +4,6 @@ letter: L
 permalink: "/definitions/lupanatrix.html"
 body: A bawd or strumpet. 3 lnst. 206
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

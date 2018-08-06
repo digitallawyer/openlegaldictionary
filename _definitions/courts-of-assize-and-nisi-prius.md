@@ -8,5 +8,6 @@ body: Courts in England composed of two or more commissioners, called “judges 
   respective counties, the truth of such matters of fact as are there under dispute
   in the courts of west-minster Hall. 3 Steph. Comm. 421, 422 ; 3 Bl. Comm. 57
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

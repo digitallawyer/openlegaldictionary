@@ -11,5 +11,6 @@ body: n. In its most general sense, this noun signifies something done voluntari
   a grantor acknowl-edges the conveyance to be hls “act and deed," tbe terms being
   synonymous
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

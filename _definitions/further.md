@@ -8,5 +8,6 @@ body: In most of Its uses in law, this term means additlonal, though occas-sionu
   Associates v. Howland, 5 Cush. (Mass.) 218; o’Fallon v. Nicholson, 56 Mo. 238; Pennsylvania
   Co. v. Loughlin, 139 Pa. 612, 21 Atl. 163
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: 'Lat in old English law, a native; specifically, one born iuto a condi-tio
   had run away from him. It was directed to the sheriff, and commanded him to apprehend
   the villein, and to restore him together with hie goods to the lord. Brown'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: L. Lat He did not de-mise. A plea resorted to where a plaintiff declared u
   in bar, in replevin, to an avowry for arrears of rent, that the avowant did not
   demise
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

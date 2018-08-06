@@ -6,5 +6,6 @@ body: A writ of execution upon a right of presentation to a benefice being recov
   in quare impedit, addressed to the bishop or hls metropolitan, requiring him to
   admit and institute the clerk or presentee of the plaintiff. Reg. orig. 33a
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

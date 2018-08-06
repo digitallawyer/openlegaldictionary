@@ -8,5 +8,6 @@ body: The working cause; that cause which produces effects or results; an interv
   is not re-sponsible. Central Coal & Iron Co. v. Pearce (Ky.) 80 S. W, 450; Pullman
   Palace Car Co. ▼. Laack, 143 111. 242, 32 N. E. 285, 18 L. R. A. 215
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

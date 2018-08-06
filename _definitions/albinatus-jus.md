@@ -6,5 +6,6 @@ body: In old French law. The droit d'aubaine in France, wheheby the king, at an 
   death, was entitled to all hls property, unless he had peculiar exemption. Repealed
   by the French laws in June, 1791
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: These terms are used to slgnlfy connection with, or limitation with refere
   of that country, so that its courts have jurisdiction over offenses com-mltted on
   those waters, even by a person on board a foreigu ship. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

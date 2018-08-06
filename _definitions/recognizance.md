@@ -8,5 +8,6 @@ body: An obllgation of record, entered into before some court of record, or magi
   bond, but differs from it in being an acknowledgment of a former debt npon record.
   2 Rl. Comm. 341. See U. S. v. Insley (C. C.) 49 Fed. 778; State v. walker, 56 N
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: A public officer whose function ia to attest and certify, by his hand and 
   44 L. R. A. 133, 70 Am. St. Rep. 216; In re Huron, 58 Kan. 152, 48 Pac. 574, 36
   L. R. A. 822, 62 Am. SL Rep. 614; Bettman v. warwick, 108 Fed. 46, 47 C. C. A. 185
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

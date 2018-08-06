@@ -7,5 +7,6 @@ body: 1. To lay hold of; to gain or receive into possession; to seize; to depriv
   that a man's property shall not be taken tor public uses without just compensation.
   Ev-ansville & C. R. Co. v. Dick, 9 Ind. 433
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A circle divided from the center, like Arthur's round table, whence its su
   exhibits a list, withont priority being given to any name. A common form of round-robin
   is simply to write the names in a circular form, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

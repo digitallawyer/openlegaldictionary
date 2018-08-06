@@ -7,5 +7,6 @@ body: In English law. The signature or subscription of the king is term* ed hls 
   and what he or she does under the great seal, viz., that the former is done as a
   personal act of the sovereign; the latter as an act of state. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

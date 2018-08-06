@@ -8,5 +8,6 @@ body: In Saxon law. The rate flx-ed by law at which certain injuries to.per-son 
   have been the fixed price at which cattle and other goods were received as currency,
   and to have been much higher than the market price, or ceapgild. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

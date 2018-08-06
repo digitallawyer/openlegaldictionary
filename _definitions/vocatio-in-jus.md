@@ -7,5 +7,6 @@ body: Lut. A summoning to court. In the earlier practice of the Roman law, (unde
   the pnetor for the purpose of determining their controversy, saying, “In jus camus;
   in jus te voco" This was called “vocatio in jus”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

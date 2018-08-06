@@ -7,5 +7,6 @@ body: LaL In the civil law. The name of an action given to one who had contracte
   master to stand to the agreement Halll-fax, Civil Law, b. 3, c. 2, no. 3; InsL 4,
   7, 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

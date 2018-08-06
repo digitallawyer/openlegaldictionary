@@ -7,5 +7,6 @@ body: A family llvtng together. May v. Smith, 48 Ala. 488; woodward v. Murray, 1
   Those who dwell under the same roof and compose a famlly. webster. A man’s family
   living together constitutes hls household, though he may have gone to an-other state
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

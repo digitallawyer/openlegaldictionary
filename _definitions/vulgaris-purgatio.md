@@ -6,5 +6,6 @@ body: Lat in old English law. Common purgation; a name given to the trial by ord
   to distinguish it from the canonical purgation, which was by the oath of the party.
   4 Bl. Comm. 342
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

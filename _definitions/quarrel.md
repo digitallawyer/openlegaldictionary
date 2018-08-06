@@ -8,5 +8,6 @@ body: This word is said to extend not only to real and personal actions, hut als
   “con-troversies,” and "debates” are in law con-sidered as having the same meaning.
   Co. Litt 8, 153; Termes de la Ley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

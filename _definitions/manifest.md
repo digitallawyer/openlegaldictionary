@@ -7,5 +7,6 @@ body: In maritime law. A sea-letter; a written document required to be carried b
   the facility of the customs officers. See New York & Cuba S. S. Co. v. U. S. (D.
   C.) 125 Fed. 320
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

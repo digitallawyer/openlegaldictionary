@@ -11,5 +11,6 @@ body: This word has had various meanings at different stages of history. In the 
   it is the appellation of a member of a city or borough having the right of suffrage,
   or a member of any municipal corporation invested with full civic rights
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

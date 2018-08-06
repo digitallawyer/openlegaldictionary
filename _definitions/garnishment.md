@@ -9,5 +9,6 @@ body: In the process of attachment. A warning to a person in whose hands the eff
   44 L. R. A. 115, 69 Am. St. Rep. 99; Georgia & A. Ry. Co. v. Stollenwerck, 122 Ala.
   539, 25 South. 258; Jeary v. American Exch. Bank, 2 Neb. (Unof.) G57. 89 N. W. 772
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

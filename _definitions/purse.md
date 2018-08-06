@@ -8,5 +8,6 @@ body: A purse, prize, or premium is ordinarily some valuable thing, offered by a
   he must lose it and give it over to some of those con-tending for it is reasonably
   certain. Harris v. white, 81 N. Y. 539
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

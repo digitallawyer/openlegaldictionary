@@ -8,5 +8,6 @@ body: In Roman law. This was the Benatus-consuUwn Mace-donianum, a decree of tbe
   a child who was un-der the patria potestas. It was lntended to strike at the practice
   of usurers in making
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

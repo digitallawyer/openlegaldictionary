@@ -7,5 +7,6 @@ body: Freedom from slckness or suffering. The right to the enjoyment of health i
   persons. 1 Bl. Comm. 129, 134. As to in-juries affecting health, see 3 Bl. Comm.
   122
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

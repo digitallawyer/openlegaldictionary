@@ -12,5 +12,6 @@ body: Formerly, when a master in chancery was directed by the court of chancery 
   hls op-ponent’s state of facts. And so now, a state of facts means the stntement
   made by any one of his version of the facts. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

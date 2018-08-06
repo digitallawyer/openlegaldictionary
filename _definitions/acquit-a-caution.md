@@ -9,5 +9,6 @@ body: In French law, Certain goods pay higher export duties when exported to a f
   The certificate which proves the* receipt of the security is called “acquit d caution*
   Argles, Fr. Merc. Law, 543
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

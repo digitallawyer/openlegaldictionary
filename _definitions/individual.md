@@ -12,5 +12,6 @@ body: As a noun, this term de-notes a single person as distinguished from a grou
   or belonging to, or characteristic of, one single person, either in opposition to
   a firm, association, or corpora-tion, or considered in his relation thereto
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Shuttlng out; debarring from interference or participation; vested in one 
   privilege or franchise, unless it shuts out or excludes others from enjoying a similar
   privilege or franchise. In re Union Ferry Co., 98 N. Y. 151
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

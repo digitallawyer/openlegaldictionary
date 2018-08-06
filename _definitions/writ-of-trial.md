@@ -8,5 +8,6 @@ body: In English law. A writ directing an actlon brought in a supe-rior court to
   a defendant, in certain cases, is en-abled to obtain an order that the action be
   tried in a county court. 3 Steph. Comm. 515, n.; Mozley & whitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: writ of permission to cross the sea. An old writ directed to the wardens o
   named in the writ to cross the sea from such port, on certain conditions. Reg. orig.
   193b.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: By one who is angry. A devise or gift made by a man adversely to the inter
   iraio. A suit to set aside such a will is called an action ab irato. Meri. Repert
   “Ab irato
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

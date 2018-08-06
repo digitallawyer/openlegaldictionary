@@ -7,5 +7,6 @@ body: To settle In the exercise of judicial authority. To determine finally. Syn
   CL 1033, 32 L. Ed. 99; Street v. Benner, 20 Fla. 700; Sans v. New York, 31 Mlsc.
   Rep. 559, 64 N. Y. Supp. 681
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

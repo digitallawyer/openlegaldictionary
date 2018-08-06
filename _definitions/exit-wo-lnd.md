@@ -6,5 +6,6 @@ body: A term nsed in medl-cal jurisprudence to denote the wound made by a weapon
   the side where it emerges, after it has passed completely through the body, or through
   nny part of it
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

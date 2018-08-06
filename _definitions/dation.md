@@ -7,5 +7,6 @@ body: In the civil law. A gift; a giving of something. It is not exactly syn-ony
   while dation may mean the giving of something to which the recipient is already
   entitled
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

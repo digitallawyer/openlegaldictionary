@@ -8,5 +8,6 @@ body: The same court is sometimes said to have different sides; that is, differe
   is to be distinguished from the “plea side,” (civil Jurisdlction;) the same court
   may have an “equlty side” and a “law side.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

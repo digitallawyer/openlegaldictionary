@@ -8,5 +8,6 @@ body: A workman employed in shaping and uniting materials, such as wood, metal, 
   781; Savannah & C. R. Co. v. Callahan, 49 Ga. 511; Berks County v. Bertolet, 13
   Pa. 524
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

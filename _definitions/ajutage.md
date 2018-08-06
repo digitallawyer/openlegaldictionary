@@ -6,5 +6,6 @@ body: A tube, conical in form, intended to be applied to an aperture through whi
   water passes, whereby the flow of the water is greatly increased. See Schuylkill
   Nav. Co. v. Moore, 2 whart. (Pa.) 477
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

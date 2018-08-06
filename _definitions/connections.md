@@ -7,5 +7,6 @@ body: Relations by blood or marriage, but more commonly the relations of a perso
   “connections” of her husband. The term is vague and indefinite. See Storer v. wheatley,
   1 Pa. 507
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

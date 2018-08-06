@@ -8,5 +8,6 @@ body: To bind or constrain; to bind to the observance or performance of a duty ;
   Wachter v. Famachon, 62 wis. 117, 22 N. W. 160; Maxwell v. Jacksonville Loan & Imp.
   Co., 45 Fla. 425, 34 South. 255
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

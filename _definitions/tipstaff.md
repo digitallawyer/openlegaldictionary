@@ -7,5 +7,6 @@ body: In English law. An officer appointed by the marshal of the king’s bench 
   custody all prisoners, either committed or turned over by the judges at their cham-bers,
   etc. Jacob
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

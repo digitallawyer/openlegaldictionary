@@ -9,5 +9,6 @@ body: 1. A commercial agent, em-ployed by a principal to sell merchandise consig
   N. Y. 80; In re Rabenau (D. C.) 118 Fed. 474; Lawrence v. Stonington Bank, 6 Conn.
   527; Graham v. Duckwall, 8 Bush (Ky.) 17
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

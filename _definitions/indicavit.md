@@ -8,5 +8,6 @@ body: In English practice. A writ of prohibition that lies for a patron of a chu
   Comm. 711. So termed from the em-phatlc word of the Latin form. Reg. orlg. 35b,
   36
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

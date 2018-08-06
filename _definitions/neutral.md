@@ -7,5 +7,6 @@ body: In International law. In-different; impartial; not engaged on either side;
   war, the principal hostile powers are called “belligerents;” those actively co-operating
   with and assisting them, thelr “allies;” and those taking no part whatever, “neu-trals
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

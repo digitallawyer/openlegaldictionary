@@ -7,5 +7,6 @@ body: In old Englisb law. A person who, on being indicted of treason or fel ony,
   accused others, his accomplices, in the same crime, in order to obtain his pardon.
   4 Bl. Comm. 329, 330
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

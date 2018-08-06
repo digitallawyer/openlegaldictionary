@@ -6,5 +6,6 @@ body: In old English law. An ancient customary flue, paid either in money or cat
   at every alienation of land lying within some manor, or within the liberty of some
   borough. CoweU; Blount
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

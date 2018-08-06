@@ -7,5 +7,6 @@ body: A disorder of the nervous Bystem, involving the brain and setting up an at
   mania, caused by excessive and long continued indulgence in alcoholic liquors, or
   by the abrupt cessation of such use after a protracted debauch. See Insanity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

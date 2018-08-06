@@ -10,5 +10,6 @@ body: "(1) A collection of can-ons and imperial laws relative or conform-able th
   fathers, without any regard to imperial constitutions. Such is the nomocanon by
   M. Coteller. Enc. Lond"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Confinement may be by either a moral or a physical restraint, by threats o
   Thompson, 1 Snmn. 171, Fed. Cas. No. 16,492; Ex parte Snodgrass, 43 Tex. Cr. R.
   8J59, 65 S. W. 1061
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: loot on delivery. See C. O. D.—Collector. one authorized to receive taxe
   immediate settlement. Such collector is usually appointed when there is protracted
   liti
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

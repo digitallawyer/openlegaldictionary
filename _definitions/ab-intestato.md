@@ -13,5 +13,6 @@ body: Lat in the civil law. From an intestate; from the intestate; in case of in
   an intestate, (one who dies without a will.) Inst 2, 9, 6; Dig. 29, 4; Cod. 6, 14,
   2
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: The act of rnedl-tatlng in advance; dellberatlon upon a contemplated act; 
   State v. Dowden, 118 N. C. 1145, 24 S. E. 722; Savage v. State, 18 Fla. 965; Com.
   v. Drum, 58 Pa. 16; State v. Llndgrlnd, 33 wash. 440, 74 Pae 565
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

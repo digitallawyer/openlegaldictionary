@@ -7,5 +7,6 @@ body: In the law of evidence, matters deemed notorious do not require to be prov
   Cases have occurred in which the state of society or public feeling bas been treated
   as notorious; e. g., during times of sedition. Best, Ev. 354; Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In English prao-tioo. A bill in equity, filed by one or more creditors, fo
   of his estate among themselves and such other creditors as may come in under the
   decree
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

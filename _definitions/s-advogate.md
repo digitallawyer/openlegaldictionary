@@ -9,5 +9,6 @@ body: OGATE. An Engllsh advo-cate who holds, in the courts in which the rules of
   law. in order of precedence it seems that he ranks after the attorney general. 3
   Steph. Comm. 275n
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

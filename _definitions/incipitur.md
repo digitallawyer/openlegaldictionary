@@ -7,5 +7,6 @@ body: Lat. It is begun; it be-gins. In old practice, when the pleadings in an ac
   by thelr commencements, this was described as -entering the incipitur; i. e., the
   begin-ning
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

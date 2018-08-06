@@ -9,5 +9,6 @@ body: In old English law. A road, way, highway. It is either the king's highway 
   in which one person or more have lib-erty to pass over the land of another, hy pre-scriptlon
   or charter, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

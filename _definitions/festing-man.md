@@ -7,5 +7,6 @@ body: In old English law. A frank-pledge, or one who was surety for the good beh
   whlch means that they wer» “not bound for any man’s forthcoming who should transgress
   the law.” Cowell. See Fbank-Pledqe
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

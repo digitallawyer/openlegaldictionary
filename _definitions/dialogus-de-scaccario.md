@@ -7,5 +7,6 @@ body: Dialogue of or about the exchequer. An ancient treatise on the court of ex
   of London in the reign of Richard I. it is quoted, by lord Coke under the uame of
   ockham. Crabb, Eng. Law, 71
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -13,5 +13,6 @@ body: Under the Saxon orgauiza-tion of England, each county or shire corn-prised
   in the Frankish kingdom under Clothaire, and in Denmark. See 1 BL Comm. 115; 4 BL
   Comm. 411
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

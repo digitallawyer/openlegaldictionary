@@ -7,5 +7,6 @@ body: Lat. In the clvil law. A following after; a pursuing at law; a sult or pro
   In a general sense, any judicial proceeding, Including not only “actions,” (actiones,)
   properly so called, but other proceedlngs also. Calvin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

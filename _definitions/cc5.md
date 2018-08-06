@@ -9,5 +9,6 @@ body: s distinguished from equity iaw, it ts a body of rules and principles, wri
   which rests confessedly upon custom or statute, as distinguished from any claim
   to ethical superiority. Kle-ver v. Seawall, 65 Fed. 395, 12 C. C. A. 661
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In Scotch law. Jurors; the persons who formed that kind of court which in 
   causes, such as perambulations, cognitions, molestations, purprestures, and other
   matters; like jurors in England. Holthouse
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

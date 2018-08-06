@@ -9,5 +9,6 @@ body: or STARRA. The old term for contract or obligation among the Jews, be-ing 
   westmiuster ; and Blackstone conjectures that the room in which these chests were
   kept was thence called the “starr-chamber.” 4 Bl. Comm. 266, 267, note a
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

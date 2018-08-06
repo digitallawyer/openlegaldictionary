@@ -7,5 +7,6 @@ body: A champion, hero, giant This word, in the plural, is generally used to sig
   of persons of Irish birth, resident in the United States, Canada, and elsewhere,
   having for its aim the overthrow of English rule in Ireland, webster, (Supp
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

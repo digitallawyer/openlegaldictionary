@@ -7,5 +7,6 @@ body: Properly the final adjournment of the court for the term, though the term 
   for a recess; it is the opposite of “sitting’' or “session.” See State v. weaver,
   11 Neb. 163, 8 N. W. 385.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

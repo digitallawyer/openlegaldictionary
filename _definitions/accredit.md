@@ -6,5 +6,6 @@ body: In International law. (1) To receive as an envoy in hls public charac-ter,
   give him credit and rank accord-ingly. Burke. (2) To send with credentials as an
   envoy, webst Dict
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

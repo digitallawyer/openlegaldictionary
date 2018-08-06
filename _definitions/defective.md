@@ -9,5 +9,6 @@ body: Lacking in some particu-lar which is essential to the completeness, legal 
   (State v. Lavalley, 9 Mo. 836; McArthur v. Boynton, 19 Colo. App. 234, 74 Pac. 542;)
   or title, (Copertini v. op-permann, 76 Cal. 181, 18 Pac. 256
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

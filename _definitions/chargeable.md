@@ -7,5 +7,6 @@ body: This word, in its ordinary acceptation, as applicable to the im-position o
   to be charged, or proper to be charged. Gil-fillan v. Chatterton, 38 Minn. 335,
   37 N. W. 583; walbrldge v. walhridge, 46 Vt 625
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

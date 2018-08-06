@@ -10,5 +10,6 @@ body: The writ of inquiry is a ju-dlcial process addressed to the sheriff of the
   judg-ment, the defendant having let judgment go by default, to ascertain the quantum
   of dam-ages. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

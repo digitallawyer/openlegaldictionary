@@ -16,5 +16,6 @@ body: A method or system of treating various diseases of the human body without 
   E. 168, 76 Am. St. Rep. 358; Parks v. State. 159 Ind. 211. 64 N. E. 862, 59 L. R.
   A. 190
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

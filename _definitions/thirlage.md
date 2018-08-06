@@ -7,5 +7,6 @@ body: In Scoteh law. A servitude by which lands are astricted or “thirled1’ 
   lands to be ground, for the payf-ment of such duties as are either expressed or
   Implied in the constitution of the right Ersk. Inst. 2, 9, 18
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

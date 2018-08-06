@@ -7,5 +7,6 @@ body: An association (which may or may uot be incor-porated) comprising the prin
   selling, and exchanging goods, and to foster the commercial and industrial interests
   of the place
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

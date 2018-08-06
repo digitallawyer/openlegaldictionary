@@ -6,5 +6,6 @@ body: In old English law. The fourth part of a yard-land. Noy says an eighth onl
   because, according to hlm, two fardels make a nook, and four nooks a yard-land,
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

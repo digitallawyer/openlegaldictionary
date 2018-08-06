@@ -8,5 +8,6 @@ body: Lat. A term of logic, sometimes applied to pleadings and to arguments on a
   or arguments to a collateral matter or somethlng beside the point. See Case upon
   tbe Statute for Dis-tribution, wythe (Va.) 309
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

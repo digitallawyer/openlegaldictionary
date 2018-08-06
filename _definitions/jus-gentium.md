@@ -7,5 +7,6 @@ body: The law of nations. That law which natural reason has estab-llshed among a
   being the law whlch all nations use. Inst 1, 2, 1; Dlg. 1, 1, 9; 1 Bl. Comm. 43;
   1 Kent, Comm. 7; Mackeld. Rom. Law, { 125
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

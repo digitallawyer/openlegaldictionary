@@ -7,5 +7,6 @@ body: Injurious violence, or, in general, any species of serious wrong offered t
   314, 24 Am. Rep. 748; Aldrich v. Howard, 8 R. I. 246; Mosnat v. Snyder, 105 Iowa,
   500, 75 N. W. 356
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

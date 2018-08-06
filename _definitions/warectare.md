@@ -6,5 +6,6 @@ body: L. Lat. In old English law. To fallow ground; or plow up land (deslgned fo
   wheat) in the spring, in order to let it lie fallow for the better improvement.
   Fleta, lib. 2, c. 33; Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

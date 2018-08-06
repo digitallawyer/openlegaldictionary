@@ -11,5 +11,6 @@ body: This court was estab-lished by St. 20 & 21 Vict. c. 85, which trans-ferred
   judicature act, 1873, S 3, the jurisdiction of the court was transferred to the
   supreme court of Judica-ture. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

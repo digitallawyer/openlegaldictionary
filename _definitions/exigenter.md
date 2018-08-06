@@ -6,5 +6,6 @@ body: An officer of the Eng-lish court of common pleas, whose duty it was to mak
   out the exigents and proclamations in the process of outlawry. Cowell. Abolished
   by SL 7 wm. IV. and 1 Vict. C. 30. Holthouse
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

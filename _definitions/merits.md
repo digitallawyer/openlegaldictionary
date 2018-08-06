@@ -13,5 +13,6 @@ body: In practice. Matter of sub-stance in law, as distinguished from matter of 
   v. Frazier, 11 S. C. 134; Rogers v. Rogers, 37 W. Va. 407, 16 S. E. 633; oatman
   v. Bond, 15 wis. 26
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

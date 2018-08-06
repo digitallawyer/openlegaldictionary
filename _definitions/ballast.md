@@ -9,5 +9,6 @@ body: In marine Insurance. There is considerable analogy between ballast and dun
   them from bruising and injurlng each other. Great western Ins. Co. v. Thwlng, 13
   walk 674, 20 L. Ed. 607
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

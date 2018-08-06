@@ -7,5 +7,6 @@ body: In probate law. Property of a decedent available for the payment of debts 
   in law or equity, with the obligations which such heir or representative is required,
   in his representative capacity, to discharge
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: This term, as nsed in ship-ping articles, means “disrate,” and does no
   whaling trade never to disrate an officer to a seaman. Potter v. Smith, 103 Mass.
   68
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

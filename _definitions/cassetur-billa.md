@@ -9,5 +9,6 @@ body: "(Lat That the bill be quashed.) In practlce. The form of the judgment for
   confessed and avoided, nor traversed, nor demurred to; amounting in fact to a discontinuance
   of the action. 2 Archb. Pr. K. B. 8, 236; 1 Tidd, Pr. 683"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: A compilation of Roman law, consisting of selected pussages from the writi
   fif-ty books, and is one of the four great works composing the Corpus Juris Civilis.
   It wad first published in A. D. 533
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

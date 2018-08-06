@@ -10,5 +10,6 @@ body: In English law. A tide of dignity next above gentleman, and below knight. 
   331; Christian v. Ashley County, 24 Ark. 151; Com. v. Vance, 15 Serg. & R. (Pa.)
   37
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

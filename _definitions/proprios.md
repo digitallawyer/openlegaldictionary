@@ -7,5 +7,6 @@ body: In Spanish and Mexican law. Productive lands, the usufruct of which had be
   of their respective governments. Sheldon v. Milmo, 90 Tex. 1, 36 S. W. 413; Hart
   v. Burnett, 15 Cal. 554
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

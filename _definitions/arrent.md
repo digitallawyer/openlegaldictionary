@@ -8,5 +8,6 @@ body: In old English law. To let or demise at a fixed rent. Particularly used wi
   an encroachment, originally a purpresture, was allowed to remain on the fixing and
   payment of a suitable compensation to the public for its maintenance
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

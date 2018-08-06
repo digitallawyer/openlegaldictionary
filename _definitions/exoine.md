@@ -7,5 +7,6 @@ body: In French law. An act or lnstrument In writing which contains the reasons 
   to the requisitions of a decree, does not appear. Poth. Proc. Crim. | 3, art. 3.
   The same as “Essoin,” (q. v
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

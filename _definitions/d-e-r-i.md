@@ -6,5 +6,6 @@ body: C. Au abbreviation used for De ea re ita ccnsucrc, (concerning that matter
   so decreed,) in recording the decrees of the Roman senate. Tayl. Civil Law, 564,
   566
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

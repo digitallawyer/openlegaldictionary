@@ -7,5 +7,6 @@ body: In Hindu law. Landkeep-er. An officer who under the Mohammedan government 
   of the cultivators, and the realization of the government’s share of its produce,
   either in money or kind. Wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

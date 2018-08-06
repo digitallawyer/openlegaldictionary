@@ -9,5 +9,6 @@ body: The common stock or fund of a corporation. The sum of money raised by the 
   219; State v. Jones, 51 ohio St. 492. 37 N. E. 945; Burrall v. Railroad Go., 75
   N. Y. 216
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

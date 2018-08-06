@@ -7,5 +7,6 @@ body: Lat. In the civil law. A sending or putting. Missio in bona, a putting the
   in consilium, a sending out of the judices (or jury) to make up tbeir sentence.
   Hallifax, Civil Law, b. 3, c. 13, no. 31
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Lat in Roman law. Tbe legal relatlon existing between two Certain persons 
   such claim and debt, as also tbe lnstrument evl-dencing it, is termed “obligation."
   Mackeld. Rom. Law,. | 360
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

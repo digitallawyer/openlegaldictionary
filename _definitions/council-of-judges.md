@@ -9,5 +9,6 @@ body: Under the Eng-lish judicature act, 1873, § 75, an annual council of the j
   the law for ' the administration of justice. Au extraordinary council may also be
   convened at any
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

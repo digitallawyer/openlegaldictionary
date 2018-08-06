@@ -8,5 +8,6 @@ body: A small tract or par-cel of land in a village, town, or city, suitable for
   Ark. 551; Diamond Mach. Co. v. Ontonagon, 72 Mlch. 261, 40 N. W. 448; Fitzgerald
   v. Thomas, 61 Mo. 500; Phlllipsbnrgh v. Bruch, 37 N. J. Eq. 486
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

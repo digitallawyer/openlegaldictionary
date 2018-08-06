@@ -10,5 +10,6 @@ body: The national flag of Great Britain and Ireland, which combines the banner 
   the word from "Jacques” the first alteration having been made in the reign of King
   James I. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

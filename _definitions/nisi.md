@@ -13,5 +13,6 @@ body: Lat Unless. The word is often affixed, as a kind of elllptlcal expression,
   con-firmed, for the defendant’s failure to show cause against it, it is said to
   be “made abso-lute.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

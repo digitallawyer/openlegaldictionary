@@ -9,5 +9,6 @@ body: In the old process of levying a fine of lands, the concord was an agreemen
   party who levies the fine is called the “cognizor,” and the person to whom it is
   levied the “cognizee.” 2 Bl. Comm. 350
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

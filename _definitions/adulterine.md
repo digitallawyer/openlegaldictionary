@@ -7,5 +7,6 @@ body: Begotten in an adulter-ous intercourse. In t^e. Roman, and canon law, adul
   and the.fpruicr were treated with more severity, not being..allowed, the status
   of natural, children,,, and' being, in-eligible to holy orders
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

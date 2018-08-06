@@ -7,5 +7,6 @@ body: An obsolete writ, which was brought for lands and tenements, and not for a
   had a lesser estate; as tenant in tail, tenant in frank marriage, or tenant for
   life. Fitzh. Nat. Brev. 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

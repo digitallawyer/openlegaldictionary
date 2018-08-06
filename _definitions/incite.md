@@ -7,5 +7,6 @@ body: To arouse; stir up; instigate; set iu motion; as, to "incite” a riot. Al
   crime; in this sense nearly synonymous with “abet* See Long v. State, 23 Neb. 33,36
   N. W. 310
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

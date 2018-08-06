@@ -6,5 +6,6 @@ body: Lat. In Roman law. “Prastare" meant to make good, and, when used in conj
   with the words “dare,” “facere," “oportere," denoted obligations of a personal character,
   as opposed to real rlghts
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

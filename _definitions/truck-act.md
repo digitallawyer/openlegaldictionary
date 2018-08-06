@@ -11,5 +11,6 @@ body: In English law. This name is given to the statute 1 A 2 wm. IV. c. 37, pas
   and metal works, quarries, cloth, silk, and glass manu-factories. It does uot apply
   to domestic or agricultural servants. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

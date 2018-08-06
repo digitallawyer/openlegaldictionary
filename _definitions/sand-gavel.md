@@ -6,5 +6,6 @@ body: In old English law. A. payment due to the lord of the manor of Rodley, tn 
   county of Gloucester, for lib-erty granted to the tenants to dig sand for their
   common use. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In English law. The name of a writ issuing out of the kiug’s bench or ch
   peace, when they are averse to acting in the affair in thelr judicial capacity.
   4 Bl. Comm. 253
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

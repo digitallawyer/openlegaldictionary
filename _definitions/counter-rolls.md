@@ -6,5 +6,6 @@ body: In English law. The rolls which sheriffs have with the coro-ners, containi
   particulars of their pro ceedlngs, as well of appeals as of inquests, etc. 8 Edw.
   L c. 10
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

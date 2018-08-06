@@ -13,5 +13,6 @@ body: Lat. (To be Informed of, to be made certain in regard to.) The name of a w
   v. Lindsey, 3 Dali. 413, 1 L. Ed. 658; Basnet v. Jacksonville, 18 Fla. 526; walpole
   v. Ink, 9 ohio, 144; Peo-ple v. Livingston County, 43 Barb. (N. Y.) 234
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

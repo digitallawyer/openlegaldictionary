@@ -11,5 +11,6 @@ body: This term may denote any court subordinate to the chief ap-peliate tribuna
   Astor, 2 Uow. 341, 11 L. Ed. 283; Swift v. wayne Circuit Judges, 64 Mich. 479, 31
   N. W. 434; Kirkwood v. washington County, 32 or. 568, 52 Pac. 568
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

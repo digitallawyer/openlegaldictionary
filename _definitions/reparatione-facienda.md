@@ -8,5 +8,6 @@ body: Formak-lng repairs. The name of an old writ which lay in various cases; as
   in such case the party who was willing to repair might have this writ against the
   others. Cowell; Fitzh. Nat Brev. 127
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

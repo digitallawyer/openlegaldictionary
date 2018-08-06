@@ -8,5 +8,6 @@ body: Relating to; pertaining to; affecting; Involving; being engaged in or taki
   57; U. S. v. Scott (C. C.) 74 Fed. 217; McDonald v. white, 130 111. 493, 22 N. E.
   599
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

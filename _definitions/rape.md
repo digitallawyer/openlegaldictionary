@@ -8,5 +8,6 @@ body: In oriminal law. The unlawful carnal knowledge of a woman by a man forcibl
   22 W1&. 444; State v. Montgomery, 63 Mo. 298; People v. Crego, 70 Mich. 319, 38
   N
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

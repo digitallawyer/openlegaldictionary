@@ -8,5 +8,6 @@ body: Tending to excite lust; lewd; indecent; obscene; relating to sexual impuri
   17 Fed. 733; Dunlop v. U. S., 165 U. S. 486, 17 Sup. CL 375, 41 L. Ed. 799; U. S.
   v. Durant (D
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

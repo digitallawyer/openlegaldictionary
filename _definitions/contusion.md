@@ -7,5 +7,6 @@ body: In medical jurisprudence. A bruise; an Injury to any external part of the 
   the flesh, and either with or without a tearing of the skin, but in the former case
   it is more properly called a “contused wound.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

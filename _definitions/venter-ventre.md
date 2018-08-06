@@ -7,5 +7,6 @@ body: The belly or woipb. The term is used in law as designat-ing the maternal p
   chlld by his first wife, he would be described In law as “by the first venter.”
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

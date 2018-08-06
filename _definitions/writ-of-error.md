@@ -8,5 +8,6 @@ body: A writ issued from a court of appellate jurisdiction, directed to the judg
   in order that examination may be made of certain errors alleged to have been committed,
   and that the judgment may be reversed, corrected, or affirmed, as the case may require
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

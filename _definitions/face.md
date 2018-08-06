@@ -7,5 +7,6 @@ body: The face of an instrument is that whlch is shown by the mere language empl
   Thus, lf the express terms of the paper disclose a fatal legal defect, it is said
   to be “void on its face
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

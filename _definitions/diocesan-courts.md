@@ -8,5 +8,6 @@ body: In English law. The conslstorial courts of each diocese, exer-clslng geuer
   spiritual discipline,—suspending or depriving clergymen,—and administering the other
   branches of the ecclesiastical law. 2 Steph. Comm. 672
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

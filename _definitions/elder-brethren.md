@@ -7,5 +7,6 @@ body: A distinguished body of men, elected as masters of Trinity House, an Insti
   relating to the marine, Bach as the superintendence of light-houses. Mozley A whitley;
   2 Steph. Comm. 502
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

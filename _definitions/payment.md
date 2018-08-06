@@ -8,5 +8,6 @@ body: The performance of a duty, promlse, or obligation, or discharge of a debt 
   Ann. 24; Root v. Kelley, 39 Misc. Rep. 530, 80 N. Y. Snpp. 482; Monlton* v. Robison,
   27 N. H. 554; Clay v. Lakenan, 101 Mo. App. 563, 74
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

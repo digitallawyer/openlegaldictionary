@@ -7,5 +7,6 @@ body: Pnblic law, or the law relating to the constitution aud functions of gover
   or the paramount or sovereign territorial right or title of the state or government.
   See Jus Peivatum
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: An ancient writ, that lay for the dellvery to his ordinary of a clerk conv
   of felony, where the ordinary did not challenge him according to the privilege of
   clerks. Reg. orig. 69
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

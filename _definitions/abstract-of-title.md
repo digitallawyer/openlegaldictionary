@@ -11,5 +11,6 @@ body: A condensed' history of tbe title to land, consisting of a synopsis or sum
   Co. v. Chisholm, 33 111. App. 647; Banker v. Caldwell, 3 Minn. 94 (Gil. 46); Heinsen
   v. Lamb, 117 111. 549, 7 N. E. 75; Smith v. Taylor, 82 Cal. 533, 23 Pac. 217
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

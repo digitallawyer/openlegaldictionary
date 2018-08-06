@@ -9,5 +9,6 @@ body: Indemnification; pay-ment of damages; making amends; that which is necessa
   damnified may receive equal value for his loss, or be made whole in respect of his
   injury. Railroad Co. v. Denman, 10 Minn. 280 (Gil. 208
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: To put together in sorts with a fraudulent design. To pack a jury is to us
   to give the verdict he seeks. The term imi>orts the improper and corrupt selection
   of a jury
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

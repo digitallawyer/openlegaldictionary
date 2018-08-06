@@ -6,5 +6,6 @@ body: That part of the laud ad-Jacent to the sea which is alternately covered an
   left dry by the ordinary flow of the tides; i. e., by the medium line between the
   greatest and least range of tide, (spring tides and neap tides.) Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

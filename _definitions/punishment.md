@@ -9,5 +9,6 @@ body: In crlmlnal law. Any pain, penalty, suffering, or confinement lnfllcted up
   194 111. 325, 62 N. E. 684; Ex parte Howe, 26 or. 181, 37 Pac. 536; State v. Grant,
   79 Mo. 129. 49 Am. Rep. 218
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

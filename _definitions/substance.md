@@ -7,5 +7,6 @@ body: 'Essence; the material or essential part of a tiling, as distinguished fro
   Miller, 50 Minn. 105, 52 N. W. 381: Pierson v. Insurance Co., 7 IIoust. (Del.) 307,
   31 Atl. 966'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

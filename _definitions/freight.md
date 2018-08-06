@@ -7,5 +7,6 @@ body: Freight is properly the price or compensation paid for the transportation 
   the hire paid for the carriage of goods on laud from place to place, (usually by
   a railroad company, not au express company,) or
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

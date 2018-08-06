@@ -10,5 +10,6 @@ body: 'The judgment formally pro-nounced by the court or judge upon the de-fenda
   State, 11 Tex. App. 281; Com. v. Bisboff, 18 Pa. Co. Ct. R. 503: People v. Adams,
   95 Mich. 541, 55 N. W. 461; Bugbee v. Boyce, 68 Vt. 311, 35 Atl. 330'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

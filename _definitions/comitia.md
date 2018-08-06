@@ -12,5 +12,6 @@ body: In Roman law. An assembly, either (1) of the Roman curlse, in which case i
   and tbe eomitia tribute passed the plcbiscita. Under the Lex Hortensia, 287 B. C.,
   the plebiscitum acquir-ed the force of a lex. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

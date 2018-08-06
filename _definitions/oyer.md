@@ -7,5 +7,6 @@ body: In old praotioo. Hearing; the hearing a deed read, which a party sued on a
   entry on the record heing, “et ei legitur in hac verba," (and it is read to him
   in these words.) Steph. PL 67, 68; 3 Bl. Comm. 299 ; 3 Salk. 119
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

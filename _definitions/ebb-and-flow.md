@@ -10,5 +10,6 @@ body: An expression used Eoolesia est infra setatom ot in ons-formerly in this c
   5,916; De Lovio v. Bolt, 2 bound to uphold and defend lts rights and Gall. 398,
   Fed. Cas. No. 3,776; The Hine inheritances
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

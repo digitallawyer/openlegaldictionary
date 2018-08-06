@@ -7,5 +7,6 @@ body: In Amerlcan land law. A divislon or parcel of land, on the government surv
   hy straight lines into thirty-six sections, and these are again divided Into half-sections
   and quarter-sec-tions
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

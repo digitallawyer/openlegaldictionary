@@ -7,5 +7,6 @@ body: 'To live; to have life or anima-tlon; to be in present force, activity, or
   rights, or liens. Merritt v. Grover, 57 Iowa, 493. 10 N. W. 879; whitaker v. Rice,
   9 Mlnn. 13 (Gil. 1), 86 Am. Dec. 78; wing v. Slater, 19'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In medical Juriepru-dence. Unilateral paralysis; paralysis of one slde of 
   anaesthesia. In the cerebral form, the Aemi-plegia is sometimes “alternate” or crossed,
   that is, occurring on the opposite side of the body from the initial lesion
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

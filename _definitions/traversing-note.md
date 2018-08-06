@@ -9,5 +9,6 @@ body: This is a pleading in chancery, and consists of a denial put in by the pla
   where the plaintiff can safely dispense with an answer. A copy of the note must
   he served on the defendant Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: RO. Suits in the ecclesiastical courts for spiritual of-fenses against con
   ecclesiastical courts into courts of equity, was checked by the consti-tntions of
   Clarendon, A. D. 1164. 3 Bl
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

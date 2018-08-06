@@ -7,5 +7,6 @@ body: "“In conse-quence of this article, the trebellanlc portion of the civil 
   had a right to detain when he was charged with a fidei commissa or fiduciary bequest—is
   no longer a part of our law.” Civ. Code La. art. 1520, par. 3"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

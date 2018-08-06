@@ -9,5 +9,6 @@ body: In the law of insur-ance, the adjustment of a loss is the ascer-tninment o
   the proportion which each underwriter is liable to pay. Marsh. Ins. (4th Ed.) 499;
   2 PhlL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

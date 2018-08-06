@@ -9,5 +9,6 @@ body: "(He has con-fessed the action.) A defendant’s written confession of an 
   plaintiff’s attorney to sign judg-ment and issue execution. Mallory v. Kirk-patrick,
   54 . N. J. Eq. 50, 33 Atl. 205"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

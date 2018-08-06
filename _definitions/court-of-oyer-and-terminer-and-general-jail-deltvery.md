@@ -4,5 +4,6 @@ letter: C
 permalink: "/definitions/court-of-oyer-and-terminer-and-general-jail-deltvery.html"
 body: In
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

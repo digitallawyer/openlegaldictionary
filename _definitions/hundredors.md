@@ -8,5 +8,6 @@ body: In English law. The Inhabitants or freeholders of a hundred, an-ciently th
   Jur. 217. It was formerly necessary to have some of these upon every panel of jurors.
   3 BL Comm.' 859, 360 ; 4 Steph. Comm. 370
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

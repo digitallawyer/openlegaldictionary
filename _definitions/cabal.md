@@ -8,5 +8,6 @@ body: A small association for the pur-pose of Intrigue; an intrigue. This name w
   Tlie initials of these five names form the word “cabal;” hence the appellation.
   Hume, Hist. Eng. is. 69
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

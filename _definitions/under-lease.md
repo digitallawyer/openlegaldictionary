@@ -8,5 +8,6 @@ body: In conveyancing. A lease granted by one who is himself a lessee for years,
   of time than the whole term, it is an under-lease, and leaves a reversion in the
   termor. 4 Kent, Comm. 96
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

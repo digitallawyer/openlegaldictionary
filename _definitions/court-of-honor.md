@@ -13,5 +13,6 @@ body: A court having Ju-risdiction to hear and redress injuries or affronts to a
   from the code of honor and deciding on the causes and occasions for flght-lng duels,
   in which officers are concerned, and the manner of conducting them
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

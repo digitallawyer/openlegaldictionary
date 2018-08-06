@@ -6,5 +6,6 @@ body: or CHAMBER DEACONS. In old English law. Certain poor Irish scholars, cloth
   in mean habit, and living under no rule; also beggars ban-ished from England. (1
   Hen. V. cc. 7. 8.) wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

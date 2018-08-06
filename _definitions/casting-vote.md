@@ -8,5 +8,6 @@ body: where the votes of a deliberative assembly or legislative body are equally
   to cast one additional vote, if he has al-ready voted as a member of the body. This
   is called the “casting vote.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

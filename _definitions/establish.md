@@ -12,5 +12,6 @@ body: 'This word occurs fre-quently in the constitution of the United States, an
   recognize, confirm, or admit; as: “Congress shall make no law re-specting an establishment
   of religion.” (5) To create, to ratify, or confirm; as: “We'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

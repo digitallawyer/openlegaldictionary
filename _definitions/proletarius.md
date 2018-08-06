@@ -7,5 +7,6 @@ body: Lat. In Roman law. A person of poor or mean condition; those among the com
   they could not serve the state with money, but only with their chil-dren, (proles.)
   Calvin.; Vicat
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

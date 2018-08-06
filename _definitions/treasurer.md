@@ -8,5 +8,6 @@ body: An oflicer of a public or private corporation, company, or government, cha
   71 Pac. 470; weld v. Mny, 9 Cush. (Mass.) 189; In re MIllward-Cliff Cracker Co.’s
   Es-tate, 161 Pa. 167, 28 Atl. 1072
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

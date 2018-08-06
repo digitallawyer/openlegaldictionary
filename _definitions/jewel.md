@@ -8,5 +8,6 @@ body: By “jewels” are meant ornaments of the person, such as ear-rings, pear
   Ramaley v. Leland, 43 N. Y. 541, 3 Am. Rep. 728; Gile v. Libby, 30 Barb. (N. Y.)
   77
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

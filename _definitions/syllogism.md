@@ -7,5 +7,6 @@ body: In logic. The full logic-al form of a single argument It conslsts of three
   occurring in the conclusion are brought together in the premises by being referred
   to a common class
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

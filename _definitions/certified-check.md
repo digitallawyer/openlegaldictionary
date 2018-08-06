@@ -9,5 +9,6 @@ body: In the practice of bankers. This is a depositor’s check rec-ognlzed and 
   the face of the check, over his signa-ture. a statement that it is “good when prop-erly
   Indorsed” for the amount of money writ-ten iu the body of the check
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

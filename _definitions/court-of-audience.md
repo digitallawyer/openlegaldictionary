@@ -7,5 +7,6 @@ body: Ecclesiastical courts, in which the primates once exercised in person a co
   used on the rare occur-rence of the trial of a bishop. Phillim. Ecc. Law, 1201,
   1204
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

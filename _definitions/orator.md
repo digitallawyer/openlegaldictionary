@@ -7,5 +7,6 @@ body: The plaintiff in a cause or matter in chancery, when addressing or pe-titi
   terms have long gone Into disuse, and the customary phrases now are “plaintiff"
   or “petitioner.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: A term used in logic to de-note an argument founded on analogy, or abstrac
   considerations, or one which, positing a general principle or admitted truth as
   a cause, proceeds to deduce from it the effects which must necessarily follow
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

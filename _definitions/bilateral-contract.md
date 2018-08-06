@@ -8,5 +8,6 @@ body: A term, used originally in the civil law, but now generally adopted, denot
   to deliver the thing sold, and the other to pay the price of it Montpelier Seminary
   v. Smith, 69 Vt 382, 38 Atl. 66
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In old English law. This term was used as descriptive of the con-dltion of
   might be slain and their heads carried to the king, for they were no more to be
   ac-counted of than wolves. Termes de la Ley, “woolferthfod
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

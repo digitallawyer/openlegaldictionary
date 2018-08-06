@@ -9,5 +9,6 @@ body: A mischievous legisla-tive practice, of embracing in one bill several dist
   Ala. 369; Com. v. Barnet, 199 Pa. 161, 48 Atl. 976, 55 L. R. A. 882; o’Leary v.
   Cook County, 28 111. 534; St. Louis v. Tiefel, 42 Mo. 590
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

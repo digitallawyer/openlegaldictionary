@@ -10,5 +10,6 @@ body: This term is of too wlde and uncertaln slgnlficatlon to support a bequest 
   force. Hughes v. Daly, 49 Conn. 35. But see McAndrews v. Hamilton County, 105 Tenn.
   399, 58 S. W. 483
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

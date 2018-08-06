@@ -8,5 +8,6 @@ body: The mere right of property in land; the abstract right which remains to th
   constitutes a complete title to lands, tenements, and hereditaments. 2 Bl. Comm.
   197
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

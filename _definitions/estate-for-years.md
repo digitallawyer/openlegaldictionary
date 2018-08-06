@@ -11,5 +11,6 @@ body: A species of es-tate less than freehold, where a man has an lnterest in la
   2 Bl. Comm. 140. See Hutcheson v. Hodnett, 115 Ga. 990, 42 S. El 422; Despard v.
   Churchill, 53 N. Y. 192; Brown ▼. Bragg, 22 Ind. 125
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -14,5 +14,6 @@ body: He owes and de-tains. words anciently used in the original writ, (aud now,
   for a debt due to or from the testator,) the action is said to be “in the detinct"
   alone. Fltzh. Nat. Brev. 119, G.; 3 Bl. Comm. 155
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

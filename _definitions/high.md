@@ -8,5 +8,6 @@ body: This term, as used In various -compound legal phrases, is sometimes merely
   in-etances it Implies superiority in respect to Importance, size, or frequency or
   publicity of use, e. g., "high seas," "highway.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

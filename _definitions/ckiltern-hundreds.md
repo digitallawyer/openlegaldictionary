@@ -13,5 +13,6 @@ body: In Engllsh law. The stewardship of the Chiltern Hundreds is a nominal ofii
   of the treasury for the stewardship of oue of the Chiltern Hundreds, which having
   recelv-ed, and thereby accomplished his purpose, he again resigns the office. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

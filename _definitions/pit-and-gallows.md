@@ -6,5 +6,6 @@ body: In Scotch law. A privilege of Inflicting capital punishment for theft, giv
   by King Malcolm, by which a woman could be drowned in a pit, (fossoj or a man hanged
   on a gallows, (furca.) BelL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

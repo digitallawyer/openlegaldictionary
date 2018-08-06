@@ -9,5 +9,6 @@ body: A public an-nouncement of an intended marriage, requir-ed by the English l
   the marringe should not take place. The publication of the bans may be dispensed
   with by procuring a special license to marry
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

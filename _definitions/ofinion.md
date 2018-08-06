@@ -8,5 +8,6 @@ body: 1. In the law of evldence, oplnlon is an inference or conclusion drawn by 
   pro-cess of absolutely necessary reasoning. See Lipscomb v. State, 75 Miss. 559,
   23 South. 210
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

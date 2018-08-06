@@ -7,5 +7,6 @@ body: In praotioe. The arbitrament of the king or judge in punishing offenses uo
   fined for bringing or defending an unjust snit, or to be liable to punishment in
   the discretion of the court
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

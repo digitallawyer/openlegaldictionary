@@ -7,5 +7,6 @@ body: In pleading. “To the damage." The technical name of that cIause of the w
   damages which he claims. Cole v. Hayes, 78 Me. 539, 7 Atl. 391; Vincent ▼. Life
   Ass'n, 75 Conn. 650, 55 Atl. 177
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

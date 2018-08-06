@@ -6,5 +6,6 @@ body: A county which has its lawful officers, legal maehin-ery, and means for ca
   out the powers and performing the duties pertaining to it as a quasi municipal corporation.
   In re Section No. 6, 66 Minn. 32, 68 N. W. 323
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

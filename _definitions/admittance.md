@@ -7,5 +7,6 @@ body: 'In English law. The act of giving possession of a copyhold es-tate. It is
   or reverted to him. (2) Upon surrender by the former tenant (3) Upon descent, where
   the heir is tenant on his ancestor’s death'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

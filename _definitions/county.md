@@ -13,5 +13,6 @@ body: The name given to the principal subdivisions of the kingdom of Eng-land an
   rights and duties. Patterson v. Temple, 27 Ark. 207; Eagle v. Beard, 33 Ark. 501;
   wooster v. Plymouth, 62 N. H. 208
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

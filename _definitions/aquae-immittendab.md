@@ -6,5 +6,6 @@ body: A civil law easement or servitude, consisting in the right of one whose ho
   is surrounded with other buildings to cast waste water upon the adja-cent roofs
   or yards. Similar to the common
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

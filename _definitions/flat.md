@@ -8,5 +8,6 @@ body: A place covered with water too shallow for navigation with vessels ordinar
   946; Church v. Meeker, 34 Conn. 424; Jones v. Janney, 8 watts & S. (Pa.) 443, 42
   Am. Dec. 309
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

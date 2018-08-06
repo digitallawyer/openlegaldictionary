@@ -8,5 +8,6 @@ body: This word is a very indefinite term. It is applied to any locality, limite
   designated by it must generally be deter-mined by the connection in which it is
   nsed. Law v. Fairfield, 46 Vt 432
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: The phrase “lt is un-derstood,” when employed as a word of con-tract i
   agreement, has the same force as the words “it is agreed.” Higginson v. weld, 14
   Gray (Mass.) 165
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

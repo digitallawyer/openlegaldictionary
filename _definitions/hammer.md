@@ -6,5 +6,6 @@ body: Metaphorically, a forced sale or sale at public auction. “To bring to th
   to put up for sale at auction. “Sold under the hammer,” sold by an oflicer of the
   law or by an auctioneer
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

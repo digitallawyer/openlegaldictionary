@@ -6,5 +6,6 @@ body: SI. In old conveyancing. I have demised. Dimisi, concessi, et ad flrmam tr
   have demised, granted, and to farm let. Tbe usual words of operation in a lease.
   2 Bl. Comm. 317, 318
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

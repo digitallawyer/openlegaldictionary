@@ -8,5 +8,6 @@ body: An estate created by a conveyance absolute in lts form, hut intended to se
   to the terms prescribed at the time of making such conveyance. 1 washb. Real Prop.
   *473
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

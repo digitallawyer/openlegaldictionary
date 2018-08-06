@@ -6,5 +6,6 @@ body: Neglect, faU-ure, or refusal to do or perform an act stipu-lated to be don
   Failure to keep the terms of a contract or covenant, in respect to acts or doings
   agreed upon
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

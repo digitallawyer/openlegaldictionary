@@ -7,5 +7,6 @@ body: The act of examining and counting the returns of votes cast at a pub-lic e
   95 lowa, 410, 64 N. W. 290; Hudson v. Solomon, 19 Kan. 180; People v. Sausalito,
   106 Cal. 500, 39 Pac. 937; In re Stew-art, 24 App, Dlv. 201, 48 N, Y. Supp. 957
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

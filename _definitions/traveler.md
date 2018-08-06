@@ -7,5 +7,6 @@ body: The term is used in a broad sense to designate those who patronize inns. T
   may be a traveler, and therefore a guest at an inn, as well as he who comes from
   a distance or from a foreign cohntry. walling v. Potter, 35 Conn. 185
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

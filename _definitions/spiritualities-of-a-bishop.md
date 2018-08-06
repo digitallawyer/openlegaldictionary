@@ -8,5 +8,6 @@ body: Those profits which a bishop receives in hls ecclesiastical character, as 
   of parliament, and which are termed hls “temporalities,” consisting of certain lands,
   revenues, and lay fees, etc. Cowell.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

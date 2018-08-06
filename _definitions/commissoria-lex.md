@@ -10,5 +10,6 @@ body: In Roman iaw. A clause which might be Inserted iu an agreement for a sale 
   of the creditor. This, however, was abol-lshed by a law of Constantine. Cod. 8,
   35, 3. See Dig. 18, 3; Mackeld. Rom. Law, SS 447, 461; 2 Kent, Comm. 5S3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

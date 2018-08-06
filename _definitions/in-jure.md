@@ -8,5 +8,6 @@ body: In law; according to law. In the Roman practice, the procedure in an actio
   ques-tions of law. The second stage was committed to the judex, and comprised the
   In-vestigatlon and trial of the facts; this was said to be in judicio
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

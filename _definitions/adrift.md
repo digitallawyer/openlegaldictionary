@@ -7,5 +7,6 @@ body: Sea-weed, between high and low wnter-mnrk, which lias not been deposlt-ed 
   is adrift, although the bottom of the mass may touch the beach. Anthony v. Gifford,
   2 Allen (Ma88.) 549
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

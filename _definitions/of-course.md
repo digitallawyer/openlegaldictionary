@@ -8,5 +8,6 @@ body: 'Any action or step taken • in the course of judicial proceedings which 
   is said to be “of course.” Stoddard v. Treadwell, 29 Cal: 281; Merchants’ Bank v.
   Crysler, 67 Fed. 390, 14 C. C. A. 444'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

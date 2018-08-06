@@ -12,5 +12,6 @@ body: 'As to what, by the common law, is reckoned night and what day, it seems t
   states, but in others “night” has been defined by statute as tbe period between
   sunset and sunrise'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

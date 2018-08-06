@@ -7,5 +7,6 @@ body: In Mexican law. The dcsamortizacion of property is to take it oat of mortm
   or civil corporations. The term has no equivalent in English. Hall, Mex. Law, S
   749
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

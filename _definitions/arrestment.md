@@ -8,5 +8,6 @@ body: In Scotch law. Secur-ing a criminal's person till trial, or that of a debt
   or delivery till the debt due to the arrester be paid or secured. Ersk. Inst. 3,
   6, 2
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

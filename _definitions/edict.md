@@ -7,5 +7,6 @@ body: A positive law promulgated by the sovereign of a country, and having refer
   of state. It differs from a “public proclamation,” in that it enacts a new statute,
   and carries with it the authority of law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

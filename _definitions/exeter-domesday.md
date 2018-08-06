@@ -10,5 +10,6 @@ body: The name given to a record preserved among the muniments and charters belo
   the direction of Sir Henry Ellis, in a volume supplementary to the Great Domesday,
   folio, London, 1816. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

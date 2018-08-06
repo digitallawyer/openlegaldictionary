@@ -7,5 +7,6 @@ body: A writ that lies for tbe distrainor of goods (when, on re-plevin brought, 
   to have them returned to him according to law, together with damages and costs.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

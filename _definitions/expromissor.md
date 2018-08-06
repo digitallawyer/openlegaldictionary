@@ -7,5 +7,6 @@ body: In the civil law. A person who assumes the debt of another, and becomes so
   as tills contract is one of novation, while a surety is jointly liable with his
   principal. Mackeld. Rom. Law,
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

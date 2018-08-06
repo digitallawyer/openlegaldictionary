@@ -6,5 +6,6 @@ body: In the civil law. A condition intermediate between infancy and pu-berty, c
   in boys from the seventh to the fourteenth year of their age, and in girls from
   seven to twelve
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

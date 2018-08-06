@@ -6,5 +6,6 @@ body: A writ addressed to the steward and marshal of England, inhlblt-Ing them t
   take cognizance of an action in thelr court that concerns freehold. Reg. orlg. 185.
   Abolished
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

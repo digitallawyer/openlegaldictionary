@@ -14,5 +14,6 @@ body: d by the inhabitants of a manor to their ord, towards the charge of holdin
   sometimes so called iu the old books.—Oom-mon prayer. The liturgy, or public form
   of
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

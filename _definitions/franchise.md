@@ -15,5 +15,6 @@ body: A apecial privilege conferred by government npon an individual or corporat
   538; Thompson v. People, 23 wend. (N. Y.) 578; Black River Imp. Co. v. Hol-way,
   87 wis. 584, 59 N. W. 126; Central Pac
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

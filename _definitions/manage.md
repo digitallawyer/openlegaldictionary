@@ -9,5 +9,6 @@ body: To conduct; to carry on; to direct the concerns of a business or establtsb
   15 Nev. 48; watson v. Cleveland, 21 Conn. 541; The Silvia, 171 U. S. 462, 19 Sop.
   Ct. 7, 43 L. Ed. 241
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

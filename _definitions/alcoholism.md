@@ -8,5 +8,6 @@ body: In medical jurispru-dence. The pathological efTect (as distin-guished from
   of delirium tremens and alcoholic homicidal mania are examples of this form. It
   is chronic when resulting from the long
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

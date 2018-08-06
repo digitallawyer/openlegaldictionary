@@ -9,5 +9,6 @@ body: In Roman law. The heir, or universal successor in the event of death. The 
   the estate-leaver, inasmuch as he represents him in all hls active and passive relations
   to his estate. Mackeld. Rom. Law, $ 651
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

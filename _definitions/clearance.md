@@ -6,5 +6,6 @@ body: In maritime law. A document in the nature of a certificate given by the co
   of customs to an outward-bound vessel, to the effect that she has corn-plied with
   the law, and is duly authorized to depart
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

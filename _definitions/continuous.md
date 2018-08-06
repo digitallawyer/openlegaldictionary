@@ -7,5 +7,6 @@ body: Uninterrupted; unbroken ; not intermittent or occasional; so persistently 
   Co., 22 N. J. Eq. 402; Hofer’s Appeal, 116 Pa. 360, 9 Atl. 441; Ingraham v. Hough,
   46 N. C. 43
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

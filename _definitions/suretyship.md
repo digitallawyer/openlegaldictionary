@@ -8,5 +8,6 @@ body: 'The contract of suretyship is that whereby one obligates himself to pay t
   in this: that the consideration of the latter is a benefit flowing to the guarantor.
   Code Ga. 1882, | 2148. See Subett'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

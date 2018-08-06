@@ -7,5 +7,6 @@ body: This is either a writ of dower unde nihil habet. which lies for a widow, c
   a writ of right of dower, whereby she seeks to recover the re-mainder of the dower
   to wbich she is enti-tled, part having been already received from the tenant
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

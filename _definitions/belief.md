@@ -7,5 +7,6 @@ body: A conviction of the truth of a proposition, existing subjectively in the m
   v. State, 102 Ga. 50G, 31 S. E. 92. Belief is to be distinguished from “proof,”
   “evidence,” and “testimony.” See Evidence
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: 'In French law. An at-torney-; one who has received a commission from anot
   in England, “solicitors of the supreme court.”) The order of procureurs was abolished
   in 1791, and that of ovouts established in their place. Mozley & whitley'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

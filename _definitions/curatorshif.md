@@ -7,5 +7,6 @@ body: The office of a curator. Curatorship differs from tutorship, (q. v.,) in t
   and, secondly, of the person; while the for-mer is Intended to protect, first, the
   person, and secondly, the property. 1 Lec. EL Dr. Civ. Rom. 24L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

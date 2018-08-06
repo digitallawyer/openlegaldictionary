@@ -7,5 +7,6 @@ body: Lat Together with. In actions of tort and in prosecutions, where several p
   it is usual to allege in the dec-laration or indictment that the persons therein
   named did the injury in question, “together with (simnl cum) other persons unknown.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

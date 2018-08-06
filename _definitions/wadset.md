@@ -8,5 +8,6 @@ body: In Scotch law. The old term for a mortgage. A right by which lands or othe
   one par-ty sells the land, and the other grants the rlght of reversion. Ersk. InsL
   2, 8, 3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

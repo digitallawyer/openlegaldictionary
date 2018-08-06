@@ -6,5 +6,6 @@ body: And this he prays may be inquired of by the country. The conclu-sion of a 
   pleading, tendering an Issue to the country. 1 Salk. 6. Literally translated in
   the modem forms
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

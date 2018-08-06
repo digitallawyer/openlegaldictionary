@@ -7,5 +7,6 @@ body: Two officers who cleaved the tallies written by the clerk of the tallies, 
   en-tries were true. They also made searches for records in the treasury, and had
   the custody of Domesday Book. Cowell. The office is now abolished
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

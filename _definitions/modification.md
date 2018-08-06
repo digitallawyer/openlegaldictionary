@@ -8,5 +8,6 @@ body: A change; an altera-tion which introduces new elements into the details, o
   Tuck-er, 36 or. 291, 61 Pac. 894. 51 L. R. A. 246; Astor v. L’Amoreux, 4 Sandf.
   (N. Y.) 538
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

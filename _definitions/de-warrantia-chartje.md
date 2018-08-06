@@ -9,5 +9,6 @@ body: writ of warranty of charter. A writ which lay for him who was enfeoffed, w
   him to warrant the land unto him. Reg. orig. 157b; Fitzh. Nat Brev. 134, Dt Abolished
   by St 3 & 4 wm. IV. c. 27
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

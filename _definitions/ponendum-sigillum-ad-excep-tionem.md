@@ -6,5 +6,6 @@ body: A writ by which justices were required to put their seals to exceptions ex
   by a defendant against a plalntlfTs evldence, verdlct, or other proceedings, be-fore
   them, according to the statute westm. 2, (13 Edw. I. St. 1, c. 31
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

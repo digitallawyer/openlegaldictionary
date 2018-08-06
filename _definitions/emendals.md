@@ -7,5 +7,6 @@ body: An old word still made use of in the accounts of the society of the Inner 
   so much money in the bank or stock of tbe houses, for reparation of losses, or other
   emergent occasions. Spelman
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

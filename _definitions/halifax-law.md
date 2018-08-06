@@ -8,5 +8,6 @@ body: A synonym for lynch law, or the summary (and unauthorized) trlal of a pers
   by the free burghers in tHe case of per-sons accused of stealing; also called “gibbet
   law.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

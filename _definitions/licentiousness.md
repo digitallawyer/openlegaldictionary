@@ -8,5 +8,6 @@ body: The Indulgence of the arbitrary will of the individual, wlth-out regard to
   moral freedom, with Justice to all men and obedience to the lows, welch v. Durand,
   36 Conn. 184, 4 Am. Rep. 55; State v. Brigman, 94 N. C. 889
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

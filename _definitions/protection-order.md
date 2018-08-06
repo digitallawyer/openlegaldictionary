@@ -6,5 +6,6 @@ body: In English practice. An order for the protection of the wife’s property,
   the husband has will-fully deserted her, issuable by the divorce court under statutes
   on that subject
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

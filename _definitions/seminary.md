@@ -6,5 +6,6 @@ body: A place of education. Any school, academy, college, or university in which
   persons are instructed in the several branches of learning which may qual-ify them
   for thelr future employments, webster
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

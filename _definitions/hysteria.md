@@ -7,5 +7,6 @@ body: A paroxysmal disease or disorder of the nervous system, more common in fem
   physical causes, and attended, in the acute er convulsive form, by extraordinary
   manifesta-tions of secondary effects of extreme nervous-ness
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

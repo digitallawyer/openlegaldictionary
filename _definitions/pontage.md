@@ -6,5 +6,6 @@ body: Ih old English law. Duty paid for the reparation of bridges; also a due to
   lord of the fee for persons or merchandises that pass over rivers, bridges, eta
   Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

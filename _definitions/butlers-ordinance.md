@@ -8,5 +8,6 @@ body: In English law. A law for the heir to punish waste in the life of the ance
   or lords in parliament, which never obtained the strength or force of an act of
   parliament.” Hale, Hist. Eng. Law, p. 18
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

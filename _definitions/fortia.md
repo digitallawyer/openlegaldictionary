@@ -10,5 +10,6 @@ body: Force. In old English law. Force used by an accessary, to enable the princ
   was com-mitted, and he that furnished it was not pres-ent when the fact was done.
   2 Inst. 182. —Fortia frisca. Fresh force, (q. c
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

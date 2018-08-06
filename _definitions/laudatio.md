@@ -7,5 +7,6 @@ body: Lat. In Roman law. Testimony dellvered in court concernlng an ac-cdsed per
   our trials of calllug persons to speak to a prisoner’s character. The least number
   of the laudatores among the Romans was ten. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

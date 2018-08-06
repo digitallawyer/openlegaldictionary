@@ -8,5 +8,6 @@ body: In English parliamentary practice. In the commons, this of-flcer, always a
   means, or supply, or in committee to consider preliminary resolu-tions, it is his
   duty to preside
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

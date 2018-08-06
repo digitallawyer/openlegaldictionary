@@ -6,5 +6,6 @@ body: Fr. In French law. A formula put upon a bill of exchange to signify that t
   drawer waives protest, and will not be responsible for costs arising thereon. Arg.
   Fr. Merc. Law, 573
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

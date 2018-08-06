@@ -7,5 +7,6 @@ body: Rightful dominion over external objects; ownership; the unrestrict-ed and 
   way, to possess lt, to use it, and to exclude every one else from Interfering with
   lt. Mackeld. Rom. Law, 8 266
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: I. one of the arbitrary marks or characters constituting the alphabet, and
   significance in jurisprudence, as ab-breviations and otherwise, or are employed
   as numerals
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

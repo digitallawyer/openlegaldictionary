@@ -8,5 +8,6 @@ body: 1. To block up; to inter-pose obstacles; to render impassable; to fill wit
   Rep. 898; overhouser v. American Cereal Co., 118 Iowa, 417, 92 N. W. 74; Gorham
   v. withey, 52 Mich. 50,17 N. W. 272
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: Lat. I forbid. The veto-power is a power vested in the executive officer o
   formalities, or the veto may he merely suspensive. See People v. Board of Coundlmen
   (Super. Buff.) 20 N. Y. Supp. 5L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: L. Lat in ecclesiastical law. one whose office It was to give or convey an
   matters, gave an-swers, counsel, or advice; otherwise termed a congilitg. Spelman,
   “Apocrigiuriug”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

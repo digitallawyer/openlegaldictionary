@@ -7,5 +7,6 @@ body: In maritime law. The party by whom a vessel is engaged or charter-ed; othe
   is called the “freighter,” (freteur;) the merchant who hires It is called the “af-freighter,”
   (affreteur.) Emerig. Tr. des Ass. ch. 11. $ 3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

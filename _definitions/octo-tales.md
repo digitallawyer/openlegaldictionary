@@ -7,5 +7,6 @@ body: Eight such; eight such men; eight snch jurors. The name of a writ, at comm
   fill the panel, commanding the sheriff to summon the requisite number. 3 BL Comm.
   364. See Dkcem Tales
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

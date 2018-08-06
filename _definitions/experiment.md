@@ -12,5 +12,6 @@ body: In patent law, either a trial of an uncompleted mechanical structure to as
   Northwestern Fire Ex-tinguisher Co. v. Philadelphia Fire Extinguisher Co., 10 Phila.
   227, 18 Fed. Cns. 394
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

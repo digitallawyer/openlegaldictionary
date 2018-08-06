@@ -7,5 +7,6 @@ body: From or out of lease or letting. A term of the civil law, applied to actio
   28. Adopted at an early period in the law of Eng-land. Bract fol. 102; 1 Reeve,
   Eng. Law, 168
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

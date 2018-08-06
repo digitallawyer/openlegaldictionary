@@ -8,5 +8,6 @@ body: A lack, shortage, or in-sufficiency. The difference between the total amou
   is called a “deficiency judgment” or “decree.” Goldsmith v. Brown, 35 Barb. (N.
   Y.) 492
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: To put to death by passing through the body a current of elec; tricity of 
   convicted criminals in some of the states, is a vulgar neologism of hybrid origin,
   which should be discountenanced
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: A large staff, made of the precious metals, and highly ornamented. It is n
   hy the sergeant-at-arms on extraordinary occasions, as when it is necessary to quell
   a disturbance or bring refractory members to order
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

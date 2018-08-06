@@ -10,5 +10,6 @@ body: As applied to an estate, perdurable signifies lasting long or forever. Thu
   it issues are held for equal* ly high and perdurable estates. Co. Lltt. 313a, 313b;
   Gale, Easem. 582; Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

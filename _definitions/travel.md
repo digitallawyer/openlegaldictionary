@@ -8,5 +8,6 @@ body: To go from one piace to another at a distance; to journey; spoken of volun
   v. State, 28 Tex. App. 44, 11 S. W. 832; State v. Smith, 157 Ind. 241, 61 N. E.
   566, 87 Am. 8t. Rep. 205
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: An inclosure formed upon the surface of a stream or other body of water, b
   Co. v. Green, 76 Mich. 320, 43 N. W. 576; Gas-per v. Heimbach, 59 Minn. 102, 60
   N. W. 1060; Boom Corp. v. whiting, 29 Me. 123
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In English law. The name of a court anciently held as a court of honor mer
   touchlng deeds of arms or war, as well as pleas of llfe or member. It also cor-rected
   encroachments in matters of coat-ar-mor, precedency, and other dlstlnctions of
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

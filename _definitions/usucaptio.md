@@ -11,5 +11,6 @@ body: 'or USUCAPTIO. A term of Roman law used to denote a mode of ac-qulsition o
   The term “usucapio” is sometimes, hut erroneous-ly, wrltten “usucaptio” Brown. See
   Pavey v. Vance, 56 ohio St. 162, 46 N. E. 898'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

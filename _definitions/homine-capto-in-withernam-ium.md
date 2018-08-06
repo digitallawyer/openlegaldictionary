@@ -6,5 +6,6 @@ body: A writ to take him that had taken any bond man or woman, and led him or he
   out of the country, so that he or she could not be replevied accordlng to law. Reg.
   orig. 79
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

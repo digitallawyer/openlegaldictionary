@@ -6,5 +6,6 @@ body: As used in law, this word gen-erally slgnlfies the technlcal terms and phr
   approprlate to particular instruments, or aptly fitted to the expression of a particular
   intention in legal instruments. See the subtitles following
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

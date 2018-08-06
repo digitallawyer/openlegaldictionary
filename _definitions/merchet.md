@@ -6,5 +6,6 @@ body: In fendal law. A fine or composition paid by inferior tenants to the lord 
   liberty to dispose of their daughters in marriage. Cowell. The same as marcheta
   (q. v
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

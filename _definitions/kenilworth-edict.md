@@ -8,5 +8,6 @@ body: An edict or award between Henry III. and those who had been in arms agains
   in that rebellion, which composition was five years’ rent of the es-tates forfeited,
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

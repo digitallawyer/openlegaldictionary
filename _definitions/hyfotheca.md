@@ -12,5 +12,6 @@ body: “Hypotheca” was a term of the Roman law, and denoted a pledge or mortg
   which were subject to the landlord’s right as a creditor for rent; wheuce the Scotch
   law of hypothec
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

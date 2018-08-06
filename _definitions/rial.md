@@ -8,5 +8,6 @@ body: A piece of gold coin current for 10b., in the reign of Henry VI., at which
   James I. there were rose-rials of gold at 30s. and spur-rials at 15s. Lown. Essay
   Coins, 38
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: The estate to which by com-xuon law a man is entitled, on the death of his
   Billings v. Baker. 28 Barb. (N. Y.) 343; Templeton v. Twitty. 88 Teuu. 595, 14 S.
   W. 435; Jackson v. Johu
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

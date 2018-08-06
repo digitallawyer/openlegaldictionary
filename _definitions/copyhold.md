@@ -14,5 +14,6 @@ body: A species of estate at will, or customary estate in England, the only vis-
   be considered as the gen-eral or common-law tenure of the country. 1 Steph. Comm.
   210
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

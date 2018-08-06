@@ -8,5 +8,6 @@ body: Those lands which formerly belonged to the dukes of Lancaster, and now bel
   from It, especlally the Savoy in London and some land near west-minster. 3 Bl. Comm.
   78
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

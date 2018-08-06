@@ -7,5 +7,6 @@ body: A writ founded on Magna Charta, which lies for him who is amerced in a cou
   It Ib addressed to the lord of the court, or his bailiff, com-mandlng Elm to take
   a moderate amerclament of the parties. New Nat Brev. 167; Fltzh. Nat. Brev. 76
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

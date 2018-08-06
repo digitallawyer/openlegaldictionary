@@ -7,5 +7,6 @@ body: In the civil law. Chil-dren by a former marriage, (indlvidualiy called “
   by a former wife, and the daughter of a wife by a former husband, are the comprivigni
   of each other. Inst. 1, 10,8
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

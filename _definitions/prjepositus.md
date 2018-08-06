@@ -6,5 +6,6 @@ body: In old English law. An oflicer next in authority to the alderman of a hund
   called “prapositus regius;" or a steward or bailiff of an estate, answering to the
   “wicnere
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

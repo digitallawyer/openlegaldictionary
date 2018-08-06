@@ -6,5 +6,6 @@ body: In Scotch practice. A book kept by the directors of chancery, in which are
   all non-entry and re-lief duties payable by heirs who take precepts from chancery.
   BelL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

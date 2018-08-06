@@ -7,5 +7,6 @@ body: A particular and pecullar benefit or advantage enjoyed by a person, compan
   power or exemption. A right, power, franchise, or immunity held by a person or class,
   against or beyond the course of the law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In old praotioe. That part of a fine in whlch the defendant acknowledged t
   derlved its name, as being sur cognizance de droit, etc., and the parties thelr
   titles of cognizor and cognizec
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

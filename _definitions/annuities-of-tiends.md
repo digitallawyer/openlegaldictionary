@@ -7,5 +7,6 @@ body: Iu Scotch luw. Anuuities of tithes; 10s. out of the boll of tieud wheat, 8
   the crown yearly of the tiends not paid to the bishops, or set apart for other pious
   uses
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

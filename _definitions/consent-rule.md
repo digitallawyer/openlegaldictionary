@@ -6,5 +6,6 @@ body: In English practice. A superseded Instrument, in which a defendant in an a
   of ejectment specified for what purpose he intended to defend, and un-dertook to
   confess not only the fictitious lease, entry, and ouster, but that he was in possession
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

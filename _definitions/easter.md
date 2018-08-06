@@ -9,5 +9,6 @@ body: A feast of the Chrlstlan church held in memory of our Saviour’s resurrec
   which regu-lates and determines the times of all the other movable feasts. Enc.
   Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

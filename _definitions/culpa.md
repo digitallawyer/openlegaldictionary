@@ -8,5 +8,6 @@ body: Lat. A term of the civil law, meaning fault, neglect, or negligence. There
   of these (le-grees are precisely the same as those in our law. Story, Bailm. § 18.
   This term is to be distinguished from dolus, which meaus fraud, guile, or deceit
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

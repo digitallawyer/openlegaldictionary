@@ -7,5 +7,6 @@ body: An act is said to be intra vires (“within the power”) of a person or c
   of ultra vires, (q. v.) Pittsburgh, etc., R. Co. v. Dodd, 115 Ky. 176, 72 S. W.
   827
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

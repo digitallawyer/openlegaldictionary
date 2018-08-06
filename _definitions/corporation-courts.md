@@ -7,5 +7,6 @@ body: 'Certain courts in Virginia described as follows: “For each city of the 
   like qualifications and elected in the same manner as judges of the county court”
   Code Va. 1887, 8 3050'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

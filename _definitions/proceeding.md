@@ -12,5 +12,6 @@ body: In a general sense, the form and manner of conducting juridical business b
   6 N. Y. 309; Uhe v. Rall-way Co., 3 8. D. 563, 54 N. W. 601; State v. Gordon, 8
   wash. 488, 36 Pac. 498
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

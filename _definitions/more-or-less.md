@@ -8,5 +8,6 @@ body: Thls phrase, Inserted in a conveyance of land lmmediately after the statem
   or parcel described is to pass, without regard to ah excess or deficiency in the
   quan-tity it actually contains. See Brawley v. U
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

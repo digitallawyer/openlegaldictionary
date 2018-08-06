@@ -6,5 +6,6 @@ body: Lat Ia Roman law. A prodigal; a spendthrift; a person whose extravagant ha
   manifested an inability to administer his own affairs, and for whom a guardian might
   therefore be appointed
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

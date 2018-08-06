@@ -7,5 +7,6 @@ body: writ concerning an heir ravished and car-rled away. A writ which anciently
   hls body, the eame being carried away by an-other person. Reg. orig. 163; old Nat
   Brev. 93.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

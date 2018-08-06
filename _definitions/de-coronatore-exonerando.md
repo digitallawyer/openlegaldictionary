@@ -6,5 +6,6 @@ body: writ for discharging or removing a coroner. A writ by which a coroner in E
   may be removed from office for some cause there-in assigned. Fitzh. Nat Brev. 163,
   164; 1 BL Comm. 348.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

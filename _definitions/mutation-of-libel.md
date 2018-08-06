@@ -6,5 +6,6 @@ body: In practice. An amendment allowed to a libel, hy which there is an alterat
   of the substance of the libel, as by propounding a new cause of ac-tion, pr asking
   oue thing instead of another. Dunl. Adm. Pr. 213
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

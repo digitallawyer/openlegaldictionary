@@ -10,5 +10,6 @@ body: In prac-tice. The withdrawing of one of the twelve jurors from the box, wi
   each party pays his own costs. It is, how-ever, no bar to a future action for the
   same cause. 2 Tidd, Pr. 861, 862; 1 Archb. Pr
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

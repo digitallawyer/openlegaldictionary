@@ -8,5 +8,6 @@ body: A term sometimes ap-plied to one who is obliged to make his own defense wh
   putting in his statement of defeuse; or in not appearing at the trial either personally
   or by counsel, after having received due notice. Mozley & whitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

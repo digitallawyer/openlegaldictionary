@@ -9,5 +9,6 @@ body: A clause sometimes inserted in mortgages and deeds of trust, giv-lng the m
   convey by deed to the purchaser, return the surplus, If any, to the mortgagor, and
   thereby divest
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: A term used in a quasi legal sense, to lndlcate that the char-acter of ass
   same will not be good in the hands of any person other than the one to whom first
   issued
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

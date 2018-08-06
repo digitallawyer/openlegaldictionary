@@ -9,5 +9,6 @@ body: 'In Engllsh law. Gentle-men of the Inns of court and chancery. In Gray’s
   consist of ancients and students or clerks; from the ancients a principal or treasurer
   is chosen yearly, wharton'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

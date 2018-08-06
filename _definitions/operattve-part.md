@@ -7,5 +7,6 @@ body: That part of a conveyance, or of any instrument Intended for the creation 
   effect. It is distinguished from Introductory matter, recitals, formal couclu-slon,
   etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: The party receiving a deposit; one with whom anything is lodged in trust, 
   is that he keep the thing with reasonable care, and, upbn request, restore it to
   the depositor, or otherwise deliver it, according to the original trust
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

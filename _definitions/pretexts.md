@@ -9,5 +9,6 @@ body: In International law. Reasons alleged as Justificatory, but which are so o
   other international act,] are made use of only to cover ambitious views. Vatt. Law
   Nat. bk. 8, c. 3, f 32
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

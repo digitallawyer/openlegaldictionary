@@ -8,5 +8,6 @@ body: writ for taking cattle in wlth-ernam. A writ which lay where the sheriff r
   re-prlsal,) aud detain them until he could re-plevy the other cattle. Reg. orig.
   82; Fitzh. Nat. Brev. 73, E. F. See witueknam
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

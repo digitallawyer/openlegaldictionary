@@ -8,5 +8,6 @@ body: Generally, this term denotes the person who actually commits a crime or de
   as the “perpetrator” of the act, within the meaning of a statute giving an action
   against the perpetrator. Philo v. Illinois Cent. R. Co., 33 Iowa, 47
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

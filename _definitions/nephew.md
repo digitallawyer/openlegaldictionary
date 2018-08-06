@@ -9,5 +9,6 @@ body: The son of a brother or sister. But the term, as used in wills and other d
   24, 17 Atl. 173; Lyon v. Lyon, 88 Me. 395, 34 Atl. 180; Brower v. Bowers, 1 Abb.
   Dec. (N. Y.) 214; Green’s Appeal, 42 Pa. 25
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

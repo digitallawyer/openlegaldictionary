@@ -8,5 +8,6 @@ body: Lat in practice. A formal entry upon the record, by the plaintiff in a civ
   of the defendants, or altogether. State v. Primm, 61 Mo. 171; Com. v. Casey, 12
   Allen (Mass.) 214; Davenport v. Newton, 71 VL 11, 42 Atl. 1087
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

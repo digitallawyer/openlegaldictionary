@@ -8,5 +8,6 @@ body: That peculiar de-cay of the mental faculties which occurs in extreme old a
   even to execute a will. It is the recurrence of second childhood by mere de-cay.
   1 Redf. wills, 63. See Insanity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

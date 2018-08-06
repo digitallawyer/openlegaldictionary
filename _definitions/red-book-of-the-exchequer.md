@@ -7,5 +7,6 @@ body: An ancient record, wherein are registered the holders of lands per baronia
   the Conquest, and the ceremonies on the coronation of Eleanor, wife of Henry III.
   Jacob; CowelL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

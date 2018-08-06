@@ -9,5 +9,6 @@ body: A federal court created by act of Congress in 1891 (26 Stat 854 [U. S. Com
   and au-thority of this court were to cease and de-term ine at the end of the year
   1895.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

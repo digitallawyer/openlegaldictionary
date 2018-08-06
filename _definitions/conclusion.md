@@ -9,5 +9,6 @@ body: The end; the termina-tion; the act of finishing or bringing to a close. Th
   averment of the declaration is traversed and issue tendered) or offers a verification,
   which is proper where new matter is introduced. State v. waters, 1 Mo. App. 7
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

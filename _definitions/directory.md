@@ -15,5 +15,6 @@ body: A provision in a statute, rule of procedure, or the like, is sald to be dl
   133, 23 S. W. 1103; Payne v. Fresco, 4 Kulp (Pa.) 28; Bladen v. Philadelphia, 60
   Pa. 466
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

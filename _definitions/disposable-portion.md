@@ -8,5 +8,6 @@ body: That portlon of a man’s property which he is free to dispose of by will 
   v. wright, 17 Tex. 36. In the civil law (hy the Lex Falcidia) it amounted to three-fourths.
   Mackeld. Rom. Law, §8 708, 771
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

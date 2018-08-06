@@ -7,5 +7,6 @@ body: An instrument for measuring the density of fluids. Being ira-mersed in flu
   or their specific gravity, and thence their quality. See Rev. St U. S. S 2918 (U.
   S. Comp. St. 1901, p. 1927
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

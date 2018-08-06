@@ -6,5 +6,6 @@ body: A farmer; a cultivator or tiller of the ground. The word “farmer” is c
   used as synonymous with “hus-bandmnn,” but originally meant a tenant who cultivates
   leased ground
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

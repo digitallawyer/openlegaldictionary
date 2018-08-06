@@ -9,5 +9,6 @@ body: An act of grace, proceeding from the power intrusted with the execution of
   241, 39 Am. Rep. 558; Rich v. Chamberlain, 104 Mich. 436, 62 N. W. 584, 2" L. R.
   A. 573; Edwards v. Com., 78 Va. 39, 49 Am, Rep. 377
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

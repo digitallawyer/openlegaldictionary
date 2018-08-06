@@ -12,5 +12,6 @@ body: A crime is an act committed or omitted, in violation of a public law, eith
   projierly speak-ing, are synonymous terms; though in com-mon usage "crime” is made
   to denote such offenses as are of a deeper and more atrocious dye. 4 Bl. Comm. 5
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

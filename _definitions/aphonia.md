@@ -9,5 +9,6 @@ body: In medical jurisprudence. Loss of the power of articulate speech in conseq
   of the vocal cords, as also from aphasia, the latter heing a disease of the brain
   without lmpairment of the organs of speech
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

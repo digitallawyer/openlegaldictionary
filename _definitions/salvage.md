@@ -9,5 +9,6 @@ body: In maritime law. A compensation allowed to persons by whose assist-ance a 
   Rita, 62 Fed. 763, 10 C. C. A. 629 ; The Lyman M. Lnw (D. C.) 122 Fed. 822; The
   Blackwall, 10 wall. 11, 19 L. Ed. 870; The Spokane (D. C.) 67 Fed. 256
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

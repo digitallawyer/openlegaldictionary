@@ -7,5 +7,6 @@ body: As used in various compound le-gal terms, this word generally means ex-tra
   size, or Importance, dignity, etc. See Gulf, etc., R. Co. v. Smith, 87 Tex. 348,
   28
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

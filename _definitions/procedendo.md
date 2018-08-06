@@ -8,5 +8,6 @@ body: In practice. A writ by which a cause which has been removed from an inferi
   on insufficient grounds. Cowell; 1 Tidd, Pr. 408, 410; Yates v. People, 6 Johns.
   (N. Y.) 446
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

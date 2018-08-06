@@ -9,5 +9,6 @@ body: Dotage is that feebleness of the mental faculties -which proceeds from old
   functions gradually cease; the senses waste away hy degrees; and the mind is imper-ceptibly
   visited by decay, owing’s Case, 1 Bland (Md.) 389, 17 Am. Dec. 311
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

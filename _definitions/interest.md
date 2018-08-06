@@ -10,5 +10,6 @@ body: In property. The most general term that can be employed to denote a proper
   State ▼. Mc-Kellop, 40 Mo. 185; Loventhal v. Home Ins. Co., 112 Ala. 116, 20 South.
   419, 83 Lu R
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

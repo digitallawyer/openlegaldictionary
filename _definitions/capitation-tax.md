@@ -7,5 +7,6 @@ body: AX. one which is levied upon the person simply, without any reference to h
   any employment which he may follow. Gardner v. Hall, 61 N. C. 22; Leedy v. Bourbon,
   12 Ind. App. 486, 40 N. E. 640; Head-Money Cases (C. C.) 18 Fed. 139
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

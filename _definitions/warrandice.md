@@ -12,5 +12,6 @@ body: In Scotch law. warranty; a clause in a charter or deed by which tbe granto
   all sub-sequent or future deeds of the grantor. A simple warranty against the grantors
   own acts, whishaw
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

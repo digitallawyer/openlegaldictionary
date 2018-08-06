@@ -7,5 +7,6 @@ body: In the civil law. For the whole; as a whole. An obligatlon in solido is on
   and several. Henderson v. wadsworth, 115 U. S. 264, 6 Sop. Ct 140, 29 L. Ed. 377.
   Possession in aolidum is exclusive possession
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: In the language of the stock exchange, this is the operation per-formed by
   both buying and selling orders sep-arately and on the best terms obtainable for
   the respective customers. See McUlynn v. Seymour, 14 N. Y. SL Rep. 709
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

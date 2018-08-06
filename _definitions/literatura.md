@@ -8,5 +8,6 @@ body: "“Ad literaturam po-nere” means to put children to school. This libert
   being bred to letters, might enter into holy orders, and so stop or divert the services
   which he might otherwise do as heir to bis father. Paroch. Antiq. 401"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

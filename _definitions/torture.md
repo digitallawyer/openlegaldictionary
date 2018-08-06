@@ -7,5 +7,6 @@ body: In old criminal law. The question; the inflictlon of vlolent bodlly palii 
   nnd superintendence, in connection with the in-terrogatlon or examination of the
   person, a4
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

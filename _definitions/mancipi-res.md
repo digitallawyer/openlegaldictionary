@@ -11,5 +11,6 @@ body: LaL In Roman law. Certain classes of thlngs which could not be aliened or 
   and res nec mancipi being all other subjects of property. Like personal estate,
   res nec mancipi were not originally either valuable in se or valued. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -4,5 +4,6 @@ letter: E
 permalink: "/definitions/excambiator.html"
 body: An exchanger of lands; a broker. Obsolete
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

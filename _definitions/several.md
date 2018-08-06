@@ -6,5 +6,6 @@ body: Separate; Individual; inde* pendent. In this sense the word is distin-guis
   from “joint” Also exclusive; Individual ; appropriated. In this sense it is op-posed
   to “common.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

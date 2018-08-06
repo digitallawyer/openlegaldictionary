@@ -9,5 +9,6 @@ body: In criminal law. The re-ceiving or offering any undue reward by or to any 
   v. Mar-shall, 80 Ky. 552; Walsh v. People, 65 111. 65, 16 Am. Rep. 569; Com. v.
   Murray, 135 Mass. 530; Hutchinson v. State, 36 Tex. 294
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

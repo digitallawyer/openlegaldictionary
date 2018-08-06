@@ -9,5 +9,6 @@ body: A scroll; a writing; a deed. Particularly a deed delivered by the grantor 
   Lansing, 57 Barb. (N. Y.) 427; Davis v. Clark, 58 Kan. 100, 48 Pac. 563; Easton
   ▼. Driscoll, 18 R. I. 318, 27 Atl. 445
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

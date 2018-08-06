@@ -9,5 +9,6 @@ body: In Scotch law. These are either (1) actions of proper improbatiou for decl
   and (3) actions of simple reduction, for de-claring a writing called for null until
   pro-duced. Ersk. Prln. 4,1, 5
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

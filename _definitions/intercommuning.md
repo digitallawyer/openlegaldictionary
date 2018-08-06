@@ -10,5 +10,6 @@ body: Letters of Inter-communing were letters from the Scotch privy council pass
   dealt with accordingly; and desiring all sheriffs, bailies, etc., to apprehend and
   commit such rebels to prison. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

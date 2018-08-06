@@ -6,5 +6,6 @@ body: In English law. The name of a wrlt which lies for him who. having recovere
   lands and tenements by force of a novel disseisin, is again disseised by a former
   disseisor. Jacob
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: Lat. An additional name or title; a nickname. A name or title which a man 
   by some action or peculiarity; the last of tlie four names sometimes given a Roman.
   Thus, Scipio Africanus, (the Afri-can,) from his African victories. Ainsworth; Calvin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

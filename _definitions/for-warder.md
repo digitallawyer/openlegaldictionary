@@ -10,5 +10,6 @@ body: MERCHANT, or FOR-WARDER. one who receives and forwards goods, taking upon 
   17 Pac. 910; Ackley v. Kellogg, 8 Cow. (N. Y.) 224; Place v. Union Exp. Co., 2 IIilt.
   (N. Y.) 19; Bush’v. Miller, 13 Barb. (N. Y.) 488
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

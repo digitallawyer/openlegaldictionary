@@ -7,5 +7,6 @@ body: In English law. A body of officers and men raised and equipped by the comm
   manning of the navy in case of war or sudden emergency, as well as for the protection
   of the revenue against smugglers. Mozley & whitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

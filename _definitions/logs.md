@@ -9,5 +9,6 @@ body: Stems or trunks of trees cut into convenient lengths for the purpose of be
   v. Hayward, 40 Me. 148; State v. Addington, 121 N. C. 538, 27 S. E. 988; Code W.
   Va. 1899. p. 10n, 8 27 (Code 1906, S 2524
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

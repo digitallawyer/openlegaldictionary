@@ -6,5 +6,6 @@ body: Hurtful; offensive; offensive to the smell. Rex v. whlte, 1 Burrows, 337. 
   word "noxious" includes the complex Idea both of insalubrity and offenslveness.
   Id
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A proper lookout on a vessel is some one In a favorable position to see, s
   they are meetlug or about to pass. The Genesee Chief v. Fitzhugh, 12 How. 462, 13
   L. Ed. 1058
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

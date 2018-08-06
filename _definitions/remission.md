@@ -7,5 +7,6 @@ body: In tbe civil Uw. A release of a debt it is conventional, when it is expres
   the creditor voluntarily surrenders to his debtor the original title, under private
   signature constituting the obligation. Civ. Code La. art. 2195
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A chequered cloth resembling a chess-board which covered the table , in th
   sums were marked and scored with coun-ters. Hence the court of exchequer, or curia
   seaccarii, derived its name. 3 Bl. Comm. 44
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

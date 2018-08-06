@@ -9,5 +9,6 @@ body: In Spanish law. The name of a code of laws, more fully described as “Las
   Roman law. This work has always been regarded aa of the highest authority in Spain
   and in those countries and states which bave derived their jurispru-dence from Spain
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

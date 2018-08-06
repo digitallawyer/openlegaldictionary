@@ -7,5 +7,6 @@ body: Concerning the property of religious persons carried away. The title of th
   which was the waste they suffered by being drained into foreign countries. 2 Reeve.
   Eng. Law. 157; 2 lost. 580.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In maritime law, and particularly wlth reference to the stowage of cargo, 
   (side or rail) of the vessel. See Al-len v. St Louis Ins. Co., 46 N. Y. Super. Ct
   181
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

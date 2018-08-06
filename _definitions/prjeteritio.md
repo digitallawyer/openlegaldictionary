@@ -7,5 +7,6 @@ body: Lat A passing over or omission. Used in the Roman law to de-scribe the act
   by, that is. neither Instituting nor formally disinheriting hlm. See Mack-eld. Rom.
   Law, f 711
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

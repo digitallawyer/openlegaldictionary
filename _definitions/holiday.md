@@ -7,5 +7,6 @@ body: A religious festival; a day set apart for commemorating some important eve
   of business are suspended and the courts closed, and, generally, no legal process
   is served
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

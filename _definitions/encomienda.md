@@ -8,5 +8,6 @@ body: In Spanish law. A grant from the crown to a private person of a certain po
   Pol. Science, 161, 162. Also a royal grant of prlvlleges to the military orders
   of Spain
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

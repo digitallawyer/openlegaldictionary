@@ -6,5 +6,6 @@ body: The running of a prescribed period of time to its end; expiration by lapse
   time. Particularly applied to the terml-nation of a lease by the expiration of the
   term for which it was made
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

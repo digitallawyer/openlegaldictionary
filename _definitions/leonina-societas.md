@@ -7,5 +7,6 @@ body: Lat. An at-tempted partnership, in which one party was to bear all the los
   apparently, it would also be void as a partnership in English law, as being inherently
   inconsistent with the notion of partnership. (Dig. 17, 2, 29, 2.) Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

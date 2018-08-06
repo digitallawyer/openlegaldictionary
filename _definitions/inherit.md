@@ -7,5 +7,6 @@ body: To take by inheritance; to take as heir on the death of the ancestor. Warr
   v. Scott, 113 U. S. 340, 6 Sup. Ct. 652, 28 Lu Ed. 1015. “To Inherit to” a per-son
   is a common expression lh the books. 2 Bl. Comm. 254, 255; 3 Coke, 41
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

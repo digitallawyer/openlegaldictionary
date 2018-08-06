@@ -10,5 +10,6 @@ body: In mining law. A superficial deposit of sand, gravel, or disintegrated roc
   Montana Coal A Coke Co. v. Livingston, 21 Mont. 59, 52 Pac. 780; Gregory v. Pershbaker,
   73 Cal. 109, 14 Pac. 401; Freezer v. Sweeney, 8 Mont. 508, 21 Pac. 20
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

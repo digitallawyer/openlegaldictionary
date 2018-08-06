@@ -7,5 +7,6 @@ body: In some of the United States (e. g., Georgia) this name is given to the pr
   proving of wills and the ad-ministration of decedents’ estates. Veach v. Rice, 131
   U. S. 293, 9 Sup. Ot 730, 33 L. Ed. 163
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

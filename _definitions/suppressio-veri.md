@@ -8,5 +8,6 @@ body: Lat Suppression or concealment of the truth. “It is a* rule of equity, a
   in a fact material to the contract, the party injured may have relief against the
   contract” Fleming v. Slocum, 18 Johns. (N. Y.) 405, 9 Am. Dec. 224
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

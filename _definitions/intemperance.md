@@ -9,5 +9,6 @@ body: Habitual intemperance is that degree of intemperance from the use of intox
   Co., 9 R. I. 355; Zelgler ▼. Com. (Pa.) 14 Atl. 238; Tatum v. State, 63 Ala. 149;
   Elklns v. Buschner (Pa.) 16 Atl. 104
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

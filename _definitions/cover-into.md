@@ -8,5 +8,6 @@ body: The phrase “covered ln-to tbe treasury,” as used in acts of congress a
   depositing it with the treasurer. U. S. v. Johnston, 124 U. S. 236, 8 Sup. Ct 446,
   31 L. Ed. 389
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

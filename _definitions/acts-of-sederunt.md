@@ -7,5 +7,6 @@ body: In Scotch law. ordinances for regulating the forms of pro-ceeding, before 
   the power by virtue of a Scotch act of parliament passed in 1540. Ersk. Prin. |
   14
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

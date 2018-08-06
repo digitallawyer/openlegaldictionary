@@ -7,5 +7,6 @@ body: To appoint a deputy; to ap-point or commission one to act as deputy to an 
   another in any capacity or relation, but in law it is almost always restricted to
   the substitution of a person appointed to act for an oflicer of the law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

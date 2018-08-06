@@ -8,5 +8,6 @@ body: To give security; to assure of payment, performance, or Indemnity; to guar
   in case the debtor fails to make payment See Pennell v. Rhodes, 9 Q. B. 114; Bx
   parte Reynolds, 52 Ark. 330, 12 8. W. 570; Foot v. webb, 59 Barb. (N. Y.) 52
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: 1. Birds and beasts of a wild nature, obtained by fowling and hunting. Bac
   England) hares, pheasauts, partridges, gronse, heath or moor game, black game, and
   bus-tards. Brown. See 1 & 2 wm. IV. c. 32
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

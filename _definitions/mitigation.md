@@ -9,5 +9,6 @@ body: Alleviation; abatement or diminution of a penalty or punishment Imposed by
   10 How. Prac. (N. Y.) 82; wandell v. Ed-wards, 25 Hun (N. Y.) 500; Hess v. New York
   Press Co., 26 App. Div. 73, 49 N. Y, Supp. 894
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: The original signification of this word was a day’s travel. It is now ap
   thus applied, it is employed to designate a travel whlch is without the ordinary
   habits, busi-ness, or duties of the person, to a distance
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

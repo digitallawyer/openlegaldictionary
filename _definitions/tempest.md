@@ -6,5 +6,6 @@ body: A violent or furious storm; a current of wind rushing with extreme violenc
   and usually accompanied with rain or snow. See Stover v. Insurance Co., 3 Phila.
   (Pa.) 39; Thistle v. Union Forwarding Co^ 29 U. C. O. P. 84
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

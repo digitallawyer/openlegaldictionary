@@ -9,5 +9,6 @@ body: In Saxon law. Greve, reve, or reeve; a ministerial oflicer of high antiq-u
   perpetuated in the modern “sheriff,”) down to the tun-gerefa, or town-reeve, and
   lower. Burrill
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: ETT’S CASE. A celebrated decision of the English king's bench, In 1771, 
   as a slave could not be thence removed except by the legal means applicable in the
   case of any free-born person
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

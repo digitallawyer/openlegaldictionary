@@ -7,5 +7,6 @@ body: Lat. In the civU law. Compensation, or set-off. A proceeding re-8embling a
   due to him from the plaintiff de-ducted from hls demand. Dig. 16, 2; Inst. 4, 6,
   30, 39 ; 3 Bl. Comm. 305
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

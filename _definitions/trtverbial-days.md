@@ -7,5 +7,6 @@ body: In the civil law. Juridical days; days allowed to the prsetor for deciding
   vlz., do, dico, addico. Cal-vln. otherwise called “dies fasti." 8 BL Comm. 424,
   and note u
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

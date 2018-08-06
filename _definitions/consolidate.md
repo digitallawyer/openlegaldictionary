@@ -8,5 +8,6 @@ body: To consolidate means something more than rearrange or redivide. In a gener
   unite them lnto one. In law, to consolidate benefices is to combine them into one.
   Fairview v. Durland, 45 Iowa, 56
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

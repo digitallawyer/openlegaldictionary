@@ -7,5 +7,6 @@ body: In modern civil law. The incidence of a law or statute upon per-sous, or t
   of laws, foreign jurists generally mean all laws which concern the condltion, state,
   and capacity of persons.” Story, Confl. Laws, $ 16
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

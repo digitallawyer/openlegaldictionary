@@ -8,5 +8,6 @@ body: 'In the civil law. Contracts having a proper or peculiar name and form, an
   something said; (31 literal, ex literis, from something written; and (4) consensual,
   ex consensu, from some-thing agreed to. Calvin'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

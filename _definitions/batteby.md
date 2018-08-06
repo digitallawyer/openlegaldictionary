@@ -8,5 +8,6 @@ body: Any unlawful beating, or other wrongful physical violence or con-stralnt, 
   200, 298; Hunt v. People, 53 111. App. 112; Perkins v. Stein, 94 Ky. 433, 22 S.
   W. 649, 20 L. R. A. 861. And see Beat
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

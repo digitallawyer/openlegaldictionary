@@ -7,5 +7,6 @@ body: In criminal law and medical jurisprudence. Personal or indlvid-ual peculia
   normal, or average types of men, but do not amount to mental unsound* ness or insanity.
   Eklu v. McCracken, 11 Phila. (Pa.) 535
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: 'Fr. These are, in French law, the immovables of English law. Thlngs are i
   supplied by the landlord; or (3) hy the object to which they are annexed, e. g.,
   easements. Brown'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

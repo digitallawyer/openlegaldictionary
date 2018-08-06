@@ -7,5 +7,6 @@ body: In practice. To serve a summons ; to cite a defendant to appear in conrt t
   action has been Instituted against him, and that he is required to answer to it
   at a time and place named
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

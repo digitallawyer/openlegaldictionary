@@ -8,5 +8,6 @@ body: In French Law. In a socidtd en commandite an associd en nom is one who is 
   in the firm-name or form part of the socidtd en nom collectif. Arg. Fr. Merc. Law,
   546
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

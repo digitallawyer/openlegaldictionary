@@ -7,5 +7,6 @@ body: Irrelevancy; the fault of not properly pertaining to the issue or proceedi
   in a suit, which are not properly before the court for decision, at any particular
   stage of the suit Story, Eq. PL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

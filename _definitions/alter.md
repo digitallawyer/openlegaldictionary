@@ -7,5 +7,6 @@ body: To make a change ln; to modi-fy; to vary in some degree; to change some of
   de-stroying the identity of the tiling affected. Hannibal v. winchell. 54 Mo. 177;
   Haynes v. State, 15 ohio St. 455; Davis v. Campbell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

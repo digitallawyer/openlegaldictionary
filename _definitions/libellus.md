@@ -10,5 +10,6 @@ body: Lat. In tbo civil law. A little book. Libcllus supplex, a petition, es-pee
   an inventory. Calvin. Libcllus or oratio consultoria, a mes-sage by which emperors
   laid matters before the senate. Id
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: A usage or practice of tlie people, which, by common adoption and ac-quies
   504; Strother v. Lucas, 12 I’et. 445. 9 L. Eil. 1137; Minis v. Nelson (C. C.) 43
   Fed. 779; Piinaud v. Jones, 1 Cal. 498; llursli v. North. 40 Pa. 241
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

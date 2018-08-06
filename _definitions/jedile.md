@@ -7,5 +7,6 @@ body: In Roman law. An officer who attended to the repairs of the temples and ot
   and measures; the providing for funerals and games; and regulating the prices of
   provl-sions. Ainsw. Lex.; Smith, Lex.; Dn Cange
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

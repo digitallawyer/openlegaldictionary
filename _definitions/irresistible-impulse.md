@@ -10,5 +10,6 @@ body: Used chief-ly in criminal law, this term means an im-pulse to commit an un
   App. 279, 3 S. W. 539, 58 Am. Rep. 638; State v. Peel, 23 Mont. 358, 59 Pac. 169,
   75 Am. St. Rep. 529. And see IN-sANITY
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

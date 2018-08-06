@@ -7,5 +7,6 @@ body: In old Engllsh and Scotch law. An assise; a kind of jury or inquest; a wri
   quantity, quality, price, or weight; a tribute, fine, or tax; a .real action; the
   name of a writ. See Assise
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

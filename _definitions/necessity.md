@@ -9,5 +9,6 @@ body: 'Controlling force; irresistible compulsion; a power or impulse so great t
   to the laws, or the obedience of one not sui juris to his superior; (3) the necessity
   caus'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

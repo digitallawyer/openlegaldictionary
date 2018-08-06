@@ -6,5 +6,6 @@ body: A liqnor saloon, bar-room, or dram-shop; a place where intoxi-cating liquo
   is sold to be drunk on the premises. See Leesburg v. Putnam, 103 Ga. 110, 29 S.
   E. 602
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

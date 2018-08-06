@@ -6,5 +6,6 @@ body: In the civil law. A Latin translation of the Novels of Justinian by an ano
   author; so called because the Novels were translated entire, in order to distinguish
   It from the epitome made by Julian
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: As a term of jurisprudence, this word is equivalent to hare, wanting in ne
   hut a single element, as a naked authority, i. c., one w’hich is not coupled with
   any interest in the agent, but subsists for the benefit of the principal alone
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

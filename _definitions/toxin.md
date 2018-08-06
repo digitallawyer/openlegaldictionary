@@ -7,5 +7,6 @@ body: In its widest sense, this term may denote any poison or toxicant; but as u
   alka-loidal substance (as, the ptomaines, abrin, brucin, or serpent venoms), and
   in particular the poisonous .products of pathogenic (disease-producing! bacteria
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

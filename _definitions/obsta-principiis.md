@@ -7,5 +7,6 @@ body: 'Lat. withstand beginnings; resist the first approaches or encroachments. 
   and against any stealthy en-croachments thereon. Thelr motto should be *obsta principiis:
   ” Bradley, J., Boyd v'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

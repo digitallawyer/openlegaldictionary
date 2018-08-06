@@ -9,5 +9,6 @@ body: By statute in several states, one who is convicted of a felony, having bee
   one made subject to police sur-veillance and arrest on suspicion, on account of
   his previous criminal record and absence of honest employment
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

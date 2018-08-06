@@ -10,5 +10,6 @@ body: sferred, is matter in pais. 2 Bl. Comm. 294.—Aot of attainder. A legisla
   of curatory. In Scotch law. The act extracted by the clerk, upon any one’s acceptance
   of being curator. Forb. Inst pt. 1, b. 1, c. 2. tit. 2. 2 Karnes
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

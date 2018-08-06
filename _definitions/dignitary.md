@@ -7,5 +7,6 @@ body: RY. In canon law.- A person bolding an ecclesiastical benefice or dignity,
   belonged all bishops, deans, arch-deacons, etc.; but it now Includes all the prebendaries
   and canons of the church. Brande
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

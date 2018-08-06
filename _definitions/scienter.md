@@ -10,5 +10,6 @@ body: LaL Knowingly. The term is used iu pleadiug to signify an allega-tion (or 
   of such an allegation is called “laying the action (or indictment) with a scienter:’
   And the term is frequently used to signify the defendant’s guilty knowledge
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

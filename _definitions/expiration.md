@@ -7,5 +7,6 @@ body: Cessation; termination from mere lapse of time; as the expiration of a lea
   679; Bowman v. Foot. 29 Conn. 338; Stuart v. Hamilton, G6 111. 255; Farn-um v. Platt.
   8 Pick. (Mass.) 341, 19 Am. Dec. 330
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: An lnstru-ment of sale of personalty conveying the title of the property t
   the mortgagee with terms of defeasance; and, if the terms of redemption are not
   complied with, then, at common latv, the title becomes absolute in the mort
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

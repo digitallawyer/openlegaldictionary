@@ -7,5 +7,6 @@ body: To ratse; to take up. To “lift” a promissory note is to discharge Its 
   of the statute of limitations, or of an es-toppel, is to remove the obstruction
   which it interposes, by some sufficient act or acknowledgment
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

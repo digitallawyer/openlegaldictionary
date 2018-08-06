@@ -10,5 +10,6 @@ body: In the civil law. A nnlon of fortunes; a lawful Roman marriage. Also, the 
   Kelley v. Railroad Co., 168 Mass. 308, 46 N. E. 1063, 38 L. R. A. 631, 60 Am. St
   Rep. 397
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

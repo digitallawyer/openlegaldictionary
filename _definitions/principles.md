@@ -6,5 +6,6 @@ body: Fundamental truths or doctrines of iaw; comprehensive rules or doctrines w
   furnish a basis or origin for others; settled rules of action, procedure, or legal
   determination
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

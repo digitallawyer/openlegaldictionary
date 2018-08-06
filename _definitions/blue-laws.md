@@ -9,5 +9,6 @@ body: A supposititious code of severe laws for the regulation of religious and p
   New Haven colony,' of the Scriptures as their code of law and government, and their
   strict application of Mosaic principles. Century Dict
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

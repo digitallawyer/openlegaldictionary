@@ -6,5 +6,6 @@ body: Letters is-sued aud signed by the kings of France, and countersigned by a 
   of state, author-izing the imprisonment of a person. Abol-lished during the revolution
   of 1789
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

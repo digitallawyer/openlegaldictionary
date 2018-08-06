@@ -11,5 +11,6 @@ body: In mining law. A con-tract between two parties by which one un-dertakes to
   v. Gosling, 10 wyo. 346, 68 Pac. 1118, 98 Am. St. Rep. 1005; Meylette ▼. Brennan,
   20 Colo. 242, 88 Pac. 75
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

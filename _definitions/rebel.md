@@ -8,5 +8,6 @@ body: The name of rebels is given to all subjects who unjustly take up arms agai
   in some particular instance, nnd to impose conditions on him. Vatt. Law Nat bk.
   3, t 288
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A testamentary dlsposition subsequent to a will, and by which the will is 
   45 Conn. 79, 29 Am. Rep. 642; Green v. Lane, 45 N. C. 113; Grimball v. Patton, 70
   Ala. 631; Proctor v. Clarke, 3 Redf. Sur. (N. Y.) 448
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

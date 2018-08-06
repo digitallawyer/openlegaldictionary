@@ -7,5 +7,6 @@ body: A term of heraldry, meaning orange color. In engravings it should he repre
   names of the heavenly bodies, call it “dragon’s head,” and those who employ jewels,
   “jacinth.” It is one of the colors called “stainand." wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

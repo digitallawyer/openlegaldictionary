@@ -8,5 +8,6 @@ body: In praotioe. The cor-rection of an error committed in any pro-cess, pleadi
   3 Bl. Comm. 407, 448; 1 Tidd, Pr.. 696. Hardin v. Boyd, 113 U. S. 736, 5 Sup. CL
   771, 28 L. Ed. 1141
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

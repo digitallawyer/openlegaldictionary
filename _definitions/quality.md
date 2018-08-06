@@ -6,5 +6,6 @@ body: In respect to persons, this term denotes comparative rank; state or condit
   in relation to others; social or civil position or class. .In pleading, it means
   ap
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

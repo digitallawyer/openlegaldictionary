@@ -9,5 +9,6 @@ body: An article is “lost" when the owner has lost the possession or custody o
   N. W. 471, 56 L. R. A. 944; Belote v. State, 30 Mlss. 120, 72 Am. Dec. 163; Hoagland
   v. Amusement Co., 170 Mo. 335, 70 S. W. 878, 94 Am. SL Rep. 740
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

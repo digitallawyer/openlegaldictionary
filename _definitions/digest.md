@@ -6,5 +6,6 @@ body: A collection or compllation, embodying the chief, matter of numerous books
   one, disposed under proper heads or titles, and usually by an alphabetical arrangement,
   for facility in reference
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

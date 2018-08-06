@@ -7,5 +7,6 @@ body: Lat. The sixth (book) of the decretals; the sext, or sixth decretal. So ca
   of Gregory IX.; it consists of a collection of supplementary de-cretals, and was
   published A. D. 1298. Butl. Hor. Jur. 172; 1 BL Comm. 82
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

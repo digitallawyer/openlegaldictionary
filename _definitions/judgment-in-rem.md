@@ -16,5 +16,6 @@ body: A judgment <n rem is an adjudication, pronounced upon the status of some p
   v. King, 72 Ala. 360; Lord v. Chadbourne, 42 Me. 429, 66 Am. Dec. 290; Hine v. Hus-sey,
   45 Ala. 490; Cross v. Armstrong, 44 ohio St. 613, 10 N. E. 160
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

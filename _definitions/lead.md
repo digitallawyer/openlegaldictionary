@@ -7,5 +7,6 @@ body: The counsel on either side of a litigated action who is charged with the p
   or subordinates, is said to “lead in the cause,” and is termed the “leading counsel”
   on that side
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

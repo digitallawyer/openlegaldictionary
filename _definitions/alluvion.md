@@ -9,5 +9,6 @@ body: That increase of the earth on a shore or bank of a river, or to the shore 
   Sup. CL 518, 33 L. Ed. 872; Freeland v. Pennsylvania R. Co., 197 Pa. 529, 47 Atl.
   745, 58 L. R. A. 206. 80 Am. St. Rep. 850
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

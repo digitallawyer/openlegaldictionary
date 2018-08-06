@@ -9,5 +9,6 @@ body: Deforcement is where a man wrongfully holds lands to which another person 
   to cases, not falling under those beads, where the persou entitled to the freehold
   has never had possession
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

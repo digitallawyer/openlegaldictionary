@@ -8,5 +8,6 @@ body: In French law. A person who receives from a meetlug of shareholders a spec
   from a court a special mission, e. g., to lnstltute an lnquiry, or to examine certain
   books, or to supervise the operations of a bankruptcy. Arg. Fr. Merc. Law, 551
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

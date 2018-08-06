@@ -6,5 +6,6 @@ body: The renunciation, repudia-tiou, abandonment, or surreuder of some claim, r
   privilege, or of the opportunity to take advantage of some defect, irregular-ity,
   or wrong
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

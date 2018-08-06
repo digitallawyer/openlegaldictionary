@@ -6,5 +6,6 @@ body: Lat A tree; a plant; something larger than an herb; a general term Includi
   vines, osiers, and even reeds. The mast of a ship. Brissoulus. Timber. Aius-worth;
   Calvin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

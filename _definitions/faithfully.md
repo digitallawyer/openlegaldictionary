@@ -9,5 +9,6 @@ body: As used in bonds of pub-lic aud private officers, this term imports not on
   343; Har-ris v. Hanson, 11 Me. 245; American Bank' v. Adams, 12 Pick. (Mass.) 306;
   Union Bank v. Clossey, 10 Johns. (N. Y.) 273; Perry v. Thompson, 16 N. J. Law, 73
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

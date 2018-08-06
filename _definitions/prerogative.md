@@ -7,5 +7,6 @@ body: An exclusive or peculiar privilege. The special power, privilege, immunity
   things of his office, or in an official body, as a court or legislature. See Attorney
   General v. Blossom, 1 wis. 817; Attorney General v. Eau Claire, 37 wis. 443
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

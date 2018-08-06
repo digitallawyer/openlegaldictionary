@@ -7,5 +7,6 @@ body: In Spanish law. A counter-writing; counter-letter. A document executed at 
   or otherwise modifying the apparent effect and purport of the orig-inal instrument.
   •
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

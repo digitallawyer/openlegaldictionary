@@ -7,5 +7,6 @@ body: Lat with copulation, i. e., sexual intercourse. Used in speaking of the va
   to the future (a future intention to have the marriage solemnized) and con-Bummated
   by sexual connection
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

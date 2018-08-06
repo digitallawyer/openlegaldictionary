@@ -7,5 +7,6 @@ body: In English law. The name of a writ which is sued by consent of both par-ti
   to the sheriff to make perambulation, and to set the bounds and limits between them
   in certainty. Fitzh. Nat. Brev. 133
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

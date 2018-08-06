@@ -9,5 +9,6 @@ body: Time to recover “cool blood'* after severe excitement or provocation; ti
   481, 46 Am. Rep. 342; Jones v. State, 33 Tex. Cr. R. 492, 26 S. W. 1082, 47 Am.
   St. Rep. 46
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

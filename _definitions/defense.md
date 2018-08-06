@@ -10,5 +10,6 @@ body: That which is offered and alleged by the party proceeded against in an act
   or nn exception to their sufficiency in point of law. whitfleld v. Insurance Co.
   (C. C.) 125 Fed. 270; Miller v. Martin, 8 N. J. Law, 204
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

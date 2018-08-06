@@ -9,5 +9,6 @@ body: In French law. when a person has been subjected to an Interdiction on the 
   or compromise the same, alien-ate his estate, make or incur loans, and the like.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -5,5 +5,6 @@ permalink: "/definitions/propone.html"
 body: In Sootob law. To state. To propone a defense is to state or move it. 1 Kames,
   Eq. pref
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

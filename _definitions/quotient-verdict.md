@@ -9,5 +9,6 @@ body: 'A money ver dict the amount of which is fixed hy the following process: E
   v. Owego waterworks. 22 App Dlv. 573, 48 N. Y. Supp. 10G; Moses v. Railroad Co.,
   3 Misc. Rep. 322, 23 N. Y. Supp. 23'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

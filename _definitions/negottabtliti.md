@@ -7,5 +7,6 @@ body: In mercantile law. Transferable quallty. That quality of bills of exchange
   from possessing which they are emphatically termed “negotiable paper.” 3 Kent, Comm.
   74, 77, 89, et seq. See Story. Bills, S 00
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

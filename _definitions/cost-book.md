@@ -9,5 +9,6 @@ body: A book in which a number of adventurers who have obtained per-mission to w
   of shares. These associations are called “Cost-Book Mining Companies,” and are governed
   by the general law of partnership. LlndL Partn. *147
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

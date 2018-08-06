@@ -9,5 +9,6 @@ body: ln criminal law and medical jurisprudence. The measure-inent of the human 
   of other individuals, aud serving for the identification of the subject in cases
   of doubtful or disputed Identity. See Bertillon System
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

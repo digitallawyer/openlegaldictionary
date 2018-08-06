@@ -6,5 +6,6 @@ body: The person making a bill of exchange and addressing It to the drawee. Stev
   v. walton, 2 Smedes & M. (Miss.) 265; winnebago County State Bank v. Hustel, 119
   Iowa, 115, 93 N. W. 70
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

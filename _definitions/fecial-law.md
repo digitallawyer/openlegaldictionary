@@ -7,5 +7,6 @@ body: The nearest approach to a system of International law known to the ancient
   war, and treaties of peace. It received this name from the feciales, (q. v.,) who
   were charged with its administration
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

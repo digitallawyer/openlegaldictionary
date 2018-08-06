@@ -6,5 +6,6 @@ body: Another name for “hedge-bote,” being one of the estovers allowed to a 
   for life or years, namely, material for repairing the necessary hedges or fences
   of his grounds. 2 Bl. Comm. 35; 1 washb. Real Prop. 129
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

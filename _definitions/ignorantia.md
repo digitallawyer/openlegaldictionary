@@ -8,5 +8,6 @@ body: Lat. Ignorance; want of knowledge. Distinguished, from mistake, (error,) o
   the former, he adds, is twofold.—lec-tionis et lingua, (Ignorance of reading and
   ignorance of language.) 2 Coke, 3b
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

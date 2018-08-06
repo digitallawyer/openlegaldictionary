@@ -8,5 +8,6 @@ body: In pleading. The form-al mode of disputing the sufficiency in law of the p
   are not such as to put the demurring party to the necesslty of answering them or
   proceedlng further with the cause. Reid v. Field, 83
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A man that is born deaf, dumb, and blind is looked upon by the law as in t
   Comm. 304. Nevertheless, a deaf and dumb person may be tried for felony if the prisoner
   can be made to understand by means of signs. 1 Leach, C. L. 102
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: Lat. In practice. A judlclal writ, directed to the sheriff of the county i
   have put themselves upou that jury, and that he return the names of the jurors,
   etc. 2 Tidd, Pr. 777, 778; 3 Bl. Comm. 352
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

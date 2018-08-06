@@ -8,5 +8,6 @@ body: Men contract debts; they incur liabilities. In the one case, they act atti
   “debts.” Crandall v. Bryan, 5 Abb. Prac. (N. Y.) 169; Beekman v. Van Dolsen, 70
   Hun, 288, 24 N. Y. Supp. 414; Ashe v. Young, 68 Tex. 123, 3 S. W. 454
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

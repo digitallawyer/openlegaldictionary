@@ -8,5 +8,6 @@ body: A faggot vote is where a man is formally possessed of a right to vote for 
   full vaiue for the mere sake of the vote. Such a vote is called a “faggbt vote."
   See 7 & 8 wm. III. c. 25, S 7. whar-ton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

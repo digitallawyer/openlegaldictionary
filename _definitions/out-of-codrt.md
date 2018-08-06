@@ -7,5 +7,6 @@ body: He who has no legal status in court is said to be “out of court,” i. e
   or commission, shows that he is unable to maintain his action, he is frequently
   said to put hlmself “out of court." Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

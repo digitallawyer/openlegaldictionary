@@ -11,5 +11,6 @@ body: A relation, created either by express or implied contract or by law, where
   R. A. 860; Sternaman v. Insurance Co., 170 N. Y. 13, 62 N. E. 763, 57 L. R. A. 318,
   88 Am. St Rep. 625; wynegar v. State, 157 Ind. 577, 62 N. E. 38
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -16,5 +16,6 @@ body: To fabricate, construct, or pre-pare one thing iu imitation of another thi
   76 Minn. 211, 78 N. W. 1042. 77 Am. 8t. Rep. 632; State v. Young, 46 N. H. 2«6,
   88 Am. Dec. 212
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

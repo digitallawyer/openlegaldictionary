@@ -8,5 +8,6 @@ body: In old English law. Strictly, an accomplice in felony who to save himself 
   undertakes to prove a crime charg-ed upon another. Jacob. See State v. Graham, 41
   N. J. Law, 16, 32 Am. Rep. 174
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

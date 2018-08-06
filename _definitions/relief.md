@@ -8,5 +8,6 @@ body: 1. In feudal law. A sum pay-able hy the new tenant, the duty heing inci-de
   time the amount was arbitrary, but afterwards the re-lief of a knight's fee became
   fixed at one hundred shillings. 2 Bl. Comm. 65
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

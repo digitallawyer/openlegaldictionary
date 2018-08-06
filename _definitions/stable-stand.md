@@ -8,5 +8,6 @@ body: In forest law. one of the four evidences or presumptions where-by a man wa
   to shoot at any deer, or else standing close by a tree with grey-hounds in a leash,
   ready to slip. Cowell; Manwood
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

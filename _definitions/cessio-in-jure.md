@@ -7,5 +7,6 @@ body: In Roman law. A fictitious suit, in which the person who was to acquire th
   it acknowledged the justice of the claim, aud the magistrate prouounced it to be
   the property (addicebat) of the claimant Sandars’ Just. Inst. (5th Ed.) 89, 122i
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

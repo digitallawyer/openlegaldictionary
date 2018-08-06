@@ -9,5 +9,6 @@ body: wrongful; of the nature of a tort. Formerly certain modes of conveyance (e
   Lltt. 5 611; Co, Litt. 271b, n.'1; 330b, n. 1. But this opera-tlon has been taken
   away. Sweet. •
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

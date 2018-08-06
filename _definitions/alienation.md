@@ -7,5 +7,6 @@ body: In real property law. The transfer of tlie property and possession of land
   particularly applied to absolute con-veyances of real property. Conover v. Mu-tual
   Ins. Co., 1 N. Y. 290, 294
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

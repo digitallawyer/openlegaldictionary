@@ -8,5 +8,6 @@ body: That which remains after any process of separation or deduction; a residue
   133 Mass. 239; United States Trust Co. v. Black, 9 Misc. Rep. 653, 30 N. Y. Supp.
   453
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

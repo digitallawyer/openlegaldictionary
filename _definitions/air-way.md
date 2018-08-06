@@ -7,5 +7,6 @@ body: In English law. A passage for the admission of air into a mine. To malicio
   the air-way to any mine, is a felony punish-able by penal servitude or imprisonment
   at the discretion of the court. 24 & 25 Vict. c. OT. 128
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Things caught, and in the possession, custody, power, and dominion of the 
   outfits, in a whaling voyage, protects the blubber. Rogers v. Insurance Co., 1 Story,
   603; Fed. Cas. No. 12.016; 4 Law Rep. 297
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

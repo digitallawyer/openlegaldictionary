@@ -7,5 +7,6 @@ body: Settled; closed. An account stated means an account settled, and at an end
   of some certaln amount of money being due, wbich must be made either to the party
   himself or to some agent of his.” 5 Mees. ft W. 607
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

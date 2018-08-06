@@ -7,5 +7,6 @@ body: L. Fr. Count, or reckon. In old practice. A direction formerly given by th
   Blackstone says was given in hls time, in good English, “count these.” 4 Bl. Comm.
   340, note (u
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

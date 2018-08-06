@@ -7,5 +7,6 @@ body: Havlng committed a crime or tort; the word used by a prisoner In plead-lng
   in convicting. Com. v. waiter, 83 Pa. 108, 24 Am. Rep. 154; Jessie v. State, 28
   Miss. 106; State ▼. white, 25 wis. 359
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

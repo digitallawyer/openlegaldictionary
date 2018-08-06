@@ -8,5 +8,6 @@ body: An adverse event, ca-lam ity, or evil fortune, arising by accident, (or wi
   of homicide, this term always involves the further Idea that the person causing
   the death is not at the tlme engaged in any un-lawful act. 4 Bl. Comm. 182
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

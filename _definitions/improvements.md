@@ -7,5 +7,6 @@ body: A term used in leas-es, of doubtful meaning. It would seem to apply princi
   of property, whether real or personal; but, when contained in any document, its
   meaning is generally explained by other words. 1 Chlt Gen. Pr. 174
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

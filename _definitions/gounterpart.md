@@ -11,5 +11,6 @@ body: In conveyancing. The corresponding part of an instrument; a duplicate or c
   Supp. 381. See Duplicate. —Counterpart writ. A copy of the original writ, authorized
   to be issued to another county
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

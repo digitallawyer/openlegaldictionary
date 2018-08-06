@@ -8,5 +8,6 @@ body: In English practice. A writ by which a suit or plaint in replevin may be r
   the sheriff was commanded to cause the plaint to be recorded, and to have the record
   before the «ur perior court. Reg. Orig. 5b.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

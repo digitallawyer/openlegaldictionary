@@ -6,5 +6,6 @@ body: The forcibly taking a thing by one nation which belonged to another, in re
   or satisfaction for an injury committed by the latter on the former. Vat« tel, b.
   2, c. 18, 8. 342
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

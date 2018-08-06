@@ -9,5 +9,6 @@ body: In English law. The term Includes all buildings and premises wherein, or w
   15, § 73. By later acts this definition has been extended to various other manufactur-ing
   places. Mozley & whitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

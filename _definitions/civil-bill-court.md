@@ -7,5 +7,6 @@ body: A tribunal in Ire-land with a jurisdiction analogous to that of the county
   is more extenslve than in England,) and performs the duty of revlslng barrister,
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

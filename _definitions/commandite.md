@@ -11,5 +11,6 @@ body: In French law. A spe-cial or limited partnership, where the con-tract is b
   in commandite being liable to losses only to the extent of the funds or capltal
   fur-nished by them. Story, Partn. § 78; 3 Kent
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

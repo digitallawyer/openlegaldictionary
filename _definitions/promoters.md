@@ -10,5 +10,6 @@ body: In the law relating to corporations, those persons are called the “promo
   37 Am. St. Rep. 879; Yale Gas Stove Co. v. wilcox, 64 Conn. 101, 29 AU. 303, 25
   L. R. A. 90, 42 Am. St. Rep. 159;. Densmore OI1 Co. v. Densmore, 64 Pa. 49
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A field on which a crop of wheat is growing is a cultivated field, al-thou
   and it is a cultivated field after the crop is removed. It is, strictly, a cultivated
   piece of ground. . State v. Allen, 35 N. C, 36
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: A ceremony which ac-companied the grant of lands in the feudal ages, and c
   reposed in the memory of the neigh* borhood, who, in case of disputed title, were
   afterwards called upon to decide upon lt. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

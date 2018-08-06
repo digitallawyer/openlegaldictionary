@@ -8,5 +8,6 @@ body: As used in contradls-tinction to public law, the term means all that part 
   person in whom the right Inheres and the person upon whom the obligatlon is in-cident
   are private individuals. See Public Law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

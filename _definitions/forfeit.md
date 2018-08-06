@@ -11,5 +11,6 @@ body: To lose au estate, a franchise, or other property belonging to oue, by tli
   will of the losing iwrty,) aud that tlie property is either transferred to another
   or resumed by the original grantor
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

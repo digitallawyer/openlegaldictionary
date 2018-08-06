@@ -8,5 +8,6 @@ body: LS. In International law. Tbe instruments which authorize and estah-lish a
   attributed to him in his credentials. They are. as it were, his letter of attorney,
   his mandate patent, mandatum manifest uni, Vattel, liv. 4, c. 6, § 76
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

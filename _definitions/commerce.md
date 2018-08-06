@@ -9,5 +9,6 @@ body: Intercourse by way of trade and traffic between different peoples or state
   of persons as well as of goods, both by land and by sea. Brennan v. Titusville,
   153
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

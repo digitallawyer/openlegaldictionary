@@ -11,5 +11,6 @@ body: 'A bargain made by a stranger with one of the parties to a suit, by which 
   48, 4 L. R. A. 113: Torrence v. Shedd, 112 111. 466; Cas-serleigh v. wood, 119 Fed.
   308, 56 C. C. A. 212'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

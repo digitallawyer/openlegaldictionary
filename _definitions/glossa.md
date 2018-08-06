@@ -13,5 +13,6 @@ body: Lat. A gloss, explanation, or interpretation. The gloss# ot the Roman law 
   tltle of “Clossa Ordin-aria“ which is of the greatest authority. Mackeld. Rom. Law,
   $ 90
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

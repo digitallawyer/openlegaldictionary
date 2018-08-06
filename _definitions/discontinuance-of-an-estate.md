@@ -11,5 +11,6 @@ body: The termination or suspension of an estate-tail, in consequence of the act
   nnd the acquisition of a seisin under a new and necessarily a wrongful title. Prest
   Merg. c. ii.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

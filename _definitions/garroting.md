@@ -10,5 +10,6 @@ body: A method of inflicting the death penalty on convicted criminals prac-tised
   any form of strangling resorted to to overcome resist-ance or induce unconsciousness,
   especially as a concomitant to highway robbery
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

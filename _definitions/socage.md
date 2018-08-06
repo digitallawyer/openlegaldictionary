@@ -16,5 +16,6 @@ body: Socage tenure, in Eugland, is the holding of certaiu lands in consideratio
   See Cowell; Bract 1. 2, c. 35; 2 Bl. Comm. 79; Fleta, lib. 3, c. 14, § 9; Litt |
   117; Glan. L 3, c. 7
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

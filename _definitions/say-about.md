@@ -7,5 +7,6 @@ body: This phrase, like “more or less,” is frequently introduced into con-ve
   and is only estimated, and to guard the vendor against the implication of having
   warranted the quantity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

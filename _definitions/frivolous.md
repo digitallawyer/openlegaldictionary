@@ -8,5 +8,6 @@ body: An answer or plea is called "frivolous” when it is clearly insufli-cient
   Erwin v. Lowery, 64 N. C. 321; Strong v. Sproul, 53 N. V. 499; Gray v. Gidiere,
   4 Strob. (S. C.) 442; Peacock v. williams (C. C.) 110 Fed. 916
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

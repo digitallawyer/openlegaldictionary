@@ -6,5 +6,6 @@ body: Yes and no. Accord-ing to a charter of Athelstan, the people of Ripon were
   be believed in all actions or suits upon their yea and nay, without the necessity
   of taking any oath. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

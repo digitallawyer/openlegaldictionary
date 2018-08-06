@@ -7,5 +7,6 @@ body: A bequest or glft of personal property by last wlll and testament Browne v
   Court v. Matthews, 6 Vt 274; In re Karr, 2 How. Prac. N. S. (N. Y.) 400; Nye v.
   Grand Lodge. 9 Ind. App. 131, 36 N. E. 429; Ky. St 1903, I 467
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

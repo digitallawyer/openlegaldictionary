@@ -11,5 +11,6 @@ body: In praotice. A monition is a formal order of the court commanding somethin
   a punishment for a past offense; in that case the monition forbids the repetition
   of tlie offense. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

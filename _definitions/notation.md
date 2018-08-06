@@ -9,5 +9,6 @@ body: In English probate prac-tice, notation is the act of making a merno-randum
   the fact of hls having been so domiciled is noted on the grant Coote, Prob. Pr.
   36; Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: A court having the jurisdiction of a chancellor; a court administering equ
   equity powers, distinct from the courts of common law. Parmeter ▼. Bourne, 8 wash.
   45, 35 Pac. 586
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

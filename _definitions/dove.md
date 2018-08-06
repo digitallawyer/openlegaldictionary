@@ -7,5 +7,6 @@ body: Doves are animals ferae natures, and not the subject of larceny unless the
   before they can fly. Com. v. Chace, 9 Pick. (Moss.) 15, 19 Am. Dec. 348; Ruckmon
   v. Outwater, 28 N. J. Law, 581
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

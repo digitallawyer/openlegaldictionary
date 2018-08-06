@@ -6,5 +6,6 @@ body: In English Iaw. A military order of knighthood, instituted by Richard II. 
   order was new-Iy regulated hy notifications in the London Gazette of 25th May, 1847,
   and 16th August, 1850. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

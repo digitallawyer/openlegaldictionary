@@ -9,5 +9,6 @@ body: The technical fault, in pleading, of uniting two or more causes of action 
   1 Pennewill (Del.) 476, 42 Atl. 175; Devlno v. Railroad Co., 63 Vt. 98, 20 AU. 953;
   Tucker v. Ladd, 7 Cow. (N. Y.) 452
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

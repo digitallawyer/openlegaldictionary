@@ -11,5 +11,6 @@ body: A prohibltlve writ is-sued by a court of equity, at the suit of a party co
   U. S. v. naggerty (C. C.) 116 Fed. 515; Dupre v. Anderson, 45 La. Ann. 1134, 13
   South. 743; City of Alina v. Loehr, 42 Kan. 368, 22 . Pac. 424
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

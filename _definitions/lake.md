@@ -7,5 +7,6 @@ body: A large body of water, contained in a depression of the earth’s surface,
   Lee, 77 Mich. 35, 43 N. W. 855; Ne-pee-nauk Club v. wilson, 96 wis. 290, 71 N. W.
   061
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

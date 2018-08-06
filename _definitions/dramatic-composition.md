@@ -11,5 +11,6 @@ body: In copy-right law. A literary work setting forth a story, incident, or sce
   & El. 236; Martlnettl v. McGuire, 16 Fed. Css. 920; Fuller v. Bemis (C. C.) 50 Fed.
   926
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

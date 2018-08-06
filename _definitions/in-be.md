@@ -9,5 +9,6 @@ body: In the affair; in the matter of. This is tbe usual method of entitling a J
   a designation of a proceeding where one party makes an appli-cation on his own behalf,
   but such proceed-ings are more usually entitled “Ex parte
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

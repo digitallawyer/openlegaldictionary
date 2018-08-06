@@ -8,5 +8,6 @@ body: Lat. In old pleading, whereby he lost the service [of his servant.] A phra
   3 Bl. Comm. 142; 9 Coke, 113a; Callaghan v. Lake Hopatcong Ice Co.. 69 N. J. Law,
   100, 54 Atl. 223.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

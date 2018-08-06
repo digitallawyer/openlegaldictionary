@@ -11,5 +11,6 @@ body: In ecclesiastical law. A congregation' of ecclesiastical persons in a cath
   of head, instituted not only to assist the bishop in manner aforesaid, but also
   aucieutly to rule and govern the diocese in the time of vacation. Burn, Dict
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

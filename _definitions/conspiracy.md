@@ -15,5 +15,6 @@ body: In criminal law. A combination or confederacy between two or more persons 
   v. Mitchell, 207 Pa. 79, 56 Atl. 327, 63 L. R. A. 534, 99 Am. St Rep. 783; Standard
   O11 Co. v. Doyle, 118 Ky. 662, 82 S. W. 271, 111 Am. Sh Rep. 331
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

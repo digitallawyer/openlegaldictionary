@@ -6,5 +6,6 @@ body: Lat in the civil law. one who betrays hls trust, or is unfaithful to hls t
   An advocate who aids the opposite party by betraying his client’s cause. Dig. 47,
   15, 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

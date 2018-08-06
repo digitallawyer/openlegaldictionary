@@ -12,5 +12,6 @@ body: In the popular sense, this terin denotes the contracting of a marriage rel
   of averring that “the plaintiff was married to the defendant,” it would be proper
   to al-* lege that “the partles intermarried" at such
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

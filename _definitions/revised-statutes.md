@@ -7,5 +7,6 @@ body: A body of stat-utes. which have been revised; collected, arranged in order
   laws of several of the states, aad also of the United States., Such a yolunje ig,
   usually cited as “Rev. Stat,” “Rev, SU”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

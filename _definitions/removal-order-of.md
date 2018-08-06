@@ -6,5 +6,6 @@ body: 1. An order of court directing the removal of a pauper from the poor distr
   upon which he has illegally become a charge to the district in which he has his
   settlement
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

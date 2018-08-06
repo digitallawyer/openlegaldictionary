@@ -8,5 +8,6 @@ body: Proof of identity; the prdvlng that a person, subject, or ar-tide before t
   the crime; or where handwrlt-ing, stolen goods, counterfeit coin, etc., are recognized
   as the same which once passed under the observation of the person identi-fylng them
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In criminal law. An instigator, or setter on; one who promotes or procures
   to commit a crime; a person who, being present or in the neighborhood, incites another
   to commit a crime, and thus becomes a principal
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

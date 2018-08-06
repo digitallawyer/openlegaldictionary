@@ -13,5 +13,6 @@ body: 'In Roman law. The contract of nomcn, which was constitut-ed by writing, (
   the nomcn was arcarium, (i. e., a real contract, re contractus,) and not a nomen
   proprium. Brown'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

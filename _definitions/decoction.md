@@ -7,5 +7,6 @@ body: The act of boiling a sub-stance in water, for extracting its virtues. Also
   of any animal or vegetable substance boiled in it webster; Sykes v. Magone (C. O.)
   38 Fed. 497
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

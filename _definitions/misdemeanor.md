@@ -6,5 +6,6 @@ body: In criminal law. A general name for criminal offenses of every sort, punis
   by Indlctment or special proceedings, which do not in law amount to the grade of
   felony
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

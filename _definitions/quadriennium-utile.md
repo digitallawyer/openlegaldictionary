@@ -6,5 +6,6 @@ body: In Scotch law. The term of four years allowed to a minor, after his majori
   in which he may by suit or action endeavor to annul any deed to his prejudice, granted
   during his minority. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

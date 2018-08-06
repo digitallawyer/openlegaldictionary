@@ -8,5 +8,6 @@ body: In English law. A person who, being au alien born, has obtained, ex donatt
   an alien and a natural-bom subject, ond par-takes of the status of both of these.
   1 Bl. Comm. 374 ; 7 Coke, 6
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

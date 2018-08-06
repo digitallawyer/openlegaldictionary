@@ -10,5 +10,6 @@ body: The holder of a bill of exchange, promissory note, or check is the person 
   63 L. R. A. 245, 96 Am. St. Rep. 169; Rlce v. Hogan, 8 Dana (Ky.) 135; Rev. Laws
   Mass. 1902, p. 053. $ 207
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

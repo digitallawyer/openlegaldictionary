@@ -8,5 +8,6 @@ body: In English practice, when the members of a court are equally divided on th
   there be-ing a rlght to appeal, it has been usual to make an order in one way, the
   Junior judge withdrawing hls judgment wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

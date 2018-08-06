@@ -11,5 +11,6 @@ body: In common-law practice, the action of trover (or trover and conversion) is
   3 Steph. Comm. 426. Sweet. See Burnham v. PIdcock, 33 Misc Rep. 65, 66 N. Y. Supp.
   800; Larson v. Daw
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

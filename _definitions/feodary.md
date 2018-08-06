@@ -10,5 +10,6 @@ body: An oflicer of the court of wards, appointed by the master of that court, u
   widows their dower; and received all the rents, etc. Abol-lshed by 12 Car. II. c.
   24. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

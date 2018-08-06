@@ -11,5 +11,6 @@ body: The fraudulent appropriation to his own use or benefit of property or mone
   Ed. 422; Fulton y. Hammond (C. C.) 11 Fed. 293; People v. Gordon, 133 Cal. 328,
   65 Pac. 746, 85 Am. SL Rep. 174
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

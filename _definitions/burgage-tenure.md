@@ -7,5 +7,6 @@ body: In English law. one of the three species of free socage hold-lngs; a tenur
   are held of some lord by a certaln rent. There are a great many cus-toms affecting
   these tenures, the most re
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

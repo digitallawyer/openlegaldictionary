@@ -7,5 +7,6 @@ body: In criminal law. A common mover, exciter, or maintainer of suits and quarr
   false rumors and calumnies, whereby discord and disquiet may grow among neigh* bors.
   Co. Lltt. 368
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: To divide a part into smaller parts; to separate into smaller divi-slons. 
   subdivided according to the number of takers in the nearest degree and those in
   the more remote degree respectively
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

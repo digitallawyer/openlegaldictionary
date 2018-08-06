@@ -9,5 +9,6 @@ body: In a will, thls is a sentence or secret character lnsert-ed by the testato
   or otherwise lmproperly obtained. By the law of England such a clause would be vold,
   as tending to make the wlll irrevocable, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In the law of con-tracts. This is a loose and ambiguous term, unless it be
   529. But it may denote an informal agreement, or a concurrence as to Its terms.
   See Barkow v. Saug-er, 47 wis. 507, 3 N. W. 16
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

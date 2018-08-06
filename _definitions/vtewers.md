@@ -7,5 +7,6 @@ body: Persons who are appointed by & court to make an lnvestigatlon of cer-taln 
   to report to the court the result of thelr lnspection, wlth their opinion on the
   same
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: The process by which a parcel of land is measured and its contents ascer-t
   also a statement of the result of such survey, with the courses and distances and
   the quantity of the land
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

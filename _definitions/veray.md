@@ -7,5 +7,6 @@ body: 'AY. L. Fr. True. An old form of vrai. Thus, reray, or true, tenant, is on
   man-ner, (q. v.,) with this difference ouly: that the fee-simple, instead of reniainlng
   in the lord, is given by hlm or by the law to an-other. Ham. N. P. 393, 394'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

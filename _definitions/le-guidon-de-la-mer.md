@@ -7,5 +7,6 @@ body: The title of a French work on marine insurance, by an unknown author, dati
   merchants of Rouen. It is noteworthy as heing the earliest treatise on that subject
   now extant
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

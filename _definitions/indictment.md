@@ -11,5 +11,6 @@ body: An indictment is an ac-cusation in writing found and presented by a grand 
   259, 11 C. C. A. 165, 28 L. R. A. 801; Ex parte Bain, 121 U. S. 1, 7 Sup. Ct 781,
   30 L. Ed. 849; Ex parte Slater, 72 Mo. 102; Finley v. State, 61 Ala. 201
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

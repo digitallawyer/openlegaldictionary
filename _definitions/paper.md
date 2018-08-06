@@ -11,5 +11,6 @@ body: A written or printed document or Instrument, A document filed or intro-duc
   of debt, particularly a promissory note or a bill of exchange, as in the phrases
   “accommoda-tion paper” and “commercial paper.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

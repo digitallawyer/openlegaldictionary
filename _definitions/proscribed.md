@@ -7,5 +7,6 @@ body: In the civil law. Among the Romans, a man was said to be “proscribed" wh
   who were sentenced to some punishment which carried with it the con-sequences of
   civil death. Cod. 9, 49
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

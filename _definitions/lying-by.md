@@ -7,5 +7,6 @@ body: A person who, hy hls pres-ence and silence at a transaction which affects 
   disturb the arrangement, is said to be pre-vented from doing so by reason that he
   has been lying by
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

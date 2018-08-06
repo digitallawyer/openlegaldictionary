@@ -7,5 +7,6 @@ body: In English ecclesiastical law. An ecclesiastical dignitary who presides ov
   been originally appointed to superintend ten canons or prehendaries. 1 Bl. Comm.
   382; Co. Lltt. 95; Spelman
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

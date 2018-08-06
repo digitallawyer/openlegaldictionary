@@ -9,5 +9,6 @@ body: Lat. In the civil law. A doctrine or fiction of the law by which the resto
   Rome, was regarded, by the aid of this fiction, as having never been abroad, and
   was thereby reinstated in all hid rights. Inst. 1, 12, 5
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

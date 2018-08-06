@@ -9,5 +9,6 @@ body: A private assembly or meetlng for the exercise of religion. Tbe word was f
   assembly, it cannot be justly applied to the assembling of persons in places of
   worship licensed according to the requisitions of law. Wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

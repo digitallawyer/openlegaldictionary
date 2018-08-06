@@ -7,5 +7,6 @@ body: A medical term, meaning the discovery of the source of a patient's illness
   to be little more than a guess enlighten-ed by experience. Swan v. Railroad Co.,
   79 Hun, 612, 29 N. Y. Supp. 337
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

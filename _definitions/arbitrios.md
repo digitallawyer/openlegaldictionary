@@ -9,5 +9,6 @@ body: In Spanish and Mexican law. Taxes imposed by municipalities on certain art
   the resources of a town, Including its privileges In the royal lands as well as
   the taxes. Esericlie Dict.; Sheldon v. Milmo, 90 Tex. 1, 36 S. W. 413
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

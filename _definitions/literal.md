@@ -7,5 +7,6 @@ body: According to language; following expression in words. A literal con-struct
   circumstances; a literal performance of a condition is one which complies exactly
   with its terms
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

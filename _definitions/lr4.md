@@ -9,5 +9,6 @@ body: oner’s conrt. In England. A tribunal of record, where a coroner holds hi
   held by the coroner with the assistance of a jury. Boia-liniere v. County Com’rs,
   32 Mo. 378
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

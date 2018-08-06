@@ -9,5 +9,6 @@ body: In medical jurisprudence. An inflammation of the velns, which may originat
   which is called “endocarditis" and which may result fatally. See Succession of Bidwell,
   52 La. Ann. 744, 27 South. 281
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

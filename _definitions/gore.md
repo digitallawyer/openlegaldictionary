@@ -8,5 +8,6 @@ body: In old English law, a small, nar-row slip of ground. Cowell. In modem laud
   to a subdivision of a county, having a scanty population and for that reason not
   organized as a town
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

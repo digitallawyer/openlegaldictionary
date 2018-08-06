@@ -8,5 +8,6 @@ body: Damages which “nat-urally” arise from a breach of. contract are such a
   the probable result of the breach. Mitchell v. Clarke, 71 Cal. 164, 11 Pac. 882,
   60 Am. Rep. 529
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

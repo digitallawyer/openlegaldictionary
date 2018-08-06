@@ -9,5 +9,6 @@ body: A voluntary conveyance of land, or transfer of goods, from one person to a
   72, 14 Am. Rep. 181; williamson v. Johnson, 62 Vt. 378, 20 Atl. 279, 9 L. R. A.
   277, 22 Am. St. Rep. 117; Flanders v. Blandy, 45 ohio St. 113, 12 N. E. 321
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In Scotch law. .An oflicer nearly corresponding to an attorney at law, in 
   and American practice, “writers to the signet,” called also “clerks to the signet,”
   derive thelr name from the drcumstance that they were an
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

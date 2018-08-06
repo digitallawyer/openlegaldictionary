@@ -6,5 +6,6 @@ body: Lat in the civil law. A kind of banlshment, where a condemned person was s
   or carried away to some for-eign country, usually to an island, (in insu-lam deportatur,)
   and thus taken out of the number of Roman citizens
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: The right of citizen-ship; the freedom of the city of Rome. It differs fro
   The difference is much the same as between “denization" and “naturalization" with
   us. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

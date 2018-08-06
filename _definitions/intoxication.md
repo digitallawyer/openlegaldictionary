@@ -11,5 +11,6 @@ body: The state of belng poisoned; the condition produced by the ad-mlnlstratlon
   wadsworth v. Dunnam, 98 Ala. 610, 13 South. 599; Ring v. Ring, 112 Ga. 854, 38 S.
   E. 330; State v. Kelley, 47 Vt. 296; Com. v. whitney, 11 Cush. (Mass.) 477
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

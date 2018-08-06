@@ -9,5 +9,6 @@ body: In Saxon law. A general assembly of the people in a town or ahire. It appe
   self-government. The name was also given to any sort of a popular assembly. See
   Spelman; Manwood; Cunningham
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

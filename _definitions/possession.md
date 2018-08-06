@@ -13,5 +13,6 @@ body: The detention and con-trol, or the manual or ideal custody, of any-thlng w
   55 N. E. 135; Einmerson v. State, 33 Tex. Cr. R. 89, 25 S. W. 289; Slater v. Rawson,
   6 Metc. (Mass.) 444
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

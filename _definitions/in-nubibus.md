@@ -7,5 +7,6 @@ body: In the clouds; in abeyance; in custody of law. In nubibus, in mare, in ter
   Tayl. Gloss. In case of abeyance, the inheritance is figuratively said to rest in
   nu-bibus, or in gremio legis
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

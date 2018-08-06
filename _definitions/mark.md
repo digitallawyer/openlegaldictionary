@@ -9,5 +9,6 @@ body: '1. A character, usually in the form of a cross, made as a substitute for 
   space the latter traces the mark, or crossed lines, and above the mark is written
   “his,” (or “her,”) and below it, “mark.”'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

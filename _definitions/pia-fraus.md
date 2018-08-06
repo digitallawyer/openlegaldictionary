@@ -7,5 +7,6 @@ body: Lat A pious fraud; a subterfuge or evasion considered morally justifiable 
   disregard of the laws in the Interests of religion or religious institutions, such
   as circumventing the statutes of mortmain
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: In Spanish and Mexican law. A denouncement was a Judicial proceeding, and,
   which in its substantive char-acteristics was equivalent to the Inquest of office
   found, at common law. De Merle v. Mathews, 26 Cal. 477
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

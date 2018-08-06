@@ -7,5 +7,6 @@ body: In Scotch law. The name of a clanse in charters of heritable rights, which
   superior of whom the lands are to be holden, and expresses the partlcular tenure.
   Ersk. Inst 2, 3, 24
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

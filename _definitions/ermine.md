@@ -6,5 +6,6 @@ body: By metonymy, this term is used to describe the ofiice or functions of a ju
   whose state robe, lined with ermine, is emblematical of purity and honor without
   stain, webster
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

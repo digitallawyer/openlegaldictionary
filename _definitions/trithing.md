@@ -7,5 +7,6 @@ body: In Saxon law. one of the territorial divisions of England, being the third
   a court held (called “trlthlng-mote”) which resembled the court-leet, but was in-ferior
   to the county court
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: RULE IN. "When the ancestor, by any gift or conveyance, tak-eth an estate 
   or immediately, to his heirs in fee or in tail, the ‘heirs’ are words of limitation
   of the estate, and not words of pur-chase.” 1 Coke, 104
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

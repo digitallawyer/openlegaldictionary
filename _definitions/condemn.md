@@ -8,5 +8,6 @@ body: To find or adjudge guilty. 3 Leon. 68. To adjudge or sentence. 8 Bl. Comm.
   for public use, in the exercise of the power of eminent domain, wulzen v. San Francisco,
   101 Cal. 15, 35 Pac. 353, 40 Am. St. Rep. 17
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: The assembly of wlse men.” Thls was the great national councll or parlia
   great thanes of the king-dom, advising and aiding the king in the general administration
   of government
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

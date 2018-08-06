@@ -9,5 +9,6 @@ body: In forest law. A court holden before the verderors, as judges, by the stew
   and try presentments certified from the court of attachments in offenses against
   vert and venison. 8 Bl. Comm. 72
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

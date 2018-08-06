@@ -7,5 +7,6 @@ body: L. Lat. The statute 35 Edw. I. { 2, prohibiting rectors, i. e., parsons, f
   extended to prohibit them from opening new mines and working the minerals therein.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

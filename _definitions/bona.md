@@ -8,5 +8,6 @@ body: Lat. n. Goods; property; possessions. In the Roman law. this term was used
   (technically so called) and chattels real, thus corresponding to the French biens.
   In the common law, Its use was confined to the de
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

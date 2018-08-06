@@ -7,5 +7,6 @@ body: The expression of ideas by letters visible to the eye. Clason v. Bailey, 1
   etc., by means of letters or marks placed upon paper, parchment, or other material
   sub-stance
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

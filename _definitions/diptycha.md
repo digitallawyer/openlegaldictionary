@@ -9,5 +9,6 @@ body: Diptychs; tablets of wood, metal, or other substance, used among the Roman
   whom supplication was to be made, and are ranked - among tbe earliest monastlc records.
   Burrlll
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

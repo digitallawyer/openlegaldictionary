@@ -8,5 +8,6 @@ body: 'The act of growing to a thing; usually applled to the gradual and Imperce
   so as to form firm ground; or by dereliction, as when the sea shrinks below the
   usual water-mark'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

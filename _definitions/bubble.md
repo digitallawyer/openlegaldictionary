@@ -7,5 +7,6 @@ body: An extravagant or unsubstan-tial project for extensive operations lu busl-
   unwary investors. Companies formed on such a basis or for such purposes are called
   “bubble companies.” The term is chiefly used in England
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

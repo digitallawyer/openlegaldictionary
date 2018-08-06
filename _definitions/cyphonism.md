@@ -6,5 +6,6 @@ body: That klnd of punlshment used by the anclents, and still used by the Chlnes
   called by Staunton the “wooden collnr,” by w’hich the neck of the malefactor is
   bent or weighed down. Enc. Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

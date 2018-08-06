@@ -7,5 +7,6 @@ body: A form of action used in Louisiana. Its object is to have a contract decla
   bring back, for any legal purpoae, the thing sold to the estate of the true owner.
   Edwards v. Ballard, 20 La. Anu. 169
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

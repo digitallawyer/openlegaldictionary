@@ -7,5 +7,6 @@ body: To annul; to stay; to suspend. Thus, it is said that the proceed-ings of o
   that the court would supersede a fiat in bankruptcy, if found to have been Improperly
   issued. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

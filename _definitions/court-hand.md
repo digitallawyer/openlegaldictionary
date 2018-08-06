@@ -8,5 +8,6 @@ body: In old Engllsh practlce. The pecullar hand in which the records of courts 
   gave to the ancient record its ac-knowledged superiority over the modern, In the
   important quality of durability
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

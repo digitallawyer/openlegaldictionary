@@ -8,5 +8,6 @@ body: 'The language of the ancient-Romans. There are three sorts of law Latln: (
   judicial writ, declaration, or plea, etc.; (3) words of art, known only to the sages
   of the law, and not to grammarians, called “Law-yers’ Latln.” wharton'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

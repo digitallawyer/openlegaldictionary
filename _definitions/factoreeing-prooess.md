@@ -7,5 +7,6 @@ body: Itt American law. A process by which the effects of a debtor are attached 
   otherwise termed “trustee process” and “garnishment” Cross ▼. Brown, 19 R. I. 220,
   33 Atl. 147
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

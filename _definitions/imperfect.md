@@ -7,5 +7,6 @@ body: As used in various legal compound terms, this word means defective or inco
   as in speaking of imperfect “obligations," “ownership," “rights," “title," “usufruct,”
   or “war.” See those nouns
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

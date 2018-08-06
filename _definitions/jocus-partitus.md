@@ -8,5 +8,6 @@ body: In old English practice. A divided game, risk, or hazard. An arrangement w
   way, and, if it did not, that the other should gain. Bract, fols. 211b, 379b, 432,
   434, 200b
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

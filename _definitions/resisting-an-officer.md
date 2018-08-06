@@ -8,5 +8,6 @@ body: In criminal law, the offense of obstructing, opposing, and endeavoring to 
   the peace. See Davis v. State, 76 Ga. 722; woodworth v. Btate, 26 ohio St. 200;
   Jones v. State, 60 Ala. 99
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

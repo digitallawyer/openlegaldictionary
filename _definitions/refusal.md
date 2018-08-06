@@ -15,5 +15,6 @@ body: The act of one who has, by law, a right and power of having or doing somet
   106 Ga. 582, 32 S. E. 626; Burns v. Fox, 113 Ind. 205, 14 N. E. 541; Cape Elizabeth
   v. Boyd, 86 Me. 317, 29 Atl. 1062; Taylor v. Mason, 9 wheat 344, 6 L. Ed. 101
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

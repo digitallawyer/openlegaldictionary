@@ -7,5 +7,6 @@ body: when a policy of insurance expresses that the insurance is made “on ac-c
   in the subject-matter at the date of the policy and who were then contemplated by
   the par-ty procuring the insurance. 2 Pars. Mar. Law, 30
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

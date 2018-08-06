@@ -6,5 +6,6 @@ body: In text-books, codes, statutes, ahd other juridical writings, the smallest
   and numbered subdivlstons are com-inonly called * “sections,” sometlmes “artl des,”
   and occasionally “paragraphs.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

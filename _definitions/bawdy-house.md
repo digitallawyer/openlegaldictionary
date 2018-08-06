@@ -7,5 +7,6 @@ body: A house of prostitu-tion; a brothel. A house or dwelling maln-tatned for t
   State, 2 Tex. App. 427; State v. Port-er, 88 Ark. 638; People v. Buchanan, 1 Idaho,
   689
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

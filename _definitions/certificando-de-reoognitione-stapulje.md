@@ -6,5 +6,6 @@ body: In English law. A writ com-manding the mayor of the staple to certify to t
   lord chancellor a statute-staple taken before him where the party himself detains
   it, and refuses to bring in the same. There
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

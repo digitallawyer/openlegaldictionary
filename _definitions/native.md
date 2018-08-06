@@ -9,5 +9,6 @@ body: A natural-born subject or citl-zen; a denizen by blrth; one who owes his d
   S. 649, 18 Sup. Ct 456, 42 Ia Ed. 890; New Hartford v. Canaan, 54 Conn. 39, 5 Atl.
   360
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

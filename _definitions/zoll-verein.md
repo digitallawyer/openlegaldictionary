@@ -9,5 +9,6 @@ body: A union of German states for uniformity of customs, established in 1819. I
   and the federal council of the empire has taken the place of that of the Zoll-Vereln.
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

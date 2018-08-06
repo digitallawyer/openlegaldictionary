@@ -13,5 +13,6 @@ body: A court formerly ex-isting in the District of Columbia. It was a body char
   of the poor,” “county supcrvisors,” and similar bodies with other designations.
   Levy Court v. Coroner, 2 wall. 507, 17 L. Ed. 851
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

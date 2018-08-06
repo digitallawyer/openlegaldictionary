@@ -7,5 +7,6 @@ body: A gallows; the post on which malefactors are hanged, or on which their bod
   post, from the top of which pro-ceeds one arm, except it be a double gibbet, which
   is formed in the shape of the Roman capital T. Enc. Loud
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

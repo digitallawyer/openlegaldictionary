@@ -7,5 +7,6 @@ body: 'In Roman . law. A right or privilege allowed to the parent of three or mo
   from the trouble of. guardianship, priority in bearing oflices, and a treble proportion
   of corn. Adams, Rom.: Ant (Am. Ed.) 227'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

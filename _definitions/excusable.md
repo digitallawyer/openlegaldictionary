@@ -9,5 +9,6 @@ body: Admitting of excuse or palliation. As used in the law, this word implies t
   for withholding or foregoing the punishment, liability, or disadvantage which otherwise
   would follow
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

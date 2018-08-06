@@ -9,5 +9,6 @@ body: The revocation, recalling, or cancellation of a legacy, according to the a
   15 N. E. 710, 2 Am. St Rep. 462; Tanton v. Keller, 167 111. 129, 47 N. E. 376; Cowles
   v. Cowles, 56 Conn. 240, 13 Atl. 414
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: To meander means to follow a wlndlng or fiexuous course; and when it is sa
   14 or. 341, 12 Pac. 495; Schurmeler v. St. Paul & P. R. Co., 10 Minn. 100 (Gil.
   75), 88 Ara. Dec. 59
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

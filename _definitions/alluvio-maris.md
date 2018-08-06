@@ -8,5 +8,6 @@ body: Lat. In the clvll and old English law. The washing up of the sea; formatio
   and adding sand nnd slubb to the adjoin-l.ng land, whereby it is lncreased, and
   for the most part by insensible degrees.” Hale, de Jure Mar. pt. 1, c. 6
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

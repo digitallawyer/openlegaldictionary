@@ -11,5 +11,6 @@ body: This term, used in a will in re-lation to the management and distribution 
   v. Brennan, 16 App. Dlv. 395, 45 N. ¥. Supp. 57; Brasher v. Marsh, 15 Ohlo SL 111;
   Major v. Herndon, 78 Ky. 123
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

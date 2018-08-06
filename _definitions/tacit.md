@@ -7,5 +7,6 @@ body: Silent; not expressed; Implied or Inferred; manifested by the refraining f
   absence of express matter. Thus, tacit con-sent is consent Inferred from the fact
   that the party kept silence when he had an opportunity to forbid or refuse
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -14,5 +14,6 @@ body: A personal action ex delicto brought to recover possession of goods unlawf
   377; Lazard v. wheeler, 22 Cal. 142; Maclary v. Turner, 9 Houst (Del.) 281, 32 Atl.
   325; Johnson v. Boehme, 66 Ean. 72, 71 Pac. 243, 97 Am. SL Rep. 357
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

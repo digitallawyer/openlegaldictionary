@@ -8,5 +8,6 @@ body: Tenant by the curtesy of Eugland is where a man survives a wife who was se
   which case he will, on the decease of his wife, hold the estate during hie life
   as tenant by the curtesy of England. 2 Crabb, Real Prop. $ 1074
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

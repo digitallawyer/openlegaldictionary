@@ -8,5 +8,6 @@ body: Tending to the benefit of a person; yielding a profit, advantage, or benef
   both to estates (as a “beneficial Interest”) and to persons, (as “the beneficial
   owner.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

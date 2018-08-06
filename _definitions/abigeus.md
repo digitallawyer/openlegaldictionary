@@ -13,5 +13,6 @@ body: Lat (Pl., abigei, or more rarely abigeatores.) In the civil law. ' A steal
   two nt n time. Dig. 47, 14, 3, 2. See Cod. 9, 37; Nov. 22, c. 15, 8 11 4 BI. Comm.
   239
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

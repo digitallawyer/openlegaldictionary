@@ -7,5 +7,6 @@ body: A county palatine in Eng-land, the Jurisdictlon of which was vested in the
   and royalty in the crown. The Jurisdiction of the Durham court of pleas was transferred
   to the supreme court of judlca-ture by the Judicature act of 1873. 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A person,whose business it is to draw pleadings. Formerly, when plead-ing 
   and attorneys. The class is now al-most extinct, and the term “pleaders” is generally
   applled. in England, to junior mem-bees of the common-law bar. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A dry measure, containing four pecks, eight gallons, or thirty-two quarts.
   different states in consequence of statutory enactments. Richardson v. Spafford,
   13 Vt
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

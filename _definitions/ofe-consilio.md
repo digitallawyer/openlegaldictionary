@@ -6,5 +6,6 @@ body: Lat By aid and coun-sel. A dvii law term applled to accessaries, similar i
   import to the “aiding and abetting" .of ,the common law. often written “ope et consilio”
   Burrill
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

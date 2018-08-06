@@ -8,5 +8,6 @@ body: L. Fr. Eldest; eldest-born. The term is of common occurrence in the old bo
   Eigne is probably a corrupt form of the French “altte.” 2 Bl. Comm. 248; Litt. |
   399
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

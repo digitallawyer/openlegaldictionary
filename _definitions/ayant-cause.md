@@ -7,5 +7,6 @@ body: In French law. This term signifies one to whom a rlght has been assigned, 
   from an helr who acquires the rlght by inheritance. 8 Toullier, n. 245. The term
   is used in Louisiana
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

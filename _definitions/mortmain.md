@@ -9,5 +9,6 @@ body: A term applied to denote the alienation of lands or tenements to any corpo
   applled to such alienations. 2 BL Comm. 268; Co. Lltt 2b; Perln v. Carey, 24 How.
   495, 16 L. Ed. 701
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

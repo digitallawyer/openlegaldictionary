@@ -12,5 +12,6 @@ body: 'Remedy is the means by which the violation of a right is prevented, redre
   E. 537; U. S. v. Lyman, 26 Fed. Cas. 1,024; Frost v. witter, 132 CaL 421, 64 Pac.
   705, 84 Am. St. Rep. 53'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

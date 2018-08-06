@@ -8,5 +8,6 @@ body: In Spanish law. The acquisition of domiciliary rights and status, nearly e
   and marrying a native woman, and by attaching oneself to the soil, purchasing or
   acquiring real property and possessions. Yates v. Iams, 10 Tex. 168
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

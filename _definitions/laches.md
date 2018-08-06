@@ -17,5 +17,6 @@ body: 'Negligence, consisting in the omission of something which a party might d
   C. 296. 42 S. E. 106: First Nat. Bank v. Nelson. 106 Ala. 535. 18 South. 154; Cole
   v. Ballard, 78 Va. 147; Selbng v. Abitbol, 4 Maule & S. 462'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

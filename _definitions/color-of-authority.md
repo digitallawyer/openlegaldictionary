@@ -7,5 +7,6 @@ body: That semblance or presumption of authority sustaining the acts of a publlc
   In his hands apparently valid and regular. State v. oates, 86 wis. 634, 57 N. W.
   296, 39 Am. St Rep. 912; wyatt v. Monroe, 27 Tex. 268
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

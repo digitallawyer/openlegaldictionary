@@ -10,5 +10,6 @@ body: Things capable of being inherited, he it corporeal or incorpo-real. real, 
   359, 21 Atl. 944 ; Mitchell v. warner, 5 Conn. 497; New York v. Mabie, 13 N. Y.
   159, 64 Ain. Dec. 538
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

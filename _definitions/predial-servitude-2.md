@@ -9,5 +9,6 @@ body: A rlght whlch is granted for the advantage of one piece of land over anoth
   Servians," and one for the advantage of whlch the servitude is conferred, called
   “preedium dominans.” Mackeld Rom. Law, I 314
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

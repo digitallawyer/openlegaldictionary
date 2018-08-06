@@ -9,5 +9,6 @@ body: Subjectively, the sentiment or motive of beuevolence and philanthropy; the
   (Mass.) 556; Vidal v. Girard, 2 How. 127, 11 L. Ed. 205; Historical Soc. v. Academy
   of Science, 94 Mo. 459, 8 S. W. 346
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

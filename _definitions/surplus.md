@@ -7,5 +7,6 @@ body: That -which remains of a fnnd appropriated for a particular purpose; the r
   J. Law, 577; Towery v. McGaw (Ky.) 56 S. W. 727; Appeal of Coates, 2 Pa. 137. —Surplus
   earnings. See Earnings
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

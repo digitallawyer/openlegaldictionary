@@ -18,5 +18,6 @@ body: "“Lobbying” is defined to be any personal solicitation of a member of 
   428, 55 Pac. 248; Trlst v. Child. 21 wall. 448, 22 L. Ed. 623; Dun-ham v. Hastings
   Pavement Co., 56 App. Dlv. 244, 67 N. Y. Supp. 632; Houlton v. NIchol"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: To possess corporally. “No one, at common law, was sald to have or to be
   gave him the corporal investiture and bodily occupation thereof." Bl. Law Tracts,
   113
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

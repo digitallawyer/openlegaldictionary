@@ -9,5 +9,6 @@ body: A recompense or premium offered by government or an indlvldual In return f
   restora-tion of lost property. See Kinn v. First Nat Bank, 118 wis. 537, 95 N. W.
   969, 99 Am. St Rep. 1012; Campbell v. Mercer, 108 Ga. 103, 33 S. E. 871
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

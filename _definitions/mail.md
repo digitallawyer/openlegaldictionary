@@ -8,5 +8,6 @@ body: As applied to the post-office, this term means the carriage of letters, wh
   by publlc authority, wynen v. Schappert, 6 Daly (N. Y.) 560. It may also denote
   the letters or other matter so carried
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

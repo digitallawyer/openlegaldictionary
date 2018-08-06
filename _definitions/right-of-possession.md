@@ -8,5 +8,6 @@ body: The right to possession which may reside in one man/ while another has the
   by a better; an actual right of possession, one which will stand the test against
   all opponents. 2 Bl. Comm. 196
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

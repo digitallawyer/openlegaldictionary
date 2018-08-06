@@ -6,5 +6,6 @@ body: A term almost always used in law in opposition to “direct,” though not
   antithesis of the latter word, as the terms “collateral" and “cross” are sometimes
   used in contrast with “direct”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

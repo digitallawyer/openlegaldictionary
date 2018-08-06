@@ -8,5 +8,6 @@ body: AW. In old forest law. The manifest deprehension of an offender against ve
   him, or otherwise, and was caught with a dog drawing after him to receive the same.
   Manwood, Forest Law, 2, c. 8
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

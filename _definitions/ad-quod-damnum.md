@@ -8,5 +8,6 @@ body: The name of a writ formerly issuing from the English chan-cery, commanding
   as a fair, market, or such like, which may be prejudicial to others, and thereby
   it should be inquired
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

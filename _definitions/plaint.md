@@ -8,5 +8,6 @@ body: In Enclisb praotioe. A prlvate memorial tendered in open court to the Judg
   Thls mode of proceeding is commonly adopted in cases of replevin. 3 Steph. Comm.
   666
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

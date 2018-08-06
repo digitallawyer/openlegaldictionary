@@ -6,5 +6,6 @@ body: Technically; scien-tiflcally; using terms of art. A will or con-tract is d
   as “artificially” drawn if , it is couched in apt and technical phrascs and exhibits
   a scientific arrangement
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

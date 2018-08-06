@@ -7,5 +7,6 @@ body: over-swearing. A term anciently used when a crlminal endeav-ored to excuse
   him was so plaln and notorious that he was convicted on the oaths of many more witnesses,
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

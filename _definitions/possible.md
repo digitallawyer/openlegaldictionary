@@ -8,5 +8,6 @@ body: Capable of existing or hap-peniug; feasible. . in another sense, the word 
   to be taken “as soon as possible.” See Palmer v. St. Paul Fire & Marine Ins. Co.,
   44 wis. 208
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

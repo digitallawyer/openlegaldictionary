@@ -6,5 +6,6 @@ body: ln old Scotch practice. A form of action known in the forms of the court o
   session, by which a delay to discuss a suspension or advocation was got the better
   of. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

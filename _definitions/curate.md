@@ -8,5 +8,6 @@ body: In ecclesiastical law. Prop-erly, an incumbent who has the cure of souls, 
   the prop-er incumbent; being regularly employed ei-ther to serve in hls absence
   or as hls as-sistant, as the case may be. 1 Bl. Comm. 393 ; 3 Steph. Comm. 88; Brande
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In Eng-lish law'. An abolished writ given by statute of Marlbridge, 52 Hen
   the usual degrees, a new writ should be allowed, wlthout any mention of degrees
   at all
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -38,5 +38,6 @@ body: ook. In mercantile law. A book in which an account of bilis of exchange an
   of an instrument used for tbe transfer of a ship while she is at sea. An expression
   which
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

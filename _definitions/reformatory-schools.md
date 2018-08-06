@@ -7,5 +7,6 @@ body: In English law. Schools to which convicted juvenile offenders (under sixte
   punishable with pe-nal servitude or imprisonment, and the sentence be to imprisonment
   for ten days or more, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: A title given to serjeants at law, who are called “serjeants of the coif
   the distinguishing mark of the degree of serjeant at law. (Cowell; Foss, Judg.;
   3 Steph. Comm. 272, note.) Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

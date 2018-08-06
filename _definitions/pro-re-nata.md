@@ -7,5 +7,6 @@ body: For the affair lmme-diately in hand; adapted to meet the particular occasi
   affair in hand, rather than in con-formity to established precedents, is said to
   be taken pro re nata
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

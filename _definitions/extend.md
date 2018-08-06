@@ -14,5 +14,6 @@ body: 'To expand, enlarge, prolong, widen, carry ont, further than the original 
   47 La. Aun. 1061, 17 South. 498; In re Charlotte St., 23 Pa. 288; Seattle & M. Ry.
   Co. v. State, 7 wash. 150, 34 Pac. 551, 22 L. R. A. 217,88 Am. St. Rep. 866'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

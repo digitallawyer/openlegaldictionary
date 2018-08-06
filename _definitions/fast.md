@@ -7,5 +7,6 @@ body: In Georgia, a “fast” bill of excep-tions is one which may be taken in 
   for review with great expedition. It must be certified within twenty days from the
   render-tag of the decision. Sewell v. Edmonston, 66 Ga. 353
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

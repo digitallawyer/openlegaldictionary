@@ -9,5 +9,6 @@ body: A scheme of government aiming at absolute equality in the distribu-tion of
   should be the property, not of in-dividnals, but of communities or associations
   or of the government 1 Mill, Pol. Econ. 248
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

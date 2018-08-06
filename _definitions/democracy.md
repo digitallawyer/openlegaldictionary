@@ -11,5 +11,6 @@ body: That form of govern-ment in which the sovereign power resides in and is ex
   remove a government from this type. Hosvever, a government of tbe latter kind is
   sometimes specifically described as a "representative de-mocracy.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

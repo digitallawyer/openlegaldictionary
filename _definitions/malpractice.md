@@ -9,5 +9,6 @@ body: As applied to physi-cians and surgeons, this term means, general-ly, profe
   ally and In respect to tbe particular disease or injury, resulting in iujury, unnecessary
   suffering, or death to the patient
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

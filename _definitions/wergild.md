@@ -8,5 +8,6 @@ body: D, or WERGILD. This was the price of homicide, or other atrocious per-sona
   Anglo* Saxon laws, the amount of compensation varied with the degree or rank of
   the party slain. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

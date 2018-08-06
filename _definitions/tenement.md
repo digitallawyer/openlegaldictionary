@@ -12,5 +12,6 @@ body: Thls term, in Its vulgar acceptation, is only applled to houses and other 
   51 N. W. 18, 15 L. R. A. 296; Field ▼. Higgins, 36 Me. 341; Sacket v. wheaton, 17
   Plck. (Mass.) 105; Lenfers v. Henke, 73 111. 408, 24 Am. Rep. 263
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

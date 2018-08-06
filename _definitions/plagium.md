@@ -7,5 +7,6 @@ body: Lat in the clvll law. Man-stealing; kidnapping. The offense of enticing aw
   from hls master, or the concealing or harboring him without the knowledge of hls
   master. Dlg. 48, 15, 6
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Regula-tlons passed for the presidency of Bombay, and the territories subo
   when the power of local legislation ceased, and the acts re-la ting thereto were
   thenceforth passed by the governor general of India in council. Moz-ley & w’hitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

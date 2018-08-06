@@ -6,5 +6,6 @@ body: A writ, addressed to a bishop, charging him not to molest a clerk employed
   the royal servlce, by reason of his non-residence; in which case he is to be dis-charged.
   Reg. orig. 58
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

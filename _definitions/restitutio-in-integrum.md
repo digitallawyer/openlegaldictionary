@@ -9,5 +9,6 @@ body: Lat. In the civil law. Restoration or restitution to the previous conditio
   the parties to their previous situation or legal relations. Dig. 4, 1; Mackeld.
   Rom. Law, $ 220
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

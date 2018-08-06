@@ -6,5 +6,6 @@ body: Lat. It does not ap-pear; it is not clear or evident A phrase used in gene
   to state some conclusion as not necessarily following although it may appear on
   its face to follow
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

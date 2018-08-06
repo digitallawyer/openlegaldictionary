@@ -9,5 +9,6 @@ body: The act of a sheriff, con-stable, or other ministerial oflicer, in de-llve
   Also the indorsement made by the officer upon the writ or other paper, stating what
   he has done under it, the time and mode of service, etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

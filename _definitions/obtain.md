@@ -8,5 +8,6 @@ body: To acquire; to get hold of by effort; to get and retain possession of; as,
   Hun (N. Y.) 400; State v. will, 49 La. Ann. 1337, 22 Sonth. 378; Sundmacher v. Block,
   39 Hl. App. 553
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: Iu English law. The next personal dignity after the noblllty. of knights t
   ancient, order of knighthood; for we find that King Alfred conferred this order
   upon his son Athelstan. 1 Bl. Comm. 403
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

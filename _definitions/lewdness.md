@@ -9,5 +9,6 @@ body: Licentiousness; an offense against the public economy, when of an an open 
   483; U. S. v. Males (D. C.) 51 Fed. 42; Comm. v. wardell, 128 Mass. 54, 35 Am. Rep.
   357; State v. Bauguess, 106 Iowa, 107, 76 N. W. 808
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

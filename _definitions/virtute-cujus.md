@@ -6,5 +6,6 @@ body: Lat By virtue whereof. This was the clause in a pleading justifying an ent
   upon land, by which the party alleged that it was in virtue of an order from one
   entitled that he entered, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

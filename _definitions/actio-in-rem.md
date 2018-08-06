@@ -8,5 +8,6 @@ body: In the civil and com-mon law. An- action for a thing; an action for the re
   all the world, and not in any special sense against the indlvldual sued, until he
   violated it See In Rxx
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

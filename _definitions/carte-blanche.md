@@ -7,5 +7,6 @@ body: A white sheet of paper; an Instrument signed, but otherwise left blank. A 
   any contract or engagement as the agent mny see fit. Hence, metaphorically, unlimited
   authority
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: By article 2, $ 2, of the constitution it is declared that the president s
   aspects of the war. See Flemlng v. Page, 9 How. 603, 13 L. Ed. 276; Prize Cases,
   2 Black, 635, 17 L. Ed. 459; Swaim v. U. S., 28 Ct. Cl. 178
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

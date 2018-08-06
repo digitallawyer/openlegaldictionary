@@ -9,5 +9,6 @@ body: Lat. A writ upon which all proceedings in the court of exchequer were form
   in order to give Jurisdiction to the court of ex-chequer; but now this suggestion
   is a mere form. 3 Bl. Comm. 46
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

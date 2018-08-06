@@ -6,5 +6,6 @@ body: A kind of defensive coat-armor worn by horsemen in war; not made of solid 
   but of many plates fastened together. Some tenants were bound by their tenure to
   find it upon Invasion. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

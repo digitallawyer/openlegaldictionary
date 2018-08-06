@@ -10,5 +10,6 @@ body: Concerning gifts, (or more folly, de donis conditionalibus, concerning con
   introduced perpetuities, and so strengthened the power of the nobles. See 2 Bl.
   Comm. 112
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

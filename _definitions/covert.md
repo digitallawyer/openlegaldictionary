@@ -7,5 +7,6 @@ body: Covered, protected, sheltered-A pound covert is one that is close or cover
   BL Comm. 12. A feme covert is so called, as being under the wing, protection, or
   cover of her husband. 1 Bl. Comm. 442
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

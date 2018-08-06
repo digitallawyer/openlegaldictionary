@@ -8,5 +8,6 @@ body: The returning or sending back by a court of appeal of the record and proce
   may be entered in accordance with the decision on appeal, or execution be issued,
   or any other necessary action be taken in the court below
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: At oommon law. Relationship by marriage between the husband and the blood 
   Comm. 434; Bollnger v. Earle, 45 N. Y. Super. CL 80; Tegarden v. Phillips (Ind.
   App.) 39 N. E. 212
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

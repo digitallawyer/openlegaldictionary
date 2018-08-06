@@ -7,5 +7,6 @@ body: Complete property, as opposed to feudal tenure. The transposition of the s
   “allod” or “allodial," (q. v.) “Allodh" is thus put in contradistinction to “fccodh."
   Mozley & whltley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: This is a species of tenure, where land is held of another in perpetuity a
   corn-prised in the feoffment It corresponds very nearly to the “emphyteusis” of
   the Roman law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

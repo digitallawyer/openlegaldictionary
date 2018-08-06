@@ -9,5 +9,6 @@ body: Lat. In Roman law. The sale per aes ef libram (with copper and scales) was
   the scales with a copper coin, repeat-ing a formula hy which he claimed the sub-ject-matter
   of the transaction as his property, and handed the coin to the vendor
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

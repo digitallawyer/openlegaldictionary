@@ -8,5 +8,6 @@ body: Lands in Scotland where the ridges of a field belong alterna-tlvely to dlf
   these lands was authorized, with the exception of lands belonging to corporations,
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

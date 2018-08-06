@@ -7,5 +7,6 @@ body: 1. A treaty of alliance be-tweeu different states or parties. It may be of
   in attacking a common enemy; defensive when the parties agree to act In concert
   in defending each other against an enemy, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

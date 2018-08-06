@@ -10,5 +10,6 @@ body: A term of civil-law origin, Blgnifylug that the right or interest spoken o
   creditors, as against a common debtor, each of whom is entitled to receive the entire
   debt and give an acquittance for It
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

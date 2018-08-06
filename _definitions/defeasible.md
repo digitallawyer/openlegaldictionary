@@ -7,5 +7,6 @@ body: Subject to be defeated, annulled, revoked, or undone upon the hap-pening o
   limitation. Usually spoken of estates and Interests in land. For instance, a mortgagee’s
   estate is defeasible (liable to he de-feated) by the mortgagor’s equity of redemption
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

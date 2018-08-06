@@ -7,5 +7,6 @@ body: A thing in possession, as distinguished from a thing in action. Sterling v
   customs, lf paid, are a chose in possession; if unpaid, a chose in action. 2 BL
   Comm. 406
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

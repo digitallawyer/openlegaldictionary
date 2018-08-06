@@ -8,5 +8,6 @@ body: Lat. By the head. Tenure in capite was an ancient feudal tenure, whereby a
   or of a particular subject. It is now abolish-ed. Jacob. As to distribution per
   capita, see Capita
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

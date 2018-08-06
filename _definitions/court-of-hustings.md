@@ -7,5 +7,6 @@ body: In English law. The county court of London, held be-fore the mayor, record
   can be brought in this court that are merely personal. 3 Steph. Comm. 449, note
   I
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

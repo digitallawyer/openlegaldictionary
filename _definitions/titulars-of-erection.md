@@ -8,5 +8,6 @@ body: Persons who in Scotland, after the Reformation, obtained grant» from the 
   were conferred on these gran-tees, who were also called ‘lords of erection” and
   “titulars of the teinds.” Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

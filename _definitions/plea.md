@@ -8,5 +8,6 @@ body: In old English law. A suit or action. Thus, the power to “hold pleas” 
   declarations, where it is stated, e. g., that the defendant “has been summoned to
   answer the plaintiff in a plea of debt.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

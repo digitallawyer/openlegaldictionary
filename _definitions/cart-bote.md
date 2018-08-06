@@ -6,5 +6,6 @@ body: wood or timber which a tenant is allowed by law to tuke from an es-tate, f
   the purpose of repairing instruments, (including necessary vehicles,) of husbandry.
   2 Bl. Comm. 35
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

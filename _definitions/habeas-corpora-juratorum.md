@@ -8,5 +8,6 @@ body: A writ commanding the sheriff to bring up the persons of jurors, and, if n
   and served the same purpose as a distringas juratores in the Klng’s Bench. It was
   abolished by tbe C. L. P. Act, 1852, | 104. Brown.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -13,5 +13,6 @@ body: In praotioe. The act performed by an officer of the law, under the authori
   v. Rose, 9 Wall. 106, 19 L. Ed. 602; The Josefa Se-gunda, 10 Wheat. 326, 6 L. Ed.
   329
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

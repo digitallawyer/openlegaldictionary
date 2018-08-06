@@ -8,5 +8,6 @@ body: This phrase is frequently used iu conveyances, when reciting some other co
   to procure the deed to be recorded in a reasonable time. Penn v. Preston, 2 Rawle
   (Pa.) 14
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

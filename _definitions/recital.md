@@ -8,5 +8,6 @@ body: The formal statement or set-ting forth of some matter of fact, in any deed
   deed be-tween the date and the habendum, and they usually commence with the formal
   word “whereas." Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: So called be-cause anciently inhabited by such clerks as chiefly studied t
   and possess corporate property, hall, chambers, etc., but perform no publlc functions
   like the Inns of court wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

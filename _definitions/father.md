@@ -11,5 +11,6 @@ body: The male parent He by whom a child is begotten. As used in law, this term 
   App. 321; Thornburg v. American Strawboard Co., 141 Ind. 443, 40 N. E. 1062, 50
   Am. St. Rep. 334
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

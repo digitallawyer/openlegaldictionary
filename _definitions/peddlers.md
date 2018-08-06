@@ -8,5 +8,6 @@ body: Itinerant traders; persons who sell small wares, which they carry with the
   v. Rushville, 107 Ind. 502, 8 N. E. 609, 57 Am. Rep. 128; In re Pringle, 67 Kan.
   364, 72 Pac. 864
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

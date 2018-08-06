@@ -11,5 +11,6 @@ body: "“Because the pur-chasere.” The title of the statute of westm. S. (18 
   and (2) to put an end to the creation of any new manors, i. e., tenancies in fee-simple
   of a sub-ject Brown"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

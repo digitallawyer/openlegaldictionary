@@ -10,5 +10,6 @@ body: In the practice of the courts, a recess is a short interval or period of t
   the convening of another at the next regular session. See Tip-ton v. Parker, 71
   Ark. 193, 74 S. W. 298. ■
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

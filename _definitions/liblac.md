@@ -6,5 +6,6 @@ body: In Saxon law. witchcraft, particularly that kind whlch consisted in the co
   and administering of drugs and philters. Sometimes occurring in the Latinised form
   liblacum
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

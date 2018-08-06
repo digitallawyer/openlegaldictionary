@@ -8,5 +8,6 @@ body: Lat in the civil law. A general name for any kind of fraud not falling und
   selling another’s property as one's own, plac-ing a second mortgage on property
   without disclosing the existence of the first, etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

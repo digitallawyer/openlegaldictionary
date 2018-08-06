@@ -7,5 +7,6 @@ body: An agent of the own-6r of goods shipped as cargo on a vessel, who has char
   buys a cargo to be brought back on the return voyage of the ship, and comes home
   with it
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

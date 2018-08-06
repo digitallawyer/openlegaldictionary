@@ -7,5 +7,6 @@ body: For counsel given. An annuity pro consilio amounts to a condi-tion, but in
   to a condition; for the state of the land by the feoffment is executed, and the
   grant of the annuity is executory. Plowd. 412
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Lat. A decnrion. In the provincial admlnistration of the Roman em-pire, th
   of its internal affairs; having powers both magisterial and legislative. See 1 Spence,
   Eq. Jur. 54
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

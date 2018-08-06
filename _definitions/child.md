@@ -8,5 +8,6 @@ body: 'This word has two meanings in law: (1) In the law of the domestic relatio
   (2) In the law of negligence, and in laws for the protection of children, etc.,
   it is used as the'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

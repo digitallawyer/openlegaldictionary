@@ -6,5 +6,6 @@ body: In the clvli law. The slgn-manual of the emperor; a rescript of the empero
   signed with his own hand. It is distinguished both from a rescript and pragmatic
   sanction, in Cod. 4, 59, 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

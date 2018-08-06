@@ -7,5 +7,6 @@ body: An English statute, (8 Vlct c. 16,) passed in 1845, which consolidated the
   is considered as incorporated into all sub-sequent acts authorizing tbe executios.
   of
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

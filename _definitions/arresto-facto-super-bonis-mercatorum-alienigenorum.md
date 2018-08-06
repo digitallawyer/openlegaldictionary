@@ -7,5 +7,6 @@ body: Id old English law. A writ against the goods of aliens found within this k
   of restitution. Reg. orig. 129. The ancient civilians called it “clarigatio" but
   by the moderns it is term-ed “reprisalia.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

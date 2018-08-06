@@ -5,5 +5,6 @@ permalink: "/definitions/dianatio.html"
 body: A logical reasoning in a pro-gresslve manner, proceeding from one subject to
   another. Enc. Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

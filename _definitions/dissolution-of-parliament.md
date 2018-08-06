@@ -9,5 +9,6 @@ body: The crown may dissolve parliament either in person or by proclamation; the
   but under the Reform Act, 1867, its continuance is now nowise affected by such demise.
   May, Pari. Pr. (6th Ed.) 48. Brown.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

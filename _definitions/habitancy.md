@@ -13,5 +13,6 @@ body: Settled dwelling in a given place; fixed and permanent residence there. Th
   27 Miss. 711, 61 Am. Dec. 530; Abington v. North Bridgewater, 23 Pick. (Mass.) 170.
   And see Domicile; Resi-dencs
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

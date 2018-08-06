@@ -10,5 +10,6 @@ body: Dispossession; a depriva-tlon of possession; a privation of seisin; a usur
   Fleming, 4 Ga. 115, 48 Am. Dec. 210; Claw v. Bromagham, 9 Cow. (N. V.) 553; wash-burn
   v. Cutter, 17 Mlnn. 368 (Gil. 335
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

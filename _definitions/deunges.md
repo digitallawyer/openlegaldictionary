@@ -6,5 +6,6 @@ body: pi. DEUNGES. Lat. In the Roman law. A division of the as, containing eleve
   uneiae or duodecimal parts; the proportion of eleven-twelfths. 2 Bl. Oomm. 462,
   note. See As
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

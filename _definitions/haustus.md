@@ -7,5 +7,6 @@ body: Lat. In the clvll law. A species of servitude, consisting In the rlght to 
   or spring,) so fnr as it is necessary, is tacitly included. Dlg. 8, 3, 1; Mackeld.
   Rom. Law, S 318
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

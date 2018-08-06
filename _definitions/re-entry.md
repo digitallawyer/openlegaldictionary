@@ -10,5 +10,6 @@ body: The entering again Into or resuming possession of premises. Thus in leases
   Cruise, Dig. 8; Cowell. And see Michaels v. Fishel, 169 N. Y. 381, 62 N. E. 425;
   Earl orchard Co. v. Fava, 138 Cal. 76, 70 Pac. 1073
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

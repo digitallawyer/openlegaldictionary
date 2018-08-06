@@ -6,5 +6,6 @@ body: Iu English law. Domin* lou, manor, seigniory, domain; also a title of hono
   used to a nobleman not being a duke. It is also the customary titulary appellatlon
   of the judges and some other persons in authority and office
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

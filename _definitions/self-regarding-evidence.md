@@ -7,5 +7,6 @@ body: Evl-derice which either serves or disserves the partyis so called. Thls sp
   which is invariably receivable, as being an admission against the party offering
   it, and that either dn court or out of court. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: A place of burial, dlffer-ing from a churchyard by its locality and ln-cid
   Ass’n v. Board of Assessors. 37 La. Ann. 35; Jenkins v. Andover, 103 Mass. 104;
   Cem-etery Ass’n v. New Haven, 43 Conn. 243, 21 Am. Rep. 643
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

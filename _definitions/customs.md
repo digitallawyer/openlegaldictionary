@@ -7,5 +7,6 @@ body: This term is usually applied to those taxes which are payable upon goods a
   U. S. 601, 15 Sup. Ct. 912, 39 L. Ed. 1108; Marriott v. Brune, 9 How. 632,13 L.
   Ed. 282
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

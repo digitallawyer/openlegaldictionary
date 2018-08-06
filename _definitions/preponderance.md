@@ -12,5 +12,6 @@ body: This word means something more than “weight;" it denotes a superiority o
   v. McMullen, 202 IU. 413, 67 N. E. 20; Bryan v. Chicago, etc., R. Go., 63 Iowa,
   464, 19 N. W. 295
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: 'SS. The constitutional right of men to pursue their “happiness” means
   Co., Ill U. S. 757, 4 Sup. CL 652, 28 L. Ed. 585; 1 Bl. Comm. 41. And see Eng-llsh
   v: English, 32 N. J. Eq. 750'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In oid English law. A county or shire; the body of a county. The territori
   antiquity and of great dignity in early times. Also, the retinue or train of a prince
   or high governmental official
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

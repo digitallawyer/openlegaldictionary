@@ -6,5 +6,6 @@ body: SE. The dellvery of a person into tbe custody of mainpernors, (q. «.) Als
   name of a writ (now obsolete) command-ing the sheriff to take the security of main-pernors
   and set the party at liberty
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

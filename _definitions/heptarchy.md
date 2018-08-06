@@ -13,5 +13,6 @@ body: A government exercised by seven persons, or a natlon divided into seven go
   of speaking of Delra and Bernicia under the single appellation of the “Kingdom of
   Northumberland." wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A practitioner of medi-dne; a person duly authorized or licensed to treat 
   62 wis. 289, 22 N. W. 430; Nelson r. State Board of Health, 108 Ky. 760, 57 8. W.
   501, 50 L. R. A. 383
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

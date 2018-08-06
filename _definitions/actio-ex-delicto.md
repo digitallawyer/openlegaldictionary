@@ -7,5 +7,6 @@ body: In the civil and cominon law. An action of tort; an action arising out of 
   more common expression of the civil law; whlch is adopted by Bracton. Inst. 4, 6»
   1; Bract, fols. 102, 103
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

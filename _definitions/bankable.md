@@ -7,5 +7,6 @@ body: In mercantile law. Notes, checks, bank-bills, drafts, and other securl-tle
   worthy of discount by the hank to which it is offered is termed “bankable.” Allis
   Co. v. Power Co., 9 S. D. 459, 70 N. W. 650
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

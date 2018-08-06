@@ -8,5 +8,6 @@ body: This was a writ which lay for oue who had the rlght of property, against a
   other writs, said to be “in the nature of a writ of right,” available for the recovery
   of incorporeal hereditaments or of lands for a less estate than a fee-simple. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

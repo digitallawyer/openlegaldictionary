@@ -10,5 +10,6 @@ body: Things movable; movable or personal chattels, which may be annexed to or a
   whole plant itself when severed from the ground; secondly, of anlmals, whlch have
   in themselves a principle and power of motion. 2 Steph. Comm. 67
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

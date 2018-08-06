@@ -8,5 +8,6 @@ body: A will which depends merely upon oral evldence, having been declared or di
   v. Sykes, 2 Stew. (Ala.) 367, 20 Am, Dec. 40; Tally v. Butterworth, 10 Yerg. (Tenn.)
   502; Ellington v. Dillard, 42 Ga. 379; Succession of Morales, 16 La. Ann. 268
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

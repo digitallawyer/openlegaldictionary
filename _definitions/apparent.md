@@ -6,5 +6,6 @@ body: That which is obvious, evident, or manifest; what appears, or has been mad
   manifest. In respect to facts involved in au appeal or writ of error, that which
   is stated in the record
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In international law. The right of one vessel, on the high seas, to stop a
   ship, encountered at sea, to ascertain whether the latter is carrying contraband
   goods
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

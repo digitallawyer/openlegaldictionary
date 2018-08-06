@@ -7,5 +7,6 @@ body: The word, “negro" means a black man, one descended from the African race
   the different states are not uniform in thia respect, some including in the description
   “negro” one who has one-eighth or more of African blood
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

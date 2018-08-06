@@ -8,5 +8,6 @@ body: That part of the law which the courts are established to ad-minister, as o
   or remedial law, which prescribes the method of enforcing rights or obtaining redress
   for their invasion
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: A statute is general and uniform in lts operation when it operates equally
   all persons who are brought wlthin the relatlons and circumstances pro-vided for.
   McAunich v. Mississippi & M
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

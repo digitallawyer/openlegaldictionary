@@ -6,5 +6,6 @@ body: T8. For the meaning of this phrase in the constitution of the United State
   see 2 Story, Const. §§ 1374-1399; 1 Kent, Comm. 413-422; Pom. Const Law; Black,
   Const Law (3d Ed.) p. 720 et seq
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

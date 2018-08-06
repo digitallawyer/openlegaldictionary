@@ -7,5 +7,6 @@ body: The number of ten men, whlch number, in the time of the Saxons, was called
   tribute paid to the crown, consisting of two shillings for each plow-land. Enc.
   Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

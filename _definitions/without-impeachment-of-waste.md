@@ -6,5 +6,6 @@ body: The effect of the Insertion of this clause in a lease for life is to give 
   tenant the right to cut timber on the estate, without making himself thereby liable
   to an action for waste
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

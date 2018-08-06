@@ -9,5 +9,6 @@ body: An offer of money; the act b.v which one produces and offers to a person h
   W. 747, 38 Am. Rep. 301; Holmes v. Holmes, 12 Barb. (N. Y.) 144; Smith v. Lewis,
   26 Conn. 119; Noyes v. wyckoff, 114 N. Y. 204, 21 N. E. 158
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

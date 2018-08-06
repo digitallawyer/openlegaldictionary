@@ -7,5 +7,6 @@ body: Not twice for the same;' that is, a man shall not be twice tried for the s
   as the familiar rule of our law that a man shall not be twice “put in jeopardy”
   for the same offense
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

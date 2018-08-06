@@ -9,5 +9,6 @@ body: A terri-tory situated on the Potomac river, and being the seat of governme
   a territory, but is made sub-Ject, by the constitution, to the exclusive Ju-risdictlon
   of congress
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

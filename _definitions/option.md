@@ -10,5 +10,6 @@ body: In Enclisb ecolcsiastieal law. A customary prerogative of an archi bishop,
   hlmself shall choose, which is therefore call-ed his “option." 1 BL Cornm. 381;
   3 Steph. Comm. 63, 64; Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

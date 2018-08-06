@@ -7,5 +7,6 @@ body: A deduction; a counterclaim; a contrary claim or demand by which a given c
   33 Atl. 511; Cable Flax Mills v. Early, 72 App. Div. 213, 76 N. Y. Supp. 191. The
   more usual form of the word is “set-off,” (Or v
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

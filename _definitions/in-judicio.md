@@ -7,5 +7,6 @@ body: In Roman law. In the course of an actual trial; before a judge, (judex.) A
   in its second stage, after it had been sent to a judex tor trial, it was said to
   be in judicio
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

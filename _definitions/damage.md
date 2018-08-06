@@ -7,5 +7,6 @@ body: Loss, injury, or deteriora-tion, caused by the negligence, design, or ac-c
   is to be distinguished from ita plural,—“damages,”—which means a compensation In
   raon-ey for a loss or damage
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In Spanish law. A term corresponding to the res communes of the Roman law,
   the water of running streams. Hall, Mex. Law, 447; Lux v. Haggin, 69 Cal. 255, 10
   Pac. 707
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

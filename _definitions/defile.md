@@ -7,5 +7,6 @@ body: To debauch, deflower, or cor-rupt the chastity of a woman. The term does n
   State v. Montgomery, 79 Iowa, 737, 45 N. W. 292; State v. Fernnld, 88 Iowa, 553,
   55 N. W. 534
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

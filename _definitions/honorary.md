@@ -12,5 +12,6 @@ body: As applied to public offices and other positions of responsibility or trus
   an obligation or duty growing out of honor or trust only, ss distinguished from
   legal accountability
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

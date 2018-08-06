@@ -9,5 +9,6 @@ body: In the civil law. Adjunc-tion; a species of accessio, whereby two things b
   (iiucdiflcatio ;) sowing, (satio;) aud planting, (plantatio.) Inst. 2, 1, 26-34;
   Dig. 6, 1, 23; Mackeld. Rom. Law, § 276. See Accessio
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

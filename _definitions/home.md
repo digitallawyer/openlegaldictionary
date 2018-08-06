@@ -11,5 +11,6 @@ body: when a person voluntarily takes up his abode in a given place, with intent
   welch v. whelpley, 62 Mich. 15, 28 N. W. 744, 4 Am. St. Rep. 810; warren v. Thomaston,
   43 Me. 418, 69 Am. Dec. 69
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Lat. A lawful man; a person who stands rectus in curia; a person not outla
   (goodand lawful men, competent jurors,) aud "legality” designates the condition
   of such a mau. Jacob
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

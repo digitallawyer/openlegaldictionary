@@ -8,5 +8,6 @@ body: A term which was applied, in feudal law, to a villein annexed to a manor, 
   to a villein en groe, who was transferable by deed from one owner to another. Cowell;
   2 Bl. Comm. 93
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Not concerned, in re-spect to possible gain or loss, in the result of the 
   404; wolcott v. Ely, 2 Allen (Mass.) 340 ; Hickerson v. Insurance Co., 96 Tenn.
   193, 33 S. W. 1041, 32 L. R. A. 172
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

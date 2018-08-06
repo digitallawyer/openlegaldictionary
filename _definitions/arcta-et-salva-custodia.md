@@ -6,5 +6,6 @@ body: Lat. In strict and safe custody or keephig. when a defendant is arrested o
   a capias ad satisfaciendum, (ca. sa.,) he is to be kept arcta et salva custodi.
   3 Bl. Comm. 415.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

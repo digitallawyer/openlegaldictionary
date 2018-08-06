@@ -7,5 +7,6 @@ body: A court Instituted by Henry VIII. in 1537, to administer justice in Yorksh
   showed great rigor, bordering, it is alleged, on harshness. It was abolished by
   16 Car. I., the same act which abolished the Star Chamber. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

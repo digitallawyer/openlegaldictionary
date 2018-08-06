@@ -8,5 +8,6 @@ body: wherefore he ejected within the term. In old practice. A writ which lay fo
   or another claiming under him. 3 Bl. Comm. 199, 206; Reg. orig. 227; Fltzh. Nat
   Brev. 197 S.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

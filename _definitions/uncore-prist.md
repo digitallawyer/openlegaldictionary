@@ -7,5 +7,6 @@ body: L. Fr. Still ready. A species of plea or replication by which the party al
   conjunction with the phrase “tout temps prist,” it signifies that he has always
   been and still is ready
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

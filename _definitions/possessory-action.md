@@ -7,5 +7,6 @@ body: An action which has for its immediate object to obtain -or recover the act
   seeks to vindicate the plain-tiff’s title, or which involves the bare right only;
   the latter being called a “petitory” action
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

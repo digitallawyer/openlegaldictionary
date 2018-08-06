@@ -15,5 +15,6 @@ body: In English ecclesiastical law. The title of a person admitted to a rectory
   the certificate of the ordinary of its having been so subscribed. 2 Steph. Comm.
   (7th Ed.) 687; wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

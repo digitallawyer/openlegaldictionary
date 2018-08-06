@@ -8,5 +8,6 @@ body: 'Lat. in the civil law. A convention whereby one allows another the use of
   can re-demand the thing at any time, even should he have allowed it to the bailee
   for a desig: nated period. Mackeld. Rom. Law, | 447'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

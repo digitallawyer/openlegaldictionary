@@ -8,5 +8,6 @@ body: To “bring" an actlon or suit has a settled customary meaning at law, and
   Fed. Cas. 321; Goldeuberg v. Murphy, 108 U. S. 162. 2 Sup. Ct. 388, 27 L. Ed. 686;
   Buecker v. Carr, 60 N. J. Eq. 300, 47 Atl. 34
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

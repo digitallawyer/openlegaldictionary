@@ -9,5 +9,6 @@ body: The act of offering honor and adoration to the Divine Being. Rell-gious ex
   W. 967, 7 L. R. A. 330, 20 Am. St. Rep. 41; State v. Buswell, 40 Neb. 158, 58 N.
   W. 728, 24 L. R. A. 68
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

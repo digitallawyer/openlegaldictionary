@@ -9,5 +9,6 @@ body: In Engllsh law. The lay fees of bishops, with w'hich their churches are en
   collections, cemetery charges, and oth-er sources. See Barabasz v. Rabat, SO Md.
   23, 37 Atl. 720
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

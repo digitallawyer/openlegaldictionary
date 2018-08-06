@@ -7,5 +7,6 @@ body: Lat. I have demised or leased. Demisi, concessi, et ad flrmam tradidi; hav
   as the corresponding English words are in the modern forms. 2 Bl. Comm. 317, 318.
   Koch v. Hustis, 113 wis. 599. 87 N. W. 834; Kinney ▼. watts, 14 wend. (N. T.) 40
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

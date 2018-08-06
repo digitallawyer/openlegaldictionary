@@ -8,5 +8,6 @@ body: In French law. The name given to the public functionary who is churg-ed in
   used, in practically the same sense, in Mexico. But in New Mexico, a prefect is
   a probate judge
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

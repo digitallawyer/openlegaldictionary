@@ -9,5 +9,6 @@ body: In such phrases as “to the hurt or annoyance of another,” or “hurt, 
   R. Co., 68 App. Div. 390, 74 N. T. Supp. 375; Thurston v. whitney, 2 Cush. (Mass.)
   110
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

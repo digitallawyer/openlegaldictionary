@@ -6,5 +6,6 @@ body: This term might well be con-; sidered as definite and certain a descriptio
   as “close,” and might be used in law; but it is not a usual description in legal
   proceedings. 1 Chit Gen. Pr. 160
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

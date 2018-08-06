@@ -7,5 +7,6 @@ body: In eccleslastlcal law. The place in a church where the priest's vestures a
   usually held in the vestry of the church, or in a building called a “vestry-hall,”
   to act upon buslness of the church. Mozley & whltley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

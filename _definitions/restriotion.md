@@ -8,5 +8,6 @@ body: In tbe case of land registered under the English land transfer act, 1875, 
   or the creation of any charge upon it, unless notice of the application for a transfer
   or charge ih
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

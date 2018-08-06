@@ -4,5 +4,6 @@ letter: C
 permalink: "/definitions/cold-water-ordeal.html"
 body: The trial which was anciently used for the common
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

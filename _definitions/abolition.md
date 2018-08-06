@@ -6,5 +6,6 @@ body: The destruction, abrogation, or extinguishment of anything; also the leave
   by the sovereign or judges to a criminal accuser to desist from further prosecution.
   25 Hen. VIII. c. 2L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

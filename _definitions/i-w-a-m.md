@@ -10,5 +10,6 @@ body: rights. A formal and emphatic leg-islative assertion and declaration of po
   11 Ark. 491; Atchison St. R. Co. v. Mis-souri Pac. R. Co.. 31 Kan. 661, 3 Pac. 284;
   orr v. Quimby, 54 N. H. 613
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

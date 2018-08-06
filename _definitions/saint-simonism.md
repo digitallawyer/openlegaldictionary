@@ -10,5 +10,6 @@ body: An elaborate form of non-communistic socialism. It is a scheme which does 
   to the importance, in the eyes of that au-thority, of the function itself, and the
   merits of the person tvho fulfills it 1 Mill, Pol. Econ. 258
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: In English law. This was the consequence of attainder. It meant that the a
   wm. IV. c. 106, and 33 & 34 Vict. c. 23, and is unknown in America. Const. U. S.
   art. 3, i 3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

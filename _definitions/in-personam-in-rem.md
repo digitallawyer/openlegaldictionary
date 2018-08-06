@@ -14,5 +14,6 @@ body: In the Ro-maa law, from which they are taken, the expressions “in rem”
   or infringed it See InsL 4, 6, 1; Gaius, 4, 1, 1-10; 5 Sav. Syst. 13, et seq.; Dig.
   2, 4, 7, 8; Id. 4, 2, 0, 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In medical jurisprudence. The hydrostatic test used chiefly in cases of al
   in immersion of the foetal lungs in water. If they have never been inflated they
   will sink, but will float lf the child has breathed
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A period of time (theoretically forty days) during which a vessel, coming 
   permitted to land or to discharge her crew or passengers. Quarantine is said to
   have been first established at Venice in 1484. Baker, Quar. 3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

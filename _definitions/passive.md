@@ -6,5 +6,6 @@ body: VE. As used in law, this term means inactive; permissive; consisting In en
   or submission, rather than action; and in some connections it carries the impll-catlon
   of being subjected to a burden or charge
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

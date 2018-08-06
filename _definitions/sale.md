@@ -8,5 +8,6 @@ body: A 'contract between two parties, called, respectively, the “seller" (or 
   and the possesslon of an object of property. See Pard. Drolt Commer. J 6; 2 Kent4,
   Comm. 863; Poth. Cont Sale, | 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

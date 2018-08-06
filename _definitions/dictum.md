@@ -7,5 +7,6 @@ body: In general. A statement, re-mark, or observation. Gratis dictum; a gra-tui
   486. Simplex dictum; a mere as-sertlon; an assertion without proof. Bract, fol.
   320
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: This term designates a person who is disabled, incapable, or incompe-tent,
   conflict with one possessed of ordi-nary health and strength. Hall v. State, 16
   Tex. App. 11, 49 Am. Rep. 824
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

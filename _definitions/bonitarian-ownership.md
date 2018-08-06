@@ -9,5 +9,6 @@ body: In Roman law. A species of equitable title to things, os distinguished fro
   impcrium or supreme executive power, e. g., where res mancipi had been transferred
   by mere tradition. Poste’s Gnius Inst. 187. See Quiritabian owneb-snip
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

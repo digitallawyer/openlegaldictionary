@@ -9,5 +9,6 @@ body: The name for a consignment of goods, consisting of one large parcel made u
   company would have been paid more for the carriage of the parcels singly than together,
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

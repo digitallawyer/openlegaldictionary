@@ -8,5 +8,6 @@ body: Lat Thlngs in-tervening; that is, things done by one of the partles to a c
   his obligation, although originally it was imperfect, and he might have renounced
   it. 1 Bell, Comm. 328, 329
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

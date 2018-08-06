@@ -7,5 +7,6 @@ body: In the civU law. A hir-ing. Used generally in connection with the term loc
   io-conductio") a letting and hiring. Inst. 3, 25; Bract, fol. 62, c. 28; Story,
   Bailm. SS 8, 368
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Meaning; import; substan-tlal meaning; substance. The “purport” of an 
   v. Sherwood, 90 Iowa, 550, 58 N. W. 911, 48 Am. St. Rep. 461; State v. Pullens,
   81 Mo. 392; Com. v. wright, 1 Cush. (Mass.) 65; State v. Page, 19 Mo. 213
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

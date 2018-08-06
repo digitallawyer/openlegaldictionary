@@ -10,5 +10,6 @@ body: In England, this term designates a school in which such in-struction is gi
   inter-mediate between the primary school and the high school, in which English grammar
   and other studies of that grade are taught
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: From office; by virtue of the ofiice; without any other warrant or appoint
   of a conservator of the peace. Courts are bound to notice public statutes judicially
   and ex officio
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

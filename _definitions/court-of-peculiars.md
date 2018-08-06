@@ -10,5 +10,6 @@ body: A spiritual court in England, belng a branch of, and annexed to, the Court
   court, from which an appeal lies to the Court of Arches. 3 Steph. Comm. 431; 4 Reeve,
   Eng. Law, 104
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

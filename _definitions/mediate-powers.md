@@ -9,5 +9,6 @@ body: Those incident to primary powers given by a principal to hls agent For exa
   and defend suits. These subordi-nate powers are sometimes called “mediate powers.”
   Story, Ag. § 58
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

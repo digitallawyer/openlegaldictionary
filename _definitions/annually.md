@@ -8,5 +8,6 @@ body: The meaning of this term, as applied to interest, is not an undertaking to
   6 Gray (Mass.) 164; Pattersou v. McNeeley, 16 ohio St. 348; westfleld v. Westfield.
   19 S. C. 89
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

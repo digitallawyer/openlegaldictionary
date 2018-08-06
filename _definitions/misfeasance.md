@@ -8,5 +8,6 @@ body: A misdeed or trespass. The doing what a party ought to do improperly. 1 Ti
   Cent. R. Co. v. Foulks, 191 111. 57, 60 N. E. 890; Dudley v. Flemingsburg, 115 Ky.
   5, 72 S. W. 327, 60 L. R. A. 575, 103 Am. St. Rep. 253
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

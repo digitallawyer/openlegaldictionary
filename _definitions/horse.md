@@ -14,5 +14,6 @@ body: An animal of the genus equus and species caballus. In a narrow and strict 
   S. W. 640; Davis v. Collier, 13 Ga. 491. Compare Richardson v. Chicago & A. R. Co.;
   149 Mo. 311, 50 8. W. 782
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

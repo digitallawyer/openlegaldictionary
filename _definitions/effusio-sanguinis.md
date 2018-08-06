@@ -6,5 +6,6 @@ body: In old English law. The shedding of blood; the mulct, fine, wife, or penal
   imposed for the shed-ding of blood, which the king granted to many lords of manors.
   Cowell; Tomlins. See Bloodwit
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

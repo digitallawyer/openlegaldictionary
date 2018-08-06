@@ -7,5 +7,6 @@ body: After the fact; by an act or fact occurring after some previous act or fac
   may be good ab initio, or, lf Invalid at Its Inception, mny be confirmed by matter
   ex post faeto
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

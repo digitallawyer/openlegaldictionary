@@ -7,5 +7,6 @@ body: A maintaining or showing a sufficient reason in court why the defeudant di
   of justification is a defense showing the libel to be true, or in an action of assault
   showing the violence to have been necessary. See Steph. Pl. 184
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

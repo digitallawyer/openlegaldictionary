@@ -7,5 +7,6 @@ body: A tribunal empowered to try any officer of government or other per-son bro
   such a court; in the United States, the senate; and in the several states, usually,
   the upper house of the legislative assembly
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

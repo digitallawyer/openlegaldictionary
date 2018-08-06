@@ -8,5 +8,6 @@ body: Lat Whereby, when the declaration in an action of tort, after stating the 
   “per quod,” whereby; and sometimes the phrase is used as the name of that clause
   of the declaration
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

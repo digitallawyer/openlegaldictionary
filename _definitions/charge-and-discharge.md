@@ -9,5 +9,6 @@ body: Under the former system of equity practice, this phrase was used to charac
   or de-mands he held against the plaintiff. These served to define the field of investigation,
   and constituted the basis of the report
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

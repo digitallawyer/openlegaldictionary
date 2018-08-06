@@ -8,5 +8,6 @@ body: Literally, treas-ure found. Money or coin, gold, silver, plate or bullion 
   See Huthmacher v Harris, 38 Pa. 499, 80 Am. Dec. 502; Livermore v. white, 74 Me.
   456, 43 Am. Rep. 600; Sovern v. Yoran, 16 or. 209, 20 Pac. 100, 8 Am. St Rep. 293
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

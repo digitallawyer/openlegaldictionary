@@ -10,5 +10,6 @@ body: By this term is Intended third persons generally. Thus the persons bound b
   In its general legal slgnlficatlon the term is opposed to the word “privy.” Those
   who are In no way parties to a covenant, nor bound by it, are
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

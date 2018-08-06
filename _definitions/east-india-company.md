@@ -9,5 +9,6 @@ body: The East India Company was originally established for prosecuting the trad
   106, the government of the territories of the company was transferred to the crown,
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

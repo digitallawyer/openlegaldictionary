@@ -8,5 +8,6 @@ body: In medical Jurisprudence. A method of investigating the origin and cause o
   the past history of the patient, with a view to its bearing on his present psychic
   state
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A faculty of the mind by which it distinguishes truth from falsehood, good
   for an appeal.” See Nelson v. Clongland, 15 wis. 393; Miller v. Miller, 8 Johns.
   (N. Y.) 77
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

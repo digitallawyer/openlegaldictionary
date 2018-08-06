@@ -10,5 +10,6 @@ body: To solicit and receive from another any article of property or thing of va
   26 S. W. 726; Kent v. Mining Co., 78 N. Y. 177; Legal Ten-der Cases. 110 U. S. 421,
   4 Sup. Ct. 122, 28 L. Ed. 204
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

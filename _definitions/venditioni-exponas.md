@@ -4,5 +4,6 @@ letter: V
 permalink: "/definitions/venditioni-exponas.html"
 body: Lat. You expose to sale. This is the name of a writ
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Lat. “we are igno-rant;” “We Ignore it.” Formerly the grand jury u
   wrlte in English the words “Not a true bill,” or “Not found,” if that is their verdict;
   but they are still said to ignore the bill. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

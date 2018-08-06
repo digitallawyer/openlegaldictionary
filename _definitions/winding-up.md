@@ -6,5 +6,6 @@ body: The name applied in England to the process of settling the ac-counts and' 
   the assets of a part-nership or company, for the purpose of mak-ing distribution
   and dissolving the concern
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

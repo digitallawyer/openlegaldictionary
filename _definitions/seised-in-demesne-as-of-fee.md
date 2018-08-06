@@ -10,5 +10,6 @@ body: Thls is the strict technical expression nsed to describe the ownership in 
   and the concluding words, “as of fee,” lmport that be is selsed of an estate of
   lnherltance in fee-simple. Where
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

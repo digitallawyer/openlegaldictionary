@@ -8,5 +8,6 @@ body: In stock-brokers* parlance the term means the double privilege 'of a “pu
   require him to take, at the same price within the same time, the same shares of
   stock. Harris v. Tumbridge, 83 N. ¥. 95, 38 Am. Rep. 398
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

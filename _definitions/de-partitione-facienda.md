@@ -6,5 +6,6 @@ body: A writ which lay to make partition of lands or tene-ments held by several 
   coparceners, tenants in common, etc. Reg. orig. 76; Fitzh. Nat Brev. 61, R; old
   Nat Brev. 142
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

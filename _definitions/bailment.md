@@ -12,5 +12,6 @@ body: A delivery of goods or per-sonal property, by one person to another, in tr
   418, 39 Am. Rep. 762; Fulcher v. State, 32 Tex. Cr. R. 621, 25 S. W. 625. See Code
   Ga. 1882, $ 2058
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

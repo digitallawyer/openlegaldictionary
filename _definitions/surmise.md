@@ -8,5 +8,6 @@ body: 'Formerly where a defendant pleaded a local custom, for iustance, a cus: t
   and without such a surmise the issue was to be tried by the country as other issues
   of fact are. 1 Burrows, 251; Vin. Abr. 246'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

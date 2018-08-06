@@ -11,5 +11,6 @@ body: IO. in old English law. An Inquisition or inquest. Inquisitio post mortem,
   the inquisition of the country; the ordinary jury, as distinguished from the grand
   assise. Bract fol. 15b
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

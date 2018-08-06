@@ -12,5 +12,6 @@ body: A liberty or privilege al-lowed to a judge, within the confines of right a
   Mo. 278; Murray v. Buell, 74 wis. 14, 41 N. W. 1010; Perry v. Salt Lake City Council,
   7 Utah, 143, 25 Pac. 996, 11 L. R. A. 446
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: In Engllsh law. when lands, tenements, rents, goods, or chattels are given
   Abr. “Charitable Uses." See Methodist Church v. Remington, 1 watts (Pa.) 225, 26
   Am. Dec. 61; Harrison v. Brophy, 59 Kan. 1, 51 Fac. 883, 40 L. R. A. 721
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

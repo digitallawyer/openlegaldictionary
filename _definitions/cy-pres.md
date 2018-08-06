@@ -14,5 +14,6 @@ body: As near as [possible.] The rule of cy-prcs is a rule for the construction 
   2 111. App. 383; Beekman v. Bonsor. 23 N. Y. 308, 80 Am. Dec. 269; Jackson v. Brown,
   13 wend. (N. Y.) 445; Doyle v. whalen, 87
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

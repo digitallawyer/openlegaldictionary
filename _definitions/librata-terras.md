@@ -6,5 +6,6 @@ body: A portion of ground containing four oxgangs, and every ozgang fourteen acr
   Cowell. This is the same with what In Scotland was called “pound-land” of old extent,
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

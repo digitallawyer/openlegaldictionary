@@ -7,5 +7,6 @@ body: In Its legal sense, "mind” means only the ability to will, to direct, to
   time that it assents to the terms of a contract McDermott v. Evening Journal Ass'n,
   43 N
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -5,5 +5,6 @@ permalink: "/definitions/querela-coram-rege-a-con-cilio-discutienda-et-termi-nan
 body: A writ by which one is called to justify a complaint of a trespass made to the
   king himself, before the king and his council. Reg. orlg. 124
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

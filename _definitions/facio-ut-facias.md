@@ -8,5 +8,6 @@ body: "(Lat I do that you may do.) A specles of contract in the civil law (being
   to do any other positive acts on both sldes; or it may be to forbear on one side
   in conslderatlon of something done on the other. 2 Bl. Comm. 444"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

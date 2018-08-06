@@ -7,5 +7,6 @@ body: A proceeding is said to be vexatious when the party bringing it is not act
   calculated to lead to any practical result Such a proceeding is often described
   as “frivolous and vexatious,” and the court may stay it on that ground. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

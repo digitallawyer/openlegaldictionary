@@ -7,5 +7,6 @@ body: A mischance or accident; a casualty caused by the act of one person and in
   without any Intention of hurt, unfortunately kills another. 4 Bl. Comm. 182; williamson
   v. State, 2 Ohio Cir. Ct. R. 292; Johnson v. State, 94 Ala. 35, 10 South. 667
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

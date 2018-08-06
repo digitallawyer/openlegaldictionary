@@ -10,5 +10,6 @@ body: A subtle endeavoring to set aside truth or to escape the punishment of the
   pretense. 1 Hawk. P. C. 81. So no one may plead ignorance of the law to evade it
   Jacob
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Con-fusion of goods; the confusing or mingling together of goods belonging
   identified or extracted from the mass. See Smith v. Sanborn, 6 Gray (Mass.) 134.
   And see Coit-fusion of Goods
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

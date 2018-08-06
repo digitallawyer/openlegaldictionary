@@ -7,5 +7,6 @@ body: In English admiralty practice. A term borrowed from the civil law, denotin
   court, embodying a statement of tbe case and a declaration that the record will
   be transmitted
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

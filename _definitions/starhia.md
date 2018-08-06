@@ -7,5 +7,6 @@ body: A writ called by that name, founded on a custom in Normandy, that where a 
   that it might be put Into his hands till the right was decided, whereupon he had
   this writ wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

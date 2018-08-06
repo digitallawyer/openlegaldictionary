@@ -9,5 +9,6 @@ body: To witness the execution of a written instrument, at the request of him wh
   of the states, a certifying officer gives assurance of the genuineness and correctness
   of a copy
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: The neglect or failure of a person to do some act which he ought to do. Th
   (C. C.) 87 Fed. 1; Minkler v. State, 14 Neb. 181, 15 N. W. 830; Illinois Cent. R.
   Co. v. Foulks, 191 111. 57, 60 N. E. 890
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

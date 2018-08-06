@@ -11,5 +11,6 @@ body: In relation to homlclde in self-defense, this term means immediate danger,
   50 La. Ann. 537, 23 South. 634, 69 Am. St Rep. 455; Shorter ▼. People, 2 N. Y. 201,
   51 Am. Dec. 286
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: To commence a suit is to demand something by the institution of pro-cess i
   suit is an equivalent term; an action is “commenced” when it is “brought,” and vice
   versa. Goldeuberg v. Murphy, 108 U. S. 162, 2 Sup. CL 388, 27 L. Ed. 686
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

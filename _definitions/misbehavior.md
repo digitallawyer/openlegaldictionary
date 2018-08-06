@@ -7,5 +7,6 @@ body: Ill conduct; improper or unlawful behavior. Verdicts are some-times set as
   Am. Dec. 580; Turnbull v. Martin, 2 Daly (N. Y.) 430; State v. Arnold, 100 Tenn.
   307, 47 S. W. 221
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

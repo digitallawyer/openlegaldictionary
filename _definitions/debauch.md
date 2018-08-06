@@ -8,5 +8,6 @@ body: To entice, to corrupt, and, when used of a woman, to seduce, origl-nally, 
   the corruption of manners and viola-tion of the person. In Its modern legal sense,
   tbe word carries with it the idea of “carnal
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

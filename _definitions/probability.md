@@ -8,5 +8,6 @@ body: Likelihood; appearance of truth; verisimilitude. The likelf-hood of a prop
   297; Shaw v. State, 125 Ala. 80. 28 South. 390; State v. Joues, 64 Iowa, 349, 17
   N. W. 911, 20 N. W. 470
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

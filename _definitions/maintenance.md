@@ -10,5 +10,6 @@ body: Sustenance; support; assistance. The furnishing by one person to. Another,
   St Rep. 729; Regina v. Gravesend, 6 El. A Bl. 466; State v. Beatty, 61 Iowa, 307.
   16 N. W. 149; In re warren Insane Hospital, 3 Pa. Dist R. 223
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

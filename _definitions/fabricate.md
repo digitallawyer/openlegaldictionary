@@ -10,5 +10,6 @@ body: To fabricate evidence is to arrange or manufacture drcumstances or indicia
   an erroneous lmpresslon in the minds of those who observe them and then presenting
   such lrn-pression as true and genulne
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

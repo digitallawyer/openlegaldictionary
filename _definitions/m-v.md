@@ -11,5 +11,6 @@ body: orporations. A merger of corporations consist in the uniting of two or mor
   200, 60 L. R. A. 33; Vicksburg ft Y. C. Tel. Co. v. Citizens’ Tel. Co., 79 Miss.
   341, 30 South. 725, 89 Am. St. Rep. 056
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

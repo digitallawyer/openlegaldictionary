@@ -7,5 +7,6 @@ body: This term means sometimes a mill, factory, or other establishment for perf
   S. W. 449,) and sometimes a building, struc-ture, or erection of any kind upon land,
   as in the civil-law phrase “new works.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

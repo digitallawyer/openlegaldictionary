@@ -7,5 +7,6 @@ body: In English l*w. Blasphemy is the offense of speaking matter relating to Go
   of mankind or to excite contempt and hatred against the church by law established,
   or to promote immorality. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

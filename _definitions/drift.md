@@ -10,5 +10,6 @@ body: In mining law. An under-ground passage driven horizontally along the cours
   deposit, where drifting mny begin. Jur-genson v. Diller, 114 Cal. 491, 46 Pac. 610,.
   55 Am. St. Rep. 83
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -4,5 +4,6 @@ letter: G
 permalink: "/definitions/guardage.html"
 body: A state of wardship
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

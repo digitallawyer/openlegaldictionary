@@ -11,5 +11,6 @@ body: A natural stream of water, of greater volume than a creek or rivulet, flow
   Union, 1 Hurl. & N. 627; Chamberlain v. Hemingway, 63 Conn. 1, 27 Ati. 239, 22 L.
   R. A. 45, 38 Am. St. Rep. 330
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

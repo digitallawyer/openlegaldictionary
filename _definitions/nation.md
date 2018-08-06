@@ -11,5 +11,6 @@ body: A people, or aggregation of men, existing in the form of an organized jura
   539, 8 L. Ed. 483 ; Republic of Honduras v. Soto, 112 N. Y. 310, 19 N. E. 845, 2
   L. R. A. 642, 8 Am. St. Rep. 744
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

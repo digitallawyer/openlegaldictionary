@@ -7,5 +7,6 @@ body: office; duty; fulfillment of a definite end or set of ends by the correct 
   is said to fill hls function. Dig. 32, 65, 1. See State v. Hyde, 121 Ind. 20, 22
   N. E. 644
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

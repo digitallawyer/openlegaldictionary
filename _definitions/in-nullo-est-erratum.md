@@ -7,5 +7,6 @@ body: In noth-lng is there error. The name of the common plea or joinder in erro
   of a demurrer, and at once refers the matter of law arlslng thereon to the Judgment
   of the court 2 Tidd, Pr. 1173; Booth v. Com., 7 Metc. (Mass.) 285, 287
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

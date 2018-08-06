@@ -8,5 +8,6 @@ body: The imposition of & tax; the act or process of imposing and levying a pecu
   divisions or agencies, for the purpose of pro-viding revenue for the maintenance
   and expenses of government
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: The words “with strong hand” imply a degree of criminal force, whereas
   entries use the words “with a strong hand” as describing that degree or force whIch
   makes an entry or detaIuer ot lands criminal. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

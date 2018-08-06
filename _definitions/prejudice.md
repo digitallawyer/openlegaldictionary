@@ -8,5 +8,6 @@ body: A forejudgment; bias; preconceived opinion. A leaning towards one side of 
   Pae. 1; Hinkle v. State, 94 Ga. 595, 21 8. B. 595; Keen v. Brown, 46 Fla. 487, 35
   South. 401
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

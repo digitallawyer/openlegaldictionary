@@ -6,5 +6,6 @@ body: The word “adjoining,” in its etymological sense, means touching or con
   aa distinguished from lying near to or adjacent And the same meaning has been given
   to it when used in statutes. See Adjackkt
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

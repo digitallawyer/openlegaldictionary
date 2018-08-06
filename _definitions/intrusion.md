@@ -7,5 +7,6 @@ body: A species of injury by ouster or amotion of possession from the freehold, 
   him in remainder or reversion. Hu-llck v. Scovil, 9 III. 170; Boylan v. Deinzerj
   45 N. J. Eq. 485, 18 Atl. 121
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

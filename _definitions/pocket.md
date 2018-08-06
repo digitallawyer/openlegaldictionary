@@ -7,5 +7,6 @@ body: This word is used as au adjective in several compound legal phrases, carry
   secret receptacle. For these phrases, see “Bor-ough,” “Judgment,” “Record,” “Sheriff,”
   and “Veto.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

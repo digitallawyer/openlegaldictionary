@@ -7,5 +7,6 @@ body: Any loss or harm suffer-ed in person or property; e. g., the cousldera-tlo
   but also in loss or “detriment” suffered by the' party. Civ. Code Mont. 1895, g
   4271; Civ. Code S. D. 1903, | 2287; Rev. St. okl. 1903
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

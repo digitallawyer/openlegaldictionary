@@ -8,5 +8,6 @@ body: A change or revoca-tlon of orders, authority, or instructions pre-vlously 
   is lncompatible with the further con-tinuance of the order or instruction, as where
   a new order is given Inconsistent with the former order
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

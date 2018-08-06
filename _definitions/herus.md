@@ -7,5 +7,6 @@ body: Lat. A master. Servus facit ut rterus det, the servant does [the work] in 
   master gives [or agrees to give, the wages,] in consideration of, or with a view
   to, the servant’s doing [the work.] 2 Bl. Comm. 445
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: In criminal law. The breaking and entering the house of another in the nig
   Ala. 644, 39 Am. Dec. 314; State v. wilson, 1 N. J. Law, 439, 1 Am. Dec. 216; Com.
   v. Newell, 7 Mass. 245
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

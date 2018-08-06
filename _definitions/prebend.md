@@ -10,5 +10,6 @@ body: In English ecclesiastical law. A stipend granted in cathedral church-es; a
   church; whereas the canonicate is a mere title or spiritual quality which may exist
   independently of any stipend. 2 Steph. Comm. 674, note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: An ancient wrlt hy which the king commanded the justices in eyre to admit 
   claim by attorney of a person who was in the royal service, and could uot appear
   in person. Reg. orig. 19
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

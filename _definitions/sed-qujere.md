@@ -6,5 +6,6 @@ body: Lat But lnqulre; ex-amlne this further. A remark indicating, briefly, that
   particular statement or rule laid down is doubted or challenged in respect to its
   correctness
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

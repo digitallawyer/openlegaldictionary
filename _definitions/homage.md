@@ -9,5 +9,6 @@ body: 'In feudal law. A service (or the ceremony of rendering it) which a tenant
   ceremony was as follows: The tenant, heing ungirt and wlth hare head, knelt before
   the lord'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

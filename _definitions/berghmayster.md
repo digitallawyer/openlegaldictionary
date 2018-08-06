@@ -6,5 +6,6 @@ body: An officer having charge of a mine. A bailiff or chief officer among the D
   miners, who, in addi-tion to his other duties, executes the ofiice of corouer among
   them. Blount; Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

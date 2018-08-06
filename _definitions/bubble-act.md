@@ -10,5 +10,6 @@ body: The statute 6 Geo. I. c. 18, “for restraining several extravagant and un
   of the “South Sea Project,” which, as Blackstone says, “had beggared half the nation.”
   It was mostly repealed by the stat-ute 6 Geo. IV. c. 91
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

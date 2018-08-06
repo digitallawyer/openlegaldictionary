@@ -7,5 +7,6 @@ body: The science of reasoning, or of the operations of the understanding wbich 
   of proceeding from known truths to unknown, and all other lntellectual operations,
   In so far as auxiliary to this
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

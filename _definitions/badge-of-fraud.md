@@ -9,5 +9,6 @@ body: A term used rel-atively to the law of fraudulent convey-ances made to hind
   W. Va. 768; Kirkley v. Lacey, 7 Houst (Del.) 213, 30 Atl. 994; Phelps v. Samson,
   113 Iowa, 145, 84 N. W. 1051
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -14,5 +14,6 @@ body: In fact, in deed, actunlly. This phrase is used to characterize au officer
   77, 78. So a wife de facto is one whose marriage is voidable by decree, as distinguished
   from a wife de jure, or lawful wife. 4 Kent, Comm. 36
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

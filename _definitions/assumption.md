@@ -10,5 +10,6 @@ body: The act or agreement of assuming or taking upon one’s self; the un* dert
   199; Springer v. De wolf, 194 III. 218, 62 N. E. 542, 56 L. R. A. 465, 88 Am. St.
   Rep. 155; Lenz v. Railroad Co., Ill wis. 198, 86 N. W. 607
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

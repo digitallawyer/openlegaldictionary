@@ -12,5 +12,6 @@ body: In the law of divorce, a specles of cruelty addressed to the mind, sen-slb
   indignities, as distinguished from Ruch as may be offered to the mind, sensibilities,
   or
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

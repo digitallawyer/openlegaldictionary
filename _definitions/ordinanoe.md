@@ -4,5 +4,6 @@ letter: O
 permalink: "/definitions/ordinanoe.html"
 body: A rule established by authority; a permanent rale of action; a
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

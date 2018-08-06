@@ -6,5 +6,6 @@ body: The affirmative and negative votes on a bill or measure before a legislati
   assembly. “Calling the yeas and nays” is calling for tbe individual and oral vote
   of each member, usually upon a call of the roll
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

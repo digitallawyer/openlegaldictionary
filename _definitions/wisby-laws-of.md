@@ -7,5 +7,6 @@ body: The name given to a code /of maritime laws promulgated at wisby, then the 
   resembled the lawa of oleron in many respects, and was early adopted, as a system
   of sea laws, by tbe com-mercial nations of Northern Europe. It
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

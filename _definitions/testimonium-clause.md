@@ -6,5 +6,6 @@ body: 'In convey-ancing. That clause of a deed or instrument wlth whlch it concl
   “In witness where-of, the parties to these presents have here-unto set thelr hands
   and seals.”'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

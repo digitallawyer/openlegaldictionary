@@ -7,5 +7,6 @@ body: L. Fr. Never married. More fully, ne unques accouple en loiall matrimonie,
   habet, by which the ten-ant denied that the dowress was ever law-fully married to
   the decedent
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

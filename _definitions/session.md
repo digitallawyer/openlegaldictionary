@@ -8,5 +8,6 @@ body: The sitting of a court, legis-lature, council, commission, etc., for the t
   in a more extended sense, the whole space-of time from its first assembling to lts
   pro-rogation or adjournment sine die
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: As “sane,” when applied to the mind, means whole, sound, in a bealth-f
   to perform the rational functions com-mon to man upon the objects presented to it.
   Den v. Vancleve, 5 N. J. Law, 589, 661
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

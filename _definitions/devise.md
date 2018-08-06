@@ -8,5 +8,6 @@ body: A testamentary disposition of land or realty; a gift of real proi>erty by 
   Estate, 58 Pa. 427; Jenkins v. Tobin, 31 Ark. 306; In re Dailey’s Estate, 43 Misc.
   Rep. 552, 89 N. Y. Supp. 541
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: A tribe, people, or nation, be-longing or supposed to belong to the same s
   or llneage. “Race, color, or.previous conditlon of servitude.” Const U. S., Am.
   XV
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

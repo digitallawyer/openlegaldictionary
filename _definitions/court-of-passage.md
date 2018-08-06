@@ -7,5 +7,6 @@ body: An Inferior court, possessing a very ancient Jurisdiction over causes of a
   “Borough Court of Liver-pool.” It has the same jurisdiction in ad-miralty matters
   as the Lancashire county court Rosc. Adm. 75
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

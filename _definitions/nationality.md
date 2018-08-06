@@ -10,5 +10,6 @@ body: That quality or charac-ter which arises from the fact of a person’s belo
   the case of a nation having no national territory; e. g., the Jews. 8 Sav. Syst
   $ 346; westl. Priv, Int. Law, 5
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In old English law. Pottage formerly made for the king's table on the coro
   day. There was a tenure in serjeantry, by which lands were held of the king by the
   service of finding this pottage at that solemnity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

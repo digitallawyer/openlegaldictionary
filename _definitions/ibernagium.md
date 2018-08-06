@@ -5,5 +5,6 @@ permalink: "/definitions/ibernagium.html"
 body: In old English law. The season for sowing winter corn. Also spelled “hibernagium”
   and “hybernagium
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

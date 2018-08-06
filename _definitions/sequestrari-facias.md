@@ -8,5 +8,6 @@ body: In Euglish ecclesiastical practlce. A process in the na-ture of a levari f
   and of the other ecclesiastical goods of a defendant, he have levied the plaintiff’s
   debt 3 Bl. Comm. 418; 2 Archb. Pr. 1284
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: 'In mining law. A body of min-eral or mineralized rock, filling a seam or 
   Mln. Co. v. Doe, 82 Fed. 51, 27 C. C. A.: 50; Consolidated, etc., Min. Co. v. Champion
   Min. Co. (C. C.) 63 Fed. 544'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

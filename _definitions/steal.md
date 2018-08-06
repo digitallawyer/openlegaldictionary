@@ -11,5 +11,6 @@ body: This term is commonly used in indictments for larceny, (“take, steal, an
   v. Gilman, 64 Hun, 227, 19 N. Y. Supp. 151; Dun-nell v. Flske, 11 Metc. (Mass.)
   554; Barnhart v. State, 154 Ind. 177, 56 N. E. 212. —Stealing children. See Kidnapping
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

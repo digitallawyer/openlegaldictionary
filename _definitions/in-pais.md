@@ -8,5 +8,6 @@ body: This phrase, as applied to a legal transaction, primarily means that it ha
   Litt. 32b.) So conveyances are divided into thoee by matter of record and those
   by mat
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

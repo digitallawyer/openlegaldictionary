@@ -7,5 +7,6 @@ body: In International law. A hearing; interview with the sovereign. The king or
   to him duly accredited; and, after the recall of a minister, an “audience of leave”
   ordinarily is accorded to him
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

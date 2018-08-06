@@ -11,5 +11,6 @@ body: The name of a writ constituting the initial process in an ac-tion brought 
   65 Ga. 550; Coffin v. Ewer, 5 Metc. (Mass.) 228; Gleason v. Peck, 12 Vt. 56, 36
   Am. Dec. 329
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

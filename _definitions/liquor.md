@@ -7,5 +7,6 @@ body: This term, when used in stat-utes forbidding the sale of liquors, refers o
   v. Brittain, 89 N. C. 576; People v. Crllley, 20 Barb. (N. Y.) 248. See Ihtoxica-tinq
   Liquor; Spibituous Liquor
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

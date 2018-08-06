@@ -8,5 +8,6 @@ body: E’8 CASE. This case decided, in 1604, that “every man's house [meaning
   he may break open even outer doors to find goods of another wrongfully in the house.
   Brown. It is reported in 5 Coke, 91
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

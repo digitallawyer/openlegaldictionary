@@ -7,5 +7,6 @@ body: The conditions, in regard to method, order, arrangement, nse ot technical 
   of contracts or conveyances, or in the taking of legal proceedlngs, to in-sure their
   validity and regularity. Succession of Seymour, 48 La. Ann. 993, 20 South. 217
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

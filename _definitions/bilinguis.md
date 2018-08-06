@@ -8,5 +8,6 @@ body: of a double language or tongue; that can speak two languages. A term appli
   to; more commonly called a “jury de mcdietote lingu#." 3 Bl. Comm. 360 ; 4 Steph.
   Comm. 422
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

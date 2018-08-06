@@ -8,5 +8,6 @@ body: A species of es-tate less than freehold, where lands and tenements are let
   Lltt $ 68. or it is where lands are let without limiting any certain and determinate
   estate. 2 Crabb, Real Prop. p. 403, $ 1543
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: or ABBROAOH-MENT. The act of forestalling a market, by buying up at wholes
   the merchandise intended to be sold there, for the purpose of selling it at retail.
   See Forestalling
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

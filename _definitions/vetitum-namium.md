@@ -7,5 +7,6 @@ body: L. Lnt. where the bailiff of a lord distrains beasts or goods of another, 
   the owner of the cattle may demand eatlefaction in placitum de vetito namio. 2 InsL
   140; 2 Bl. Comm. 148
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

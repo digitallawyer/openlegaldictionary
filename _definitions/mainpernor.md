@@ -11,5 +11,6 @@ body: In old practlce. A surety for the appearance of a person under arrest, who
   all charges whatsoever. 3 Bl. Comm. 128. other distinctions are made in tbe old
   books. See Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

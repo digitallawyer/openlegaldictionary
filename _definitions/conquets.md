@@ -8,5 +8,6 @@ body: In French law. The name given to every acquisition which the hus-band and 
   the extent of one-half for the bene-flt of the other. Merl. Repert. "Conquet" Picotte
   v. Cooley, 10 Mo. 312
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

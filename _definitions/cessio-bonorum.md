@@ -13,5 +13,6 @@ body: In Roman law. Cession of goods. A surrender, rellnqulsh-ment, or assignmen
   writers, hut here rather as a conveuient than as a strictly technical term. See
   2 Bl. Comm. 473; 1 Kent, Comm. 247, 422; Ersk. Inst. 4, 3, 26
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

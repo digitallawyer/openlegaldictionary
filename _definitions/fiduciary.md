@@ -9,5 +9,6 @@ body: The term is derived from the Roman law, and means (as a noun) a person hol
   powers to be exercised for the benefit of an-other person. Svanoe v. Jurgens, 144
   111. 507, 33 N. E. 955; Stoll v. King, 8 How. Prnc. (N. ¥.) 299
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Lat. In the civil law. A great-great-grandfather's brother, (abavi frater.
   by Bracton and Fleta, abpatruus magnus. Bract. fol. 68b; Fleta, lib. 6, c. 2, §
   17
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

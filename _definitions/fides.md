@@ -6,5 +6,6 @@ body: Lat Faith; honesty; confidence; trust; veracity; honor, occurring in the p
   “bona fldes," (good faith,) “mala fldes," (bad faith,) and “uberrima fldes," (the
   utmost or most abundant good faith
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

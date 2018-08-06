@@ -9,5 +9,6 @@ body: In lnsurance law. To stop at a port If there be liberty granted hy the pol
   in cargo, provided it produces no unnecessary delay, nor enhances nor varies the
   risk. 3 Kent, Comm. 314
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

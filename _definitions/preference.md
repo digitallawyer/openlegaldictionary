@@ -7,5 +7,6 @@ body: The act of an lnsolveut debtor who, in distributing his property or in ass
   full amount of their claims or a larger amount than they would be entitled to receive
   on a pro rata distribution
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

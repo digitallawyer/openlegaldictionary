@@ -7,5 +7,6 @@ body: Lineage; line of ancestors from which a person descends; genealogy. An acc
   (Tenn.) 80, 47 Am. Rep. 277; People v. Mayne. 118 Cal. 516, 50 Pac. 654, 62 Am.
   St. Rep. 256
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

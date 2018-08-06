@@ -8,5 +8,6 @@ body: A word used metaphorically for a share of a man's substance paid by way of
   40 L. R. A. 280,65 Am. St Rep. 653; Lake Shore, etc., R. Co. v. Grand Rapids, 102
   Mich. 374, 60 N. W. 767, 20 L. R. A. 195
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

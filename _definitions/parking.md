@@ -8,5 +8,6 @@ body: NG. In municipal law and ad-minlstration. A strip of land, lying elther in
   that is, not built upon, but beautified with turf, trees, flower-beds, etc. See
   Downing ▼. Des Moines, 124 Iowa, 289, 99 N. W. 1066
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

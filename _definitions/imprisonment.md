@@ -8,5 +8,6 @@ body: The act of putting or confining a man in prison; the restraint of a man’
   N. Y. 314, 60 N. E. 590; In re Langan (C. C.) 123 Fed. 134; Steere v. Field, 22
   Fed. Cas. 1221
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

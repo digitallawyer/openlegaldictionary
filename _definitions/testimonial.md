@@ -12,5 +12,6 @@ body: Besides its ordinary meaning of a written recommendation to character, ''t
   or coun-terfelting such testimonial, was to suffer death as a felon, wlthout benefit
   of clergy. This act was repealed, In 1812, by SL 52 Geo. III. c. 31. Mozley & whitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

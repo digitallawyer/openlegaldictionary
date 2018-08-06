@@ -7,5 +7,6 @@ body: or DIGAMY. Second mar-riage; marriage to a second wife after the death of 
   married a widow, or married again after the death of his wife, was said to be guilty
   of bigamy. Co. Litt. 40b, note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

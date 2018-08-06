@@ -8,5 +8,6 @@ body: Born afterwards. A term applied by old writers to a second or younger son.
   and Scotland,) and whose rights or status will be governed or affected by the question
   of hls birth before or after such event
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

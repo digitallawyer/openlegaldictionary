@@ -10,5 +10,6 @@ body: A government in which the supreme power is vested in a single per-son. whe
   to the next helr by blood, as in England; or elective, as was formerly the case
   in Poland. lVharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

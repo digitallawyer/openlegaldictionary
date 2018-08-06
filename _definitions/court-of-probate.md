@@ -7,5 +7,6 @@ body: In English law. The name of a court established in 1857, under the probate
   tbe testamen-tary jurisdiction of the ecclesiastical courts. 2 Steph. Comm. 192.
   By the judicature acts, this court is merged in the high court of Justice
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In Spanish law. The Immediate ageut of the minister of finance^ or the chi
   various departments in each of the prov-lnces into which the Spanish monarchy is
   dl-vided. Escriche
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

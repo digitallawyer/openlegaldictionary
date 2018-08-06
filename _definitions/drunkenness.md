@@ -6,5 +6,6 @@ body: In medical jurisprn-dence. The condition of a man whose mind is affected b
   the immediate use of intoxi-cating drinks; the state of one who is “drunk." See
   Drunk
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

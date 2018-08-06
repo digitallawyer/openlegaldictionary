@@ -6,5 +6,6 @@ body: This is a word of large sig-niflcatlon, but cannot exceed the subject to w
   it belongs. The incident cannot be extended beyond Its principal, wells v.- Bain,
   75 Pa. 39, 54,15 Am. Rep. 563
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

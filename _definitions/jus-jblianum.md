@@ -7,5 +7,6 @@ body: 'A body of laws drawn up by Sextus AEllus, and consisting of three parts, 
   of and decisions upon such laws; and (3) the forms of procedure. In date, it was
   subsequent to the jus Flavi-anum, (q. v.) Brown'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

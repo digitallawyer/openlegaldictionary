@@ -7,5 +7,6 @@ body: Lat. A qualified property in animals ferae natura may be ac-quired per ind
   or by so confining them wlthln his own immediate power that they cannot escape and'use
   their natural liberty. 2 Steph. Comm. 5
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

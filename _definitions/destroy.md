@@ -9,5 +9,6 @@ body: As used in policies of Insur- ■ ance, leases, and in maritime law, this,
   Ala. 308, 23 South. 759; Spalding v. Munford, 37 Mo. App. 281. To ‘'destroy” a vessel
   means to unfit it for further service, beyond .the
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

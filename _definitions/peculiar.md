@@ -6,5 +6,6 @@ body: In ecclesiastical law. A parish or church in Englnnd whlch has jurls-dlctl
   of ecclesiastical matters within itself, and lndependent of the ordinary, and is
   sub* Ject only to the metropolltan
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

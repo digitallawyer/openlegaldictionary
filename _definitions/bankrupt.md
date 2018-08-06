@@ -8,5 +8,6 @@ body: A person who has com-mitted an act of bankruptcy; one who has done some ac
   among them of his entire prop-erty. Ashby v. Steere, 2 woodb. & M. 2147, 2 Fed.
   Cas. 15; In re Scott, 21 Fed. Cas. 803; U. S. v. Pusey, 27 Fed. Cas. 632
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

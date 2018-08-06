@@ -7,5 +7,6 @@ body: Cheating and defrauding grossly with deliberate artifice, wyatt v. Ayres, 
   R. 346, 50 S. W. 383; Chase v. whitlock, 3 Hill (N. Y.) 140; Stevenson v. Hayden,
   2 Mass. 408
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

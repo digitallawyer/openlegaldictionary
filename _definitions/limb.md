@@ -7,5 +7,6 @@ body: A member of the human body. In the phrase “life and limb,” the latter 
   only to those members or parts of the body which may be useful to a man in fighting.
   1 Bl. Comm. 130
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

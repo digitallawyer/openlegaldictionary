@@ -8,5 +8,6 @@ body: "(Sax. From dom, judgment, and bec, boc, a book.) Dome-book or doom-book. 
   Law, 7. This is sometimes confounded with the celebrated Domesday-Book. See Dome-Book,
   Domes-DAY"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

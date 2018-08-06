@@ -8,5 +8,6 @@ body: 'A pleading in the action of replevin, by which the defendant avows, that 
   done, etc. 3 Bl. Comm. 149; 1 Tidd. Pr. 645. Brown v. Blssett, 21 N. J. Law, 274;
   Hill v. Miller, 5 Serg. & R. (Pa.) 357'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

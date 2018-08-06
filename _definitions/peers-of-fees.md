@@ -10,5 +10,6 @@ body: Vassals or tenants of the same lord, who were obliged to serve and attend 
   of distinction; whence, it is said, we derive our common juries and other peers.
   CowelL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: To alienate or direct the ownership of property, as disposition by will. U
   (D. C.) 73 Fed. 294; Benz v. Fabian, 54 N. J. Eq. 615, 35 Atl. 760; Elston v. Schilling,
   42 N. Y. 79; Beard v. Knox. 5 Cal. 256, 63 Am. Dec 125
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

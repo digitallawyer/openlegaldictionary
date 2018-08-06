@@ -8,5 +8,6 @@ body: Certain quallfica-tlons of a property character being requir-ed of persons
   a rule or order of court is made for thelr allowance, and the bail is then sald
   to be perfected, i. e., the proc&s of glvlng bail is fiulshed or completed. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

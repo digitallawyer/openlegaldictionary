@@ -8,5 +8,6 @@ body: In ancient law, a herald was a diplomatic messenger tvho carried messages 
   ad-Just armorial bearings, and regulate the cer-emonies at royal coronations and
   funerals
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

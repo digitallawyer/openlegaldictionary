@@ -9,5 +9,6 @@ body: writ for having (or to have) escuage or scutage. A writ which anciently la
   a fine instead, against those who held of hlm by knight-service, to recover his
   escuage or scutage. Reg. orig. 88; Fitzh. Nat. Brev. 83, D, F
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: The transfer of a cause from one court to another; com-monly used of the t
   from a state court to the United States circuit court, under the acts of congress
   in that behalf
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

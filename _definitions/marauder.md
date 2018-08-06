@@ -10,5 +10,6 @@ body: "“A marauder is defined in the law to be ‘one wbo, while employed in t
   but wbo are mere lawless banditti, engaged in plundering, robbery, murder, and all
   conceivable crimes.” Curry v. Collins, 37 Mo. 328"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

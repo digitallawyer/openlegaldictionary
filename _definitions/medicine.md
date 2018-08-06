@@ -8,5 +8,6 @@ body: The practice of medicine is a pursuit very generally known and under-stood
   while the furfctlons of the latter are limited to manual operations usually performed
   by surgical instruments or appllances.” Smith v. Lane, 24 Hun (N. Y.) 633
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: The crime of sexual intercourse or cohabitation between a man and woman wh
   N. W. 205; Dinkey v. Com., 17 Pa. 129, 5o Am. Dec. 542; Taylor v. State, 110 Ga.
   150, 35 S. E. 161
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

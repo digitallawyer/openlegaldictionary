@@ -8,5 +8,6 @@ body: In old English law. Extenders or appraisers. The name of cer-tain officers
   the value of each, as preparatory to the division or partition. Bract fols. 72b,
   75; Britt, c. 71
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

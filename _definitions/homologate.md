@@ -7,5 +7,6 @@ body: In modern civil law. To approve; to confirm; as a court homologates a proc
   Viales v. Gnrdenler, 9 Mart. O. S. (La.) 324. To assent to what another says or
   writes
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

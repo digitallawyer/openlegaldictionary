@@ -8,5 +8,6 @@ body: A person, usually a minor, bound in due form of iaw to a master. to learn 
   307; In re Goodenough, 19 wis. 274; Phelps v. Railroad Co., 99 Pa. 113; Lyon v.
   wiiitemore. 3 N. J. Law, 845
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

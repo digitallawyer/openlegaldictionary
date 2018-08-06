@@ -7,5 +7,6 @@ body: In Scotch law. A possessory action calculated for continuing pro-prietors 
   against all who shall attempt to disturb thelr possession. It is chiefly used in
   questions of commonty or of controverted marches. Ersk. Inst 4, 1, 48
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

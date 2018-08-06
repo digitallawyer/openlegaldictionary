@@ -7,5 +7,6 @@ body: Lat. In the ecclesias-tical courts, service of a decree or citation viis e
   of Its contents, is equlvalent to substituted service in the temporal courts, and
   is op-posed to personal servlce. Phillim. Ecc. Law, 1258, 1283
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

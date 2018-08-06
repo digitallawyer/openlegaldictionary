@@ -7,5 +7,6 @@ body: The secretary of a corporatlon or assoclatlon is an officer charged with t
   with keeping the records, the official correspondence, with glvlng and receiving
   notices, countersigning documents, etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

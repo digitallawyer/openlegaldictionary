@@ -20,5 +20,6 @@ body: Pertaiuing or relating to a nation as a whole; commonly applied in America
   government, by its being the government of a community of independent and sovereign
   states, united by compact.” Piqua Branch Bank v. Knoup, 6 ohio St. 393
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

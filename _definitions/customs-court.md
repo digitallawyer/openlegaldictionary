@@ -7,5 +7,6 @@ body: A court of the Unlt-ed States, created by act of congress In 1909, to hear
   collection of customs-duties. It is composed of a chief Judge and four as-sociates,
   and sits at washington
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

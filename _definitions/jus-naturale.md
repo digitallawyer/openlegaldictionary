@@ -10,5 +10,6 @@ body: The natural law, or law of nature; law. or legal principles, sup-posed to 
   the phrase came to denote a supposed basis or substratum common to all systems of
   positive law, and hence to be found, in greater
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

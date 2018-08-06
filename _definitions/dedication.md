@@ -7,5 +7,6 @@ body: In real property law. An appropriation of land to some public use, made by
   of land by Its owner for any general and public uses, reserving to hlmself no other
   rights than such as are com-patible with the full exercise aud enjoymeut
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

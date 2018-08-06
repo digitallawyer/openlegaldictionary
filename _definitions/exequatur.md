@@ -7,5 +7,6 @@ body: Lat. Let it be exe-cnted. In French practice, this term is sub-scribed by 
   part of France, and author-■ izes the execution of the judgment within the jurisdiction
   where it is so indorsed
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

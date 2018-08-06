@@ -10,5 +10,6 @@ body: Seems to mean, literally, to confound and disorder, or to turn out of cour
   it, may be used in the sense of to prove and a proving, by disproving of what is
   asserted in opposition to truth and fact. Jacob
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

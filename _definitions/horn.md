@@ -7,5 +7,6 @@ body: In old Scotch practice. A kind of trumpet used in denouncing contumacious 
   This was called "putting to the hornand the party so denounced was said to be “at
   the horn.4* Bell. See Hobninq
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

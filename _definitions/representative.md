@@ -13,5 +13,6 @@ body: Representation le the act of one person representing or stand* ing in the 
   520; Staples ▼. Lewis, 71 Conn. 288, 41 Atl. 815; McCrary ▼. McCrary, 12 Abb. Prac.
   (N. ¥.) 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

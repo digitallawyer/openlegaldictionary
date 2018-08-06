@@ -9,5 +9,6 @@ body: Lat in Roman law. The name of an ofiicer who, from the time of Augustus, h
   belonged to the prtetor urbanus fell gradually into his hands. Colq. Rom. Civil
   Law, ft 2395
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

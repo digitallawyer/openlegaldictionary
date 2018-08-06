@@ -16,5 +16,6 @@ body: In the law relating to nuisances and similar matters, this term means noxi
   power, but also to support and aid each other in active and ag-gressive measures
   against a power with which either of them may engage in war
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

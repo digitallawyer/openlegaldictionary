@@ -7,5 +7,6 @@ body: In Scotch law. The ancient duty of this officer was to carry public messag
   proclamations at the Cross of Edinburgh. The officers serving under him are heralds,
   pursuivants, and messengers. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A creditor is sald to “save the statute of Umltations” -when he saves 
   six years from the time when the cause of action accrued, he will be in time to
   save the statute. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In land law’s and conveyancing, In those regions where grants, transfers
   by quarter-ing a section of land (640 acres) and again quartering one of the quarters.
   Lente v. Clarke, 22 Fla. 515, 1 South. 149
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

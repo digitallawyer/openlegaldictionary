@@ -8,5 +8,6 @@ body: Lat. Having ful-fllled the function, discharged the ofiice, or accomplishe
   and also to an instrument, power, agency, etc., which has fulfilled the purpose
   of Its creation, and is therefore of no further vlr-tue or effect
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

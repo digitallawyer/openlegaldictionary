@@ -9,5 +9,6 @@ body: A mode of acqulring title to incorporeal hereditaments grounded on the fac
   667, 66 Pac. 10; Alhambra Addition water Co. v. Richardson, 72 Cal. 598, 14 Pac.
   379; Stevens v. Dennett, 51 N. H. 329
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

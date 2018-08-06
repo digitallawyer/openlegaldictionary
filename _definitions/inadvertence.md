@@ -11,5 +11,6 @@ body: Heedlessness; lack of attention ; failure of a person to pay care-ful and 
   C. 267, 11 S. E. 257, 19 Am. St. Rep. 539; Thompson v. Connell, 31 or. 231, 48 Pnc.
   467, 65 Am. St. Rep. 818
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

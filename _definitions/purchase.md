@@ -11,5 +11,6 @@ body: The word, “purchase" is used In law in contradistinction to “descent,�
   Corp., 63 N. J. Eq. 809, 53 Atl. 68; Falley v. Gribling, 128 Ind. 110, 26 N. B.
   794; Cham-bers v. St Louis, 29 Mo. 574
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

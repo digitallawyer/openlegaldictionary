@@ -10,5 +10,6 @@ body: In reference to rights, linblllties, or jurlsdlctlons arising out of the c
   v. Roth, 51 Cal. 582; Yoast v. willis, 9 Iud. 550; Larson v. Aultman A Taylor Co.,
   80 Wis. 281, 50 N. W. 915, 39 Am. St Rep. 893
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

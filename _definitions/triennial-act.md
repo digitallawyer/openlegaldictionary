@@ -7,5 +7,6 @@ body: An Engllsh statute limtting the duratlon of every parliament to three year
   repealed, and the term was fixed at seven years by the septennial act, (St. 1 Geo.
   I. St. 2, c. 38
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

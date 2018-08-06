@@ -7,5 +7,6 @@ body: In Scotch law. For* merly this word included every species ot theft accomp
   forclble and masterful depreda-tlon within or near the dwelling-house; whlle robbery
   has beeu more particularly applied to
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

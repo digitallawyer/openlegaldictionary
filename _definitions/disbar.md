@@ -7,5 +7,6 @@ body: In England, to deprive a bar-ilster permanently of the privileges, of hls 
   the act of a court in withdrawing from an attorney the right to practise at Its
   bar
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

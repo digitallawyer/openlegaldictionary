@@ -10,5 +10,6 @@ body: In North Carolina, this is an invasion of the rights of auother with respe
   St. Rep. 844; State v. Barefoot, 89 N. C. 567; State v. Ray, 32 N. C. 40; State
   v. Sowls, 61 N. C. 151; State v. Laney, 87 N
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

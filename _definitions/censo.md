@@ -7,5 +7,6 @@ body: In Spanish and Mexican law. An annuity. A ground rent The right which a pe
   another of a determined sum of money or of an immovable thing. Civ. Code Mex. art.
   3206. See Schm. Civil Law, 149, 300; white, New Recop. bk. 2, c. 7, § 4
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

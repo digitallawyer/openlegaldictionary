@@ -7,5 +7,6 @@ body: Knowledge; Information; the result of observation, whether by the senses o
   knowledge. Used in this sense in such phras-es as “A. had notice of the conversion,”
   “a purchaser without notice of fraud,” etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

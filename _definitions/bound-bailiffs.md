@@ -6,5 +6,6 @@ body: In English law. Sheriffs* officers are so called, from thelr being usually
   to the sheriff in an obligation with sureties, for the due execution of thelr office.
   1 Bl. Comm. 345, 346
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

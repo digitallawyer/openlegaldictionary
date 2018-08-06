@@ -6,5 +6,6 @@ body: In pleading. The Latin name of that part of a special plea which follows n
   .after the statement of appearance and defense, and declares that the plaintiff
   “ought not to have or maintain his aforesaid action,” etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

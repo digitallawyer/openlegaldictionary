@@ -8,5 +8,6 @@ body: The popular and almost exclusive name applied to all United States treasur
   Hickey v. State, 23 Ind. 23. And see U. S. v. Howell (D. C.) G4 Fed. 114; Spencer
   v. Prlndle, 28 Cal. 276; Levy v. State, 79 Ala. 261
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

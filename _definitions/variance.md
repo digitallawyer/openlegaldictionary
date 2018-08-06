@@ -11,5 +11,6 @@ body: In pleading and practice. A discrepancy or disagreement between two Instru
   Brunswick v. Arrowsmith, 9 N. J. Law, 287; Skinner v. Grant, 12 Vt 462; State v.
   wadsworth, 30 Conn. 57
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

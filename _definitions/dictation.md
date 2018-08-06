@@ -7,5 +7,6 @@ body: In Louisiana, this term is used in a technical sense, aud means to pronoun
   reference to nuncupative wills. Prendergast v. Prendergast, 16 La. Anu. 220, 79
   Am. Dec. 575
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

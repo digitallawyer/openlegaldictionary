@@ -6,5 +6,6 @@ body: In medical Jurisprudence. A substance having an inherent deleterious prope
   which renders it, when taken into the system, capable of destroying life. 2 whart.
   & S. Med. Jur. | L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

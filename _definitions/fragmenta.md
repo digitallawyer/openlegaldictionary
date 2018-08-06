@@ -7,5 +7,6 @@ body: Lat. Fragments. A name sometimes applied (especially in cita-tions) to the
   extracts or “fragments” from the writings of various jurists. Mackeld. Rom. Law,
   S 74
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

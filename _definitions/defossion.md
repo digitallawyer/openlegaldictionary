@@ -4,5 +4,6 @@ letter: D
 permalink: "/definitions/defossion.html"
 body: The punishment of being burled alive
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

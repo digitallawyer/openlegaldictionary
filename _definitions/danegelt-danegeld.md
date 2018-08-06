@@ -8,5 +8,6 @@ body: A tribute of Is. and afterwards of 2s. uf>on every hide of laud through th
   their coasts. It continued a tax until the time of Stephen, and was one of the rights
   of the crown, whartoh
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

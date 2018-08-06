@@ -7,5 +7,6 @@ body: A person who by excessive drinking, gaming, idleness, or de-hauchery of an
   to want or suffering, or expose the town to charge or expense for the support of
   himself or family. Rev. St. VL c. 65, § 9; Appeal of Morey, 57 N. H. 54
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

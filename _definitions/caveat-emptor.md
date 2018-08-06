@@ -9,5 +9,6 @@ body: OR. Let the buyer take care. This maxim summarizes the rule that the purch
   383, 20 L. Ed. 627; Hargous v. Stone, 5 N. Y. 82; wissler v. Craig, 80 Va. 32; wright
   v. Hart, 18 wend. (N. Y.) 453
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

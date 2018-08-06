@@ -8,5 +8,6 @@ body: The name given to the great hall of the parliament house in Edinburgh, in 
   to the “Inner House,” the name given to the chambers in which the first and second
   divisions of the court of session hold their sittings. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

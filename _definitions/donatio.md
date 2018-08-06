@@ -7,5 +7,6 @@ body: Lat A gift A transfer of the title to property to one who receives it with
   the title and possession of the same from hlmself to another person, withont any
   con-sideration
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

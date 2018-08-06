@@ -7,5 +7,6 @@ body: Lat By the grace of God. A phrase used in the formal title of a "king or q
   times it was incorporated in the titles of inferior officers, (especlally ecclesias-tlcal.)
   bnt in later use was reserved as an as-eertlon of "the dlvlne right of kings
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

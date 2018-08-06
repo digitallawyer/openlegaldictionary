@@ -14,5 +14,6 @@ body: 1. Tbe interest which any one has in lands, or in any other subject of pro
   “title," and "interest,” and is, in a great degree, synonymous with all of them.
   See Co. Litt. 345.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

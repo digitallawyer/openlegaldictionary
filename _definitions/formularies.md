@@ -7,5 +7,6 @@ body: Collections of formula, or forms of forensic proceedings and Instruments u
   formulary of Marculphus may be mentioned as of considerable inter-est. Butl. Co.
   Litt. note 77, lib. 3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

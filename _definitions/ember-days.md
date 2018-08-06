@@ -12,5 +12,6 @@ body: In ecclesiastical law. Those days which the ancient fathers called "quatuo
   the solemn times of ordination, though the bishops, if they please, may ordain on
   any Sun-day or holiday. Enc. Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

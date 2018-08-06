@@ -6,5 +6,6 @@ body: Lat. In the civll law. A gem; a precious stone. Gems were distin-guished b
   their transparency; such as ein-eralds, chrysolites, amethysts. Dig. 34, 2, 19,
   17
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

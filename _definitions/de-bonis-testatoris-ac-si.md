@@ -8,5 +8,6 @@ body: "(Lat From the goods of the testator, if he has any, and, lf not, from tho
   estate is in-sufficient 1 williams* Saund. 336b; Bac. Abr. “Executor,” B, 3; 2 Archb.
   Pr. K. B. 148"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

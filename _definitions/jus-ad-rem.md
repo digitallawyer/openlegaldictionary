@@ -8,5 +8,6 @@ body: A term of the clvll law, meaning “a right to a thing;” that is, a righ
   or through such other person. It is thus distinguished from jns in re, which is
   a complete aud absolute dominion over a thing available against all persons
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Each circuit court of the United States may appoint, in different parts of
   powers which are or may be conferred upon them. Rev. St. U. S. I 627 (U. S. Comp.
   St. 1901, p. 499).
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

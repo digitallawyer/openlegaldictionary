@@ -12,5 +12,6 @@ body: A person is “drunk” wben be is so far under the Influence of liquor th
   S. E. 330; State v. Savage. 89 Ala. 1, 7 South. 183, 7 L. R. A. 428; Lewis v. Jones,
   50 Barb. (N. Y.) 667
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

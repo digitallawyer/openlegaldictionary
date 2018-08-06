@@ -6,5 +6,6 @@ body: To forfeit one’s skin, applied to a person condemned to be whipped; anci
   the punishment of a servant. Coriutn perdere, the same. Cori-um rcdimere, to compound
   for a whipping, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

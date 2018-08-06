@@ -7,5 +7,6 @@ body: A coin equal to 13s. 4d. of the present standard. 4 Steph. Comm. 119n. ori
   terra was npplied to several varieties of coins, or as descriptive of a money of
   account, apd is supposed to be the root from which “shilling” is derived
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

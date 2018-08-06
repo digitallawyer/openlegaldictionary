@@ -8,5 +8,6 @@ body: 1. To transfer or yleld to, or be-stow upon, another, one of the operatlve
   29 How. Prac. (N. Y.) 23; Young v. Hargrave, 7 ohio, 69, pt 2; Dow v. Lewis, 4 Gray
   (Mass.) 473
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

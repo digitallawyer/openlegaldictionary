@@ -7,5 +7,6 @@ body: In old conveyancing. A flne or sum of money, (otherwise called the “king
   a fine of lands. It amounted to three-twentieths of the supposed annual value of
   the land, or ten shillings for every five marks of land. 2 Bl. Comm. 350
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

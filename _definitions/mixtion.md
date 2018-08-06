@@ -7,5 +7,6 @@ body: The mixture or confusion of goods or chattels belonging severally to dlffe
   where two measures of wine belonging to different persons are poured together into
   the same cask
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

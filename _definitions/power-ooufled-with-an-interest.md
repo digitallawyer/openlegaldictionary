@@ -7,5 +7,6 @@ body: By this phrase is meant a right or power to do some act, together with an 
   from a naked power, which is a mere au-thority to act, not accompanied by any interest
   of the donee in the subject-matter of the power
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

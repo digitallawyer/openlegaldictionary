@@ -7,5 +7,6 @@ body: A law was made by Canute, for the preservation of his Danes, that, when a 
   be proved that the person killed was an Englishman. This proof was called "En-gleshire."
   1 Hale, P. C. 447 ; 4 Bl. Comm. 195; Spelman
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

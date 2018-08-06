@@ -7,5 +7,6 @@ body: LaL of strict right or law; according to strict law. "A license is a thing
   to him as an indulgence, and therefore it is to be strictly observed.” 2 Rob. Adm.
   117
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: The act or process of making equal or bringing about conformity to a commo
   the entire territory affected, a uniform and equal ratio between the assessed vaiue
   and the
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

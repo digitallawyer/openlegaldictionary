@@ -7,5 +7,6 @@ body: In Hindu law. A mortgage-deed or deed of conditional sale, being one of th
   1806, which regulates the legal pro-ceedings to be taken to enforce such a security.
   It is also called ‘'Byebil-Wuffa” wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

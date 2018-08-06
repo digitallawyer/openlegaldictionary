@@ -8,5 +8,6 @@ body: In Roman law. A rod or wand; and, from the use of that instruhient in thei
   in the progress of the old action of vindicatio, whence the name of that action.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

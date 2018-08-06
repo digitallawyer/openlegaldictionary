@@ -8,5 +8,6 @@ body: 'Lat. Definition, or, more strictly, limiting or bounding; as in the max-i
   of precise definitions is hazardous, as there are hut few cases in which such a
   limitation can-not be subverted'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

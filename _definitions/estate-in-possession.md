@@ -7,5 +7,6 @@ body: An estate whereby a present Interest passes to and resides in the tenant, 
   where the ten-ant is in actual pernancy, or receipt of the rents and other advantages
   arising therefrom
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

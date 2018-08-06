@@ -9,5 +9,6 @@ body: E. Sometimes this signifies the district into which a country lias been di
   of the court to judge of the law; that of the jury to decide on the facts. 1 Bl.
   Comm. Ill; Tomlins
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

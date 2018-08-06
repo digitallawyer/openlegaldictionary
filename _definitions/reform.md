@@ -10,5 +10,6 @@ body: To correct, rectify, amend, remodel. Instruments inter partes may be refor
   ful-ly and technically expressed that Intention See Sullivan ▼. Haskin, 70 Vt 487,
   41 AU
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

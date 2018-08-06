@@ -8,5 +8,6 @@ body: LK. To set off one clalm against another; to deduct a debt due to one from
   meaning of “defalcation” as given above; a public officer or trustee who misappropriates
   or embezzles funds in his hands is not said to "defalk.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

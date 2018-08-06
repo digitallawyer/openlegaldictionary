@@ -6,5 +6,6 @@ body: This rule signlfles that an Instrument orlglnally intended as a mort-gage,
   not a deed, cannot be converted into anything else than a mortgage by any subsequent
   clause or agreement
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

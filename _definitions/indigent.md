@@ -13,5 +13,6 @@ body: In a general sense an “in-digent” person is one who Is'needy and poor,
   In re Hybart, 119 N. C. 359, 25 S. E. 963; People v. Schoharie County, 121 N. Y.
   345, 24 N. E. 830; Rev. St Mo. 1899, { 4894 (Am. SL 1906, p. 2616
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

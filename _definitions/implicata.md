@@ -7,5 +7,6 @@ body: A term used in mercan-tile law, derived from.the Italian. In order to avoi
   small adventures, on freight, at so much per cent, to which they are entitled at
   all events, even if the adventure be lost; and this is called “implicata.” wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Fr. To fork. This was a method of delaying an action anciently re-sorted t
   each would appear in turn and cast an essoin for tbe other, thus postponing tbe
   trial
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

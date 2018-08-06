@@ -9,5 +9,6 @@ body: The order or rank according to which persons or things are arranged or as-
   A. 387; Farnam v. Farnam, 53 Conn. 261, 2 Atl. 325, 5 Atl. 682; Dulany v. Middleton,
   72 Md. 67, 19 Atl. 146; In re Russell, 168 N. Y. 169, 61 N. E. 166
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

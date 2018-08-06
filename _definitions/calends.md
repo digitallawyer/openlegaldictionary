@@ -14,5 +14,6 @@ body: Among the Romans the first day of every month, being spoken of by it-self,
   the month following, and be numbered backwards from the first day of the said following
   months. Jacob. See Rives v. Guthrie, 46 N. C. 87
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

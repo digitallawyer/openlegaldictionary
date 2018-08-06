@@ -7,5 +7,6 @@ body: A piace on a river or other navigable water for lading and unlading goods,
   or other navigable water, for the use of travelers, and the loading and unloading
   of goods. State v. Randall, 1 Strob. (S. C.) Ill, 47 Am. Dec. 548
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

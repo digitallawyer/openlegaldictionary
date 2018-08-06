@@ -8,5 +8,6 @@ body: In Spanish law. The tacit consent and approval inferred by law from the om
   etc. Also the approval given by the judge of certain acts and agreements for the
   purpose of rendering them more bind-ing and executory. Escrlche
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

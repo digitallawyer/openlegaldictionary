@@ -6,5 +6,6 @@ body: In Eng-lish law. A court constituted for the trial of scholars or privileg
   persons connected with the university at oxford or Cambridge who are indicted for
   treason, felony, or mayhem
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

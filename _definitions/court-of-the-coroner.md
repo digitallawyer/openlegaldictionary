@@ -6,5 +6,6 @@ body: In Eng-llsh law. A court of record, to inquire, when any one dies in priso
   or comes to a violent or sudden death, hy what manner he came to his end. 4 -Steph.
   Comm. 323 ; 4 Bl. Comm. 274. See Coboneb
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

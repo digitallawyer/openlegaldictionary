@@ -6,5 +6,6 @@ body: In Eugllsh ecclesiastical law. Rural chapters, or conventions of the rural
   and parochial clergy, whlch were formerly held on the calends of every month; hence
   the name. ''Paroch. Antiq. 604
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

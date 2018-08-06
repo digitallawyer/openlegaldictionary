@@ -6,5 +6,6 @@ body: In feudal law, relieve is to depend; thus, the seigulory of a tenant in ca
   relieves of the crown, meaning that the tenant holds of the crown. The term is not
   common in English writers. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

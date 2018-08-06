@@ -9,5 +9,6 @@ body: The rector of a chnrch; one that has full possession of all the rights of 
   Edward Coke observes, and he only, is eald vicem seu personam ecclesiw gcrerc. (to
   represent and bear the person of the church.) 1 Bl. Comm. 384
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

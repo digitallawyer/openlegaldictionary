@@ -16,5 +16,6 @@ body: A voluntary association of persons pursuing the same trade, art, professio
   from the Anglo-Saxon “gild” or “geld,” a tax or tribute, because each member of
   the society was required to pay a tax towards its support
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

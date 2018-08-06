@@ -11,5 +11,6 @@ body: 'To interrupt; to cause to cease for a time; to stay, delay, or hinder; to
   R. I. 547, 23 AtL 910; State v. Melvin, 166 Mo. 565, 66 S. W. 534; Poe ▼. State,
   72 Tex. 625,10 S. W. 732. See Sus-PEJiSioN. . .'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

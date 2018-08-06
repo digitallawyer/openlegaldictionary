@@ -9,5 +9,6 @@ body: Uncertainty of mlnd; the ab-sence of a settled opinion or conviction; the 
   718 ; west Jersey Traction Co. v. Camden Horse R. Co., 52 N. J. Eq. 452, 29 Atl.
   333
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

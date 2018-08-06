@@ -10,5 +10,6 @@ body: e estate ot a deceased person, corn-prising all kinds of property owned or
   10 S. W. 505, 3 L. R. A. 170; State v. Payne, 129 Mo. 468, 31 S. W. 797, 33 L. R.
   A. 576; Blake v. McCartney, 3 Fed. Cas. 596; In re Henden’s Estate, 52 Cal. 298
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

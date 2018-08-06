@@ -8,5 +8,6 @@ body: This term is used to signify legal sufficiency, in contradistinction to me
   reasons going be-hlnd the regularity of its forms.” Sharpleigh v. Surdam, 1 Flip.
   487, Fed. Cas. No. 12.71L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

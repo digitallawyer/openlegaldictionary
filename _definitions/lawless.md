@@ -6,5 +6,6 @@ body: Not subject to law; not con-trolled by law; not authorized by law; not obs
   the rules and forms of law. See Arkansas v. Kansas A T. Coal Co. (C. C.) 96 Fed.
   362
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

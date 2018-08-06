@@ -7,5 +7,6 @@ body: An insane persou, partlcu-larly one suffering from mania in any of its for
   is not a technical term either of medlciue or the law, and is incapable of being
   applied with scientific precision. See Insanity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

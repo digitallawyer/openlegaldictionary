@@ -7,5 +7,6 @@ body: In old French law. A provision of lands or feudal superlorlties as-signed 
   to a prince of the reigning house for his proper maintenance out of the public treasury.
   1 Hallam, Mid. Ages, pp. ii, 88; wharton.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: when religious books, or reading are spoken of, those which tend to promot
   show that the speaker er writer had reference to some other mode of worship. Simpson
   v. Welcome, 72 Me. 500, 39 Am. Rep. 349
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

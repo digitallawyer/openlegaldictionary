@@ -9,5 +9,6 @@ body: A reconsideration; second; view or examination; revision; consideration fo
   566 ; State v. Main, 69 Conn. 123, 37 Atl. 80, 36 L. R. A. 623, 61 Am. St. Rep.
   30
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

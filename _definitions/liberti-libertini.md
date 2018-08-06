@@ -8,5 +8,6 @@ body: Lat in Rom-an law. Freedman. There seems to have been some difference in t
   latter term describing the status of the same persons in the general social economy
   of Rome
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Lat in English law. The name given to a clause Inserted in the record by w
   writ thereupon to the deputy-sheriff of the county aforesaid, to he executed in
   due form of law.” Lee, Dict “Record.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

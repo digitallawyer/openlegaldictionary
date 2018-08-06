@@ -7,5 +7,6 @@ body: A phrase used to express the condition of a person charged with crime, who
   for the same offense. See Com. v. Fitzpatrick, 121 Pa. 109, 15 AtL 466, 1 L K. A.
   451, 6 Am. St. Rep. 757
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

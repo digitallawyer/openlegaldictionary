@@ -11,5 +11,6 @@ body: To obligate; to bring or place under definite duties or legal obligations,
   14 Me. 193; Holmes v. Tutton, 5 El. & Bl. 80; Bank v. Ireland, 127 N. C. 238, 37
   S. E. 223; Doug-las v. Hennessy, 15 R. I. 272, 10 Atl. 583
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

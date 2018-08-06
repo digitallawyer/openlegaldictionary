@@ -6,5 +6,6 @@ body: writ for putting a seal to an exception. A writ by which justices were for
   commanded to put their seals to exceptions taken by a party in a suit. Reg. orlg.
   182
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

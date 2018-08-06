@@ -6,5 +6,6 @@ body: In old English law-After-county; i. e., after the end of the coun-ty court
   time and place appolnted by the sheriff for the receipt of the king's money after
   the end of his county, or county, court. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

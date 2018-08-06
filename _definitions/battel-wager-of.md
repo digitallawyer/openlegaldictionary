@@ -8,5 +8,6 @@ body: In old English law. A form of trlal anciently used In mlli-tary cases, ari
   decided by the result of a personal corn-bat between the parties, or, in the case
   of a writ of right, between their champions
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

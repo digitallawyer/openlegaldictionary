@@ -14,5 +14,6 @@ body: The name of the highest court of civil jurisdiction lu Scot-land. It was c
   are collectively called the "outer house.” The nomination and appointment of the
   judges is in the crown, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

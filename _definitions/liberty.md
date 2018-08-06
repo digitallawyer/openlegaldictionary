@@ -12,5 +12,6 @@ body: 1. Freedom; exemptlon from extraneous control. The power of the will, in i
   Co., 177 Mo. 1, 75 S. W. 737; Kuhn v. Detroit City Council, 70 Mich. 534, 88 N.
   W. 470; People v. Judson, 11 Daly (N. Y.) 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

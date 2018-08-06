@@ -16,5 +16,6 @@ body: A daily book; a book in whlch entries are made or events recorded from day
   Pac. 3; Montgomery Beer Bottling works v. Gaston, 126 Ala. 425, 28 South, 497, 51
   L. R. A. 396. 85 Am. St. Rep. 42; Martin v. Com., 107 Pa. 190
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

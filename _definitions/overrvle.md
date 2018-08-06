@@ -9,5 +9,6 @@ body: To supersede; annul; re-Ject by subsequent action or decision. A ju-dicial
   earlier opinion of all authority as a precedent. The term is not properly applied
   to conflicting decisions on the same poiut hy co-ordinate or independent tribunals
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: An officer of the English crown having the general management of the mines
   and keeps the registers required by the acts. There is a deputy-gaveller, who appears
   to exercise most of the gaveller’s functions. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

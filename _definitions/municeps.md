@@ -8,5 +8,6 @@ body: Lat in Roman law. A provincial person; a countryman. This was the designat
   of the highest. In the provinces the term seems to have been applied to the freemen
   of any city who were eligible to the munlclpal offices. Calvln
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

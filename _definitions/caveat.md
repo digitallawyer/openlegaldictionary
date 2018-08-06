@@ -13,5 +13,6 @@ body: Lat Let him beware. A formal notice or warning given by a party ln-tereste
   Eq. 485; Ex parte Crafts, 28 S. C. 281, 6 S. E. 718; In re Miller's Estate, 166
   Pa. 97, 81 Atl. 58
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

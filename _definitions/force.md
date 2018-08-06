@@ -8,5 +8,6 @@ body: Power dynamically considered, that is, in motion or in action; constrainin
   Co.} 7 Misc. Rep. 562, 28 N. Y. Supp. 84; Plank Road Co. v. Robbins, 22 Barb. (N.
   Y.)'667
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

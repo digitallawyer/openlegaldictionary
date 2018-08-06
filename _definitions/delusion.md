@@ -9,5 +9,6 @@ body: In medical jurisprudence. An insane delusion is an unreasoning and in-corr
   by them; and hence it is not to be confounded with an opinion, however fantastic
   the latter may be. Guiteau’s Case (D. C.) 10 Fed. 170. See Insanity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

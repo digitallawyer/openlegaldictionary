@@ -8,5 +8,6 @@ body: The act of a wife who voluntarily deserts her husband to cohabit with anot
   goes and lives in adultery in a house belonging to him, it is said not to be an
   elopement Cogswell v. Tibbetts, 3 N. H. 42
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: The term means, a accordlng to Its derivation, a street or pas-sage throug
   at one end, admitting no exit there, it is called a “cul de sac.” See Cemetery Ass’n
   v. Meninger, 14 Kan. 315; Mankato ▼. warren, 20 Minn. 150 (Gll. 128); wig
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

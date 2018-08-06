@@ -9,5 +9,6 @@ body: To bear wituess; to give evidence as a witness; to make a solemn declarati
   125 Ind. 38, 25 N. E. 137, 9 L. R. A. 323; Mudge v. Gilbert, 43 How. Prac. (N. Y.)
   221
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

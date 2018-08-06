@@ -11,5 +11,6 @@ body: A pecuniary compensation or Indemnity, which may be recovered in the court
   Railroad Co., 9 Heisk. (Tenn.) 850; New York v. Lord, 17 wend. (N. Y.) 293; o’Connor
   v. Dils, 43 W. Va. 54, 26 S. E. 354
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

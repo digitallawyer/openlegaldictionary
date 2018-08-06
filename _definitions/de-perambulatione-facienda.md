@@ -7,5 +7,6 @@ body: A writ which lay where there was a dis-pute as to the boundaries of two ad
   discreet and lawful knights of his county and make the perambulation and set the
   bounds and Unfits in certainty. Fitzh. Nat Brev. 309, D.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

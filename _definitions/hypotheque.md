@@ -7,5 +7,6 @@ body: In French lnw. Hy-pothecatlon; a mortgage on real property; the right vest
   of hls debt, whether or not it be accompanied by possession. See Clv. Code La. art
   3360
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

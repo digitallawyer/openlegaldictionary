@@ -8,5 +8,6 @@ body: In criminal law. That kind of connection with the commission of a crime wh
   aid to the actual perpetrator of the crime, though without taking* a direct share
   in lts commission. See 4 Bl. Comm. 34; Peo
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

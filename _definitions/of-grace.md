@@ -7,5 +7,6 @@ body: A term applied to hny jier-mission or license granted to & phrty in the co
   but is allowed by the favor or indulgence of the court See waiters ▼. McElroy, 151
   Pa. 549, 25 Atl. 125
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

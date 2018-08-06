@@ -8,5 +8,6 @@ body: In Scotch law. A deed attaching a qualification or condition to the terms 
   of a right. Bell. The instrument is equivalent to a declaration of trust iu Eug-lish
   conveyancing
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

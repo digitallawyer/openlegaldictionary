@@ -7,5 +7,6 @@ body: As much as they were worth. In pleadlng. The com-mon count In an action of
   part of the defendant, to pay the plaintiff as much as the goods were reasonably
   worth. 3 Bl
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

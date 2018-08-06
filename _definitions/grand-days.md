@@ -9,5 +9,6 @@ body: In English practice. Certain days in the terms, which are solemn-ly kept i
   for peculiar festivity; the members of the respective inns being on such occasions
   regaled at thelr dinner in the hall, with more than usual sumptuousness. Holthouse
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

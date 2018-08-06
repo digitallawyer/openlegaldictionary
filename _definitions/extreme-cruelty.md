@@ -12,5 +12,6 @@ body: In the law of divorce. The infliction of grievous bodily harm or grievous 
   surrounding circumstances. Donald v. Donald, 21 Fla. 573; Blain v. Blain, 45 Vt.
   544; Poor ▼. Poor, 8 N. H. 815, 29 Am. Dec. 664
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

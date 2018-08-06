@@ -7,5 +7,6 @@ body: In old English law and practice. To expel from court for some offense or m
   appearing to an action by bill filed against him, he was said to be forejudged the
   court. CowelL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

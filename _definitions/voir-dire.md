@@ -6,5 +6,6 @@ body: L. Fr. To speak the truth. This phrase denotes the preliminary examination
   the court may make of one presented as a witness or juror, where his competency,
   interest, etc., is objected to
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

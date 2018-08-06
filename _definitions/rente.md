@@ -9,5 +9,6 @@ body: In French law. Rente is the annual return which represents the revenue of 
   which is called “rente." Duverger. The word is therefore nearly synonymous with
   tbe Eng-lish “annuity.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

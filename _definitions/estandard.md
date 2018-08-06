@@ -6,5 +6,6 @@ body: L. Fr. A standard, (of weights and measures.) So called because it stands 
   and immovable, and hath all other measures coming towards it for their conformity.
   Termes de la Ley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In the civil law. A man who was twice married; one who at differ-ent times
   successively has married two wives. 4 Inst. 88. One who has two wives living, one
   who marries a widow
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

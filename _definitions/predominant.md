@@ -8,5 +8,6 @@ body: This term, in its natural and ordinary signification, is under-stood to be
   operated, is one of greater force and effect, in producing the given re-sult, than
   any other motive. Matthews v. Bliss, 22 Pick. (Mass.) 53
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

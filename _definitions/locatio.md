@@ -6,5 +6,6 @@ body: Lat. In the civil law. Let ting for hire. The term is also used by text-wr
   upon the law of bailment at common law. In Scotch law it is translated “location.”
   BelL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

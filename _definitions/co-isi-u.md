@@ -11,5 +11,6 @@ body: ses the body of those principles and rules of action, relating to the gove
   & J. (Md.) 365, 0 Am. Dec. 534; Lux v. Haggin, 69 Cal. 255, 10 Pac. 674; Barry v.
   Port Jer-vls, 64 App. Dlv. 268, 72 N. Y. Supp. 104
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

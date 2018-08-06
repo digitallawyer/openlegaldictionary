@@ -10,5 +10,6 @@ body: The right of dis-posing. An expression used either general-ly to signify t
   the purchaser, notwithstanding that he (the vendor) has parted with the possession
   of the goods. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

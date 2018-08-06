@@ -9,5 +9,6 @@ body: In English practice. A writ directed to the sheriff of the county in which
   impracticable to get at the defendant personally, so as to serve a summons upon
   him. ld
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

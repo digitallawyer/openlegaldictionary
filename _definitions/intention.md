@@ -6,5 +6,6 @@ body: Meaning; will; purpose; design. “The intention ot the testator, to be co
   from the whole will, is to gov-ern, provided it be not uniawful or inconsist* ent
   with the rules of iaw.” 4 Kent, Comm. 534
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

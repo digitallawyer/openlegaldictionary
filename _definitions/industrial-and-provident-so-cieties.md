@@ -6,5 +6,6 @@ body: Societies formed in England for carrying on any labor, trade, or handicraf
   whether wholesale or retail, including the buying and selling of land and also (but
   suh-ject to certain restrictions) the business of banking
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

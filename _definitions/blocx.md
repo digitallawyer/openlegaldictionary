@@ -8,5 +8,6 @@ body: A square or portion of a city or town inclosed by streets, whether partial
   164, 10 South. 597; Todd v. Railroad Co., 78 111. 530; Ilarrison v. People, 195
   111. 466, 63 N. B. 191
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

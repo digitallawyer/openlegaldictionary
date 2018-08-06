@@ -6,5 +6,6 @@ body: Cognizant; acquainted with; having actual knowledge; as, if a party knowin
   of an agreement in which he has an Interest makes no objection to It, he is said
   to be conusant. Co. Litt. 157
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

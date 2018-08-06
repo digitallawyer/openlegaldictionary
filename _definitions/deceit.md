@@ -10,5 +10,6 @@ body: A fraudulent and cheating mis-r epresen tat ion, artifice, or device, used
   561, 61 Am. St. Rep. 791; In re Post, 54 Hun, 634, 7 N. Y. Supp. 438; Clv. Code
   Mont. 1895, $ 2292
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

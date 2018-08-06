@@ -9,5 +9,6 @@ body: In the Roman law. An edict; a mandate, or ordinance. An ordinance, or law,
   in not being given in judgment; and from both, in not being founded npon solicitation.
   Tayl. Civil Law, 233
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

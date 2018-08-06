@@ -7,5 +7,6 @@ body: In mining law. A lateral entrance or passage lnto a mine; tbe opening by w
   in and along' a lode. Electro-Magnetic M. & D. Co. v. Van Auken, 9 Colo. 204, 11
   Pac. 80 ; Gray v. Truby, 6 Colo. 278
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

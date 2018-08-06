@@ -8,5 +8,6 @@ body: A conflict or controversy; a conflict of claims or rights; an assertion of
   Gas Co. v. Borough of Sewickley, 198 Pa. 201, 47 Atl. 957; Railroad Co. v. Clark,
   92 Fed. 968, 35 O. C. A. 120
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

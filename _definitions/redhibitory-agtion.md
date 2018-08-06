@@ -7,5 +7,6 @@ body: In the civil law. An action for redhibition. An action to avoid a sale on 
   Inconvenient and imperfect that it must be supposed the buyer would not have purchased
   it had be known of the vice. Civ. Code La. art. 2520
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

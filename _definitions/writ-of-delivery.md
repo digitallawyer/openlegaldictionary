@@ -8,5 +8,6 @@ body: A writ of execution employed to enforce a Judgment for the delivery of cha
   to distrain the person against whom the judgment was given un-til he returns them.
   Smith, Act. 175; Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

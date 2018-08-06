@@ -6,5 +6,6 @@ body: Lat An association, fellowship, or partnership. Applied by some of the old
   writers to a corporation, and even to a natlon consldered as a body politic. Thomas
   v. Dakin, 22 wend. (N. Y.) 104
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

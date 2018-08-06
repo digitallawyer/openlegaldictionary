@@ -7,5 +7,6 @@ body: L. Lat. The value of every ecclesiastical benefice and preferment, accordi
   the “king's books,” by which the clergy are at present rated; 2 Steph. Comm. 533;
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

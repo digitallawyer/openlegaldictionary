@@ -8,5 +8,6 @@ body: That fiction of the English law which for certain political purposes ascri
   office is supposed to be reoccupied for all political purposes immediately on bis
   death. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: The act of one who takes another’s child into his own family, treating h
   act creating between two persons certaln relations, purely civil, of paternity and
   fillation. 6 Demol. § 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

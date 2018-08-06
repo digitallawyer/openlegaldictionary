@@ -8,5 +8,6 @@ body: The name of a writ which Issues from the court of chan-eery, in aid of the
   62 N. E. 285; Hagerman v. Heltzel, 21 wash. 444, 58 Pac. 580; o’Connor v. Schaeffel
   (City Ct. N. Y.) 11 N. Y. Supp. 737; Knight v. Houghtailing, 04 N. O. 410
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

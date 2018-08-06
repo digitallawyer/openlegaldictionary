@@ -10,5 +10,6 @@ body: A current of water; a body of flowing water. The word, in its ordinary d&n
   v. State, 27 Ind. App. 48S, 61 N. E. 693; Trus-tees of Schools v. Schroll, 120 IlL
   509, 12 N. E. 243, 60 Am. Rep. 575
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

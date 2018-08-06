@@ -10,5 +10,6 @@ body: As used in jurisprudence^ the word "necessary" does not always import an a
   end, and not as being confined to those single means without which the end would
   be entirely un-attainable. McCulloch v. Maryland, 4 wheat 316, 413, 4 L. Ed. 579
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

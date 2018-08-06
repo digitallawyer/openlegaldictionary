@@ -11,5 +11,6 @@ body: In equity. The trans-formation of one species of property into an-other, a
   supposed to have been converted. Seymour v. Freer, 8 wall. 214, 19 L. Ed. 306; Uaward
   v. Peuvey, 128 111. 430, 21 N. E. 503, 15 Am. St. Rep. 120
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

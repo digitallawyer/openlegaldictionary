@@ -6,5 +6,6 @@ body: Sounding the same or alike; having the same sound. A term ap-plied to name
   which are substantially the same, though slightly varied In the spelling, as “Lawrence”
   and “Lawrance,” and the llke. 1 Cromp. & M. 806 ; 3 Chit. Gen. Pr. 171
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

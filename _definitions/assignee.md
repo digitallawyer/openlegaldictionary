@@ -7,5 +7,6 @@ body: A person to whom an assignment is made. Allen v. Pancoast, 20 N. J. Law, 7
   in reference to personal property; but it is not incorrect, in some cases, to apply
   it to realty, e. g., “assignee of the reversion.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

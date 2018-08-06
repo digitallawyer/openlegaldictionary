@@ -8,5 +8,6 @@ body: In French law. A capital is said to be invested d fond* perdus when it is 
   having pald the Interest during the period determined, is free as regards the cap-ital
   itself. Arg. Fr. Merc. Law, 560
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

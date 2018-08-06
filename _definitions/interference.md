@@ -8,5 +8,6 @@ body: In patent law, this term designates a collision between rights claimed or 
   v. Kingsley, 7 App. D. C. 540; De-derick v. Fox (C. C.) 56 Fed. 717; Nathan Mfg.
   Co. v. Craig (O. C.) 49 Fed. 370
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

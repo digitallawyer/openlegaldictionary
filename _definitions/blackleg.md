@@ -7,5 +7,6 @@ body: A person who gets his liv-ing by frequenting race-courses and places where
   necessarily cheating. That is not indictable either by statute or nt common law.
   Barnett v. Allen, 3 Hurt A N. 379
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

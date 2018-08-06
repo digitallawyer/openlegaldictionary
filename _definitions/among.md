@@ -7,5 +7,6 @@ body: Intermingled with. “A thing which is among others is intermingled with t
   but may be introduced into the Interior.” Gibbons v. Ogden, 9 wheat 194, 6 L. Ed.
   23
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

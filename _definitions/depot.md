@@ -9,5 +9,6 @@ body: In French law. The depositum of the Roman and the deposit of the English l
   it, or by virtue of the direction of the court or a judge, pending litigation regarding
   it. Brown; Civ. Code La. 2897
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

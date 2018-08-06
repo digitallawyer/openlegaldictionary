@@ -8,5 +8,6 @@ body: In mercantile law. A small allowance or compensation payable to the master
   any port or haven. Abb. Shipp. 404; Peters v. Speights, 4 Md. Ch. 381; Blake v.
   Morgan, 3 Mart. O. 6. (La.) 38L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

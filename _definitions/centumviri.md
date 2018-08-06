@@ -8,5 +8,6 @@ body: In Roman law. The name of an important court consisting of a body of one h
   or difficult questions, (call-ed,■ “causae centumvirales") but ordinarily they were
   separated into four distinct tribunals
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

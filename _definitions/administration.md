@@ -9,5 +9,6 @@ body: lu public law. The administration of government means the practical manage
   in charge of the management of the executive department. People v. Sals-bury, 134
   Mich. 537, 96 N. W. 936
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A person so poor that he must be supported at public expense; also a suito
   10 Cush. (Mass.) 238; Charleston v. Groveland, 15 Gray (Mass.) 10; Lee County v.
   Lackle, SO Ark. 764
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

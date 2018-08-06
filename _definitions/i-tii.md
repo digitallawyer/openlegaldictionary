@@ -49,5 +49,6 @@ body: erangement is accompanied with more or less of excitement. Sometimes the e
   insanity resulting as a secondary effect produced by tbe excessive and protracted
   indub
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

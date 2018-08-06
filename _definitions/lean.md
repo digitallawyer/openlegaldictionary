@@ -7,5 +7,6 @@ body: To lncline in opinion or prefer-ence. A court is sometimes said to "lean a
   regards it with disfavor or repugnance, because of its inexpedience, injustice,
   or in-consistency
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

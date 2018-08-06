@@ -7,5 +7,6 @@ body: In a sense not strictly technical, this word may be used to signify the ex
   he removes a suit involving the title to real estate from a Justice’s court to the
   common pleas. Lawrence v. Souther, 8 Metc. (Mass.) 166
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

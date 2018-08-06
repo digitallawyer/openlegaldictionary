@@ -7,5 +7,6 @@ body: Novation is the substitu-tion of a new debt or obligation for an exist-ing
   269; McCartney v. Kipp, 171 Pa. 644, 33 Atl. 233; McDonnell v. Alabama Gold L. lns.
   Co., 85 Ala. 401, 5 South. 120; Shafer’s Appeal, 99 Pa. 246
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

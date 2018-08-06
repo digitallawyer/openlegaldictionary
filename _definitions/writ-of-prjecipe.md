@@ -7,5 +7,6 @@ body: This writ is also called a “writ of covenant,” and is sued out by the 
   agreement or covenant that the one shall convey the land to the other. 2 Bl. Comm.
   349
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

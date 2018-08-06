@@ -7,5 +7,6 @@ body: In oontraots. The term “goods" is not so wide as “chattels,” for it 
   for years of house or land, which “chattels” does Include. Co. Litt. 118; St. Joseph
   Hydraulic Co. v. wilson, 133 Ind. 465, 33 N. E. 113
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

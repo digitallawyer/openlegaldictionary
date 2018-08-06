@@ -9,5 +9,6 @@ body: To hold; conslder; adjudge; condemn. Cory v. Spencer, 67 Kan. 648, 73 Pac.
   not a semblance of it, nor a mere fanciful approximation to or designation of the
   offense. Com, v. Pratt, 132 Mass. 247
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In English law. A mart or market. A place where the buylng and sell-lug of
   lead, leather, and other artlcles were put under certain terms. 2 Reeve, Eng. Law,
   393
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

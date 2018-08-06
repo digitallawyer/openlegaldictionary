@@ -10,5 +10,6 @@ body: A thing annexed to or belonging to another thing and passing with lt; a th
   an appurtenance may be created at this day; ' for lf a grant be made to a man and
   hls
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

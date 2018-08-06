@@ -6,5 +6,6 @@ body: In English law. A device depicted on the (now imagi-nary) shield of one of
   nobility, of which gentry is the lowest degree. The criterion of nobility is the
   bearing of arms, or armorial bearings, received from ancestry
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

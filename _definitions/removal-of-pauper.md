@@ -6,5 +6,6 @@ body: The actual transfer of a pauper, by order of a court having jurisdiction, 
   a poor district in which he has no settlement, bnt upon which he has become a charge,
   to the district of hls domicile or settlement
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

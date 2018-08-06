@@ -6,5 +6,6 @@ body: The whole body of Jurors sum-moned to attend a court, as they are arrayed 
   arranged on the panel. Daue, Abr. Index; 1 Chit. Crim. Law, 536; Com. Dig. “Challenge,"
   B. Durrah v. State, 44 Miss. 789
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

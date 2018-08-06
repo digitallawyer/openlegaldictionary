@@ -13,5 +13,6 @@ body: In English eccleslastlcal law. The primate of all England; the chief eccle
   like; and on this also is founded the right he exercises of conferring degrees in
   prejudice of the two universities, wharton.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

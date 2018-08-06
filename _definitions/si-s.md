@@ -12,5 +12,6 @@ body: xed periodical compensation to be paid for services rendered; a stated com
   C.) 42 Fed. 376; Cowdln v. Huff, 10 Ind. 85; In re Chancellor, 1 Bland (Md.) 596;
   Houser v. Umatilla County, 30 or. 486, 49 Pac. 867; Thompson v. Phillips, 12 ohio
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

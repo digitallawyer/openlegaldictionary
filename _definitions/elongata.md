@@ -7,5 +7,6 @@ body: In practice. Eloigned; carried away to a distance. The old form of the ret
   eloigned; that is, carried to a dls-tance, to places to him unknown. 3 Bl. Comm.
   148; 3 Steph. Comm. 522; Fitzh. Nat Brev. 73, 74; Archb. N. Pract 552
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

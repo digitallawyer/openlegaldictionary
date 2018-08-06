@@ -8,5 +8,6 @@ body: In English law. The bar at which those barristers, usually junlor men, pra
   seats within the bar, and ad-dress the court or a jury from a place re-served for
   them, and divided off by a bar. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

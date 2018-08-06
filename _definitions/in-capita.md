@@ -6,5 +6,6 @@ body: To the heads; by heads or polls. Persons succeed to nn inheritance in capi
   when they individually take equal shares. So challenges to individual jurors are
   challenges in capita, as dlstlngulshed from challenges to the array
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

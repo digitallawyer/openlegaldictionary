@@ -7,5 +7,6 @@ body: A receipt, acquittance, or release, which may serve as evidence of payment
   containing the acquittances or receipts showing the accountant’s discharge of his
   obligations, whitwell v. willard, 1 Metc. (Mass.) 218
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

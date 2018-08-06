@@ -9,5 +9,6 @@ body: Lat in the civil law. A word having various meanings; e. g., an assembly, 
   as in the maxim “tres faciunt collegium” (1 B1. Comm. 469), though the more usual
   aud proper designation of a cor-poration was “unlversitas.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

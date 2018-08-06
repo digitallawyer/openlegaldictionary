@@ -7,5 +7,6 @@ body: A term of marltime law, applled to a vessel which is freight-ed with a car
   being defended from wet or moisture by a number of mats and a quantity of duni-nuge.
   Cargoes of corn, salt, etc., are usuL ally so shipped
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: 1. one of the terrlto-rial divisions of a country. The term is chiefiy use
   analogous, both territorially and for governmental purposes, to the divi-sion of
   an American state Into counties
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

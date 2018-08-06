@@ -7,5 +7,6 @@ body: In Lou-isiaua this term is used to designate that property which forms no 
   Code La. art. 2315. Fleitas v. Richardson, 147 U. S. 550, 13 Sup. Ct 495, 37 L.
   Ed. 276
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

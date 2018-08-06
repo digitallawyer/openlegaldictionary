@@ -8,5 +8,6 @@ body: To discover; to determine; to as-certaln and declare. To announce a conclu
   of the parties; as a jury “find for the plaintiff.” State v. Buikeley, 61 Conn.
   287, 23 Atl. 186, 14 L. R
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

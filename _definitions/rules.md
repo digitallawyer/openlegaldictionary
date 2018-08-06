@@ -10,5 +10,6 @@ body: In American practice. This term is sometimes used, by metonymy, to denote 
   “an Irregularity committed at rules may be corrected at the next term of the court"
   South-all’s Adm’r v. Exchange Bank, 12 Grat. (Va.) 312
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: 'The prlncipal her-aid of Englaq0 was of old designated “klng of the her
   under an officer called “Lyon Klng-at-Arms," and Ireland is the province of one
   named “Ulster.” Wharton'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: Lat. In Roman law, it was competent for a testator after instituting a bae
   (of fourteen years if a male, and of twelve years lf a female,) then the substitution
   was called “papillaris," (or for mlnors.) Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

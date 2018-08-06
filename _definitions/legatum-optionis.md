@@ -9,5 +9,6 @@ body: In Roman law. A legacy to A. B. of any article or articles that A. B. like
   Justinian, however, made the legacy good, and enabled the representative to choose.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

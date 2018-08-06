@@ -6,5 +6,6 @@ body: 1. Present; at once; without delay; not deferred by any Interval of time. 
   this sense, the word, without any very precise signification, denotes that action
   is or must be taken either Instantly or without any considerable loss of time
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

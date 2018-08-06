@@ -8,5 +8,6 @@ body: Lat Such; such men. when, by means of challenges or any other cause, a suf
   on the first panel in order to make up the deficiency. Brown. See State v. McCrystol,
   43 La. Ann. 907, 9 South. 922; Railroad Co. v. Mask, 64 Miss. 738, 2 South. 360
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

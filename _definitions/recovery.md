@@ -8,5 +8,6 @@ body: In its most extensive sense, a recovery is the restoration or vindication 
   which has been taken or withheld from him. This is also called a "true'’ recovery,
   to dis
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

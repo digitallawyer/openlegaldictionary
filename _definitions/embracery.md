@@ -9,5 +9,6 @@ body: In criminal law. This offense consists in the attempt to influence a Jury 
   5 Am. Dec. 143; State v. Brown, 95 N. C. 686; Brown v. Beauchamp, 5 T. B. Mon. (Ey.)
   415, 17 Am. Dec. 8L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

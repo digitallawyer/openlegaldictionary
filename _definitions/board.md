@@ -7,5 +7,6 @@ body: A committee of persons organ-ized under authority of law in order to exer-
   cer-tain functions of a magisterial, representa-tive, or fiduciary character. Thus,
   “board
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

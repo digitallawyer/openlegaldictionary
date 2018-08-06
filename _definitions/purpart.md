@@ -7,5 +7,6 @@ body: A share; a part in a division ; that part of an estate, formerly held In c
   applied to the shares falling separately to coparceners upon a division or partition
   of the estate, and was generally spelled “pur
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: A vessel is “armed” when she is fitted with a full armament for fighti
   to be equipped for warlike purposes, though not anhed. 2 Hurl. & C. 537; Murray
   v. The Charming Betsy, 2 Cranch, 121, 2 L. Ed. 208
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

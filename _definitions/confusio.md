@@ -7,5 +7,6 @@ body: In the clvll law. The inseparable intermixture of property belonging to di
   also used of a melting together of metals or any compound formed by the irrecoverable
   commixture of different substances
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: An estate whereby the creditor, under the custom of London, retained the p
   of all his debtor’s lands until his debts were paid. 1 Greenl. Cruise, Dig. 515.
   See Stat-utk Merchant.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

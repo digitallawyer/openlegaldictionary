@@ -11,5 +11,6 @@ body: The earliest stat-ute or code of Roman law, framed by a corn-mission of te
   and foundation for the whole later development of Roman jurisprudence. They exist
   now only in fragmentary form. See 1 Kent* Comm. 520
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In Spanish law. one of a body, never exceeding twelve, who formed a part o
   in some cltles, however, they were elected by persons of the district, called “capitula
   res.” 12 Pet. 442, note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: A written assurance, or official representation, that some act has or has 
   108 U. S. 336, 2 Sup. Ct. 682, 27 L. Ed. 746; Tl-conic Bank v. Stackpole, 41 Me.
   305.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

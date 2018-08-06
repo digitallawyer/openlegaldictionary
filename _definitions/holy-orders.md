@@ -7,5 +7,6 @@ body: In eccleslastlcal law. The orders of bishops, (Including archbish-ops,) pr
   (in which the pope and arch-bishops were included,) prlest, deacon, sub-deacon,
   psalmist, acolyte, exorcist, reader, ostiarius. 3 Stepb. Comm. 55, and note a
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

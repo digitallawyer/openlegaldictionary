@@ -6,5 +6,6 @@ body: Caused by or consisting in acts of commission, as distinguished from negle
   sufferance, or toleration; as in the phrase “commissive waste,” which is con-trusted
   with “permissive waste.” See waste
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

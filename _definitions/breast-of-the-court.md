@@ -7,5 +7,6 @@ body: A metaphorical expression, signifying the con-science, discretion, or reco
   breast of the judges of the court and in their remem-brance.” Co. Lltt. 260a; 3
   Bl. Comm. 407
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

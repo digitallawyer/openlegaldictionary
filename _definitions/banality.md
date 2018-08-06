@@ -6,5 +6,6 @@ body: In Canadian law. The right by virtue of which a lord subjects his vassals 
   grind at his mill, bake at his oven, etc. Used also of the region within which this
   right applied. Guyot, Repert. Unlv
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

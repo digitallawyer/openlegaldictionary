@@ -8,5 +8,6 @@ body: In English law. The tenth part of the increase, yearly arlslng and re-newi
   inheritance collateral to the estate of the land, and due only to au ecclesiastical
   person by eccleslastlcal law. 1 Crabb, Real Prop. S 133
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: A statement tliut an affiant “firmly believes” the contents of the att
   held and “firmly bound,” are equivalent to an acknowledgment of indebtedness and
   promise to pay. Shattuck v. People, 5 111 477
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

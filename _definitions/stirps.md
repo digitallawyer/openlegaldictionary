@@ -7,5 +7,6 @@ body: Lat A root or stock of descent or title. Taklng property by rlght of repre
   os a prlncipal, which is termed “taking per capita" See Rotmanskey v. Heiss, 86
   Md. 633, 39 AU. 415
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: 1. A model or skeleton of an Instrument to’be used in a judicial proceed
   and methodical order, and capable of heing adapted to the circumstances of the specific
   case
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

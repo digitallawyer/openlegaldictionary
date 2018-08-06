@@ -8,5 +8,6 @@ body: The rectification or rendering nugatory of a defect in the pleadings by th
   State v. Keena, 63 Conn. 329, 28 Atl. 522; Alford v. Baker, 53 Ind. 279; Treanor
   v. Houghton, 103 Gal. 53, 36 Pac. 1081
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

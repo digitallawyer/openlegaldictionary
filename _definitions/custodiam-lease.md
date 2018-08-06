@@ -6,5 +6,6 @@ body: In Engllsh law. A grant from the crowu under the exchequer seal, by which 
   custody of lands, etc., seis-ed in the king's bauds, is demised or couimlt-ted to
   some person as custodee or lessee thereof, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

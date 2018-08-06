@@ -6,5 +6,6 @@ body: L^ Lat. The plaintiff did not find a pledge. A return formerly made by a s
   to a writ requiring him to take security of the plaintiff to prosecute hls- claim.
   Cowell.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

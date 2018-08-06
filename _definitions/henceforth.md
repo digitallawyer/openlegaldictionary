@@ -7,5 +7,6 @@ body: A word of futurity, whlch, as employed in legal documents, stat-utes, and 
   forward, hut excludes all the past Thomson v. American Surety Co., 170 N. Y. 109,
   62 N. E. 1073; opinion of Chief Justice, 7 Pick. (Mass.) 128, note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

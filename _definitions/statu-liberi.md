@@ -7,5 +7,6 @@ body: Lat in Louisiana. Slaves for a time, who had acquired the right of being f
   which had not happened, but who in the mean time remained in a state of slavery.
   Clv. Code La. (Ed. 1838) art. 37
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

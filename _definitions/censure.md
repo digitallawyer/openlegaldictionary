@@ -8,5 +8,6 @@ body: In ecclesiastical law. A spiritual punishment, consisting in withdraw-ing 
   The principal varieties of censures are ad-monition, degradation, deprivation, excom-munlcation,
   penance, sequestration, suspension. Phillim. Ecc. Law, 1367
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

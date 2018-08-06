@@ -11,5 +11,6 @@ body: Unlawful sexual ln-tercourse between two unmarried persons. Further, if on
   2 Mlch. N. P. 209; State v. Shear, 51 wis. 460. 8 N. W. 287; Buchanan v. State,
   55 Ala. 154
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

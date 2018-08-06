@@ -6,5 +6,6 @@ body: The gain or profit of tilled or planted land, raised by cultivating it; an
   the draught, plow, and furniture for carrying on the work of tillage by the baser
   klnd of sokemen or villeins. Bract. 1. 1. c. 9
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

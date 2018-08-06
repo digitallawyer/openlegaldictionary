@@ -7,5 +7,6 @@ body: This Saxon word meant originally cattle, and thence property or money, and
   from which the words “feod,” “feudum,” “fief,” “feu,” and “fee” (all meaning a feudal
   grant of land) have been derived
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

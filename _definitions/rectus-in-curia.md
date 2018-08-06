@@ -6,5 +6,6 @@ body: Lat. Right in court The condition of one who stands at the bar, against wh
   no one objects any offense, when a person outlawed has revers-ed hls outlawry, so
   that he can have the benefit of the law, he is 6ald to be "rectus in curia.” Jacob
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

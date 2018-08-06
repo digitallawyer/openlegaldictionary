@@ -14,5 +14,6 @@ body: In modern constltutlonal law, the name "plebiscite" has been given to a vo
   by whlch a revision of the con-stltutlon must be undertaken when demand-ed by the
   vote of fifty thousand Swiss citl-zens. Maine, Popular Govt 40, 96
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

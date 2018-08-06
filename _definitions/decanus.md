@@ -12,5 +12,6 @@ body: In eoolesiastioal and old European law. An officer having supervision over
   otherwise called a “tithing man,” or “borsholder.” Decanus militaris; a military
   offl-. cer, havlng command of ten soldiers. Spel
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

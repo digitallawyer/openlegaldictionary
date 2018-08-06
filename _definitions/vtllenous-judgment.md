@@ -8,5 +8,6 @@ body: A Judgment which deprived one of his libera lex, whereby he was discredite
   body to prison. It has be-come obsolete. 4 Bl. Comm. 136; 4 Steph. Comm. 230; 4
   Broom & H. Comm. 153. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

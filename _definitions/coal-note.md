@@ -7,5 +7,6 @@ body: A species of promissory note, formerly in use in the port of London, conta
   these were to be protected and noted as inland bills of exchange. Bnt this was re-pealed
   by the statute 47 Geo. III. sess. 2, c. 68, | 28
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

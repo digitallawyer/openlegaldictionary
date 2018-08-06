@@ -8,5 +8,6 @@ body: Blnmable; censurable; In-volving tiie breach of a legal duty or the commis
   of is reprehensible or wrong but uot that it Involves malice or a guilty purpose.
   "Culpa-hle” in fact connotes fault rather than guilt
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

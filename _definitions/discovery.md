@@ -11,5 +11,6 @@ body: In a general sense, the ascertainment of that which was previously unknown
   70 Iowa, 83, 30 N. W. 9; Howton v. Roberts, 49 8. W. 340, 20 Ky. Law Rep. 1331;
   Marbourg v. Mc-Cormick, 23 Kan..43
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

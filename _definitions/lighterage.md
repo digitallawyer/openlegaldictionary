@@ -6,5 +6,6 @@ body: The business of transferring merchandise to and from vessels by means of l
   also tbe compensation or price demanded for such service, west-ern Transp. Co. v.
   Hawley, 1 Daly (N. Y.) 327
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

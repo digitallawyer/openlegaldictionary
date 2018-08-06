@@ -7,5 +7,6 @@ body: The oath ad-ministered to a sovereign at the ceremony of crowning or inves
   kingdom, in which he swears to observe the laws, customs, and privileges of the
   kingdom, and to act and do all things conformably thereto, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

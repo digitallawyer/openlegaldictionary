@@ -9,5 +9,6 @@ body: Proportional or relative value, measure, or degree; the proportion or stan
   to their insurable quallties. In thls sense also we speak of articles as being in
   “first-rate” or “second-rate” condltion
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

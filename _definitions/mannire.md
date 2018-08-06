@@ -6,5 +6,6 @@ body: To cite any person to ap-pear in court and stand in judgment there. It is 
   from bannire; for, though both of them are citations* this is by the adverse party,
   and that is by the judge. Du Cange
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

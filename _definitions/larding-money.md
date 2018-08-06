@@ -8,5 +8,6 @@ body: ln the manor of Bradford, in wilts, the tenants pay to their lord a small 
   for some customary service of carrying salt or meat to the lord’s larder. Mon. Angl.
   t. 1, p. 321
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

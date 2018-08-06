@@ -6,5 +6,6 @@ body: In old English practice. To obtain by request, as a writ or privilege. Bra
   fols. 57, 172b. This appllcatlon of the word seems to be derlved from the clvll
   law. Calvin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

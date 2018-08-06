@@ -10,5 +10,6 @@ body: Thfs term includes all alcoholic beverages made from the Juice of the grap
   A. 645; Com. v. Reyburg, 122 Pa. 299, 16 Atl. 351, 2 L. R. A. 415; Feldman v. Morrison,
   1 111. App. 462; Hinton v. State, 132 Ala. 29, 31 South. 563
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

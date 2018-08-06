@@ -7,5 +7,6 @@ body: This word is nsed in law as contrasted with “express;” i. where the In
   but is gathered by implication or necessary deduction from the circumstances, the
   gen-eral language, or the conduct of the parties
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: The name given by the glossators to the second of the three purts or volum
   added it to the second part, from which enlargement the latter received the name
   “In-Jortiatum” Mackeld. Rom. Law, § 110
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

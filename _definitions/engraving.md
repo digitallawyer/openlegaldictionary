@@ -10,5 +10,6 @@ body: In copyright law. The art of producing on hard material incised or raised 
   v. Keuffel, 140 U. S. 428, 11 Sup. Ct. 731, 35 L. Ed. 470; In re American Bank Note
   Co., 27 Misc. Rep. 572, 58 N. Y. Supp. 276
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

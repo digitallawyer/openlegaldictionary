@@ -8,5 +8,6 @@ body: In Vermont Waters flowing through or lying upon Inclosed or cultivated lan
   or fishing thereon, nnder a prescrib-ed penalty. See State v. Theriault, 70 Vt.
   617, 41 Ati. 1030, 43 L. R. A. 290. 67 Am. St. Rep. 695
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

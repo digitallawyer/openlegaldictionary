@@ -6,5 +6,6 @@ body: Lat. In tbe civll law. By au aggregate or whole; as an entirety. The term 
   the acquisition of an entire estate by one act or fact, as distinguished from the
   acquisition of single or detached things
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

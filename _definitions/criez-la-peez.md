@@ -8,5 +8,6 @@ body: Rehearse the concord, or peace. A phrase used in the ancient proceedings f
   the concord or agreement between the parties, as to tbe lands Intended to be conveyed.
   2 Reeve, Eng. Law, 224, 225
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

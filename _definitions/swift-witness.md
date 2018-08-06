@@ -6,5 +6,6 @@ body: A term colloquially applled to a witness who is unduly zealous or partial 
   the side which calls him, and who betrays his bias by his extreme readl-ness to
   answer questions or volunteer infor-mation
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

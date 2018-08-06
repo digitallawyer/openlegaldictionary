@@ -20,5 +20,6 @@ body: Unsoundness of mind; mad-nees; mental alienation or derangement; a morbid 
   v. Com., 83 Pa. 136; Somers v. Pumphrey, 24 lnd. 245; Frazer v. Frazer, 2 Del. Ch.
   263
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

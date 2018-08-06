@@ -7,5 +7,6 @@ body: In Hindu law. A writ-ten agreement, especially one signifying as-sent, as 
   to the government, the zainlndar, or the farmer, expresses his consent to pay the
   amount assessed upon his land. wils. Ind. Gloss
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

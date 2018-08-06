@@ -8,5 +8,6 @@ body: GE. The capaclty of a vessel for carrylng freight or other, loads, calcu-l
   In America, her carrying capacity estimated from the cubic dimensions of the hold,
   bee Roberts v. Opdyke, 40 N. V. 259
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

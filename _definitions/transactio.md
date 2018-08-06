@@ -7,5 +7,6 @@ body: Lat in the civil lav. The settlement of a suit or matter in con-troversy, 
   Hallifax, Clvll Law, b. 3, c. 8, no. 14. An agreement by whlch a sult, elther pend-ing
   or abont to be commenced, was forborne or discontinued on certain terms. Calvin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

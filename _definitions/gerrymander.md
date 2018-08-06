@@ -11,5 +11,6 @@ body: A name given to the process of dividing a stnte or other territory into th
   district and those of a different religion or nationality in another district. State
   v. whitford, 54 wis. 150, 11 N. W. 424
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

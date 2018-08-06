@@ -7,5 +7,6 @@ body: Lat Now for then. A phrase applied to acts allowed to be done after the ti
   as if regularly done. Perkins v. Hay-ward, 132 Ind. 95, 31 N. E. 670; Secou v. Leroux,
   1 N. M. 388
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

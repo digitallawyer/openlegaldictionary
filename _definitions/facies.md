@@ -8,5 +8,6 @@ body: Lat The face or countenance; the exterlor appearance or view; hence, con-t
   facie case,” we mean one whlch, on lts own showlng, on a first examlnatlon, or wlthout
   investlgatlng any alleged defenses, is apparently good and maintalnable
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

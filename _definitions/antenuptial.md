@@ -6,5 +6,6 @@ body: Made or done before a marriage. Antenuptial settlements are settlements of
   upon the wife, or up-on her and her children, made before and in contemplation of
   the marriage
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

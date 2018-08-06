@@ -5,5 +5,6 @@ permalink: "/definitions/lecturer.html"
 body: An Instructor; a reader of lectures; also a clergyman who assists rect-ore,
   etc., in preaching, etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -11,5 +11,6 @@ body: Any point, space, or division of time. “The word ‘period’ has its et
   commences, or it would he an unmeaning and useless word in Its connection in the
   statute." Sampson v. Peaslee, 20 How. 579, 15 L. Ed. 1022
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

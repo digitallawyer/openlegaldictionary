@@ -7,5 +7,6 @@ body: In transit; on the way or passage; while passing from one person or place 
   etc.. R. Co.. 89 Tex. 419, 37 S. W. 856. 59 Am. St. Rep. 65. On the voyage. 1 C.
   Rob. Adm. 338
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

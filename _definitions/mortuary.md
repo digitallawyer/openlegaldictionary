@@ -7,5 +7,6 @@ body: In ecclesiastical law. ▲ burial-place. A kind of ecclesiastical heriot, 
   by and due to the<ninister in many parishes, on the death of his parishioners, whether
   buried in the church-yard or not 2 Bl. Comm. 425. Ayrton v. Abbott, 14 Q. B. 19
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: A dealer in drugs; one whose business is to sell drugs and medl-cines. In 
   Rep. 110; Hainline v. Com., 13 Bush (Ky.) 352; State v. Donaldson, 41 Minn. 74,
   42 N. W. 781
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

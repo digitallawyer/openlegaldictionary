@@ -6,5 +6,6 @@ body: 'Lat in Engllsh practice. A writ of association of justices where-by, lf a
   in commission cannot meet at the day assigned, It is allowed that two or more may
   proceed with the business. Cowell: Fitzh. Nat. Brev. Ill C'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

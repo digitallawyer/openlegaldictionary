@@ -10,5 +10,6 @@ body: In mining law. The right of the owner of a mining claim duly located on tb
   downwards of the side lines of hls location. See Rev. Stat U. S. | 2322 (U. 8. Comp.
   St 1901, p. 1425
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

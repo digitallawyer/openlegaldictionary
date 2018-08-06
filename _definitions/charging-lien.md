@@ -9,5 +9,6 @@ body: An attorney's lien, for hls proper compensation, on the fund or judgment w
   601, 46 N. E. 587; In re wilson (D. C.) 12 Fed. 239; Sewing Ma.ch. Co. v. Boutelle,
   56 Vt 576, 48 Am. Rep. 762
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

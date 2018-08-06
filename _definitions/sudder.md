@@ -6,5 +6,6 @@ body: In Hindu law. The best; the fore-court of a house; the chief seat of gov-e
   contradistinguished from “mofus-sil" or interior of the country; the presidency.
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

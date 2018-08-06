@@ -6,5 +6,6 @@ body: A light-house, or sea-mark, formerly used to alarm the country, in case of
   approach of an enemy, but now used for tlie guidance of ships at sea, by night,
   as well as hy day
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

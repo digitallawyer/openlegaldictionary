@@ -8,5 +8,6 @@ body: out of the limits of any port or harbor on the sea-coast The Harriet, 1 St
   Insurance Co., 7 Hill (N. Y.) 325; Bowen v. Insurance Co., 20 Pick. (Mass.) 276,
   32 Am. Dec. 213; U. S. v. Symonds, 120 U
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

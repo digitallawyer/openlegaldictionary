@@ -6,5 +6,6 @@ body: Lat in the civil law. A great-great-grandfather's sister, (abavi soror.) I
   3, 6^ 6; Dig. 38, 10, 3. Called amita maxima. Id. 38, 10, 10, 17. Called, in Brac*
   ton, abamita magna. Bract fol. 68b
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

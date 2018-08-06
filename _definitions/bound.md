@@ -7,5 +7,6 @@ body: As an adjective, denotes the condition of being constralned by the obligat
   that the vessel spoken of is Intended or designed to make a voyage to the place
   named
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In English law. A conrt which, although not one of record, is incident to 
   of determining actions of a personal nature, where the debt or damage was under
   forty shillings, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

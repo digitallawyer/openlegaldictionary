@@ -6,5 +6,6 @@ body: In old Eng-lish law. A comparison of marks or seals. A mode of testing the
   of a seal, by comparing it with another known to be genuine. Adams. See Bract fol.
   389b
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

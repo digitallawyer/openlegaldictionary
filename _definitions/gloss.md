@@ -7,5 +7,6 @@ body: An lnterpretation, consisting of one or more words, interlinear or margina
   pur-poses of elucidation or amplification. Par-ticularly applled to the comments
   on the Corpus Juris
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In Roman law. The rlght of Latium or of the Latins. The principal privlleg
   subject to the edicts of the prtetor, and that they had occasional access to the
   free-dom of Rome, and a participation in her sacred rites. Butl. Hor. Jur. 41
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

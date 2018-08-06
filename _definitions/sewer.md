@@ -7,5 +7,6 @@ body: A fresh-water trench or little, river, encompassed with banks on both side
   mnde for the purpose of carrying water into the sea, (or a river or pond.) Crabb,
   Real Prop, | 113
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A building in which goods and merchandise are sold at retail, or where mec
   641, 3 S. E. 927; State v. o'Connell, 26 Ind. 267; State v. Sprague, 149 Mo. 409,
   50 S. W. 901
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In Frenob law. An expression used to designate those ordinances which conc
   the most important objects of the civil or ecclesiastical ad-ministration. Merl.
   RApert
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

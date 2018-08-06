@@ -12,5 +12,6 @@ body: A reckless or malicious and intentional disregard of the property, rights,
   488; Everett v. Richmond & D. R. Co., 121 N. C. 519, 27 S. E. 991; Birmingham Ry.
   & El. Co
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

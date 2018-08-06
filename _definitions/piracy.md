@@ -10,5 +10,6 @@ body: In criminal law. A robbery or forcible depredation on the high seas, witho
   5 L. Ed. 57; U. S. v. The Ambrose Light (D. C.) 25 Fed. 408; Davison v. Seal-skins,
   7 Fed. Css. 192
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

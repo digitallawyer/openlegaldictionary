@@ -7,5 +7,6 @@ body: An old term for the products which the ground or land yields; as the hay o
   etc. The word has been anciently applied to the land itself. Jacob; Fosgate v. Hydraulic
   Co., 9 Barb. (N. Y.) 293
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

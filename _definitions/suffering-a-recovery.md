@@ -9,5 +9,6 @@ body: A recovery was effected by the party wishing te couvey the land suffering 
   or permitting the de-mandant so to recover a judgment against him, was thence technically
   said to “suffer a recovery." Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

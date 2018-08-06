@@ -8,5 +8,6 @@ body: An estate in lands or tenements granted to two or more persons, to hold in
   (not being a title by descent,) and at the same period; and without any limitation
   by words importing that they are to take in distinct shares
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

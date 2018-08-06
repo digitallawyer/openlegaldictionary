@@ -6,5 +6,6 @@ body: A court of special jurisdiction, held before the chancellor of the duchy o
   his deputy, concerning ali matters of equity re-lating to lands holden of the king
   in right of the duchy of Lancaster. 3 BL Comm. 78
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

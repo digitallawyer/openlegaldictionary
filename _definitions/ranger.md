@@ -9,5 +9,6 @@ body: 'In forest law. A sworn of fleer of the forest, whose office chiefly con-s
   to present all trespassers of the forest at the next courts holden for the forest.
   Cowell'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

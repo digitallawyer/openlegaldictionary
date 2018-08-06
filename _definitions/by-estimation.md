@@ -8,5 +8,6 @@ body: In conveyancing. A term used to indicate that the quantity of land as stat
   47 Md. 453, 28 Am. Rep. 481; Hays v. Hays, 126 Ind. 92, 25 N. E. GOO, 11 L. R. A.
   376
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

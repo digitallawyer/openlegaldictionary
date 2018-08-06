@@ -7,5 +7,6 @@ body: Fixing “this day six months," or “three months,” for the next stage 
   bllls of whlch they disapprove. A bill rejected in this manner cannot be reintroduced
   in the same session, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

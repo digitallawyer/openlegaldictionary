@@ -11,5 +11,6 @@ body: In maritime law. The sum whlch is fixed by the contract of car-rlage, or w
   85 Am. Dec. 255; Cross v. Beard, 26 N. Y. S5; The J. E. owen (D. C.) 54 Fed. 185;
   Falkeuburg v. Clark, 11 R. I. 283
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

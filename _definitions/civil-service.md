@@ -7,5 +7,6 @@ body: This term properly lncludes all functions under the government, except mil
   of state. See Hope v. New orleans, 106 Le. 345, 30 South. 842; People v. Cram, 29
   Misc. Rep. 359, 61 N. I. Supp. 858
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

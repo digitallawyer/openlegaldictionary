@@ -9,5 +9,6 @@ body: The word “elected,” in its ordinary signification, carries with it the
   130 Ind. 120, 29 N. EL 773, 14 L. R. A. 858, 30 Am. St Rep. 208; wickersham v. Brittan,
   93 CaL 34, 28 Pac. 792, 15 L. R. A. 106; State v. Irwin, 5 Nev. 111
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

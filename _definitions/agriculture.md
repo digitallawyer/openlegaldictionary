@@ -8,5 +8,6 @@ body: RE. The science or art of cultivating the ground, especially in fields or 
   And see Bin-zel v. Grogan, 67 W18. 147, 29 N. W. 895; Simons v. Lovell, 7 Heisk.
   (Tenn.) 510; Springer v. Lewis, 22 Pa. 191
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

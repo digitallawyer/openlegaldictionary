@@ -12,5 +12,6 @@ body: A storm of great violence or intensity, of which the particular characteri
   App. 22, 35 N. B. 397; Tyson v. Union Mut Fire A Storm Co., 2 Montg. Co. Law Rep’r
   (Pa.) 17
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

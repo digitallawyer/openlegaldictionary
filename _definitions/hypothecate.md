@@ -8,5 +8,6 @@ body: To pledge a thing without delivering the possession of it to the pledgee. 
   3 Kent Comm. 171. See Spect v. Spect, 88 Cal. 437, 26 Pac. 203, 13 L. R. A. 137,
   22 Am. St. Rep. 314; ogden v. Lathrop, 31 N. ¥. Super. Ct. 651
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

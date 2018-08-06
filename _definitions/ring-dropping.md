@@ -10,5 +10,6 @@ body: 'A trick variously practiced, one mode is as follows, the circumstances be
   and money, is beckoned out of the room by one of the confederates, while the others
   take away his watch, etc. This is a larceny'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

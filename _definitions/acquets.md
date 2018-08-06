@@ -6,5 +6,6 @@ body: In the civil law. Property which has been acquired by purchase^ gift, or o
   than by succession. Immovable property which has been acquired otherwise than by
   succession. Merl. Repert
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

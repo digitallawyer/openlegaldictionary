@@ -7,5 +7,6 @@ body: "“Municipal” signifies that whlch belongs to a corporation or a city. 
   is governed. It may also mean local, par-ticular, Independent Horton ▼. Mobile School
   Com’rs, 43 Ala. 598"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

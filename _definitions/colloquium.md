@@ -11,5 +11,6 @@ body: one of the usual parts of the declaration in an action for slander. It is 
   Vanderlip v. Roe. 23 Pa. 82; McClaughry v. wetmore, 6 Johns. (N. YJ 82, 5 Am. Dec.
   194
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

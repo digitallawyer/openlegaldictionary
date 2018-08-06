@@ -7,5 +7,6 @@ body: An abbreviation of the ex-pression "consolidated annuities," and used in m
   debt. Also, a name given to certain issues of bonds of the state of South Caro-lina.
   whaley v. Gaillard, 21 S. C. 568
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

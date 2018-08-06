@@ -8,5 +8,6 @@ body: 'In the civil law. An act which has been executed before a notary or other
   which is certified as being a copy of a public register. Nov. 73, c. 2; Cod. 7,
   52,: 6, 4, 21; Dig. 22, 4'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

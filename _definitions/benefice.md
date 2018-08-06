@@ -9,5 +9,6 @@ body: In ecclesiastical law. In its technical sense, this term includes ec-clesi
   vicarages, perpetual curacies, district churches, and endowed chapelries. 3 Steph.
   Comm. 77
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

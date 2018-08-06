@@ -6,5 +6,6 @@ body: In Louisiana. Seals are placed upon the effects of a deceased person, in c
   cases, by a public officer, as a method of taking official custody of the succession.
   See SEALING
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

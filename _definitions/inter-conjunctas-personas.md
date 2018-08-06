@@ -10,5 +10,6 @@ body: Between conjunct persons. By the act 1621, c. 18, all conveyances or alien
   on account of their relation-ship ; but this, as a ground of exclusion, has been
   abolished. Tray. Lat. Max.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

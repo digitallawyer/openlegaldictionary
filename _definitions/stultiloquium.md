@@ -6,5 +6,6 @@ body: Lat in old Englisb law. Vicious pleading, for which a flne was lmposed by 
   John, supposed to be the origin of the fines for beau-pleader, Crabb, Eng. Law,
   135
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

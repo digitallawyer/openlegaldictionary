@@ -7,5 +7,6 @@ body: Suitable to be patented; entitled by law to be protected by the issu-ance 
   Fed. 166; Boyd v. Cherry (G. C.) 50 Fed. 282; Providence Rubber Co. v. Goodyear,
   9 wall. 796, 19 L. Ed. 566
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In the civil law. The act by whlch, in consequence of an agreement, the pa
   bound declares that he will not he bound beyond a certain time, wolff, Inst Nat
   S 752
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

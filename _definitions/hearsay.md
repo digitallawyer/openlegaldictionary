@@ -8,5 +8,6 @@ body: A term applied to that spe-cies of testimony given by a witness who relate
   v. Morell, 157 Ind. 179, CO N. E. 1092; Stockton v. williams, 1 Doug. (Mich.) 570;
   People v. Kraft, 91 Hun, 474, 36 N. Y. Supp. 1034
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

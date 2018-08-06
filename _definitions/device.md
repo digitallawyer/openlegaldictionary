@@ -12,5 +12,6 @@ body: CE. An Invention or contrivance; any result of; design; as in the phruse �
   with “ahy device.” Bax-ter v. Ellis, 111 N. C. 124, 15 S. E. 938, 17 L. R. Ai 382;
   owens v. State, 64 Tex. 509; Steele v. Calhoun, 61 Miss. 556
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

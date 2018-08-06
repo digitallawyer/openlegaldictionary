@@ -6,5 +6,6 @@ body: An opening made in the wall of a house to admit light and air, and to furn
   a view or prospect The use of this word ih law is chiefly in connection with the
   doctrine of ancient lights and other rights of adjacent owners
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: NA. Lat No goods. The name of the return made by the sheriff to a writ of 
   W. 687, 85 Am. SL Rep. 578; Langford v. Few, 146 Mo. 142, 47 S. W. 927, 60 Am. St
   Rep. 606
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

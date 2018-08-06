@@ -9,5 +9,6 @@ body: An institution supposed to have been introduced into England hy order of w
   to disperse. The word is probably derived from the French couxre feu, to cover the
   fire
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

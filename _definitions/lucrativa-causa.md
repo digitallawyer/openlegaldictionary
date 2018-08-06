@@ -9,5 +9,6 @@ body: Lat. In Roman law. A consideration which is voluntary; that is to say, a g
   thing was bequeath-ed to a person by two different testators, he could not have
   the thing (or its value) twice over. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

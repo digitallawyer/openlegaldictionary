@@ -2,8 +2,9 @@
 title: A.R.
 letter: A
 permalink: "/definitions/ar.html"
-body: Anno Regni, the year of the reign; as, A. R. V. R. 22, (Anno Regni Victoria,
-  Regina vicesmo secundo) in the twenty-second year of the reign or Queen Victoria.
+body: Anno regni, the year of the reign; as, A. R. v. R. 22, (Anno Regni Victoriæ
+  Reginæ vicesimo secundo,) in the twenty-second year of the reign of Queen Victoria.
 published_at: '2018-07-08'
+source: Black's Law Dictionary
 layout: post
 ---

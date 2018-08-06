@@ -7,5 +7,6 @@ body: A writ which lies for a widow to whom uo dower has been assigned. 3 Bl. Co
   taken its place; bnt it remains in force in the United States. Dower unde nihil
   habet (which title see
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

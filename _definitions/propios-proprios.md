@@ -8,5 +8,6 @@ body: In Spanish law. Certain portions of ground laid off and reserved when a to
   way, under the direction of the munic-ipality, for the advancement of the revenues
   or the prosperity of the place. 12 Fet. 442, note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

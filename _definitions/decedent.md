@@ -8,5 +8,6 @@ body: A deceased person; one who has lately died. Etymologically tbe word denote
   estate or the execution of his will. Iu re Zeph’s Estate, 50 Hun, 523, 3 N. Y. Supp.
   460
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

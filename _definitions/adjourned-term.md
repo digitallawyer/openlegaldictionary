@@ -9,5 +9,6 @@ body: In practice. A continuance, by adjournment, of a regular term. Harris v. G
   the court over the business which has been done, and the entries made at the regular
   term, continues. Van Dyke v. State, 22 Ala. 57
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

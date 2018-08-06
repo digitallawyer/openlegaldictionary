@@ -7,5 +7,6 @@ body: In the middle temple, those persons were so called who were appointed to d
   who read prayers and assist in the performance of divine service in the chapels
   of the several inns of court are also so termed. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

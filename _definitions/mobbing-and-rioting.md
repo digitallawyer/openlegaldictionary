@@ -11,5 +11,6 @@ body: In Scotch law. A general term including all those convocations of the lieg
   a number of persons, and that of “rioting” to the outrageous behavior of a single
   individual. Alls. Crim. Law, c. 23, p. 509
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

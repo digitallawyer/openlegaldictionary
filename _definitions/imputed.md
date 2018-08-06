@@ -8,5 +8,6 @@ body: As used in legal phrases, thls word means attributed vicariously; that is,
   it, but because another person is, over whom he has control or for whose acts or
   knowledge he is re-sponsible
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

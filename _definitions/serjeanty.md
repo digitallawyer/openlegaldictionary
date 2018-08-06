@@ -11,5 +11,6 @@ body: A species of tenure by knight service, which was due to the king only, and
   but consisted in rendering bim annually some small implement of war, as a bow, sword,
   arrow, lance, or the like. Cowell; Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

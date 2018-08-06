@@ -6,5 +6,6 @@ body: In the mean time. An oflicer ad interim is one appointed to fill a tempora
   vacancy, or to discharge the du-tles of the office during the absence or temporary
   incapacity of its regular incumbent
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

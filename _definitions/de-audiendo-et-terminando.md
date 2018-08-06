@@ -7,5 +7,6 @@ body: For hearing and determining; to hear and determine. The name of a writ, or
   trespass, riotous breach of the peace, etc. Reg. orig. 323, et acq.; Fitzh. Nat.
   Brev. 110 B. See oyeb and Tekminkk.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

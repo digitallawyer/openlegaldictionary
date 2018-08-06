@@ -10,5 +10,6 @@ body: In Roman law. The rule which is commonly expressed in the maxim, Quod ab i
   law; e. g., a marrled woman’s will (be-ing void when made) is not made valid mere-ly
   because she lives to become a widow. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

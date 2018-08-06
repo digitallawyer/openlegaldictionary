@@ -11,5 +11,6 @@ body: In mining law, the side lines of a mining claim are those which measure th
   Ed. 1140; Del Monte Min. Co. v. Last Chance Min. Co., 171 U. S. 55, 18 Sup. Ct.
   895, 43 L. Ed. 72
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

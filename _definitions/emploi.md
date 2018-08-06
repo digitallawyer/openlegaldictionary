@@ -7,5 +7,6 @@ body: In French law. Equitable conversion, when property covered by the rigime d
   It is the duty of the purchaser to see that the prlce is so reinvested. Arg. Fr.
   Merc. Law, 557
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

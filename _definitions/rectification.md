@@ -10,5 +10,6 @@ body: Reotifloation of instrument. In English law. To rectify is to correct or d
   an action may be brought in the chancery division of the high court to have it rectified.
   Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

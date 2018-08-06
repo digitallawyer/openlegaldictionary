@@ -10,5 +10,6 @@ body: 'A meeting or assembly of ecclesiastical persons concerning religion; beln
   (4) a diocesan syn-od, of those of one diocese. See Com. v. Green, 4 whart (Pa.)
   560; Groesbeeck ▼. Dunscomh, 41 How. Prac. (N. Y.) 344'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

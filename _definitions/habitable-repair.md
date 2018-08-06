@@ -7,5 +7,6 @@ body: A covenant by a lessee to “pat the premlses into habitable repair” bin
   with reasonable comfort, for tbe purposes for which they are taken. Miller v. McCardell,
   19 R. I. 304, 33 Ati. 445, 30 L. R. A. 682
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

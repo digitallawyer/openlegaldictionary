@@ -9,5 +9,6 @@ body: A declaration, verbal or written, made hy one person to another for a good
   v. Clark, 1 Denio (N. Y.) 228; Foute v. Bacon, 2 Cush. (Miss.) 164; U. S. v. Bal-tic
   Mills Co., 124 Fed. 41, 59 C. C. A. 558
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

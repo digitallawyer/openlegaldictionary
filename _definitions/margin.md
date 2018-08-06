@@ -10,5 +10,6 @@ body: 1. The edge or border; the edge of a body of water where it meets the land
   v. Vree-land, 44 N. J. Eq. 268, 14 Atl. 116; Lem-beck v. Andrews, 47 ohio St. 336,
   24 N. E. 686, 8 L. R. A. 578
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: In the practice of the English chancery division, where there are several 
   of each of them attending by separate solicitors. This is termed “classifying the
   Interests of
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A writ that lay where a man had a day in any action to appear in proper pe
   not record him to be In default for his not appearing. Fitzh. Nat Brev. 17> A; Termes
   de la Ley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

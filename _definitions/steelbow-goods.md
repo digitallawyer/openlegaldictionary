@@ -7,5 +7,6 @@ body: In Scotch law. Corns, cattle, straw, and implements of hus-bandry delivere
   farm; in consideration of which he becomes bound to return articles equal in quantity
   and quality, at the expiry of the lease. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

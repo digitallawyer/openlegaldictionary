@@ -9,5 +9,6 @@ body: The art or process of discovering and expounding the intended significatio
   Pratt, 22 Mont 262, 56 Pac. 279; Tallman v. Tallman, 3 Mlsc. Rep. 465, 23 N. Y.
   Supp. 734
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

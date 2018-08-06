@@ -6,5 +6,6 @@ body: In a legislative body, the “committee on ways and means” is a committe
   to Inquire into and consider the methods and sources for raising revenue, and to
   propose means for providing the funds needed by the government
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

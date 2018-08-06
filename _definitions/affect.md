@@ -7,5 +7,6 @@ body: To act upon; Influence; change; enlarge or abridge. This word is ofteu use
   U. S. 84, 23 L. Ed. 807; Tyler v. wells, 2 Mo. App. 538; Holland v. Dickerson, 41
   Iowa, 373; United States v. ortega, 11 wheat. 467, 6 L. Ed. 521
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

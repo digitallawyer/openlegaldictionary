@@ -7,5 +7,6 @@ body: A widow who is endowed, or who has a jointure in lieu of dower. In England
   noblemen, to distinguish them from the wives of the heirs, who have right to bear
   the title
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

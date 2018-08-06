@@ -4,5 +4,6 @@ letter: S
 permalink: "/definitions/singular.html"
 body: Each; as in the expression “all and singular.” Also, individual
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

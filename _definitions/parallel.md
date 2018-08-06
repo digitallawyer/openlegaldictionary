@@ -9,5 +9,6 @@ body: For two lines of street railway to be “parallel,” within the meaning o
   v. Jarvis, 92 Fed. 735, 34 C. C. A. 639; Louisville & N. R. Co. v. Ken-tucky, 161
   U. 8. 677, 16 Sup. Ct 714, 40 L. Ed. 849
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

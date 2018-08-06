@@ -13,5 +13,6 @@ body: The power to regulate commerce, vested in congress, is the power to preser
   L. Ed. 347; Leisy v. Hardin, 135 U. S. 100, 10 Sup. Ct 681, 34 L. Ed. 128; Kavanaugh
   v. Southern R. Co., 120 Ga. 62, 47 S. E. 526
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

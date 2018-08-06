@@ -11,5 +11,6 @@ body: In French law. A written report, whlch is signed, setting forth a statemen
   of misdemeanors or other criminal acts, are also called by this name. Arg. Fr. Merc.
   Law, 570
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

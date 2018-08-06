@@ -8,5 +8,6 @@ body: Lat often; frequently, when an original and alias writ have been issued an
   we have often commanded you,” (“stout plurtos pracepimus") after the usual com-mencement,
   “we command you.” 8 Bl. Comm. 283; Archb. Pr. 585.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

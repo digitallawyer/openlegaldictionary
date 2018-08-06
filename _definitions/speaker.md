@@ -7,5 +7,6 @@ body: This is the official deslgna-tion of the president or chairman of certain 
   States, of one or both branches of several of the state legislatures, and of the
   two houses of the British parliament
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

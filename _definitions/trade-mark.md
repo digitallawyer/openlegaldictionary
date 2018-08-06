@@ -10,5 +10,6 @@ body: A distinctive mark, mot-to, device, or emblem, which a manufacturer stamps
   W. 9, 29 L.R. A. 200, 49 Am. St. Rep. 569; Royal Baking Powder Co. v. Raymond (O.
   C.) 7b Fed. . 380; Hegeman A Co. v. Hegeman, 8 Daly (N. Y.) L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: "(To whom before divorce.) A writ for' a woman di-vorced from her hnsband 
   from him to whom her husband alienated them during the marriage, when she could
   not gainsay It. Reg. orig. 233"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: An external pledge or assevera-tlon, made in verification of statements ma
   v. welton, 7 Conn. 70; Clinton v. State, 33 ohio St. 32; Brock v. Milligan, 10 ohio,
   123; Block-er v. Burness, 2 Ala. 354
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

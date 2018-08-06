@@ -7,5 +7,6 @@ body: In Pennsylvanla practice. This is tbe name of a plea to the action of cove
   in evidence which he might have pleaded, wlth the addltlon of the words “absque
   hoc” it amounts to a de
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

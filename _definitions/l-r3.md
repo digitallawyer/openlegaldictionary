@@ -11,5 +11,6 @@ body: trove, who were the finders, and where it is, and whether any one be suspe
   60 L. R. A. 620, 95 Am. St Rep. 752; Powell v. wilRon, 16 Tex. 59; Lancas-ter County
   v. Holyoke, 37 Neb. 328, 55 N. W. 950, 21 L. R. A. 394
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

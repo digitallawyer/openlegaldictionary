@@ -7,5 +7,6 @@ body: Lat To hold; to be hold-en. The name of that formal part of a deed whlch i
   by which the estate granted was to be held; bnt, since all freehold tenures have
   been converted lnto socage, the tenendum is
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

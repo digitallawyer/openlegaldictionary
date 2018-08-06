@@ -6,5 +6,6 @@ body: A right in the inhabitants of a parish within a manor, in England, to lop 
   fuel, at certain periods of the year, the branches of trees growing upon the waste
   lands of the manor. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

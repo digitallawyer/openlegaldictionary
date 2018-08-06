@@ -7,5 +7,6 @@ body: Is sometimes figuratively used to deuote the mere words or letter of an in
   Inner substauce or essential meaning. “If the bark makes for them, the pith makes
   for us.” Bacon
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: In Engllsh practice. A judicial writ touching a plea of . lands or tenemen
   or vlew granted, summoning the tenant to answer the default only. Termes de la Ley;
   3 Steph. Comm. 606, note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A method of anthropometry, used chiefly for the identifi-cation of crimina
   and in relation to each oth-er, the facial, cranial, and other angles, aud of any
   eccentricities or abnormalities no-ticed in the individual
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

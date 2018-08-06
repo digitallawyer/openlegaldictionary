@@ -11,5 +11,6 @@ body: The name of an English court of record held once in the year, and’ not o
   though in some manors a court-leet is still periodically held for the transaction
   of the administrative business of the manor. Mozley & whitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

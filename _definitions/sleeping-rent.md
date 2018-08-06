@@ -8,5 +8,6 @@ body: In English iaw. An expression frequently used in coal-mine leases and agre
   the mine should not be worked at all, but should be sleeping or dead, whence the
   name. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

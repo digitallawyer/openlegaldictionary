@@ -7,5 +7,6 @@ body: The edge or margin of a country bounding on the sea. It is held that the t
   rising above the surface of the water, al-though their composition may not be suffl-clently
   firm and stable to admit of their be
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

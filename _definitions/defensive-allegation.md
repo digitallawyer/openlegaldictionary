@@ -8,5 +8,6 @@ body: In Eng-llsh ecclesiastical law. A species of plead-ing, where the defendan
   oath, upon which he mny proceed to proofs as well as his antagonist. 3 Bl. Comm.
   100; 3 Steph. Comm. 720
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

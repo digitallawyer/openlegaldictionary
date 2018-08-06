@@ -8,5 +8,6 @@ body: Lat. In conveyancing. Rendering; yielding. The technlcal name of that clau
   shillings, or a pepper-corn,” etc. That clause in a lease in which a rent is reserved
   to the lessor, and which commences with the word "yielding” 2 Bl. Comm. 299
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

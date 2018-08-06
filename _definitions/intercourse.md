@@ -7,5 +7,6 @@ body: Communlcatlon; literally, a running or passlng between persons or places; 
   qualifying word, does not import sexual connection. People v. Howard, 143 Cal. 316,
   76 Pac. 1116
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

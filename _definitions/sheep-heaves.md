@@ -9,5 +9,6 @@ body: Small plots of past-ure, in England, often in the middle of the waste of a
   they are sometimes classed with rights of common, but erroneously, the right being
   an exclusive right of pasture. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

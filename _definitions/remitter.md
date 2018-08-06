@@ -12,5 +12,6 @@ body: The relation back of a later defective title to an earlier valid title. Re
   estate shall be utterly defeated and annulled by the instantaneous act of law, without
   his participation or consent. 3 BL Comm. 19
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

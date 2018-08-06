@@ -12,5 +12,6 @@ body: An Indemnity is a col-lateral contract or assurance, by which one person e
   So an Indemnifying bond is glven to a sheriff who fears to proceed under an execution
   where the property is claimed by a stranger
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In ancient Greek law. A lawyer or chief judge of the Areopagus in capita*!
   that city dedicated to Mars, where the court was held in which those judges were
   wont to sit. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

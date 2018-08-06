@@ -7,5 +7,6 @@ body: Primary evidence, as distinguished from secondary; original, as distinguis
   case is susceptible. A written in-struroent is Itself always regarded as the primary
   or best possible evidence of its ex
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

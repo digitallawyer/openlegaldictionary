@@ -9,5 +9,6 @@ body: In English ecclesiastical law. The right of presentation to a church or ec
   "patron” (patronus) of the church, and was formerly termed “adcoca-tus” the advocate
   or defender, or in English, “advowee." Id.; 1 Crnbb, Real Prop, p. 129, § 117
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

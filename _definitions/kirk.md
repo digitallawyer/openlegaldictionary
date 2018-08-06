@@ -7,5 +7,6 @@ body: In Scotch law. . A church; the church; the establlshed church of Scotland.
   in Scotland.—Kirk-session. A parochial church court in Scotland, consisting of the
   ministers and eiders of each parish
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

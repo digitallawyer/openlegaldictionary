@@ -11,5 +11,6 @@ body: In construing a policy of life insurance, it is generally true that, befor
   88 Tex. 333, 31 S. W. 501, 28 L R. A. 765, 53 Am. St. Rep. 757; Delaney v. Modern
   Acc. Club, 121 lowa, 528, 97 N. W. 91, 63 L. R. A. 603
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

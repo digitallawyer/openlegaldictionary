@@ -9,5 +9,6 @@ body: In Amer-iean law. A judicial officer of inferior rank holding a court not 
   of offenders. See Weuzler v. Peo-ple, 58 N. Y. 530; Com. v. Frank. 21 Pa. Co. CL
   R. 120; weikel v. Cate, 58 Md. 110
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

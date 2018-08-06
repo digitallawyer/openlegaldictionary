@@ -9,5 +9,6 @@ body: A custom among commission merchants and brokers, (not unlike the clearing-
   30 Fed. Cas. 38; Pardridge v. Cut-Jer, 68 111. App. 573; Samuels v. oilver, 130
   111. 73, 22 N. E. 499
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

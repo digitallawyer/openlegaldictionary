@@ -8,5 +8,6 @@ body: The name of a Judicial of-ficer in Spain, and in those countries which hav
   in England and most of tbe United States. Castillero v. U. S., 2 Black, 17, 194,
   17 L. Ed. 360
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

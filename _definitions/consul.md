@@ -8,5 +8,6 @@ body: In Roman law. During the republic, the name “consul" was given to the ch
   is supposed to have been derived from consulo, to consult, because these ofilcers
   cou-sulted with the senate on administrative measures
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

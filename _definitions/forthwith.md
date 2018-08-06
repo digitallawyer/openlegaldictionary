@@ -10,5 +10,6 @@ body: As soon as, by reason-able exertion, confined to the object, a thing may b
   44 L. Ed. 423.; Faivre v. Manderscheld, 117 Iowa, 724, 90 N. W. 76; Martin v. Pifer,
   96 Ind. 248
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

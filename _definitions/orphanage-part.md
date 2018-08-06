@@ -11,5 +11,6 @@ body: That portion of an intestate's effects which his children were entitled to
   quarto of Roman law. (Inst. 2. 18.) This custom of London was abolished by St. 19
   A 20 Vlct c. 94. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

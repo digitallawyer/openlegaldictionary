@@ -8,5 +8,6 @@ body: one employed in conducting a coach, carriage, wagon, or other vehicle, wit
   L. R. A. 615; Gen. St Conn. 1902, f 2038; Isaacs v. Rail-road Co., 47 N. Y. 122,
   7 Am. Rep. 418
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

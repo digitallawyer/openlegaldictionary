@@ -13,5 +13,6 @@ body: A fund to be divided. The share allotted to each of several iarsons en-tit
   449; Cary v. Savings Union, 22 wall. 38, 22 L. Ed. 779 ; In re Ft. wayne Electric
   Corp. (D. C.) 94 Fed. 109; In re Fielding (D. C.) 96 Fed. 800
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

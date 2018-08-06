@@ -7,5 +7,6 @@ body: Ability to pay; present ability to pay; ability to pay one’s debts out o
   18 Fed. 130; Larkin v. Hap-good, 56 VL 601; Sterrett v. Third Nat Bank, 46 Hun (N.
   Y.) 26; Reid v. Lloyd, 52 Mo. App. 282
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

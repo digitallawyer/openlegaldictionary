@@ -8,5 +8,6 @@ body: In the civil and common law. A personal action. The ordi-nary term for thi
   however, uses it freely, and hence the personal action of the common law. Bract
   fols. 102a, 159b. See Personal Ao-tion
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

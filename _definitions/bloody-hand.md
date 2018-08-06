@@ -7,5 +7,6 @@ body: In forest law. The having the hands or other parts bloody, whlch, in a per
   evidence of his having killed deer, although he was not found in the act of chasing
   or hunting. Manwood
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

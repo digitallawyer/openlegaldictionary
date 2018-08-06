@@ -9,5 +9,6 @@ body: Eminent domain is the right of the people or government to take private pr
   Co., 142 Pa. 580, 21 AU. 989; Todd v. Austin, 34 Conn. 88; Kohl v. U. S., 91 U.
   S. 371, 23 L. Ed. 449
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

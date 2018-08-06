@@ -8,5 +8,6 @@ body: To agree; accord; consent In the practice of appellate courts, a “con-cu
   either the opinion of the court or a dissenting opinion) though he states separately
   hls views of the case or his reasons for so concurring
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

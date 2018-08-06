@@ -7,5 +7,6 @@ body: In medical jurisprudence. A loathsome venereal disease (vulgarly called â€
   trans-mission, and the fruitful source of various other diseases and, directly or
   indirectly, of Insanity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

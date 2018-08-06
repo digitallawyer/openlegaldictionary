@@ -9,5 +9,6 @@ body: In mining law, rock or min-eralized matter is “in place" when remain-lng
   ▼. Dealer, 23 Fed. Cas. 615; Leadville Co. v. Fitzgerald, 15 Fed. Cas. 99; Jones
   ▼. Pros-pect Mountain Tunnel Co., 21 Nev. 839, 81 Pac. 645
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

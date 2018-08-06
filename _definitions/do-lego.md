@@ -7,5 +7,6 @@ body: Lat I give, I bequeath; or I give and bequeath. The formal words of making
   give and bequeath to Titlus and Seius my man Stichus. Inst. 2, 20, 8, 30, 31. The
   expression is literally retained in modern wills
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

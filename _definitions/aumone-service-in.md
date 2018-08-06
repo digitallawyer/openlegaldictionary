@@ -6,5 +6,6 @@ body: where lands are given in alms to some church or reli-glous house, upon con
   that a service or prayers shall be offered at certaiu times for the repose of the
   donor’s soul. Britt. 164
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

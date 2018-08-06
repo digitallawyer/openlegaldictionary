@@ -8,5 +8,6 @@ body: A term descriptive of the action of unofficial persons, organized bands, o
   trial, and without the warrant or authority of law. See State v. Aler, 39 W. Va.
   549, 20 S. E. 585; Bates’ Ann. St ohio, 1904, | 4426
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

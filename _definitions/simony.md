@@ -8,5 +8,6 @@ body: In English ecclesiastical law. The corrupt presentation of any oue to an e
   or of things pertaining to the ecclesiastical order. Hob. 167. See State v. Buswell,
   40 Neb. 158, 58 N. W. 728, 24 L. R. A. 68
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

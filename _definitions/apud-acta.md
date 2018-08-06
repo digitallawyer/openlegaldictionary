@@ -6,5 +6,6 @@ body: Among the acts; among the recorded proceedings. In the civil law, this phr
   is applied to appeals taken orally, in the presence of the judge, at the time of
   judgment or sentence
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

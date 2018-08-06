@@ -9,5 +9,6 @@ body: "(we have given power.) In English practice. A writ or commission issuing 
   allowed for many purposes not now in use, as to make an attorney, to take the acknowledgment
   of a fine, etc"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

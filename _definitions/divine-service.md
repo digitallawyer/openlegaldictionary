@@ -11,5 +11,6 @@ body: 'Divine service was the name of a feudal tenure, by which the tenants were
   of the service, but merely a right of complttint to the visitor to correct it. Mozley
   & whitley'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

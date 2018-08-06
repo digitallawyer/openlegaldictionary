@@ -8,5 +8,6 @@ body: Lat. In the civil lgw. A coming in place of another, on hls decease; a com
   or by tbe general appointment of law in case of intestacy, (ab intestato.) InsL
   2, 9, 7; Heinecc. Elem. lib. 2, tit. 10
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

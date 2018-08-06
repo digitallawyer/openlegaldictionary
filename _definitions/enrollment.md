@@ -7,5 +7,6 @@ body: In English law The registering or entering on the rolls of chan-cery, king
   of the quarter sessions, of any lawful act; as a recognizance, a deed of bargain
   and sale, and the like. Jacob
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

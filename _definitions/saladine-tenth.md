@@ -12,5 +12,6 @@ body: A tax imposed in England and France, in 1188, by Pope Innocent III., to ra
   church still clung to it as too lucrative to be abandoned, and thus arose the tithing
   of ecclesiastical benefices for the pope or other sovereigns. Enc. Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

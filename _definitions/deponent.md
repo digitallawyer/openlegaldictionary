@@ -7,5 +7,6 @@ body: In practice, one who de-poses (that Is, testifies or makes oath in writing
   to writing; one who makes oath to a written statement. The party making an affidavit
   is generally so called
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

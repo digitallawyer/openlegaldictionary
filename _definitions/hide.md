@@ -7,5 +7,6 @@ body: In old Engllsh law. A measure of land, being as much as could be worked wl
   by local usage. Another meaning was as much land as would support one family or
   the dwellers in a mansion-house. Also a house; a dwelling-house
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

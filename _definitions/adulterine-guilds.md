@@ -6,5 +6,6 @@ body: Traders act-ing as a corporation, without a charter, and paying a fine ann
   s/or permission to ex-ercise their usurped privileges.; Smith, wealth Nat. b. 1,
   c. 10. ‘
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

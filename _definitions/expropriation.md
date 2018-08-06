@@ -10,5 +10,6 @@ body: This word properly denotes a voluntary surrender of rights or claims; the 
   a person, on compensation made, of his private property for the use of a railroad,
   canal, or other public work
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

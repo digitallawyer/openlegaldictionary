@@ -9,5 +9,6 @@ body: To say that a person is “responsible” means that he is able to pay a s
   another is a guaranty rather than a suretyship. Bickel v. Auner, 9 Phlla. (Pa.)
   499
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

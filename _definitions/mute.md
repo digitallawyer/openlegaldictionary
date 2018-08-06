@@ -8,5 +8,6 @@ body: Speechless; dumb; that cannot or will not speak. In English crlminal law, 
   as is not allowable, and will not auswer otherwise, or, upon having pleaded not
   guilty, refuses to put himself upon the country. 4 Bl. Comm. 324
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In French law. A division made between co-proprietors of a particular esta
   are divided among the co-heirs; while licitatlon (q. v.) is an adjudication to the
   highest bidder of objects which are not divisible. Duverger
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

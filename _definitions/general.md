@@ -10,5 +10,6 @@ body: Pertaining to, or designat-ing, the genus or class, as distinguished from 
   the whole, or directed to the whole; as distinguished from anything applying to
   or designed for a por-tion only
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

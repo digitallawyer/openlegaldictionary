@@ -7,5 +7,6 @@ body: A writ in the nature of a writ of right, which lay where upon a subin-feud
   upon by the lord paramount for the rent due him from the mesne lord. Booth, Real
   Act. 136
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

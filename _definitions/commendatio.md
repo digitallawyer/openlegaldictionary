@@ -7,5 +7,6 @@ body: In the civil law. Commendation, praise, or recommendation, as in the maxim
   by the seller of it does not amount to a warranty of Its qualities. 2 Kent, Comm.
   485
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -18,5 +18,6 @@ body: In the law of estates. Expectation; waiting; suspense; remembrance and con
   ously attach to IL” Story, J., in Dartmouth College v. woodward, 4 wheat 691, 4
   L. Ed. 629
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

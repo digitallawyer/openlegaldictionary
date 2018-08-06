@@ -7,5 +7,6 @@ body: Lat. In the law of bailments. A loan for consumption; a loan of chattels, 
   in kind and quantity. Story, Bailm. S 228; Payne v. Gardiner, 29 N. T. 167; Downes
   v. Phoenix Bank, 6 Hill (N. Y.) 299; Rahilly v. wilson, 20 Fed. Cas. 181
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

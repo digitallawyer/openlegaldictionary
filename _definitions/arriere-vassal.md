@@ -4,5 +4,6 @@ letter: A
 permalink: "/definitions/arriere-vassal.html"
 body: In feudal law. The vassal of a vassal
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In English lnw. An officer of the household of the sovereign, whose busine
   day, and on the new year; sometimes also, though rarely, on occasion of any remarkable
   victory
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

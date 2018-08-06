@@ -6,5 +6,6 @@ body: A term used in logic to denote an argument founded on experiment or observ
   or one which, taking ascertained facts as an effect, proceeds by synthesis and induction
   to demonstrate their cause
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

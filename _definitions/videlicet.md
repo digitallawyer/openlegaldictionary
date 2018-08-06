@@ -12,5 +12,6 @@ body: LaL The words “to-wit,” or “that is to say,” so frequently used in
   Sullivan ▼. State. 67 Miss. 346, 7 Sonth. 275; Clark v. Employers’ Liabllity Assur.
   Co.. 72 VL 458, 48 Atl. 689; Com. v. Quinlan, 153 Mass. 483, 27 N. B.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: ln old English law. An acquittance for an assault upon a trespassing serva
   47, | 20. Also the price of one's skin, or the money paid by a servant to save himself
   from a whipping. Du Cange
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

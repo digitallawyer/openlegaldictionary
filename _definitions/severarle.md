@@ -6,5 +6,6 @@ body: Admitting of severance or separation, capable of being divided; ca-pable o
   being severed from other things to which it was joined, and yet maintaining a complete
   and independent existence
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

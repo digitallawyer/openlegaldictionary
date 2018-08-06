@@ -8,5 +8,6 @@ body: The refusal or inten-tlonal omission of a person who has been duly cited b
   case it is called “presumed” contumacy; In the latter, “actual.” The term is chiefly
   nsed in ecclesiastical law. See 3 Curt. Ecc. 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: To loan money upon securities of a more or less permanent nature, or to pl
   A. 653; Stramann v. Scheeren, 7 Colo. App. 1, 42 Pac. 191; Una v. Dodd, 89 N. J.
   Eq. 188
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

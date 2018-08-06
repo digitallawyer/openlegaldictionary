@@ -7,5 +7,6 @@ body: A separate and dlstlnct part of an instrument or writing comprising two oi
   v. Railroad Co., 126 N. C. 437, 36 S. E. 14; wetzell v. Dinsmore, 4 Daly (N. Y.)
   195
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

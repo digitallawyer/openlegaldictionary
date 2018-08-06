@@ -26,5 +26,6 @@ body: 'lateral proceeding. one in which the particular question, may arise or be
   when they are short and simple in comparison witb regular proceedings; i. e., iu
   comparison with the proceedings which'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

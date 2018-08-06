@@ -7,5 +7,6 @@ body: In English law. Thjs term meant originally the state of having forfeited l
   any offense upon conviction for which such forfeiture followed, in addition to any
   other punishment prescribed hy law; as dis
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

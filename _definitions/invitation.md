@@ -11,5 +11,6 @@ body: In the law of negligence, and with reference to trespasses on realty, invi
   v. New York, N. H. & H. R. Co., 18 R. I. 491, 29 Atl. 258; wright ▼. Boston & A.
   R. Co., 142 Mass. 300, 7 N. E. 866
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

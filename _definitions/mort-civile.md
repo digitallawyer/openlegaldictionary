@@ -10,5 +10,6 @@ body: In French law. Civil death, as upon conviction for felony. It was nominall
   right of Its prerogative, (par droit de ddshdrence,) but the state may, as a matter
   of grace, make it over in whole or in part to the widow and children. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

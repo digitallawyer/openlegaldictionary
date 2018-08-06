@@ -8,5 +8,6 @@ body: To suffer an act to be done, by a iierson who cau prevent it, is to permit
   183 II. S. 191, 22 Sup. Ct. 74. 46 L. Ed. 147; Selleck v. Selleck, 19 Conn. 505;
   Gregory v. U. S., 10 Fed. Cas. 1197; In re Thomas (D. C.) 103 Fed. 274
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

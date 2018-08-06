@@ -6,5 +6,6 @@ body: In Roman law. The perfect conveyance or transfer of property from one Roma
   citizen to another. Thls term gave place to the slmple alicnatio, which is used
   in the Digest and I nstitutes, as .veil
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

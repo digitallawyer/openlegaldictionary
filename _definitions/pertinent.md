@@ -8,5 +8,6 @@ body: Applicable; relevant. Evidence is called “pertinent” when it is direct
   is one which, if sustained, would logically influence the Issue, whitaker v. State,
   106 Ala. 30, 17 South. 456
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

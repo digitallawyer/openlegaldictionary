@@ -8,5 +8,6 @@ body: A wrlt anciently call-ed “breve de bono et malo” addressed to the sher
   it were found that he was not guilty, then there issued another writ to the sheriff
   to ball him. Reg. orig. 133
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Under the municipal organization of the state of New Jersey, each county h
   the county. They correspond to the “county commissioners” or "super-visors” in other
   states
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

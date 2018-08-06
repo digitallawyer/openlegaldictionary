@@ -7,5 +7,6 @@ body: An lnferior and local court of record having jurisdiction in personal ac-t
   of action arise within the hundred of Sal-ford. St. 31 & 32 Vlct. c. 130; 2 Exch.
   Dlv. 346
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

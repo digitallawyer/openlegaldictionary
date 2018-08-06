@@ -6,5 +6,6 @@ body: A speclal traverse used in an action of trover, alleging that de-feudant w
   not possessed, at the time of ac-tion brought, of the chattels alleged to have been
   converted by him
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

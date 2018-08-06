@@ -7,5 +7,6 @@ body: To assemble together troops and their arms, whether for inspection, drill,
   their names on the muster-roll or official record. See Tyler v. Pomeroy, 8 Allen
   (Mass.) 498
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

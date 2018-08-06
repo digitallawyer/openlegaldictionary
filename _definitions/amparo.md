@@ -6,5 +6,6 @@ body: In Spanish-American law. A document issued to a claimant of land as a prot
   to him, until a survey can be ordered, and the title of possession issued by an
   authorized commissioner. Trlmble v. Smither’s Adm’r, 1 Tex. 790
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

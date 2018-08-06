@@ -7,5 +7,6 @@ body: The removal of a bur-den, charge, or duty. Particularly, the act of rellev
   or estate. Louisville & N. R. Co. v. Comm., 114 Ky. 787, 71 S. W. 916; Bannon v.
   Burnes (C. C.) 39 Fed. 898
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: 'In the prellmlna-ries. A term in Scotch practice, applied to the prelimin
   what to say. If the witness answer these questions satisfactorily, he is then examined
   in causa, in the cause. Bell, Dict “Evidence.”'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

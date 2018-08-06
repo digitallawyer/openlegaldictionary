@@ -7,5 +7,6 @@ body: "(I have com-manded or made my mandate to the bailiff.) in English practic
   a writ, that he has commanded the bailiff to execute it 1 Tidd, Pr. 309 ; 2 Tidd,
   Pr. 1025"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

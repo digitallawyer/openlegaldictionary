@@ -8,5 +8,6 @@ body: In English law. A writ dlrected to the sherlff, (either generally, wben an
   him to take sureties for the prisoner's appearance, commonly called “mainpernors,"
   and to set him at large. 3 Bl. Comm. 128
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

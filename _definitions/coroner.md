@@ -14,5 +14,6 @@ body: The name of an ancient officer ot the common law, whose office and functio
   whether wreck or not, and who is in possession of the goods; and also to Inquire
   concerning treos
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

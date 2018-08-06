@@ -11,5 +11,6 @@ body: Upon pleading the judgment of an inferior court, the proceedings prelimina
   day in chancery proceedings upon petitions and in actions in the nature of bills
   of revivor and supplement. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

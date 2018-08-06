@@ -7,5 +7,6 @@ body: Lat. The peace of the king; that is, the peace, good order, and se-curlty 
   which the king, as the personification of the power of the state, is supposed to
   guaranty to all persops within the protection of the law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

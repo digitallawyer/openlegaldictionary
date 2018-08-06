@@ -7,5 +7,6 @@ body: A dormant partner; one whose name does not appear in the firm, and who tak
   the profits, and thereby be-comes a partner, either absolutely, or as re-spects
   third persons
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

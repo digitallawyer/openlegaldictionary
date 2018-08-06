@@ -7,5 +7,6 @@ body: The oldest court in the state of ( New York. Its Jurisdiction is unlimited
   locality. It has also appellate jurisdiction of cases tried in the marine court
   and district courts
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

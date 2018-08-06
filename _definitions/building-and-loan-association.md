@@ -9,5 +9,6 @@ body: An organization created for the pur-pose of accumulating a fund by the mon
   W. 212, 35 L. R. A. 244, 56 Am. St. Rep. S13; Cook v. Association, 104 Ga. 814,
   30 S. E. 911; Pfels-ter v. Association, 19 W. Va. 093
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

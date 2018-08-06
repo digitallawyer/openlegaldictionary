@@ -7,5 +7,6 @@ body: For a term which has passed, words In the Latin form of the writ of entry 
   a tenant holding over after the expiration of the term for which they were demised.
   See Fitzh. Nat Brev. 201.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

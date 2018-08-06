@@ -7,5 +7,6 @@ body: In medical jurispru-dence. Cadaveric rigidity; a rigidity or stif-fenlng o
   after death, but usually within a few hours, and which is one of the recognlzed
   tests of death
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

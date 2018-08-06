@@ -6,5 +6,6 @@ body: In French law. An act which contains the interrogatories mode by the judge
   the person accused, ou the facts whlch nre the object of the accusation, aud the
   auswers of the accused. Poth. Proc. Crim. c. 4, art 2, | 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

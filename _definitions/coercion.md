@@ -11,5 +11,6 @@ body: Compulsion; force; duress. It may be either actual, (direct or positive,) 
   409; Peyser v. New York, 70 N. Y. 497. 26 Am. Rep. 624; State v. Boyle, 13 R. I.
   538
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

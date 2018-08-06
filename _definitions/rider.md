@@ -10,5 +10,6 @@ body: A rider, or rider-roll, signifies a schedule or small piece of parchment a
   is termed a “rider.” Brown. See, also, Cowell; Blount; 2 Tidd, Pr. 730; Com. v.
   Barnett, 199 Pa
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

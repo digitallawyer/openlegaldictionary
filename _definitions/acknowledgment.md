@@ -9,5 +9,6 @@ body: In conveyane-lng. The act by whlch a party who has exe-cuted an instrument
   154 N. T. 518, 49 N. E. 75; Strong v. United States (D. C.), 34 Fed. 17; Burbank
   v. Ellis, 7 Neb. 156
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

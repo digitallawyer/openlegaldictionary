@@ -10,5 +10,6 @@ body: In English lunacy practice, when a person has beeu found a lunatic, the ne
   and the evidence adduced in support of it, the master frames bis report Elmer, Lun.
   22; Pope, Lun. 79; Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

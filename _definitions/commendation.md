@@ -6,5 +6,6 @@ body: In feudal law. This was the act by which an owner of allodial land placed 
   and his land under the protection of a lord, so as to constitute him-self his vassal
   or feudal tenant
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

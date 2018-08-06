@@ -7,5 +7,6 @@ body: This word “is from the French, but has become somewhat naturalized in ou
   French language, it ordl-narliy is used to signify a person in some of-flcial employment,
   and as generally used with us, though perhaps not confined to any offi
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: In old English law. An ob-solete writ, which commanded a sheriff or stewar
   of a county court or hundred court to receive and admit an attorney to appear for
   the person who owed suit of court-Fitzh. Nat. Brev. 156
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

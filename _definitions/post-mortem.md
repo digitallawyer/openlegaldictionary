@@ -7,5 +7,6 @@ body: After death. A term generally applied to an autopsy or examina-tion of a d
   the coroner. See wehle v. United States Mut Acc. Ass’n, 11 Misc. Rep. 36, 31 N.
   Y. Supp. 865; Stephens v. People, 4 Parker Cr. R. (N. Y.) 475
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

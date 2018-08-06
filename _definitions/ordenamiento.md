@@ -6,5 +6,6 @@ body: In Spanlsh law. An order emanating from the sovereign, and differing from 
   cedula only in form and in the mode of Its promulgation. Schm. Civil Law, Introd.
   93, note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

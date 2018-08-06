@@ -12,5 +12,6 @@ body: 'An ancient writ in Eng-lish law which was available for one who had a rig
   re-malnder, and in the reverter. It was abolished in England by St. 3 & 4 wm. IV.
   c. 27. See 3 Bl. Comm. 191; Co. Litt. 316; Fitzh. Nat Brev. 255'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

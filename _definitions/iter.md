@@ -10,5 +10,6 @@ body: 'Lat in tbe oivil law. A way; a right of way belonging as a servitude to a
   distinguished by the wldth of the objects which could he rightfully carried over
   the way; e. g., via, 8 feet; act'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: A com-binatlon of assumed or proved facts and cir-cumstances, stated in su
   85; Cowley v. People, 83 N. Y. 464. 38 Am. Rep. 464; Stearns v. Field, 90 N. Y.
   641
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: An estate tail; an estate of inheritance given to a man and the heirs of h
   1 washb. Real Prop. *66. For the varieties and special characteristics of thia kind
   of estate, see Tail
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

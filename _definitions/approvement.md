@@ -12,5 +12,6 @@ body: 'By the common law, approvement is said to he a species of confession, aud
   People. 26 111. 344: whiskey Cases, 99 T’. S. 599. 25 L. Ed. 399; State v. Graham,
   41 N. J. Law, 15, 32 Am. Rep. 174'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

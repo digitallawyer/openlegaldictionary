@@ -7,5 +7,6 @@ body: The dismissal of an action, suit, motion, etc., is an order or judgment fi
   in-volved. Frederick v. Bank, 106 111. 149; Dowling v. Polack, 18 Cal. 627; Brackenridge
   v. State. 27 Tex. App. 513, 11 S. W. 630, 4 L. R. A. 360
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

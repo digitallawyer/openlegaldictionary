@@ -7,5 +7,6 @@ body: A species of socage ten-ure common in Kent, In England, where the lands de
   will; do not escheat for felony; may be aliened by the heir at the age of fifteen;
   and dower and curtesy is given of half the land. Stim. Law Gloss
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

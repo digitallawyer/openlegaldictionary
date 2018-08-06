@@ -7,5 +7,6 @@ body: It is held that colored lmitations of rugs and carpets and colored working
   no value as works of art, are not “paintings,” within the meaning of that term as
   used in a statute on the, liability of carriers. 3 Ex. Div. 121
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

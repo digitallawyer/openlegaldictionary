@@ -6,5 +6,6 @@ body: In Canadian and old French law. Pertaining to a ban or privileged place; h
   qualities or privileges derived from a ban. Thus, a banal mill is one to which the
   lord may require his tenant to carry his grain to be ground
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

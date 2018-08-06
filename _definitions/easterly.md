@@ -9,5 +9,6 @@ body: This wofd, when used alone, will be construed to mean “due east.” But 
   word makes it mean. Fratt v. wood-ward, 32 Cal. 227, 91 Am. Dec. 573; Scraper v.
   Pipes, 59 Ind. 164; wiltsee v. Mill A Min. Co., 7 Ariz. 95, 60 Pac. 896
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

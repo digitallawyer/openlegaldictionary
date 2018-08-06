@@ -8,5 +8,6 @@ body: The period in which the revolu-tion of the earth round the sun, and the ac
   year is either astronomical, ecclesiastical, or regnal, beginning on the 1st of
   January, or 25th of March, or the day of the sover-eign’s accession, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

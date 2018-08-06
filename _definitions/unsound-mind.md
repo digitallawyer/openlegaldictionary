@@ -11,5 +11,6 @@ body: A person of unsound mind is an adult who from infirmity of mind is incapab
   84 Am. Dec. 97; Edwards v. Davenport (C. C.) 20 Fed. 758; witte v. Gilbert, 10 Neb.
   539, 7 N. W. 288; Stewart v. Lispenard, 2G wend. (N. Y.) 300
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

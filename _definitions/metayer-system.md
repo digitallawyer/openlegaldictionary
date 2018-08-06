@@ -9,5 +9,6 @@ body: A system of agricultural holdings, under which the land is divided, in sma
   generally paid in kind, is usually one-half. 1 Mill, Pol. Econ. 296, 363; and 2
   Smith, wealth Nat. 3, c. il. The system prevails in some parts of France and Italy
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Not following up the cause; failure on the part of a plaintiff to continue
   upou the trial of a cause, that the plaintlfT hns abandoned, or shall abandon, the
   further prosecution of hls suit
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

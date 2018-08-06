@@ -11,5 +11,6 @@ body: As used In law, this term denotes those who are so destitute of property o
   111. 430; Juneau County v. wood County, 109 wis. 330, 85 N. W. 387; Sayres v. Sprlngfleld,
   8 N. J. Law, 169
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

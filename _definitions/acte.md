@@ -15,5 +15,6 @@ body: In French law, denotes a docu* ment, or formal, solemn writing, embodying 
   be drawn up before any one may be buried. Les actes de Vdtat civil are public documents.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

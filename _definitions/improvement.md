@@ -8,5 +8,6 @@ body: A valuable addition made to property (usually real estate) or an ameliorat
   new or further purposes. Spencer v. Tobey, 22 Barb. (N. Y.) 269; Allen v. McKay,
   120 Cal. 332, 62 Pac. 828; Simpson v. Robinson, 37 Ark. 132
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

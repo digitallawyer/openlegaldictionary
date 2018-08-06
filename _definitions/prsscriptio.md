@@ -7,5 +7,6 @@ body: Lat. In the dvil law. That mode of acquisition whereby one be-comes propri
   Dig. 41, 3. It waa anciently distinguished from “usucapio," (q. v.,) but was blended
   with it by Justinian
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

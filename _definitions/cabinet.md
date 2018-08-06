@@ -8,5 +8,6 @@ body: The advisory board or coun-cil of a king or other chief executive. In the 
   of the navy, the secretary of agriculture, the secretary of commerce and labor,
   the attor-ney general, and the postmaster general
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

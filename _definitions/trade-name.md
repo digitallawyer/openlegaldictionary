@@ -9,5 +9,6 @@ body: ME. A trade-name is a name which hy user and reputation has acquired the p
   trade,) or word invented for the occasion, and hav-tng’no sense at all.. Seb.. Trade-Marks,
   37. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

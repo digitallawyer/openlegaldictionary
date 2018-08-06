@@ -6,5 +6,6 @@ body: "(Lat ego, I.) A term denoting direct tenure of the superior lord. 2 Bell,
   L. Sc. 133. Unjustly detaining from me. He is said to withhold a me (from me) who
   has obtained possesslon of my property unjustly. Calvin"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

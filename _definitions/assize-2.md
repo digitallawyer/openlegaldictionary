@@ -7,5 +7,6 @@ body: In the practice of the criminal courts of Scotland, the fifteen men who de
   lu popular language, nud even in statutes,, they are called the “jury.” wharton.
   See Assise
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

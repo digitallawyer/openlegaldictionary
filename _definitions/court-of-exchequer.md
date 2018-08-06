@@ -19,5 +19,6 @@ body: In English law. A very ancient court of record, set up by william the Conq
   of chancery. The judlca-ture act (1873) transferred the business and jurisdiction
   of this court to the “Exchequer Division” of the "High Court of Justice
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

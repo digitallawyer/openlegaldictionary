@@ -8,5 +8,6 @@ body: This is said to be a word of very general signification; and, when used in
   J., 6 Maule & 8. 192. In a large sense, it ap-plies to ail utensils and tools which
   afford
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

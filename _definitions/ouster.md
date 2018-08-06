@@ -9,5 +9,6 @@ body: In practice. A putting out; dispossession; amotion of possession. A spe-ci
   winterhurn v. Chambers, 91 Cal. 170, 27 Pac. 658; McMullin v. wooley, 2 Lans. (N.
   Y.) 396; Mason v. Kellogg, 38 Mich. 143
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

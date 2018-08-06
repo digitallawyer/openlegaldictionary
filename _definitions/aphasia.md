@@ -10,5 +10,6 @@ body: In medical jurisprudence. Loss of the faculty or power of articulate speec
   or (in "sensory aphasia”) is unable to understand spoken or written language. Tbe
   seat of tbe disease is in the brain, but it is not a form of insanity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

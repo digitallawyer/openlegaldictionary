@@ -8,5 +8,6 @@ body: Lat. Possibility; a possibility. Posgibilitas post dissolutionem exeeution
   after the execution of an estate the law does not suffer a possibility. 3 Bulst.
   108
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

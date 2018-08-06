@@ -9,5 +9,6 @@ body: The act of attaching, adding, joining, or uniting one thing to another ; g
   Into the national domain, as an integral part thereof, is called “annexation,” as
   in the case of the addition of Texas to the United States
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

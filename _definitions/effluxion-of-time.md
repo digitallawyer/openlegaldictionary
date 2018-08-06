@@ -9,5 +9,6 @@ body: when this phrase is used in leases, conveyances, and other like deeds, or 
   determination of the term by the acts of the parties or by some unexpected or unusual
   in-cident or other sudden event. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

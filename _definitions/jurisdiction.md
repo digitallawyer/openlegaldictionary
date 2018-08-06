@@ -15,5 +15,6 @@ body: The power and au-thority constitutionally conferred upon (or constitutiona
   140 U. S. 254, 11 Sup. Ct. 773, 35 L. Ed. 464; Templeton v. Ferguson, 89 Tex. 47,
   33 S. W. 329; Succession of weigel, 17 La. Ann. 70
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Intervention; lnterposi-tlon; the act of a third person who inter-feres be
   by its influence and by adjusting their diffi-cultles, of keeping the peace in the
   family of nations
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

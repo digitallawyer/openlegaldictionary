@@ -9,5 +9,6 @@ body: A species of feu-dal tenure, which differed very slightly from a pure and 
   (feodum militare,) the measure of which was estimated at 680 acres. Co. Litt. 69a;
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

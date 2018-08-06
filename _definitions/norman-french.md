@@ -11,5 +11,6 @@ body: The tongue in whlch several formal proceedings of state in England are stl
   the tongue. Norman French was the language of Euglish legal procedure till the 36
   Edw. III. (A. D. 1362). wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

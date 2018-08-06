@@ -7,5 +7,6 @@ body: A cllque; an exclusive combina-tion of persons for illegitimate or selfish
   con-trol the market or the stock-exchange, etc. Schomberg v. walker, 132 Cal. 224,
   64 Pac. 290
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

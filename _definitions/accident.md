@@ -10,5 +10,6 @@ body: An unforeseen event, oc-curriog without the will or design of the person w
   Ass’n, 106 Iowa, 281, 76 N. W. 683, 68 Am. St. Rep. 306; Atlanta Acc. Ass’n v. Alexander,
   104 Ga. 709, 30 S. E. 939. 42
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

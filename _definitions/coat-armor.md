@@ -8,5 +8,6 @@ body: Heraldic ensigns, introduced by Richard I. from the Holy Land, where they 
   some such contrivance being necessary in order to distinguish knights when clad
   in armor from one another, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

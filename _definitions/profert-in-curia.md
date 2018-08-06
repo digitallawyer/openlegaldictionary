@@ -8,5 +8,6 @@ body: IA. L. Lat. He pro-duces in court. In old practice, these words were inser
   suit was founded, in order that the court might inspect the same and the defendant
   hear it read. The same formula was used where the defeudant pleaded a written instrument
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

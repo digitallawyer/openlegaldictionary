@@ -6,5 +6,6 @@ body: To defame; vilify; exhibit contempt for. In England it is a criminal of-fe
   to ’’deprave” the Lord’s supper or the Book of Common Prayer. Steph. Crim. Dig.
   99. -
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

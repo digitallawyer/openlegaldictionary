@@ -9,5 +9,6 @@ body: As soon as a notary has made presentment and demand of a bill of ex-change
   any, assigned for such refusal, and bis charges of protest. This is the preliminary
   step towards the pro-test, and is called “noting.” 2 Daniel, Neg. Inst. | 939
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

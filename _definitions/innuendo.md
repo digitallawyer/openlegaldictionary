@@ -10,5 +10,6 @@ body: This Latin word (comnion-ly translated “meaning”) was the technical be
   Thus, it may be charged that the defendant said “he (meaning the said plaintiff)
   is a perjurer.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

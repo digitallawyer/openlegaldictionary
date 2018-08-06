@@ -8,5 +8,6 @@ body: or VIRGE. In English law*. The compass of the royai court, which bounds th
   I. Al-8o a stick, or roti, whereby one is admitted tenant to a copyhold estate,
   old Nat Brev. 17
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

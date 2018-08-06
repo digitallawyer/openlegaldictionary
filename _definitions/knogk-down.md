@@ -9,5 +9,6 @@ body: To assign to a bidder at an auction by a knock or blow of the hammer. Prop
   of the sale. “Knocked down” and “struck off” are synonymous terms. Sherwood v. Reade,
   7 Hill (N. ¥.) 439
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

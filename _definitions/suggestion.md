@@ -8,5 +8,6 @@ body: In practice. A statement, formally entered on the record, of some fact or 
   the action, but which, for some reason, cannot be pleaded. Thus, if one of the parties
   dies after issue and be
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

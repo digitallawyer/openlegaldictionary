@@ -7,5 +7,6 @@ body: In Roman law. An Intermediate person who purchased the aggregate lnheritan
   This purchaser was merely a man of straw, transmitting the In-heritance to the hares
   proper. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

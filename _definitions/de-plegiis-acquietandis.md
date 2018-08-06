@@ -8,5 +8,6 @@ body: writ for acquitting or releasing pledges. A writ that lay for a surety, ag
   the surety was compelled to pay it. Reg. orig. 158; Fitzh. Nat. Brev. 137, C; 3
   Reeve, Eng. Law, 65
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

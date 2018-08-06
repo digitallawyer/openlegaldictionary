@@ -8,5 +8,6 @@ body: In the civil law. A future right; an Inchoate, indplpnt, or ex-pectant rig
   or “jus nondum delatum," when it depends on the future occurrence of other circumstances
   or conditions. Mackeld. Rom. Law, S 191
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

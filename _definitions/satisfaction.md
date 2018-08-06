@@ -10,5 +10,6 @@ body: The act of satisfying a party by paylng what is due to him, (as on a mortg
   3 Rlch. Law (S. C.) 236; Green v. Green, 49 Ind. 423; Bryant v. Fairfield, 51 Me.
   152; Armour Bros. Banklng Co. v. Add-ington, 1 Ind. T. 304, 37 S. W. 100
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

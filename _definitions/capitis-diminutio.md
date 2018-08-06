@@ -7,5 +7,6 @@ body: In Romnn law. A diminishing or abridgment of personality. This was a loss 
   following upon certain changes in his civll condition. It was of three kinds, enumerated
   as follows
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

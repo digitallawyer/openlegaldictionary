@@ -8,5 +8,6 @@ body: otherwise called “Herra-hutters” or “United Brethren.” A sect of C
   many votaries, and gave birth to so many denominations of Christians. They give
   evi-dence on tbeir solemn affirmation. 2 Steph. Comm. 338n
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

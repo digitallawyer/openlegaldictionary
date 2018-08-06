@@ -10,5 +10,6 @@ body: Unconditional; complete and perfect in itself, wlthout relation to, or dep
   v. Johnson, 32 Ala. 687; Germania F. Ins. Co. v. Stewart, 13 Ind. App. 627, 42 N.
   E. 286
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

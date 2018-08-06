@@ -9,5 +9,6 @@ body: Lying near or close to; contiguous. The difference between adjacent and ad
   III. 235, 62 N. E. 525; Hanifen v. Armitage (C. C.) 117 Fed. 845; McDonald v. wilson,
   59 Ind. 54; wormley v. Wright
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: An officer in each of the English courts of common law, appointed by the c
   The associates are now officers of the Su-preme Court of Judicature, and are styled
   “Masters of the Supreme Court” wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

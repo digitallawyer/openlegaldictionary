@@ -9,5 +9,6 @@ body: An ancient levy or tax of a penny on each house throughout Eng-Iand, paid 
   every dwelllng-house was liable to lt, and every religious house, the abbey of St
   Albans alone excepted, whar-ton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

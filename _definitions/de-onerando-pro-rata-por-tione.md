@@ -6,5 +6,6 @@ body: writ for charging according to a rateable proportion. A writ which lay for
   joint tenant, or tenant in common, who was distrained for more rent than his proportion
   of the land came to. Reg. orig. 182; Fitzh. Nat Brev. 234, H
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

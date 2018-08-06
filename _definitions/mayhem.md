@@ -6,5 +6,6 @@ body: In criminal law. The act of unlawfully and violently depriving another of 
   nse of such of his members as may render him less able, in fighting, either to defend
   himself or annoy his adversary
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

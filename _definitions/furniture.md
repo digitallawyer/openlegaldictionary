@@ -8,5 +8,6 @@ body: This term includes that whlch furnishes, or with which anything is furnish
   necessary or convenient for housekeep-lng; whatever is added to the interior of
   a house or apartment, for use or convenience. Bell v. Golding, 27 Ind. 173
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

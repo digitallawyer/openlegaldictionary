@@ -6,5 +6,6 @@ body: Snm-mary process by a landlord to oast the ten-ant and regain possession o
   the premises for non-payment of rent or other breach of the conditions of the lease,
   of local origin and colloquial use in New York
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

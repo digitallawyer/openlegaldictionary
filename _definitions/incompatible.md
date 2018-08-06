@@ -10,5 +10,6 @@ body: Two or more rela-tious, offices, functions, or rights which can-not natura
   4 Serg. & R. (Pa.) 276; Regents of University of Maryland v. williams, 9 Gill &
   J. (Md.) 422, 31 Am. Dec. 72
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

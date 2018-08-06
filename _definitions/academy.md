@@ -8,5 +8,6 @@ body: In its original meaning, an association formed for mutual improvement, or 
   County, 22 Pa. 496; Commonwealth v. Banks, 198 Pa. 397, 48 Atl. .277; Blackwell
   v. State, 36 Ark. 178
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: And have you then there this writ The formal words directing the return of
   writ. The literal translation is retained in the modern form of a considerable number
   of writs.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

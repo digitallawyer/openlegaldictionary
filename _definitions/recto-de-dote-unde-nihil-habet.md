@@ -7,5 +7,6 @@ body: A writ of right of dower whereof the widow had nothing, which lay where he
   wife, and she thereby was driven to sue for her thirds against the heir or his guardian.
   Abol-ished
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

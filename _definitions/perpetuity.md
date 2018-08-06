@@ -10,5 +10,6 @@ body: A future limitation, whether executory or by way of remainder, and of eith
   with the concur-rence of the individual interested under that limitation. Lewis,
   Perp. 164; 52 Law Llb. 139
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

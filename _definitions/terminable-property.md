@@ -7,5 +7,6 @@ body: Thls name is sometimes given to property of such a nature that Its duratio
   happening of an event or the expiration of a fixed term; e. g., a leasehold, a life-annuity,
   etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

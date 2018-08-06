@@ -7,5 +7,6 @@ body: Property which may be touched; such as is perceptible to the senses; corpo
   of property as pat-ents, franchises, copyrights, rents, ways, and incorporeal property
   generally
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

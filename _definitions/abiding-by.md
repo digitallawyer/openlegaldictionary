@@ -8,5 +8,6 @@ body: In Scotch law. A Ju-dicial declaration that the party abides by the deed o
   It has the effect of pledging the pnrty to stand the consequences of founding on
   n forged deed. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

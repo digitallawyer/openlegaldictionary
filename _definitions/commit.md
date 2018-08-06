@@ -8,5 +8,6 @@ body: In practice. To send a per-son to prison by virtue of a lawful authori-ty,
   v. wareham, 9 Cush. (Mass.) 585; French v. Bancroft, 1 Metc. (Mass.) 502; People
   v. warden, 73 App. Dlv. 174, 76 N. Y. Supp. 728
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

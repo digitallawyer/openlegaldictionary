@@ -8,5 +8,6 @@ body: To present oneself; to appear in court In modern practice, though such pre
   of a default, the technical language of the record is that the party “comes not,
   but makes default*' Horner v. O’Laughlin, 29 Md. 472
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

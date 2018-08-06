@@ -9,5 +9,6 @@ body: rm has also been applied in the United States to warrants or other like or
   353, 49 N. W. 600.) and to the fractional paper currency issued by the United States
   during the pe-riod of the Civil war
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

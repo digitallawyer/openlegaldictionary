@@ -8,5 +8,6 @@ body: In early American land law, (particularly in Missouri,) a lot or parcel of
   Louis v. Toney, 21 Mo. 243; Eberle v. St. Louis Public Schools, 11 Mo. 265; Vasquez
   v. Ewing, 42 Mo. 256
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

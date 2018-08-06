@@ -7,5 +7,6 @@ body: A writ to inspect the body, where a woman feigns to be pregnant, to see wh
   to be feigning pregnancy in order to enable a supposititious heir to obtain the
   estate. 1 Bl. Comm. 456; 2 Steph. Comm. 287
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In Louisiana. In every tutorship there shall be an under-tutor, whom it sh
   interest of the minor is in opposition to the interest of the tutor. Civ. Code La.
   1838, arts. 300, 301
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

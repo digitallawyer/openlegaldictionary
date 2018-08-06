@@ -7,5 +7,6 @@ body: In legal proceedings, and in respect to public matters, this word is gener
   it was to give it, in some manner prescribed, and to some person entitled to receive
   lt, or be notified. Appeal of Potwiue, 31 Conn. 384
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

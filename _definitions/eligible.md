@@ -8,5 +8,6 @@ body: As applied to a candidate for an elective office, this term means capa-ble
   A. 97, 34 Am. SL Rep. 113; Carroll v. Green, 148 Ind. 362, 47 N. E. 223; Searcy
   v. Grow, 15 Cal. 121; People v. Purdy, 21 App. Dlv. 66, 47 N. Y. Supp. 601
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

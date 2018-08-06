@@ -8,5 +8,6 @@ body: In praotice. An occasional application to a court by the parties or their 
   SL R. Co. v. Reed, 28 Ind. App. 629, 63 N. E. 770; Low v. Cheney, 3 How. Prac. (N.
   V.) 287; People v. Ah Sam, 41 Cal. 645; In re Jetter, 78 N. Y. 601
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: An inference affirmative or dlsafflrmative of the truth or false-hood of a
   certainty of its truth or falsehood, or until such certainty can be ascertained.
   Best, Pres. $ 3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

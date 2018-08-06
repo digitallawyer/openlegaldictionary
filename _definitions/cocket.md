@@ -7,5 +7,6 @@ body: In English law. A seal be-longlng to the custom-house, or rather a scroll 
   as a warrant that their merchandises are entered; likewise a sort of measure. Fleta,
   lib. 2, c. ix
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

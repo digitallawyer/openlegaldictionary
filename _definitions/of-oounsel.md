@@ -7,5 +7,6 @@ body: A phrase commonly ap1 plied in practice to the counsel employed by a party
   of a cause, or lts presentation on appeal, but who is not the principal attorney
   of record for the party
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

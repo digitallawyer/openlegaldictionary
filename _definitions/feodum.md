@@ -12,5 +12,6 @@ body: This word (meaning a feud or fee) is the one most commonly used by the old
   Feodum talliatum, a fee-tail. See 2 Bl. Comm. 58, 62; Litt SS 1. 13; Bract fol.
   175; Gian. 13, 23
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

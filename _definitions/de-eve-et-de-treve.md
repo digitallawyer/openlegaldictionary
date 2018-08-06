@@ -6,5 +6,6 @@ body: A law French phrase, equlvalent to the Latin de avo et de tritavo, descrip
   of the ancestral rights of lords in their villeins. Literally, “from grandfather
   and from great-grandfather's great-grandfather.’* It occurs in the Year Books
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

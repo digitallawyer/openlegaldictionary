@@ -6,5 +6,6 @@ body: An engine used to punish women who have been convicted of being common sco
   It is sometimes called the “trebucket," “tumbrel,” “ducking-stool," or “cucking-stool.”
   U. S. v. Royall, 27 Fed. Cas. 907
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

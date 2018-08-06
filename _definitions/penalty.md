@@ -7,5 +7,6 @@ body: 1. The sum of money which the obligor of a bond undertakes to pay by way o
   npon him hy the conditions of the bond. Brown; Tayloe v. Sandlford, 7 wheat 13,
   5 L. Ed. 384; watt v. Sheppard, 2 Ala. 445
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

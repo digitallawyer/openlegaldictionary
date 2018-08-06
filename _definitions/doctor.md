@@ -9,5 +9,6 @@ body: A learned man; one qualified to give instruction of the higher order in a 
   v. State, 102 Ala. 170, 15 South. 563; State v. Mc-Knight, 131 N. O. 717, 42 S.
   E. 580, 59 L. R. A. 187
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

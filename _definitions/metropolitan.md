@@ -6,5 +6,6 @@ body: ln Engllsh law. one of the titles of an archbishop. Derived from the circu
   tiiat archbishops were consecrated at first in the metropolis ef a province. 4 Inst
   94
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

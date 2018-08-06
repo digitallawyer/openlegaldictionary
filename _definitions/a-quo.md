@@ -8,5 +8,6 @@ body: A term used, with the correla-tive ad quern, (to which,) in expressing the
   the point or limit from which, and terminug ad quern, the point or limit to which,
   a distance or passage in space is reckoned
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

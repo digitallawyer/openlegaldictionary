@@ -13,5 +13,6 @@ body: If the plalntlff in a plaint in the mayor’s court of London has attached
   the defendant in appearing to the plaint) had not taken place. Brand, F. Attachm.
   115; Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

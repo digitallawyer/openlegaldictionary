@@ -8,5 +8,6 @@ body: The English conrt of common pleas was formerly so called. Its original tit
   the causes of common persons, i. e., causes between subject and sub-ject, in which
   the crown had no interest
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

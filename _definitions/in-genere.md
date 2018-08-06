@@ -7,5 +7,6 @@ body: In kind; in the same genus or class; the same in quantity and quality, but
   genere are distinguished from such as must be given or restored in specie; that
   is, identically. Mackeld. Rom. Law, | 16L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

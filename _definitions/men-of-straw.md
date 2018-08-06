@@ -10,5 +10,6 @@ body: Men who used in former days to ply about courts of law, so called from the
   was, “To be sure I do.” “Then come into court and swear it.” And straw-shoes went
   into court aud swore. Ath-ens abounded in straw-shoes. Quart. Rev. vol. 33, p. 344
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

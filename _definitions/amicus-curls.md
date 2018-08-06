@@ -11,5 +11,6 @@ body: Lat A friend of the court A by-stander (usually a counsel-lor) who Interpo
   249, 13 South. 945, 46 Am. St. Rep. 45; lu re Columbia Real Es-tate Co. (D. C.)
   101 Fed. 970
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

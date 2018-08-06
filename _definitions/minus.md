@@ -6,5 +6,6 @@ body: Lat. In the civil law. Less; less than. The word had also, in some con-nec
   the sense of “not at all." For ex-ample. a debt remaining wholly unpaid was described
   as “minus solutum
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

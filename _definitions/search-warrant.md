@@ -10,5 +10,6 @@ body: A search-warrant is an order in writing, issued by a justice or other magi
   the premises, to be dealt with according to law. Pen. Code Cal. S 1523; Code Ala.
   1886, 8 4727; Rev. Code Iowa 1880, ft 4629
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

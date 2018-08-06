@@ -7,5 +7,6 @@ body: In English law. An ancient mode of weighiug, described by Cowell as “a k
   man, lifting up upon hls fore-finger or hand, discerneth the quality or difference
   between the weight and the thing weighed.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

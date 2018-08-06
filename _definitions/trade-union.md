@@ -8,5 +8,6 @@ body: A combination or as-soclation of men employed in the same trade, (Usually 
   ef employer and employed, enlarging or main-tainlng their rights and privileges,
   and other similar ■ objects
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: In old English law. Sult; at-lendance at court; the plaintiff's suit or fo
   at the end of declarations, “and therefore he brings hls suit," (et inde producit
   sectam
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

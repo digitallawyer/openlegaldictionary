@@ -16,5 +16,6 @@ body: These words, “marque” and “reprisal," are frequently used as synony-
   dal property on the high seas by public cruisers, or by private cruisers specially
   au-thorized thereto. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Lat. I give, 1 say, I adjudge. Three words used in the Roman law, to expre
   that he adjudged the controverted property, or the goods of the debtor, etc., to
   the plaintiff. Mackeld. Rom. Law, $ 39
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

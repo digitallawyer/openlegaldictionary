@@ -12,5 +12,6 @@ body: A species of estate, or tenancy, which exists where lands of inheritance d
   in gavelkind, to all the males in equal degree, as sons, brothers, uncles, etc.
   Litt. $ -65; 1 Steph. Comm. 319
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

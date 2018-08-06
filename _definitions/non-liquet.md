@@ -8,5 +8,6 @@ body: Lat It is not clear. In the Roman courts, when any of the judges, after th
   a ballot inscribed wlth the letters “N. L.,” the abbreviated form of the phrase
   “non liquet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

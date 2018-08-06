@@ -7,5 +7,6 @@ body: To help; aid; Buccor; lend countenance or encouragement to; particl-pate i
   St. Rep. 211; Moss v. Peoples. 51 N. C. 142; Comitez v. Parkerson (C. C.) 50 Fed.
   170
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

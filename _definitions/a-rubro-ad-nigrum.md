@@ -6,5 +6,6 @@ body: Lat. From the red to the black; from the rubric or title of a statute, (wh
   anciently, was in red letters,) to its body, which was in the ordi-nary black. Tray.
   Lat Max.; Bell, “Ru-bric.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

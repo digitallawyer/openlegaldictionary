@@ -9,5 +9,6 @@ body: Suffrage; the expression of his will, preference, or choice, formally mani
   or representative. And the aggregate of the expressions of will or choice, thus
   manifested by individuals, is called the “vote of the body.” See Maynard
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

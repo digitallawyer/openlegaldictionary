@@ -6,5 +6,6 @@ body: In Englis^’ law. Two officers elected by the burgesses of, non-parliamen
   municipal boroughs fof the purpose of assisting the mayor in jfej* rising the parish
   burgess lls|s. .wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

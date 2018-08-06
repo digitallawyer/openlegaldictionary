@@ -7,5 +7,6 @@ body: In English practice. An obsolete writ to the sheriff to summon the defenda
   It was so called from the words of the writ, “pone per vadium ct salvos plegios,”
   “put by gage and safe pledges, A. B,, the defendant.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

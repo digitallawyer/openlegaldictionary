@@ -8,5 +8,6 @@ body: In criminal law. As secured by constitutional guaranties, a speedy trial m
   of justice. See People v. Hall, 51 App. Div. 57, 64 N. Y. Supp. 433; Nixon v. State,
   2 Smedes & M. (Miss.) 507, 41 Am. Dec. 601
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

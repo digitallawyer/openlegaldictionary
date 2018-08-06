@@ -11,5 +11,6 @@ body: As applied to tracts of land, particularly townships, sections, quar-ter s
   See Tolies-ton Club v. State, 141 Ind. 197, 38 N. E. 214; Parke v. Meyer, 28 Ark.
   287; Goltermann ▼. Schiermeyer, 111 Mo. 404, 19 S. W. 487
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

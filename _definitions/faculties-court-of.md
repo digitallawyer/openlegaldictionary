@@ -9,5 +9,6 @@ body: In English ecclesiastical law. A jurisdiction or tribunal belonging to the
   a faculty to erect an organ in a parish church, to level a church-yard, to re-move
   bodies previously burled. 4 Inst. 337
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

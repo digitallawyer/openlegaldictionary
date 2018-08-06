@@ -7,5 +7,6 @@ body: To the person first applying. In probate practice, where there are several
   the rule of the court is to make the grant priori pctenti, to the first applicant.
   Browne, Prob. Pr. 174; Coote, Prob. Pr. 173, 180
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

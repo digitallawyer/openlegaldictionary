@@ -11,5 +11,6 @@ body: Mental capaclty; the mental power to review and recognize tbe successive s
   due order of sequence and in their logical relations with the events and mental
   states of the present
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

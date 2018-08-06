@@ -14,5 +14,6 @@ body: 'In patent law. Any act or substance which is known in the arts as a prope
   S. G55, 25 L. Ed. 945; Carter Mach. Co. v. Hanes (C. C.) 70 Fed. 859; Schillinger
   v. Cranford, 4 Mackey (D. C.) 466'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

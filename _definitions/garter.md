@@ -9,5 +9,6 @@ body: A string or ribbon by which tlie stocking is held upon the leg. The mark o
   thongs of blue leather about their legs. It is also said to have been perfected
   by Edward III. and to have received some alterations, which were
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

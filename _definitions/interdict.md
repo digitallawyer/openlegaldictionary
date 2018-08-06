@@ -9,5 +9,6 @@ body: 'In Roman law. A de-< cree of the praetor by means of which, in certain ca
   as actions, though they give rise to a summary proceeding: Mackeld. Rom. Law, §
   258'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

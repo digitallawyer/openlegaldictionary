@@ -8,5 +8,6 @@ body: In English practice, of-ficers of the court of chancery, who receiv-ed and
   thelr office. Holthouse; 3 Bl. Comm. 443. They were abolished by St. 5 Vict. c.
   5
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

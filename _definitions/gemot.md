@@ -10,5 +10,6 @@ body: In Saxon law. A meeting or moot; a convention; a public assemblage. These 
   court; the swein-gcmotc, or forest court; the ward-mote, or ward court, whar-ton;
   Cunningham
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

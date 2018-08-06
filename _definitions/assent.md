@@ -8,5 +8,6 @@ body: Compliance; approval of some-thing done; a declaration of willingness to d
   & J. (Md.) 1, 30; Baker v. Johnson County, 37 lowa, 189; Fuller v. Kemp (Com. Pl.)
   16 N. Y. Supp. 160
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

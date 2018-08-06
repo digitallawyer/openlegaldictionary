@@ -6,5 +6,6 @@ body: In English law. A local court which has its sittings in Lon-don only, whic
   receives the petitions of in-solvent debtors, and decides upon the ques-tion of
   granting a discharge
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

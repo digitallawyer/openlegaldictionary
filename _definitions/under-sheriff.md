@@ -7,5 +7,6 @@ body: An oflicer who acts directly under the sheriff, and performs all the dutie
   high-sheriff is necessary. The sheriff is civilly responsible for the acts or omissions
   of his under-sheriff. Mozley & whltley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

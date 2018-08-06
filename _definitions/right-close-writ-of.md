@@ -6,5 +6,6 @@ body: An abol-ished writ which lay for tenants in ancient demesne* and others of
   similar nature, to try the right of their lands and tenements in the court of the
   lord exclusively. 1 Steph. Comm. 224
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

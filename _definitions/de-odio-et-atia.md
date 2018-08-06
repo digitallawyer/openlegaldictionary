@@ -8,5 +8,6 @@ body: A writ directed to the sheriff, commanding him to inquire whether a prison
   cause of suspicion did not appear, then there issued another writ for the slier-iff
   to admit him to bail. 3 Bl. Comm. 128
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

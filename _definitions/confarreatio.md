@@ -7,5 +7,6 @@ body: In Roman law. A sacrificial rite resorted to by marrying persons of high p
   his wife; the civil modes of ef-fectlng the same thing being coemptio, (form* al,)
   and usus mulieris, (Informal.) Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

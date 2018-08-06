@@ -8,5 +8,6 @@ body: Completed; as distiu-guished from initiate, or that which is mere-ly begun
   lands, but his estate is not consummate till the death of the wife. 2 Bl. Comm.
   126,128; Co. Litt. 30a
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

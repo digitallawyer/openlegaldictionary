@@ -7,5 +7,6 @@ body: In the civil law. The civll reputation which belonged to the. Roman citize
   or character, (dignitatis inltes# status;) the highest standing of a Roman citl-zen.
   Dig. 50, 13, 5, 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

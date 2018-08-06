@@ -7,5 +7,6 @@ body: Lat in Roman law. A tab-let Used in voting, and in giving the ver-dict of 
   and regulated the mode of voting by ballot were called “leges tObeUaria." Cal-vin.;
   1 Kent, Comm. 232, note
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

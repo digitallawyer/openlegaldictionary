@@ -9,5 +9,6 @@ body: Acting together or in concert or co-operation; holding in common or interd
   when both or all must be sued in one actlon for its enforcement, not either one
   at the election of the creditor
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

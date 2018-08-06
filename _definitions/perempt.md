@@ -6,5 +6,6 @@ body: In ecclesiastical procedure au appeal is said to be perempted when the app
   has by hls own nct waived or barred his right of appeal; as where he partially complies
   with or acquiesces in the sen-tence of the court. Phillim. Ecc. Law, 1275
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

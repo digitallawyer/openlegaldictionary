@@ -7,5 +7,6 @@ body: In French law. A family council. Certain acts require the sanction of this
   minor has succeeded without Its authority, (Code Nap. 461;) nor can he accept for
   the child a gift inter vivos without the like authority, (Id. 463
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

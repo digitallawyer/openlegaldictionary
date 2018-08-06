@@ -7,5 +7,6 @@ body: A territory distinct from the country in which the supreme sovereign power
   the sovereign may think prop-er to prescribe. U. S. v. The Nancy, 3 wash. C. C.
   286, Fed. Cas. No. 15,854
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

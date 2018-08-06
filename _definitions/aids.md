@@ -9,5 +9,6 @@ body: 'In fendal law, orlglnally mere benevolences granted by a tenant to his lo
   portion to the lord’s eldest daughter on her marriage. Abolished by 12 Car. II.
   c. 24'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

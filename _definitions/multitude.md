@@ -7,5 +7,6 @@ body: An assemblage of many people. According to Coke it is not a word of very p
   a multitude, while others maintain that no definite number is fixed by law. Co.
   Litt. 257
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

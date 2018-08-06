@@ -7,5 +7,6 @@ body: Lack of ability, le-gai qualification, or fitness to discharge the require
   252; Stephenson v. Stephenson, 49 N. C. 473; Nehrling v. State, 112 wis. 637, 88
   N. W. 610
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

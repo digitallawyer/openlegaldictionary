@@ -7,5 +7,6 @@ body: In English practice. A trial brought on by the def end-ant, in caseB where
   in the writ to the sheriff, which directs him, in case, two writs come to his hands,
   to execute but one of them. 3 Bl. Comm. 357
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

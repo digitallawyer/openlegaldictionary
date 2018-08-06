@@ -10,5 +10,6 @@ body: Lat. In Roman law. A certain ceremony or formal process anciently required
   gestures performed, and the vendee then struck the scales with a piece of copper,
   thereby symbolizing the payment, or welgh-lng out, of the stipulated price
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

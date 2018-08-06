@@ -7,5 +7,6 @@ body: The anatomical examination of a dead body by cutting into pieces or exscin
   Supp. 865; Sudduth v. Insurance Co. (C. C.) 106 Fed. 822; Rhodes, v. Brandt, 21
   Hun (N. Y.) 3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

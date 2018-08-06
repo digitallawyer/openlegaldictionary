@@ -4,5 +4,6 @@ letter: P
 permalink: "/definitions/peles.html"
 body: Issues arising from or out of a thing. Jacob
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

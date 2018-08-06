@@ -8,5 +8,6 @@ body: The destruction of govern-ment; lawlessness; the absence of all pollt-Ical
   29 L. R. A. 59; People v. Most. 36 Misc. Rep. 139, 73 N. Y. Supp. 220; Von Gerichten
   v. Seitz, 94 App. Dlv, 130, 87 N. Y. Supp. 968
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

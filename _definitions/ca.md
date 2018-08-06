@@ -5,5 +5,6 @@ permalink: "/definitions/ca.html"
 body: V. An abbreviation for curia ad-visari vult, the court will be advised, will
   consider, will deliberate
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: Corrupted from Adalat, justice, equity; a court of justice. The terms "Dew
   Adawlut" and “Foujdarry Adaw-lut” denote the civil and criminal courts of justice
   in India, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

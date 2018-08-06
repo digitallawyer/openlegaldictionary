@@ -9,5 +9,6 @@ body: Lat. To he remembered ; he it remembered. A formal word with which the bod
   that proceedings “by bill" (in which alone it has been employed) were formerly considered
   as the by-business of the court. Gilb. Com. Pl. 47, 48
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

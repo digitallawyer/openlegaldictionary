@@ -9,5 +9,6 @@ body: To hinder and delay is to do something whlch is an attempt to defraud, rat
   Y.) 186; Crow v. Beardsley, 68 Mo. 439; Burn-ham v. Brennan, 42 N. ¥. Super. Ct.
   63
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

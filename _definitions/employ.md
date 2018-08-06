@@ -10,5 +10,6 @@ body: To engage in one’s service; to use as an agent or substitute in transact
   11 N. Y. 605; Murray v. walker, 83 Iowa, 202, 48 N. W. 1075; Malloy v. Board of
   Education, 102 Cal. 642, 36 Pac. 948; Gurney v. Railroad Co., 58 N. Y. 371
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: writ to take caution or security. A writ which anciently lay against a bis
   had offered sufficient security (idoneam cautloncm) to obey the commands of the
   church; com
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

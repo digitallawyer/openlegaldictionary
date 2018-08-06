@@ -6,5 +6,6 @@ body: In old English law. A writ which issued for apprehending a person who had 
   the king's prest money to serve in the wars, and then hid himself in order to avoid
   goiug
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

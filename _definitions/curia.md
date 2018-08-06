@@ -9,5 +9,6 @@ body: In old European law. A court. The palace, household, or retinue of a sover
   Spelman. A lord’s court held in his manor. The tenants who did snit and service
   at the lord’s court A manse. Cow-eiL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

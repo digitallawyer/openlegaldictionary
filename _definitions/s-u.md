@@ -21,5 +21,6 @@ body: 'Libby, 26 Fed. Cas. 928; U. S. v. winn, 28 Fed. Cas. 735.—Ship''s hnsba
   lading and invoices. the log-book or ship’s journal, and the bill of health. 1 Marsh.
   Ins. c. 9, J 6'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

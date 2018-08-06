@@ -7,5 +7,6 @@ body: Lat. In Roman law. The form of words by which a vote in favor of a propose
   I vote as you propose; I am for the law. The letters “U. R.” on a ballot ex-pressed
   the same sentiment. Adams, Rom. Ant. 98, 100
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

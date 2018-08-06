@@ -10,5 +10,6 @@ body: Private law; the law regulating the rights, couduct, and affairs of Indivi
   of property by the government, either as a matter of territorial sovereignty or
   in trust for the benefit and
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

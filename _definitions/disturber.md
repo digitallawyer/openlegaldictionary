@@ -7,5 +7,6 @@ body: If a blshop refuse or neg-lect to examine or admit a patron’s clerk, wit
   not have any title to present by lapse; for no man shall take advantage of bis own
   wrong. 2 Bl. Comm. 278
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

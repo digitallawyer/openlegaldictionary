@@ -8,5 +8,6 @@ body: Lat Fear; terror. In a tech-nical sense, a reasonable and well-grounded ap
   order to amount to duress avoid-ing a contract. See Bract, lib. 2, c. 5; 1 Bl. Comm.
   131; Calvin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

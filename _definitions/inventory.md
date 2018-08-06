@@ -12,5 +12,6 @@ body: A detailed list of articles of property; a llst or schedule of property, c
   F. Ins. Co. ▼. Knight, Ul Ga. 622, 36 S. E. 821, 52 L. R. A. 70, 78 Am. St Rep.
   216
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

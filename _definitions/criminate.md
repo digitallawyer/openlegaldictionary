@@ -7,5 +7,6 @@ body: To charge oue with crime; to furnish ground for a criminal prosecution; to
   which has a tend-ency to criminate him. Stewart v. John-son, 18 N. J. I.aw, 87;
   Kendrick v. Comm.. 78 Va. 490
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

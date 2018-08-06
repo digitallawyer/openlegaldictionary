@@ -7,5 +7,6 @@ body: otherwise called “book-land,” is property held by deed under certain r
   have arisen most of tbe freehold tenants, who bold of particular manors, and owe
   suit and service to the same. 2 BL Comm. 90
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

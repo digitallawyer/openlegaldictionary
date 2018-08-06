@@ -6,5 +6,6 @@ body: Lat. In the civU law. To have. Sometimes distinguished from tenere, (to hd
   and possidere, (to possess;) habere referring to the right, tenere to the fact,
   and possidere to both. Calvin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

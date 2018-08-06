@@ -6,5 +6,6 @@ body: A feast or entertain-ment made at a funeral in the north of Eng-land; arvi
   bread is bread delivered to the poor at funeral solemnities, and arvil, arval, or
   arfal, the burial or funeral rites. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

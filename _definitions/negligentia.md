@@ -7,5 +7,6 @@ body: Lat. In the civil law. Carelessness; inattention; the omission of proper c
   as it was not any negligentia, but only a high or gross degree of It, that amounted
   to culpa, (actionable or punishable fault
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

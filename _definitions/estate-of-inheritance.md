@@ -10,5 +10,6 @@ body: A species of freehold estate in lands, otherwlse called a “fee,” where
   Hall, 66 Ark. 305, 50 S. W. 690, 74 Am. St Rep. 97; Ipswich v. Topsfield, 5 Metc.
   (Mass.) 351; Brown v. Freed, 43 Ind. 256
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

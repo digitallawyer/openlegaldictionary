@@ -11,5 +11,6 @@ body: In criminal law. The wrongful and fraudulent taking and carrying away by o
   W. 625; People v. Bosworth, 64 Hun, 72, 19 N, Y. Supp. 114; State v. Hawkins, 8
   Port. (Ala.) 463, 33 Am. Dec. 294
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: The expenses which have been incurred, or disbursements made, in connectio
   with a contract, suit, or business transaction. Spoken of an action, it is said
   that the term includes more than what falls under the technical description of “costs.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

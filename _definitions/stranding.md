@@ -11,5 +11,6 @@ body: In maritime law. The drifting, driving, or running aground of a ship on a 
   42 Am. Dec. 188; London Assur. Co. v. Companhla de Moagens, 167 U. S. 149, 17 Sup.
   Ct. 785, 42 L. Ed. 113
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

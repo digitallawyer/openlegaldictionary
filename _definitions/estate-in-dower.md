@@ -8,5 +8,6 @@ body: A species of life-estate which a woman is, by law, entitled to clalm on th
   1 Steph. Comm. 249 ; 2 Bl. Comm. 129; Cruise, Dig. tit 6; 2 Crabb, Real Prop, p.
   124, | 1117; 4 Kent, Comm. 35. See Dowbb
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

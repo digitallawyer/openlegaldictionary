@@ -7,5 +7,6 @@ body: In old English law. A proclamation. Bannus regis; the king’s proc-lamati
   Interfere either by motion or word, whatever they might see or hear. Bract, fol.
   142
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

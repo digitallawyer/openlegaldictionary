@@ -7,5 +7,6 @@ body: A term sometimes em-ployed to describe verbiage inserted in a pleading or 
   on the ground of its failing to include such superfluous matter. See State v. Galllmon,
   24 N. C. 377; State v. Peak, 130 N. C. 711, 41 S. E. 887
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

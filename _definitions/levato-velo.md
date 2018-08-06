@@ -8,5 +8,6 @@ body: Lat. An expression used in the Roman law, and applied to the trial of wrec
   probable solution is that it refers to the place where causes were heard. A sail
   was spread before the door and officers employed to keep strangers from the tribu
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: An immediate female de-scendaut. People v. Kaiser, 119 Cal. 456, 51 Pac. 7
   Jamison v. Hay. 40 Mo. 546. May designate a natural or Illegitimate fe-male child.
   State v. Laurence, 95 N. C., 659
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

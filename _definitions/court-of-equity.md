@@ -8,5 +8,6 @@ body: A court which has jurisdiction in equity, which administers justice aud de
   having the jurisdiction, rules, principles, and practice of tbe common law. Thomas
   v. Phillips, 4 Smedes & M. (Miss.) 423
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A strong passion of the mind excited by real or supposed injuries; not syn
   Chandler v. State, 141 Ind. 106, 39 N. E. 444; Hoffman v. State, 97 wis. 571, 73
   N. W. 51; Fanes v. State, 10 Tex. App. 421, 446
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

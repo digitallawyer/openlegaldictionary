@@ -8,5 +8,6 @@ body: In Scotch law. Double distress; a name given to an action, corresponding t
   and all others to settle thelr clalms, so that the party who sues may he liable
   only “in once and single payment** BelL
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

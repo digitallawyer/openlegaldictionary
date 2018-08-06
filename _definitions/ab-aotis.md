@@ -9,5 +9,6 @@ body: Lat An. officer having charge of acta, public records, registers, jour-nal
   anciently the titles of a chancellor, (cancellarius,) in the early history of that
   office. Spelman, "Cancella-rius.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

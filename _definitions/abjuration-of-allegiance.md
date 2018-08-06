@@ -7,5 +7,6 @@ body: Qne of the steps in the process of naturaliz-ing an alien. It consists in 
   he renounces and abjures all the allegiance and fidelity which he owes to the sovereign
   whose subject he has theretofore been.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

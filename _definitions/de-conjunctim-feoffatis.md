@@ -7,5 +7,6 @@ body: Con-cerning persons jolntly enfeoffed, or seised. The title of the statute
   and other writs, pleading that some one else was seised joint-ly with them. 2 Reeve,
   Eng. Law, 243
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

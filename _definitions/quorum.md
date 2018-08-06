@@ -10,5 +10,6 @@ body: when a’committee, board of directors, meeting of shareholders, legis) a-
   St. 293; Heiskell v. Baltimore, 65 Md. 125, 4 Atl. 116, 57 Am. Rep. 308; Snider
   v. Rlne hart, 18 Colo. 18, 31 Pac. 716
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

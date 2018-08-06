@@ -10,5 +10,6 @@ body: In real property law. Such circumstances, in regard to situation, out-look
   may be given for the defacement of pleasure grounds, the iin-pairment of riparian
   rights, or other destruction of or injury to the amenities of tbe es-tate
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

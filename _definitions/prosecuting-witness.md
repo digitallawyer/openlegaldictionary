@@ -9,5 +9,6 @@ body: This name is given to the private person upon whose complaint or informati
   in cases of robbery, assault, criminal negligence, bastardy, aud tbe liked and who
   instigates the prosecution and gives evi-ddnce
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

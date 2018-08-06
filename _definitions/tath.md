@@ -7,5 +7,6 @@ body: In the counties of Norfolk and Suffolk, the lords of manors anciently clai
   own demesne lands, there to be folded for the improvement of the ground, which liberty
   was called by the name of the “tath." Spelman
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

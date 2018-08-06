@@ -9,5 +9,6 @@ body: The dividing of lands held by Joint tenants, coparceners, or tenants in co
   72 Tex. 229. 10 S. W. 104; weiser v. weiser, 5 watts (Pa.) 279, 30 Am. Dec. 313;
   Gay ▼
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

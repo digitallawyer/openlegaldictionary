@@ -9,5 +9,6 @@ body: An officer of a court, who makes proclamations. Hls principal duties are t
   a witness has been sworn, to proclaim silence when so directed, and generally to
   make such proclamations of a public nature as the judges order
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: 'In insnranoo. Varying frtnn the: risks insured against, as described in t
   Co., 60 N. Y. 484, 19 Am. Rep. 204; Crosby v. Fitch, 12 Conn. 420, 31 Am. Dec. 745;
   The Iroquois, 118 Fed. 1003, 55 O. 0. A. 497'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

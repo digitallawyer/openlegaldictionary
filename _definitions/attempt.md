@@ -11,5 +11,6 @@ body: In criminal law. An effort or endeavor to accomplish a crime, arnount-ing 
   App. 330, 11 S. W. 412; U. S. v. Ford (D. C.) 34 Fed. 26; Com. v. Eagan, 190 Pa.
   10, 42 Atl. 374
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

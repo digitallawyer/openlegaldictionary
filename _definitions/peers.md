@@ -6,5 +6,6 @@ body: In feudal law. The vassals of a lord who sat in his court as judges of the
   co-vassals, and were called “peers,” as being each other’s equals, or of the same
   condition
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Taxes, duties, or impositions. A duty on imported goods or merchandise. St
   Dooley v. U. S., 183 U. S. 151, 22 Sup. Ct 62, 43 L. Ed. 128; Passenger Cases, 7
   How. 407, 12 L. Ed. 702
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

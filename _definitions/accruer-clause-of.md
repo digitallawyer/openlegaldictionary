@@ -7,5 +7,6 @@ body: An express clause, frequently occurring in the case of gifts hy deed or wi
   the beneficiaries his or their shares shall go to the survivor or sur-vivore. Brown.
   The share of the decedent to then said to accrue to the others
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

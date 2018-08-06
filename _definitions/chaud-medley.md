@@ -7,5 +7,6 @@ body: A homicide com-mltted in the heat of an affray and while under the influen
   a man in a casual affray in self-de-fense. 4 Bl. Comm. 184. See 1 Russ. Crimes,
   600
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

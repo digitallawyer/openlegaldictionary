@@ -6,5 +6,6 @@ body: In Spanish law. A summons or citation, issued by authority of a judge, req
   the person to whom it is addressed to appear before the tribunal at a designated
   day and hour.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

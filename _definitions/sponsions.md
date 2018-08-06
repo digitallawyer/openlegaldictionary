@@ -7,5 +7,6 @@ body: In International law. Agreements or engagements made by certain public off
   withont authority or in excess of the authority under which they purport to be made,
   and which therefore require an express or tacit ratification
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

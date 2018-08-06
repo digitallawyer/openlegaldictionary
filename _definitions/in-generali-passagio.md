@@ -8,5 +8,6 @@ body: In the general passage; that is, on the journey to Palestine with the gene
   from simplex possagi-urn, which meant that he was performing a pilgrimage to the
   Holy Land alone
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

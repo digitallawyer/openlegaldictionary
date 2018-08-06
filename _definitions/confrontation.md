@@ -9,5 +9,6 @@ body: In criminal law. the act of setting a witness face to face with the prison
   Pac. 542, 45 L. R. A. 638, 75 Am. St. Rep. 753; People v. Elliott, 172 N. Y. 146,
   64 N. E. 837, 60 L. R. A. 318
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Another name for the Brevarium Alarlclanum, (q. v.) Anian was the referend
   signature, the copies of the brevlary sent to the comites. Mackeld. Rom. Law, $
   68
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

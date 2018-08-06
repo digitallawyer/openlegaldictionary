@@ -8,5 +8,6 @@ body: The name given by the canonists to deeds of which both partB were written 
   word on one part and half on the other. It thus corresponded to the chirograph or
   in-denture of the common law. 2 Bl. Comm 295, 296
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

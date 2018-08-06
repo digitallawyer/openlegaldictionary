@@ -10,5 +10,6 @@ body: The conditional re-mission or forgiveness, by one of the married parties, 
   v. Eg-gerth, 15 or. 626, 16 Pac. 650; Turnbull v. Turnbull, 23 Ark. 615; Odom v.
   Odom, 36 Ga. 318; Polson v. Polson, 140 Ind. 310, 39 N. E. 498
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

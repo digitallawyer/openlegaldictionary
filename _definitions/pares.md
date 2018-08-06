@@ -8,5 +8,6 @@ body: lat A person’s peers or equals; as the Jury for the trial of causes, who
   so the sovereign's vassals, or the lords them* selves, judged each otber in the
   sovereign’s courts. 3 Bl. Comm. 349
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

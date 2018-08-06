@@ -9,5 +9,6 @@ body: Councll; court; tribunal. Apparently so called from belng held within a bu
   raised place from which candidates for seats in parliament address the constituency,
   on the occasion of their nomination, whartpn
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

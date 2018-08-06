@@ -8,5 +8,6 @@ body: In practice. The judgment of a court of equity or admiralty, answering to 
   determining the right of all the parties to the suit, according to equity and fcood
   conscience. 2 Daniell, Ch. Pr. 986; wooster v. Handy (0
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

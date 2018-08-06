@@ -8,5 +8,6 @@ body: In Scotch law, an action of transumpt is an action competent t$ any one ha
   calling upon him to exhibit it, in order that a transumpt, i. e., a copy, may be
   judicially made and delivered to the pursuer. BelL , * »
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A publlc and formal censure or severe reproof, administered to a person In
   for improper conduct in the house. So a military ofiicer, In some cases, is pun-lshed
   by a reprimand administered by hls commanding officer, or by the secretary of war
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

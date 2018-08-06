@@ -11,5 +11,6 @@ body: In Spanish law. The in-stltution and prosecution of a snit from its commen
   the appellate tribunal that has already decided tbe cause, or before some higher
   tribunal, hav-lng jurisdlction of the same. Escriche
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

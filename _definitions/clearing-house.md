@@ -8,5 +8,6 @@ body: An institution or-ganized by the banks of a dty, where their messengers ma
   America, 132 Mass. 147; Philler v. Patter-son, 168 Pa. 468, 32 Atl. 26, 47 Am. St
   Rep. 896
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

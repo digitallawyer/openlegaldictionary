@@ -8,5 +8,6 @@ body: A law passed after the occurrence of a fact or commission of an nct, which
   connection the phrase has a much narrower meaning than^its lit* eral translation
   would Justlfy, as will appear from the extracts glven below
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

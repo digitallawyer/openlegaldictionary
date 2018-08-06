@@ -9,5 +9,6 @@ body: In ecclesiastical law. The holy orders of priest, deacon, and subdeacon, a
   to the ordine* minore* had their prima tonsura, different from the tonsura clericali*.
   Cowell.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

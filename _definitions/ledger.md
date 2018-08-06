@@ -7,5 +7,6 @@ body: A book of accounts in which a trader enters the names of all persons with 
   en-tries to the debit of the person charged, the other for his credits. Into this
   book are posted the items from the day-book or journal
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

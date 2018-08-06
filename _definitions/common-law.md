@@ -8,5 +8,6 @@ body: 1. As distinguished from the Roman law, the modern civil law. the canon la
   obtained among most of the states and peoples of Anglo-Saxon stock. Lux v. Haggin,
   69 Cal. 255, 10 Pac. 674
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

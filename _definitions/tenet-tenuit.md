@@ -9,5 +9,6 @@ body: Lat. He holds; he held. In the Latin forms of the writ of waste against a 
   was used, (the writ being described as “in the tenuit,") and then damages only were
   sought
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

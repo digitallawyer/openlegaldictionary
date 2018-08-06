@@ -8,5 +8,6 @@ body: Based upon; arising from, growing out of, or resting upon; as in the expre
   Conn. 46; Palmer v. Preston, 45 Vt. 158, 12 Am. Rep. 191; Steele v. Hoe, 14 Adol.
   & El. 431; In re Morales (D. C.) 105 Fed. 761
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

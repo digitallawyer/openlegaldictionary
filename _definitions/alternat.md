@@ -7,5 +7,6 @@ body: A usage among dlploma-tlsts by which the rank nnd places of differ-ent pow
   time, either in a certain regular order or one determined hy lot. In drawing up
   treaties and conventions, for example, it Is
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

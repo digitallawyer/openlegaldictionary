@@ -6,5 +6,6 @@ body: Sax. A quit rent, or yearly payment, formerly made by some tenants to the 
   or their landlords, for driving thelr cattle through a manor to fairs or markets.
   Cowell; Blount
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

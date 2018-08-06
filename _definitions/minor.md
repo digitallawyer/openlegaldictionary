@@ -7,5 +7,6 @@ body: An infant or person who is un-der the age of legal competence. A term de-r
   many years. Minor riginti quinque annis, one less than twenty-five years of age.
   Inst. 1, 14, 2
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

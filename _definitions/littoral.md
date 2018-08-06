@@ -7,5 +7,6 @@ body: Belonging to the shore, as of seas and great lakes, webster. Corre-spondin
   sea or lake. But “riparian” is also used co-extenslvely with “littoral.” Commonwealth
   v. Alger, 7 Cush. (Mass.) 94. See Boston v. Lecraw, 17 How. 426, 15 L. Ed. 118
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: The act of exerclsing the right conferred by a chose in action, so as to c
   it into a chose in possession; thus, a debt is reduced into possession by payment
   Sweet.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A charge on logs for the use of a boom in collecting, storing, or raft-ing
   lands for the purpose of fastening booms and boom sticks. Farraud v. Clarke. 63
   Mlnn. 181, 65 N. W. 361
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

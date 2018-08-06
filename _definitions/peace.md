@@ -12,5 +12,6 @@ body: As applied to the affairs of a state or nation peace may be either externa
   constitution of civil soci-ety and by the laws. People v. Rounds, 67 Mich. 482,
   35 N. W. 77; Corvallis v. Carlile, 10 or. 139, 45 Am. Rep. 134
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

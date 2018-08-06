@@ -8,5 +8,6 @@ body: In international law. A species of retaliation, which takes place where a 
   subjects of the latter government found within its dominions. See Vattel, lib. 2,
   c. 18, S 341
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: An old law term signlfying, orig-inally, a “man,” whether slave or fre
   “vassal.” or “feudal tenant or client,” and “husband,” the last being the most common
   meaning of the word
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

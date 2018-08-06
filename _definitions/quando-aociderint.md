@@ -7,5 +7,6 @@ body: ".Lat when they shall come In. The name of a judgment sometimes given agai
   to have the benefit of assets which may at any time thereafter come to the hands
   of the executor"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

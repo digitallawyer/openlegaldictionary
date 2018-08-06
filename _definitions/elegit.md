@@ -18,5 +18,6 @@ body: "(Lat He has chosen.) This is the name, in Engllsh practice, of a writ of 
   See 3 Bl. Comm. 418; Hutcheson v. Grubbs, 80 Va. 254; North American F. Ins. Co.
   v. Graham, 5 Sandf. (N. Y.) 197"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

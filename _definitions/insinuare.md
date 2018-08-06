@@ -7,5 +7,6 @@ body: Lat in the civil law. To put Into; to deposit a writing in conrt, answerin
   if the power or authority be not deposited among the records of the court. Inst.
   4, 11, 3
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

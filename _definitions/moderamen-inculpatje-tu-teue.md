@@ -6,5 +6,6 @@ body: Lat. In Roman law. The regula-tlon of justifiable defense. A term used to 
   that degree of force in defense of the person or property which a person might Bafely
   use, although it should occasion the death of the aggressor. Calvin; Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

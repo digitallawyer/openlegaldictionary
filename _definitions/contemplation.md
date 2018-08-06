@@ -7,5 +7,6 @@ body: The act of the mind in considering with attention. Continued attention of 
   intention of doing or adopting them. The consideration of an event or state of facts
   with the expectation that it will transpire
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

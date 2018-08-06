@@ -8,5 +8,6 @@ body: Certaln classes of merchandise, such as arms and ammunition, whlch, by the
   may be selzed and con-demned for vlolatlon of neutrality. The Peterhoff, 5 wall.
   58. 18 L. Ed. 564; Richardson v. Insurance Co., 6 Mass. 114, 4 Am. Dec. 92
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

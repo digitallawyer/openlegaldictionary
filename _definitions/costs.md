@@ -9,5 +9,6 @@ body: A pecuniary allowance, made to the successful party, (and recoverable from
   1 Am. St Rep. 248; Chase v. De wolf, 09 111. 49; Noyes v. State, 46 wis. 250, 1
   N. W. 1, 32 Am. Rep. 710
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

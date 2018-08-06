@@ -7,5 +7,6 @@ body: The surface, or surface-covering of the land, not including mlnerals benea
   term is equivalent to “land,” and includes all that is below, upon, or above the
   surface
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: An instrument for decap-itation, used in France for the infliction of the 
   from a considerable height upon the neck of the sufferer, immovably fixed in position
   to receive the impact
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

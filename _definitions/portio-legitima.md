@@ -7,5 +7,6 @@ body: Lat in the civil law. The birthright portion; that portion of an lnherltan
   of the decedent, without special cause, by virtue merely of . hls relationship to
   the testator
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

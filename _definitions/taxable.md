@@ -6,5 +6,6 @@ body: Subject to taxatlon; llable * to be assessed, along with others, for a sha
   in a tax. Persons subject to taxation are sometimes called “taxables;" so property
   which may be assessed for taxation is said to be taxable
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

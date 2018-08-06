@@ -9,5 +9,6 @@ body: Contested; adversary; litigated between adverse or contending parties; a j
   to what is called its "voluntary” Ju-risdiction, which is exercised in the grant-lng
   of licenses, probates of wills, dlspensa-tions, faculties, etc
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In the law of elections. A slip of paper bearing the names of the offices 
   written, and is deposited by the voter in a “ballot-box” which is in the custody
   of the officers holding the election, opinion of Justices, 19 R
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

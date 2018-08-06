@@ -7,5 +7,6 @@ body: In Saxon law. The single value of a man or other thing; a single were-gild
   The double gild or compensation was called "twigild," the triple, “trigild” etc.
   ld
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

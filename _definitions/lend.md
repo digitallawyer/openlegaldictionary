@@ -8,5 +8,6 @@ body: To part with a thing of value to another for a time fixed or indefinite, y
   for, with or without compensation for the use as may be agreed upon. Kent v. Quicksilver
   Min. Co., 78 N. Y. 177
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

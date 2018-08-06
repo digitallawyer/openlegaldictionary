@@ -8,5 +8,6 @@ body: In medical ju-risprudence. Intervals occurring in the men-tal life of an i
   relations, or perform other legal acts, without disqualification by reason of his
   disease. See Insanity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

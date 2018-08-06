@@ -8,5 +8,6 @@ body: 'Lunacy is that condition or habit in which the mind is directed by the wi
   inducing a defect in the comparing faculty, owlngs’ Case, 1 Bland (Md.) 388, 17
   Am. Dec. 311: See Insanity'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

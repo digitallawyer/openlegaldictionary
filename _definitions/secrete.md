@@ -8,5 +8,6 @@ body: To conceal or hide away. Particularly, to put property out of the reach of
   437; Guile v. McNanny, 14 Minn. 522 (Gil. 391) 100 Am. Dec. 244 ; Sturz v. Fischer,
   15 Misc. Rep. 410, 36 N. Y. Supp. 894
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

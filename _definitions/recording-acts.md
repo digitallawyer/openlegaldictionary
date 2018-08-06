@@ -6,5 +6,6 @@ body: Statutes enacted in the several states relative to the oflicial recording 
   deeds, mortgages, bills of sale, chattel mortgages, etc., aud the effect of such
   records as notice to creditors, purchasers, incumbrancers, aud others Interested
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

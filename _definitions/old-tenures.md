@@ -8,5 +8,6 @@ body: A treatise, so called to distinguish it from Littletbn’s book on the sam
   III. It is a very scanty tract, but bas the merit of having led the way to Littleton’s
   famous work. 3 Reeve, Eng. Law, 151
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

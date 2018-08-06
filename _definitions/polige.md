@@ -9,5 +9,6 @@ body: Police is the function of that branch of the administrative machinery of g
   Jones, 10 Smedes & M. (Miss.) 247; Peo-ple v. Squire, 107 N. Y. 593, 14 N. E. 820,
   1 Am. SL Rep. 893; Logan v. State, 5 Tex. App. 314
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

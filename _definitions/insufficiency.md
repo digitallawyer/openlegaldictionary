@@ -8,5 +8,6 @@ body: In equity pleading. The legal inadequacy of an answer in equity which does
   Townsend, 8 How. Prac. (N. Y.) 446; Hill v. Fair Haven & W. R. Co., 75 Conn. 177,
   52 Ati. 725
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

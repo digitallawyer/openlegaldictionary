@@ -8,5 +8,6 @@ body: A body of electors chosen in the different states, whose sole duty It is t
   to the whole number of senators and representatives to which the state is entitled
   in congress. Const U. 8. art 2, f 1
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

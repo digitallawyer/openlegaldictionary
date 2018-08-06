@@ -7,5 +7,6 @@ body: Fr. In French law. The preliminary negotiations or bargainings which lead 
   when completed. The term is also used in this sense in international law and the
   practice of diplomacy
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

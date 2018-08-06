@@ -6,5 +6,6 @@ body: In general. 4 member of a free city or jural society, (civitas,) possessin
   all the rights and prlvlleges which can be enjoyed by any person under Its constl-tutlon
   and government, and subject to the corresponding duties
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

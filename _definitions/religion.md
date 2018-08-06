@@ -7,5 +7,6 @@ body: As used in constitutional provisions forblddlng the “establlshment of re
   by a particular church, sect, or deuom-ination. See Reynolds v. U. S., 98 U. S.
   149
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

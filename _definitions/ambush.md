@@ -8,5 +8,6 @@ body: The noun "ambush” means (1) the act of attacking an eneipy unexpect-edly
   at-taeking by surprise. The verb “ambush” means to lie' in wait, to surprise, to
   place in ambush. Dale County v. Gunter, 46 Ala. 142
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

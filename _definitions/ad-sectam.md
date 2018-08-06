@@ -8,5 +8,6 @@ body: At the suit of. Com-nionly abbreviated to ads. Used iu entering and indexi
   A., and the title so written would be an inversion of the more usual form “A. v.
   B.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

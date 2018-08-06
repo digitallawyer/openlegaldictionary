@@ -9,5 +9,6 @@ body: As occaslonally used in statutes prescribing the qualifications of pub-lic
   “honesty,” and “uprightness.” In re Bau-quler’s Estate, 88 Cal. 302, 26 Pac. 178;
   In re Gordon’s Estate, 142 Cal. 125, 75 Pac. 672
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

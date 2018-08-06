@@ -7,5 +7,6 @@ body: A jury verdict that a criminal defendant is not guilty, or the finding of 
   written discharge, freeing someone from  an obligation to pay money or perform a
   duty.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

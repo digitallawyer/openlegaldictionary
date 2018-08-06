@@ -13,5 +13,6 @@ body: A real action to re-cover the possession of land where the ten-ant (or own
   writ is in the post, be-cause it simply alleges that the defendant acquired possesslon
   after the origlnal disseisin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

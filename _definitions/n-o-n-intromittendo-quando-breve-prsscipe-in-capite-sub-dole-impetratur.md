@@ -7,5 +7,6 @@ body: A writ addressed to the justices of the bench, or in eyre, com-raanding th
   of him in capite, had deceitfully ob-tained the writ called “priccipe in capite,"
   any benefit thereof, but to put him to bis writ of right Reg. orig. 4
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

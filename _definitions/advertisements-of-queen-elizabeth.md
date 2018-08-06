@@ -9,5 +9,6 @@ body: Certain articles or ordinances drawn up by Archbishop Parker and some of t
   by the bishops under their general powers. Phillim. Ecc. Law, 910; 2 Prob. Dlv.
   276; Id. 354
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

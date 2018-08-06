@@ -8,5 +8,6 @@ body: Swindling; defrauding. “Deceitful practices in defrauding or endeavoring
   the property of another by any deceitful and Illegal practice or token (short of
   felony) which afTects or may affect the public.” Steph. Crim. Law, 93
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

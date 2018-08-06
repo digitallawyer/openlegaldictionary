@@ -9,5 +9,6 @@ body: Intended to cure (that is. to obviate the ordinary legal effects or con-se
   be void for defects or irregularities or for want of conformity to existing legal
   requlre-ments. Meigs v. Roberts, 162 N. Y. 371, 56 N. E. 838, 76 Am. St. Rep. 322
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

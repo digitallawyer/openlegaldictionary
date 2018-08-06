@@ -7,5 +7,6 @@ body: 'In Romnn lnw. A proper name, frequently used in designating nn indefinite
   “Seius,” in this use, correspond to “John Doe” nnd “Richard Roe," or to “A. B.”
   nnd “C. D.”'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

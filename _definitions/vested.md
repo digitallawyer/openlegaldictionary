@@ -8,5 +8,6 @@ body: Accrued; fixed; settled; absolute; having the character or giving the righ
   App. Div. 359, 42 N. Y. Supp. 924; Smlth v. Pros-key, 39 Mlsc. Rep. 385, 79 N. Y.
   Supp. 851
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

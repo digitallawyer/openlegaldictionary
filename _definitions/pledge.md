@@ -11,5 +11,6 @@ body: In the law of bailment. A ballment of goods to a creditor as security for 
   111. 452; wilcox v. Jackson, 7 Colo. 521; 4 Pac. 966; Glou-cester Bank v. worcester,
   IO Pick. ‘(Mass.)* 531; Llllenthal v. Ballou, 125 Gal.183, 5? Pac. 897
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

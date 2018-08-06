@@ -9,5 +9,6 @@ body: A rule of couduct arising out of the natural relations of human beings, es
   with equal obligation to Individuals and to nations. 1 Kent, Comm. 2, note; ld.
   4, note. See Jus Natubale
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

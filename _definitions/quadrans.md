@@ -7,5 +7,6 @@ body: Lat. In Roman law. The fourth part; the quarter of any number, measure, or
   Also a Roman coin, being the fourth part of an as, equal in value to an English
   half-penny
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

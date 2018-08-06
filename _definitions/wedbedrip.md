@@ -6,5 +6,6 @@ body: Sax. In old English law. A customary service which tenants paid to their l
   in cutting down their corn, or doing other harvest duties; as lf a covenant to reap
   for the lord at the time of hls bidding or commanding. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

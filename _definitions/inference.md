@@ -8,5 +8,6 @@ body: In the law of evidence. A truth or proposition drawn from another which is
   of facts, already proved or admitted. Gates v. Hughes, 44 wis. 336; Whitehouse v.
   Bolster, 95 Me. 458, 50 Ati. 240; Joske v. Irvine, 91 Tex. 574, 44 S. W. 1059
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: In medical jurisprudence. Delirium is that state of the mind in which it a
   The patient in delirium is wholly un-conscious of surrounding objects, or conceives
   them to be different from what they really
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In canon law. Those decretal epistles whlch were publish-ed after the Clem
   other papal constitutions, but seemed to be, as it were, detached from the canon
   law. They continued to be called
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

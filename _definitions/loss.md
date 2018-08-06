@@ -7,5 +7,6 @@ body: In inanranoe. The injury or damage sustained by the insured in consequence
   in consideration of the premium, has undertaken to indemnify the insured. 1 Bouv.
   Inst no. 1215
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

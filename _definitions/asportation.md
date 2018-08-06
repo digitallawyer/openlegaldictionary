@@ -7,5 +7,6 @@ body: 'The removal of things from one place to another. The carrying away of goo
   231. wilson v. State, 21 Md. 1: State v. Higgins, 88 Mo. 354; Rex v. walsh, 1 Moody,
   Cr. Cas. 14, 15'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

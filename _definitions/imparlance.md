@@ -8,5 +8,6 @@ body: In early practice, imparlance meant time given to either of the parties to
   to talk together; i. e., with a view to settling their differences amicably. But
   in modern practice it denotes a time given to the defendant to plead
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

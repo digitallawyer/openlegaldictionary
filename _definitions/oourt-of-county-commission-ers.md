@@ -7,5 +7,6 @@ body: There is in each county of Alabama a court of record, styled the “court 
   who are elected ^t the times pre-scribed by law, and hold office for four years.
   Code Aia. 1886, § 819
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

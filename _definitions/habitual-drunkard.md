@@ -8,5 +8,6 @@ body: A person given to ebriety or the excessive use of in-toxicating drink, who
   Appeal, 107 Pa. 626; Richards v. Richards, 19 UL App. 467; Mc-Bee v. McBee, 22 Or.
   329, 29 Pac. 887, 29 Am. St. Rep. 613
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

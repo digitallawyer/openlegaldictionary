@@ -10,5 +10,6 @@ body: According to the usage of the commercial world, a newsimper is defined to 
   W11-llams v. Colwell, 18 Mlsc. Rep. 399, 43 N. Y. Supp. 720; Kellogg v. Carrico,
   47 Mo. 157; Kerr v. Hltt, 75 111. 51
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

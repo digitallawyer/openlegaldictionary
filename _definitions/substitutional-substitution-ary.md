@@ -12,5 +12,6 @@ body: 'where a will contains a gift of property tq a class of persons, with a cl
   v. osborn, 45 N. J. Eq. 377, 17 AU. 767; In re De Laveaga’s Estate, 119 Cal. 651,
   51 Pac. 1074'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

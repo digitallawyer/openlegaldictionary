@@ -9,5 +9,6 @@ body: Lat. In the civil law. By turning away. A term applied to that klnd of sal
   bpyer acts without partlcular exumina-tion or dlscrlmlnatlon, turning hls face,
   as it were, away. Calvin
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

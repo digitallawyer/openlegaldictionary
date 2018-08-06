@@ -9,5 +9,6 @@ body: The sovereigu, ruler, or chief ex-ecutive magistrate of a state or nation 
   be either hereditary or elective, aud the sovereignty of the kiug may or may not
   be absolute, accord-ing to the constitution of the country
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

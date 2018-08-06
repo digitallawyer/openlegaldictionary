@@ -7,5 +7,6 @@ body: The aggregate of seamen who man a ship or vessel, Including the master and
   master and all other ofilcers. See U. S. v. wlnn, 3 Sumn. 209, 28 Fed. Cas. 733;
   Mlllaudon v. Martin, 6 Rob. (La.) 540; U. S. v. HufT (C. C.) 13 Fed. 630
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

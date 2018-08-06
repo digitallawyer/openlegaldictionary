@@ -9,5 +9,6 @@ body: In taxation. Uniform-lty in taxation implies equality in the bur-den of ta
   so that all property may be taxed alike and equally. Exchange Bank v. Hines, 3 ohio
   St. 15. And see Edye v. Robertson, 112 U
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

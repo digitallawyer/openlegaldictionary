@@ -10,5 +10,6 @@ body: In commerce. The act or practice of buying lands, goods, etc., in expectat
   (Tenn. Ch. App.) 59 S. W. 1067; U. S. v. Detroit Timber & Lumber Co. (C. C.) 124
   Fed. 393
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

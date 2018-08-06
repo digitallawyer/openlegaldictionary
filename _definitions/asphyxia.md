@@ -9,5 +9,6 @@ body: In medical jurisprudence. A morbid condition of swooning, Buffoca-tion, or
   muscles) with a consequent de-flclency of oxygen in the blood. See State v. Baldwin,
   36 Kan. 1, 12 Pac. 328
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

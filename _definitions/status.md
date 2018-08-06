@@ -13,5 +13,6 @@ body: The status of a person is hls legal position or condition. Thus, when we s
   44 Pac. 345, 32 L. R. A. 82, 53 Am. SL Rep. 165; Dunham v. Dun-ham, 57 111. App.
   497
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: The chief crirn-inal court of Scotland, consisting of five lords of sessio
   in his absence, the jnstice clerk, is presldent. This court has a jurisdiction over
   all crimes, and over the whole of Scotland. Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

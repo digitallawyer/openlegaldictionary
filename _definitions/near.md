@@ -10,5 +10,6 @@ body: This word, as applied to space, can have no positive or precise meaning. I
   (Mass.) 367; Indianapolis & V. R. Co. v. Newsom, 54 Ind. 125; Holcomb v. Danby,
   51 Vt. 428
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

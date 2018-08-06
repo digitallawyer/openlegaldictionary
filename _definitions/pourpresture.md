@@ -8,5 +8,6 @@ body: An inclosure. Any-thlng done to the nuisance or hurt of the public demesne
   is that pourpresture is an In-vasion of the jus privatum ot the crown; but where
   the jus publicum is violated it is a
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

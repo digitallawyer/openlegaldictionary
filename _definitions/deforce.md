@@ -6,5 +6,6 @@ body: In English law. To wlth-hold wrongfully; to withhold the possesslon of lan
   from one who is lawfully entitled to them. 3 Bl. Comm. 172; Phelps v. Bald-win,
   17 Conn. 212
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Lat with the living voice; by word of mouth. As applied to the examination
   it signifies voting by speech or outcry, as dis-tinguished from voting by a written
   or print-ed ballot
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

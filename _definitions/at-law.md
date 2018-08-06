@@ -7,5 +7,6 @@ body: According to law; by, for, or in law; particularly in distinction from tha
   at law, attorney or counsellor at law. See Hooker v. Nichols, 116 N. C. 157, 21
   S. E. 208
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

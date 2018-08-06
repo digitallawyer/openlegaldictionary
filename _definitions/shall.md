@@ -12,5 +12,6 @@ body: As used in statutes and similar Instruments, this word is generally im-per
   v. Chicago Sanitary Dist., 184 111. 597, 56 N. E. 953; Madison v. Daley (C. C.)
   58 Fed. 753 ; Cairo & F. R. Co. v. Hecht, 95 U. S. 170, 24 L. Ed. 423
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

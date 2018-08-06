@@ -8,5 +8,6 @@ body: Sp. in Spanish law, trust, con-fldence, and correlatively a legal duty or 
   v. Run-kle. 57 N. J. Law, 111, 30 Atl. 593. But in a special sense, it designates
   a surety or guarantor, or the contract or engagement of suretyship
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

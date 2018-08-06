@@ -8,5 +8,6 @@ body: Raising up; building; a completed building. In a statute on the "erectionâ
   Douglass v. Com., 2 Rawle (Pa.) 264; Brown v. Ilunn, 27 Conn. 334, 71 Am. Dec. 71;
   Mc-Gary v. People, 45 N. Y. 1G0
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

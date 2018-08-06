@@ -10,5 +10,6 @@ body: one who, as a means of livelihood, performs work and labor for those who e
   understood to designate a servant employed in husbandry or manufactures, and not
   dwelling in the home of his employer. w’harton; Mozley & whitley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

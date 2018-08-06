@@ -8,5 +8,6 @@ body: Robbery is the felonious taking of personal property in th§ possession of
   States ▼. Jones, 3 wash, a a 209, Fed. Cas. No. 15,494; Seymour v. State, 15 Ind.
   288;, McDaniel v. State, 16 Miss. 401, 47 Am. Dec. 93
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Thia word, as an adverb, means “at that time,” referring to a time spe
   to a time already fixed. Mangum v. Piester, 16 S. C. 329. it may also denote a contingency,
   and he equivalent to “in that event” Pin-tard v. Irwin, 20 N. J. Law, 505
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

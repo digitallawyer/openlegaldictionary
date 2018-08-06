@@ -10,5 +10,6 @@ body: In patent law. The act or operation of finding out something new; the proc
   72, 5 Sup. Ct 717, 28 L. Ed. 901; Murphy Mfg. Co. v. Excelsior Car Roof Co. (C.
   C.) 70 Fed. 495
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -13,5 +13,6 @@ body: one,who;ab-sconds from his credltors. An absconding, debtor is oue who liv
   &of absented, himself, within the intendment,of the law. Stafford v. Mills, 57 N.
   J. Law, 5?4, $2 Atl. 7; Fitch v. walte, 5 Conn. U7
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

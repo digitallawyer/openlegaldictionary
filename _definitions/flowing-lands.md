@@ -7,5 +7,6 @@ body: This term has ac-quired a definite and specific meaning in latv. It common
   a stream or water-course which is the natural drain and outlet for surplus water
   on such land. Call v. Middle-sex County Com’rs, 2 Gray (Mass.) 235
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

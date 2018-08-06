@@ -9,5 +9,6 @@ body: L. Fr. It seems; it would appear. Thls expresslon is often used in the rep
   by the reporter, or his understanding of the point decided when It is not free from
   obscurity
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

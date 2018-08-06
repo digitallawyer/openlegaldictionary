@@ -10,5 +10,6 @@ body: A species of estate in expectancy, created by opera^ tlon of law, being th
   estate granted or devised. 1 Rev. St N. Y. p. 71S, (723.) $ 12. An estate in reversion
   is where any estate is derived, by
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

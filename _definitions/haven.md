@@ -9,5 +9,6 @@ body: A place of a large recelpt and safe riding of shlps, so situate and secure
   Board of Trustees, 153 U. S. 1, 14 Sup. Ct. 758, 38 L. Ed. 615; De Longuemere v.
   New York Ins. Co., 10 Johns. (N. Y.) 125(a); De Lovio v. Bolt, 7 Fed. Cas. 429
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

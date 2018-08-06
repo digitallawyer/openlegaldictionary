@@ -10,5 +10,6 @@ body: The system which the feudal tenants introduced of granting smaller estates
   so that thenceforth the alienee held of the same chief lord and by the same services
   that hls alienor before him held. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In Engllsh law. By the statute 31 Eliz. c. 3, when an exigent is sued out,
   the most notorious, and most likely to come to his knowledge, a month before the
   outlawry shall take place. 8 Bl. Comm. 284
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

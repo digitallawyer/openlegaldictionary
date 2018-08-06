@@ -7,5 +7,6 @@ body: In med-ical jurisprudence. A method of sernm-diag-nosis of insanity from h
   cobras or other serpents. This test for insanity has recently been employed in Germany
   and some other European countries and in Japan
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In French law. A writ served hy the huissier pursuant to a judgment or to 
   to pay by the notarial deed, his property will be seized and sold. Arg. Fr. Merc.
   Law, 550
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

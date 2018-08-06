@@ -8,5 +8,6 @@ body: 1. A machine or englne for grlnd-lng, sawing, manufacturlng, etc.; also th
   33, 36 N. W. 594; IIalpin v. Insurance Co., 120 N. Y. 73, 23 N. E. 989; Southwest
   Missouri Light Co. v. Scheurich, 174 Mo. 235, 73 S. W. 496
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

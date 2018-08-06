@@ -10,5 +10,6 @@ body: 1. The advance in the price of goods sold beyond the cost of purchase. The
   121 U. S. 264, 7 Sup. Ct 875, 30 L. Ed. 967; Prince v. Lamb, 128 Cal. 120, 60 Pad.
   689; Maryland Ice Co. v. Arctic Ice Mach. Mfg. Co., 79 Md. 103, 29 Atl. 69
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: To show cause against a rule nisi, an order, decree, execution, etc., is t
   one has to offer why it should not be con-firmed, take effect, be executed, or as
   the case may be
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

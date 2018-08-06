@@ -13,5 +13,6 @@ body: This term may have a more or less extensive signification according to the
   such as police judges and justices of the peace. Tlie term also denotes the office
   of a magistrate
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

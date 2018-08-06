@@ -6,5 +6,6 @@ body: This was a duty given to the landlord that his tenants and bondmen might s
   the day on which the English conquered the Danes, being the second Tuesday after
   Easter week. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

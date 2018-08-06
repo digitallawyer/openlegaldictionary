@@ -6,5 +6,6 @@ body: In practice. The return made by the sheriff to a writ of execution when he
   not been able to sell the property seized, that the same remains unsold for want
   of buyers
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

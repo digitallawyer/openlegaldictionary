@@ -10,5 +10,6 @@ body: Heredltary succession. Succession to the ownership of an estate by inherit
   re Dona-hue's Estate, 36 Cal. 332; Sbippen v. Izard, 1 Serg. A R. (Pa.) 224; Brower
   v. Hunt, 18 ohlo St. 338; Allen v. Bland, 134 Ind. 78, 33 N. E. 774
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

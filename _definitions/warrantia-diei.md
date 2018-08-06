@@ -8,5 +8,6 @@ body: A wrlt which lay for a man who, having had a day asslgn-ed him personally 
   was directed to the justices that they might not record him in default for that
   day. Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

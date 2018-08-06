@@ -7,5 +7,6 @@ body: Persona examined as witnesses in a cause, who testify in regard to some pr
   as to such matter on account of their speclal training, skill, or famlllarity with
   it
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

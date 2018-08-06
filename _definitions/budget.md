@@ -6,5 +6,6 @@ body: A name given in England to the statement annually presented to parliament 
   the chancellor of the exchequer, con-talning the estimates of the national revenue
   and expenditure
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

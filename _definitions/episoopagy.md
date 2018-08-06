@@ -7,5 +7,6 @@ body: The office of overlook-ing or overseeing; the office of a bishop, who is t
   diocesan bishops. Trustees of Diocese of Central New York v. Colgrove, 4 Hun (N.
   Y.) 368
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: A purpresture may be defined as an inclosure by a private party of a part 
   506; Sullivan v. Moreno, 19 Fla. 228; U. S. v. Debs (C. C.) 64 Fed. 740; Drake v.
   Hudson River R. Co., 7 Barb. (N. ¥.) 548
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Lat in the clvll law. Part-nershlp; a partnership; the contract of partner
   a common stock, for the sake of sharing in the gain. Hallifax, Civil Law, b. 2,
   c. 18, no. 12
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

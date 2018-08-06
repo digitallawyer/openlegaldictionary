@@ -8,5 +8,6 @@ body: 1. A leaf. In the ancient law-books it was the custom to number the leaves
   “a” and “b” being added to show which of the two pages is intended; thus “Bracton,
   fol. 100a.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

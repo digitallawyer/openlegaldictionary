@@ -8,5 +8,6 @@ body: In Engllsh law. A list of all the ratable hereditaments in a parish, showi
   each parish in a union under section 14 of the union assessment committee act, 1862,
   (St. 25 & 26 Vict. c. 103,) for the purposes of the poor rate, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

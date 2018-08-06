@@ -6,5 +6,6 @@ body: A court erected by act of cou-gress under the articles of confederation wh
   preceded the adoption of the constitn-tion. It had appellate jurisdiction in prize
   causes
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

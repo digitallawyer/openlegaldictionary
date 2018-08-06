@@ -7,5 +7,6 @@ body: A practical construction of a constitution or statute is one deter-mined. 
   Bank v. Smith, 3 Serg. & R. (Pa.) 69; Bloxhain v. Consumers* Electric Light, etc.,
   Co., 36 Fla. 519, 18 South. 444, 29 L. R. A. 507, 51 Am. St. Rep. 44
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

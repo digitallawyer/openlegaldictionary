@@ -7,5 +7,6 @@ body: Proportionately; according to a certain rate, percentage, or pro-portion. 
   that la, each is to receive a divi-deud bearing the same ratio to the whole amount
   of hls claim that the aggregate of
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

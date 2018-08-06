@@ -9,5 +9,6 @@ body: This word, as used in reference to the action of replevin, signifies to re
   or liberating a man from prison on his finding bail to answer for his forthcoming
   at a future time. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

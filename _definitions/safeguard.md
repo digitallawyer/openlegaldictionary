@@ -7,5 +7,6 @@ body: 'In old English law. A special privilege or license, in the form of a writ
   within the king’s dominions, and apprehend: ing violence or injury to their persons
   or property from others. Reg. orig. 26'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

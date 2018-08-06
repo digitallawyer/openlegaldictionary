@@ -7,5 +7,6 @@ body: "(Fr. the bottom of a sack.) A blind aliey; a street which is open at one 
   Talbott v. Railroad Co., 31 Grat. (Va.) 691; Ilickok v. Plattsburg, 41 Barb. (N.
   ¥.) 135"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In Saxon law. A pledge, pledge giver, or surety. The name glven among the 
   for the good conduct of the others. Also the contract or engagement of suretyship;
   and the pledge given
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

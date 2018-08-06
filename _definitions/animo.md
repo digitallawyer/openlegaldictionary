@@ -11,5 +11,6 @@ body: Lat. with intention, dlsposl-tion, design, will. Quo animo, with what inte
   with intention to revoke. 1 Pow. Dev. 595. Testandi, with intention to make a will.
   See Animus and the titles which follow it
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

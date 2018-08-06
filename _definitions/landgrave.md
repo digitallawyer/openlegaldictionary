@@ -8,5 +8,6 @@ body: A name formerly given to those who executed justice on behalf of the Germa
   certain estates called “land-gravates,” ot which they received investiture from
   the emperor. Enc. Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

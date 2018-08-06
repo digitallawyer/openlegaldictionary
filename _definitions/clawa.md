@@ -4,5 +4,6 @@ letter: C
 permalink: "/definitions/clawa.html"
 body: A dose, or small Inclosure. CoweU
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

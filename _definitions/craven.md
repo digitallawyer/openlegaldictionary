@@ -9,5 +9,6 @@ body: In old English law. A word of disgrace and obloquy, pronounced on either c
   sup-l)osed by the event to have been proved for-sworn, and not fit to he put upon
   a jury or admitted as a witness, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

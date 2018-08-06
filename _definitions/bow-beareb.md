@@ -7,5 +7,6 @@ body: An under-officer of the forest, whose duty it was to oversee and true inqu
   all manner of trespasses done, either to vert or venison, and cause them to be pre-sented,
   without any concealment, in the next court of attachment, etc. Cromp. Jur. 201
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

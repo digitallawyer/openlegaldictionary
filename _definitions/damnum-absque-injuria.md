@@ -11,5 +11,6 @@ body: Loss, hurt, or harm without injury in the legal sense, that is, withont su
   v. Standard 011 Co., 50 W. Va. 611, 40 S. E. 591, 56 L. R. A. 804, 88 Am. St. Rep.
   895; Irwin v. Askew, 74 Ga. 581; Chase v. Silverstone, 62 Me. 175, 16 Am. Rep
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

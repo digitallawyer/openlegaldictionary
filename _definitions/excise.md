@@ -8,5 +8,6 @@ body: An lnland imposition, paid sometimes upon the consumption of the com-modlt
   46 L. Ed. 713; Portland Bank v. Apthorp, 12 Mass. 256; Unlon Bank v. Hlll, 3 Cold.
   (Tenn.) 328
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: 'Prudence; vigilant activity; attentiveness; or care, of which there are I
   which-persons of less than common prudence, or indeed of no prudence at all, take
   of their own concerns'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

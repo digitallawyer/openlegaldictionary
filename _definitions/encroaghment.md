@@ -9,5 +9,6 @@ body: An encroachment upon a street or highway is a fixture, such as a wall or f
   Barton v. Campbell, 54 ohlo St. 147, 42 N. EL 698; Grand Rapids v. Hughes, 15 Mich.
   57; State r. Leaver, 62 wis. 387, 22 N. W. 576
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Domns sna oniqne est tntissimnm ro-fngium. To every man his own house is h
   is his castle, not for his own personal protection merely, but also for the protection
   of his family and his property therein. Curtis ▼. Hubbard, 4 Hlll (N. Y.) 437.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

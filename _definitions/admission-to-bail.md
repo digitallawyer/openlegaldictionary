@@ -7,5 +7,6 @@ body: The order of a competent court or magistrate that a person accused of crim
   { 4460; Ann. Codes & St. or. 1901, $ 1492; People v. Solomon, 5 Utah, 277, 15 Pac.
   4; Shelby County v. Simmonds, 33 Iowa, 345
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

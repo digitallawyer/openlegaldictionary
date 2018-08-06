@@ -9,5 +9,6 @@ body: In Engllsh law. The statute 13 Car. II. SL 2, c. 1; by whlch it was provid
   was also required to take tl|e oaths of allegiance and supremacy. 3 Steph. Comm.
   103, 104; 4 Bl. Comm. 58. This statute is now repealed. 4 Steph. Comm. 51L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

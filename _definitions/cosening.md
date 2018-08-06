@@ -7,5 +7,6 @@ body: In old English law. An of-fense, mentioned in the old books, where any-thi
   properly termed by any special name. The same as the stellionatus of the civil law.
   Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: Lat. Let it be prlnted. A license or allowance, granted by the constituted
   in England, before any book could lawfully be printed, and in some other countries
   is still required
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In old English law.. The taking of provisions from any person in fairs or 
   Also the seizing and rescuing of stolen or strayed cattle from the hands of a thief,
   or of those having illegal possession of them; also the reward fixed for such rescue
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

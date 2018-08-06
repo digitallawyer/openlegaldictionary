@@ -8,5 +8,6 @@ body: The taking in of another person’s cattle to be fed, or to pasture, upon 
   Y.) 595; williams v. Miller, 68 Cal. 290, 9 Pac. 160; Auld v. Travis, 5 Colo. App.
   535, 39 Pac. 357
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

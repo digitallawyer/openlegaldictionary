@@ -11,5 +11,6 @@ body: In English law. This was originally a tax or tribute, levied at ln-tervals
   the name ceased to be an accurate designation of the propor-tion of the tax to the
   value taxed. See 1 Bl. Comm. 309
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

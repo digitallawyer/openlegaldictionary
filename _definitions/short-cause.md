@@ -8,5 +8,6 @@ body: A cause which is not likely to occupy a great portion of the time of the c
   regular order. Thls practice obtains in the English chancery and in some of the
   American states
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: A court of record, established in England iu the reign of Henry VIII. For 
   to marry, and flues to be mnde for marrying without his license. Id. 259. It was
   abolished by St 12 Car.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

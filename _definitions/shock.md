@@ -9,5 +9,6 @@ body: In medical jurisprudence. A sudden and severe depression of the vltal func
   or psychical, accordlng as it is caused by dis-turbance of the bodily powers and
   functions or of the mind. See Maynard v. oregon R. Co., 43 or. 63, 72 Pac. 590
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

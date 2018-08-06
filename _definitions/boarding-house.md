@@ -8,5 +8,6 @@ body: A boarding-house is not in common parlance, or in legal mean-ing, every pr
   and which is held out and known as a place of entertainment of that kind. Cady v.
   McDowell, 1 Lans. (N. Y.) 486
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

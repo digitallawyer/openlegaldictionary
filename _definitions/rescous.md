@@ -8,5 +8,6 @@ body: Rescue. The taking back by force goods which had been taken under a distre
   of a wrlt whlch lay in cases of rescue. Co. Litt. 160; 3 BL Comm. 146; Fitzh. Nat
   Brev. 100; 6 Mees. & W. 564
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

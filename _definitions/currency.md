@@ -8,5 +8,6 @@ body: Colued money aud such bank-notes or other paper money as are au-thorissed 
   Co. v. Keiron, 27 HI. 505; Insur-ance Co. v. Kupfer, 2S 111. 332, 81 Am. Dec. 284;
   Lackey v. Miller, 61 N. C. 20
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

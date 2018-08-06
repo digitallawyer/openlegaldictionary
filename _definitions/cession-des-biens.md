@@ -7,5 +7,6 @@ body: In French law. The surrender which a debtor makes of all his goods to his 
   or compulsory, (Judiciairc,) corresponding very nearly to liquidation by arrangement
   and bankruptcy in Eugllsh and American law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

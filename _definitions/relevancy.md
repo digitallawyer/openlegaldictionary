@@ -7,5 +7,6 @@ body: As a quallty of evidence, “relevancy" means appllcabillty to the issue j
   hypothesis being one which, if sus-tained, would logically lnfluence the Issue,
   whart Ev. $ 20
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

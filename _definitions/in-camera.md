@@ -6,5 +6,6 @@ body: In chambers; in private. A cause is said to be heard in camera either when
   hearing is had before the Judge in his private room or when all spectators are excluded
   from the court-room
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

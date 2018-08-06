@@ -11,5 +11,6 @@ body: Lat He has wasted. The act of an executor or administrator in wasting the 
   Steel v. Holladay, 20 or. 70, 25 Pac. 69, 10 L. R. A. 670; Dawes v. Boylston, 9
   Mass. 353, 6 Am. Dec. 72; McGlaughlin v. McGlaughlin, 43 W. Va. 226, 27 S. E. 378
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

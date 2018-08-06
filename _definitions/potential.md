@@ -8,5 +8,6 @@ body: Existing in possibility but not in act; naturally and probably expected to
   or payments on a coutract or engagement al-ready made. Things having a “potential
   existence'’ may be the subject of mortgage, aa
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

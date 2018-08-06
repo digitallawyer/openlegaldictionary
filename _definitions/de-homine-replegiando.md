@@ -7,5 +7,6 @@ body: "(Lat. For replevying a man;) A writ which lies to replevy a man out of pr
   that the man shall be forthcomlng to answer any charge against him. Fitzh. Nat.
   Brev. 66; 3 Bl. Comm. 129"
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

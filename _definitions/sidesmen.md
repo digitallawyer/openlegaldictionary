@@ -9,5 +9,6 @@ body: In ecclesiastical law. These were originally persons whom, in the ancient 
   or “quest-men.” The whole of thelr dutles seems now to have devolved by custom upon
   the church-wardens of a parish. 1 Burn, Ecc. Law, 399
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

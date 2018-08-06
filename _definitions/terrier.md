@@ -8,5 +8,6 @@ body: In English law. A land-roll or survey of lands, containing the quan-tity o
   contains a detail of the temporal possessions of the church in every parish. Cowell;
   Tomlins; Mozley A whltley
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -10,5 +10,6 @@ body: He to whom a guaran-ty is made. This word is also used, as a noun, to deno
   seems better to use this word only as thecorrelative of “guarantor," and to spell
   the verb, and also the name of the contract, “guaranty
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

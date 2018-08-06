@@ -8,5 +8,6 @@ body: A sign or mark; a material evl-dtnce of the existence of a fact Thus, chea
   See State v. Green, 18 N. J. Law, 181; State v. Middleton, Dud. (S. C.) 285; Jones
   ▼. State, 60 Ind. 476
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

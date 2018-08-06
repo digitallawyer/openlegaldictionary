@@ -11,5 +11,6 @@ body: 'In French law. Contracts are of the following varieties: (1) Bilateral, o
   to the other a purely gratuitous benefit; or (6) contrat d titre onereux, tthere
   each party is hound under some duty to the other. Brown'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

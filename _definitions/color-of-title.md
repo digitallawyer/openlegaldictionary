@@ -8,5 +8,6 @@ body: The appearance, semblance, or simulacrum of title. Any fact, extraneous to
   short of establishing lt. wright v. Mattison, 18 How. 56, 15 L. Ed. 280; Cameron
   v. U. S., 148 U. S. 301, 13 Sup. Ct
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

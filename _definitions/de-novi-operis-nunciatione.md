@@ -6,5 +6,6 @@ body: In the civil law. A form of interdict or in-junction which lies in some ca
   where the defendant is about to erect a “new work” (q. v.) in derogation or iujury
   of the plain-tiff’s rights.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

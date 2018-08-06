@@ -8,5 +8,6 @@ body: A conveyance for letters or dis-patches. The word is derived from “posit
   he takes up and lays down hls charge, and to the stages or distances between house
   and house. Hence the phrases, post-boy, post-horse, post-house, etc. wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

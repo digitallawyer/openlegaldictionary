@@ -9,5 +9,6 @@ body: At eommon law. A certain profit issuing yearly out of lands and tene-ments
   in money, provlslons, chattels, or la-bor, issuing out of lands and tenements, in
   retribution for the use. 3 Kent, Comm. 460
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

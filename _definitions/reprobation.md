@@ -6,5 +6,6 @@ body: In ecclesiastical law. The interposition of objections or exceptions; as, 
   the competency of witnesses, to the due execution of Instruments offered in evidence
   and the like
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

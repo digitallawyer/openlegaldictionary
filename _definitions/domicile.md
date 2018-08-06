@@ -7,5 +7,6 @@ body: That place in which a man has voluntarily fixed the habitation of hlm-self
   of maklng a permanent home, untll some unexpected event shall occur to Induce him
   to adopt some other permanent home. In re Gameau, 127 Fed. 677, 62 C. C. A. 403
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

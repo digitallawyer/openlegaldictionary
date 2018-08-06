@@ -6,5 +6,6 @@ body: 'or BIGATA. A cart or chariot drawn with two horses, coupled side to side:
   it is said to be properly a cart with two wheels, sometimes drawn by one horse;
   and'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

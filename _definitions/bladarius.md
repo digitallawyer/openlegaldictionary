@@ -5,5 +5,6 @@ permalink: "/definitions/bladarius.html"
 body: In old English law. A corn-monger; meal-man-or corn-chandler; a bladler, or
   engrosser of corn* or grain. Blount
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

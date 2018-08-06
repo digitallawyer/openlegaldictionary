@@ -7,5 +7,6 @@ body: In English practice. A writ whereby certaln persons (usually the clerk of 
   and serjeants; and they are required to admit the said persons Into their society
   in order to take the assizes. 3 Bl. Comm. 59
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

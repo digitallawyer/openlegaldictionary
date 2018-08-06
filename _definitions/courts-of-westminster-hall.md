@@ -16,5 +16,6 @@ body: The superior courts, both of law and equity, were for centuries fixed at W
   for they generally sit in courts provided for the purpose in, or in the neigh-borhood
   of, Lincoln’s Inn. Brown.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

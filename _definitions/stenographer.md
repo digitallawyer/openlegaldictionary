@@ -7,5 +7,6 @@ body: one who is skilled in the art of short-hand writing; one whose business is
   Appropriations for Deputy State of-flcers, 25 Neb. 662, 41 N. W. 643; Chase v. Vandergrift,
   88 Pa. 217
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: writ of champer-ty. A writ directed to the justices of the bench, commandi
   the enforcement of the statute of champertors. Reg. orig. 183; Fitzh. Nat. Brev.
   172
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

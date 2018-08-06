@@ -8,5 +8,6 @@ body: In English law. Books compiled by the heralds, when prog-resses were solem
   oath; they were allowed to be good evidence of pedigree. 3 Bl. Comm. 106; 8 Steph.
   Comm. 724
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -12,5 +12,6 @@ body: A title of nobility, formerly the highest in England, now the third, ranki
   by no territory, private or judicial rights, but merely coufers nobility and an
   hereditary seat in the* house of lords, whar-ton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

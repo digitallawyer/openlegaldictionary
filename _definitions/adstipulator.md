@@ -8,5 +8,6 @@ body: In Roman law. An accessory party to a promise, who received the same promi
   coextensive with the amount of his own stipulation. Sandars, Just Inst (5th Ed.)
   348
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

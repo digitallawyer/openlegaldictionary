@@ -6,5 +6,6 @@ body: In medical jurispru-dence. A kind of mental unsoundness char-acterized by 
   depression of spirits, ill-grounded fears, delusions, aud brooding over one particular
   subject or train of ideas webster. See Insanitt
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: In medical jurisprudence, one which prevents, ob-structs, or interferes wi
   L. Ins. Co., 66 Barb. (N. Y.) 472. Distinguished from “organic” disease, which is
   due to some injury to, or lesion or malformation in, the organ in question
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

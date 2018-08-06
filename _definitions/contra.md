@@ -9,5 +9,6 @@ body: Against, confronting, opposite to; on the other hand; on the contrary. The
   after citation of cases in support of a position, contra is often prefixed to citations
   of cases opposed to it
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

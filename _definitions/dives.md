@@ -7,5 +7,6 @@ body: Iu the practlce of the English chancery division, “dives costs” are co
   su-lng or defending in formd pauperis, and which consisted only of his costs out
   of pocket. Daniell, Ch. Pr. 43
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

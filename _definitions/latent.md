@@ -5,5 +5,6 @@ permalink: "/definitions/latent.html"
 body: Hidden; concealed; that does not appear upon the face of a thing; as, a latent
   ambiguity. See Ambiouitt
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

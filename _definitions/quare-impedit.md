@@ -7,5 +7,6 @@ body: wherefore he hin-ders. In English practice. A writ or action which lies fo
   so called from the emphatic words of the old form, by which the dlsturh-er was summoned
   to answer why he hinders the plaintifT. 3 Bl. Comm. 246, 248
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

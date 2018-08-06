@@ -9,5 +9,6 @@ body: In pleading. The statement of matters of fact dlrectly (excluding the nece
   64 Am. St Rep. 849; Jen-nlngs v. State, 7 Tex. App. 358; Ash v. Pur-nell (Com. Pl.)
   11 N. Y. Supp. 54
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

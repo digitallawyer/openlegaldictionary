@@ -8,5 +8,6 @@ body: 1. Any act causing annoyance, disquiet, agitation, or derangement to anoth
   wash. 423, 39 Pac. 665; George v. George, 47 N. H. 33; Varney v. French, 19 N. H.
   233
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

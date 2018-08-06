@@ -8,5 +8,6 @@ body: In Spanish and Mex-ican law. Alienation; transfer of property. The act by 
   also the contracts of emphyteusis, pledge, and mortgage, and even the crea-tion
   of a servitude upon an estate. Escrlche; Mulford v. Le Franc, 26 Cal. 88
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

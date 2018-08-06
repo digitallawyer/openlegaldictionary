@@ -6,5 +6,6 @@ body: Maid's fee. A Brltlsh word signifying a customary fine payable to lords of
   manors on marriage of the tenant’s daughters, or otherwlse on thelr committing incontinence.
   Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

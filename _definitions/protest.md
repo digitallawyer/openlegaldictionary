@@ -10,5 +10,6 @@ body: 1. A formal declaration made by a person interested or concerned in some a
   which would attach to him unless he ex-pressly negatived his assent to or voluntary
   participation in the act
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

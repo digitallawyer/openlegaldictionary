@@ -6,5 +6,6 @@ body: In ecclesiastical law. 8ynodals, pentecostals, and other customary payment
   from the clergy to their diocesan bishop, formerly collected by the rural deans.
   Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

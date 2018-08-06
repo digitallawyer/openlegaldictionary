@@ -9,5 +9,6 @@ body: The testimony of a witness taken upon interrogatories, not in open court, 
   19 C. C. A. 259; Indianapolis water Co. v. Amer-tcan Strawboard Co. (C. C.) 65 Fed.
   535
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

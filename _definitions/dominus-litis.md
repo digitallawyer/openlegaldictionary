@@ -9,5 +9,6 @@ body: Lat. Tbe master of the suit; i. e., the person who was really and directly
   for one side, and is treated by the court as liable for costs. See In re Stover,
   1 Curt. 201, Fed. Cas. No. 13,507
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

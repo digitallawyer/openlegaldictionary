@@ -6,5 +6,6 @@ body: A will or deed written entirely by the testator or grantor with hls own ha
   Estate of Billings, 64 Cal. 427, 1 Pac. 701; Harrison v. weatherby, 180 111. 418,
   64 N. E. 237
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

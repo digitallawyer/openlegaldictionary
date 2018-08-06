@@ -16,5 +16,6 @@ body: titutes of Gains. An elementary work of the Roman jurist Gaius; important 
   comment upon a treatise on tenures, comoiled by Littleton, a judge of the common
   pleas, temp. Edward
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

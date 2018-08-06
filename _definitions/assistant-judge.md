@@ -7,5 +7,6 @@ body: A judge of the English court of general or quarter sessions in Middlesex. 
   In heing salaried. St. 7 & 8 VicL c. 71; 22 & 23 Vlct. c. 4; Pritch. Quar. Sees.
   31
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

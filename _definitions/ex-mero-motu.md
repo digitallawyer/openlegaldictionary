@@ -9,5 +9,6 @@ body: TU. of his own mere motion; of his own accord; voluntarily and without pro
   are not 6trlctly entitled to, but which will prevent injustice, it is said to act
   ex mero motu, or ex proprio motu, or sua sponte, all these terms being here equivalent
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

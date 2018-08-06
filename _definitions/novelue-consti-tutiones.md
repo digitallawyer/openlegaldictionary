@@ -10,5 +10,6 @@ body: NSTI-TUTIONES.) New constitutions; generally translated in English, “Nov
   Civilis, (q. v.,) and now constitute one of its four prin-cipal divisions. Mackeld.
   Rom. Law, 8 80; 1 Kent, Comm. 541
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

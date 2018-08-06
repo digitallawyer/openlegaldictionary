@@ -8,5 +8,6 @@ body: The annulment of a law by constitutional authority. It stands opposed to r
   which only sets it aside in a particular instance; and from an-tiquation. which
   is the refusing to pass a law. Encyc. Lond
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

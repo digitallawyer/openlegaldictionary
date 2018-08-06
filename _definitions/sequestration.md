@@ -8,5 +8,6 @@ body: In equity prao-ticc. A writ authorizing the taking Into the ■custody of 
   directed to the sheriff, but more commonly to four commissioners nominated by the
   com-plalnant. 3 Bl. Comm. 444; Ryan v. Klngs-hery, 88 Ga. 361, 14 S. E. 596
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

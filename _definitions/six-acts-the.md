@@ -9,5 +9,6 @@ body: The acts passed in 1819, for the pacification of England, are so called. T
   and blasphemous libels; and checked pamphleteering by extending the newspaper stamp
   duty to political pamphlets. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

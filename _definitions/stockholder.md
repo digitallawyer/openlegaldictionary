@@ -7,5 +7,6 @@ body: A person- wbo owns shares of stock in a corporation or joint-stock company
   Corwith v. Culver, 69 111. 502; Hirsh-feld v. Bopp, 145 N. Y. 84, 39 N. E. 817;
   State v. Hood, 15 Rlch. Law (S. C.) 180
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

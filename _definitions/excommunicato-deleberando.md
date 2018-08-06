@@ -6,5 +6,6 @@ body: A writ to the sheriff for delivery of an ex-communicated person out of pri
   upon certificate from the ordinary of his conform-ity to the ecclesiastical jurisdiction.
   Fltzh. Nat Brev. 63.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

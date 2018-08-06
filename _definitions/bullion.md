@@ -10,5 +10,6 @@ body: Gold and silver Intended to be coined. The term la usually applied to a qu
   Kennon, 3 Mont. 44; Thalheim v. State, 38 Fin. 169, 20 South. 938; Counsel v. Min.
   Co., 5 Daly (N. Y.) 77
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: A piace near; an adjoining or surrounding district; a more immediate vicin
   Co. v. Mehrtens, 97 Cal. 676, 32 Pac. 802; State v. Henderson, 29 W. Va. 147, 1
   S. E. 225; Peters v. Bourneau, 22 111. App. 177
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

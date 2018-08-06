@@ -7,5 +7,6 @@ body: Accepted by general, vulgar, or publlc opinion. Thus, land may be reputed 
   or a manor, or be a parish or a manor in reputation, although it is in reality no
   parish or manor at all. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

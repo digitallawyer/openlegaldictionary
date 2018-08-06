@@ -6,5 +6,6 @@ body: Fr. In French marine law. A local pilot whose business was to assist the p
   of the vessel in guiding her course Into a harbor, or through a river or channel.
   Martin v. Farnsworth, 33 N. I. Super. CL 260
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

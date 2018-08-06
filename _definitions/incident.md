@@ -10,5 +10,6 @@ body: This word, used as a noun, denotes anything which inseparably belongs to, 
   though sepa-rable in equity. See Cromwell v. Phipps (Sur.) 1N. Y. Supp. 278; Mount
   Carmel Fruit Co. v. webster, 140 Cal. 183, 73 Pae 826
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

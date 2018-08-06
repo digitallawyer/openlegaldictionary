@@ -7,5 +7,6 @@ body: L. Fr. To take. Rref 4 prendre la terre, a writ to take the land. Fet Ass.
   or a right coupled with a profit. 1 Crabb, Real Prop. p. 125, f 115. Distin-guished
   from an easement. 5 Adol. & E. 758. Sometimes written as one word, apprendre, apprender
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

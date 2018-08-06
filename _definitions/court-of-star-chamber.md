@@ -12,5 +12,6 @@ body: This was an English court of very ancient origin, but new-modeled by St. 3
   for honorable that which it pleased, and for just that which it profited, and becoming
   both a court of law
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

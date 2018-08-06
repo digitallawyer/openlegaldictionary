@@ -8,5 +8,6 @@ body: A mortuary, thus termed because, when a mortuary became due on the death o
   the death of a clergyman to the bishop of the diocese, till abolished by 12 Anne
   St. 2, c. 6. 2 Bl. Comm. 426
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

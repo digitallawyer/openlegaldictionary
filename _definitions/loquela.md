@@ -8,5 +8,6 @@ body: Lat. A colloquy; talk. In old Engllsh law, this term denoted the oral alte
   talk-ing together of tlie parties. Loqucla sine die, a postponement to an indefinite
   time
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

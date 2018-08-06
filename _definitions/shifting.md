@@ -8,5 +8,6 @@ body: Changlng; varylng; pass-lng from one person to another by substltu-tlon. â
   a prima facie case or defense by evldence, of such a character that it then becomes
   incumbent upon the other to rebut it by contradictory or defenslve evidence
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

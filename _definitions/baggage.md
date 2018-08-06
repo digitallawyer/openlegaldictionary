@@ -7,5 +7,6 @@ body: In the law of carriers. This terra comprises such articles of per-sonal co
   not merchandise or other valu-ables, although carried in the trunks of passengers,
   which are not designed for any such
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

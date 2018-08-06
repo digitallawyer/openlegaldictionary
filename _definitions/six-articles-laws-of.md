@@ -7,5 +7,6 @@ body: A celebrated act entitled â€œAn act for abolishing di-versity of opinion,â
   Cathollc religion, under the severest penalties; repealed by SL 1 Eliz. c. 1. 4
   Reeve, Eng. Law, 378
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

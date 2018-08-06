@@ -7,5 +7,6 @@ body: Legal capacity is the attri-bute of a person who can acquire new rights, o
   as manifested in juristic acts, without any restraint or hindrance arising from
   his status or legal condition
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

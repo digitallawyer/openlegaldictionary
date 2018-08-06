@@ -7,5 +7,6 @@ body: Lat in Roman law. The momentary condition in which a fllius, etc., might b
   was absolutely complete. The condltlou was not like the dominica potestas over slaves,
   but slaves are frequently called “man-cipia” in the non-legal Roman authors. Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

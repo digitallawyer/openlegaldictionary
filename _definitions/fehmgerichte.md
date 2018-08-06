@@ -9,5 +9,6 @@ body: The name given to certain secret tribunals which flourished in Germany fro
   court existed in westphnlia (though wlth greatly diminished powers) until finally
   sup-pressed in 1811
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -13,5 +13,6 @@ body: 'Usage is a reasonable and law-ful public custom concerning transactions o
   299, 29 N. E. 613; Morningstar v. Cunningham. 110 Ind. 328, 11 N. E. 593, 59 Am.
   Rep. 211'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: The selecting or nominating a jury of twelve men out of the whole number r
   in turn, strike off a certain number of names, until the list is reduced to twelve.
   A Jury thus chosen is called a “struck jury.”
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -8,5 +8,6 @@ body: Lat. A founding or foun-dation. Particularly applied to the creation and e
   powers, while “fundatio perflciens" is the endowment or grant or gift of funds or
   revenues. Dartmouth College v. Woodward, 4 wheat. 667, 4 L. Ed. 629
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

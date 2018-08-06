@@ -7,5 +7,6 @@ body: A custodian, manager, or su-perlntendent; one who has the care, cus-tody, 
   8 N. D. 548, 80 N. W. 481; Fishell v. Morris, 57 Conn. 547, 18 Atl. 717, 6 L. R.
   A. 82; McCoy v. Zane, 65 Mo. 15; Stevens v. People, 67 111. 590
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

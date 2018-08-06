@@ -9,5 +9,6 @@ body: In English law. Be that has full possession of a parochial church. A recto
   standing salary. 1 Bl. Comm. 384, 388. See Bird v. Bt Mark's Church, 62 Iowa, 567,
   17 N. W. 747
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

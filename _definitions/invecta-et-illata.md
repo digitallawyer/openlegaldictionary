@@ -7,5 +7,6 @@ body: Lat. In the civil law. Things carried in and brought in. Articles brought 
   lessor as security for the rent Dig. 2. 14, 4, pr. The phrase is adopted in Scotch
   law. See Bell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

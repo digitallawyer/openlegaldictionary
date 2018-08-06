@@ -9,5 +9,6 @@ body: To pave is to cover with stones or brick, or other suitable material, so a
   v. Ball, 20 Iowa, 282; Harrisburg v. Segelhaum, 151 Pa. 172, 24 Atl. 1070, 20 L
   R. A. 834
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

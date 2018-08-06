@@ -7,5 +7,6 @@ body: By “useful," in the patent law, is meant not an invention in all cases s
   to frivolous and mischievous, inven-tion. Lowell v. Lewis, 1 Mason, 182, 186, Fed.
   Cas. No. 8,568
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

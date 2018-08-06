@@ -8,5 +8,6 @@ body: A sum of money is said to be payable when a person is under an obliga-tion
   at once, as opposed to “owing.” Sweet And see First Nat. Bank v. Greenville Nat
   Bank, 84 Tex. 40, 19 S. W. 334; Easton v. Hyde, 13 Minn. 91 (Gil. 83
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

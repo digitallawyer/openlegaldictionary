@@ -8,5 +8,6 @@ body: Lat. In Roman law. A precarl-oug enjoymeut of land, corresponding wlth the
   so long as the owner found him convenient, aud had to go so soon as ever he was
   in the owner’s way, (moles tus.) The usttarius could not have
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

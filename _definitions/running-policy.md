@@ -8,5 +8,6 @@ body: A running policy is one which contemplates successive In-surances, aud whi
   Code Cal. § 2597. And see Corporation of London Assurance v. Paterson, 106 Ga. 538,
   32 S. E. 650
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

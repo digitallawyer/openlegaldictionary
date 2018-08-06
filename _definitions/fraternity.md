@@ -8,5 +8,6 @@ body: In old Eugllsh law. “A corporation is an investing of the people of a pl
   or business into a company, and their laws and ordinances cannot bind strangers."
   Cuddon v. Eastwick, 1 Salk. 192
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

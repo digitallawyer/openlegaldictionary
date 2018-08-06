@@ -6,5 +6,6 @@ body: Lat. Tlie service of work and labor done by lnhabitants and adjotnlng tena
   in bulldlug or repairing the walls of a clty or castle; their personal service was
   commuted into murage, (q. v.) Cowell
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

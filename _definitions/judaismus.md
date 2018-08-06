@@ -7,5 +7,6 @@ body: The religion and rites of the Jews. Dn Cange. A quarter set apart for resi
   marcus sterlingorum ad ac-quietandam terrain proedictum de Judaismo, in quo fuit
   impignorata. Du Cange. An Income anciently accruing to the king from the Jews. Blount
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In criminal procedure, when a prisoner is convicted on a trial for treason
   should not proceed to judgment against him; this demand is called the "allocutus,"
   or “allocution,” nnd is entered on the record. Archb. Crim. PL 173; State v
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

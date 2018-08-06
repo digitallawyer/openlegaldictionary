@@ -8,5 +8,6 @@ body: A subdivision of a state created by legislative authority, for the purpose
   or the issue of bonds, and sometimes with authority to make rules or ordinances
   for the regulation of the work in hand
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

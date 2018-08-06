@@ -17,5 +17,6 @@ body: The condition of a person who is Insolvent; inability to pay one’s debts
   Exch.. Nat Bank, 152 111. G05, 38 N. E. 1017; Rug-gles v. Cannedy, 127 Cal. 290,
   53 Pac. 916, 46 L. R. A. 371
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

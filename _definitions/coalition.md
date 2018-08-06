@@ -6,5 +6,6 @@ body: In French law. An un-lawful agreement among several persons not to do a th
   except on some conditions agreed upon; particularly, industrial com-binations, strikes,
   etc.; a conspiracy
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

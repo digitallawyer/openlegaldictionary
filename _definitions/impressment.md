@@ -11,5 +11,6 @@ body: A power possessed by the English crown of taking persons or property to ai
   passed in favor of certain callings (e. g., persons employed in the Greenland fisheries)
   or voluntarily. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

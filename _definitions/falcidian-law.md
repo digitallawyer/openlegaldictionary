@@ -11,5 +11,6 @@ body: In Roman law. A law on the subject of testamentary disposi-tion, enacted b
   the heir may have the right to make a proportional deduction from each legatee,
   so far as necessary. Mackeld. Rom. Law, § 771; Inst. 2, 22
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

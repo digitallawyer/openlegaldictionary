@@ -6,5 +6,6 @@ body: Fr. In French law. A prelimlnary deduction; particularly, the portion or s
   which one member of a firm is entitled to take out of the partnership as-sets before
   a division of the property is made between the partners
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

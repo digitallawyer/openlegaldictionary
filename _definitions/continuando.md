@@ -6,5 +6,6 @@ body: In pleading. A form of allegation in which the trespass, criminal offense,
   other wrongful act complained of is charged to have been committed on a specified
   day and to have “continued” to the present time, or is averred to hare been
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

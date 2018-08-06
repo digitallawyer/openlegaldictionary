@@ -7,5 +7,6 @@ body: In Roman law. one who act-ed for another; one who attended to an-otber's b
   master’s business or affairs, received and paid out moneys, and - kept accounts.
   Burrill
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

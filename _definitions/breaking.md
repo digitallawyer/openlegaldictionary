@@ -12,5 +12,6 @@ body: Forcibly separating, parting, disintegrating, or piercing any solid substa
   v. State, 24 Tex. App. 287, 6 S. W. 303; Mathews v. State, 36 Tex. 675; Carter v.
   State, 68 Ala. 98; State v. Newbegin, 25 Me. 503; McCourt v. People, 64 N. ¥. 585
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

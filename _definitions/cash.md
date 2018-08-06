@@ -7,5 +7,6 @@ body: Ready money; whatever can be used as money without heing converted into an
   Cal. 221; Dazet v. Landry, 21 Nev. 291, 30 Pac. 1064; Blair v. wilson, 28 Grat.
   (Va.) 165; Haviland v. Chace, 39 Barb. (N. Y.) 284
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: This is a word of comparison and relation In tenure, the cor-relative of w
   with its etymological meaning, nnd, as so used, it is likewise opposed to priority.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

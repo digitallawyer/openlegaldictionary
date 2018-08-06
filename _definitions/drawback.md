@@ -8,5 +8,6 @@ body: In the customs laws, thls term denotes an allowance made by the gov-ernmen
   amounts, in some cases, to the whole of the original duties; In others, to a part
   only
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

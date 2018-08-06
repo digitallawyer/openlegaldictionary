@@ -10,5 +10,6 @@ body: And others; and other things; and so on. In its abbreviated form (etc.) th
   Hun (N. Y.) 579; Com. v. Ross, 6 Serg. & R. (Pa.) 428; In re Schouler, 134 Mass.
   426; High Court v. Schweitzer, 70 111. App. 143
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

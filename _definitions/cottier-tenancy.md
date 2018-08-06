@@ -8,5 +8,6 @@ body: 'A species of ten-ancy in Ireland, constituted by an agreement in writing,
   to be for not more than a month at a time; the landlord to keep the house in good
   repair. Landlord and Tenant Act, Ireland, (23 & 24 Vict c. 154, $ 81'
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

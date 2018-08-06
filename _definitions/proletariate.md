@@ -7,5 +7,6 @@ body: The class of prole-tarii; the lowest stratum of the people of a country, c
   by their isolation nnd their poverty, have no place in the established or-der of
   society
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

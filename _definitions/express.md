@@ -7,5 +7,6 @@ body: Made known distinctly and explicitly, and not left to inference or im-plic
   as distinguished from that which is inferred from conduct. The word is usually contrasted
   with “Implied.” State v. Denny, 118 Ind.’ 449, 21 N. E. 274, 4 I
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

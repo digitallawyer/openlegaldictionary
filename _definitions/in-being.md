@@ -7,5 +7,6 @@ body: In existence or life at a giv-en moment of time, as, in the phrase “life
   circumstances be considered as “in being.” Phillips v. Herron, 55 ohio St. 478,
   45 N, E. 720; Hone v. Van Schalck, 3 Barb. Ch. (N. Y.) 509
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: A final or con-clusive agreement. In the process of “levying a fine,” 
   of court, nettling the title to the land, and which was binding upon them like any
   judgment of the court. 1 washb. Real Prop. *70
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

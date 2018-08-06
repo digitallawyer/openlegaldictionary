@@ -13,5 +13,6 @@ body: The court formed by the English judicature act, 1873, (as modified by the 
   jurisdiction of the house of lords and privy council, which was originally intended
   to be transferred to it, has been allowed to remain. Sweet
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

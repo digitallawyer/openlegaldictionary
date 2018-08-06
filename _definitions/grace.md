@@ -7,5 +7,6 @@ body: This word is commonly used in contradistinction to “right” Thus, in SL
   being such subjects of equity jurisdiction as were exclusively matters of equity.
   Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

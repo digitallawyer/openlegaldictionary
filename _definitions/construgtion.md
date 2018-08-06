@@ -9,5 +9,6 @@ body: The process, or the art, of determining the sense, real meaning, or proper
   or writings bearing upon the same or a con-nected matter, or by seeking and applying
   the probable aim and purpose of the pro-vision
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

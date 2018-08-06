@@ -6,5 +6,6 @@ body: A writ or mandate to a sheriff to de-liver to his successor the county, an
   ap-purtenances, with the rolls, briefs, remem-brance, and all other things belonging
   to his office. Reg. orig. 295
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

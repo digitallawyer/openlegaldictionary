@@ -14,5 +14,6 @@ body: From writings formerly seen. A term used as descriptive of that kind of pr
   presump-tlon that the letters or documents were the handwriting of the party. 5
   Adol. & E. 730
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

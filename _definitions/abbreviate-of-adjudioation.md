@@ -7,5 +7,6 @@ body: In Scotch law. An abstract of the decree of adjudication, and of the lauds
   by which the real estate of a debtor is adjudged to belong to his creditor in payment
   of a debt; and the abbreviate must he recorded in the register of adjudications.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

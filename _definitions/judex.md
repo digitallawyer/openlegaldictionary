@@ -9,5 +9,6 @@ body: Lat. In Roman law. A private person appointed by the prtetor, with the con
   him were said to be in judicio, as those before the- prsetor were said to be in
   jure
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

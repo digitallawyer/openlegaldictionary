@@ -14,5 +14,6 @@ body: By allegiance is meant the obligation of fidelity and obedience whlch the 
   Johns. (N. Y.) 191; U. S. v. wong Kim Ark, 169 U. S. 649, 18 Sup. Ct. 456, 42 L.
   Ed. 890; wallace v. Harmstad, 44 Pa. 501
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In English law. All bills which relate to the pub-llc income or expenditur
   of the public money are based upon resolutions moved in a com-mittee of supply,
   which is always a committee of the whole house, wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

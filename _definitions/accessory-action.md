@@ -7,5 +7,6 @@ body: In Scotch prac-tice. An action which is subservient or auxiliary to anothe
   and actions of “tran-sumpts,” by which copies of principal deeds are certified.
   Bell, Dict
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

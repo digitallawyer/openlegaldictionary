@@ -7,5 +7,6 @@ body: In insurance. An invasion from abroad, or an internal rebel-lion, where ar
   towns becomes unavoida-ble. These words cannot mean the power of a common mob. 2
   Marsh. Ins. 791
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

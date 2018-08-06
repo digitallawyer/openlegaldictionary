@@ -7,5 +7,6 @@ body: A court of arbitrators, created for the convenience of merchants in the ci
   members of the chamber of commerce, and between members and outside merchants who
   voluntarily submit them-selves to the jurisdiction of the court
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

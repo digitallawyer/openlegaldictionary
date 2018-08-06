@@ -15,5 +15,6 @@ body: A term which may be applied generally to all dls-honest or fraudulent riva
   deloyale.” See Reddnwny v. Bau-ham. [18961 App. Caa. 199; Singer Mfg. Co. ▼. June
   Mfg. Co.. 163 U. 8. 169, 16 Sup. Ct
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

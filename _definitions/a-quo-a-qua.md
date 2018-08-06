@@ -6,5 +6,6 @@ body: From which. The judge or court from which a cause has been brought by erro
   or appeal, or has otherwise been removed, is termed the judge or court a quo; a
   qua. Abbott
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

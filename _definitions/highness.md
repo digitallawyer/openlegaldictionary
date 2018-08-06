@@ -7,5 +7,6 @@ body: A title of honor given to princes. The kings of England, before the time o
   “Highness.” The children of crowned heads generally recelve the style of "Highness."
   wharton
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

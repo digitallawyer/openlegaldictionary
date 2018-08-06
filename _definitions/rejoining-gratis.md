@@ -7,5 +7,6 @@ body: Rejoining vol-untarlly, or wlthout being required to do so by a rule to re
   without putting the plain-tiff to the necesslty and expense of obtaining a rule
   to rejoin. 10 Mees. & W. 12; Lush, Pr. 396; Brown
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -7,5 +7,6 @@ body: In pleading. An action of replevin is said to be in the detinuit when the 
   is, of course, subject in such case to the judgment of the court upon his title
   to the property claimed. Bull. N. P. 52L
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -9,5 +9,6 @@ body: Lat He undertook; he promised. A promise or engagement by which one person
   (though no formal one has pussed) from the conduct of the party or the clr-cumstances
   of the case
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

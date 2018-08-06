@@ -8,5 +8,6 @@ body: This term is sufficiently wide to include all contiguous and connected vei
   and machinery In such contiguous and connected veins. MacSwln. Mines, 25. See Carey
   ▼. Bright, 58 Pa. 85
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

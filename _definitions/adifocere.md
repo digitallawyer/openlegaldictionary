@@ -7,5 +7,6 @@ body: A waxy substance (chemically margarate of ammouium or ammonia-cal soap) fo
   in medical jurispru-dence, the substance into which a human cadaver is converted
   which has been buried for a long time in a saturated soil or has lain long in water
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

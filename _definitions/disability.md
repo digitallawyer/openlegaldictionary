@@ -7,5 +7,6 @@ body: The want of legal ability or capacity to exercise legal rights, elther spe
   or powers of free actlon. Berkln v. Marsh, 18 Mont. 152, 44 Pac. 528, 56 Am. SL
   Rep. 565
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

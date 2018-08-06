@@ -10,5 +10,6 @@ body: The action of forcible entry and detainer is a summary proceeding to recov
   forcible assertion of a private right. Gore v. Altice, 33 wash. 335, 74 Pac. 556;
   Eveleth v. Gill, 97 Me. 315, 54 Atl. 757.
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

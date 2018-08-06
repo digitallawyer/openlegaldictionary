@@ -8,5 +8,6 @@ body: In admiralty law, this nautical term means the arrangement or trim of a ve
   as close-hauled, although she is not quite so near to the wind as she could posslbly
   lie. Chadwick v. Packet CoM 6 El. A BL 771
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

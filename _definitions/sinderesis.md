@@ -9,5 +9,6 @@ body: “A natural power of the soul, set in the highest part thereof, moving an
   for it mintstereth the principles of the law of reason, the whlch be In every man
   by na-ture, in that he is a reasonable creature." Doct & Stud. 89
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

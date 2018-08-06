@@ -7,5 +7,6 @@ body: In Anglo Saxon law. The free-men were dlvlded into tWo classes,—thanes n
   The ceorls were men personally free, but possessing no landed property. Guizot,
   Rep. Govt
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

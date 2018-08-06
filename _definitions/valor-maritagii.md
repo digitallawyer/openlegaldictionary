@@ -9,5 +9,6 @@ body: Lat. Value of the marriage. In feudal law, the guardian in chivalry had th
   auy one would bona fide give, to the guardian for such an alliance. 2 Bl. Comm.
   70; Lltt
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

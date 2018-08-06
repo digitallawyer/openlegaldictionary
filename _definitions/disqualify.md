@@ -11,5 +11,6 @@ body: To divest or deprive of qualifications; to incapacitate; to render ineligi
   148 Ind. 362, 47 N. E. 223; In re Nevitt, 117 Fed. 448, 54 C. C. A. 622; State v.
   Blair, 53 VL 28
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---

@@ -6,5 +6,6 @@ body: A sale of goods “free on board” Imports that they are. to be delivered
   the cars, vessels, etc., wlthout expense to the buyer for packing, cartage, or other
   such charges
 published_at: '2018-07-07'
+source: Black's Law Dictionary
 layout: post
 ---
