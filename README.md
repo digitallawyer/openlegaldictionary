@@ -47,6 +47,8 @@ Pull requests are always welcome. To keep things clean, please create a feature 
 
 ## Building
 
+Experimentation and tinkering are encouraged, and there are many ways in which this app and the data pipeline can be optimized. 
+
 - Clone this repository
 - run `bundle install`
 
