@@ -1,6 +1,6 @@
 ---
 title: Venue
-letter: W
+letter: V
 permalink: "/definitions/usc-venue.html"
 body: The geographic area in which a court has jurisdiction. A change of venue is
   a change or transfer of a case from one judicial district to another.
