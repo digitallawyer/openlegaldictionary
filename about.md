@@ -6,7 +6,7 @@ permalink: /about/
 
 # Open Legal Dictionary
 
-Open Legal Dictionary is an open source legal dictionary containing thousands of legal terms and definitions.
+[Open Legal Dictionary](https://www.openlegaldictionary.com) is an open source legal dictionary containing thousands of legal terms and definitions.
 
 This application is hosted on Github Pages, and makes use of:
 
