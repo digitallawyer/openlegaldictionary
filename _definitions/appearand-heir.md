@@ -1,9 +1,0 @@
----
-title: Appearand Heir
-letter: A
-permalink: "/definitions/appearand-heir.html"
-body: In Scotch law. An apparent heir. See Apparent Heib
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

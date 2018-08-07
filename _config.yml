@@ -37,24 +37,27 @@ plugins:
 collections:
   definitions:
     output: true
-    source: definitions.json
+    source: usc.json
     id_key: permalink
     layout: post
 
 algolia:
   application_id: 76PFPDFKM6
-  index_name: InLegalTerms
+  index_name: OpenLegalDictionary
   search_only_api_key: a4a131f9aebae1bcefcf55c017369cbd
   settings:
     searchableAttributes:
       - title
-      - unordered(content)
+      - body
+      - url
+      - letter
+      - source
     customRanking:
       - asc(title)
     attributesToHighlight:
       - title
-      - content
-      - html
+      - body
+      - url
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,9 +1,0 @@
----
-title: Malconna
-letter: M
-permalink: "/definitions/malconna.html"
-body: In Hindu law. A treasury or store-house
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

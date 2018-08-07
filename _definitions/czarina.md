@@ -1,9 +1,0 @@
----
-title: Czarina
-letter: C
-permalink: "/definitions/czarina.html"
-body: The title of the empress bf Russia
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

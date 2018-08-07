@@ -1,6 +1,27 @@
 # Open Legal Dictionary
 
-Legal dictionary containing thousands of legal terms and definitions.
+Open Legal Dictionary is an open source legal dictionary containing thousands of legal terms and definitions.
+
+This application is hosted on Github Pages, and makes use of:
+
+* Jekyll (including various plugins)
+* Algolia ([instantsearch.js](https://community.algolia.com/instantsearch.js/))
+* Google Ngram Viewer ([books.google.com/ngrams](https://books.google.com/ngrams))
+
+Data for the definitions was sourced from:
+
+* Black Law's Dictionary 2nd Edition (2010)
+* The US Courts Glossary ([uscourts.gov/glossary](http://www.uscourts.gov/glossary))
+
+Data from Black Law's Dictionary 2nd Edition still has many issues, including missing records and typo's as a result of the OCR process. Whilst working with this data is not exactly convenient, the effort required was much alleviated as a result of the work of various individuals and organizations:
+
+* LexPredict, which made available a version of Black Law's Dictionary 2nd Edition on Github.
+* Wikisource, which hosts a scanned version of Black Law's Dictionary 2nd Edition with partial validation.
+
+Cleaned up source files can be downloaded from the Github repository of this project:
+
+* US Courts Glossary ([json](http://www.uscourts.gov/glossary)) 
+*
 
 ## Contributing
 
@@ -8,10 +29,11 @@ Legal dictionary containing thousands of legal terms and definitions.
 
 openlegaldictionary.com is an open database of legal definitions. Contributions are welcomed and will be shared with the community at large. To contribute to the legal definitions on openlegaldictionary.com:
 
-- make a copy of definitions.csv
-- make any changes or corrections you'd like
-- make sure to update the date
-- submit a pull request
+- make a clone of this repository
+- make any changes or corrections you'd like to the definition files (usc.json and bld.json)
+- commit your changes and submit a pull request
+
+Not sure where to start but keen to contribute to this open dataset? Contact me via [www.pietergunst.be](https://www.pietergunst.be).
 
 ### Contributing code
 
@@ -19,27 +41,25 @@ Pull requests are always welcome. To keep things clean, please create a feature 
 
 ## Building
 
-- Clone repository
-- `bundle install`
-- `jekyll serve`
+- Clone this repository
+- run `bundle install`
+
+App configuration values are housed in `_config.yml`. Before you proceed,  you'll need to create an algolia account, and update the following values in `_config.yml`:
+
+* `application_id`
+* `index_name`
+* `search_only_api_key`
+
+To import data from one of the dictionaries, point to the dictionary file by updating the `source:` value in `_config.yml`. Note that the `bld,json` file housing the data from Black Law's Dictionary 2nd Edition is quite large, and will require a paying Algolia account to house the entire dataset.
+
+The command to convert the definition file in separate pages, which can subsequently be read by Algolia, is:
+
+`bundle exec jekyll pagemaster definitions`
+
+Once you've imported a dictionary, you can run the application using:
+
+- run `jekyll serve`
+
+Once the application is running, you can run the following command (make sure to replace 'admin-key' with your Algolia admin key.)
+
 - `ALGOLIA_API_KEY='admin-key' jekyll algolia`
-
-To generate:
-
-`jekyll generate`
-
-To import from csv:
-
-~~~~
-
-ruby -rubygems -e 'require "jekyll-import";
-    JekyllImport::Importers::CSV.run({
-      "file" => "sourcefile.csv"
-    })'
-~~~~
-
-## Acknowledgements
-
-This project makes use of [jekyll-algolia][1], which plugs into the default Jekyll theme. Source data is Black Law's dictionary.
-
-[1]: https://community.algolia.com/jekyll-algolia/

@@ -1,9 +1,0 @@
----
-title: Deferred
-letter: D
-permalink: "/definitions/deferred.html"
-body: Delayed; put off; reinand-ed; postponed to a future time
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

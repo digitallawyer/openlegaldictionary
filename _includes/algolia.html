@@ -23,10 +23,13 @@ const hitTemplate = function(hit) {
 
   let body = hit._highlightResult.body.value;
 
+  let source = hit.source;
+
   return `
     <div class="post-item">
       <h2><a class="post-link" href="${url}">${title}</a></h2>
       <div class="post-snippet">${body}</div>
+      <div class="post-meta" style="margin-top: 10px; font-size:12px;"><span class="p-author h-card">Source: ${source}</span></span></div>
     </div>
   `;
 }

@@ -1,9 +1,0 @@
----
-title: Novum Opus
-letter: N
-permalink: "/definitions/novum-opus.html"
-body: Lat. In the civil law. A new work. See Novi opkbis Nunciatio
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

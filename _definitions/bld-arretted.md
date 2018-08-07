@@ -1,0 +1,11 @@
+---
+title: Arretted
+letter: A
+permalink: "/definitions/bld-arretted.html"
+body: 'Charged; charging. The convening a person charged with a crime be-fore a judge.
+  Staundef. I’. C. 45. It is used sometimes for imputed or laid unto: as no folly
+  may be arretted to one under age. Cowell'
+published_at: '2018-07-07'
+source: Black's Law Dictionary 2nd Ed (1910)
+layout: post
+---

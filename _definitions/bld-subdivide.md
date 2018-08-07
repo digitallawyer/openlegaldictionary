@@ -1,0 +1,12 @@
+---
+title: Subdivide
+letter: S
+permalink: "/definitions/bld-subdivide.html"
+body: To divide a part into smaller parts; to separate into smaller divi-slons. As,
+  where an estate is to be taken by some of the heirs per stirpes, it is divided and
+  subdivided according to the number of takers in the nearest degree and those in
+  the more remote degree respectively
+published_at: '2018-07-07'
+source: Black's Law Dictionary 2nd Ed (1910)
+layout: post
+---

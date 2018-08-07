@@ -1,9 +1,0 @@
----
-title: Secular
-letter: S
-permalink: "/definitions/secular.html"
-body: Not spiritnal; not ecclesias-tlcal; relatlng to affairs of the present world
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

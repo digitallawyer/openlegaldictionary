@@ -1,0 +1,17 @@
+---
+title: Nondischargeable debt
+letter: N
+permalink: "/definitions/usc-nondischargeable-debt.html"
+body: A debt that cannot be eliminated in bankruptcy. Examples include a home mortgage,
+  debts for alimony or child support, certain taxes, debts for most government funded
+  or guaranteed educational loans or benefit overpayments, debts arising from death
+  or personal injury caused by driving while intoxicated or under the influence of
+  drugs, and debts for restitution or a criminal fine included in a sentence on the
+  debtor's conviction of a crime. Some debts, such as debts for money or property
+  obtained by false pretenses and debts for fraud or defalcation while acting in a
+  fiduciary capacity may be declared nondischargeable only if a creditor timely files
+  and pUS Cgeabi Gction.
+published_at: '2018-08-06'
+source: http://www.uscourts.gov/glossary
+layout: post
+---

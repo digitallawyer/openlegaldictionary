@@ -1,9 +1,0 @@
----
-title: Caristia
-letter: C
-permalink: "/definitions/caristia.html"
-body: Dearth, scarcity, dearness
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

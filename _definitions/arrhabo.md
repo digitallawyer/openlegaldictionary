@@ -1,9 +1,0 @@
----
-title: Arrhabo
-letter: A
-permalink: "/definitions/arrhabo.html"
-body: In the civil law. Earnest; money given to bind a bargain. Calvin
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

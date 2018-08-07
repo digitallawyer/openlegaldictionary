@@ -1,9 +1,0 @@
----
-title: Imputatio
-letter: I
-permalink: "/definitions/imputatio.html"
-body: LaL In the civil law. Legal llabillty
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

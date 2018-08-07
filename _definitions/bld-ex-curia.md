@@ -1,0 +1,9 @@
+---
+title: Ex Curia
+letter: E
+permalink: "/definitions/bld-ex-curia.html"
+body: Out of court; away from the court
+published_at: '2018-07-07'
+source: Black's Law Dictionary 2nd Ed (1910)
+layout: post
+---

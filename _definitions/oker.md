@@ -1,9 +1,0 @@
----
-title: Oker
-letter: O
-permalink: "/definitions/oker.html"
-body: In Scotch law. Usury; the taking of interest for money, contrary to law. Bell
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

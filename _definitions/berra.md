@@ -1,9 +1,0 @@
----
-title: Berra
-letter: B
-permalink: "/definitions/berra.html"
-body: In old law. A plain; open heath. Cowell
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

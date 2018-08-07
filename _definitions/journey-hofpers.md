@@ -1,9 +1,0 @@
----
-title: Journey-Hofpers
-letter: J
-permalink: "/definitions/journey-hofpers.html"
-body: In English law. Regrators of yam. 8 Hen. VI. c. 5
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----

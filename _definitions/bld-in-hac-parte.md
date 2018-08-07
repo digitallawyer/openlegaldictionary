@@ -1,0 +1,9 @@
+---
+title: In Hac Parte
+letter: I
+permalink: "/definitions/bld-in-hac-parte.html"
+body: In this behalf; on this side
+published_at: '2018-07-07'
+source: Black's Law Dictionary 2nd Ed (1910)
+layout: post
+---

@@ -1,9 +1,0 @@
----
-title: Lacta
-letter: L
-permalink: "/definitions/lacta-2.html"
-body: L. Lat. In old English law. Defect in the weight of money; lack of
-published_at: '2018-07-07'
-source: Black's Law Dictionary
-layout: post
----
