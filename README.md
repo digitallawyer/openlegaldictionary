@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # Open Legal Dictionary
 
 Open Legal Dictionary is an open source legal dictionary containing thousands of legal terms and definitions.
@@ -15,13 +21,13 @@ Data for the definitions was sourced from:
 
 Data from Black Law's Dictionary 2nd Edition still has many issues, including missing records and typo's as a result of the OCR process. Whilst working with this data is not exactly convenient, the effort required was much alleviated as a result of the work of various individuals and organizations:
 
-* LexPredict, which made available a version of Black Law's Dictionary 2nd Edition on Github.
-* Wikisource, which hosts a scanned version of Black Law's Dictionary 2nd Edition with partial validation.
+* [LexPredict](https://www.lexpredict.com), which made available a version of Black Law's Dictionary 2nd Edition [on Github](https://github.com/LexPredict/lexpredict-legal-dictionary).
+* [Wikisource](https://en.wikisource.org/), which hosts a [scanned version](https://en.wikisource.org/wiki/Index:Black%27s_Law_Dictionary_(Second_Edition).djvu) of Black Law's Dictionary 2nd Edition with partial validation.
 
 Cleaned up source files can be downloaded from the Github repository of this project:
 
-* US Courts Glossary ([json](http://www.uscourts.gov/glossary)) 
-*
+* US Courts Glossary ([json](https://github.com/digitallawyer/openlegaldictionary/blob/master/_data/usc.json)) 
+* Black Law's Dictionary 2nd Edition (2010) ([json](https://github.com/digitallawyer/openlegaldictionary/blob/master/_data/bld.json)) 
 
 ## Contributing
 
@@ -60,6 +66,6 @@ Once you've imported a dictionary, you can run the application using:
 
 - run `jekyll serve`
 
-Once the application is running, you can run the following command (make sure to replace 'admin-key' with your Algolia admin key.)
+Once the application is running, you can run the following command (make sure to replace 'admin-key' with your Algolia admin key) to sync the definitions you imported with Algolia. 
 
 - `ALGOLIA_API_KEY='admin-key' jekyll algolia`
