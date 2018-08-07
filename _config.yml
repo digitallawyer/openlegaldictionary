@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   An Open Legal Dictionary containing thousands of legal terms and definitions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.openlegaldictionary.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: openlegaldictionary
+twitter_username:
 github_username:  
 
 # Google Analytics
@@ -37,7 +37,7 @@ plugins:
 collections:
   definitions:
     output: true
-    source: usc.json
+    source: old.json
     id_key: permalink
     layout: post
 

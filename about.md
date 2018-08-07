@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# Open Legal Dictionary
-
 [Open Legal Dictionary](https://www.openlegaldictionary.com) is an open source legal dictionary containing thousands of legal terms and definitions.
 
-This application is hosted on Github Pages, and makes use of:
+The code for this app is available on [Github](https://github.com/digitallawyer/openlegaldictionary). This app is hosted on Github Pages, and makes use of:
 
 * Jekyll (including various plugins)
 * Algolia ([instantsearch.js](https://community.algolia.com/instantsearch.js/))
