@@ -50,7 +50,7 @@ App configuration values are housed in `_config.yml`. Before you proceed,  you'l
 * `index_name`
 * `search_only_api_key`
 
-To import data from one of the dictionaries, point to the dictionary file by updating the `source:` value in `_config.yml`. Note that the `bld,json` file housing the data from Black Law's Dictionary 2nd Edition is quite large, and will require a paying Algolia account to house the entire dataset.
+To import data from one of the dictionaries, point to the dictionary file by updating the `source:` value in `_config.yml`. Note that the `bld.json` file housing the data from Black Law's Dictionary 2nd Edition is quite large, and will require a paying Algolia account to house the entire dataset.
 
 The command to convert the definition file in separate pages, which can subsequently be read by Algolia, is:
 
